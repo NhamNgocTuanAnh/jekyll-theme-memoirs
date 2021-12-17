@@ -14,7 +14,8 @@ rating: 4.5
 Giống Pitago và Newton, Leonardo da Vinci phần lớn cuộc đời ăn chay (thảng hoặc có ăn cá); \\
 Napoleon thích ăn trứng gà, salát, mỳ gà, thịt bò, thịt cừu và gia cầm. 
 
-Ăn nhiều thịt mầu đỏ và fast food có thể trở nên hung hãn. Nếu bạn là một người nhút nhát. Tại sao bạn không thử tăng liều lượng những thực phẩm này lên. Một miếng hotdog có vẻ không đủ đâu, gấp 3 đi. Thịt nướng, thịt rán đang trên chảo kìa, gắp thêm, gắp thêm đi. Nhưng hãy nhớ rằng thịt mầu đỏ và fast food rất không tốt cho sức khỏe bạn nên hạn chế ;>
+>>Ăn nhiều thịt mầu đỏ và fast food có thể trở nên hung hãn. \\
+Nếu bạn là một người nhút nhát. Tại sao bạn không thử tăng liều lượng những thực phẩm này lên. Một miếng hotdog có vẻ không đủ đâu, gấp 3 đi. Thịt nướng, thịt rán đang trên chảo kìa, gắp thêm, gắp thêm đi. Nhưng hãy nhớ rằng thịt mầu đỏ và fast food rất không tốt cho sức khỏe bạn nên hạn chế ;>
 
 ***Người dễ cáu gắt, kích động:*** Bạn hấp thụ quá nhiều chất muối, đường, trong khi cơ thể lại thiếu đạm và canxi. Điều đó khiến bạn trở nên dễ bị kích động, nổi nóng. Cách ăn: Để sửa đổi tính cách này, trước tiên bạn cần giảm bớt lượng tiêu thụ chất muối, đường, bớt ăn quà vặt. Nên ăn thực phẩm giàu canxi như sữa, trứng, cá biển, rau xanh... Bạn sẽ thấy tính khí dịu sau 1 - 2 tuần thực hiện chế độ này.
 
@@ -32,14 +33,9 @@ Napoleon thích ăn trứng gà, salát, mỳ gà, thịt bò, thịt cừu và 
 
 ***Người có tính cực đoan, coi mình luôn là trọng tâm:*** Thói quen ăn uống tùy tiện, khi thì kiêng khem quá độ, lúc lại tiệc tùng linh đình, sẽ làm cho tính cách trở nên cực đoan. Đặc biệt, những người hay ăn ngọt, trông phát tướng, có khuynh hướng thiếu canxi, vitamin thì tính cách thường nôn nóng. Cách ăn: Bạn cần bớt ăn ngọt, ưu tiên cá, thịt, rau xanh, cà rốt nhưng tuyệt đối không ăn mặn.
 
-> Ăn gì, một khi…
+> Hãy nhớ\\
 1- Rơi vào trạng thái buồn rầu: Sôcôla, chuối, lê - phát huy tác dụng giúp cơ thể gia tăng sản xuất serotonin và endorfine – những hoóc-môn cải thiện phong độ tình cảm.\\
 2- Bị stress: Ăn hạt bí, hạt hướng dương - giầu magiê, nguyên tố vi lượng loại bỏ stress.\\
 3- Hay cáu giận: Ăn trứng gà – giầu triptofan và vitamin B2 phát huy tác dụng xoa dịu và an thần.
 
-
-Following a renovation of the hotel in 1981–85, the restaurant occupied a former private ballroom with windows looking out on the Place de la Concorde, a few hundred meters from the Palais Garnier. 
-
-Les Ambassadeurs had two Michelin stars. In the last decade of its operation, chef was Dominique Bouchet  followed by Jean-François Piège and finally when the hotel closed in 2013 for an extended renovation, Christopher Hache.
-
-In 2017 Hache opened a smaller restaurant, L'Écrin, within the renovated hotel; the former space of Les Ambassadeurs became a bar.
+Các bạn có thể thấy có vẻ mình rất kỳ thị thực phẩm nhiều đường, cùng với đó là thịt đỏ. Mình có lý giải chi tiết ở bài viết này.
