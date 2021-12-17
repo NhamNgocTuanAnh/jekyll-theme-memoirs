@@ -110,6 +110,14 @@ webp:
   append_ext: false
 ############################################################
 
+#sitemap
+gem: - jekyll-sitemap
+
+sitemap:
+  lastmod: 2014-01-23
+  priority: 0.7
+  changefreq: 'monthly'
+  exclude: 'yes'
 # Post Author Box ("enabled" or "disabled")
 authorbox: "enabled"
 
