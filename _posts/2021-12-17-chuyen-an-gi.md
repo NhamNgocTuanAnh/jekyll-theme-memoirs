@@ -11,13 +11,13 @@ rating: 4.5
 > Chúng ta là những gì mà chúng ta ăn vào. 
 Thực vậy, thực phẩm có tác động trực tiếp tới sự hoạt động của não bộ chúng ta. Hơn nữa, chúng còn ảnh hưởng tới cảm xúc, độ căng thẳng,... Vậy, hãy đảm bảo bạn biết chắc chắn nên ăn gì và khi nào. 
 
-### Bữa ăn sáng
+### ***Bữa sáng***
 
 Thật tốt với một lát bánh mỳ, chèn trên là một miếng thịt lợn nướng to đùng và một phần đậu phải không nào? NÓi đến đây tôi đã thèm lắm rùi. Nhưng bạn ơi, ngồi xuốn uống miếng trà nào. Tại sao chúng ta không chọn ngũ cốc nguyên hạt, thứ mà sẽ cung cấp cho bạn và tôi một nguồn năng lượng từ carbs một cách đầy đủ. Điều thú vị là carbs này sẽ hỗ trợ não khi chúng được chuyển hóa thành đường. Não của chúng ta sẽ đáp lại bằng dopamine và serotonin (các hormone hạnh phúc), điều này sẽ thúc đẩy tâm trạng của bạn và mang lại “điều tốt lành”. Và tin tôi đi bạn sẽ không cảm thấy yếu ớt hoặc mệt mỏi trong cả ngày!
 
 Ngoài ra bạn hãy với tay lấy một ly sinh tố từ đậu nành, lúa mỳ, trái cây và yến mạch nhé.
 
-### Bữa trưa
+### ***Bữa trưa***
 
 Phải cung cấp đủ năng lượng cho cả ngày!\\
 Phải cung cấp năng lượng cho cả ngày!\\
@@ -37,7 +37,7 @@ Hãy để ý tới hơi thở
 
 > Tỏi, hành tây, mắm tôm,... có rất nhiều thứ sẽ khiến hôi miệng. Đừng quên mang kẹo cao su nhé ;)
 
-### Bữa tối
+### ***Bữa tối***
 
 Đến giờ ăn tối rồi! Vậy là thời khắc trọng đại đã đến! Bạn đã cẩn thận lựa chọn những gì bạn đã ăn cả ngày và hơi thở của bạn thơm hơn không khí… bạn nên gọi món gì? 
 
