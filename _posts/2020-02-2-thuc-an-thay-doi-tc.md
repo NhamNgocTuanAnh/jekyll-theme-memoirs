@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Les Ambassadeurs, the first Restaurant we Visited in Paris"
+title:  "Thức ăn thay đổi tính cách"
 author: sal
-categories: [ Lifestyle ]
-tags: [ France ]
+categories: [ Ăn uống, Sức khỏe ]
+tags: [ Ăn, Dinh dưỡng ]
 image: assets/images/2.jpg
 rating: 4.5
 ---
 
-Within the Hôtel de Crillon, which was built in 1758, Les Ambassadeurs operated as a restaurant since the mid-19th century. It reached its peak of fame as a restaurant and nightclub (a café-concert) in the last three decades of the 19th century. 
+Ăn uống là một trong những bản năng quan trọng nhất của con người. Nói ăn uống cần thiết đối với sức khoẻ hầu như đó là một chân lí hiển nhiên. Thế nhưng ăn uống có ảnh hưởng đến tâm tính con người hay không lại là câu hỏi không dễ tìm lời giải đáp. 
 
 Always a center of entertainment for the aristocracy, in the 1870s it also became a regular destination of some of the best known figures of art and the demi-monde. Edgar Degas and Henri de Toulouse-Lautrec portrayed visitors at the night club, and Aristide Bruant performed there.
 
