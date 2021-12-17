@@ -16,6 +16,14 @@ Thật tốt với một lát bánh mỳ, chèn trên là một miếng thịt l
 
 Ngoài ra bạn hãy với tay lấy một ly sinh tố từ đậu nành, lúa mỳ, trái cây và yến mạch nhé.
 
+Thế còn Bữa trưa
+Phải cung cấp đủ năng lượng cho cả ngày!
+Phải cung cấp năng lượng cho cả ngày!
+Phải ...
+
+Thật cám dỗ phải không?!
+Nhưng đừng, "Căng da bụng, chùng da mắt". Ăn nhiều vào giờ ăn trưa có thể khiến bạn cảm thấy uể oải hơn nữa có thể gây ra tình trạng rối loạn tinh thần! 
+
 > It was decorated in an 18th-century rococo style, redesigned by Sybille de Margérie with furnishings by Sonia Rykiel.
 
 Following a renovation of the hotel in 1981–85, the restaurant occupied a former private ballroom with windows looking out on the Place de la Concorde, a few hundred meters from the Palais Garnier. 
