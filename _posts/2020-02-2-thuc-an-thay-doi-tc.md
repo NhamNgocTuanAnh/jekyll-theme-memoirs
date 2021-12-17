@@ -4,7 +4,7 @@ title:  "Thức ăn thay đổi tính cách"
 author: sal
 categories: [ Ăn uống, Sức khỏe ]
 tags: [ Ăn, Dinh dưỡng ]
-image: assets/images/2.jpg
+image: assets/images/odFocus_FoodGuide.webp
 rating: 4.5
 ---
 
@@ -14,7 +14,7 @@ rating: 4.5
 Giống Pitago và Newton, Leonardo da Vinci phần lớn cuộc đời ăn chay (thảng hoặc có ăn cá); \\
 Napoleon thích ăn trứng gà, salát, mỳ gà, thịt bò, thịt cừu và gia cầm. 
 
-Ăn nhiều thịt mầu đỏ và fast food có thể trở nên hung hãn. Nếu bạn là một người nhút nhát. Tại sao bạn không thử tăng liều lượng những thực phẩm này lên. Một miếng hotdog có vẻ không đủ đâu, gấp 3 đi. Thịt nướng, thịt rán đang trên chảo kìa, gắp thêm, gắp thêm đi. Nhưng hãy nhớ rằng thịt mầu đỏ và fast food rất không tốt cho sức khỏe bạn nên bạn chế ;>
+Ăn nhiều thịt mầu đỏ và fast food có thể trở nên hung hãn. Nếu bạn là một người nhút nhát. Tại sao bạn không thử tăng liều lượng những thực phẩm này lên. Một miếng hotdog có vẻ không đủ đâu, gấp 3 đi. Thịt nướng, thịt rán đang trên chảo kìa, gắp thêm, gắp thêm đi. Nhưng hãy nhớ rằng thịt mầu đỏ và fast food rất không tốt cho sức khỏe bạn nên hạn chế ;>
 
 ***Người dễ cáu gắt, kích động:*** Bạn hấp thụ quá nhiều chất muối, đường, trong khi cơ thể lại thiếu đạm và canxi. Điều đó khiến bạn trở nên dễ bị kích động, nổi nóng. Cách ăn: Để sửa đổi tính cách này, trước tiên bạn cần giảm bớt lượng tiêu thụ chất muối, đường, bớt ăn quà vặt. Nên ăn thực phẩm giàu canxi như sữa, trứng, cá biển, rau xanh... Bạn sẽ thấy tính khí dịu sau 1 - 2 tuần thực hiện chế độ này.
 
