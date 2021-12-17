@@ -4,7 +4,7 @@ title:  "Chuyện ăn gì"
 author: Đô Đô
 categories: [ Lifestyle ]
 tags: [ France ]
-image: assets/images/thuc-pham-tot-cho-bab
+image: assets/images/thuc-pham-tot.webp
 rating: 4.5
 ---
 
