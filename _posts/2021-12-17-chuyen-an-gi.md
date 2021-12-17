@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Chuyện ăn gì"
-author: Đô Đô
-categories: [ Lifestyle ]
-tags: [ France ]
+author: sal
+categories: [ Sức khỏe ]
+tags: [ Ăn, Đồ ăn, Dinh dưỡng ]
 image: assets/images/thuc-pham-tot.webp
 rating: 4.5
 ---
