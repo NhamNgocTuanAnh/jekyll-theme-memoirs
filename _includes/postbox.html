@@ -48,6 +48,7 @@
     </div>
 </div> -->
 
-<a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+<a class="post-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}<br/>
+    <small class="post-date">{{ post.date | date_to_string }}</small></a>
 
 <!-- end post -->
