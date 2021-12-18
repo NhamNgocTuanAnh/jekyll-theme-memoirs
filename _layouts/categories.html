@@ -6,19 +6,23 @@ permalink: "/categories.html"
 <div>
     <h1>Categories </h1>
     <hr/>
-    {% for category in site.categories %}
-    <h2 class="mt-5 mb-neg-30" id="{{ category[0] | replace: " ","-" }}"><span class="text-capitalize badge badge-primary text-small">{{ category[0] }}</span></h2>
-    <div class="blog-grid-container">
-    {% assign pages_list = category[1] %}
-    {% for post in pages_list %}
-    {% if post.title != null %}
-    {% if group == null or group == post.group %}
-    {% include postlist.html %}
-    {% endif %}
-    {% endif %}
-    {% endfor %}
-    {% assign pages_list = nil %}
-    {% assign group = nil %}
+    <div class ="tags-expo-section">
+        {% for category in site.categories %}
+        <h2 class="mt-5 mb-neg-30" id="{{ category[0] | replace: " ","-" }}"><span class="text-capitalize badge badge-primary text-small">{{ category[0] }}</span></h2>
+        <!-- <div class="blog-grid-container"> -->
+        <ul class="tags-expo-posts">
+        {% assign pages_list = category[1] %}
+        {% for post in pages_list %}
+        {% if post.title != null %}
+        {% if group == null or group == post.group %}
+        {% include postlist.html %}
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+        {% assign pages_list = nil %}
+        {% assign group = nil %}
+        <!-- </div> -->
+        </ul>
+        {% endfor %}
     </div>
-    {% endfor %}
 </div>
