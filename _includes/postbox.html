@@ -1,7 +1,7 @@
 <!-- begin post -->
 {% assign author = site.authors[post.author] %}
 
-<!-- <div class="blog-grid-item">
+<div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
             <a href="{{ site.baseurl }}{{ post.url }}">
@@ -18,7 +18,7 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">Thử xem {{ post.title }}</a>
                 {% if post.rating %}
                 <div class="mb-2 mt-2 font-weight-normal">
                 {% include star_rating_postbox.html %}
@@ -46,18 +46,5 @@
             </div>
         </div>
     </div>
-</div> -->
-<!-- <div>
-    <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}<br />
-    <small class="post-date">{{ post.date | date_to_string }}</small>
-    </a>
-</div> -->
-<h2 class="card-title">
-    <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    {% if post.rating %}
-    <div class="mb-2 mt-2 font-weight-normal">
-    {% include star_rating_postbox.html %}
-    </div>
-    {% endif %}
-</h2>
+</div>
 <!-- end post -->
