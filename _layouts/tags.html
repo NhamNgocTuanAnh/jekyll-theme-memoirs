@@ -5,26 +5,17 @@ permalink: "/tags.html"
 ---
 
 {% for tag in site.tags %}
-<h2 class="mt-5 mb-neg-30" id="{{ tag[0] | replace: " ","-" }}"><span class="text-capitalize text-small badge badge-primary">{{ tag[0] }}</span></h2>
-<!-- <div class="blog-grid-container"> -->
-<hr/>
-<ul class="tags-expo-posts">
+<h4 class="mt-5 mb-neg-30" id="{{ tag[0] | replace: " ","-" }}"><span class="text-capitalize text-small badge badge-primary">{{ tag[0] }}</span></h4>
+<div class="blog-grid-container">
 {% assign pages_list = tag[1] %}
 {% for post in pages_list %}
 {% if post.title != null %}
 {% if group == null or group == post.group %}
-{% include postlist.html %}
-<!-- {% if page.url == post.url >
-    <li class="active"><a href="{{post.url}}" class="active">{{post.title}}</a></li>
-    {% else >
-    <li><a href="{{post.url}}">{{post.title}}</a></li>
-{% endif > -->
-
+{% include postbox.html %}
 {% endif %}
 {% endif %}
 {% endfor %}
 {% assign pages_list = nil %}
 {% assign group = nil %}
-<!-- </div> -->
-<ul/>
+</div>
 {% endfor %}
