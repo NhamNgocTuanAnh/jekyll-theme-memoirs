@@ -37,7 +37,7 @@ authors:
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
@@ -112,16 +112,16 @@ webp:
 ############################################################
 comments: true
 #sitemap
-sitemap:
-  filename: "/sitemap.xml"
-  exclude:
-      - "/atom.xml"
-      - "/feed.xml"
-      - "/feed/index.xml"
-  include_posts:
-      - "/index.html"
-  change_frequency_name: "change_frequency"
-  priority_name: "priority"
+# sitemap:
+#   filename: "/sitemap.xml"
+#   exclude:
+#       - "/atom.xml"
+#       - "/feed.xml"
+#       - "/feed/index.xml"
+#   include_posts:
+#       - "/index.html"
+#   change_frequency_name: "change_frequency"
+#   priority_name: "priority"
 
 authorbox: "enabled"
 
