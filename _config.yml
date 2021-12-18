@@ -112,14 +112,17 @@ webp:
 ############################################################
 comments: true
 #sitemap
-# gem: - jekyll-sitemap
+sitemap:
+  filename: "/sitemap.xml"
+  exclude:
+      - "/atom.xml"
+      - "/feed.xml"
+      - "/feed/index.xml"
+  include_posts:
+      - "/index.html"
+  change_frequency_name: "change_frequency"
+  priority_name: "priority"
 
-# sitemap:
-#   lastmod: 2014-01-23
-#   priority: 0.7
-#   changefreq: 'monthly'
-#   exclude: 'yes'
-# Post Author Box ("enabled" or "disabled")
 authorbox: "enabled"
 
 # Sass
