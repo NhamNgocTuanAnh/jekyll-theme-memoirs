@@ -7,7 +7,7 @@ comments: false
 imageshadow: true
 ---
 
-[![Jason Lengstorf has a lot of ideas.](assets/images/screenshot.jpg)](https://www.jason.af)
+[![Jason Lengstorf has a lot of ideas.](https://res.cloudinary.com/jlengstorf/image/upload/f_auto,g_auto/v1593579116/jason.af/og-image.jpg)](https://www.jason.af)
 
 Hi. Tôi là lập trình viên backend. Với đam mê chụp ảnh, lập trình và đi chơi. Tôi xây dựng blog với mục đích là chia sẻ kinh nghiêm coder, cuộc sống thường ngày và sức khỏe cho developer .
 
