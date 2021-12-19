@@ -16,12 +16,6 @@ Với công việc toàn thời gian là lập trình viên backend. Nội dung 
 
 ---
 
-[Getting Started](https://www.notion.so/Getting-Started-047238ff05c746cca0e235b0c598530b)
-
-[Engineering Guidelines](https://www.notion.so/Engineering-Guidelines-da43347275d74bbea3665856a9fc56aa)
-
-[Development Lifecycle ](https://www.notion.so/Development-Lifecycle-2ecd6c7a406d4394871a10d346e6715b)
-
 [How to Deploy](https://www.notion.so/How-to-Deploy-10f566a77ec2469db9f8a0c3f0270296)
 
 [Useful Commands](https://www.notion.so/Useful-Commands-79d9560784d94fc791d257ceac2a9f88)
