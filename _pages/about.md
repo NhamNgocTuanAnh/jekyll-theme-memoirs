@@ -38,4 +38,4 @@ Ngoài công việc, chúng ta cần quan tâm tới yếu tố sức khỏe. v�
 
 ---
 
-<small>If you say you can't do it. You're right</small>
+> If you say you can't do it. You're right
