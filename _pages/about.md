@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: Cuộc sống và công việc là không thể tác rời. Nhưng đôi khi ta đã đắm chìm nhiều vào công việc mà quên mất đi các khía cạnh của cuộc sống.
 permalink: /about
 comments: false
 # image: assets/images/screenshot.jpg
