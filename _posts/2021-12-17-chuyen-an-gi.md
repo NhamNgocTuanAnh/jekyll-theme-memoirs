@@ -6,6 +6,7 @@ categories: [ Sức khỏe ]
 tags: [ Ăn, Đồ ăn, Dinh dưỡng ]
 image: assets/images/thuc-pham-tot.webp
 rating: 4.5
+comments: true
 ---
 
 > Chúng ta là những gì mà chúng ta ăn vào. 
