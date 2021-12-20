@@ -16,9 +16,7 @@ Không thể phủ nhận lợi ích của trái cây mang lại cho cơ thể c
 Ngày nay với sự phát triển vượt trội của khoa học công nghệ, chúng ta có thể thưởng thức mọi loại trái cây yêu thích trong suốt cả năm mà không cần phải chờ đúng mùa, đặc biệt là các loại trái cây nhập khẩu. Tuy nhiên, bổ sung trực tiếp trái cây theo đúng mùa vụ của nó luôn là điều được các chuyên gia dinh dưỡng khuyên dùng.
 
 - Trái cây đúng mùa có giá trị dinh dưỡng cao
-
 - Trái cây đúng vụ có độ an toàn cao: Đương nhiên rồi, đúng mùa trái cây mới thụ phấn và cho quả. Sự phát triển hoàn toàn tự nhiên theo quy luật của tự nhiên. Nếu trái vụ, người trồng cần tốn rất nhiều công sức và tăng kích thích thúc đẩy cây cho quả. Việc kích thích cho quả sẽ lạm dụng nhiều phân bón hay chất hoá học, giúp cây có quả và tránh nhiều sâu bệnh cũng như tổn thương do điều kiện thời tiết trái mùa.
-
 - Trái cây đúng mùa có hương vị thơm ngon hơn
 - Trái cây theo mùa dễ tìm dễ mua
 - Trái cây đúng mùa có giá mềm hơn
