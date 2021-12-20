@@ -9,7 +9,7 @@ image: assets/images/trai-cay-theo-mua.jpg
 
 Không thể phủ nhận lợi ích của trái cây mang lại cho cơ thể chúng ta. Trái cây nhập khẩu đang ngày càng được ưa chuộng tại Việt Nam. Đặc biệt các loại trái cây nhập khẩu ngày càng đa dạng và phong phú về chủng loại, hình thức mẫu mã vô cùng bắt mắt, và không thể không kể đến nguồn dinh dưỡng dồi dào có trong những thức quả ngon lành.
 
-### Ăn đúng lúc 
+### I. Ăn đúng lúc 
 #### Ăn khi nào
 - 10 phút trước khi ăn sáng: Các loại trái cây thích hợp nhất để ăn: Táo, lê, nho. Trái cây không nên ăn: Cà chua bi, cam, táo gai, chuối, hồng.
 - Một giờ sau bữa ăn: Các loại trái cây thích hợp nhất để ăn: Dứa, đu đủ, kiwi, cam, táo gai. phân hủy protein trong thịt; thể thúc đẩy sự phân hủy chất béo và giúp tiêu hóa.
@@ -21,7 +21,7 @@ Trái cây không nên ăn: Anh đào, nho, bơ, sầu riêng, măng cụt.
 - Trước khi đi ngủ
 - Không nên ăn hoa quả trong bữa ăn
 
-### Theo mùa
+### II.Theo mùa
 
 Ngày nay với sự phát triển vượt trội của khoa học công nghệ, chúng ta có thể thưởng thức mọi loại trái cây yêu thích trong suốt cả năm mà không cần phải chờ đúng mùa, đặc biệt là các loại trái cây nhập khẩu. Tuy nhiên, bổ sung trực tiếp trái cây theo đúng mùa vụ của nó luôn là điều được các chuyên gia dinh dưỡng khuyên dùng.
 
