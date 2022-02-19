@@ -19,7 +19,7 @@ Với hàng chục ngàn năm tiến hóa và hàng chục cơ nhỏ bên dướ
 [1. Giới thiệu](#gioithieu)\\
 [2. Phân tích bài toán](#phantichbaitoan)\\
 [3. Mô hình ](#mohinhdexuat)\\
-[4. Kết quả mong muốn](#trichdan,bochu)\\
+[4. Kết quả ](#ketqua)\\
 *********************************
 
 <a name="gioithieu"></a>
@@ -57,6 +57,12 @@ Dữ liệu FER-2013 được công bố bởi trang Kaggle trong khuôn khổ w
 gồm các ảnh đa cấp xám cỡ 48x48 chỉ gồm khuôn mặt hầu như được căn giữa ảnh và tỉ lệ khuôn mặt được điều chỉnh chiếm phần lớn diện tích của ảnh. Bộ dữ liệu này gồm 35k ảnh. Mỗi ảnh sẽ được gán nhãn nằm một trong bảy loại cảm xúc giá trị từ 0 đến 6 (0: giận dữ, 1: căm phẫn, 2: sợ hãi, 3: hạnh phúc, 4: buồn rầu, 5: bất ngờ, 6: trung lập).
 
 ![image](/assets/images/fer-2013.webp){:class="img-responsive"}
+3. **Xử lý ảnh**
+4. **Đào tạo mô hình**
+
+<a name="ketqua"></a>
+
+### 4. Kết quả
 
 ### ***Bữa sáng***
 
