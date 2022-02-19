@@ -7,7 +7,7 @@ comments: false
 imageshadow: true
 ---
 
-[![Đô Đô has a lot of ideas.](/assets/images/mine.webp)](https://www.facebook.com/nntatlu/){:class="img-responsive"}
+[![Đô Đô has a lot of ideas.](/assets/images/mine-introdu.webp)](https://www.facebook.com/nntatlu/){:class="img-responsive"}
 
 Hi. Tôi là lập trình viên backend. Với đam mê chụp ảnh, lập trình và đi chơi. Tôi xây dựng blog với mục đích là chia sẻ kinh nghiêm coder, cuộc sống thường ngày và sức khỏe cho developer .
 
