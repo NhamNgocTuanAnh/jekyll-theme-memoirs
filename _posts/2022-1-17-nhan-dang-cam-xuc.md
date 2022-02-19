@@ -19,7 +19,7 @@ Với hàng chục ngàn năm tiến hóa và hàng chục cơ nhỏ bên dướ
 [1. Giới thiệu](#gioithieu)\\
 [2. Phân tích bài toán](#phantichbaitoan)\\
 [3. Mô hình ](#mohinhdexuat)\\
-[4. Kết quả ](#ketqua)\\
+[4. Triển khai ](#trienkhai)\\
 *********************************
 
 <a name="gioithieu"></a>
@@ -58,44 +58,27 @@ gồm các ảnh đa cấp xám cỡ 48x48 chỉ gồm khuôn mặt hầu như �
 
 ![image](/assets/images/fer-2013.webp){:class="img-responsive"}
 
-3. **Xử lý ảnh**
+3. **Tăng cường dữ liệu**
 ![image](/assets/images/Image-Data-Generator.webp){:class="img-responsive"}
    
-
+Như đã nói ở trên, dữ liệu đóng vai trò quan trọng nhất trong việc thành bại của bài toán. Nhưng không phải lúc nào ta cũng được tiếp cận tới các nguồn dữ liệu lớn. Nên ta sẽ phải Data Augment , tạm dịch Tăng Cường Dữ liệu.
 4. **Đào tạo mô hình**
 
-<a name="ketqua"></a>
+<a name="trienkhai"></a>
 
-### 4. Kết quả
+### 4. Triển khai
+Để triển khai huấn luyện và thử nghiệm mô hình đề xuất, ngôn ngữ Python và thư viện Keras/TensorFlow được
+sử dụng cho việc xây dựng mô hình mạng CNN. Dữ liệu FER-2013 được tiền xử lý , sinh thêm ảnh, ngoại trừ việc chuyển đổi đa cấp xám từ dạng số nguyên 0 đến 255 về miền số thực [0, 1] nhằm hỗ trợ tốt hơn cho dữ liệu đầu vào của mạng tích chập.
+Ngôn ngữ Python kết hợp thêm OpenCV cũng được sử dụng để viết chương trình minh họa hỗ trợ cho việc xử
+lý dữ liệu đầu vào từ webcam/camera.
+1. **Với ảnh**
+   
+```
+1. Ảnh đầu vào được chuyển thành đa cấp xám;
+2. Dùng haar cascade (OpenCV) tìm kiếm vùng mặt người trên ảnh đầu vào;
+3. Vùng ảnh mặt người được chuyển đổi về kích thước 48x48;
+4. Ảnh 48x48 đa cấp xám chuyển đổi về miền [0, 1] sau đó đưa vào mô hình CNN;
+5. Đầu ra của CNN là xác suất của các cảm xúc, chọn cảm xúc có xác xuất cao nhất làm kết quả cuối cùng.
+```
 
-### ***Bữa sáng***
-
-Thật tốt với một lát bánh mỳ, chèn trên là một miếng thịt lợn nướng to đùng và một phần đậu phải không nào? NÓi đến đây tôi đã thèm lắm rùi. Nhưng bạn ơi, ngồi xuốn uống miếng trà nào. Tại sao chúng ta không chọn ngũ cốc nguyên hạt, thứ mà sẽ cung cấp cho bạn và tôi một nguồn năng lượng từ carbs một cách đầy đủ. Điều thú vị là carbs này sẽ hỗ trợ não khi chúng được chuyển hóa thành đường. Não của chúng ta sẽ đáp lại bằng dopamine và serotonin (các hormone hạnh phúc), điều này sẽ thúc đẩy tâm trạng của bạn và mang lại “điều tốt lành”. Và tin tôi đi bạn sẽ không cảm thấy yếu ớt hoặc mệt mỏi trong cả ngày!
-
-Ngoài ra bạn hãy với tay lấy một ly sinh tố từ đậu nành, lúa mỳ, trái cây và yến mạch nhé.
-
-### ***Bữa trưa***
-
-Phải cung cấp đủ năng lượng cho cả ngày!\\
-Phải cung cấp năng lượng cho cả ngày!\\
-Phải ...
-
-Thật cám dỗ phải không?!\\
-Nhưng đừng, "Căng da bụng, chùng da mắt". Ăn nhiều vào giờ ăn trưa có thể khiến bạn cảm thấy uể oải hơn nữa có thể gây ra tình trạng rối loạn tinh thần! 
-
-Bạn nên ăn Bánh mỳ, ngũ cốc hoặc thịt, cá, trứng với salad.\\
-Có một lưu ý nhỏ tôi không khuyên bạn ăn Protein với tinh bột. Tại sao không nên ăn tinh bột với protein
-
-Phù, vậy đã qua được buổi chưa, nhưng ôi thôi, uể oải vào buổi chiều dễ đưa chúng ta tới tà tưa (trà sữa) hoặc các đồ ăn nhẹ. Chúng rất hấp dẫn vì đường chứa đầy trong chúng. Điều đó khiến tình trạng mệt mỏi có thể xảy ra tồi tệ hơn. Sếp đằng sau lưng bạn đó. Khò khò.
-
-> Bạn có thể ăn chuối hoặc táo, những loại trái cây tuy đơn giản nhưng trong các nghiên cứu gần đây chỉ ra rằng chúng mạnh mẽ như nước tăng lực vậy.
-
-Hãy để ý tới hơi thở
-
-> Tỏi, hành tây, mắm tôm,... có rất nhiều thứ sẽ khiến hôi miệng. Đừng quên mang kẹo cao su nhé ;)
-
-### ***Bữa tối***
-
-Đến giờ ăn tối rồi! Vậy là thời khắc trọng đại đã đến! Bạn đã cẩn thận lựa chọn những gì bạn đã ăn cả ngày và hơi thở của bạn thơm hơn không khí… bạn nên gọi món gì? 
-
-Giờ nếu tôi nói rằng thời điểm tối là thời điểm cơ thể nghỉ ngơi, tại sao bạn không cho dạ dày bạn nghỉ ngơi thì thật có lỗi =)). Nhưng thật vậy, thức ăn cần đến 8 tiếng để tiêu hóa hết trong cơ thể. Vậy
+2. **Với video**
