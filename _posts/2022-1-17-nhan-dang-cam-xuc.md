@@ -53,6 +53,11 @@ Mục đích huấn luyện là để tạo ra một mô hình chuẩn xác, tr�
 2. **Dữ liệu - Dataset**
 >Là phần quan trọng nhất. Dù thuật toán bạn có tốt tới đâu, tối ưu các thứ nhưng nếu không có dữ liệu lớn thì cũng vô dụng.
 
+Dữ liệu FER-2013 được công bố bởi trang Kaggle trong khuôn khổ workshop của hội thảo ICML 2013. Dữ liệu
+gồm các ảnh đa cấp xám cỡ 48x48 chỉ gồm khuôn mặt hầu như được căn giữa ảnh và tỉ lệ khuôn mặt được điều chỉnh chiếm phần lớn diện tích của ảnh. Bộ dữ liệu này gồm 35k ảnh. Mỗi ảnh sẽ được gán nhãn nằm một trong bảy loại cảm xúc giá trị từ 0 đến 6 (0: giận dữ, 1: căm phẫn, 2: sợ hãi, 3: hạnh phúc, 4: buồn rầu, 5: bất ngờ, 6: trung lập).
+
+![alt](assets/images/fer-2013.webp)
+
 ### ***Bữa sáng***
 
 Thật tốt với một lát bánh mỳ, chèn trên là một miếng thịt lợn nướng to đùng và một phần đậu phải không nào? NÓi đến đây tôi đã thèm lắm rùi. Nhưng bạn ơi, ngồi xuốn uống miếng trà nào. Tại sao chúng ta không chọn ngũ cốc nguyên hạt, thứ mà sẽ cung cấp cho bạn và tôi một nguồn năng lượng từ carbs một cách đầy đủ. Điều thú vị là carbs này sẽ hỗ trợ não khi chúng được chuyển hóa thành đường. Não của chúng ta sẽ đáp lại bằng dopamine và serotonin (các hormone hạnh phúc), điều này sẽ thúc đẩy tâm trạng của bạn và mang lại “điều tốt lành”. Và tin tôi đi bạn sẽ không cảm thấy yếu ớt hoặc mệt mỏi trong cả ngày!
