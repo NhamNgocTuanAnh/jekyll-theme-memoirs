@@ -63,15 +63,15 @@ gồm các ảnh đa cấp xám cỡ 48x48 chỉ gồm khuôn mặt hầu như �
    
 Như đã nói ở trên, dữ liệu đóng vai trò quan trọng nhất trong việc thành bại của bài toán. Nhưng không phải lúc nào ta cũng được tiếp cận tới các nguồn dữ liệu lớn. Nên ta sẽ phải Data Augment , tạm dịch Tăng Cường Dữ liệu.
 4. **Đào tạo mô hình**
-
+Mô hình được áp dụng là mô hình CNN. Kết quả thử nghiệm trên dữ liệu kiểm tra đạt mức độ chính xác khoảng 65% (trung bình 300 lần huấn luyện). Chi tiết ở [đây](https://github.com).
 <a name="trienkhai"></a>
 
 ### 4. Triển khai
 Để triển khai huấn luyện và thử nghiệm mô hình đề xuất, ngôn ngữ Python và thư viện Keras/TensorFlow được
-sử dụng cho việc xây dựng mô hình mạng CNN. Dữ liệu FER-2013 được tiền xử lý , sinh thêm ảnh, ngoại trừ việc chuyển đổi đa cấp xám từ dạng số nguyên 0 đến 255 về miền số thực [0, 1] nhằm hỗ trợ tốt hơn cho dữ liệu đầu vào của mạng tích chập.
+sử dụng cho việc xây dựng mô hình mạng CNN. Dữ liệu FER-2013 được tiền xử lý , sinh thêm ảnh, ngoại trừ việc chuyển đổi đa cấp xám từ dạng số nguyên 0 đến 255 về miền số thực [0, 1] nhằm hỗ trợ tốt hơn cho dữ liệu đầu vào của mạng tích chập.\\
 Ngôn ngữ Python kết hợp thêm OpenCV cũng được sử dụng để viết chương trình minh họa hỗ trợ cho việc xử
 lý dữ liệu đầu vào từ webcam/camera.
-1. **Với ảnh**
+## 1. Với ảnh
    
 ```
 1. Ảnh đầu vào được chuyển thành đa cấp xám;
@@ -81,4 +81,16 @@ lý dữ liệu đầu vào từ webcam/camera.
 5. Đầu ra của CNN là xác suất của các cảm xúc, chọn cảm xúc có xác xuất cao nhất làm kết quả cuối cùng.
 ```
 
-2. **Với video**
+## 2. Với video
+Vấn đề này dễ dàng hơn vì chúng ta có rất nhiều thông tin về khuôn mặt
+dựa vào các khung hình liên tiếp, và vấn đề này cũng thực tiễn hơn nhiều so
+với nhận dạng cảm xúc trong không gian 2D.\\
+Việc nhận dạng cảm xúc khuôn mặt được thực hiện trên các bức ảnh, do
+đó việc lấy ảnh từ camera ta phải chuyển thành các ảnh tĩnh và xử lý trên
+từng ảnh tĩnh. Khi đã có ảnh đầu vào, tiếp tục chuyển ảnh cho quá trình xử
+lý tiếp theo.
+
+## Kết quả :smile:
+![image](/assets/images/result-fail.webp){:class="img-responsive"}
+
+Trong các phần tiếp theo. Mình sẽ đi sâu vào quá trình training, tối ưu code và tối ưu bài toán. Các bạn chú ý đón xem nhé. 
