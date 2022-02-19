@@ -48,9 +48,9 @@ Mục đích huấn luyện là để tạo ra một mô hình chuẩn xác, tr�
 <a name="mohinhdexuat"></a>
 ### 3. Mô hình đề xuất
 
-1. **Mạng đề xuất**
+## A. Mạng đề xuất
 >Trong những năm gần đây, học sâu (Deep learning) đã thể hiện được ưu thế trong bài toán xử lý dữ liệu ảnh, âm thanh cả trong nghiên cứu và công nghiệp. Nên chúng ta sẽ sử dụng mô hình học sâu trong bài toán nhận dạng cảm xúc khuôn mặt.
-2. **Dữ liệu - Dataset**
+## B. Dữ liệu - Dataset
 >Là phần quan trọng nhất. Dù thuật toán bạn có tốt tới đâu, tối ưu các thứ nhưng nếu không có dữ liệu lớn thì cũng vô dụng.
 
 Dữ liệu FER-2013 được công bố bởi trang Kaggle trong khuôn khổ workshop của hội thảo ICML 2013. Dữ liệu
@@ -58,7 +58,7 @@ gồm các ảnh đa cấp xám cỡ 48x48 chỉ gồm khuôn mặt hầu như �
 
 ![image](/assets/images/fer-2013.webp){:class="img-responsive"}
 
-3. **Tăng cường dữ liệu**
+## C. Tăng cường dữ liệu
    
 Như đã nói ở trên, dữ liệu đóng vai trò quan trọng nhất trong việc thành bại của bài toán. Nhưng không phải lúc nào ta cũng được tiếp cận tới các nguồn dữ liệu lớn. Nên ta sẽ phải Data Augment , tạm dịch Tăng Cường Dữ liệu.
 ![image](/assets/images/Image-Data-Generator.webp){:class="img-responsive"}
@@ -74,14 +74,12 @@ Ngôn ngữ Python kết hợp thêm OpenCV cũng được sử dụng để vi�
 lý dữ liệu đầu vào từ webcam/camera.
 ## A. Với ảnh
    
-```
 1. Ảnh đầu vào được chuyển thành đa cấp xám;
 2. Dùng haar cascade (OpenCV) tìm kiếm vùng mặt người trên ảnh đầu vào;
 3. Vùng ảnh mặt người được chuyển đổi về kích thước 48x48;
 4. Ảnh 48x48 đa cấp xám chuyển đổi về miền [0, 1] sau đó đưa vào mô hình CNN;
-5. Đầu ra của CNN là xác suất của các cảm xúc, chọn cảm xúc có xác xuất cao 
-nhất làm kết quả cuối cùng.
-```
+5. Đầu ra của CNN là xác suất của các cảm xúc, chọn cảm xúc có xác xuất cao nhất làm kết quả cuối cùng.
+
 
 ## B. Với video
 Vấn đề này dễ dàng hơn vì chúng ta có rất nhiều thông tin về khuôn mặt
