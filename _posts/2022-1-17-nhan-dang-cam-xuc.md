@@ -16,10 +16,10 @@ thành 7 nhóm thể hiện chính: Vui vẻ, Ngạc nhiên, Hài lòng, Buồn 
 Với hàng chục ngàn năm tiến hóa và hàng chục cơ nhỏ bên dưới da, khuôn mặt là một nguồn thông tin phong phú, phi ngôn ngữ.Chúng ta có thể phát hiện một phạm vi cảm xúc khổng lồ trên gương mặt của một người
 
 ### Mục lục
-[1. Giới thiệu](#gioithieu)
-[2. Kiểu chữ](#kieuchu)
-[3. Kiểu danh sách](#kieudanhsach)
-[4. Trích dẫn, bo chữ](#trichdan,bochu)
+[1. Giới thiệu](#gioithieu)\\
+[2. Kiểu chữ](#kieuchu)\\
+[3. Kiểu danh sách](#kieudanhsach)\\
+[4. Trích dẫn, bo chữ](#trichdan,bochu)\\
 *********************************
 
 <a name="gioithieu"></a>
