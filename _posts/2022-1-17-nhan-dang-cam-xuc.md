@@ -59,10 +59,11 @@ gồm các ảnh đa cấp xám cỡ 48x48 chỉ gồm khuôn mặt hầu như �
 ![image](/assets/images/fer-2013.webp){:class="img-responsive"}
 
 3. **Tăng cường dữ liệu**
-![image](/assets/images/Image-Data-Generator.webp){:class="img-responsive"}
    
 Như đã nói ở trên, dữ liệu đóng vai trò quan trọng nhất trong việc thành bại của bài toán. Nhưng không phải lúc nào ta cũng được tiếp cận tới các nguồn dữ liệu lớn. Nên ta sẽ phải Data Augment , tạm dịch Tăng Cường Dữ liệu.
-4. **Đào tạo mô hình**
+![image](/assets/images/Image-Data-Generator.webp){:class="img-responsive"}
+Việc phụ thuộc vào dữ liệu và ứng dụng, kiến trúc mạng,kể trên đồng nghĩa với việc bạn cần phải thử kha khá, và chắc chắn sẽ tốn rất nhiều thời gian mà chưa chắc tìm ra cách augmentation tốt nhất.
+1. **Đào tạo mô hình**
 Mô hình được áp dụng là mô hình CNN. Kết quả thử nghiệm trên dữ liệu kiểm tra đạt mức độ chính xác khoảng 65% (trung bình 300 lần huấn luyện). Chi tiết ở [đây](https://github.com).
 <a name="trienkhai"></a>
 
