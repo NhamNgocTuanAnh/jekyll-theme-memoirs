@@ -72,17 +72,18 @@ Mô hình được áp dụng là mô hình CNN. Kết quả thử nghiệm trê
 sử dụng cho việc xây dựng mô hình mạng CNN. Dữ liệu FER-2013 được tiền xử lý , sinh thêm ảnh, ngoại trừ việc chuyển đổi đa cấp xám từ dạng số nguyên 0 đến 255 về miền số thực [0, 1] nhằm hỗ trợ tốt hơn cho dữ liệu đầu vào của mạng tích chập.\\
 Ngôn ngữ Python kết hợp thêm OpenCV cũng được sử dụng để viết chương trình minh họa hỗ trợ cho việc xử
 lý dữ liệu đầu vào từ webcam/camera.
-## 1. Với ảnh
+## A. Với ảnh
    
 ```
 1. Ảnh đầu vào được chuyển thành đa cấp xám;
 2. Dùng haar cascade (OpenCV) tìm kiếm vùng mặt người trên ảnh đầu vào;
 3. Vùng ảnh mặt người được chuyển đổi về kích thước 48x48;
 4. Ảnh 48x48 đa cấp xám chuyển đổi về miền [0, 1] sau đó đưa vào mô hình CNN;
-5. Đầu ra của CNN là xác suất của các cảm xúc, chọn cảm xúc có xác xuất cao nhất làm kết quả cuối cùng.
+5. Đầu ra của CNN là xác suất của các cảm xúc, chọn cảm xúc có xác xuất cao 
+nhất làm kết quả cuối cùng.
 ```
 
-## 2. Với video
+## B. Với video
 Vấn đề này dễ dàng hơn vì chúng ta có rất nhiều thông tin về khuôn mặt
 dựa vào các khung hình liên tiếp, và vấn đề này cũng thực tiễn hơn nhiều so
 với nhận dạng cảm xúc trong không gian 2D.\\
@@ -91,7 +92,7 @@ Việc nhận dạng cảm xúc khuôn mặt được thực hiện trên các b
 từng ảnh tĩnh. Khi đã có ảnh đầu vào, tiếp tục chuyển ảnh cho quá trình xử
 lý tiếp theo.
 
-## Kết quả :smile:
+## Kết quả 
 ![image](/assets/images/result-fail.webp){:class="img-responsive"}
 
-Trong các phần tiếp theo. Mình sẽ đi sâu vào quá trình training, tối ưu code và tối ưu bài toán. Các bạn chú ý đón xem nhé. 
+:smile: trong các phần tiếp theo. Mình sẽ đi sâu vào quá trình training, tối ưu code và tối ưu bài toán. Các bạn chú ý đón xem nhé. 
