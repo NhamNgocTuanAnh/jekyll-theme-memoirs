@@ -17,23 +17,13 @@ Với hàng chục ngàn năm tiến hóa và hàng chục cơ nhỏ bên dướ
 
 ### Mục lục
 [1. Giới thiệu](#gioithieu)
-
 [2. Kiểu chữ](#kieuchu)
-
 [3. Kiểu danh sách](#kieudanhsach)
-
 [4. Trích dẫn, bo chữ](#trichdan,bochu)
-
-[5. Escape markdown](#escapemarkdown)
-
-[6. Tạo bảng](#taobang)
-
-[7. Chèn link](#chenlink)
-
-[8. Chèn ảnh, emoji](#chenanh,emoji)
 *********************************
+
 <a name="gioithieu"></a>
-### 1. Thẻ tiêu đề
+### 1. Giới thiệu
 Với bài toán với đầu vào là một ảnh với kích cỡ nxn, ta phải đi tìm một thuật toán để xác định xem với ảnh đầu vào đó, kết quả trả ra là đối tượng trong ảnh đang có cảm xúc gì. Có thể ví nó như công thức pytago. Tìm 1 cạnh của tam giác vuông khi biết 2 cạnh còn lại.
 
 Nhưng để viết đc một thuật toán để có thể xác định được cảm xúc 1 người trong ảnh thực sự không thể. Vì sao
