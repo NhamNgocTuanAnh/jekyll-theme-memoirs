@@ -18,8 +18,8 @@ Với hàng chục ngàn năm tiến hóa và hàng chục cơ nhỏ bên dướ
 ### Mục lục
 [1. Giới thiệu](#gioithieu)\\
 [2. Phân tích bài toán](#phantichbaitoan)\\
-[3. Kiểu danh sách](#kieudanhsach)\\
-[4. Trích dẫn, bo chữ](#trichdan,bochu)\\
+[3. Mô hình ](#mohinhdexuat)\\
+[4. Kết quả mong muốn](#trichdan,bochu)\\
 *********************************
 
 <a name="gioithieu"></a>
@@ -45,6 +45,13 @@ Mục đích huấn luyện là để tạo ra một mô hình chuẩn xác, tr�
 1. **Nhận ảnh và tiền xử lý.** Ảnh khuôn mặt được lấy từ nguồn dữ liệu tĩnh (chẳng hạn như từ file, database), hoặc động (từ livestream, webcam, camera,…), nguồn dữ liệu này có thể trải qua một số bước tiền xử lý nhằm tăng chất lượng hình ảnh để giúp việc phát hiện cảm xúc trở nên hiệu quả hơn.
 2. **Phân lớp nhận dạng cảm xúc.**
 
+<a name="mohinhdexuat"></a>
+### 3. Mô hình đề xuất
+
+1. **Mạng đề xuất**
+>Trong những năm gần đây, học sâu (Deep learning) đã thể hiện được ưu thế trong bài toán xử lý dữ liệu ảnh, âm thanh cả trong nghiên cứu và công nghiệp. Nên chúng ta sẽ sử dụng mô hình học sâu trong bài toán nhận dạng cảm xúc khuôn mặt.
+2. **Dữ liệu - Dataset**
+>Là phần quan trọng nhất. Dù thuật toán bạn có tốt tới đâu, tối ưu các thứ nhưng nếu không có dữ liệu lớn thì cũng vô dụng.
 
 ### ***Bữa sáng***
 
