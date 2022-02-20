@@ -20,7 +20,7 @@ Với hàng chục ngàn năm tiến hóa và hàng chục cơ nhỏ bên dướ
 [1. Giới thiệu](#gioithieu)\\
 [2. Phân tích bài toán](#phantichbaitoan)\\
 [3. Mô hình ](#mohinhdexuat)\\
-[4. Triển khai ](#trienkhai)\\
+[4. Triển khai ](#trienkhai)
 
 ---
 
@@ -45,7 +45,7 @@ Mục đích huấn luyện là để tạo ra một mô hình chuẩn xác, tr�
 Đây là một bài toán phân lớp tương đối tiêu chuẩn. Một hệ thống nhận diện cảm xúc khuôn mặt thường được triển khai gồm **2 bước**.
 
 1. **Nhận ảnh và tiền xử lý.** Ảnh khuôn mặt được lấy từ nguồn dữ liệu tĩnh (chẳng hạn như từ file, database), hoặc động (từ livestream, webcam, camera,…), nguồn dữ liệu này có thể trải qua một số bước tiền xử lý nhằm tăng chất lượng hình ảnh để giúp việc phát hiện cảm xúc trở nên hiệu quả hơn.
-2. **Phân lớp nhận dạng cảm xúc.**
+2. **Phân lớp nhận dạng cảm xúc.** 
 
 <a name="mohinhdexuat"></a>
 ### 3. Mô hình đề xuất
@@ -82,7 +82,6 @@ lý dữ liệu đầu vào từ webcam/camera.
 4. Ảnh 48x48 đa cấp xám chuyển đổi về miền [0, 1] sau đó đưa vào mô hình CNN;
 5. Đầu ra của CNN là xác suất của các cảm xúc, chọn cảm xúc có xác xuất cao nhất làm kết quả cuối cùng.
 
-
 ## B. Với video
 Vấn đề này dễ dàng hơn vì chúng ta có rất nhiều thông tin về khuôn mặt
 dựa vào các khung hình liên tiếp, và vấn đề này cũng thực tiễn hơn nhiều so
@@ -91,7 +90,7 @@ Việc nhận dạng cảm xúc khuôn mặt được thực hiện trên các b
 đó việc lấy ảnh từ camera ta phải chuyển thành các ảnh tĩnh và xử lý trên
 từng ảnh tĩnh. Khi đã có ảnh đầu vào, tiếp tục chuyển ảnh cho quá trình xử
 lý tiếp theo.
-
+---
 ## Kết quả 
 ![image](/assets/images/result-fail.webp){:class="img-responsive"}
 
