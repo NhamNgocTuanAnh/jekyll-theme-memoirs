@@ -42,6 +42,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-figure
+  - jekyll-google-search-console-verification-file
     
 # Archives
 jekyll-archives:
@@ -61,8 +62,6 @@ markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
       disable : true
-
-
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
@@ -129,5 +128,9 @@ authorbox: "enabled"
 sass:
   sass_dir: _sass
   style: compressed
+
+google_search_console:
+  verification_file_code: 8d05216cbc02eb63
+
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
