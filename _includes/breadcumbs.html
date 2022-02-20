@@ -1,5 +1,0 @@
-<div class="breadcrumbs"> 
-    <div class="breadcrumbs-home"> 
-        <a href="{{ "/" | relative_url}}" title="Home">Home</a>
-        <span class="arrow"></span></div>{% if page.categories %}<div> <a href="{{ "/" | relative_url}}{{ page.categories  | first | strip }}" title="{{ page.categories  | first | strip }}">{{ page.categories  | first | strip | capitalize }}</a><span class="arrow"></span></div>{% endif %}{% if page.categories[1] %}<div> <a href="{{ "/" | relative_url}}{{ page.categories[1] }}" title="{{ page.categories[1] }}">{{ page.categories[1] | capitalize }}</a><span class="arrow"></span></div>{% endif %}{% if page.categories[2] %}<div> <a href="{{ "/" | relative_url}}{{ page.categories[2] }}" title="{{ page.categories[2] }}">{{ page.categories[2] | capitalize }}</a><span class="arrow"></span></div>{% endif %}
-    </div>      
