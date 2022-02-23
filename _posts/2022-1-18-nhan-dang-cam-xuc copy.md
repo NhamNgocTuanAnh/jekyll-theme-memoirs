@@ -12,7 +12,7 @@ comments: false
 <!-- > Chúng ta là những gì mà chúng ta ăn vào.  -->
 Trong phần 2 này. Chúng ta sẽ đi thẳng vào ứng dụng của bài toán nhận dạng cảm xúc sử dụng ngôn ngữ lập trình python và thư viện keras.
 
-Đây là một bài toán phân lớp tương đối tiêu chuẩn. Một hệ thống nhận diện cảm xúc khuôn mặt thường được triển khai gồm **2 bước**.\\
+Đây là một bài toán phân lớp tương đối tiêu chuẩn. Một hệ thống nhận diện cảm xúc khuôn mặt thường được triển khai gồm **2 bước**.
 1. **Nhận ảnh và tiền xử lý.** Ảnh khuôn mặt được lấy từ nguồn dữ liệu tĩnh (chẳng hạn như từ file, database), hoặc động (từ livestream, webcam, camera,…), nguồn dữ liệu này có thể trải qua một số bước tiền xử lý nhằm tăng chất lượng hình ảnh để giúp việc phát hiện cảm xúc trở nên hiệu quả hơn.
 2. **Phân lớp nhận dạng cảm xúc.** 
    
