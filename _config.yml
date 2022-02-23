@@ -43,6 +43,7 @@ plugins:
   - jekyll-archives
   - jekyll-figure
   - jekyll-google-search-console-verification-file
+  - jekyll-gist
     
 # Archives
 jekyll-archives:
