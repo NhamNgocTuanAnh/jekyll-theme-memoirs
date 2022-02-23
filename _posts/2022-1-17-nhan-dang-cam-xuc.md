@@ -45,6 +45,7 @@ Sức mạnh của học máy chính là việc có thể xác định cách ph�
 
 # A. Mạng đề xuất
 >Trong những năm gần đây, học sâu (Deep learning) đã thể hiện được ưu thế trong bài toán xử lý dữ liệu ảnh, âm thanh cả trong nghiên cứu và công nghiệp. Nên chúng ta sẽ sử dụng mô hình học sâu trong bài toán nhận dạng cảm xúc khuôn mặt.
+
 # B. Dữ liệu - Dataset
 >Là phần quan trọng nhất. Dù thuật toán bạn có tốt tới đâu, tối ưu các thứ nhưng nếu không có dữ liệu lớn thì cũng vô dụng.
 
