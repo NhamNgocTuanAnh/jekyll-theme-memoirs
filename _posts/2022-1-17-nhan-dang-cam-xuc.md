@@ -5,7 +5,7 @@ author: sal
 categories: [ Học máy ]
 tags: [ Học máy, Python, Lập trình ]
 image: assets/images/happy-ex.webp
-rating: 4.5
+# rating: 4.5
 comments: false
 ---
 

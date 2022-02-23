@@ -5,7 +5,7 @@ author: sal
 categories: [ Học máy ]
 tags: [ Học máy, Python, Lập trình ]
 image: assets/images/happy-ex.webp
-rating: 4.5
+# rating: 4.5
 comments: false
 ---
 
@@ -56,13 +56,13 @@ lý tiếp theo.
 ![image](/assets/images/result-one.webp){:class="img-responsive"}
 Hmm có vẻ khá là **khả quan** nhỉ. Nhưng vấn đề sẽ xảy ra **nếu**:
 ![image](/assets/images/result-two.webp){:class="img-responsive"}
-Bạn có nhìn thấy cái gì sai ở đây không.
+Bạn có nhìn thấy cái gì sai ở đây không?
 
 Đúng vậy.\\
 Thứ nhất: Nhận dạng gương mặt bằng [thuật toán Haar-Like hay còn gọi là Viola's Zone](https://viblo.asia/p/tim-hieu-ve-phuong-phap-nhan-dien-khuon-mat-cua-violas-john-ByEZkNVyKQ0) tuy nhanh nhưng độ chính xác cũng không quá tốt. 
 
 Thứ hai: Ngôn ngữ python là một ngôn ngữ hiệu năng rất kém. Một hai gương mặt xuất hiện trong video, máy đã chạy lag tung đít rồi. Với một bài toán gồm một lớp học thì sao.
 
-Thứ  ba: Là gì nhở, ... ╮(￣～￣)╭ 
+Thứ  ba: Là gì ấy nhở, ... ╮(￣～￣)╭ 
 
 (〜￣▽￣)〜 Trong các phần tiếp theo. Mình sẽ đi sâu vào quá trình tối ưu code. Các bạn chú ý đón xem nhé. 〜(￣▽￣〜)
