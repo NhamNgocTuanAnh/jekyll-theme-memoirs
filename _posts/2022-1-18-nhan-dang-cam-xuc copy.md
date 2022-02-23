@@ -22,10 +22,8 @@ Trong phần 2 này. Chúng ta sẽ đi thẳng vào ứng dụng của bài to�
 
 <a name="ungdunganh"></a>
 ### 1. Ứng dụng với ảnh
-Với bài toán với đầu vào là một ảnh với kích cỡ nxn, ta phải đi tìm một thuật toán để xác định xem với ảnh đầu vào đó, kết quả trả ra là đối tượng trong ảnh đang có cảm xúc gì. Có thể ví nó như công thức **Pythagoras**: Tìm 1 cạnh của tam giác vuông khi biết 2 cạnh còn lại.
 
-Nhưng để viết đc một thuật toán để có thể xác định được cảm xúc 1 người trong ảnh thực sự không thể. **Vì sao?** \\
-Vì dữ liệu đầu vào thì muôn hình, muôn dạng: góc độ khác nhau, ánh sáng và chất lượng hình ảnh quá khác nhau
+{% gist cf7d11672bce4a830524d0ccd6b0043f %}
 
 ⇒ Và lời giải ở đây **Học máy**.
 Sức mạnh của học máy chính là việc có thể xác định cách phân biệt cảm xúc bằng mô hình thay vì đánh giá của con người với những quy tắc tự nhiên. Chúng ta xây dựng được gọi là một **“mô hình” (model)** và mô hình này được tạo ra thông qua quá trình được gọi là **“huấn luyện” (training)**. Mục đích huấn luyện là để tạo ra một mô hình chuẩn xác, trả lời những câu hỏi của chúng ta một cách chính xác trong hầu hết các dữ liệu mà ta đưa vào.
