@@ -43,10 +43,10 @@ Sức mạnh của học máy chính là việc có thể xác định cách ph�
 <a name="mohinhdexuat"></a>
 ### 3. Mô hình đề xuất
 
-# A. Mạng đề xuất
+A. Mạng đề xuất
 >Trong những năm gần đây, học sâu (Deep learning) đã thể hiện được ưu thế trong bài toán xử lý dữ liệu ảnh, âm thanh cả trong nghiên cứu và công nghiệp. Nên chúng ta sẽ sử dụng mô hình học sâu trong bài toán nhận dạng cảm xúc khuôn mặt.
 
-# B. Dữ liệu - Dataset
+B. Dữ liệu - Dataset
 >Là phần quan trọng nhất. Dù thuật toán bạn có tốt tới đâu, tối ưu các thứ nhưng nếu không có dữ liệu lớn thì cũng vô dụng.
 
 Dữ liệu FER-2013 được công bố bởi trang Kaggle trong khuôn khổ workshop của hội thảo ICML 2013. Dữ liệu
@@ -54,7 +54,7 @@ gồm các ảnh đa cấp xám cỡ 48x48 chỉ gồm khuôn mặt hầu như �
 
 ![image](/assets/images/fer-2013.webp){:class="img-responsive"}
 
-## C. Tăng cường dữ liệu
+C. Tăng cường dữ liệu
 Như đã nói ở trên, dữ liệu đóng vai trò quan trọng nhất trong việc thành bại của bài toán. Nhưng không phải lúc nào ta cũng được tiếp cận tới các nguồn dữ liệu lớn. Nên ta sẽ phải Data Augment , tạm dịch Tăng Cường Dữ liệu.
 ![image](/assets/images/Image-Data-Generator.webp){:class="img-responsive"}
 Việc phụ thuộc vào dữ liệu và ứng dụng, kiến trúc mạng,kể trên đồng nghĩa với việc bạn cần phải thử kha khá, và chắc chắn sẽ tốn rất nhiều thời gian mà chưa chắc tìm ra cách augmentation tốt nhất.
