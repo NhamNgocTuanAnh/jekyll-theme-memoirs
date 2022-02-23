@@ -35,9 +35,6 @@ A. Cách làm\\
 5. Đầu ra của CNN là xác suất của các cảm xúc, chọn cảm xúc có xác xuất cao nhất làm kết quả cuối cùng.
 B. Triển khai code
 {% gist cf7d11672bce4a830524d0ccd6b0043f %}
-
-
-
 <a name="ungdungvideo"></a>
 ### 2. Ứng dụng với video
 Vấn đề này dễ dàng hơn vì chúng ta có rất nhiều thông tin về khuôn mặt
