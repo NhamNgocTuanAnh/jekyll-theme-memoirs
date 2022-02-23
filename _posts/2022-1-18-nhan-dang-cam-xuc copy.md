@@ -27,13 +27,16 @@ Trong phần 2 này. Chúng ta sẽ đi thẳng vào ứng dụng của bài to�
 <a name="ungdunganh"></a>
 ### 1. Ứng dụng với ảnh
 
-A. Cách làm\\
+A. Cách làm
+
 1. Ảnh đầu vào được chuyển thành đa cấp xám;
 2. Dùng haar cascade (OpenCV) tìm kiếm vùng mặt người trên ảnh đầu vào;
 3. Vùng ảnh mặt người được chuyển đổi về kích thước 48x48;
 4. Ảnh 48x48 đa cấp xám chuyển đổi về miền [0, 1] sau đó đưa vào mô hình CNN;
 5. Đầu ra của CNN là xác suất của các cảm xúc, chọn cảm xúc có xác xuất cao nhất làm kết quả cuối cùng.
+
 B. Triển khai code
+
 {% gist cf7d11672bce4a830524d0ccd6b0043f %}
 <a name="ungdungvideo"></a>
 ### 2. Ứng dụng với video
