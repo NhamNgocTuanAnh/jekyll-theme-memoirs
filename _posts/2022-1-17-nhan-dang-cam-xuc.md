@@ -59,7 +59,7 @@ Như đã nói ở trên, dữ liệu đóng vai trò quan trọng nhất trong 
 ![image](/assets/images/Image-Data-Generator.webp){:class="img-responsive"}
 Việc phụ thuộc vào dữ liệu và ứng dụng, kiến trúc mạng,kể trên đồng nghĩa với việc bạn cần phải thử kha khá, và chắc chắn sẽ tốn rất nhiều thời gian mà chưa chắc tìm ra cách augmentation tốt nhất.
 
-C. Đào tạo mô hình\\
+D. Đào tạo mô hình\\
 Mô hình được áp dụng là mô hình CNN. Kết quả thử nghiệm trên dữ liệu kiểm tra đạt mức độ chính xác khoảng 65% (trung bình 300 lần huấn luyện). Chi tiết ở [đây](https://github.com).
 <a name="trienkhai"></a>
 
