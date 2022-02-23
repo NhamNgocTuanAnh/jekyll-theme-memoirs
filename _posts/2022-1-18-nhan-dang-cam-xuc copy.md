@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nhận dạng cảm xúc qua ảnh. Phần 2. Ứng dụng Video"
+title:  "[Phần 2] Nhận dạng cảm xúc qua ảnh. Ứng dụng Video"
 author: sal
 categories: [ Học máy ]
 tags: [ Học máy, Python, Lập trình ]
@@ -10,19 +10,18 @@ comments: false
 ---
 
 <!-- > Chúng ta là những gì mà chúng ta ăn vào.  -->
-Trong phần 2 này. Chúng ta sẽ đi thẳng vào ứng dụng của bài toán nhận dạng cảm xúc
+Trong phần 2 này. Chúng ta sẽ đi thẳng vào ứng dụng của bài toán nhận dạng cảm xúc sử dụng ngôn ngữ lập trình python và thư viện keras.
 
 ---
 ### Mục lục
-[1. Giới thiệu](#gioithieu)\\
-[2. Phân tích bài toán](#phantichbaitoan)\\
-[3. Mô hình ](#mohinhdexuat)\\
-[4. Triển khai ](#trienkhai)
+[1. Ứng dụng với ảnh ](#ungdunganh)\\
+[2. Ứng dụng với video](#ungdungvideo)\\
+[3. Tổng kết ](#tongket)
 
 ---
 
-<a name="gioithieu"></a>
-### 1. Giới thiệu
+<a name="ungdunganh"></a>
+### 1. Ứng dụng với ảnh
 Với bài toán với đầu vào là một ảnh với kích cỡ nxn, ta phải đi tìm một thuật toán để xác định xem với ảnh đầu vào đó, kết quả trả ra là đối tượng trong ảnh đang có cảm xúc gì. Có thể ví nó như công thức **Pythagoras**: Tìm 1 cạnh của tam giác vuông khi biết 2 cạnh còn lại.
 
 Nhưng để viết đc một thuật toán để có thể xác định được cảm xúc 1 người trong ảnh thực sự không thể. **Vì sao?** \\
