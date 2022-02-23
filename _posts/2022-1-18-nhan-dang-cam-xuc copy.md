@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Phần 2] Nhận dạng cảm xúc qua ảnh. Ứng dụng Video"
+title:  "[Phần 2] Nhận dạng cảm xúc qua ảnh. Ứng dụng"
 author: sal
 categories: [ Học máy ]
 tags: [ Học máy, Python, Lập trình ]
