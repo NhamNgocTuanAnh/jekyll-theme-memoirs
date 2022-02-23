@@ -25,13 +25,13 @@ Với hàng chục ngàn năm tiến hóa và hàng chục cơ nhỏ bên dướ
 
 <a name="gioithieu"></a>
 ### 1. Giới thiệu
-Với bài toán với đầu vào là một ảnh với kích cỡ nxn, ta phải đi tìm một thuật toán để xác định xem với ảnh đầu vào đó, kết quả trả ra là đối tượng trong ảnh đang có cảm xúc gì. Có thể ví nó như công thức pytago. Tìm 1 cạnh của tam giác vuông khi biết 2 cạnh còn lại.
+Với bài toán với đầu vào là một ảnh với kích cỡ nxn, ta phải đi tìm một thuật toán để xác định xem với ảnh đầu vào đó, kết quả trả ra là đối tượng trong ảnh đang có cảm xúc gì. Có thể ví nó như công thức **Pythagoras**: Tìm 1 cạnh của tam giác vuông khi biết 2 cạnh còn lại.
 
 Nhưng để viết đc một thuật toán để có thể xác định được cảm xúc 1 người trong ảnh thực sự không thể. **Vì sao?** \\
-Vì dữ liệu đầu vào thì muôn dạng, muôn vẻ: góc độ khác nhau, ánh sáng và chất lượng hình ảnh quá khác nhau
+Vì dữ liệu đầu vào thì muôn hình, muôn dạng: góc độ khác nhau, ánh sáng và chất lượng hình ảnh quá khác nhau
 
 ⇒ Và lời giải ở đây **Học máy**.
-Sức mạnh của học máy chính là việc có thể xác định cách phân biệt cảm xúc bằng mô hình thay vì đánh giá của con người với những quy tắc tự nhiên.Chúng ta xây dựng được gọi là một **“mô hình” (model)** và mô hình này được tạo ra thông qua quá trình được gọi là **“huấn luyện” (training)**.Mục đích huấn luyện là để tạo ra một mô hình chuẩn xác, trả lời những câu hỏi của chúng ta một cách chính xác trong hầu hết các dữ liệu mà ta đưa vào.
+Sức mạnh của học máy chính là việc có thể xác định cách phân biệt cảm xúc bằng mô hình thay vì đánh giá của con người với những quy tắc tự nhiên. Chúng ta xây dựng được gọi là một **“mô hình” (model)** và mô hình này được tạo ra thông qua quá trình được gọi là **“huấn luyện” (training)**. Mục đích huấn luyện là để tạo ra một mô hình chuẩn xác, trả lời những câu hỏi của chúng ta một cách chính xác trong hầu hết các dữ liệu mà ta đưa vào.
 
 <a name="phantichbaitoan"></a>
 ### 2. Phân tích bài toán
@@ -64,7 +64,7 @@ Mô hình được áp dụng là mô hình CNN. Kết quả thử nghiệm trê
 
 ### 4. Triển khai
 Để triển khai huấn luyện và thử nghiệm mô hình đề xuất, ngôn ngữ Python và thư viện Keras/TensorFlow được
-sử dụng cho việc xây dựng mô hình mạng CNN. Dữ liệu FER-2013 được tiền xử lý , sinh thêm ảnh, ngoại trừ việc chuyển đổi đa cấp xám từ dạng số nguyên 0 đến 255 về miền số thực [0, 1] nhằm hỗ trợ tốt hơn cho dữ liệu đầu vào của mạng tích chập.\\
+sử dụng cho việc xây dựng mô hình mạng CNN. Dữ liệu FER-2013 được tiền xử lý, sinh thêm ảnh, ngoại trừ việc chuyển đổi đa cấp xám từ dạng số nguyên 0 đến 255 về miền số thực [0, 1] nhằm hỗ trợ tốt hơn cho dữ liệu đầu vào của mạng tích chập.\\
 Ngôn ngữ Python kết hợp thêm OpenCV cũng được sử dụng để viết chương trình minh họa hỗ trợ cho việc xử
 lý dữ liệu đầu vào từ webcam/camera.
 
