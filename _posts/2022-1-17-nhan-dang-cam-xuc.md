@@ -89,4 +89,4 @@ lý tiếp theo.
 ## Kết quả 
 ![image](/assets/images/result-fail.webp){:class="img-responsive"}
 
-(〜￣▽￣)〜 trong các phần tiếp theo. Mình sẽ đi sâu vào quá trình training, tối ưu code và tối ưu bài toán. Các bạn chú ý đón xem nhé. 〜(￣▽￣〜)
+(〜￣▽￣)〜 Trong các phần tiếp theo. Mình sẽ đi sâu vào quá trình training, tối ưu code và tối ưu bài toán. Các bạn chú ý đón xem nhé. 〜(￣▽￣〜)
