@@ -3,7 +3,7 @@ layout: post
 title:  "Nhận dạng cảm xúc qua ảnh. (Phần 2) Ứng dụng"
 author: sal
 categories: [ Học máy ]
-tags: [ Học máy, Python, Lập trình ]
+tags: [ Python, Lập trình ]
 image: assets/images/happy-ex.webp
 # rating: 4.5
 comments: false
