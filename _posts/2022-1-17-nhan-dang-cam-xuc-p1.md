@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Phần 1] Nhận dạng cảm xúc qua ảnh. Tổng quan bài toán"
+title:  "Nhận dạng cảm xúc qua ảnh. (Phần 1) Tổng quan bài toán"
 author: sal
 categories: [ Học máy ]
 tags: [ Học máy, Python, Lập trình ]
