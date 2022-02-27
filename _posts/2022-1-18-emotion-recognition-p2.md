@@ -2,7 +2,7 @@
 layout: post
 title:  "Emotion recognition. (Part 2) Application"
 author: sal
-categories: [ Học máy ]
+categories: [ Machine learning ]
 tags: [ Python, Lập trình ]
 image: assets/images/happy-ex.webp
 # rating: 4.5

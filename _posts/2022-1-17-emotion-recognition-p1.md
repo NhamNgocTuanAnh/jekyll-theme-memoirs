@@ -2,7 +2,7 @@
 layout: post
 title:  "Emotion recognition. (Part 1) Summary"
 author: sal
-categories: [ Học máy ]
+categories: [ Machine learning ]
 tags: [ Học máy, Python, Lập trình ]
 image: assets/images/happy-ex.webp
 # rating: 4.5
