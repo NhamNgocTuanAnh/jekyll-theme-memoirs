@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nhận dạng cảm xúc qua ảnh. (Phần 2) Ứng dụng"
+title:  "Emotion recognition. (Part 2) Application"
 author: sal
 categories: [ Học máy ]
 tags: [ Python, Lập trình ]
