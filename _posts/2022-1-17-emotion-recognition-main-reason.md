@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Emotion recognition. (Part 1) Summary"
+title:  "Emotion recognition. (Part 1) Main reason"
 author: sal
 categories: [ Machine learning ]
 tags: [ Học máy, Python, Lập trình ]
