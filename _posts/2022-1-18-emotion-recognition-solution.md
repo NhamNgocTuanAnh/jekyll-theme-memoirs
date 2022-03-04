@@ -27,6 +27,8 @@ Trong phần 1. Chúng ta đã nêu ra tổng quan bài toán nhận dạng khu�
 <a name="nhandanganh"></a>
 ### 1. Nhận ảnh và tiền xử lý
 
+A. Vai trò của tiền xử lý ảnh
+
 Khi phát triển một thuật toán phân loại ảnh chúng ta có thể gặp phải một số trường hợp không mong đợi như: Kết quả huấn luyện có độ chính xác rất cao trên cả tập huấn luyện (train dataset) và tập phát triển (dev dataset). Nhưng khi áp dụng vào thực tiễn lại cho độ chính xác thấp. Có rất nhiều các nguyên nhân dẫn tới điều này và một trong số đó là:
 * Các bức ảnh được huấn luyện khác xa so với những bức ảnh được người dùng upload về các khía cạnh: độ phân giải, cường độ màu sắc, chất lượng ảnh, độ to nhỏ của vật thể, chiều, hướng và tư thế của vật thể bên trong ảnh.
 * Có thể các bức ảnh được người dùng upload lên mặc dù cùng nhãn nhưng khác về tính chất so với các bức ảnh đã huấn luyện. Ví dụ trong một thuật toán phân loại dog and cat, tập huấn luyện chỉ bao gồm những con mèo trưởng thành nhưng thực tế người dùng lại upload lên rất nhiều hình ảnh của mèo con có thể dẫn tới thuật toán bị nhầm lẫn.
@@ -34,7 +36,7 @@ Khi phát triển một thuật toán phân loại ảnh chúng ta có thể g�
 * Bộ dữ liệu huấn luyện có kích thước quá nhỏ và không đại diện cho toàn bộ các class được huấn luyện.
 * Phân phối của tập huấn luyện khác xa so với thực tế. Chẳng hạn tập huấn luyện chứa ảnh chó và mèo theo tỷ lệ 50:50 nhưng số lượng bức ảnh người dùng upload lên ảnh chó chiếm đa số theo tỷ lệ 90:10.
 
-<a name="ungdungvideo"></a>
+<a name="phanlopcamxuc"></a>
 ### 2. Ứng dụng với video
 Vấn đề này dễ dàng hơn vì chúng ta có rất nhiều thông tin về khuôn mặt
 dựa vào các khung hình liên tiếp, và vấn đề này cũng thực tiễn hơn nhiều so
