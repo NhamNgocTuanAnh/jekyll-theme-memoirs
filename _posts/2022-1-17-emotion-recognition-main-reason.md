@@ -52,11 +52,11 @@ B. Dữ liệu - Dataset
 Dữ liệu FER-2013 được công bố bởi trang Kaggle trong khuôn khổ workshop của hội thảo ICML 2013. Dữ liệu
 gồm các ảnh đa cấp xám cỡ 48x48 chỉ gồm khuôn mặt hầu như được căn giữa ảnh và tỉ lệ khuôn mặt được điều chỉnh chiếm phần lớn diện tích của ảnh. Bộ dữ liệu này gồm 35k ảnh. Mỗi ảnh sẽ được gán nhãn nằm một trong bảy loại cảm xúc giá trị từ 0 đến 6 (0: giận dữ, 1: căm phẫn, 2: sợ hãi, 3: hạnh phúc, 4: buồn rầu, 5: bất ngờ, 6: trung lập).
 
-![image](/assets/images/fer-2013.webp){:class="img-responsive"}
+![image](/assets/images/emotion-detection/fer-2013.webp){:class="img-responsive"}
 
 C. Tăng cường dữ liệu
 Như đã nói ở trên, dữ liệu đóng vai trò quan trọng nhất trong việc thành bại của bài toán. Nhưng không phải lúc nào ta cũng được tiếp cận tới các nguồn dữ liệu lớn. Nên ta sẽ phải Data Augment , tạm dịch Tăng Cường Dữ liệu.
-![image](/assets/images/Image-Data-Generator.webp){:class="img-responsive"}
+![image](/assets/images/emotion-detection/Image-Data-Generator.webp){:class="img-responsive"}
 Việc phụ thuộc vào dữ liệu và ứng dụng, kiến trúc mạng,kể trên đồng nghĩa với việc bạn cần phải thử kha khá, và chắc chắn sẽ tốn rất nhiều thời gian mà chưa chắc tìm ra cách augmentation tốt nhất.
 
 D. Đào tạo mô hình\\
@@ -88,6 +88,6 @@ từng ảnh tĩnh. Khi đã có ảnh đầu vào, tiếp tục chuyển ảnh 
 lý tiếp theo.
 ---
 ## Kết quả 
-![image](/assets/images/result-fail.webp){:class="img-responsive"}
+![image](/assets/images/emotion-detection/result-fail.webp){:class="img-responsive"}
 
 (〜￣▽￣)〜 Trong các phần tiếp theo. Mình sẽ đi sâu vào quá trình training, tối ưu code và tối ưu bài toán. Các bạn chú ý đón xem nhé. 〜(￣▽￣〜)
