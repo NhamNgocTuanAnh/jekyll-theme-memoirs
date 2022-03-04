@@ -4,7 +4,7 @@ title:  "Emotion recognition. (Part 3) Implementation Training"
 author: sal
 categories: [ Machine learning ]
 tags: [ Python, Lập trình ]
-image: assets/images/happy-ex.webp
+image: assets/images/emotion-detection/happy-ex-p3.webp
 # rating: 4.5
 comments: false
 ---
