@@ -4,7 +4,7 @@ title:  "Emotion recognition. (Part 1) Main reason"
 author: sal
 categories: [ Machine learning ]
 tags: [ Học máy, Python, Lập trình ]
-image: assets/images/happy-ex.webp
+image: assets/images/emotion-detection/happy-ex.webp
 # rating: 4.5
 comments: false
 ---
