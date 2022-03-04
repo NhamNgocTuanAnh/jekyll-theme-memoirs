@@ -18,26 +18,22 @@ Trong phần 1. Chúng ta đã nêu ra tổng quan bài toán nhận dạng khu�
    
 ---
 ### Mục lục
-[1. Ứng dụng với ảnh ](#ungdunganh)\\
-[2. Ứng dụng với video](#ungdungvideo)\\
+[1. Nhận ảnh và tiền xử lý ](#nhandanganh)\\
+[2. Phân lớp nhận dạng cảm xúc](#phanlopcamxuc)\\
 [3. Tổng kết ](#tongket)
 
 ---
 
-<a name="ungdunganh"></a>
-### 1. Ứng dụng với ảnh
+<a name="nhandanganh"></a>
+### 1. Nhận ảnh và tiền xử lý
 
-A. Cách làm
+Khi phát triển một thuật toán phân loại ảnh chúng ta có thể gặp phải một số trường hợp không mong đợi như: Kết quả huấn luyện có độ chính xác rất cao trên cả tập huấn luyện (train dataset) và tập phát triển (dev dataset). Nhưng khi áp dụng vào thực tiễn lại cho độ chính xác thấp. Có rất nhiều các nguyên nhân dẫn tới điều này và một trong số đó là:
+* Các bức ảnh được huấn luyện khác xa so với những bức ảnh được người dùng upload về các khía cạnh: độ phân giải, cường độ màu sắc, chất lượng ảnh, độ to nhỏ của vật thể, chiều, hướng và tư thế của vật thể bên trong ảnh.
+* Có thể các bức ảnh được người dùng upload lên mặc dù cùng nhãn nhưng khác về tính chất so với các bức ảnh đã huấn luyện. Ví dụ trong một thuật toán phân loại dog and cat, tập huấn luyện chỉ bao gồm những con mèo trưởng thành nhưng thực tế người dùng lại upload lên rất nhiều hình ảnh của mèo con có thể dẫn tới thuật toán bị nhầm lẫn.
+* Đối với một số tác vụ phân loại ảnh khó, đòi hỏi chuyên gia gán nhãn, rất dễ mắc sai lầm như chuẩn đoán bệnh nhãn cầu. Một số ít các ảnh trong tập huấn luyện có thể bị gán sai nhãn. Do đó ảnh hưởng đến khả năng dự báo của thuật toán.
+* Bộ dữ liệu huấn luyện có kích thước quá nhỏ và không đại diện cho toàn bộ các class được huấn luyện.
+* Phân phối của tập huấn luyện khác xa so với thực tế. Chẳng hạn tập huấn luyện chứa ảnh chó và mèo theo tỷ lệ 50:50 nhưng số lượng bức ảnh người dùng upload lên ảnh chó chiếm đa số theo tỷ lệ 90:10.
 
-1. Ảnh đầu vào được chuyển thành đa cấp xám;
-2. Dùng haar cascade (OpenCV) tìm kiếm vùng mặt người trên ảnh đầu vào;
-3. Vùng ảnh mặt người được chuyển đổi về kích thước 48x48;
-4. Ảnh 48x48 đa cấp xám chuyển đổi về miền [0, 1] sau đó đưa vào mô hình CNN;
-5. Đầu ra của CNN là xác suất của các cảm xúc, chọn cảm xúc có xác xuất cao nhất làm kết quả cuối cùng.
-
-B. Triển khai code
-
-{% gist cf7d11672bce4a830524d0ccd6b0043f %}
 <a name="ungdungvideo"></a>
 ### 2. Ứng dụng với video
 Vấn đề này dễ dàng hơn vì chúng ta có rất nhiều thông tin về khuôn mặt
