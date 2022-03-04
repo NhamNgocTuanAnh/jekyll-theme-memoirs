@@ -25,7 +25,7 @@ Với hàng chục ngàn năm tiến hóa và hàng chục cơ nhỏ bên dướ
 
 <a name="gioithieu"></a>
 ### 1. Giới thiệu
-Với bài toán với đầu vào là một ảnh với kích cỡ nxn, ta phải đi tìm một thuật toán để xác định xem với ảnh đầu vào đó, kết quả trả ra là đối tượng trong ảnh đang có cảm xúc gì. Có thể ví nó như công thức **Pythagoras**: Tìm 1 cạnh của tam giác vuông khi biết 2 cạnh còn lại.
+Với bài toán với đầu vào là một ảnh với kích cỡ nxn, ta phải đi tìm một thuật toán để xác định xem với ảnh đầu vào đó, kết quả trả ra là đối tượng trong ảnh đang có cảm xúc gì. Có thể ví nó như công thức **Pythagoras**: Tìm một cạnh của tam giác vuông khi biết 2 cạnh còn lại.
 
 Nhưng để viết đc một thuật toán để có thể xác định được cảm xúc 1 người trong ảnh thực sự không thể. **Vì sao?** \\
 Vì dữ liệu đầu vào thì muôn hình, muôn dạng: góc độ khác nhau, ánh sáng và chất lượng hình ảnh quá khác nhau
