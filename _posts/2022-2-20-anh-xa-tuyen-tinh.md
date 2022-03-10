@@ -36,7 +36,7 @@ Cho $$T:V\to W$$ là ánh xạ tuyến tính, thì: \\
 1)   $$T(k_1v_1+k_2v_2)=k_1T(v_1)+k_2T(v_2)$$ với mọi $$v_1,v_2\in V$$ và $$k_1,k_2\in \R$$.\\
 	Tổng quát hơn: $$T(k_1v_1+k_2v_2+\cdots+k_rv_r)=k_1T(v_1)+k_2T(v_2)+\cdots+k_rT(v_r)$$. \\
 2)  $$T(0)=0$$.   \\
-3)  $$T(u-v)=T(u)-T(v)$$. \\
+3)  $$T(u-v)=T(u)-T(v)$$. 
 ### Chứng minh
 1) Với mọi $$v_1,v_2\in V$$ và $$k_1,k_2\in \R$$ ta đều có $$   T(k_1v_1+k_2v_2)=T(k_1v_1)+T(k_2v_2)= k_1T(v_1)+k_2T(v_2).   $$
 Tổng quát $$T(k_1v_1+k_2v_2+\cdots+k_rv_r)= T(k_1v_1)+T(k_2v_2)+\cdots+T(k_rv_r)=k_1T(v_1)+k_2T(v_2)+\cdots+k_rT(v_r)$$.
@@ -47,8 +47,8 @@ Tổng quát $$T(k_1v_1+k_2v_2+\cdots+k_rv_r)= T(k_1v_1)+T(k_2v_2)+\cdots+T(k_rv
 Cho $$ V $$ là không gian vectơ. Chứng minh rằng ánh xạ đồng nhất $$ Id_V:V \to V $$, $$ Id_V(v)=v $$ với mọi $$ v\in V $$ là một ánh xạ tuyến tính. \\
 #### Hướng dẫn giải
 
-1) Với mọi $$u \in V$$, với mọi $$k \in \mathbb{R } $$ ta đều có    <span style="color:red"> $$\boxed{ Id_V(ku)$$</span> $$=ku=k.u =$$ <span style="color:red"> $$\boxed{ k Id_V(u).$$ </span> 	Suy ra $$Id_V$$ bảo toàn phép nhân vô hướng. \\
-2) Với mọi $$ u,v \in V $$ ta đều có $$ \colorbox[rgb]{0.0,1.0,0.0}{ \boxed{  Id_V( u+v)}}= u+v=  \colorbox[rgb]{0.0,1.0,0.0}{ \boxed{  Id_V(u)+ Id_V(v)}} . $$ \\
+1) Với mọi $$u \in V$$, với mọi $$k \in \mathbb{R } $$ ta đều có    <span style="color:red"> $$\boxed{ Id_V(ku)}$$</span> $$=ku=k.u =$$ <span style="color:red"> $$\boxed{ k Id_V(u)}.$$</span> 	Suy ra $$Id_V$$ bảo toàn phép nhân vô hướng. \\
+2) Với mọi $$ u,v \in V $$ ta đều có<span style="color:red">   $$ \boxed{  Id_V( u+v)}= u+v=  $$</span> <span style="color:red">  $$  \boxed{  Id_V(u)+ Id_V(v)}. $$</span> \\
 Suy ra $$Id_V$$ bảo toàn phép cộng. \\
 Vậy  $$Id_V$$ là một ánh xạ tuyến tính.  
 #### Ví dụ 2.   
