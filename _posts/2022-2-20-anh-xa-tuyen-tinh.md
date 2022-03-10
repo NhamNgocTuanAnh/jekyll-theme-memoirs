@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Emotion recognition. (Part 4) Implementation Image,video"
-author: sal
-categories: [ Machine learning ]
+title:  "Ánh xạ tuyến tính"
+author: john
+categories: [ Toán học ]
 tags: [ Python, Lập trình ]
 image: assets/images/emotion-detection/happy-ex-p4.webp
 # rating: 4.5
