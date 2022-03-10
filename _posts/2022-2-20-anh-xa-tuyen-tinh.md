@@ -17,28 +17,28 @@ header-includes:
 
 Ánh xạ $$T:V\to W$$ từ không gian vectơ $$ V $$ đến không gian vectơ   $$ W $$ được gọi là <span style="color:red">ánh xạ tuyến tính</span> nếu thỏa mãn hai tính chất sau với mọi $$u,v\in V$$ và với mọi $$k\in {\rm I\!R}$$:
 
-1)   $$T(ku)=kT(u)$$ (tính bảo toàn phép nhân với vô hướng) \\
-2)   $$T(u+v)=T(u)+T(v)$$ (tính bảo toàn phép cộng).
+1) $$T(ku)=kT(u)$$ (tính bảo toàn phép nhân với vô hướng) \\
+2) $$T(u+v)=T(u)+T(v)$$ (tính bảo toàn phép cộng).
 
 #### 7.1.2. Định nghĩa   
 
-Ánh xạ $$T:V\to V$$ của không gian vectơ   $$ V $$ được gọi là <span style="color:red">biến đổi tuyến tính</span> của không gian vectơ  $$ V $$ nếu thỏa mãn hai tính chất sau với mọi $$u,v\in V$$ và với mọi $$k\in \R$$:\\
+Ánh xạ $$T:V\to V$$ của không gian vectơ   $$ V $$ được gọi là <span style="color:red">biến đổi tuyến tính</span> của không gian vectơ  $$ V $$ nếu thỏa mãn hai tính chất sau với mọi $$u,v\in V$$ và với mọi $$k\in {\rm I\!R}$$:\\
 1) $$T(ku)=kT(u)$$ \\
 2) $$T(u+v)=T(u)+T(v)$$
 #### Câu hỏi
 Ánh xạ $$T:V\to W$$ từ không gian vectơ $$ V $$ đến không gian vectơ   <span style="color:red">$$ W $$ KHÔNG là ánh xạ tuyến tính</span> khi nào?
 #### Hướng dẫn 
 Ánh xạ $$T:V\to W$$ từ không gian vectơ $$ V $$ đến không gian vectơ   <span style="color:red">$$ W $$ KHÔNG là ánh xạ tuyến tính</span>  nếu  nó vi phạm một trong hai điều kiện trên. Tức là 
-1) Tồn tại $$ k \in \mathbb{R } $$ , tồn tại $$u \in V$$ sao cho $$T(ku)\neq kT(u)$$. hoặc
+1) Tồn tại $$ k \in \mathbb{R} $$ , tồn tại $$u \in V$$ sao cho $$T(ku)\neq kT(u)$$. hoặc
 2) Tồn tại $$u,v \in V$$ sao cho $$T(u+v)\neq T(u)+T(v)$$.
 #### 7.1.3 Tính chất
 Cho $$T:V\to W$$ là ánh xạ tuyến tính, thì: \\
-1)   $$T(k_1v_1+k_2v_2)=k_1T(v_1)+k_2T(v_2)$$ với mọi $$v_1,v_2\in V$$ và $$k_1,k_2\in \R$$.\\
+1)   $$T(k_1v_1+k_2v_2)=k_1T(v_1)+k_2T(v_2)$$ với mọi $$v_1,v_2\in V$$ và $$k_1,k_2\in {\rm I\!R}$$.\\
 	Tổng quát hơn: $$T(k_1v_1+k_2v_2+\cdots+k_rv_r)=k_1T(v_1)+k_2T(v_2)+\cdots+k_rT(v_r)$$. \\
 2)  $$T(0)=0$$.   \\
 3)  $$T(u-v)=T(u)-T(v)$$. 
 ### Chứng minh
-1) Với mọi $$v_1,v_2\in V$$ và $$k_1,k_2\in \R$$ ta đều có $$   T(k_1v_1+k_2v_2)=T(k_1v_1)+T(k_2v_2)= k_1T(v_1)+k_2T(v_2).   $$
+1) Với mọi $$v_1,v_2\in V$$ và $$k_1,k_2\in {\rm I\!R}$$ ta đều có $$   T(k_1v_1+k_2v_2)=T(k_1v_1)+T(k_2v_2)= k_1T(v_1)+k_2T(v_2).   $$
 Tổng quát $$T(k_1v_1+k_2v_2+\cdots+k_rv_r)= T(k_1v_1)+T(k_2v_2)+\cdots+T(k_rv_r)=k_1T(v_1)+k_2T(v_2)+\cdots+k_rT(v_r)$$.
 2) $$T(0)=T(0+0)=T(0)+T(0)$$. Suy ra $$T(0)=0$$.
 3) $$T(u-v)=T(1.u+(-1)v))=1.T(u)+(-1)T(v)=T(u)-T(v)$$ với mọi $$u,v \in V$$.
@@ -52,7 +52,7 @@ Cho $$ V $$ là không gian vectơ. Chứng minh rằng ánh xạ đồng nhất
 Suy ra $$Id_V$$ bảo toàn phép cộng. \\
 Vậy  $$Id_V$$ là một ánh xạ tuyến tính.  
 #### Ví dụ 2.   
-**Ánh xạ co và giãn.** Cho $$V$$ là không gian vectơ, $$k\in \R$$ cho trước, ánh xạ $$T_1:V\to V$$, $$T_1(v)=kv$$ với mọi $$v\in V$$. Nếu $$0<k<1$$ thì $$T_1$$ được gọi là phép co, và nếu $$k>1$$ thì $$T_1$$ được gọi là phép giãn của $$ V $$ với hệ số $$k$$.
+**Ánh xạ co và giãn.** Cho $$V$$ là không gian vectơ, $$k\in {\rm I\!R}$$ cho trước, ánh xạ $$T_1:V\to V$$, $$T_1(v)=kv$$ với mọi $$v\in V$$. Nếu $$0<k<1$$ thì $$T_1$$ được gọi là phép co, và nếu $$k>1$$ thì $$T_1$$ được gọi là phép giãn của $$ V $$ với hệ số $$k$$.
 
 #### Hướng dẫn giải
 
