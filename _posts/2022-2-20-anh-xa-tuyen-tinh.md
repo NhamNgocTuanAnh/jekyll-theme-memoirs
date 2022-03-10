@@ -19,13 +19,13 @@ comments: false
 
 #### 7.1.2. Định nghĩa   
 
-Ánh xạ $$T:V\to V$$ của không gian vectơ   $$V$$ được gọi là [biến đổi tuyến tính]{cyan}  của không gian vectơ  $$V$$ nếu thỏa mãn hai tính chất sau với mọi $$u,v\in V$$ và với mọi $$k\in \R$$:
-1)   $$T(ku)=kT(u)$$\\
-2) $$T(u+v)=T(u)+T(v)$$\\
+Ánh xạ $$T:V\to V$$ của không gian vectơ   $$V$$ được gọi là [biến đổi tuyến tính]{cyan}  của không gian vectơ  $$V$$ nếu thỏa mãn hai tính chất sau với mọi $$u,v\in V$$ và với mọi $$k\in \R$$:\\
+1) $$T(ku)=kT(u)$$
+2) $$T(u+v)=T(u)+T(v)$$
 #### Câu hỏi
-Ánh xạ $$T:V\to W$$ từ không gian vectơ $$V$$ đến không gian vectơ   [$$W$$ KHÔNG là ánh xạ tuyến tính]{#ff9a8f} khi nào?
+Ánh xạ $$T:V\to W$$ từ không gian vectơ $$V$$ đến không gian vectơ   <span style="color:red">$$W$$ KHÔNG là ánh xạ tuyến tính</span> khi nào?
 #### Hướng dẫn 
- Ánh xạ $$T:V\to W$$ từ không gian vectơ $$V$$ đến không gian vectơ   [$$W$$  KHÔNG là ánh xạ tuyến tính]{#ff9a8f}  nếu  nó vi phạm một trong hai điều kiện trên. Tức là 
+ Ánh xạ $$T:V\to W$$ từ không gian vectơ $$V$$ đến không gian vectơ   <span style="color:red">$$W$$  KHÔNG là ánh xạ tuyến tính</span>  nếu  nó vi phạm một trong hai điều kiện trên. Tức là 
 1)   Tồn tại $$ k \in \mathbb{R } $$ , tồn tại $$u \in V$$ sao cho $$T(ku)\neq kT(u)$$. hoặc
 2) 	 Tồn tại $$u,v \in V$$ sao cho $$T(u+v)\neq T(u)+T(v)$$. \end{enumerate} 
 #### 7.1.3 Tính chất
@@ -57,11 +57,10 @@ Vậy $T_1$ là ánh xạ tuyến tính.
   Cho ánh xạ $$T_2:P_n\to P_{n+1}$$, $$T_2(p(x)=c_0+c_1x+\cdots+c_nx^n)=xp(x)=c_0x+c_1x^2+\cdots+c_nx^{n+1}$$.
   Chứng minh rằng  $$T_2$$ là một ánh xạ tuyến tính.
 ####_Hướng dẫn giải 
-	1)   Với mọi $$p(x)= c_0+c_1x+\cdots+c_nx^n \in P_n,$$ với mọi $$k \in \mathbb{R } $$ ta đều có 
-$ $   \colorbox[rgb]{0.0,1.0,1.0}{ \boxed{ T_2 (kp(x))}}= T_2( kc_0+kc_1x+\cdots+ kc_nx^n) = kc_0x+kc_1 x^2 +\cdots+ kc_nx^{n+1}$$ $ 
-$	=k(c_0x+c_1x^2+\cdots+c_nx^{n+1})= \colorbox[rgb]{0.0,1.0,1.0}{ \boxed{   k T_2(p(x))}}.$$ 
+1)   Với mọi $$p(x)= c_0+c_1x+\cdots+c_nx^n \in P_n$$, với mọi $$k \in \mathbb{R } $$ ta đều có 
+$$   \colorbox[rgb]{0.0,1.0,1.0}{ \boxed{ T_2 (kp(x))}}= T_2( kc_0+kc_1x+\cdots+ kc_nx^n) = kc_0x+kc_1 x^2 +\cdots+ kc_nx^{n+1}$$ $$=k(c_0x+c_1x^2+\cdots+c_nx^{n+1})= \colorbox[rgb]{0.0,1.0,1.0}{ \boxed{   k T_2(p(x))}}.$$ 
 2)  Với mọi $$p(x)=c_0+c_1x+\cdots+c_nx^n ,q(x)=c'_0+c'_1x+\cdots+c'_nx^n \in V=P_n$$ ta đều có
-$ $  \colorbox[rgb]{0.0,1.0,0.0}{ \boxed{  T_2( p(x)+q(x))}}=  T_2( (c_0+c'_0)+(c_1+c_1')x+\cdots+ (c_n+c'_n)x^n )$$ $$= (c_0+c'_0)x+(c_1+c_1')x^2+\cdots+ (c_n+c'_n)x^{n+1}$$ $$= (c_0x+c_1x^2+\cdots+c_nx^{n+1})+  (c'_0x+c'_1x^2+\cdots+c'_nx^{n+1} ) =\colorbox[rgb]{0.0,1.0,0.0}{ \boxed{  T_2(p(x))+T_2(q(x)).}}   $$ 
-		Vậy $$T_2$$ là một ánh xạ tuyến tính.
+$$  \colorbox[rgb]{0.0,1.0,0.0}{ \boxed{  T_2( p(x)+q(x))}}=  T_2( (c_0+c'_0)+(c_1+c_1')x+\cdots+ (c_n+c'_n)x^n )$$ $$= (c_0+c'_0)x+(c_1+c_1')x^2+\cdots+ (c_n+c'_n)x^{n+1}$$ $$= (c_0x+c_1x^2+\cdots+c_nx^{n+1})+  (c'_0x+c'_1x^2+\cdots+c'_nx^{n+1} ) =\colorbox[rgb]{0.0,1.0,0.0}{ \boxed{  T_2(p(x))+T_2(q(x)).}}   $$ 
+Vậy $$T_2$$ là một ánh xạ tuyến tính.
 		
 
