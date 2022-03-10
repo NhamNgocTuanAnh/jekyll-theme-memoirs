@@ -32,10 +32,8 @@ authors:
     name: Nhâm Ngọc Tần
     display_name: Nhâm Ngọc Tần    
     avatar: 'assets/images/tan.jpg'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+    facebook: https://www.facebook.com/tan.nhamngoc
+    description: "Quan trọng là thần thái!"
 
 # Plugins
 plugins:
