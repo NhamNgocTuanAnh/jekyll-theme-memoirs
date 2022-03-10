@@ -15,22 +15,22 @@ header-includes:
 ### 7.1 Định nghĩa và ví dụ
 #### 7.1.1 Định nghĩa
 
-Ánh xạ $$T:V\to W$$ từ không gian vectơ   $V$ đến không gian vectơ   $$W$$ được gọi là <span style="color:red">ánh xạ tuyến tính</span> nếu thỏa mãn hai tính chất sau với mọi $$u,v\in V$$ và với mọi $$k\in \R$$:
+Ánh xạ $$T:V\to W$$ từ không gian vectơ $$ V $$ đến không gian vectơ   $$ W $$ được gọi là <span style="color:red">ánh xạ tuyến tính</span> nếu thỏa mãn hai tính chất sau với mọi $$u,v\in V$$ và với mọi $$k\in \R$$:
 
 1)   $$T(ku)=kT(u)$$ (tính bảo toàn phép nhân với vô hướng) \\
 2)   $$T(u+v)=T(u)+T(v)$$ (tính bảo toàn phép cộng).
 
 #### 7.1.2. Định nghĩa   
 
-Ánh xạ $$T:V\to V$$ của không gian vectơ   $$V$$ được gọi là [biến đổi tuyến tính]{cyan}  của không gian vectơ  $$V$$ nếu thỏa mãn hai tính chất sau với mọi $$u,v\in V$$ và với mọi $$k\in \R$$:\\
+Ánh xạ $$T:V\to V$$ của không gian vectơ   $$ V $$ được gọi là <span style="color:red">biến đổi tuyến tính</span> của không gian vectơ  $$ V $$ nếu thỏa mãn hai tính chất sau với mọi $$u,v\in V$$ và với mọi $$k\in \R$$:\\
 1) $$T(ku)=kT(u)$$ \\
 2) $$T(u+v)=T(u)+T(v)$$
 #### Câu hỏi
-Ánh xạ $$T:V\to W$$ từ không gian vectơ $$V$$ đến không gian vectơ   <span style="color:red">$$W$$ KHÔNG là ánh xạ tuyến tính</span> khi nào?
+Ánh xạ $$T:V\to W$$ từ không gian vectơ $$ V $$ đến không gian vectơ   <span style="color:red">$$ W $$ KHÔNG là ánh xạ tuyến tính</span> khi nào?
 #### Hướng dẫn 
- Ánh xạ $$T:V\to W$$ từ không gian vectơ $$V$$ đến không gian vectơ   <span style="color:red">$$W$$  KHÔNG là ánh xạ tuyến tính</span>  nếu  nó vi phạm một trong hai điều kiện trên. Tức là 
-1)   Tồn tại $$ k \in \mathbb{R } $$ , tồn tại $$u \in V$$ sao cho $$T(ku)\neq kT(u)$$. hoặc
-2) 	 Tồn tại $$u,v \in V$$ sao cho $$T(u+v)\neq T(u)+T(v)$$. \end{enumerate} 
+Ánh xạ $$T:V\to W$$ từ không gian vectơ $$ V $$ đến không gian vectơ   <span style="color:red">$$ W $$ KHÔNG là ánh xạ tuyến tính</span>  nếu  nó vi phạm một trong hai điều kiện trên. Tức là 
+1) Tồn tại $$ k \in \mathbb{R } $$ , tồn tại $$u \in V$$ sao cho $$T(ku)\neq kT(u)$$. hoặc
+2) Tồn tại $$u,v \in V$$ sao cho $$T(u+v)\neq T(u)+T(v)$$.
 #### 7.1.3 Tính chất
 Cho $$T:V\to W$$ là ánh xạ tuyến tính, thì: \\
 1)   $$T(k_1v_1+k_2v_2)=k_1T(v_1)+k_2T(v_2)$$ với mọi $$v_1,v_2\in V$$ và $$k_1,k_2\in \R$$.\\
@@ -44,11 +44,11 @@ Tổng quát $$T(k_1v_1+k_2v_2+\cdots+k_rv_r)= T(k_1v_1)+T(k_2v_2)+\cdots+T(k_rv
 3) $$T(u-v)=T(1.u+(-1)v))=1.T(u)+(-1)T(v)=T(u)-T(v)$$ với mọi $$u,v \in V$$.
 #### 7.1.4  Ví dụ minh họa
 ##### Ví dụ 1   (Ánh xạ đồng nhất)
-Cho $$ V $$ là không gian vectơ. Chứng minh rằng ánh xạ đồng nhất $$ Id_V:V \to V $$, $$ Id_V(v)=v $$ với mọi $$ v\in V $$ là một ánh xạ tuyến tính. \\
+Cho $$ V $$ là không gian vectơ. Chứng minh rằng ánh xạ đồng nhất $$ Id_V:V \to V $$, $$ Id_V(v)=v $$ với mọi $$ v\in V $$ là một ánh xạ tuyến tính.
 #### Hướng dẫn giải
 
 1) Với mọi $$u \in V$$, với mọi $$k \in \mathbb{R } $$ ta đều có    <span style="color:red"> $$\boxed{ Id_V(ku)}$$</span> $$=ku=k.u =$$ <span style="color:red"> $$\boxed{k Id_V(u)}.$$</span> 	Suy ra $$Id_V$$ bảo toàn phép nhân vô hướng. \\
-2) Với mọi $$ u,v \in V $$ ta đều có<span style="color:red">$$\boxed{Id_V(u+v)}= u+v=$$</span> <span style="color:red">  $$\boxed{ADId_V(u)+ Id_V(v)}. $$</span> \\
+2) Với mọi $$ u,v \in V $$ ta đều có<span style="color:red">$$\boxed{Id_V(u+v)}$$</span>$$= u+v=$$ <span style="color:red"> $$\boxed{ADId_V(u)+ Id_V(v)}. $$</span> \\
 Suy ra $$Id_V$$ bảo toàn phép cộng. \\
 Vậy  $$Id_V$$ là một ánh xạ tuyến tính.  
 #### Ví dụ 2.   
@@ -56,8 +56,8 @@ Vậy  $$Id_V$$ là một ánh xạ tuyến tính.
 
 #### Hướng dẫn giải
 
-1) Với mọi $$v \in V$$ và với mọi $$m \in \mathbb{R } $$ ta có $ \colorbox[rgb]{1.0,1.0,0.0}{ \boxed{  T_1(mv)}}=k(mv)=m(kv)=  \colorbox[rgb]{1.0,1.0,0.0}{ \boxed{  mT_1(v)}}$$. Suy ra $$T_1$$ bảo toàn phép nhân vô hướng. \\
-2) Với mọi $$v,v' \in V$$ ta đều có $$ \colorbox[rgb]{0.0,1.0,1.0}{ \boxed{ T_1(v+v')}}=k(v+v')= kv+kv'= \colorbox[rgb]{1.0,1.0,0.0}{ \boxed{  T_1(v)+T_1(v')}}$$. Suy ra $$T_1$$ bảo toàn phép cộng.  
+1) Với mọi $$v \in V$$ và với mọi $$m \in \mathbb{R } $$ ta có <span style="color:red">$$ \boxed{  T_1(mv)}$$</span>$$=k(mv)=m(kv)=$$  <span style="color:red">$$\boxed{  mT_1(v)}}$$</span>. Suy ra $$T_1$$ bảo toàn phép nhân vô hướng. \\
+2) Với mọi $$v,v' \in V$$ ta đều có <span style="color:red"> $$\boxed{ T_1(v+v')}$$</span>$$=k(v+v')= kv+kv'= $$<span style="color:red">$$\boxed{  T_1(v)+T_1(v')}$$</span>. Suy ra $$T_1$$ bảo toàn phép cộng.  
 Vậy $$T_1$$ là ánh xạ tuyến tính.  
 #### Ví dụ 3. 
 Cho ánh xạ $$T_2:P_n\to P_{n+1}$$, $$T_2(p(x)=c_0+c_1x+\cdots+c_nx^n)=xp(x)=c_0x+c_1x^2+\cdots+c_nx^{n+1}$$.
