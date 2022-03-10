@@ -4,7 +4,7 @@ title:  "Chương 7. Ánh xạ tuyến tính"
 author: john
 categories: [ Toán học ]
 tags: [ Python, Lập trình ]
-image: assets/images/anh-xa-tuyen-tinh-chuong-7.jpg
+image: assets/images/math/anh-xa-tuyen-tinh-chuong-7.jpg
 # rating: 4.5
 comments: false
 ---
