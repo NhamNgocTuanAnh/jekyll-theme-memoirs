@@ -21,11 +21,11 @@ $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
 2)   $$T(u+v)=T(u)+T(v)$$ (tính bảo toàn phép cộng).
 
 #### 7.1.2. Định nghĩa   
-		Ánh xạ $T:V\to V$ của không gian vectơ   $V$ được gọi là \colorbox[rgb]{0.0,1.0,0.0}{ biến đổi tuyến tính} của không gian vectơ  $V$ nếu thỏa mãn hai tính chất sau với mọi $u,v\in V$ và với mọi $k\in \R$:
-1)   $T(ku)=kT(u)$
-2) $T(u+v)=T(u)+T(v)$.
+Ánh xạ $$T:V\to V$$ của không gian vectơ   $$V$$ được gọi là [biến đổi tuyến tính]{cyan}  của không gian vectơ  $$V$$ nếu thỏa mãn hai tính chất sau với mọi $$u,v\in V$$ và với mọi $$k\in \R$$:
+1)   $$T(ku)=kT(u)$$\\
+2) $$T(u+v)=T(u)+T(v)$$\\
 #### Câu hỏi
-Ánh xạ $T:V\to W$ từ không gian vectơ   $V$ đến không gian vectơ   $W$  \colorbox[rgb]{0.0,1.0,0.0}{ KHÔNG là ánh xạ tuyến tính} khi nào?
+Ánh xạ $$T:V\to W$$ từ không gian vectơ   $$V$$ đến không gian vectơ   [$$W$$ KHÔNG là ánh xạ tuyến tính]{#ff9a8f} khi nào?
 #### Hướng dẫn 
  Ánh xạ $T:V\to W$ từ không gian vectơ   $V$ đến không gian vectơ   $W$  \colorbox[rgb]{0.0,1.0,0.0}{ KHÔNG là ánh xạ tuyến tính}  nếu  nó vi phạm một trong hai điều kiện trên. Tức là 
 1)   Tồn tại $ k \in \mathbb{R } $ , tồn tại $u \in V$ sao cho $T(ku)\neq kT(u)$. hoặc
