@@ -14,13 +14,13 @@ comments: false
 
 Ánh xạ $$T:V\to W$$ từ không gian vectơ   $V$ đến không gian vectơ   $$W$$ được gọi là <span style="color:red">ánh xạ tuyến tính</span> nếu thỏa mãn hai tính chất sau với mọi $$u,v\in V$$ và với mọi $$k\in \R$$:
 
-1)   $$T(ku)=kT(u)$$ (tính bảo toàn phép nhân với vô hướng)\\
+1)   $$T(ku)=kT(u)$$ (tính bảo toàn phép nhân với vô hướng) \\
 2)   $$T(u+v)=T(u)+T(v)$$ (tính bảo toàn phép cộng).
 
 #### 7.1.2. Định nghĩa   
 
 Ánh xạ $$T:V\to V$$ của không gian vectơ   $$V$$ được gọi là [biến đổi tuyến tính]{cyan}  của không gian vectơ  $$V$$ nếu thỏa mãn hai tính chất sau với mọi $$u,v\in V$$ và với mọi $$k\in \R$$:\\
-1) $$T(ku)=kT(u)$$
+1) $$T(ku)=kT(u)$$ \\
 2) $$T(u+v)=T(u)+T(v)$$
 #### Câu hỏi
 Ánh xạ $$T:V\to W$$ từ không gian vectơ $$V$$ đến không gian vectơ   <span style="color:red">$$W$$ KHÔNG là ánh xạ tuyến tính</span> khi nào?
