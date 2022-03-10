@@ -7,6 +7,9 @@ tags: [ Python, Lập trình ]
 image: assets/images/math/anh-xa-tuyen-tinh-chuong-7.jpg
 # rating: 4.5
 comments: false
+header-includes:
+  - \usepackage{xcolor}
+  - \usepackage{colorbox}
 ---
 
 ### 7.1 Định nghĩa và ví dụ
