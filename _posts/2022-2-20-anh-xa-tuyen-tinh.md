@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Emotion recognition. (Part 4) Implementation Image,video"
@@ -14,9 +13,10 @@ comments: false
 ## _Chương 7. Ánh xạ tuyến tính_
 ### 7.1 Định nghĩa và ví dụ
 #### 7.1.1 Định nghĩa
-		Ánh xạ $T:V\to W$ từ không gian vectơ   $V$ đến không gian vectơ   $W$ được gọi là \colorbox[rgb]{0.0,1.0,1.0}{ ánh xạ tuyến tính} nếu thỏa mãn hai tính chất sau với mọi $u,v\in V$ và với mọi $k\in \R$:
-1)   $T(ku)=kT(u)$ (tính bảo toàn phép nhân với vô hướng)
-2)   $T(u+v)=T(u)+T(v)$ (tính bảo toàn phép cộng).
+Ánh xạ $$T:V\to W$$ từ không gian vectơ   $V$ đến không gian vectơ   $$W$$ được gọi là $$\colorbox[rgb]{0.0,1.0,1.0}{ ánh xạ tuyến tính}$$ nếu thỏa mãn hai tính chất sau với mọi $u,v\in V$ và với mọi $k\in \R$:
+1)   $$T(ku)=kT(u)$$ (tính bảo toàn phép nhân với vô hướng)
+2)   $$T(u+v)=T(u)+T(v)$$ (tính bảo toàn phép cộng).
+
 #### 7.1.2. Định nghĩa   
 		Ánh xạ $T:V\to V$ của không gian vectơ   $V$ được gọi là \colorbox[rgb]{0.0,1.0,0.0}{ biến đổi tuyến tính} của không gian vectơ  $V$ nếu thỏa mãn hai tính chất sau với mọi $u,v\in V$ và với mọi $k\in \R$:
 1)   $T(ku)=kT(u)$
