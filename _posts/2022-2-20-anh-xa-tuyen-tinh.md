@@ -32,12 +32,12 @@ header-includes:
 1)   Tồn tại $$ k \in \mathbb{R } $$ , tồn tại $$u \in V$$ sao cho $$T(ku)\neq kT(u)$$. hoặc
 2) 	 Tồn tại $$u,v \in V$$ sao cho $$T(u+v)\neq T(u)+T(v)$$. \end{enumerate} 
 #### 7.1.3 Tính chất
-Cho $$T:V\to W$$ là ánh xạ tuyến tính, thì:\\
-1)   $$T(k_1v_1+k_2v_2)=k_1T(v_1)+k_2T(v_2)$ với mọi $v_1,v_2\in V$ và $k_1,k_2\in \R$$.\\
+Cho $$T:V\to W$$ là ánh xạ tuyến tính, thì: \\
+1)   $$T(k_1v_1+k_2v_2)=k_1T(v_1)+k_2T(v_2)$$ với mọi $$v_1,v_2\in V$$ và $$k_1,k_2\in \R$$.\\
 	Tổng quát hơn: $$T(k_1v_1+k_2v_2+\cdots+k_rv_r)=k_1T(v_1)+k_2T(v_2)+\cdots+k_rT(v_r)$$. \\
-2)  $$T(0)=0$$.
+2)  $$T(0)=0$$.   \\
 3)  $$T(u-v)=T(u)-T(v)$$. \\
-###_Chứng minh
+### Chứng minh
 1) Với mọi $$v_1,v_2\in V$$ và $$k_1,k_2\in \R$$ ta đều có $$   T(k_1v_1+k_2v_2)=T(k_1v_1)+T(k_2v_2)= k_1T(v_1)+k_2T(v_2).   $$
 Tổng quát $$T(k_1v_1+k_2v_2+\cdots+k_rv_r)= T(k_1v_1)+T(k_2v_2)+\cdots+T(k_rv_r)=k_1T(v_1)+k_2T(v_2)+\cdots+k_rT(v_r)$$.
 2) $$T(0)=T(0+0)=T(0)+T(0)$$. Suy ra $$T(0)=0$$.
