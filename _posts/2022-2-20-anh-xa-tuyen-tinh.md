@@ -57,8 +57,8 @@ Vậy  $$Id_V$$ là một ánh xạ tuyến tính.
 
 #### Hướng dẫn giải
 
-1) Với mọi $$v \in V$$ và với mọi $$m \in \mathbb{R } $$ ta có <span style="color:red">$$ \boxed{  T_1(mv)}$$</span>$$=k(mv)=m(kv)=$$  <span style="color:red">$$\boxed{  mT_1(v)}}$$</span>. Suy ra $$T_1$$ bảo toàn phép nhân vô hướng. \\
-2) Với mọi $$v,v' \in V$$ ta đều có <span style="color:red"> $$\boxed{ T_1(v+v')}$$</span>$$=k(v+v')= kv+kv'= $$<span style="color:red">$$\boxed{  T_1(v)+T_1(v')}$$</span>. Suy ra $$T_1$$ bảo toàn phép cộng.  
+1) Với mọi $$v \in V$$ và với mọi $$m \in \mathbb{R } $$ ta có <span style="color:red">$$ \boxed{  T_1(mv)}$$</span>$$=k(mv)=m(kv)=$$  <span style="color:red">$$\boxed{mT_1(v)}$$</span>. Suy ra $$T_1$$ bảo toàn phép nhân vô hướng. \\
+2) Với mọi $$v,v' \in V$$ ta đều có <span style="color:red"> $$\boxed{ T_1(v+v')}$$</span>$$=k(v+v')= kv+kv'= $$<span style="color:red">$$\boxed{T_1(v)+T_1(v')}$$</span>. Suy ra $$T_1$$ bảo toàn phép cộng.  
 Vậy $$T_1$$ là ánh xạ tuyến tính.  
 #### Ví dụ 3. 
 Cho ánh xạ $$T_2:P_n\to P_{n+1}$$, $$T_2(p(x)=c_0+c_1x+\cdots+c_nx^n)=xp(x)=c_0x+c_1x^2+\cdots+c_nx^{n+1}$$.
