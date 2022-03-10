@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ánh xạ tuyến tính"
+title:  "Chương 7. Ánh xạ tuyến tính"
 author: john
 categories: [ Toán học ]
 tags: [ Python, Lập trình ]
@@ -9,8 +9,6 @@ image: assets/images/emotion-detection/happy-ex-p4.webp
 comments: false
 ---
 
-# Nhâm Ngọc Tần
-## _Chương 7. Ánh xạ tuyến tính_
 ### 7.1 Định nghĩa và ví dụ
 #### 7.1.1 Định nghĩa
 Ánh xạ $$T:V\to W$$ từ không gian vectơ   $V$ đến không gian vectơ   $$W$$ được gọi là $$\colorbox[rgb]{0.0,1.0,1.0}{ ánh xạ tuyến tính}$$ nếu thỏa mãn hai tính chất sau với mọi $u,v\in V$ và với mọi $k\in \R$:
