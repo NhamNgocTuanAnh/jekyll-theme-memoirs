@@ -16,7 +16,8 @@ $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
 
 
 Ánh xạ $$T:V\to W$$ từ không gian vectơ   $V$ đến không gian vectơ   $$W$$ được gọi là <span style="color:red">ánh xạ tuyến tính</span> nếu thỏa mãn hai tính chất sau với mọi $$u,v\in V$$ và với mọi $$k\in \R$$:
-1)   $$T(ku)=kT(u)$$ (tính bảo toàn phép nhân với vô hướng)
+
+1)   $$T(ku)=kT(u)$$ (tính bảo toàn phép nhân với vô hướng)\\
 2)   $$T(u+v)=T(u)+T(v)$$ (tính bảo toàn phép cộng).
 
 #### 7.1.2. Định nghĩa   
