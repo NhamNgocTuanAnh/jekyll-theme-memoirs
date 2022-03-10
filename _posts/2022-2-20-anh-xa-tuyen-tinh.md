@@ -68,7 +68,7 @@ Chứng minh rằng  $$T_2$$ là một ánh xạ tuyến tính.
 <span style="color:red">$$  \boxed{ T_2 (kp(x))}$$</span>$$= T_2( kc_0+kc_1x+\cdots+ kc_nx^n) = kc_0x+kc_1 x^2 +\cdots+ kc_nx^{n+1}$$ $$=k(c_0x+c_1x^2+\cdots+c_nx^{n+1})=$$ <span style="color:red">$$ \boxed{k T_2(p(x))}$$</span> 
 
 2)  Với mọi $$p(x)=c_0+c_1x+\cdots+c_nx^n ,q(x)=c'_0+c'_1x+\cdots+c'_nx^n \in V=P_n$$ ta đều có
-<span style="color:red">$$ \boxed{  T_2( p(x)+q(x))}</span> $$=  T_2( (c_0+c'_0)+(c_1+c_1')x+\cdots+ (c_n+c'_n)x^n )$$ $$= (c_0+c'_0)x+(c_1+c_1')x^2+\cdots+ (c_n+c'_n)x^{n+1}$$ $$= (c_0x+c_1x^2+\cdots+c_nx^{n+1})+  (c'_0x+c'_1x^2+\cdots+c'_nx^{n+1} ) =$$<span style="color:red">$$ \boxed{  T_2(p(x))+T_2(q(x))}$$</span>.
+<span style="color:red">$$ \boxed{  T_2( p(x)+q(x))}$$</span> $$=  T_2( (c_0+c'_0)+(c_1+c_1')x+\cdots+ (c_n+c'_n)x^n )$$ $$= (c_0+c'_0)x+(c_1+c_1')x^2+\cdots+ (c_n+c'_n)x^{n+1}$$ $$= (c_0x+c_1x^2+\cdots+c_nx^{n+1})+  (c'_0x+c'_1x^2+\cdots+c'_nx^{n+1} ) =$$<span style="color:red">$$ \boxed{  T_2(p(x))+T_2(q(x))}$$</span>.
 
 Vậy $$T_2$$ là một ánh xạ tuyến tính.
 		
