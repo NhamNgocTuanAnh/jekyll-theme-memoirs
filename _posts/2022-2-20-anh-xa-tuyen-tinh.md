@@ -44,11 +44,11 @@ Tổng quát $$T(k_1v_1+k_2v_2+\cdots+k_rv_r)= T(k_1v_1)+T(k_2v_2)+\cdots+T(k_rv
 3) $$T(u-v)=T(1.u+(-1)v))=1.T(u)+(-1)T(v)=T(u)-T(v)$$ với mọi $$u,v \in V$$.
 #### 7.1.4  Ví dụ minh họa
 ##### Ví dụ 1   (Ánh xạ đồng nhất)
- Cho $$V$$ là không gian vectơ. Chứng minh rằng ánh xạ đồng nhất $$Id_V:V\to V$$, $$Id_V(v)=v$$ với mọi $$v\in V$$ là một ánh xạ tuyến tính.
- #### Hướng dẫn giải
-1)    Với mọi $$u \in V$$, với mọi $$k \in \mathbb{R } $$ ta đều có $$   \colorbox[rgb]{0.0,1.0,1.0}{ \boxed{ Id_V(ku)}}=ku=k.u = \colorbox[rgb]{0.0,1.0,1.0}{ \boxed{ k Id_V(u)}} .$$ 	Suy ra $Id_V$ bảo toàn phép nhân vô hướng.
-2)  Với mọi $$u,v \in V$$ ta đều có $$   \colorbox[rgb]{0.0,1.0,0.0}{ \boxed{  Id_V( u+v)}}= u+v=  \colorbox[rgb]{0.0,1.0,0.0}{ \boxed{  Id_V(u)+ Id_V(v)}} . $$
-		Suy ra $$Id_V$$ bảo toàn phép cộng. 
+Cho $$ V $$ là không gian vectơ. Chứng minh rằng ánh xạ đồng nhất $$ Id_V:V \to V $$, $$ Id_V(v)=v $$ với mọi $$ v\in V $$ là một ánh xạ tuyến tính.\\
+#### Hướng dẫn giải
+1) Với mọi $$u \in V$$, với mọi $$k \in \mathbb{R } $$ ta đều có $$   \colorbox[rgb]{0.0,1.0,1.0}{ \boxed{ Id_V(ku)}}=ku=k.u = \colorbox[rgb]{0.0,1.0,1.0}{ \boxed{ k Id_V(u)}} .$$ 	Suy ra $Id_V$ bảo toàn phép nhân vô hướng. \\
+2) Với mọi $$ u,v \in V $$ ta đều có $$ \colorbox[rgb]{0.0,1.0,0.0}{ \boxed{  Id_V( u+v)}}= u+v=  \colorbox[rgb]{0.0,1.0,0.0}{ \boxed{  Id_V(u)+ Id_V(v)}} . $$ \\
+Suy ra $$Id_V$$ bảo toàn phép cộng. \\
 Vậy  $$Id_V$$ là một ánh xạ tuyến tính.  
 #### Ví dụ 2.   
 **Ánh xạ co và giãn.** Cho $$V$$ là không gian vectơ, $$k\in \R$$ cho trước, ánh xạ $$T_1:V\to V$$, $$T_1(v)=kv$$ với mọi $$v\in V$$. Nếu $$0<k<1$$ thì $$T_1$$ được gọi là phép co, và nếu $$k>1$$ thì $$T_1$$ được gọi là phép giãn của $V$ với hệ số $$k$$.
