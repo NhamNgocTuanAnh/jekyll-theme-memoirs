@@ -51,9 +51,9 @@ lý tiếp theo.
 <a name="tongket"></a>
 ### 3. Tổng kết
 
-![image](/assets/images/result-one.webp){:class="img-responsive"}
+![image](/assets/images/emotion-detection/result-one.webp){:class="img-responsive"}
 Hmm có vẻ khá là **khả quan** nhỉ. Nhưng vấn đề sẽ xảy ra **nếu**:
-![image](/assets/images/result-two.webp){:class="img-responsive"}
+![image](/assets/images/emotion-detection/result-two.webp){:class="img-responsive"}
 Bạn có nhìn thấy cái gì sai ở đây không?
 
 Đúng vậy.\\

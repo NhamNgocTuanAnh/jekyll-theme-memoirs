@@ -10,59 +10,58 @@ comments: false
 ---
 
 <!-- > Chúng ta là những gì mà chúng ta ăn vào.  -->
-Trong phần 3 này. Chúng ta sẽ đi thẳng vào ứng dụng của bài toán nhận dạng cảm xúc sử dụng ngôn ngữ lập trình python và thư viện keras.
+Trong phần 3 này. Chúng ta sẽ đi thẳng vào xây dựng mô hình CNN cho model nhận dạng đã được viết ở phần 2.
 
-Đây là một bài toán phân lớp tương đối tiêu chuẩn. Một hệ thống nhận diện cảm xúc khuôn mặt thường được triển khai gồm **2 bước**.
-1. **Nhận ảnh và tiền xử lý.** Ảnh khuôn mặt được lấy từ nguồn dữ liệu tĩnh (chẳng hạn như từ file, database), hoặc động (từ livestream, webcam, camera,…), nguồn dữ liệu này có thể trải qua một số bước tiền xử lý nhằm tăng chất lượng hình ảnh để giúp việc phát hiện cảm xúc trở nên hiệu quả hơn.
-2. **Phân lớp nhận dạng cảm xúc.** 
-   
+Một mô hình học sâu thường có 3 nhiệm vụ được kết hợp trong một kiến trúc mạng duy nhất:
+
+- Các lớp đặc trưng (features): có nhiệm vụ chuyển đổi các đặc trưng thành dạng dữ liệu phù hợp để xử lý,
+chẳng hạn như các tầng tích chập (convolution), mẫu (subsampling), pooling,…
+- Các lớp mô hình (modeling): sử dụng các thuật toán học để khái quát hóa dữ liệu, chẳng hạn nơron network,
+restricted BM, DBN, autoencoder,…
+- Các lớp giải mã (decoding): dựa trên dữ liệu khái quát biến đổi thành đầu ra (markov random field hoặc những công cụ tương tự).
+
 ---
 ### Mục lục
-[1. Ứng dụng với ảnh ](#ungdunganh)\\
-[2. Ứng dụng với video](#ungdungvideo)\\
-[3. Tổng kết ](#tongket)
+[1. Mô hình CNN mạng](#mohinhmangcnn)\\
+[2. Giải thích mô hình](#giaithichmohinh)\\
+[3. Kết quả](#ketqua)
 
 ---
 
-<a name="ungdunganh"></a>
-### 1. Ứng dụng với ảnh
+<a name="mohinhmangcnn"></a>
+### 1. Mô hình CNN mạng
 
-A. Cách làm
+{% gist f77f69224e16a79cb83eda66c741c9ad %}
 
-1. Ảnh đầu vào được chuyển thành đa cấp xám;
-2. Dùng haar cascade (OpenCV) tìm kiếm vùng mặt người trên ảnh đầu vào;
-3. Vùng ảnh mặt người được chuyển đổi về kích thước 48x48;
-4. Ảnh 48x48 đa cấp xám chuyển đổi về miền [0, 1] sau đó đưa vào mô hình CNN;
-5. Đầu ra của CNN là xác suất của các cảm xúc, chọn cảm xúc có xác xuất cao nhất làm kết quả cuối cùng.
+<a name="giaithichmohinh"></a>
+### 2. Giải thích mô hình
+Kiến trúc gồm 8 khối chính , trong đó có 7 khối CNN và khối
+cuối là đầu ra softmax. 
 
-B. Triển khai code
+Đầu tiên, Khối A, ảnh 48x48 đa cấp xám được chuyển vào khối có 64filter, sử
+dụng kernel filter cỡ 3x3, hàm kích hoạt ReLU, kết quả tính toán được chuyển qua một lớp batch normalization. 
 
-{% gist cf7d11672bce4a830524d0ccd6b0043f %}
-<a name="ungdungvideo"></a>
-### 2. Ứng dụng với video
-Vấn đề này dễ dàng hơn vì chúng ta có rất nhiều thông tin về khuôn mặt
-dựa vào các khung hình liên tiếp, và vấn đề này cũng thực tiễn hơn nhiều so
-với nhận dạng cảm xúc trong không gian 2D.\\
-Việc nhận dạng cảm xúc khuôn mặt được thực hiện trên các bức ảnh, do
-đó việc lấy ảnh từ camera ta phải chuyển thành các ảnh tĩnh và xử lý trên
-từng ảnh tĩnh. Khi đã có ảnh đầu vào, tiếp tục chuyển ảnh cho quá trình xử
-lý tiếp theo.
+Khối này được thiết kế với ý đồ tạo ra 64 đặc trưng cơ bản cho việc phát hiện cảm xúc khuôn mặt. Khối B được thiết kế tương
+tự khối A, kể  việc sử dụng 64 filter, mục tiêu của khối này giúp tổ hợp các đặc trưng cơ bản thành các đặc trưng
+phức tạp hơn.
+Kết quả đầu ra khối B được xử lý độc lập trong 2 khối C và D, khối C là một depthwise separable CNN 128
+filter , sau đó được chuẩn hóa bởi một lớp batch normalization và max pooling. 
 
-{% gist 4d585badff602951bd84b0e2c29c4412 %}
+Khối D chỉ là một filter nhằm điều
+chỉnh trọng số của đặc trưng khi tính gộp kết quả với khối C.
 
-<a name="tongket"></a>
-### 3. Tổng kết
+ Khối E và F cũng được thiết kế tương tự như vậy.
 
-![image](/assets/images/result-one.webp){:class="img-responsive"}
-Hmm có vẻ khá là **khả quan** nhỉ. Nhưng vấn đề sẽ xảy ra **nếu**:
-![image](/assets/images/result-two.webp){:class="img-responsive"}
-Bạn có nhìn thấy cái gì sai ở đây không?
+Cuối cùng, sử dụng khối F có 7 filter (tương ứng với 7 loại cảm xúc), kết quả tính toán của CNN được
+chuyển vào một global average pooling (chuyển kết quả 2D thành vector), kết quả này được xử lý qua một lớp softmax
+để trả về xác suất của từng loại cảm xúc.
 
-Đúng vậy.\\
-Thứ nhất: Nhận dạng gương mặt bằng [thuật toán Haar-Like hay còn gọi là Viola's Zone](https://viblo.asia/p/tim-hieu-ve-phuong-phap-nhan-dien-khuon-mat-cua-violas-john-ByEZkNVyKQ0) tuy nhanh nhưng độ chính xác cũng không quá tốt. 
+<a name="ketqua"></a>
+### 3. Kết quả
 
-Thứ hai: Ngôn ngữ python là một ngôn ngữ hiệu năng rất kém. Một hai gương mặt xuất hiện trong video, máy đã chạy lag tung đít rồi. Với một bài toán gồm một lớp học thì sao.
+![image](/assets/images/emotion-detection/thongkehieuqua.png){:class="img-responsive"}
+Kết quả thử nghiệm trên dữ liệu kiểm tra đạt mức độ chính xác khoảng 65% (trung bình 300 lần huấn luyện).
+Trong quá trình huấn luyện độ chính xác thường xuyên cao hơn kết quả kiểm nghiệm trên bộ kiểm tra, nhưng không
+quá sai khác.
 
-Thứ  ba: Là gì ấy nhở, ... ╮(￣～￣)╭ 
-
-(〜￣▽￣)〜 Trong các phần tiếp theo. Mình sẽ đi sâu vào quá trình tối ưu code. Các bạn chú ý đón xem nhé. 〜(￣▽￣〜)
+(〜￣▽￣)〜 Đây là mô hình cơ bản trong CNN. Để tối ưu chúng ta còn phải áp dụng khi tiền xử lý ảnh, craw dữ liệu, custom loss, cắt tỉa mô hình(Compression model),... 〜(￣▽￣〜)
