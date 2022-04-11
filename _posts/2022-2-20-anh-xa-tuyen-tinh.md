@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chương 7. Ánh xạ tuyến tính"
+title:  "[Toán cao cấp]Chương 7. Ánh xạ tuyến tính"
 author: john
 categories: [ Toán học ]
 tags: [ Toán cao cấp ]
