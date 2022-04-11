@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Emotion recognition. (Part 2) Solution"
+title:  "[Học máy]Nhận dạng cảm xúc khuôn mặt. Giải quyết bài toán"
 author: sal
-categories: [ Machine learning ]
+categories: [ Machine learning, học máy ]
 tags: [ Python, Lập trình ]
 image: assets/images/emotion-detection/happy-ex-p2.webp
 # rating: 4.5
@@ -15,7 +15,7 @@ Trong phần 1. Chúng ta đã nêu ra tổng quan bài toán nhận dạng khu�
 Đây là một bài toán phân lớp tương đối tiêu chuẩn. Một hệ thống nhận diện cảm xúc khuôn mặt thường được triển khai gồm **2 bước**.
 1. **Nhận ảnh và tiền xử lý.** Ảnh khuôn mặt được lấy từ nguồn dữ liệu tĩnh (chẳng hạn như từ file, database), hoặc động (từ livestream, webcam, camera,…), nguồn dữ liệu này có thể trải qua một số bước tiền xử lý nhằm tăng chất lượng hình ảnh để giúp việc phát hiện cảm xúc trở nên hiệu quả hơn.
 2. **Phân lớp nhận dạng cảm xúc.** Sử dụng model CNN để nhận dạng cảm xúc con người.
-   
+
 ---
 ### Mục lục
 [1. Nhận ảnh và tiền xử lý ](#nhandanganh)\\
@@ -57,10 +57,10 @@ Hmm có vẻ khá là **khả quan** nhỉ. Nhưng vấn đề sẽ xảy ra **n
 Bạn có nhìn thấy cái gì sai ở đây không?
 
 Đúng vậy.\\
-Thứ nhất: Nhận dạng gương mặt bằng [thuật toán Haar-Like hay còn gọi là Viola's Zone](https://viblo.asia/p/tim-hieu-ve-phuong-phap-nhan-dien-khuon-mat-cua-violas-john-ByEZkNVyKQ0) tuy nhanh nhưng độ chính xác cũng không quá tốt. 
+Thứ nhất: Nhận dạng gương mặt bằng [thuật toán Haar-Like hay còn gọi là Viola's Zone](https://viblo.asia/p/tim-hieu-ve-phuong-phap-nhan-dien-khuon-mat-cua-violas-john-ByEZkNVyKQ0) tuy nhanh nhưng độ chính xác cũng không quá tốt.
 
 Thứ hai: Ngôn ngữ python là một ngôn ngữ hiệu năng rất kém. Một hai gương mặt xuất hiện trong video, máy đã chạy lag tung đít rồi. Với một bài toán gồm một lớp học thì sao.
 
-Thứ  ba: Là gì ấy nhở, ... ╮(￣～￣)╭ 
+Thứ  ba: Là gì ấy nhở, ... ╮(￣～￣)╭
 
 (〜￣▽￣)〜 Trong các phần tiếp theo. Mình sẽ đi sâu vào quá trình tối ưu code. Các bạn chú ý đón xem nhé. 〜(￣▽￣〜)

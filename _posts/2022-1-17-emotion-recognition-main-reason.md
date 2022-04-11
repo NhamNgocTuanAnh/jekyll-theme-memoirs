@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Emotion recognition. (Part 1) Main reason"
+title:  "[Học máy]Nhận dạng cảm xúc khuôn mặt. Tổng quan"
 author: sal
-categories: [ Machine learning ]
+categories: [ Machine learning, học máy ]
 tags: [ Học máy, Python, Lập trình ]
 image: assets/images/emotion-detection/happy-ex-p1.webp
 # rating: 4.5
@@ -38,7 +38,7 @@ Sức mạnh của học máy chính là việc có thể xác định cách ph�
 Đây là một bài toán phân lớp tương đối tiêu chuẩn. Một hệ thống nhận diện cảm xúc khuôn mặt thường được triển khai gồm **2 bước**.
 
 1. **Nhận ảnh và tiền xử lý.** Ảnh khuôn mặt được lấy từ nguồn dữ liệu tĩnh (chẳng hạn như từ file, database), hoặc động (từ livestream, webcam, camera,…), nguồn dữ liệu này có thể trải qua một số bước tiền xử lý nhằm tăng chất lượng hình ảnh để giúp việc phát hiện cảm xúc trở nên hiệu quả hơn.
-2. **Phân lớp nhận dạng cảm xúc.** 
+2. **Phân lớp nhận dạng cảm xúc.**
 
 <a name="mohinhdexuat"></a>
 ### 3. Mô hình đề xuất
@@ -70,7 +70,7 @@ Ngôn ngữ Python kết hợp thêm OpenCV cũng được sử dụng để vi�
 lý dữ liệu đầu vào từ webcam/camera.
 
 A. Với ảnh
-   
+
 1. Ảnh đầu vào được chuyển thành đa cấp xám;
 2. Dùng haar cascade (OpenCV) tìm kiếm vùng mặt người trên ảnh đầu vào;
 3. Vùng ảnh mặt người được chuyển đổi về kích thước 48x48;
@@ -87,7 +87,7 @@ Việc nhận dạng cảm xúc khuôn mặt được thực hiện trên các b
 từng ảnh tĩnh. Khi đã có ảnh đầu vào, tiếp tục chuyển ảnh cho quá trình xử
 lý tiếp theo.
 ---
-## Kết quả 
+## Kết quả
 ![image](/assets/images/emotion-detection/result-fail.webp){:class="img-responsive"}
 
 (〜￣▽￣)〜 Trong các phần tiếp theo. Mình sẽ đi sâu vào quá trình training, tối ưu code và tối ưu bài toán. Các bạn chú ý đón xem nhé. 〜(￣▽￣〜)

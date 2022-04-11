@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Emotion recognition. (Part 3) Implementation Training"
+title:  "[Học máy]Nhận dạng cảm xúc khuôn mặt.(Part 3) Tiến hành Training model"
 author: sal
-categories: [ Machine learning ]
+categories: [ Machine learning, học máy ]
 tags: [ Python, Lập trình ]
 image: assets/images/emotion-detection/happy-ex-p3.webp
 # rating: 4.5
@@ -36,16 +36,16 @@ restricted BM, DBN, autoencoder,…
 <a name="giaithichmohinh"></a>
 ### 2. Giải thích mô hình
 Kiến trúc gồm 8 khối chính , trong đó có 7 khối CNN và khối
-cuối là đầu ra softmax. 
+cuối là đầu ra softmax.
 
 Đầu tiên, Khối A, ảnh 48x48 đa cấp xám được chuyển vào khối có 64filter, sử
-dụng kernel filter cỡ 3x3, hàm kích hoạt ReLU, kết quả tính toán được chuyển qua một lớp batch normalization. 
+dụng kernel filter cỡ 3x3, hàm kích hoạt ReLU, kết quả tính toán được chuyển qua một lớp batch normalization.
 
 Khối này được thiết kế với ý đồ tạo ra 64 đặc trưng cơ bản cho việc phát hiện cảm xúc khuôn mặt. Khối B được thiết kế tương
 tự khối A, kể  việc sử dụng 64 filter, mục tiêu của khối này giúp tổ hợp các đặc trưng cơ bản thành các đặc trưng
 phức tạp hơn.
 Kết quả đầu ra khối B được xử lý độc lập trong 2 khối C và D, khối C là một depthwise separable CNN 128
-filter , sau đó được chuẩn hóa bởi một lớp batch normalization và max pooling. 
+filter , sau đó được chuẩn hóa bởi một lớp batch normalization và max pooling.
 
 Khối D chỉ là một filter nhằm điều
 chỉnh trọng số của đặc trưng khi tính gộp kết quả với khối C.
