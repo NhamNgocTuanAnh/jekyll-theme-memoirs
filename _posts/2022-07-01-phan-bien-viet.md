@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Thói quen công kích cá nhân người Việt'
+title: '[Ngẫm]Bạn biết cái gì mà nói?! - Thói quen công kích cá nhân người Việt'
 author: sal
 categories: [ Suy ngẫm ]
 tags: [ phản biện ]
@@ -17,6 +17,21 @@ Công kích cá nhân (ad hominem) là một dạng nguỵ biện phổ biến t
 
 #### Các hình thức công kích cá nhân
 
+* Chế giễu: nhược điểm ngoại hình, nghề nghiệp hoặc gia cảnh xuất thân → khiến người đối diện tổn thương tâm lý
+* Nhục mạ: Sử dụng các từ ngữ liên quan tới bộ phận sd và hành động giao hợp để hạ nhục đối phương
+* Nguyền rủa: Trù ẻo những chuyện xấu xa tồi tệ sẽ xảy ra cho đối phương hoặc người thân của họ
+* Chụp mũ hoặc vu khống: dựa vào sơ hở trong lúc tranh lyuaajn để gán ghép đối phương một điều xấu xa nghiêm trọng
+
+> "X là một người xấu, vì vậy không nên tin những gì anh ta nói."
+
+#### Tác hại
+
+#### Nguyên nhân
+![image](/assets/images/con-nha-ngta.jpg){:class="img-responsive"}
+
+Bạn đã từng nghe tới câu nói này chưa. Nếu rồi thì chúc mừng bạn - Bạn có một tuổi thơ tươi đẹp đó. Và đó là bạo hành ngôn ngữ. "Bằng tuổi mày, người ta làm được abc xyz.", "Mày nhìn con bác B chưa, đạt điểm mười suốt đó.", "Tao nhặt được mày từ bãi rác", ...vv.
+
+#### Vậy làm gì để thoát hoặc tránh khỏi công kích cá nhân
 
 #### Trích nguồn
 - Các ví dụ về ngụy biện [Các ví dụ về ngụy biện](http://nguyennhutchithao.blogspot.com/) tuy nhanh nhưng độ chính xác cũng không quá tốt.
