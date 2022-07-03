@@ -11,11 +11,20 @@ comments: false
 
 > Lập luận công kích cá nhân (tiếng Anh và tiếng La tinh: Argumentum ad hominem [1](https://vi.wikipedia.org/wiki/L%E1%BA%ADp_lu%E1%BA%ADn_c%C3%B4ng_k%C3%ADch_c%C3%A1_nh%C3%A2n)) là một lập luận, trong đó một vị trí, hay luận điểm của một đối thủ tranh cãi bị bác bỏ bằng cách tấn công các đặc tính hay động cơ, hoàn cảnh cá nhân của người đó thay vì tấn công lý luận của đối thủ.[2] Điều này xảy ra chủ yếu với mục đích để cho đối thủ phải mang tiếng xấu trước công chúng. Nó có thể xảy ra cố ý với tính luận chiến và có thể là chiến lược cãi bướng.
 
-### Thói quen công kích cá nhân người Việt
+### Mục lục
+[1. Định nghĩa](#dinhnghia)\\
+[2. Các hình thức công kích cá nhân](#cachhinhthuc)\\
+[3. Tác hại](#tachai)\\
+[4. Nguyên nhân](#nguyennahn)\\
+[5. Cách tránh](#trachkhoi)\\
+
+<a name="dinhnghia"></a>
+### 1. Thói quen công kích cá nhân người Việt
 
 Công kích cá nhân (ad hominem) là một dạng nguỵ biện phổ biến trong tranh luận đặc biệt là trong những cuộc tranh luận giữa người Việt với nhau ngoài đời lẫn trên mạng xã hội.
 
-#### Các hình thức công kích cá nhân
+<a name="cachhinhthuc"></a>
+### 2. Các hình thức công kích cá nhân
 
 * Chế giễu: nhược điểm ngoại hình, nghề nghiệp hoặc gia cảnh xuất thân → khiến người đối diện tổn thương tâm lý
 * Nhục mạ: Sử dụng các từ ngữ liên quan tới bộ phận sd và hành động giao hợp để hạ nhục đối phương
@@ -24,9 +33,13 @@ Công kích cá nhân (ad hominem) là một dạng nguỵ biện phổ biến t
 
 > "X là một người xấu, vì vậy không nên tin những gì anh ta nói."
 
-#### Tác hại
+<a name="tachai"></a>
+### 3. Tác hại
 
-#### Nguyên nhân
+âsas
+
+<a name="nguyennahn"></a>
+### 4. Nguyên nhân
 ![image](/assets/images/con-nha-ngta.jpg){:class="img-responsive"}
 
 Bạn đã từng nghe tới câu nói này chưa. Nếu rồi thì chúc mừng bạn - Bạn có một tuổi thơ tươi đẹp đó. "Bằng tuổi mày, người ta làm được abc xyz.", "Mày nhìn con bác B chưa, đạt điểm mười suốt đó.", "Tao nhặt được mày từ bãi rác", ...vv.
@@ -43,10 +56,24 @@ Người Châu á rất quan trọng mối quan hệ vai vế, người trên k�
 Người Âu Mỹ xem tranh luận là một hành động hết sức lành mạnh nhằm làm sáng tỏ vấn đề và tìm ra giải pháp cho vấn đề đó nên khi tranh luận họ quan trọng đúng sai cũng như không đặt cái tôi cá nhân vào đó vì xét cho cùng, tranh luận xong cả hai phía đều sẽ hiểu vấn đề một cách toàn diện hơn.
 
 ![image](/assets/images/phan-bien-hay-cong-kich.jpg){:class="img-responsive"}
-[Rồi đó là phản biện hay ám chỉ người khác không hiểu vấn đề?!](https://spiderum.com/bai-dang/Spidrama-Vi-du-ve-su-lam-dung-tu-duy-phan-bien-va-cong-kich-ca-nhan-cua-mot-so-bo-phan-tri-thuc-nua-voi-p4q).
+
+[Rồi đó là phản biện hay ám chỉ người khác không hiểu vấn đề?!](https://spiderum.com/bai-dang/Spidrama-Vi-du-ve-su-lam-dung-tu-duy-phan-bien-va-cong-kich-ca-nhan-cua-mot-so-bo-phan-tri-thuc-nua-voi-p4q) rồi ý nghĩa gì sau những cuộc trò chuyện nóng bỏng này là gì? Hay chỉ là  những sự bực tức, khinh bỉ nhau mà không có gì vô đầu?
 
 
-#### Vậy làm gì để thoát hoặc tránh khỏi công kích cá nhân
+<a name="trachkhoi"></a>
+### 5. Vậy làm gì để thoát hoặc tránh khỏi công kích cá nhân
+
+Xúc phạm danh dự nhân phẩm người khác là hành vi vi phạm pháp luật
+> Pháp luật nước Cộng hòa Xã hội Chủ nghĩa Việt Nam hay Pháp luật của đa phần các quốc gia trên thế giới đều không thể bỏ qua việc “Xúc phạm danh dự nhân phẩm của người khác” dù ở ngoài đời thật hay cả trên mạng xã hội. Điều 34, bộ Luật Dân sự 2015 nước Cộng hòa Xã hội Chủ nghĩa Việt Nam quy định:
+* Thông tin ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín của cá nhân được đăng tải trên phương tiện thông tin đại chúng nào thì phải được gỡ bỏ, cải chính bằng chính phương tiện thông tin đại chúng đó. Nếu thông tin này được cơ quan, tổ chức, cá nhân cất giữ thì phải được hủy bỏ.
+
+* Trường hợp không xác định được người đã đưa tin ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín của mình thì người bị đưa tin có quyền yêu cầu Tòa án tuyên bố thông tin đó là không đúng.
+
+* Cá nhân bị thông tin làm ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín thì ngoài quyền yêu cầu bác bỏ thông tin đó còn có quyền yêu cầu người đưa ra thông tin xin lỗi, cải chính công khai và bồi thường thiệt hại.” ...
+
+Hiện nay, những hành vi xúc phạm danh dự nhân phẩm người khác còn được truy tố trách nhiệm Hình sự, Dân sự hoặc Hành chính tùy vào mức độ nghiêm trọng của vụ việc. Quyền tự do ngôn luận không đồng nghĩa với việc được quyền xúc phạm danh dự nhân phẩm người khác!
+
+Nhưng chính xác hành vi thế nào mới là công kích cá nhân?
 
 #### Trích nguồn
 - Các ví dụ về ngụy biện [Các ví dụ về ngụy biện](http://nguyennhutchithao.blogspot.com/) tuy nhanh nhưng độ chính xác cũng không quá tốt.
