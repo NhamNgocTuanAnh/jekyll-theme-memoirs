@@ -29,7 +29,22 @@ Công kích cá nhân (ad hominem) là một dạng nguỵ biện phổ biến t
 #### Nguyên nhân
 ![image](/assets/images/con-nha-ngta.jpg){:class="img-responsive"}
 
-Bạn đã từng nghe tới câu nói này chưa. Nếu rồi thì chúc mừng bạn - Bạn có một tuổi thơ tươi đẹp đó. Và đó là bạo hành ngôn ngữ. "Bằng tuổi mày, người ta làm được abc xyz.", "Mày nhìn con bác B chưa, đạt điểm mười suốt đó.", "Tao nhặt được mày từ bãi rác", ...vv.
+Bạn đã từng nghe tới câu nói này chưa. Nếu rồi thì chúc mừng bạn - Bạn có một tuổi thơ tươi đẹp đó. "Bằng tuổi mày, người ta làm được abc xyz.", "Mày nhìn con bác B chưa, đạt điểm mười suốt đó.", "Tao nhặt được mày từ bãi rác", ...vv.
+Và đó là bạo hành ngôn ngữ, và chúng ta đã trải nghiệm nó từ nhỏ, ăn sâu vào nhận thức của chúng ta, khiến chúng ta coi nó như chuyện bình thường. Lôi những khiếm khuyết, nhưng sai lầm của người khác ra để mà bêu rếu, nhục mạ. Kẻ tổn thương lại đi làm tổn thương người khác :)).
+
+"Phong ba bão táp, không bằng ngữ pháp Việt Nam" điều này quả là chính xác. Bởi chỉ từ một câu nói nhưng đặt trong hoàn cảnh khác nhau, ngữ nghĩa của chúng lại được hiểu theo ý gần như chẳng liên quan tới nhau.
+![image](/assets/images/ngon-ngu-viet-phong-phu.png){:class="img-responsive"}
+
+Cùng với việc quen với bạo hành ngôn ngữ từ nhỏ. Chúng ta còn được hậu thuẫn bởi sự đồ sộ (lỏng lẻo) của ngôn ngữ Việt. "Đồ lăng loàn trắc nết", "trốn chúa lộn chồng", "đầu trộm đuôi cướp", "đầu trâu mặt ngựa", "lòng lang dạ sói"... Để nguyền rủa nhau cũng có cả kho từ vựng dùng hoài không hết như "đồ diều tha quạ mổ", "trời đánh thánh vật", "voi giày ngựa xé", "chết bờ chết bụi"... Thậm chí bài chửi "mất gà" kinh điển có ca có kệ của miền Bắc còn được xem là một trong những ví dụ về sự hoạt ngôn và phong phú của dân gian về nghệ thuật chửi.
+
+Chúng ta dễ dàn hiểu nhầm nhau.
+Người Châu á rất quan trọng mối quan hệ vai vế, người trên kẻ dưới. Điều đó thể hiện qua đại từ nhân xưng của chính chúng ta: "Tôi, tao, mày,...". Chúng ta có một hệ thống đại từ nhân xưng vô cùng phong phú: "theo độ tuổi, theo thái độ và cảm xúc, theo cả đại phương, vùng miền nữa :))". Vì đó, việc tranh cãi giữa những người có vai vế khác nhau là điều xúc phạm không thể chấp nhận được.
+
+Người Âu Mỹ xem tranh luận là một hành động hết sức lành mạnh nhằm làm sáng tỏ vấn đề và tìm ra giải pháp cho vấn đề đó nên khi tranh luận họ quan trọng đúng sai cũng như không đặt cái tôi cá nhân vào đó vì xét cho cùng, tranh luận xong cả hai phía đều sẽ hiểu vấn đề một cách toàn diện hơn.
+
+![image](/assets/images/phan-bien-hay-cong-kich.jpg){:class="img-responsive"}
+[Rồi đó là phản biện hay ám chỉ người khác không hiểu vấn đề?!](https://spiderum.com/bai-dang/Spidrama-Vi-du-ve-su-lam-dung-tu-duy-phan-bien-va-cong-kich-ca-nhan-cua-mot-so-bo-phan-tri-thuc-nua-voi-p4q).
+
 
 #### Vậy làm gì để thoát hoặc tránh khỏi công kích cá nhân
 
