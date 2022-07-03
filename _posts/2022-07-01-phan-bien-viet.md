@@ -67,8 +67,9 @@ Người Âu Mỹ xem tranh luận là một hành động hết sức lành m�
 <a name="trachkhoi"></a>
 ### 5. Vậy làm gì để thoát hoặc tránh khỏi công kích cá nhân
 
-Xúc phạm danh dự nhân phẩm người khác là hành vi vi phạm pháp luật
-> Pháp luật nước Cộng hòa Xã hội Chủ nghĩa Việt Nam hay Pháp luật của đa phần các quốc gia trên thế giới đều không thể bỏ qua việc “Xúc phạm danh dự nhân phẩm của người khác” dù ở ngoài đời thật hay cả trên mạng xã hội. Điều 34, bộ Luật Dân sự 2015 nước Cộng hòa Xã hội Chủ nghĩa Việt Nam quy định:\\
+Xúc phạm danh dự nhân phẩm người khác là hành vi vi phạm pháp luật.
+> Pháp luật nước Cộng hòa Xã hội Chủ nghĩa Việt Nam hay Pháp luật của đa phần các quốc gia trên thế giới đều không thể bỏ qua việc “Xúc phạm danh dự nhân phẩm của người khác” dù ở ngoài đời thật hay cả trên mạng xã hội. Điều 34, bộ Luật Dân sự 2015 nước Cộng hòa Xã hội Chủ nghĩa Việt Nam quy định:
+
 * Thông tin ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín của cá nhân được đăng tải trên phương tiện thông tin đại chúng nào thì phải được gỡ bỏ, cải chính bằng chính phương tiện thông tin đại chúng đó. Nếu thông tin này được cơ quan, tổ chức, cá nhân cất giữ thì phải được hủy bỏ.
 * Trường hợp không xác định được người đã đưa tin ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín của mình thì người bị đưa tin có quyền yêu cầu Tòa án tuyên bố thông tin đó là không đúng.
 * Cá nhân bị thông tin làm ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín thì ngoài quyền yêu cầu bác bỏ thông tin đó còn có quyền yêu cầu người đưa ra thông tin xin lỗi, cải chính công khai và bồi thường thiệt hại.” ...
