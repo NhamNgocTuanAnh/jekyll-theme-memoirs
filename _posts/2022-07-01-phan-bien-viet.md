@@ -40,7 +40,7 @@ Những màn công kích đám đông với ngôn từ có tính chất phỉ b�
 
 Ví dụ. Một nữ sinh (14 tuổi) có tên tài khoản là Amnesia đã tham gia mạng xã hội Ask.fm để tìm sự cảm thông sau khi chia tay với bạn trai. Tuy nhiên, đáp lại cô là những lời nguyền rủa độc địa: "Tự chết đi!", "Không ai muốn mày cả" và "Mày không bình thường". Và cô cũng đã làm y như thế, tìm đến cái chết khi quá tổn thương về tinh thần. trích [Thế giới ảo và những tác hại của công kích đám đông - Dân trí](https://dantri.com.vn/nhip-song-tre/the-gioi-ao-va-nhung-tac-hai-cua-cong-kich-dam-dong-1431216073.htm)
 
-> "Chúng ta hay nói nhiều về quyền tự do ngôn luận, nhưng chúng ta cần nói nhiều hơn về trách nhiệm của chúng ta với tự do ngôn luận - Cái giá của sự nhục nhã. Monica Lewinsky"
+> "Chúng ta hay nói nhiều về quyền tự do ngôn luận, nhưng chúng ta cần nói nhiều hơn về trách nhiệm của chúng ta với tự do ngôn luận - Cái giá của sự nhục nhã. Monica Lewinsky."
 
 <a name="nguyennahn"></a>
 ### 4. Nguyên nhân
