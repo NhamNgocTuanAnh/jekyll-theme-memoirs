@@ -7,9 +7,6 @@ tags: [ phản biện ]
 image: assets/images/phan-bien-viet-avt.jpg
 # rating: 4.5
 comments: false
-header-includes:
-  - \usepackage{boxed}
-  - \usepackage{colorbox}
 ---
 
 ### Thói quen công kích cá nhân người Việt
