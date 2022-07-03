@@ -22,7 +22,7 @@ authors:
   sal:
     name: Nhâm Ngọc Tuấn Anh
     display_name: Đô Đô
-    avatar: 'assets/images/avatar-sal.webp'
+    avatar: 'assets/images/avatar-sal.jpg'
     email: tuananhtlu9366@gmail.com
     web: https://hoctoancungthaytan.xyz/
     twitter: https://twitter.com/wowthemesnet
@@ -30,7 +30,7 @@ authors:
     description: "Xin chào, tôi là lập trình viên backend. Với đam mê chụp ảnh, lập trình và đi chơi. Tôi xây dựng blog với mục đích là chia sẻ kinh nghiêm coder, cuộc sống thường ngày và sức khỏe cho developer ."
   john:
     name: Nhâm Ngọc Tần
-    display_name: Nhâm Ngọc Tần    
+    display_name: Nhâm Ngọc Tần
     avatar: 'assets/images/tan.jpg'
     facebook: https://www.facebook.com/tan.nhamngoc
     description: "Quan trọng là thần thái!"
@@ -54,11 +54,11 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
-# Pagination 
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 highlighter: none
 markdown: kramdown
@@ -79,7 +79,7 @@ lazyimages: "enabled"
 # The values here represent the defaults if nothing is set
 webp:
   enabled: true
-  
+
   # The quality of the webp conversion 0 to 100 (where 100 is least lossy)
   quality: 100
 
@@ -94,7 +94,7 @@ webp:
   formats: [".jpeg", ".jpg", ".png", ".tiff"]
 
 
-  # File extensions for animated gif files 
+  # File extensions for animated gif files
   gifs: [".gif"]
 
   # Set to true to always regenerate existing webp files
