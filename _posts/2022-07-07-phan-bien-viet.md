@@ -4,7 +4,7 @@ title: 'Thói quen công kích cá nhân người Việt'
 author: sal
 categories: [ Suy ngẫm ]
 tags: [ phản biện ]
-image: assets/images/phan-bien-viet-avt.jpg
+image: assets/images/emotion-detection/happy-ex-p4.webp
 # rating: 4.5
 comments: false
 ---
