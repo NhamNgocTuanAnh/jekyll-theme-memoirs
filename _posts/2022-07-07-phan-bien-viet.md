@@ -13,7 +13,7 @@ comments: false
 
 Công kích cá nhân (ad hominem) là một dạng nguỵ biện phổ biến trong tranh luận đặc biệt là trong những cuộc tranh luận giữa người Việt với nhau ngoài đời lẫn trên mạng xã hội.
 
-#### 7.1.1 Định nghĩa
+#### Các hình thức công kích cá nhân
 
 
 #### Trích nguồn
