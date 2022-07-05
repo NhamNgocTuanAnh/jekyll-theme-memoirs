@@ -66,6 +66,7 @@ Người Âu Mỹ xem tranh luận là một hành động hết sức lành m�
 
 <a name="trachkhoi"></a>
 ### 5. Vậy làm gì để thoát hoặc tránh khỏi công kích cá nhân
+![image](/assets/images/che_tai_phat.jpg){:class="img-responsive"}
 
 Xúc phạm danh dự nhân phẩm người khác là hành vi vi phạm pháp luật.
 > Pháp luật nước Cộng hòa Xã hội Chủ nghĩa Việt Nam hay Pháp luật của đa phần các quốc gia trên thế giới đều không thể bỏ qua việc “Xúc phạm danh dự nhân phẩm của người khác” dù ở ngoài đời thật hay cả trên mạng xã hội. Điều 34, bộ Luật Dân sự 2015 nước Cộng hòa Xã hội Chủ nghĩa Việt Nam quy định:
