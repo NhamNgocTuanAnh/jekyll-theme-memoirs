@@ -29,7 +29,7 @@ Công kích cá nhân (ad hominem) là một dạng nguỵ biện phổ biến t
 * Chế giễu: nhược điểm ngoại hình, nghề nghiệp hoặc gia cảnh xuất thân → khiến người đối diện tổn thương tâm lý
 * Nhục mạ: Sử dụng các từ ngữ liên quan tới bộ phận sd và hành động giao hợp để hạ nhục đối phương
 * Nguyền rủa: Trù ẻo những chuyện xấu xa tồi tệ sẽ xảy ra cho đối phương hoặc người thân của họ
-* Chụp mũ hoặc vu khống: dựa vào sơ hở trong lúc tranh lyuaajn để gán ghép đối phương một điều xấu xa nghiêm trọng
+* Chụp mũ hoặc vu khống: dựa vào sơ hở trong lúc tranh luận để gán ghép đối phương một điều xấu xa nghiêm trọng
 
 > "X là một người xấu, vì vậy không nên tin những gì anh ta nói."
 
@@ -39,6 +39,9 @@ Công kích cá nhân (ad hominem) là một dạng nguỵ biện phổ biến t
 Những màn công kích đám đông với ngôn từ có tính chất phỉ báng nhân cách người khác trên mạng xã hội đã để lại những hậu quả nặng nề, không dừng lại ở việc tổn thương tinh thần, còn cả tính mạng.
 
 Ví dụ. Một nữ sinh (14 tuổi) có tên tài khoản là Amnesia đã tham gia mạng xã hội Ask.fm để tìm sự cảm thông sau khi chia tay với bạn trai. Tuy nhiên, đáp lại cô là những lời nguyền rủa độc địa: "Tự chết đi!", "Không ai muốn mày cả" và "Mày không bình thường". Và cô cũng đã làm y như thế, tìm đến cái chết khi quá tổn thương về tinh thần. trích [Thế giới ảo và những tác hại của công kích đám đông - Dân trí](https://dantri.com.vn/nhip-song-tre/the-gioi-ao-va-nhung-tac-hai-cua-cong-kich-dam-dong-1431216073.htm)
+
+![image](/assets/images/nan-nhan-cong-kich-ca-nhan.jpg){:class="img-responsive"}
+[Sulli đã phải hứng chịu rất nhiều chỉ trích từ cộng đồng mạng kể từ sau khi rời f(x). (Ảnh: Yonhap)!](https://vtv.vn/chuyen-dong-24h/chinh-phu-han-quoc-xem-xet-ban-hanh-dao-luat-sulli-2019101618384955.htm)
 
 > "Chúng ta hay nói nhiều về quyền tự do ngôn luận, nhưng chúng ta cần nói nhiều hơn về trách nhiệm của chúng ta với tự do ngôn luận - Cái giá của sự nhục nhã. Monica Lewinsky."
 
