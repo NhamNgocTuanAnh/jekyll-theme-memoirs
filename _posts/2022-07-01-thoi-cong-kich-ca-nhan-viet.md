@@ -42,7 +42,7 @@ Ví dụ. Một nữ sinh (14 tuổi) có tên tài khoản là Amnesia đã tha
 
 ![image](/assets/images/nan-nhan-cong-kich-ca-nhan.jpg){:class="img-responsive"}
 
-[Sulli đã phải hứng chịu rất nhiều chỉ trích từ cộng đồng mạng kể từ sau khi rời f(x). (Ảnh: Yonhap)!](https://vtv.vn/chuyen-dong-24h/chinh-phu-han-quoc-xem-xet-ban-hanh-dao-luat-sulli-2019101618384955.htm)
+[Sulli đã phải hứng chịu rất nhiều chỉ trích từ cộng đồng mạng kể từ sau khi rời f(x). (Ảnh: Yonhap)](https://vtv.vn/chuyen-dong-24h/chinh-phu-han-quoc-xem-xet-ban-hanh-dao-luat-sulli-2019101618384955.htm)
 
 > "Chúng ta hay nói nhiều về quyền tự do ngôn luận, nhưng chúng ta cần nói nhiều hơn về trách nhiệm của chúng ta với tự do ngôn luận - Cái giá của sự nhục nhã. Monica Lewinsky."
 
@@ -56,7 +56,7 @@ Và đó là **bạo hành ngôn ngữ**, và chúng ta đã trải nghiệm nó
 **"Phong ba bão táp, không bằng ngữ pháp Việt Nam"** điều này quả là chính xác. Bởi chỉ từ một câu nói nhưng đặt trong hoàn cảnh khác nhau, ngữ nghĩa của chúng lại được hiểu theo ý gần như chẳng liên quan tới nhau.
 ![image](/assets/images/ngon-ngu-viet-phong-phu.png){:class="img-responsive"}
 
-Cùng với việc quen với bạo hành ngôn ngữ từ nhỏ. Chúng ta còn được hậu thuẫn bởi sự đồ sộ ([lỏng lẻo!](https://spiderum.com/bai-dang/Van-de-o-Viet-Nam-moi-nguoi-song-qua-cam-tinh-va-tu-duy-long-leo-87p)) của ngôn ngữ Việt. "Đồ lăng loàn trắc nết", "trốn chúa lộn chồng", "đầu trộm đuôi cướp", "đầu trâu mặt ngựa", "lòng lang dạ sói"... Để nguyền rủa nhau cũng có cả kho từ vựng dùng hoài không hết như "đồ diều tha quạ mổ", "trời đánh thánh vật", "voi giày ngựa xé", "chết bờ chết bụi"... Thậm chí bài chửi "mất gà" kinh điển có ca có kệ của miền Bắc còn được xem là một trong những ví dụ về sự hoạt ngôn và phong phú của dân gian về nghệ thuật chửi.
+Cùng với việc quen với bạo hành ngôn ngữ từ nhỏ. Chúng ta còn được hậu thuẫn bởi sự đồ sộ ([lỏng lẻo](https://spiderum.com/bai-dang/Van-de-o-Viet-Nam-moi-nguoi-song-qua-cam-tinh-va-tu-duy-long-leo-87p)) của ngôn ngữ Việt. "Đồ lăng loàn trắc nết", "trốn chúa lộn chồng", "đầu trộm đuôi cướp", "đầu trâu mặt ngựa", "lòng lang dạ sói"... Để nguyền rủa nhau cũng có cả kho từ vựng dùng hoài không hết như "đồ diều tha quạ mổ", "trời đánh thánh vật", "voi giày ngựa xé", "chết bờ chết bụi"... Thậm chí bài chửi "mất gà" kinh điển có ca có kệ của miền Bắc còn được xem là một trong những ví dụ về sự hoạt ngôn và phong phú của dân gian về nghệ thuật chửi.
 
 Chúng ta dễ dàng hiểu nhầm nhau.
 Người Châu á rất quan trọng mối quan hệ vai vế, người trên kẻ dưới. Điều đó thể hiện qua đại từ nhân xưng của chính chúng ta: "Tôi, tao, mày,...". Chúng ta có một hệ thống đại từ nhân xưng vô cùng phong phú: "theo độ tuổi, theo thái độ và cảm xúc, theo cả đại phương, vùng miền nữa :))". Vì đó, việc tranh cãi giữa những người có vai vế khác nhau là điều xúc phạm không thể chấp nhận được.
@@ -72,8 +72,8 @@ Người Âu Mỹ xem tranh luận là một hành động hết sức lành m�
 ### 5. Vậy làm gì để thoát hoặc tránh khỏi công kích cá nhân
 ![image](/assets/images/che_tai_phat.jpg){:class="img-responsive"}
 
-Xúc phạm danh dự nhân phẩm người khác là hành vi vi phạm pháp luật.
-> Pháp luật nước Cộng hòa Xã hội Chủ nghĩa Việt Nam hay Pháp luật của đa phần các quốc gia trên thế giới đều không thể bỏ qua việc “Xúc phạm danh dự nhân phẩm của người khác” dù ở ngoài đời thật hay cả trên mạng xã hội. Điều 34, bộ Luật Dân sự 2015 nước Cộng hòa Xã hội Chủ nghĩa Việt Nam quy định:
+Xúc phạm danh dự nhân phẩm người khác là hành vi vi phạm pháp luật.\\
+Pháp luật nước Cộng hòa Xã hội Chủ nghĩa Việt Nam hay Pháp luật của đa phần các quốc gia trên thế giới đều không thể bỏ qua việc “Xúc phạm danh dự nhân phẩm của người khác” dù ở ngoài đời thật hay cả trên mạng xã hội. Điều 34, bộ Luật Dân sự 2015 nước Cộng hòa Xã hội Chủ nghĩa Việt Nam quy định:
 
 * Thông tin ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín của cá nhân được đăng tải trên phương tiện thông tin đại chúng nào thì phải được gỡ bỏ, cải chính bằng chính phương tiện thông tin đại chúng đó. Nếu thông tin này được cơ quan, tổ chức, cá nhân cất giữ thì phải được hủy bỏ.
 * Trường hợp không xác định được người đã đưa tin ảnh hưởng xấu đến danh dự, nhân phẩm, uy tín của mình thì người bị đưa tin có quyền yêu cầu Tòa án tuyên bố thông tin đó là không đúng.
