@@ -44,6 +44,13 @@ Ví dụ. Một nữ sinh (14 tuổi) có tên tài khoản là Amnesia đã tha
 
 [Sulli đã phải hứng chịu rất nhiều chỉ trích từ cộng đồng mạng kể từ sau khi rời f(x). (Ảnh: Yonhap)](https://vtv.vn/chuyen-dong-24h/chinh-phu-han-quoc-xem-xet-ban-hanh-dao-luat-sulli-2019101618384955.htm)
 
+**Hậu quả của bạo lực ngôn ngữ hay công kích cá nhân**
+Một trong những hậu quả của bạo hành bằng ngôn ngữ dễ dàng tiếp cận nhất đó chính là **suy nghĩ**. Nếu lời nói đó ở bên trong họ một thời gian dài, nó có thể điều khiển được suy nghĩ của chính họ.\\
+Lời nói có thể tác động nhanh đến mức biến họ từ một người hoạt bát, vui vẻ lại trở thành một người buồn bã và tiêu cực.\\
+Ảnh hưởng thứ 2 của **công kích cá nhân** là làm tổn thương tinh thần.Tổn thương tinh thần khiến con người ta gặp rất nhiều khó khăn trong cuộc sống. Luôn cảm thấy mệt mỏi với cuộc sống, bế tắc và khó đưa ra được những lựa chọn mang tính chất quyết định khiến chất lượng cuộc sống giảm xuống đáng kể.\\
+Không ai dễ chịu khi bị chửi ngu, nghe mắng chừi cả. Phải vậy, ảnh hưởng thứ 3 của **công kích cá nhân** chính là ảnh hưởng đặc biệt tới **cảm xúc**. Cảm xúc bị lẫn lộn của tức giận, sợ hãi  và cả nhục nhã.
+Có nhiều trường hợp, những người bị **tổn thương cảm xúc** lại đẩy những cảm xúc bị ảnh hưởng của mình vào người khác. Luôn cảm thấy nóng giận và khó chịu với tất cả những người xung quanh. Họ dùng chính những lời nói khiến bản thân bị tổn thương và nói với những người yêu thương họ khiến họ ngày càng trở nên xa cách.
+
 > "Chúng ta hay nói nhiều về quyền tự do ngôn luận, nhưng chúng ta cần nói nhiều hơn về trách nhiệm của chúng ta với tự do ngôn luận - Cái giá của sự nhục nhã. Monica Lewinsky."
 
 <a name="nguyennahn"></a>
