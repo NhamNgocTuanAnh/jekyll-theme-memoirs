@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Học máy]Nhận dạng cảm xúc khuôn mặt. Giải quyết bài toán"
+title:  "Nhận dạng cảm xúc khuôn mặt. Giải quyết bài toán - [Học máy]"
 author: sal
 categories: [ Machine learning, học máy ]
 tags: [ Python, Lập trình ]

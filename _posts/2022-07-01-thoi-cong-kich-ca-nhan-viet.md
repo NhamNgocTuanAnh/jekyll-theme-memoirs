@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Ngẫm]Mày biết gì mà nói?! - Thói quen công kích cá nhân người Việt'
+title: 'Mày biết gì mà nói?! - Thói quen công kích cá nhân người Việt'
 author: sal
 categories: [ Suy ngẫm ]
 tags: [ phản biện ]
