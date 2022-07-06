@@ -135,5 +135,11 @@ sass:
 google_search_console:
   verification_file_code: 8d05216cbc02eb63
 
+defaults:
+  -
+    scope:
+      path: "photography"
+    values:
+      permalink: /:path/:basename:output_ext
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
