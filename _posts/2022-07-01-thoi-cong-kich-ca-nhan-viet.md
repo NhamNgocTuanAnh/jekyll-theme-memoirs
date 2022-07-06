@@ -94,4 +94,4 @@ Nhưng chính xác hành vi thế nào mới là **công kích cá nhân**?
 * [Các ví dụ về ngụy biện](http://nguyennhutchithao.blogspot.com/).
 * [Công Kích Cá Nhân: Điểm yếu điển hình trong tranh luận của người Việt](https://www.youtube.com/watch?v=7xuKwIa5x9Q&list=WL&index=2).
 * [Vì sao người Việt thích công kích cá nhân khi tranh luận?](https://tusach.thuvienkhoahoc.com/wiki/V%C3%AC_sao_ng%C6%B0%E1%BB%9Di_Vi%E1%BB%87t_th%C3%ADch_c%C3%B4ng_k%C3%ADch_c%C3%A1_nh%C3%A2n_khi_tranh_lu%E1%BA%ADn%3F).
-* [" Bóc Phốt " Công Kích Cá Nhân Trên Mạng Xã Hội - Hành Vi Giết Người Không Dao!](https://ybox.vn/triet-hoc-tuoi-tre/boc-phot-cong-kich-ca-nhan-tren-mang-xa-hoi-hanh-vi-giet-nguoi-khong-dao-611011ecc19b5602547f349b).
+* ['Bóc Phốt' Công Kích Cá Nhân Trên Mạng Xã Hội - Hành Vi Giết Người Không Dao!](https://ybox.vn/triet-hoc-tuoi-tre/boc-phot-cong-kich-ca-nhan-tren-mang-xa-hoi-hanh-vi-giet-nguoi-khong-dao-611011ecc19b5602547f349b).
