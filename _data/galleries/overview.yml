@@ -21,3 +21,14 @@
   - Lichtfestival-0058-2999x1999.jpg
   - Lichtfestival-0058-4242x2828.jpg
   thumbnail: Lichtfestival-0058-thumbnail.jpg
+-
+ title: My Life
+ directory: my-life
+ preview:
+  filename: Lichtfestival-0058
+  original: 15384508_800907990051854_4751398305110338560_o-min.png
+  sizes:
+  - 15384508_800907990051854_4751398305110338560_o-min.png
+  - 15384508_800907990051854_4751398305110338560_o-min.png
+  - 15384508_800907990051854_4751398305110338560_o-min.png
+  thumbnail: 15384508_800907990051854_4751398305110338560_o-min.png
