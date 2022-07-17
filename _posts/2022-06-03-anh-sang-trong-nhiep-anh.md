@@ -34,6 +34,8 @@ Bao gồm nguồn sáng tự nhiên và nguồn sáng nhân tạo.
 #### 2.1. Nguồn sáng tự nhiên
 ![image](/assets/images/nhiepanh/anh_sang_trong_nhiep_anh_tu_nhien.jpg){:class="img-responsive"}
 
+**Mặt trời, mặt trăng, sao trời,** ... là những vật thể tự nhiên mà ta không thể control được. Thời gian như
+Chúng ta chỉ có thể chờ tới sáng, tới trưa, tới chiều hoặc tối. Không gian như: Mưa, nắng, sương mù, vvv...
 #### 2.2. Nguồn sáng nhân tạo
 ![image](/assets/images/nhiepanh/anh_sang_trong_nhiep_anh_nhan_tao.png){:class="img-responsive"}
 
