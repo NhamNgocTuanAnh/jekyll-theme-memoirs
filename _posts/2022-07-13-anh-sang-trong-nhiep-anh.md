@@ -54,19 +54,19 @@ Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sán
 <table>
      <tr>
       <td> 
-      <h4>Ánh sáng phía trước, hay còn gọi là ánh sáng trực diện.(front lighting)</h4><br>
+      <h4>Ánh sáng phía trước, hay còn gọi là ánh sáng trực diện.(Front lighting)</h4><br>
       <img src="../../assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao.png" alt="Ánh sáng phía trước" width = 360px height = 640px></td>
       <td>Ánh sáng phía trước đi từ phía sau máy ảnh hoặc từ bản thân máy ảnh. Nó chiếu sáng đối tượng một cách đồng đều, giúp dễ tái tạo màu sắc và chi tiết của đối tượng. Tạo ra ít bóng râm hơn, làm cho ảnh có vẻ phẳng và ít kịch tính hơn. </td>
   </tr>
    <tr>
       <td>
-      <h4>Ánh sáng bên, hay còn gọi là ánh sáng tạt ngang.(side lighting)</h4><br>
+      <h4>Ánh sáng bên, hay còn gọi là ánh sáng tạt ngang.(Side lighting)</h4><br>
       <img src="../../assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao.png" alt="Ánh sáng bên" width = 360px height = 640px></td>
       <td>Ánh sáng bên là ánh sáng chiếu lên đối tượng ở một góc, có nghĩa là một phía của đối tượng sẽ được chiếu sáng, và phía còn lại nằm trong bóng râm. Điều này giúp mang lại chiều sâu cho đối tượng, lý tưởng để chuyển tải hình dạng và hình khối của đối tượng. </td>
   </tr>
    <tr>
       <td>
-      <h4>Ánh sáng ngược.(back lighting)</h4><br>
+      <h4>Ánh sáng ngược.(Back lighting)</h4><br>
       <img src="../../assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao.png" alt="Ánh sáng ngược" width = 360px height = 640px></td>
       <td>Ánh sáng ngược là nguồn ánh sáng đi từ phía sau đối tượng, làm cho đối tượng xuất hiện như một cái bóng. Không dễ chụp ảnh ở điều kiện thiếu sáng nhưng kết quả có thể là đẹp nhất trong ba loại ánh sáng. Việc tăng bù phơi sáng sẽ giúp bạn khắc phục ngược sáng dẫn đến nền sau quá sáng.</td>
   </tr>
