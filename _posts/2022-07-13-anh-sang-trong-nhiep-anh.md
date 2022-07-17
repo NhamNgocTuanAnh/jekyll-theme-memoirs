@@ -4,7 +4,7 @@ title: 'Ánh sáng trong nhiếp ảnh'
 author: sal
 categories: [ Nhiếp ảnh ]
 tags: [ ánh sáng, nhiếp ảnh ]
-image: assets/images/nhiepanh/anhsang-cover.webp
+image: assets/images/nhiepanh/anhsang/anhsang-cover.webp
 # rating: 4.5
 comments: false
 ---
@@ -25,23 +25,23 @@ Có ánh sáng, có nhiếp ảnh. Ánh sáng đóng vai trò rất quan trọng
 * Chi tiêt
 * Chất liệu
 
-![image](/assets/images/nhiepanh/anh_sang_trong_nhiep_anh_1.jpg){:class="img-responsive"}
+![image](/assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_1.jpg){:class="img-responsive"}
 
 Ánh sáng khi chiếu vào chủ thể sẽ cho ra 2 vùng là vùng tối (shadow) và vùng sáng (hightlight). Cách bố cục vùng sáng cũng như vùng tối của chủ thể sẽ tạo ra những hiệu ứng riêng biệt với từng ý đồ nghệ thuật riêng biệt.
 
 ##### 2. Nguồn ánh sáng
 Bao gồm nguồn sáng tự nhiên và nguồn sáng nhân tạo.
 ##### 2.1. Nguồn sáng tự nhiên
-![image](/assets/images/nhiepanh/anh_sang_trong_nhiep_anh_tu_nhien.jpg){:class="img-responsive"}
+![image](/assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_tu_nhien.jpg){:class="img-responsive"}
 
 **Mặt trời, mặt trăng, sao trời,** ... là những vật thể tự nhiên mà ta không thể control được. Thời gian như
 Chúng ta chỉ có thể chờ tới sáng, tới trưa, tới chiều hoặc tối. Không gian như: Mưa, nắng, sương mù, vvv...
 #### 2.2. Nguồn sáng nhân tạo
-![image](/assets/images/nhiepanh/anh_sang_trong_nhiep_anh_nhan_tao.png){:class="img-responsive"}
+![image](/assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao.png){:class="img-responsive"}
 
 Thay vì chờ đợi những thực thể vô hình hoặc hữu hình không thể control. Ta có thể điều khiển ánh sáng bằng cách tự tạo ra chúng. Nhưng bằng cách nào???
 
-![image](/assets/images/nhiepanh/anh_sang_trong_nhiep_anh_nhan_tao.png){:class="img-responsive"}
+![image](/assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao.png){:class="img-responsive"}
 
 Đèn cầy, đèn dầu, đèn flash,...
 
@@ -64,8 +64,8 @@ Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sán
     <td><img src="img2.png" alt="2" width = 360px height = 640px></td>
    </tr>
    <tr>
-      <td><img src="../../assets/images/nhiepanh/anh_sang_trong_nhiep_anh_nhan_tao.png" alt="3" width = 360px height = 640px></td>
-
+      <td><img src="../../assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao.png" alt="3" width = 360px height = 640px></td>
+      <td><img src="./assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao.png" alt="3" width = 360px height = 640px></td>
       <td><img src="./" align="right" alt="4" width = 360px height = 640px>
   </td>
   </tr>
