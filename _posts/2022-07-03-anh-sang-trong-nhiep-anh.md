@@ -19,6 +19,13 @@ Có ánh sáng, có nhiếp ảnh. Ánh sáng quyết định sự thành bại 
 [5. Cách tránh](#trachkhoi)
 
 ### 1. Ánh sáng trong nhiếp ảnh
+Ánh sáng cho biết
+* Màu sắc
+* Hình thái
+* Chi tiêt
+* Chất liệu
+
+Ánh sáng khi chiếu vào chủ thể sẽ cho ra 2 vùng là vùng tối (shadow) và vùng sáng (hightlight). Cách bố cục vùng sáng cũng như vùng tối của chủ thể sẽ tạo ra những hiệu ứng riêng biệt với từng ý đồ nghệ thuật riêng biệt.
 
 ### 2. Nguồn ánh sáng
 Bao gồm nguồn sáng tự nhiên và nguồn sáng nhân tạo
