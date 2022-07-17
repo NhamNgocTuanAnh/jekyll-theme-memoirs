@@ -56,6 +56,21 @@ Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sán
 |Ngược Sáng|Ánh sáng ngược là nguồn ánh sáng đi từ phía sau đối tượng, làm cho đối tượng xuất hiện như một cái bóng. Không dễ chụp ảnh ở điều kiện thiếu sáng nhưng kết quả có thể là đẹp nhất trong ba loại ánh sáng. Việc tăng bù phơi sáng sẽ giúp bạn khắc phục ngược sáng dẫn đến nền sau quá sáng.|
 |----------|----------|
 
+
+<table>
+  <tr>
+    <td> <img src="img1.png"  alt="1" width = 360px height = 640px ></td>
+
+    <td><img src="img2.png" alt="2" width = 360px height = 640px></td>
+   </tr>
+   <tr>
+      <td><img src="../../assets/images/nhiepanh/anh_sang_trong_nhiep_anh_nhan_tao.png" alt="3" width = 360px height = 640px></td>
+
+      <td><img src="./" align="right" alt="4" width = 360px height = 640px>
+  </td>
+  </tr>
+</table>
+
 #### 4. Cường độ ánh sáng
 #### 5. Độ mịn của ánh sáng
 #### 6. Màu sắc của ánh sáng
