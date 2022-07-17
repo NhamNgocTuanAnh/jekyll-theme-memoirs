@@ -19,7 +19,7 @@ Có ánh sáng, có nhiếp ảnh. Ánh sáng đóng vai trò rất quan trọng
 [5. Cách tránh](#trachkhoi)
 
 ### 1. Ánh sáng trong nhiếp ảnh
-Ánh sáng cho biết
+Ánh sáng cho biết:
 * Màu sắc
 * Hình thái
 * Chi tiêt
