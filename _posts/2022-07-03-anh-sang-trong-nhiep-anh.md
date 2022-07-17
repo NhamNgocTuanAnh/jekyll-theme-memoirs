@@ -22,18 +22,21 @@ Có ánh sáng, có nhiếp ảnh. Ánh sáng quyết định sự thành bại 
 Ánh sáng cho biết
 * Màu sắc
 * Hình thái
-* Chi tiêt!
+* Chi tiêt
 * Chất liệu
 
 ![image](/assets/images/nhiepanh/anh_sang_trong_nhiep_anh_1.jpg){:class="img-responsive"}
 
-
 Ánh sáng khi chiếu vào chủ thể sẽ cho ra 2 vùng là vùng tối (shadow) và vùng sáng (hightlight). Cách bố cục vùng sáng cũng như vùng tối của chủ thể sẽ tạo ra những hiệu ứng riêng biệt với từng ý đồ nghệ thuật riêng biệt.
 
 ### 2. Nguồn ánh sáng
-Bao gồm nguồn sáng tự nhiên và nguồn sáng nhân tạo
+Bao gồm nguồn sáng tự nhiên và nguồn sáng nhân tạo.
 #### 2.1. Nguồn sáng tự nhiên
+![image](/assets/images/nhiepanh/anh_sang_trong_nhiep_anh_tu_nhien.jpg){:class="img-responsive"}
+
 #### 2.2. Nguồn sáng nhân tạo
+![image](/assets/images/nhiepanh/anh_sang_trong_nhiep_anh_nhan_tao.png){:class="img-responsive"}
+
 ### 3. Hướng ánh sáng
 ### 4. Cường độ ánh sáng
 ### 5. Độ mịn của ánh sáng
