@@ -11,6 +11,7 @@ comments: false
 
 Có ánh sáng, có nhiếp ảnh. Ánh sáng đóng vai trò rất quan trọng trong nhiếp ảnh vì nó có thể làm thay đổi tâm trạng và ảnh hưởng đến việc ảnh cuối cùng của bạn sẽ như thế nào.
 
+
 ### Mục lục
 [1. Ánh sáng trong nhiếp ảnh](#dinhnghia)\\
 [2. Các hình thức công kích cá nhân](#cachhinhthuc)\\
@@ -83,6 +84,64 @@ Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sán
   </tr>
 </table>
 
+<section id="pricing">
+  <div class="container">
+    <div class="row">
+      <div class="offset-lg-1 col-lg-10">
+        <div class="switcher-box">
+          <span>Cash</span>
+          <div class="switcher text-center">
+            <input type="checkbox" class="toggle">
+          </div>
+          <span>Equity</span>
+        </div>
+        <div class="pricing-table pt-65">
+          <div class="tab-content show" id="cash">
+            <div class="row">
+              <div class="col-lg-6">
+                <div class="table-data">
+                  <h4>Độ Tương Phản Mạnh</h4>
+                  <h3 class="table-price">(Ánh sáng mạnh với sự chênh lệch lớn về độ sáng giữa các vùng sáng và tối)</h3>
+                  <p> Ánh nắng trực tiếp vào một ngày có nắng là sáng, và mạnh đủ để tạo ra bóng râm. Với sự chênh lệch lớn về độ sáng giữa các vùng sáng nhất (vùng sáng) và các vùng tối (bóng râm), ảnh được tạo ra sẽ sắc nét với độ tương phản mạnh.</p>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="table-data">
+                   <h4>Độ Tương Phản Yếu.</h4>
+                  <h3 class="table-price">(Ánh sáng yếu với sự chênh lệch nhỏ về độ sáng giữa các vùng sáng và tối)</h3>
+                  <p>Ánh sáng ‘mịn’ được tạo ra bởi ánh nắng trực tiếp vào một ngày có mây, tương tự như ánh sáng xuyên qua rèm cửa. Vì không thể dễ dàng hình thành các bóng râm trong trường hợp này, có một sự chênh lệch nhỏ hơn về độ sáng, và không khí có được là không khí nhẹ nhàng với độ tương phản yếu. Ngoài ra, với sự chênh lệch nhỏ giữa các vùng ‘sáng’ và ‘tối’, bóng râm được thể hiện theo sự tăng màu mượt mà.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="tab-content" id="equity">
+            <div class="row">
+              <div class="col-lg-6">
+                <div class="table-data">
+                  <h4>Equity Recommended</h4>
+                  <h3 class="table-price">£1700 <span>In cash</span></h3>
+                  <p>After you agree to jump on a call with best matching talents & advisors. Full money back if you‘re not convinced after those interviews.</p>
+                  <h3 class="table-price">£15k <span>In equity</span></h3>
+                  <p>Upon talent / advisor joins your startup and agrees on the proposal which we define together for advisor / talent.</p>
+                </div>
+              </div>
+              <div class="col-lg-6">
+                <div class="table-data">
+                  <h4>Equity Zero Risk</h4>
+                  <h3 class="table-price">£1700 <span>In cash</span></h3>
+                  <p>After you agree to jump on a call with best matching talents & advisors. Full money back if you‘re not convinced after those interviews.</p>
+                  <h3 class="table-price">£35k <span>In equity</span></h3>
+                  <p>Upon talent / advisor joins your startup and agrees on the proposal which we define together for advisor / talent.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 ### 5. Màu sắc của ánh sáng
 
 > **Ánh sáng quyết định sự thành bại của một bức ảnh.**
@@ -92,3 +151,138 @@ Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sán
 * [Công Kích Cá Nhân: Điểm yếu điển hình trong tranh luận của người Việt](https://www.youtube.com/watch?v=7xuKwIa5x9Q&list=WL&index=2).
 * [Vì sao người Việt thích công kích cá nhân khi tranh luận?](https://tusach.thuvienkhoahoc.com/wiki/V%C3%AC_sao_ng%C6%B0%E1%BB%9Di_Vi%E1%BB%87t_th%C3%ADch_c%C3%B4ng_k%C3%ADch_c%C3%A1_nh%C3%A2n_khi_tranh_lu%E1%BA%ADn%3F).
 * ['Bóc Phốt' Công Kích Cá Nhân Trên Mạng Xã Hội - Hành Vi Giết Người Không Dao!](https://ybox.vn/triet-hoc-tuoi-tre/boc-phot-cong-kich-ca-nhan-tren-mang-xa-hoi-hanh-vi-giet-nguoi-khong-dao-611011ecc19b5602547f349b).
+
+<script type="text/javascript">
+$(".switcher input[type='checkbox']").click(function () {
+  if ($(this).is(":checked")) {
+    $("#equity").addClass("show");
+    $("#cash").removeClass("show");
+  } else if ($(this).is(":not(:checked)")) {
+    $("#cash").addClass("show");
+    $("#equity").removeClass("show");
+  }
+});
+
+ </script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" type="text/javascript"></script>
+
+<style>
+#pricing {
+  background: #010c1a;
+  margin-bottom: 50px;
+}
+
+.switcher-box {
+  margin-top: 48px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  margin-bottom: 45px;
+}
+.switcher-box span {
+  color: #fff;
+  padding: 0 12px;
+  font-size: 18px;
+  line-height: 32px;
+}
+.switcher input[type="checkbox"] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  -webkit-tap-highlight-color: transparent;
+  cursor: pointer;
+}
+.switcher input[type="checkbox"]:focus {
+  outline: 0;
+}
+
+.switcher .toggle {
+  width: 59px;
+  height: 30px;
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  border: 2px solid #654fec;
+  transition: all 0.2s ease;
+  border-radius: 43px;
+  -webkit-border-radius: 43px;
+  -moz-border-radius: 43px;
+  -ms-border-radius: 43px;
+  -o-border-radius: 43px;
+}
+.switcher .toggle:after {
+  content: "";
+  position: absolute;
+  top: 3px;
+  left: 3px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: linear-gradient(263.86deg, #345cef -0.33%, #9234ef 93.97%);
+  box-shadow: 0 1px 2px rgba(44, 44, 44, 0.2);
+  transition: all 0.2s cubic-bezier(0.5, 0.1, 0.75, 1.35);
+}
+.switcher .toggle:checked:after {
+  transform: translatex(28px);
+  -webkit-transform: translatex(28px);
+  -moz-transform: translatex(28px);
+  -ms-transform: translatex(28px);
+  -o-transform: translatex(28px);
+}
+.table-data h4 {
+  color: #fff;
+  text-align: center;
+}
+.table-data {
+  padding: 32px;
+  border: 1px solid transparent;
+  border-radius: 30px;
+  background-image: linear-gradient(#020c1a, #020c1a),
+    linear-gradient(263.86deg, #345cef -0.33%, #9234ef 93.97%);
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+}
+.table-data h3 {
+  color: #fff;
+  padding-top: 24px;
+}
+#pricing .table-data p {
+  text-align: left;
+  padding-top: 24px;
+  font-size: 16px;
+  line-height: 24px;
+  color: #fff;
+}
+.table-data h3 span {
+  font-size: 14px;
+  line-height: 21px;
+  padding: 4px 10px;
+  background: linear-gradient(
+    263.86deg,
+    rgba(52, 92, 239, 0.2) -0.33%,
+    rgba(146, 52, 239, 0.2) 93.97%
+  );
+  border-radius: 4px;
+  font-weight: 400;
+}
+.table-data p:not(:last-child) {
+  padding-bottom: 24px;
+  position: relative;
+}
+.table-data p:not(:last-child)::after {
+  position: absolute;
+  content: "";
+  width: 130px;
+  height: 1px;
+  background: #474c61;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+.tab-content {
+  display: none;
+}
+.tab-content.show {
+  display: block;
+}
+</style>
