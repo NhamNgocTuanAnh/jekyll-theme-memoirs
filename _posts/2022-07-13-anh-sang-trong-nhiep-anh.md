@@ -67,7 +67,7 @@ Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sán
 </table>
 
 ### 4. Cường độ và độ mịn của ánh sáng
-Cường độ ánh sáng có thể được phân thành hai loại, một loại là có độ tương phản mạnh và loại kia là đó độ tương phản yếu.
+> Cường độ ánh sáng có thể được phân thành hai loại, một loại là có độ tương phản mạnh và loại kia là đó độ tương phản yếu.
 
 <table>
      <tr>
@@ -85,10 +85,10 @@ Cường độ ánh sáng có thể được phân thành hai loại, một lo�
 
 ### 5. Màu sắc của ánh sáng
 
-Ánh sáng quyết định sự thành bại của một bức ảnh.
+> **Ánh sáng quyết định sự thành bại của một bức ảnh.**
 
 ### Trích nguồn
-* [Các ví dụ về ngụy biện](https://snapshot.canon-asia.com/vn/article/viet/lesson-8-how-light-affects-photography).
+* [Ánh Sáng Ảnh Hưởng Thế Nào Đến Nhiếp Ảnh](https://snapshot.canon-asia.com/vn/article/viet/lesson-8-how-light-affects-photography).
 * [Công Kích Cá Nhân: Điểm yếu điển hình trong tranh luận của người Việt](https://www.youtube.com/watch?v=7xuKwIa5x9Q&list=WL&index=2).
 * [Vì sao người Việt thích công kích cá nhân khi tranh luận?](https://tusach.thuvienkhoahoc.com/wiki/V%C3%AC_sao_ng%C6%B0%E1%BB%9Di_Vi%E1%BB%87t_th%C3%ADch_c%C3%B4ng_k%C3%ADch_c%C3%A1_nh%C3%A2n_khi_tranh_lu%E1%BA%ADn%3F).
 * ['Bóc Phốt' Công Kích Cá Nhân Trên Mạng Xã Hội - Hành Vi Giết Người Không Dao!](https://ybox.vn/triet-hoc-tuoi-tre/boc-phot-cong-kich-ca-nhan-tren-mang-xa-hoi-hanh-vi-giet-nguoi-khong-dao-611011ecc19b5602547f349b).
