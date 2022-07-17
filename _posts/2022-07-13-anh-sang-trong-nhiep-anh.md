@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ánh sáng trong nhiếp ảnh'
+title: '[Cẩm nang nhiếp ảnh] Ánh sáng'
 author: sal
 categories: [ Nhiếp ảnh ]
 tags: [ ánh sáng, nhiếp ảnh ]
