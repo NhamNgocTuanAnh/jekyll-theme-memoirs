@@ -50,24 +50,18 @@ Thay vì chờ đợi những thực thể vô hình hoặc hữu hình không t
 #### 3. Hướng ánh sáng
 Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sáng.
 
-| Ánh Sáng Phía Trước | Ánh sáng phía trước đi từ phía sau máy ảnh hoặc từ bản thân máy ảnh. Nó chiếu sáng đối tượng một cách đồng đều, giúp dễ tái tạo màu sắc và chi tiết của đối tượng. Tạo ra ít bóng râm hơn, làm cho ảnh có vẻ phẳng và ít kịch tính hơn. |
-|----------|----------|
-| Ánh sáng bên là ánh sáng chiếu lên đối tượng ở một góc, có nghĩa là một phía của đối tượng sẽ được chiếu sáng, và phía còn lại nằm trong bóng râm. Điều này giúp mang lại chiều sâu cho đối tượng, lý tưởng để chuyển tải hình dạng và hình khối của đối tượng.       | Ánh Sáng Bên|
-|Ngược Sáng|Ánh sáng ngược là nguồn ánh sáng đi từ phía sau đối tượng, làm cho đối tượng xuất hiện như một cái bóng. Không dễ chụp ảnh ở điều kiện thiếu sáng nhưng kết quả có thể là đẹp nhất trong ba loại ánh sáng. Việc tăng bù phơi sáng sẽ giúp bạn khắc phục ngược sáng dẫn đến nền sau quá sáng.|
-|----------|----------|
-
-
 <table>
-  <tr>
-    <td> <img src="img1.png"  alt="1" width = 360px height = 640px ></td>
-
-    <td><img src="img2.png" alt="2" width = 360px height = 640px></td>
-   </tr>
    <tr>
       <td><img src="../../assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao.png" alt="3" width = 360px height = 640px></td>
-      <td><img src="./assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao.png" alt="3" width = 360px height = 640px></td>
-      <td><img src="./" align="right" alt="4" width = 360px height = 640px>
-  </td>
+      <td>Ánh sáng bên là ánh sáng chiếu lên đối tượng ở một góc, có nghĩa là một phía của đối tượng sẽ được chiếu sáng, và phía còn lại nằm trong bóng râm. Điều này giúp mang lại chiều sâu cho đối tượng, lý tưởng để chuyển tải hình dạng và hình khối của đối tượng. </td>
+  </tr>
+   <tr>
+      <td><img src="../../assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao.png" alt="3" width = 360px height = 640px></td>
+      <td>Ánh sáng ngược là nguồn ánh sáng đi từ phía sau đối tượng, làm cho đối tượng xuất hiện như một cái bóng. Không dễ chụp ảnh ở điều kiện thiếu sáng nhưng kết quả có thể là đẹp nhất trong ba loại ánh sáng. Việc tăng bù phơi sáng sẽ giúp bạn khắc phục ngược sáng dẫn đến nền sau quá sáng.</td>
+  </tr>
+     <tr>
+      <td><img src="../../assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao.png" alt="3" width = 360px height = 640px></td>
+      <td>Ánh sáng phía trước đi từ phía sau máy ảnh hoặc từ bản thân máy ảnh. Nó chiếu sáng đối tượng một cách đồng đều, giúp dễ tái tạo màu sắc và chi tiết của đối tượng. Tạo ra ít bóng râm hơn, làm cho ảnh có vẻ phẳng và ít kịch tính hơn. </td>
   </tr>
 </table>
 
