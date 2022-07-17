@@ -7,10 +7,10 @@ tags: [ ánh sáng, nhiếp ảnh ]
 image: assets/images/nhiepanh/anhsang-cover.webp
 # rating: 4.5
 comments: false
+---
 
 Có ánh sáng, có nhiếp ảnh. Ánh sáng đóng vai trò rất quan trọng trong nhiếp ảnh vì nó có thể làm thay đổi tâm trạng và ảnh hưởng đến việc ảnh cuối cùng của bạn sẽ như thế nào.
 
----
 ### Mục lục
 [1. Ánh sáng trong nhiếp ảnh](#dinhnghia)\\
 [2. Các hình thức công kích cá nhân](#cachhinhthuc)\\
