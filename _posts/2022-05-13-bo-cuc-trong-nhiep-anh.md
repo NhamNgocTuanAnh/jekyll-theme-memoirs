@@ -26,6 +26,15 @@ Lưu ý: Nếu bạn có 2 đường thẳng hội tụ trong một khung hình,
 <img src="../../assets/images/nhiepanh/anhsang/bo-cuc-duong-dan-5
 .jpg" alt="Hướng ánh sáng" class="responsive">
 
+* **Đường thẳng ngang:** Hay còn gọi là đường chân trời.
+<img src="../../assets/images/nhiepanh/anhsang/Bo-cuc-vang-trong-nhiep-anh-03.jpg" alt="Hướng ánh sáng" class="responsive">
+
+* **Đường thẳng đứng:**
+<img src="../../assets/images/nhiepanh/anhsang/Bo-cuc-vang-trong-nhiep-anh-13.jpg" alt="Hướng ánh sáng" class="responsive">
+
+* **Đường thẳng đứng:**
+<img src="../../assets/images/nhiepanh/anhsang/3582398_untitled-shoot-4643-Edit.webp" alt="Hướng ánh sáng" class="responsive">
+
 <a name="huongsang"></a>
 
 ### 2. Tỷ lệ vàng
