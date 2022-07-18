@@ -99,23 +99,23 @@ Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sán
 ### 5. Màu sắc của ánh sáng
 
 <div class="row">
-  <div class="col-4">
-  <img src="../../assets/images/nhiepanh/anhsang/NumbersNewtonLight.jpg" alt="Newton khám phá ánh sáng">
+  <div class="col-5">
+  <img src="../../assets/images/nhiepanh/anhsang/NumbersNewtonLight.jpg" alt="Newton khám phá ánh sáng" class="responsive">
   Năm 1666, Isaac Newton (1642-1727 ) nhà vật lý vĩ đại người Anh đã bị hấp dẫn khi ông quan sát hiện tượng các tia mặt trời chiếu xuyền qua một lăng kính. </div>
-  <div class="col-8">Ánh sáng và màu sắc không chỉ vẽ lên hình khối trong ảnh mà còn tạo ra hình tượng và nội dung bức ảnh, trong đó màu sắc được tạo ra từ ánh sáng và chịu tác động mạnh mẽ từ nguồn sáng.
-  
+  <div class="col-7">Ánh sáng và màu sắc không chỉ vẽ lên hình khối trong ảnh mà còn tạo ra hình tượng và nội dung bức ảnh, trong đó màu sắc được tạo ra từ ánh sáng và chịu tác động mạnh mẽ từ nguồn sáng.
+
   Độ lạnh hay ấm (ngả vàng hay ngả xanh)của ánh sáng được đo theo thang Kelvin(<b>K</b>)
-    <img src="../../assets/images/nhiepanh/anhsang/bang-mau-anh-sang.jpg" alt="Biểu đồ nhiệt độ màu">
+    <img src="../../assets/images/nhiepanh/anhsang/bang-mau-anh-sang.jpg" alt="Biểu đồ nhiệt độ màu" class="responsive">
 </div>
 </div>
 
 Mặc dù máy ảnh giờ đây đã **cân bằng trắng(auto white balance)** khá tốt, nhưng dù sao vẫn chỉ là cái máy. Việc biết được nhiệt độ màu trong nhiếp ảnh vô cùng quan trọng khi ta có thể áp dụng vào ý đồ nghệ thuật hoặc đơn giản tránh những trường hợp không ý muốn.
-<img src="../../assets/images/nhiepanh/anhsang/White-Balance-Menu-v01.jpg" alt="Ảnh White balance của máy ảnh">
+<img src="../../assets/images/nhiepanh/anhsang/White-Balance-Menu-v01.jpg" alt="Ảnh White balance của máy ảnh" class="responsive">
 
-Ví dụ:Khi chụp với ánh sáng trong nhà, nhiệt độ màu của bóng đèn trong phòng sẽ ảnh hưởng cực kỳ lớn trong nhiếp ảnh chân dung khi tác động trực tiếp vào da của người mẫu. Ánh sáng bình thường của bóng đèn trắng là 5500K, nếu vượt quá thì ánh sáng sẽ ngả sang màu xanh và nếu nhỏ hơn 4800K thì ánh sáng sẽ ngả vàng.  
-    <img src="../../assets/images/nhiepanh/anhsang/Colour-Temperature-Example-v01.jpg" alt="Ảnh so sánh chân dung giữa nhiệt độ màu khác nhau">
+Ví dụ:Khi chụp với ánh sáng trong nhà, nhiệt độ màu của bóng đèn trong phòng sẽ ảnh hưởng cực kỳ lớn trong nhiếp ảnh chân dung khi tác động trực tiếp vào da của người mẫu. Ánh sáng bình thường của bóng đèn trắng là 5500K, nếu vượt quá thì ánh sáng sẽ ngả sang màu xanh và nếu nhỏ hơn 4800K thì ánh sáng sẽ ngả vàng.
+    <img src="../../assets/images/nhiepanh/anhsang/Colour-Temperature-Example-v01.jpg" alt="Ảnh so sánh chân dung giữa nhiệt độ màu khác nhau" class="responsive">
 
-Tham khảo bảng nhiệt độ màu với một số nguồn sáng thường gặp khác nhau: 
+Tham khảo bảng nhiệt độ màu với một số nguồn sáng thường gặp khác nhau:
 * 1000K Ánh nến, đèn dầu.
 * 2000K Rạng đông (sớm hơn Bình minh), đèn Wolfram.
 * 2500K Bóng đèn sợi đốt.
@@ -133,7 +133,9 @@ Tham khảo bảng nhiệt độ màu với một số nguồn sáng thường g
 
 Với một số dòng máy ảnh có thể **chỉnh nhiệt độ K**. Ta có thể làm như sau:
 
-[Cân bằng trắng với máy ảnh Nikon D7100](https://www.youtube.com/watch?v=RuFqIR3gQRY).
+* [Cân bằng trắng với máy ảnh Nikon D7100](https://www.youtube.com/watch?v=RuFqIR3gQRY).
+* [Hướng dẫn sử dụng cân bằng trắng trên Canon 70D](https://kieutruong.com/huong-dan-su-dung-can-bang-trang-canon-70d/).
+
 
 > **Ánh sáng quyết định sự thành bại của một bức ảnh.**
 
@@ -155,7 +157,7 @@ $(".switcher input[type='checkbox']").click(function () {
 });
 
  </script>
- 
+
  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" type="text/javascript"></script>
 
 <style>
@@ -199,7 +201,7 @@ table th {
   table caption {
     font-size: 1.3em;
   }
-  
+
   table thead {
     border: none;
     clip: rect(0 0 0 0);
@@ -210,20 +212,20 @@ table th {
     position: absolute;
     width: 1px;
   }
-  
+
   table tr {
     border-bottom: 3px solid #ddd;
     display: block;
     margin-bottom: .625em;
   }
-  
+
   table td {
     border-bottom: 1px solid #ddd;
     display: block;
     font-size: .8em;
     text-align: right;
   }
-  
+
   table td::before {
     /*
     * aria-label has no advantage, it won't be read inside a table
@@ -234,7 +236,7 @@ table th {
     font-weight: bold;
     text-transform: uppercase;
   }
-  
+
   table td:last-child {
     border-bottom: 0;
   }
