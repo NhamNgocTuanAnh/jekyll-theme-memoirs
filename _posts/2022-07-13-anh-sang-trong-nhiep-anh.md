@@ -20,13 +20,13 @@ Có ánh sáng, có nhiếp ảnh. Ánh sáng đóng vai trò rất quan trọng
 [5. Cách tránh](#trachkhoi)
 
 ### 1. Ánh sáng trong nhiếp ảnh
+![image](/assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_1.jpg){:class="img-responsive"}
+
 Ánh sáng cho biết:
 * Màu sắc
 * Hình thái
 * Chi tiêt
 * Chất liệu
-
-![image](/assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_1.jpg){:class="img-responsive"}
 
 Ánh sáng khi chiếu vào chủ thể sẽ cho ra 2 vùng là vùng tối (shadow) và vùng sáng (hightlight). Cách bố cục vùng sáng cũng như vùng tối của chủ thể sẽ tạo ra những hiệu ứng riêng biệt với từng ý đồ nghệ thuật riêng biệt.
 
@@ -141,7 +141,7 @@ Với một số dòng máy ảnh có thể **chỉnh nhiệt độ K**. Ta có 
 
 ### Trích nguồn
 * [Ánh Sáng Ảnh Hưởng Thế Nào Đến Nhiếp Ảnh](https://snapshot.canon-asia.com/vn/article/viet/lesson-8-how-light-affects-photography).
-* [Công Kích Cá Nhân: Điểm yếu điển hình trong tranh luận của người Việt](https://www.youtube.com/watch?v=7xuKwIa5x9Q&list=WL&index=2).
+* [Kỹ thuật cân bằng trắng WB để làm chủ tông màu-vuanhiepanh.com](http://vuanhiepanh.com/news/Mau-sac-nhiep-anh/can-bang-trang-WB-882.html#:~:text=C%C3%A2n%20b%E1%BA%B1ng%20tr%E1%BA%AFng%20(WB)%20l%C3%A0,m%C3%A0u%20%E1%BA%A3nh%20m%E1%BB%9Bi%20trung%20th%E1%BB%B1c.).
 * [Vì sao người Việt thích công kích cá nhân khi tranh luận?](https://tusach.thuvienkhoahoc.com/wiki/V%C3%AC_sao_ng%C6%B0%E1%BB%9Di_Vi%E1%BB%87t_th%C3%ADch_c%C3%B4ng_k%C3%ADch_c%C3%A1_nh%C3%A2n_khi_tranh_lu%E1%BA%ADn%3F).
 * ['Bóc Phốt' Công Kích Cá Nhân Trên Mạng Xã Hội - Hành Vi Giết Người Không Dao!](https://ybox.vn/triet-hoc-tuoi-tre/boc-phot-cong-kich-ca-nhan-tren-mang-xa-hoi-hanh-vi-giet-nguoi-khong-dao-611011ecc19b5602547f349b).
 
