@@ -13,32 +13,20 @@ Có ánh sáng, có nhiếp ảnh. Ánh sáng đóng vai trò rất quan trọng
 
 
 ### Mục lục
-[1. Ánh sáng trong nhiếp ảnh](#dinhnghia)\\
-[2. Nguồn ánh sáng](#nguongoc)\\
-[3. Hướng ánh sáng](#huongsang)\\
-[4. Màu sắc của ánh sáng](#nguyennahn)
-
-<a name="dinhnghia"></a>
-### 1. Ánh sáng trong nhiếp ảnh
-![image](/assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_1.jpg){:class="img-responsive"}
-
-Ánh sáng cho biết:
-* Màu sắc
-* Hình thái
-* Chi tiêt
-* Chất liệu
-
-Ánh sáng khi chiếu vào chủ thể sẽ cho ra 2 vùng là vùng tối (shadow) và vùng sáng (hightlight). Cách bố cục vùng sáng cũng như vùng tối của chủ thể sẽ tạo ra những hiệu ứng riêng biệt với từng ý đồ nghệ thuật riêng biệt.
+[1. Nguồn ánh sáng](#nguongoc)\\
+[2. Hướng ánh sáng](#huongsang)\\
+[3. Màu sắc của ánh sáng](#nguyennahn)
 
 <a name="nguongoc"></a>
-### 2. Nguồn ánh sáng
+
+### 1. Nguồn ánh sáng
 Bao gồm nguồn sáng tự nhiên và nguồn sáng nhân tạo.
-#### 2.1. Nguồn sáng tự nhiên
+#### 1.1. Nguồn sáng tự nhiên
 ![image](/assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_tu_nhien.jpg){:class="img-responsive"}
 
 **Mặt trời, mặt trăng, sao trời,** ... là những vật thể tự nhiên mà ta không thể control được. Thời gian như
 Chúng ta chỉ có thể chờ tới sáng, tới trưa, tới chiều hoặc tối. Không gian như: Mưa, nắng, sương mù, vvv...
-#### 2.2. Nguồn sáng nhân tạo
+#### 1.2. Nguồn sáng nhân tạo
 ![image](/assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao.png){:class="img-responsive"}
 
 Vào những thời điểm khác nhau trong ngày, thậm chí trong năm, ánh sáng tự nhiên sẽ tạo ra những hiệu ứng khác nhau do đó việc tận dụng hay tránh các tác động không mong muốn vào hình ảnh. Ta có thể điều khiển ánh sáng bằng cách tự tạo ra chúng. Nhưng bằng cách nào???
@@ -50,7 +38,7 @@ Vào những thời điểm khác nhau trong ngày, thậm chí trong năm, ánh
 > Sẽ rất hữu ích khi bạn tìm hiểu nguồn ánh sáng xuất phát từ đâu và cường độ ánh sáng để giúp xác lập tâm trạng cho ảnh.
 
 <a name="huongsang"></a>
-### 3. Hướng ánh sáng
+### 2. Hướng ánh sáng
 <img src="../../assets/images/nhiepanh/anhsang/huonganhsang.jpg" alt="Hướng ánh sáng" class="responsive">
 
 Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sáng.
@@ -75,7 +63,7 @@ Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sán
 
 <a name="nguyennahn"></a>
 
-### 4. Màu sắc của ánh sáng
+### 3. Màu sắc của ánh sáng
 
 <div class="row">
   <div class="col-5">
@@ -115,7 +103,10 @@ Với một số dòng máy ảnh có thể **chỉnh nhiệt độ K**. Ta có 
 * [Hướng dẫn sử dụng cân bằng trắng trên Canon 70D](https://kieutruong.com/huong-dan-su-dung-can-bang-trang-canon-70d/).
 
 
-> **Ánh sáng quyết định sự thành bại của một bức ảnh.**
+![image](/assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_1.jpg){:class="img-responsive"}
+
+
+<p style="text-align:center;"> Ánh sáng quyết định sự thành bại của một bức ảnh.</p>
 
 ### Trích nguồn
 * [Ánh Sáng Ảnh Hưởng Thế Nào Đến Nhiếp Ảnh](https://snapshot.canon-asia.com/vn/article/viet/lesson-8-how-light-affects-photography).
