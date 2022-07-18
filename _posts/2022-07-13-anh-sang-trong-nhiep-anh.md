@@ -88,47 +88,26 @@ Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sán
   </tr>
 </table>
 
-<section id="pricing">
-  <div class="container">
-    <div class="row">
-      <div class="offset-lg-1 col-lg-10">
-        <div class="switcher-box">
-          <span>Cash</span>
-          <div class="switcher text-center">
-            <input type="checkbox" class="toggle">
-          </div>
-          <span>Equity</span>
-        </div>
+<table>
+  <caption>Độ tương phản</caption>
+  <thead>
+    <tr>
+      <th scope="col"> Độ Tương Phản Mạnh.</th>
+      <th scope="col">Độ Tương Phản Yếu.</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td data-label="Account">  <img src="../../assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao.png" alt="Ánh sáng phía trước" width = 360px height = 640px>
+            <h6 class="table-price">Ánh sáng mạnh với sự chênh lệch lớn về độ sáng giữa các vùng sáng và tối</h6>
+            <p> Ánh nắng trực tiếp vào một ngày có nắng là sáng, và mạnh đủ để tạo ra bóng râm. Với sự chênh lệch lớn về độ sáng giữa các vùng sáng nhất (vùng sáng) và các vùng tối (bóng râm), ảnh được tạo ra sẽ sắc nét với độ tương phản mạnh.</p></td>
+      <td data-label="Due Date"><img src="../../assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao.png" alt="Ánh sáng phía trước" width = 360px height = 640px>
+            <h6 class="table-price">Ánh sáng yếu với sự chênh lệch nhỏ về độ sáng giữa các vùng sáng và tối</h6>
+            <p>Ánh sáng ‘mịn’ được tạo ra bởi ánh nắng trực tiếp vào một ngày có mây, tương tự như ánh sáng xuyên qua rèm cửa. Vì không thể dễ dàng hình thành các bóng râm trong trường hợp này, có một sự chênh lệch nhỏ hơn về độ sáng, và không khí có được là không khí nhẹ nhàng với độ tương phản yếu. Ngoài ra, với sự chênh lệch nhỏ giữa các vùng ‘sáng’ và ‘tối’, bóng râm được thể hiện theo sự tăng màu mượt mà.</p></td>
+    </tr>
+  </tbody>
+</table>
 
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<div class="pricing-table pt-65">
-    <div class="tab-content show" id="cash">
-    <div class="row">
-        <div class="col-lg-6">
-        <div class="table-data">
-            <h4>Độ Tương Phản Mạnh</h4>
-                  <img src="../../assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao.png" alt="Ánh sáng phía trước" width = 360px height = 640px>
-            <h3 class="table-price">Ánh sáng mạnh với sự chênh lệch lớn về độ sáng giữa các vùng sáng và tối</h3>
-            <p> Ánh nắng trực tiếp vào một ngày có nắng là sáng, và mạnh đủ để tạo ra bóng râm. Với sự chênh lệch lớn về độ sáng giữa các vùng sáng nhất (vùng sáng) và các vùng tối (bóng râm), ảnh được tạo ra sẽ sắc nét với độ tương phản mạnh.</p>
-        </div>
-        </div>
-        <div class="col-lg-6">
-        <div class="table-data">
-            <h4>Độ Tương Phản Yếu.</h4>
-                  <img src="../../assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao.png" alt="Ánh sáng phía trước" width = 360px height = 640px>
-            <h3 class="table-price">Ánh sáng yếu với sự chênh lệch nhỏ về độ sáng giữa các vùng sáng và tối</h3>
-            <p>Ánh sáng ‘mịn’ được tạo ra bởi ánh nắng trực tiếp vào một ngày có mây, tương tự như ánh sáng xuyên qua rèm cửa. Vì không thể dễ dàng hình thành các bóng râm trong trường hợp này, có một sự chênh lệch nhỏ hơn về độ sáng, và không khí có được là không khí nhẹ nhàng với độ tương phản yếu. Ngoài ra, với sự chênh lệch nhỏ giữa các vùng ‘sáng’ và ‘tối’, bóng râm được thể hiện theo sự tăng màu mượt mà.</p>
-        </div>
-        </div>
-    </div>
-    </div>
-
-</div>
 
 ### 5. Màu sắc của ánh sáng
 
@@ -156,123 +135,84 @@ $(".switcher input[type='checkbox']").click(function () {
  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" type="text/javascript"></script>
 
 <style>
-#pricing {
-  background: #010c1a;
-  margin-bottom: 50px;
-}
-
-.switcher-box {
-  margin-top: 48px;
-  display: flex;
-  align-content: center;
-  justify-content: center;
-  margin-bottom: 45px;
-}
-.switcher-box span {
-  color: #fff;
-  padding: 0 12px;
-  font-size: 18px;
-  line-height: 32px;
-}
-.switcher input[type="checkbox"] {
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
-  -webkit-tap-highlight-color: transparent;
-  cursor: pointer;
-}
-.switcher input[type="checkbox"]:focus {
-  outline: 0;
-}
-
-.switcher .toggle {
-  width: 59px;
-  height: 30px;
-  display: inline-block;
-  position: relative;
+table {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
   margin: 0;
-  border: 2px solid #654fec;
-  transition: all 0.2s ease;
-  border-radius: 43px;
-  -webkit-border-radius: 43px;
-  -moz-border-radius: 43px;
-  -ms-border-radius: 43px;
-  -o-border-radius: 43px;
+  padding: 0;
+  width: 100%;
+  table-layout: fixed;
 }
-.switcher .toggle:after {
-  content: "";
-  position: absolute;
-  top: 3px;
-  left: 3px;
-  width: 20px;
-  height: 20px;
-  border-radius: 50%;
-  background: linear-gradient(263.86deg, #345cef -0.33%, #9234ef 93.97%);
-  box-shadow: 0 1px 2px rgba(44, 44, 44, 0.2);
-  transition: all 0.2s cubic-bezier(0.5, 0.1, 0.75, 1.35);
+
+table caption {
+  font-size: 1.5em;
+  margin: .5em 0 .75em;
 }
-.switcher .toggle:checked:after {
-  transform: translatex(28px);
-  -webkit-transform: translatex(28px);
-  -moz-transform: translatex(28px);
-  -ms-transform: translatex(28px);
-  -o-transform: translatex(28px);
+
+table tr {
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  padding: .35em;
 }
-.table-data h4 {
-  color: #fff;
+
+table th,
+table td {
+  padding: .625em;
   text-align: center;
 }
-.table-data {
-  padding: 32px;
-  border: 1px solid transparent;
-  border-radius: 30px;
-  background-image: linear-gradient(#020c1a, #020c1a),
-    linear-gradient(263.86deg, #345cef -0.33%, #9234ef 93.97%);
-  background-origin: border-box;
-  background-clip: padding-box, border-box;
+
+table th {
+  font-size: .85em;
+  letter-spacing: .1em;
+  text-transform: uppercase;
 }
-.table-data h3 {
-  color: #fff;
-  padding-top: 24px;
-}
-#pricing .table-data p {
-  text-align: left;
-  padding-top: 24px;
-  font-size: 16px;
-  line-height: 24px;
-  color: #fff;
-}
-.table-data h3 span {
-  font-size: 14px;
-  line-height: 21px;
-  padding: 4px 10px;
-  background: linear-gradient(
-    263.86deg,
-    rgba(52, 92, 239, 0.2) -0.33%,
-    rgba(146, 52, 239, 0.2) 93.97%
-  );
-  border-radius: 4px;
-  font-weight: 400;
-}
-.table-data p:not(:last-child) {
-  padding-bottom: 24px;
-  position: relative;
-}
-.table-data p:not(:last-child)::after {
-  position: absolute;
-  content: "";
-  width: 130px;
-  height: 1px;
-  background: #474c61;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  margin: auto;
-}
-.tab-content {
-  display: none;
-}
-.tab-content.show {
-  display: block;
+
+@media screen and (max-width: 600px) {
+  table {
+    border: 0;
+  }
+
+  table caption {
+    font-size: 1.3em;
+  }
+  
+  table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  
+  table tr {
+    border-bottom: 3px solid #ddd;
+    display: block;
+    margin-bottom: .625em;
+  }
+  
+  table td {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    font-size: .8em;
+    text-align: right;
+  }
+  
+  table td::before {
+    /*
+    * aria-label has no advantage, it won't be read inside a table
+    content: attr(aria-label);
+    */
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  table td:last-child {
+    border-bottom: 0;
+  }
 }
 </style>
