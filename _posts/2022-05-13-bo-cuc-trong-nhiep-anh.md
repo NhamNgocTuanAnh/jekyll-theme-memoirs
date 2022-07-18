@@ -90,6 +90,9 @@ Trong thực tế, người chụp kết hợp sử dụng cả hai loại ngu�
 Quy tắc ⅓ hoạt động bằng cách chia khung hình thành 9 ô vuông bằng nhau. Chúng được chia cắt bởi hàng hàng dọc và hai hàng ngang trong hình. Dựa vào đó, bạn hoàn toàn có thể đặt đối tượng giao nhau tại các điểm giao nhau của đường thẳng.
 
 Đây là một trong những kĩ thuật được các nhiếp ảnh gia ưa thích nhất. Họ có thể hoàn toàn củng cố thêm bố cục tổng quan khi sử dụng kĩ thuật ⅓ này.
+<img src="../../assets/images/nhiepanh/anhsang/quy-tac-khong-gian-nhiep-anh-4.png" alt="Hướng ánh sáng" class="responsive">
+
+Quy tắc ⅓ là một kĩ thuật hữu ích và hiệu quả. Kỹ thuật này chắc chắn sẽ rất đáng để nghiên cứu. Bởi nó làm nên “tỷ lệ vàng” nên bức ảnh thật sự rất ưa nhìn. Đó là nguyên nhân dẫn đến sự phổ biến của nó.
 
 <div class="row">
   <div class="col-5">
