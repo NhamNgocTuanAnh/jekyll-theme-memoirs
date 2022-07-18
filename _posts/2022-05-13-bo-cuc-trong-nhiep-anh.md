@@ -31,6 +31,7 @@ Tỷ lệ vàng (Golden Ratio) được sử dụng trong các bức hình có b
 <a name="nguyennahn"></a>
 
 ### 3. Nguyên tắc 1/3
+Quy tắc 1/3 được coi là quy tắc kinh điển trong nhiếp ảnh. Quy tắc bố cục chụp ảnh chân dung cơ bản này rất phổ biến trong các khóa học chụp ảnh, được nhiều người sử dụng khi chụp ảnh, đặc biệt là chụp ảnh chân dung. Để có được một bức ảnh theo đúng quy tắc thì hãy tưởng tượng khung hình được chia thành 9 phần bằng nhau bởi hai đường dọc và hai đường ngang. Sau đó, hãy ngắm để chân dung người nằm ở các điểm giao nhau. Như vậy thì bạn sẽ có được bức ảnh hoàn hảo theo quy tắc 1/3. Khi áp dụng quy tắc này, bạn sẽ có được sự cân bằng về cả không gian và thời gian.
 
 Quy tắc ⅓ hoạt động bằng cách chia khung hình thành 9 ô vuông bằng nhau. Chúng được chia cắt bởi hàng hàng dọc và hai hàng ngang trong hình. Dựa vào đó, bạn hoàn toàn có thể đặt đối tượng giao nhau tại các điểm giao nhau của đường thẳng.
 
@@ -97,6 +98,8 @@ Ngày nay trên máy ảnh hay điện thoại đều có các lưới kẻ, chi
 - [Những Bố Cục Chụp Ảnh Cần Biết - tiemanhsky.com](https://tiemanhsky.com/bo-cuc-chup-anh/#Bo_Cuc_13).
 - [Kỹ thuật cân bằng trắng WB để làm chủ tông màu-vuanhiepanh.com](<http://vuanhiepanh.com/news/Mau-sac-nhiep-anh/can-bang-trang-WB-882.html#:~:text=C%C3%A2n%20b%E1%BA%B1ng%20tr%E1%BA%AFng%20(WB)%20l%C3%A0,m%C3%A0u%20%E1%BA%A3nh%20m%E1%BB%9Bi%20trung%20th%E1%BB%B1c.>).
 - [Ánh sáng trong nhiếp ảnh: Nguồn sáng & Hướng sáng - tinhte.vn](https://tinhte.vn/thread/hoc-chup-anh-anh-sang-trong-nhiep-anh-nguon-sang-huong-sang-bai-2.2424120/).
+
+> Trong nghệ thuật, sự sáng tạo và phá cách thường được khuyến khích. Việc phá vỡ những quy tắc giúp nhiếp ảnh gia có được phong cách, để tạo dấu ấn, tạo các tác phẩm kinh điển. Tuy nhiên, điều này lại thực sự chưa phù hợp với những người mới vào nghề. Trước tiên, khi không biết sắp xếp bố cục, hãy tuân thủ đầy đủ các quy tắc  bố cục ảnh đã được học để không tự mình hủy hoại bức ảnh.
 
 <style>
 .box {
