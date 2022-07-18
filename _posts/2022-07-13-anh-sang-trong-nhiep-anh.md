@@ -46,7 +46,7 @@ Vào những thời điểm khác nhau trong ngày, thậm chí trong năm, ánh
 
 Đèn cầy, đèn dầu, đèn flash,...
 
-> Bạn phải biết nguồn sáng mới có thể. Sẽ rất hữu ích khi bạn tìm hiểu nguồn ánh sáng xuất phát từ đâu và cường độ ánh sáng để giúp xác lập tâm trạng cho ảnh.
+> Sẽ rất hữu ích khi bạn tìm hiểu nguồn ánh sáng xuất phát từ đâu và cường độ ánh sáng để giúp xác lập tâm trạng cho ảnh.
 
 ### 3. Hướng ánh sáng
 Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sáng.
