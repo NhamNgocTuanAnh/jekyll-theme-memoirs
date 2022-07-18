@@ -42,7 +42,7 @@ Chúng ta chỉ có thể chờ tới sáng, tới trưa, tới chiều hoặc t
 
 Vào những thời điểm khác nhau trong ngày, thậm chí trong năm, ánh sáng tự nhiên sẽ tạo ra những hiệu ứng khác nhau do đó việc tận dụng hay tránh các tác động không mong muốn vào hình ảnh. Ta có thể điều khiển ánh sáng bằng cách tự tạo ra chúng. Nhưng bằng cách nào???
 
-![image](/assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao.png){:class="img-responsive"}
+![image](/assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao_1.jpg){:class="img-responsive"}
 
 Đèn cầy, đèn dầu, đèn flash,...
 
@@ -50,7 +50,6 @@ Vào những thời điểm khác nhau trong ngày, thậm chí trong năm, ánh
 
 ### 3. Hướng ánh sáng
 Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sáng.
-
 <table>
   <tbody>
     <tr>
@@ -73,7 +72,6 @@ Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sán
 ### 4. Cường độ và độ mịn của ánh sáng
 > Cường độ ánh sáng có thể được phân thành hai loại, một loại là có độ tương phản mạnh và loại kia là đó độ tương phản yếu.
 
-
 <table>
   <caption>Độ tương phản</caption>
   <thead>
@@ -84,7 +82,7 @@ Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sán
   </thead>
   <tbody>
     <tr>
-      <td >  <img src="../../assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao.png" alt="Ánh sáng phía trước" width = 360px height = 640px>
+      <td><img src="../../assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao.png" alt="Ánh sáng phía trước" width = 360px height = 640px>
             <h6 class="table-price">Ánh sáng mạnh với sự chênh lệch lớn về độ sáng giữa các vùng sáng và tối</h6>
             <p> Ánh nắng trực tiếp vào một ngày có nắng là sáng, và mạnh đủ để tạo ra bóng râm. Với sự chênh lệch lớn về độ sáng giữa các vùng sáng nhất (vùng sáng) và các vùng tối (bóng râm), ảnh được tạo ra sẽ sắc nét với độ tương phản mạnh.</p></td>
       <td ><img src="../../assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao.png" alt="Ánh sáng phía trước" width = 360px height = 640px>
