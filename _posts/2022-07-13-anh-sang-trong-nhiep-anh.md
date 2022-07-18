@@ -14,10 +14,9 @@ Có ánh sáng, có nhiếp ảnh. Ánh sáng đóng vai trò rất quan trọng
 
 ### Mục lục
 [1. Ánh sáng trong nhiếp ảnh](#dinhnghia)\\
-[2. Các hình thức công kích cá nhân](#cachhinhthuc)\\
-[3. Tác hại](#tachai)\\
-[4. Nguyên nhân](#nguyennahn)\\
-[5. Cách tránh](#trachkhoi)
+[2. Nguồn ánh sáng](#nguongoc)\\
+[3. Hướng ánh sáng](#huongsang)\\
+[4. Màu sắc của ánh sáng](#nguyennahn)\\
 
 <a name="dinhnghia"></a>
 ### 1. Ánh sáng trong nhiếp ảnh
@@ -72,7 +71,7 @@ Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sán
   </tbody>
 </table>
 
-<a name="mausac"></a>
+<a name="nguyennahn"></a>
 
 ### 4. Màu sắc của ánh sáng
 
