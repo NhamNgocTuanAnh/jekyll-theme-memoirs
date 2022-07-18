@@ -19,6 +19,7 @@ Có ánh sáng, có nhiếp ảnh. Ánh sáng đóng vai trò rất quan trọng
 [4. Nguyên nhân](#nguyennahn)\\
 [5. Cách tránh](#trachkhoi)
 
+<a name="dinhnghia"></a>
 ### 1. Ánh sáng trong nhiếp ảnh
 ![image](/assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_1.jpg){:class="img-responsive"}
 
@@ -30,6 +31,7 @@ Có ánh sáng, có nhiếp ảnh. Ánh sáng đóng vai trò rất quan trọng
 
 Ánh sáng khi chiếu vào chủ thể sẽ cho ra 2 vùng là vùng tối (shadow) và vùng sáng (hightlight). Cách bố cục vùng sáng cũng như vùng tối của chủ thể sẽ tạo ra những hiệu ứng riêng biệt với từng ý đồ nghệ thuật riêng biệt.
 
+<a name="nguongoc"></a>
 ### 2. Nguồn ánh sáng
 Bao gồm nguồn sáng tự nhiên và nguồn sáng nhân tạo.
 #### 2.1. Nguồn sáng tự nhiên
@@ -48,6 +50,7 @@ Vào những thời điểm khác nhau trong ngày, thậm chí trong năm, ánh
 
 > Sẽ rất hữu ích khi bạn tìm hiểu nguồn ánh sáng xuất phát từ đâu và cường độ ánh sáng để giúp xác lập tâm trạng cho ảnh.
 
+<a name="huongsang"></a>
 ### 3. Hướng ánh sáng
 Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sáng.
 <table>
@@ -69,31 +72,9 @@ Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sán
   </tbody>
 </table>
 
-### 4. Cường độ và độ mịn của ánh sáng
-> Cường độ ánh sáng có thể được phân thành hai loại, một loại là có độ tương phản mạnh và loại kia là đó độ tương phản yếu.
+<a name="mausac"></a>
 
-<table>
-  <caption>Độ tương phản</caption>
-  <thead>
-    <tr>
-      <th scope="col"> Độ Tương Phản Mạnh.</th>
-      <th scope="col">Độ Tương Phản Yếu.</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="../../assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao.png" alt="Ánh sáng phía trước" width = 360px height = 640px>
-            <h6 class="table-price">Ánh sáng mạnh với sự chênh lệch lớn về độ sáng giữa các vùng sáng và tối</h6>
-            <p> Ánh nắng trực tiếp vào một ngày có nắng là sáng, và mạnh đủ để tạo ra bóng râm. Với sự chênh lệch lớn về độ sáng giữa các vùng sáng nhất (vùng sáng) và các vùng tối (bóng râm), ảnh được tạo ra sẽ sắc nét với độ tương phản mạnh.</p></td>
-      <td ><img src="../../assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao.png" alt="Ánh sáng phía trước" width = 360px height = 640px>
-            <h6 class="table-price">Ánh sáng yếu với sự chênh lệch nhỏ về độ sáng giữa các vùng sáng và tối</h6>
-            <p>Ánh sáng ‘mịn’ được tạo ra bởi ánh nắng trực tiếp vào một ngày có mây, tương tự như ánh sáng xuyên qua rèm cửa. Vì không thể dễ dàng hình thành các bóng râm trong trường hợp này, có một sự chênh lệch nhỏ hơn về độ sáng, và không khí có được là không khí nhẹ nhàng với độ tương phản yếu. Ngoài ra, với sự chênh lệch nhỏ giữa các vùng ‘sáng’ và ‘tối’, bóng râm được thể hiện theo sự tăng màu mượt mà.</p></td>
-    </tr>
-  </tbody>
-</table>
-
-
-### 5. Màu sắc của ánh sáng
+### 4. Màu sắc của ánh sáng
 
 <div class="row">
   <div class="col-5">
