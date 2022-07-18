@@ -16,7 +16,7 @@ Có ánh sáng, có nhiếp ảnh. Ánh sáng đóng vai trò rất quan trọng
 [1. Ánh sáng trong nhiếp ảnh](#dinhnghia)\\
 [2. Nguồn ánh sáng](#nguongoc)\\
 [3. Hướng ánh sáng](#huongsang)\\
-[4. Màu sắc của ánh sáng](#nguyennahn)\\
+[4. Màu sắc của ánh sáng](#nguyennahn)
 
 <a name="dinhnghia"></a>
 ### 1. Ánh sáng trong nhiếp ảnh
