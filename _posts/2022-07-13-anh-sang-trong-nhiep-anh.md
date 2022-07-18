@@ -74,19 +74,6 @@ Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sán
 ### 4. Cường độ và độ mịn của ánh sáng
 > Cường độ ánh sáng có thể được phân thành hai loại, một loại là có độ tương phản mạnh và loại kia là đó độ tương phản yếu.
 
-<table>
-     <tr>
-      <td >
-      Độ Tương Phản Mạnh
-      (Ánh sáng mạnh với sự chênh lệch lớn về độ sáng giữa các vùng sáng và tối)
-      <img src="../../assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao.png" alt="Ánh sáng phía trước" width = 360px height = 640px>
-      Ánh nắng trực tiếp vào một ngày có nắng là sáng, và mạnh đủ để tạo ra bóng râm. Với sự chênh lệch lớn về độ sáng giữa các vùng sáng nhất (vùng sáng) và các vùng tối (bóng râm), ảnh được tạo ra sẽ sắc nét với độ tương phản mạnh.
-      </td>
-      <td>Độ Tương Phản Yếu.(Ánh sáng yếu với sự chênh lệch nhỏ về độ sáng giữa các vùng sáng và tối)
-      Ánh sáng ‘mịn’ được tạo ra bởi ánh nắng trực tiếp vào một ngày có mây, tương tự như ánh sáng xuyên qua rèm cửa. Vì không thể dễ dàng hình thành các bóng râm trong trường hợp này, có một sự chênh lệch nhỏ hơn về độ sáng, và không khí có được là không khí nhẹ nhàng với độ tương phản yếu. Ngoài ra, với sự chênh lệch nhỏ giữa các vùng ‘sáng’ và ‘tối’, bóng râm được thể hiện theo sự tăng màu mượt mà.
-      </td>
-  </tr>
-</table>
 
 <table>
   <caption>Độ tương phản</caption>
