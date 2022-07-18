@@ -26,8 +26,12 @@ Bố cục là một trong những yếu tố quan trọng để tạo nên bứ
 ### 2. Tỷ lệ vàng
 
 Tỷ lệ vàng (Golden Ratio) được sử dụng trong các bức hình có bố cục tương đối đơn giản để người xem tập trung vào đối tượng mà không bị chi phối bởi các yếu tố khác trong bức ảnh. Tỷ lệ vàng bao gồm một đường xoắn ốc hướng mắt người xem đến đối tượng. Tương tự như quy tắc 1/3, ở quy tắc này, đối tượng trung tâm sẽ nằm trong vòng tròn xoắn nhỏ nhất của xoắn ốc và các đối tượng nằm bên ngoài chính là phông nền.
+
+Quy tắc này "tỉ lệ vàng", một tỉ lệ của cái đẹp. Một sự thống nhất hài hòa giữa khoa học và nghệ thuật. Rất nhiều nhà nghệ thuật thời phục hưng như Da vinci hay Angelo... đều lấy nó làm tỉ lệ chuẩn trong các tác phẩm của mình. Họ gọi nó là "tỉ lệ thần thánh". Nếu bạn có tỉ lệ của 2 đại lượng nào đó là con số xấp xỉ 1,6180... thì người ta gọi đó chính là "tỉ lệ vàng", chính vì khi lấy số đứng sau chia cho số đứng trước trong dãy Fibonacci, chúng ta được một con số xấp xỉ tỉ lệ vàng này.​
+
 <img src="../../assets/images/nhiepanh/anhsang/ap-dung-ty-le-vang-trong-nhiep-anh.jpg" alt="Hướng ánh sáng" class="responsive">
 
+Một cách sắp xếp bố cục tiếp theo được dựa theo nguyên tắc tỉ lệ dựa trên dãy số Fibonacci chính là quy tắc Một Phần Ba.
 <a name="nguyennahn"></a>
 
 ### 3. Nguyên tắc 1/3
