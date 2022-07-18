@@ -67,6 +67,7 @@ Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sán
       <p>
 
 Ánh sáng xiên một bên luôn làm nổi bật hình dạng vật thể và thể hiện chiều sâu chủ đề. Chủ thể nửa sáng nửa tối.
+
 </p>
 </td>
 </tr>
@@ -138,7 +139,6 @@ Với một số dòng máy ảnh có thể **chỉnh nhiệt độ K**. Ta có 
 - [Ánh Sáng Ảnh Hưởng Thế Nào Đến Nhiếp Ảnh](https://snapshot.canon-asia.com/vn/article/viet/lesson-8-how-light-affects-photography).
 - [Kỹ thuật cân bằng trắng WB để làm chủ tông màu-vuanhiepanh.com](<http://vuanhiepanh.com/news/Mau-sac-nhiep-anh/can-bang-trang-WB-882.html#:~:text=C%C3%A2n%20b%E1%BA%B1ng%20tr%E1%BA%AFng%20(WB)%20l%C3%A0,m%C3%A0u%20%E1%BA%A3nh%20m%E1%BB%9Bi%20trung%20th%E1%BB%B1c.>).
 - [Ánh sáng trong nhiếp ảnh: Nguồn sáng & Hướng sáng - tinhte.vn](https://tinhte.vn/thread/hoc-chup-anh-anh-sang-trong-nhiep-anh-nguon-sang-huong-sang-bai-2.2424120/).
-
 
 <script type="text/javascript">
 $(".switcher input[type='checkbox']").click(function () {
