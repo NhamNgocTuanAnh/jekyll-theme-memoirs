@@ -110,8 +110,30 @@ Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sán
 </div>
 
 Mặc dù máy ảnh giờ đây đã **cân bằng trắng(auto white balance)** khá tốt, nhưng dù sao vẫn chỉ là cái máy. Việc biết được nhiệt độ màu trong nhiếp ảnh vô cùng quan trọng khi ta có thể áp dụng vào ý đồ nghệ thuật hoặc đơn giản tránh những trường hợp không ý muốn.
+<img src="../../assets/images/nhiepanh/anhsang/White-Balance-Menu-v01.jpg" alt="Ảnh White balance của máy ảnh">
+
+Ví dụ:Khi chụp với ánh sáng trong nhà, nhiệt độ màu của bóng đèn trong phòng sẽ ảnh hưởng cực kỳ lớn trong nhiếp ảnh chân dung khi tác động trực tiếp vào da của người mẫu. Ánh sáng bình thường của bóng đèn trắng là 5500K, nếu vượt quá thì ánh sáng sẽ ngả sang màu xanh và nếu nhỏ hơn 4800K thì ánh sáng sẽ ngả vàng.  
     <img src="../../assets/images/nhiepanh/anhsang/Colour-Temperature-Example-v01.jpg" alt="Ảnh so sánh chân dung giữa nhiệt độ màu khác nhau">
-Khi chụp với ánh sáng trong nhà, nhiệt độ màu của bóng đèn trong phòng sẽ ảnh hưởng cực kỳ lớn trong nhiếp ảnh chân dung khi tác động trực tiếp vào da của người mẫu. Ánh sáng bình thường của bóng đèn trắng là 5500K, nếu vượt quá thì ánh sáng sẽ ngả sang màu xanh và nếu nhỏ hơn 4800K thì ánh sáng sẽ gnar vàng  
+
+Tham khảo bảng nhiệt độ màu với một số nguồn sáng thường gặp khác nhau: 
+* 1000K Ánh nến, đèn dầu.
+* 2000K Rạng đông (sớm hơn Bình minh), đèn Wolfram.
+* 2500K Bóng đèn sợi đốt.
+* 3000K Ánh đèn trong phòng rửa ảnh.
+* 4000K Đèn huỳnh quang.
+* 5000K Ánh sáng ban ngày, đèn flash điện tử.
+* 5500K Trời trong, mặt trời trên đỉnh đầu.
+* 6000K Ánh nắng trong điều kiện không mây.
+* 7000K Ánh nắng trong tình trạng trời mây.
+* 8000K Trời nhiều mây.
+* 9000K Bóng mát 0vào ngày trời trong.
+* 10,000K Trời nhiều mây đen, chuyển mưa.
+* 11,000K Trời xanh không có mặt trời.
+* 20,000K Xế chiều, mặt trời khuất sau núi trong ngày đẹp trời.
+
+Với một số dòng máy ảnh có thể **chỉnh nhiệt độ K**. Ta có thể làm như sau:
+
+[Cân bằng trắng với máy ảnh Nikon D7100](https://www.youtube.com/watch?v=RuFqIR3gQRY).
 
 > **Ánh sáng quyết định sự thành bại của một bức ảnh.**
 
