@@ -98,6 +98,19 @@ Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sán
 
 ### 5. Màu sắc của ánh sáng
 
+<div class="row">
+  <div class="col-4">
+  <img src="../../assets/images/nhiepanh/anhsang/NumbersNewtonLight.jpg" alt="Newton khám phá ánh sáng">
+  Năm 1666, Isaac Newton (1642-1727 ) nhà vật lý vĩ đại người Anh đã bị hấp dẫn khi ông quan sát hiện tượng các tia mặt trời chiếu xuyền qua một lăng kính. </div>
+  <div class="col-8">Ánh sáng và màu sắc không chỉ vẽ lên hình khối trong ảnh mà còn tạo ra hình tượng và nội dung bức ảnh, trong đó màu sắc được tạo ra từ ánh sáng và chịu tác động mạnh mẽ từ nguồn sáng.
+
+ánh sáng trắng được tổng hợp khi ánh sáng mầu trong quang phổ phản hồi lại qua một thấu kính hội tụ. Nhưng nếu một phần của quang phổ được phát ra, thì hỗn hợp mầu của nó sẽ dựa trền mầu bù (mầu phụ) của nó. Thí dụ khi mầu xanh lá cây được phát ra (bền phải) thì ánh sáng phản hồi là mầu đỏ tươi, mầu bù của mầu xanh.
+
+ánh sáng trắng bị phân tích bằng một lăng kính tạo thành dải quang phổ (từ đỏ đến tím). Trong quang phổ, mầu được xếp theo thứ tự từ đỏ đến tím. ánh sáng cực tím (ultraviolet) và hồng ngoại (infrared) nằm ngoài khu vực quang phổ, mà mắt người không nhìn thấy.</div>
+</div>
+
+![image](/assets/images/nhiepanh/anhsang/bang-mau-anh-sang.jpg){:class="img-responsive"}
+
 > **Ánh sáng quyết định sự thành bại của một bức ảnh.**
 
 ### Trích nguồn
