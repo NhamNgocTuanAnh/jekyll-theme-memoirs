@@ -51,6 +51,8 @@ Vào những thời điểm khác nhau trong ngày, thậm chí trong năm, ánh
 
 <a name="huongsang"></a>
 ### 3. Hướng ánh sáng
+<img src="../../assets/images/nhiepanh/anhsang/huonganhsang.jpg" alt="Hướng ánh sáng" class="responsive">
+
 Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sáng.
 <table>
   <tbody>
