@@ -23,8 +23,7 @@ Bố cục là một trong những yếu tố quan trọng để tạo nên bứ
 Mắt người có xu hướng dõi theo đường thẳng một cách tự nhiên. Vì vậy ta có thể dùng những đường thẳng để dẫn người xem tới chủ để bức ảnh. Phổ biến nhất trong chân dung, đó là tìm những đường thẳng tự nhiên như lề đường, hàng cây, thanh ray đường sắt... và đặt người mẫu trên các đường thẳng đó.
 
 Lưu ý: Nếu bạn có 2 đường thẳng hội tụ trong một khung hình, ví dụ 2 hàng cây, tránh đặt người mẫu thẳng vào điểm hội tụ. Nó làm mất chiều sâu bức ảnh. Thay vào đó, hãy đặt người mẫu lên một đường thẳng sao cho điểm hội tụ không bị chắn.
-<img src="../../assets/images/nhiepanh/anhsang/bo-cuc-duong-dan-5
-.jpg" alt="Hướng ánh sáng" class="responsive">
+<img src="../../assets/images/nhiepanh/anhsang/bo-cuc-duong-dan-5.jpg" alt="Hướng ánh sáng" class="responsive">
 
 * **Đường thẳng ngang:** Hay còn gọi là đường chân trời.
 <img src="../../assets/images/nhiepanh/anhsang/Bo-cuc-vang-trong-nhiep-anh-03.jpg" alt="Hướng ánh sáng" class="responsive">
