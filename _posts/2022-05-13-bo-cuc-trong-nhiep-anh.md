@@ -20,6 +20,11 @@ Bố cục là một trong những yếu tố quan trọng để tạo nên bứ
 <a name="nguongoc"></a>
 
 ### 1. Nguyên tắc đường thẳng
+Mắt người có xu hướng dõi theo đường thẳng một cách tự nhiên. Vì vậy ta có thể dùng những đường thẳng để dẫn người xem tới chủ để bức ảnh. Phổ biến nhất trong chân dung, đó là tìm những đường thẳng tự nhiên như lề đường, hàng cây, thanh ray đường sắt... và đặt người mẫu trên các đường thẳng đó.
+
+Lưu ý: Nếu bạn có 2 đường thẳng hội tụ trong một khung hình, ví dụ 2 hàng cây, tránh đặt người mẫu thẳng vào điểm hội tụ. Nó làm mất chiều sâu bức ảnh. Thay vào đó, hãy đặt người mẫu lên một đường thẳng sao cho điểm hội tụ không bị chắn.
+<img src="../../assets/images/nhiepanh/anhsang/bo-cuc-duong-dan-5
+.jpg" alt="Hướng ánh sáng" class="responsive">
 
 <a name="huongsang"></a>
 
@@ -101,7 +106,8 @@ Ngày nay trên máy ảnh hay điện thoại đều có các lưới kẻ, chi
 ### Trích nguồn
 
 - [Những Bố Cục Chụp Ảnh Cần Biết - tiemanhsky.com](https://tiemanhsky.com/bo-cuc-chup-anh/#Bo_Cuc_13).
-- [Kỹ thuật cân bằng trắng WB để làm chủ tông màu-vuanhiepanh.com](<http://vuanhiepanh.com/news/Mau-sac-nhiep-anh/can-bang-trang-WB-882.html#:~:text=C%C3%A2n%20b%E1%BA%B1ng%20tr%E1%BA%AFng%20(WB)%20l%C3%A0,m%C3%A0u%20%E1%BA%A3nh%20m%E1%BB%9Bi%20trung%20th%E1%BB%B1c.>).
+- [5 bố cục phổ biến trong chụp ảnh chân dung bạn nên biết
+-inhminhdigital.com](https://binhminhdigital.com/tin/5-bo-cuc-pho-bien-trong-chup-anh-chan-dung-ban-nen-biet.html).
 - [Ánh sáng trong nhiếp ảnh: Nguồn sáng & Hướng sáng - tinhte.vn](https://tinhte.vn/thread/hoc-chup-anh-anh-sang-trong-nhiep-anh-nguon-sang-huong-sang-bai-2.2424120/).
 
 > Trong nghệ thuật, sự sáng tạo và phá cách thường được khuyến khích. Việc phá vỡ những quy tắc giúp nhiếp ảnh gia có được phong cách, để tạo dấu ấn, tạo các tác phẩm kinh điển. Tuy nhiên, điều này lại thực sự chưa phù hợp với những người mới vào nghề. Trước tiên, khi không biết sắp xếp bố cục, hãy tuân thủ đầy đủ các quy tắc bố cục ảnh đã được học để không tự mình hủy hoại bức ảnh.
