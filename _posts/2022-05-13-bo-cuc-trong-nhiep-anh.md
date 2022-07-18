@@ -21,11 +21,10 @@ Bố cục là một trong những yếu tố quan trọng để tạo nên bứ
 
 ### 1. Nguyên tắc đường thẳng
 
-
-
 <a name="huongsang"></a>
 
 ### 2. Tỷ lệ vàng
+
 Tỷ lệ vàng (Golden Ratio) được sử dụng trong các bức hình có bố cục tương đối đơn giản để người xem tập trung vào đối tượng mà không bị chi phối bởi các yếu tố khác trong bức ảnh. Tỷ lệ vàng bao gồm một đường xoắn ốc hướng mắt người xem đến đối tượng. Tương tự như quy tắc 1/3, ở quy tắc này, đối tượng trung tâm sẽ nằm trong vòng tròn xoắn nhỏ nhất của xoắn ốc và các đối tượng nằm bên ngoài chính là phông nền.
 <img src="../../assets/images/nhiepanh/anhsang/ap-dung-ty-le-vang-trong-nhiep-anh.jpg" alt="Hướng ánh sáng" class="responsive">
 
@@ -51,30 +50,25 @@ Khi bạn định vị chủ thể ở bố cục 1/3 giao lộ hoặc đường
 Quy tắc ⅓ là một kĩ thuật hữu ích và hiệu quả. Kỹ thuật này chắc chắn sẽ rất đáng để nghiên cứu. Bởi nó làm nên “tỷ lệ vàng” nên bức ảnh thật sự rất ưa nhìn. Đó là nguyên nhân dẫn đến sự phổ biến của nó.
 <img src="../../assets/images/nhiepanh/anhsang/quytac1_3_1.jpg" alt="Hướng ánh sáng" class="responsive">
 
-Ngày nay trên máy ảnh hay điện thoại đều có các lưới kẻ, chia thành các khung hình bằng nhau nên rất thuận để chụp bố cục 1/3. 
-
-
-
-
+Ngày nay trên máy ảnh hay điện thoại đều có các lưới kẻ, chia thành các khung hình bằng nhau nên rất thuận để chụp bố cục 1/3.
 
 <!-- 2 columns offset -->
 <div class="container">
   <div class="row">
-    
+
     <div class="col-xs-12 col-sm-9">
       <div class="box">
       <img src="../../assets/images/nhiepanh/anhsang/quytac1_3_2.jpg" alt="Hướng ánh sáng" class="responsive">
-        <p>Đặt chủ thể tại tại giao điểm 1/3 bên trái phía dưới</p>
       </div>
     </div>
-    
-    
+
+
     <div class="col-xs-12 col-sm-3">
       <div class="box">
         <p>Đặt chủ thể tại tại giao điểm 1/3 bên trái phía dưới</p>
       </div>
     </div>
-    
+
   </div>
 </div>
 
@@ -87,30 +81,22 @@ Ngày nay trên máy ảnh hay điện thoại đều có các lưới kẻ, chi
 </p>
       </div>
     </div>
-    
+
     <div class="col-xs-12 col-sm-9">
       <div class="box">
       <img src="../../assets/images/nhiepanh/anhsang/quytac1_3_2_1.png" alt="Hướng ánh sáng" class="responsive">
 
-
       </div>
     </div>
-    
-    
 
-    
   </div>
 </div>
-
 
 ### Trích nguồn
 
 - [Những Bố Cục Chụp Ảnh Cần Biết - tiemanhsky.com](https://tiemanhsky.com/bo-cuc-chup-anh/#Bo_Cuc_13).
 - [Kỹ thuật cân bằng trắng WB để làm chủ tông màu-vuanhiepanh.com](<http://vuanhiepanh.com/news/Mau-sac-nhiep-anh/can-bang-trang-WB-882.html#:~:text=C%C3%A2n%20b%E1%BA%B1ng%20tr%E1%BA%AFng%20(WB)%20l%C3%A0,m%C3%A0u%20%E1%BA%A3nh%20m%E1%BB%9Bi%20trung%20th%E1%BB%B1c.>).
 - [Ánh sáng trong nhiếp ảnh: Nguồn sáng & Hướng sáng - tinhte.vn](https://tinhte.vn/thread/hoc-chup-anh-anh-sang-trong-nhiep-anh-nguon-sang-huong-sang-bai-2.2424120/).
-
-
-
 
 <style>
 .box {
@@ -119,7 +105,6 @@ Ngày nay trên máy ảnh hay điện thoại đều có các lưới kẻ, chi
   justify-content: center;
   background: #aaa;
   margin: 20px 0;
-  padding: 10px;
   width: 100%;
   min-height: 200px;
   border: 2px #ccc solid;
