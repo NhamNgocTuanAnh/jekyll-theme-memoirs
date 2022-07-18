@@ -103,13 +103,15 @@ Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sán
   <img src="../../assets/images/nhiepanh/anhsang/NumbersNewtonLight.jpg" alt="Newton khám phá ánh sáng">
   Năm 1666, Isaac Newton (1642-1727 ) nhà vật lý vĩ đại người Anh đã bị hấp dẫn khi ông quan sát hiện tượng các tia mặt trời chiếu xuyền qua một lăng kính. </div>
   <div class="col-8">Ánh sáng và màu sắc không chỉ vẽ lên hình khối trong ảnh mà còn tạo ra hình tượng và nội dung bức ảnh, trong đó màu sắc được tạo ra từ ánh sáng và chịu tác động mạnh mẽ từ nguồn sáng.
-
-ánh sáng trắng được tổng hợp khi ánh sáng mầu trong quang phổ phản hồi lại qua một thấu kính hội tụ. Nhưng nếu một phần của quang phổ được phát ra, thì hỗn hợp mầu của nó sẽ dựa trền mầu bù (mầu phụ) của nó. Thí dụ khi mầu xanh lá cây được phát ra (bền phải) thì ánh sáng phản hồi là mầu đỏ tươi, mầu bù của mầu xanh.
-
-ánh sáng trắng bị phân tích bằng một lăng kính tạo thành dải quang phổ (từ đỏ đến tím). Trong quang phổ, mầu được xếp theo thứ tự từ đỏ đến tím. ánh sáng cực tím (ultraviolet) và hồng ngoại (infrared) nằm ngoài khu vực quang phổ, mà mắt người không nhìn thấy.</div>
+  
+  Độ lạnh hay ấm (ngả vàng hay ngả xanh)của ánh sáng được đo theo thang Kelvin(<b>K</b>)
+    <img src="../../assets/images/nhiepanh/anhsang/bang-mau-anh-sang.jpg" alt="Biểu đồ nhiệt độ màu">
+</div>
 </div>
 
-![image](/assets/images/nhiepanh/anhsang/bang-mau-anh-sang.jpg){:class="img-responsive"}
+Mặc dù máy ảnh giờ đây đã **cân bằng trắng(auto white balance)** khá tốt, nhưng dù sao vẫn chỉ là cái máy. Việc biết được nhiệt độ màu trong nhiếp ảnh vô cùng quan trọng khi ta có thể áp dụng vào ý đồ nghệ thuật hoặc đơn giản tránh những trường hợp không ý muốn.
+    <img src="../../assets/images/nhiepanh/anhsang/Colour-Temperature-Example-v01.jpg" alt="Ảnh so sánh chân dung giữa nhiệt độ màu khác nhau">
+Khi chụp với ánh sáng trong nhà, nhiệt độ màu của bóng đèn trong phòng sẽ ảnh hưởng cực kỳ lớn trong nhiếp ảnh chân dung khi tác động trực tiếp vào da của người mẫu. Ánh sáng bình thường của bóng đèn trắng là 5500K, nếu vượt quá thì ánh sáng sẽ ngả sang màu xanh và nếu nhỏ hơn 4800K thì ánh sáng sẽ gnar vàng  
 
 > **Ánh sáng quyết định sự thành bại của một bức ảnh.**
 
