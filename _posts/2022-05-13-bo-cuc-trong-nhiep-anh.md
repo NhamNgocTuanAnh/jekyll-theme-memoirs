@@ -53,10 +53,54 @@ Quy tắc ⅓ là một kĩ thuật hữu ích và hiệu quả. Kỹ thuật n�
 
 Ngày nay trên máy ảnh hay điện thoại đều có các lưới kẻ, chia thành các khung hình bằng nhau nên rất thuận để chụp bố cục 1/3. 
 
-<img src="../../assets/images/nhiepanh/anhsang/quytac1_3_2.jpg" alt="Hướng ánh sáng" class="responsive">
-Đặt chủ thể tại tại giao điểm 1/3 bên trái phía dưới
-<img src="../../assets/images/nhiepanh/anhsang/quytac1_3_2_1.png" alt="Hướng ánh sáng" class="responsive">
-Đường chân trời dọc theo đường kẻ một phần ba dưới cùng của khung ảnh
+
+
+
+
+<!-- 2 columns offset -->
+<div class="container">
+  <div class="row">
+    
+    <div class="col-xs-12 col-sm-9">
+      <div class="box">
+      <img src="../../assets/images/nhiepanh/anhsang/quytac1_3_2.jpg" alt="Hướng ánh sáng" class="responsive">
+        <p>Đặt chủ thể tại tại giao điểm 1/3 bên trái phía dưới</p>
+      </div>
+    </div>
+    
+    
+    <div class="col-xs-12 col-sm-3">
+      <div class="box">
+        <p>Đặt chủ thể tại tại giao điểm 1/3 bên trái phía dưới</p>
+      </div>
+    </div>
+    
+  </div>
+</div>
+
+<!-- 2 columns offset -->
+<div class="container">
+  <div class="row">
+        <div class="col-xs-12 col-sm-3">
+      <div class="box">
+        <p>Đường chân trời dọc theo đường kẻ một phần ba dưới cùng của khung ảnh
+</p>
+      </div>
+    </div>
+    
+    <div class="col-xs-12 col-sm-9">
+      <div class="box">
+      <img src="../../assets/images/nhiepanh/anhsang/quytac1_3_2_1.png" alt="Hướng ánh sáng" class="responsive">
+
+
+      </div>
+    </div>
+    
+    
+
+    
+  </div>
+</div>
 
 
 ### Trích nguồn
@@ -66,100 +110,19 @@ Ngày nay trên máy ảnh hay điện thoại đều có các lưới kẻ, chi
 - [Ánh sáng trong nhiếp ảnh: Nguồn sáng & Hướng sáng - tinhte.vn](https://tinhte.vn/thread/hoc-chup-anh-anh-sang-trong-nhiep-anh-nguon-sang-huong-sang-bai-2.2424120/).
 
 
-<script type="text/javascript">
-$(".switcher input[type='checkbox']").click(function () {
-  if ($(this).is(":checked")) {
-    $("#equity").addClass("show");
-    $("#cash").removeClass("show");
-  } else if ($(this).is(":not(:checked)")) {
-    $("#cash").addClass("show");
-    $("#equity").removeClass("show");
-  }
-});
 
- </script>
-
- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" type="text/javascript"></script>
 
 <style>
-table {
-  border: 1px solid #ccc;
-  border-collapse: collapse;
-  margin: 0;
-  padding: 0;
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #aaa;
+  margin: 20px 0;
+  padding: 10px;
   width: 100%;
-  table-layout: fixed;
-}
-
-table caption {
-  font-size: 1.5em;
-  margin: .5em 0 .75em;
-}
-
-table tr {
-  background-color: #f8f8f8;
-  border: 1px solid #ddd;
-  padding: .35em;
-}
-
-table th,
-table td {
-  padding: .625em;
-  text-align: center;
-}
-
-table th {
-  font-size: .85em;
-  letter-spacing: .1em;
-  text-transform: uppercase;
-}
-
-@media screen and (max-width: 600px) {
-  table {
-    border: 0;
-  }
-
-  table caption {
-    font-size: 1.3em;
-  }
-
-  table thead {
-    border: none;
-    clip: rect(0 0 0 0);
-    height: 1px;
-    margin: -1px;
-    overflow: hidden;
-    padding: 0;
-    position: absolute;
-    width: 1px;
-  }
-
-  table tr {
-    border-bottom: 3px solid #ddd;
-    display: block;
-    margin-bottom: .625em;
-  }
-
-  table td {
-    border-bottom: 1px solid #ddd;
-    display: block;
-    font-size: .8em;
-    text-align: right;
-  }
-
-  table td::before {
-    /*
-    * aria-label has no advantage, it won't be read inside a table
-    content: attr(aria-label);
-    */
-    content: attr(data-label);
-    float: left;
-    font-weight: bold;
-    text-transform: uppercase;
-  }
-
-  table td:last-child {
-    border-bottom: 0;
-  }
+  min-height: 200px;
+  border: 2px #ccc solid;
+  color: #fff;
 }
 </style>
