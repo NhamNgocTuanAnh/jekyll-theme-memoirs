@@ -61,7 +61,7 @@ Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sán
 
       <td ><b>Ánh sáng một bên</b><br>
       <img src="../../assets/images/nhiepanh/anhsang/anhsangmotben.jpg" alt="Ánh sáng phía trước" width = 360px height = 640px>
-      Ánh sáng chiếu sáng chủ thể từ một bên. Bất kỳ là bên phải hay bên trái. Loại ánh sáng này có khuynh hướng đổ bóng rõ ràng lên chủ thể, tạo sự tương phản mạnh mẽ giữa vùng sáng và vùng tối. Loại này thích hợp nhất với ý đồ tạo chiều sâu cho ảnh bằng cách thêm bóng đổ vào chủ thể.
+      Ánh sáng chiếu sáng chủ thể từ một bên. Bất kỳ là bên phải hay bên trái. Loại ánh sáng này có khuynh hướng đổ bóng rõ ràng lên chủ thể, tạo sự tương phản mạnh mẽ giữa vùng sáng và vùng tối. Loại này thích hợp nhất với ý đồ tạo chiều sâu cho ảnh bằng cách thêm bóng đổ vào chủ thể. Ánh sáng xiên ngang có độ tương phản cao, người chụp khó xử lý hơn thuận sáng, phù hợp với thời điểm mặt trời bình minh hoặc hoàng hôn, ảnh ấn tượng hơn.
       <p>
 
 Ánh sáng xiên một bên luôn làm nổi bật hình dạng vật thể và thể hiện chiều sâu chủ đề. Chủ thể nửa sáng nửa tối.
@@ -72,7 +72,7 @@ Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sán
 <td>
 <b>Ánh sáng ngược.(Back lighting)</b><br>
 <img src="../../assets/images/nhiepanh/anhsang/anhsangnguoc.jpg" alt="Ánh sáng ngược"></td><td>
-Ánh sáng ngược là nguồn ánh sáng đi từ phía sau đối tượng, làm cho đối tượng xuất hiện như một cái bóng. Không dễ chụp ảnh ở điều kiện thiếu sáng nhưng kết quả có thể là đẹp nhất trong ba loại ánh sáng. Việc tăng bù phơi sáng sẽ giúp bạn khắc phục ngược sáng dẫn đến nền sau quá sáng.
+Ánh sáng ngược là nguồn ánh sáng đi từ phía sau đối tượng, làm cho đối tượng xuất hiện như một cái bóng. Không dễ chụp ảnh ở điều kiện thiếu sáng nhưng kết quả gây ấn tượng mạnh mẽ nhất và dễ tạo cảm xúc cho người xem, nếu người chụp kiểm soát được. Tránh để ánh sáng chiếu trực tiếp vào ống kính, dễ làm bức ảnh loé sáng ngoài ý muốn. Việc tăng bù phơi sáng sẽ giúp bạn khắc phục ngược sáng dẫn đến nền sau quá sáng.
 <p>
 Thường chụp không để mất chi tiết phần sáng, hậu kỳ để thể hiện chi tiết phần tối hoặc dùng kỹ thuật HDR, hoặc chế độ chụp HDR có sẵn trên điện thoại chụp hiệu quả trong hoàn cảnh ngược sáng.
 </p>
@@ -136,7 +136,7 @@ Với một số dòng máy ảnh có thể **chỉnh nhiệt độ K**. Ta có 
 - [Ánh Sáng Ảnh Hưởng Thế Nào Đến Nhiếp Ảnh](https://snapshot.canon-asia.com/vn/article/viet/lesson-8-how-light-affects-photography).
 - [Kỹ thuật cân bằng trắng WB để làm chủ tông màu-vuanhiepanh.com](<http://vuanhiepanh.com/news/Mau-sac-nhiep-anh/can-bang-trang-WB-882.html#:~:text=C%C3%A2n%20b%E1%BA%B1ng%20tr%E1%BA%AFng%20(WB)%20l%C3%A0,m%C3%A0u%20%E1%BA%A3nh%20m%E1%BB%9Bi%20trung%20th%E1%BB%B1c.>).
 - [Ánh sáng trong nhiếp ảnh: Nguồn sáng & Hướng sáng - tinhte.vn](https://tinhte.vn/thread/hoc-chup-anh-anh-sang-trong-nhiep-anh-nguon-sang-huong-sang-bai-2.2424120/).
-- ['Bóc Phốt' Công Kích Cá Nhân Trên Mạng Xã Hội - Hành Vi Giết Người Không Dao!](https://ybox.vn/triet-hoc-tuoi-tre/boc-phot-cong-kich-ca-nhan-tren-mang-xa-hoi-hanh-vi-giet-nguoi-khong-dao-611011ecc19b5602547f349b).
+
 
 <script type="text/javascript">
 $(".switcher input[type='checkbox']").click(function () {
