@@ -52,7 +52,6 @@ Vào những thời điểm khác nhau trong ngày, thậm chí trong năm, ánh
 Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sáng.
 
 <table>
-  <caption>Hướng ánh sáng</caption>
   <tbody>
     <tr>
       <td > <h4>Ánh sáng phía trước, hay còn gọi là ánh sáng trực diện.(Front lighting)</h4><br>
