@@ -134,6 +134,7 @@ Với những **người mới** vào **con đường chinh phục nhiếp ảnh
 - [5 bố cục phổ biến trong chụp ảnh chân dung bạn nên biết
   -inhminhdigital.com](https://binhminhdigital.com/tin/5-bo-cuc-pho-bien-trong-chup-anh-chan-dung-ban-nen-biet.html).
 - [30 mẹo hay về bố cục để có bức ảnh đẹp - duytom.com](https://duytom.com/tin-tuc/759-30-kieu-bo-cuc-kinh-dien-de-co-buc-anh-dep).
+- [10 Kỹ thuật bố cục sẽ cải thiện ảnh của bạn - webnhiepanh.com](https://webnhiepanh.com/10-ky-thuat-bo-cuc-se-cai-thien-anh-cua-ban-5355).
 
 <style>
 .box {
