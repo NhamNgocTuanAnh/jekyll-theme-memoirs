@@ -21,9 +21,8 @@ Bố cục là một trong những yếu tố quan trọng để tạo nên bứ
 
 ### 1. Nguyên tắc đường thẳng
 Mắt người có xu hướng dõi theo đường thẳng một cách tự nhiên. Vì vậy ta có thể dùng những đường thẳng để dẫn người xem tới chủ để bức ảnh. Phổ biến nhất trong chân dung, đó là tìm những đường thẳng tự nhiên như lề đường, hàng cây, thanh ray đường sắt... và đặt người mẫu trên các đường thẳng đó.
-
-Lưu ý: Nếu bạn có 2 đường thẳng hội tụ trong một khung hình, ví dụ 2 hàng cây, tránh đặt người mẫu thẳng vào điểm hội tụ. Nó làm mất chiều sâu bức ảnh. Thay vào đó, hãy đặt người mẫu lên một đường thẳng sao cho điểm hội tụ không bị chắn.
 <img src="../../assets/images/nhiepanh/anhsang/bo-cuc-duong-dan-5.jpg" alt="Hướng ánh sáng" class="responsive">
+Lưu ý: Nếu bạn có 2 đường thẳng hội tụ trong một khung hình, ví dụ 2 hàng cây, tránh đặt người mẫu thẳng vào điểm hội tụ. Nó làm mất chiều sâu bức ảnh. Thay vào đó, hãy đặt người mẫu lên một đường thẳng sao cho điểm hội tụ không bị chắn.
 
 * **Đường thẳng ngang:** Hay còn gọi là đường chân trời.
 <img src="../../assets/images/nhiepanh/anhsang/Bo-cuc-vang-trong-nhiep-anh-03.jpg" alt="Hướng ánh sáng" class="responsive">
@@ -49,21 +48,7 @@ Một cách sắp xếp bố cục tiếp theo được dựa theo nguyên tắc
 
 ### 3. Nguyên tắc 1/3
 
-Quy tắc 1/3 được coi là quy tắc kinh điển trong nhiếp ảnh. Quy tắc bố cục chụp ảnh chân dung cơ bản này rất phổ biến trong các khóa học chụp ảnh, được nhiều người sử dụng khi chụp ảnh, đặc biệt là chụp ảnh chân dung. Để có được một bức ảnh theo đúng quy tắc thì hãy tưởng tượng khung hình được chia thành 9 phần bằng nhau bởi hai đường dọc và hai đường ngang. Sau đó, hãy ngắm để chân dung người nằm ở các điểm giao nhau. Như vậy thì bạn sẽ có được bức ảnh hoàn hảo theo quy tắc 1/3. Khi áp dụng quy tắc này, bạn sẽ có được sự cân bằng về cả không gian và thời gian.
-
-Quy tắc ⅓ hoạt động bằng cách chia khung hình thành 9 ô vuông bằng nhau. Chúng được chia cắt bởi hàng hàng dọc và hai hàng ngang trong hình. Dựa vào đó, bạn hoàn toàn có thể đặt đối tượng giao nhau tại các điểm giao nhau của đường thẳng.
-
-Đây là một trong những kĩ thuật được các nhiếp ảnh gia ưa thích nhất. Họ có thể hoàn toàn củng cố thêm bố cục tổng quan khi sử dụng kĩ thuật ⅓ này.
-
-Quy tắc một phần ba rất đơn giản. Bạn chia khung ảnh thành 9 phần bằng nhau với 2 đường kẻ dọc và 2 đường kẻ ngang như hình minh họa trên. Nhiều máy ảnh đã có chế độ hiển thị lưới này trong phần live view. hãy đọc hướng dẫn sử dụng máy ảnh của bạn để bật tính năng này.
-
-Theo quy tắc này, chúng ta cần đặt các yếu tố quan trọng của cảnh vật dọc theo một hay nhiều đường kẻ, hay nơi các đường kẻ giao nhau. Chúng ta thường có xu hướng tự nhiên muốn đặt chủ đề chính nằm ở chính giữa, tuy nhiên, sử dụng quy tắc một phần ba qua thường xuyên sẽ giúp bức ảnh trông cuốn hút hơn.
-
-Trong bức ảnh trên, tôi đã đặt đường chân trời dọc theo đường kẻ một phần ba dưới cùng của khung ảnh và cây lớn nhất, gần nhất được đặt theo đường kẻ dọc bên phải. Hình ảnh sẽ không có hiệu ứng tương tự nếu những cây lớn được đặt ở trung tâm của bức hình.
-
-Quy tắc 1/3 là quy tắc cơ bản và phổ biến nhất trong nhiếp ảnh được nhiều người sử dụng khi chụp ảnh. Để có thể có được bức ảnh theo đúng quy tắc này bạn hãy tưởng tượng hình ảnh bạn định chụp được chia thành 9 phần bằng nhau bởi hai đường dọc và hai đường ngang. Sau đó, bạn ngắm sao cho cảnh dọc theo các đường này hoặc tại điểm mà hai đường giao nhau, như vậy là bạn đã có bức ảnh hoàn hảo theo quy tắc 1/3. Quy tắc này làm nổi bật và cân bằng đối tượng trong không gian và thời gian.
-
-Khi bạn định vị chủ thể ở bố cục 1/3 giao lộ hoặc đường lưới, bức ảnh của bạn sẽ trở nên cân đối hơn. Các yếu tố chính của bạn tạo ra sự quan tâm trực quan đến một phần ba bố cục ảnh, đồng thời cân bằng không gian trống trong hai phần ba còn lại. Điều này trông tuyệt vời và nó phù hợp với người xem. Các bố cục bao gồm các yếu tố chính đập vào giữa khung hình thường tạo cảm giác nhàm chán nhưng với bố cục 1/3 tăng sự năng động , bức ảnh mang đến cho người xem nhìn thấy được chủ thể bức ảnh ở bên cạnh và thực hiện hành trình trực quan trong suốt phần còn lại của bức ảnh.
+Để có được một bức ảnh theo đúng quy tắc thì hãy tưởng tượng khung hình được chia thành 9 phần bằng nhau bởi hai đường dọc và hai đường ngang. Dựa vào đó, bạn hoàn toàn có thể đặt đối tượng giao nhau tại các điểm giao nhau của đường thẳng. Bạn chia khung ảnh thành 9 phần bằng nhau với 2 đường kẻ dọc và 2 đường kẻ ngang như hình minh họa trên. Theo quy tắc này, chúng ta cần đặt các yếu tố quan trọng của cảnh vật dọc theo một hay nhiều đường kẻ, hay nơi các đường kẻ giao nhau.
 <img src="../../assets/images/nhiepanh/anhsang/quy-tac-khong-gian-nhiep-anh-4.png" alt="Hướng ánh sáng" class="responsive">
 
 Quy tắc ⅓ là một kĩ thuật hữu ích và hiệu quả. Kỹ thuật này chắc chắn sẽ rất đáng để nghiên cứu. Bởi nó làm nên “tỷ lệ vàng” nên bức ảnh thật sự rất ưa nhìn. Đó là nguyên nhân dẫn đến sự phổ biến của nó.
