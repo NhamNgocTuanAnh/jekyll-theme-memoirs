@@ -28,8 +28,20 @@ Lưu ý: Nếu bạn có 2 đường thẳng hội tụ trong một khung hình,
 - **Đường thẳng ngang:** Hay còn gọi là đường chân trời.
   <img src="../../assets/images/nhiepanh/anhsang/Bo-cuc-vang-trong-nhiep-anh-03.jpg" alt="Hướng ánh sáng" class="responsive">
 
-- **Đường thẳng đứng:**
+- **Đường thẳng đứng:** Ví dụ đơn giản nhất là bố cụ trung tâm
+Đây là bố cục đa phần những ai mới bắt đầu chụp ảnh cũng sẽ sử dụng. Bạn chỉ cần đặt đối tượng vào chính giữa khung hình và bấm chụp là bạn đã có được 1 tấm hình với bố cục trung tâm rồi đấy.Ưu điểm của bố cục này là bạn sẽ tập trung sự chú ý của người xem vào chủ thể chính, loại bỏ được sự chú ý vào những yếu tố không cần thiết. Tuy nhiên, để chụp được bức hình đẹp với bố cục này không dễ, vì bạn sẽ không biết di chuyển tầm mắt đến đâu khi chụp, cũng như người xem sẽ bị rối vì không biết nhìn ở đâu tiếp theo.
+
   <img src="../../assets/images/nhiepanh/anhsang/Bo-cuc-vang-trong-nhiep-anh-13.jpg" alt="Hướng ánh sáng" class="responsive">
+<div class="row">
+  <div class="column">
+  <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-05.jpg" alt="Hướng ánh sáng" >
+   <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-04.jpg" alt="Hướng ánh sáng" >
+  </div>
+    <div class="column">
+  <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-02.jpg" alt="Hướng ánh sáng" >
+   <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-03.jpg" alt="Hướng ánh sáng" >
+  </div>
+</div>
 
 - **Đường chéo:**
   <img src="../../assets/images/nhiepanh/anhsang/3582398_untitled-shoot-4643-Edit.webp" alt="Hướng ánh sáng" class="responsive">
@@ -114,5 +126,40 @@ Với những **người mới** vào **con đường chinh phục nhiếp ảnh
   min-height: 200px;
   border: 2px #ccc solid;
   color: #fff;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
 }
 </style>
