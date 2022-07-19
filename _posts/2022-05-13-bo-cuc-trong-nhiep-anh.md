@@ -42,12 +42,12 @@ Lưu ý: Nếu bạn có 2 đường thẳng hội tụ trong một khung hình,
   </div>
       <div class="column">
   <img src="../../assets/images/nhiepanh/anhsang/Bo-cuc-vang-trong-nhiep-anh-13.jpg" alt="Hướng ánh sáng" >
-  <img src="../../assets/images/nhiepanh/anhsang/doi-xung-do-hoa-hue.webp" alt="Hướng ánh sáng" >
+  <img src="../../assets/images/nhiepanh/bocuc/doi-xung-do-hoa-hue.webp" alt="Hướng ánh sáng" >
 
   </div>
       <div class="column">
-  <img src="../../assets/images/nhiepanh/anhsang/bo-cuc-trung-tam-06.jpg" alt="Hướng ánh sáng" >
-  <img src="../../assets/images/nhiepanh/anhsang/doi-xung-do-hoa-hue.webp" alt="Hướng ánh sáng" >
+  <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-06.jpg" alt="Hướng ánh sáng" >
+  <img src="../../assets/images/nhiepanh/bocuc/doi-xung-do-hoa-hue.webp" alt="Hướng ánh sáng" >
 
   </div>
 
@@ -123,7 +123,12 @@ Ngày nay trên máy ảnh hay điện thoại đều có các lưới kẻ, chi
 * Các đối tượng được đặt trên cao tạo cảm giác về khoảng cách và chiều sâu
 * Màu sắc ấm tiến lại gần còn màu nhạt và lạnh sẽ thu về phía xa.
 
-<p style="text-align:center;"><img src="../../assets/images/nhiepanh/bocuc/quy-tac-khong-gian-nhiep-anh-9.png" alt="Hướng ánh sáng" class="responsive"></p>
+<p style="text-align:center;">
+  <picture>
+    <source srcset="../../assets/images/nhiepanh/bocuc/quy-tac-khong-gian-nhiep-anh-9.webp" type="image/webp" class="responsive">
+    <img src="../../assets/images/nhiepanh/bocuc/quy-tac-khong-gian-nhiep-anh-9.png" alt="Hướng ánh sáng" class="responsive">
+  </picture>
+</p>
 <p style="text-align:center;">Bức ảnh 3D cực đẹp khi kết hợp giữa quy tắc không gian và màu sắc, độ sáng</p>
 
 Với những **người mới** vào **con đường chinh phục nhiếp ảnh**. Trước tiên, khi không biết sắp xếp bố cục, hãy tuân thủ đầy đủ các quy tắc bố cục ảnh đã được học để không tự mình hủy hoại bức ảnh. Nhưng trong nghệ thuật, sự sáng tạo và phá cách thường được khuyến khích. Việc phá vỡ những quy tắc giúp nhiếp ảnh gia có được **phong cách**, để tạo **dấu ấn**, tạo các tác phẩm kinh điển. [Xem ở đây](https://mythuatms.com/hoc-ve-bo-cuc-pha-cach-trong-nhiep-anh-d1523.html) hoặc [đây](https://binhminhdigital.com/tin/lam-sao-de-pha-bo-bo-cuc-chuan.html).
