@@ -45,6 +45,12 @@ Lưu ý: Nếu bạn có 2 đường thẳng hội tụ trong một khung hình,
   <img src="../../assets/images/nhiepanh/anhsang/doi-xung-do-hoa-hue.webp" alt="Hướng ánh sáng" >
 
   </div>
+      <div class="column">
+  <img src="../../assets/images/nhiepanh/anhsang/bo-cuc-trung-tam-06.jpg" alt="Hướng ánh sáng" >
+  <img src="../../assets/images/nhiepanh/anhsang/doi-xung-do-hoa-hue.webp" alt="Hướng ánh sáng" >
+
+  </div>
+
 </div>
 
 - **Đường chéo:**
