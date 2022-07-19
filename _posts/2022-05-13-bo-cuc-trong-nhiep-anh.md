@@ -127,7 +127,7 @@ Với những **người mới** vào **con đường chinh phục nhiếp ảnh
 - [Những Bố Cục Chụp Ảnh Cần Biết - tiemanhsky.com](https://tiemanhsky.com/bo-cuc-chup-anh/#Bo_Cuc_13).
 - [5 bố cục phổ biến trong chụp ảnh chân dung bạn nên biết
   -inhminhdigital.com](https://binhminhdigital.com/tin/5-bo-cuc-pho-bien-trong-chup-anh-chan-dung-ban-nen-biet.html).
-- [Ánh sáng trong nhiếp ảnh: Nguồn sáng & Hướng sáng - tinhte.vn](https://tinhte.vn/thread/hoc-chup-anh-anh-sang-trong-nhiep-anh-nguon-sang-huong-sang-bai-2.2424120/).
+- [30 mẹo hay về bố cục để có bức ảnh đẹp - duytom.com](https://duytom.com/tin-tuc/759-30-kieu-bo-cuc-kinh-dien-de-co-buc-anh-dep).
 
 <style>
 .box {
