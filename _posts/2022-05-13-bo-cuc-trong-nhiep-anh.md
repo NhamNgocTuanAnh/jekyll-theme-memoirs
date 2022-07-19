@@ -125,8 +125,8 @@ Ngày nay trên máy ảnh hay điện thoại đều có các lưới kẻ, chi
 
 <p style="text-align:center;">
   <picture>
-    <source srcset="../../assets/images/nhiepanh/bocuc/quy-tac-khong-gian-nhiep-anh-9.webp" type="image/webp" class="responsive">
-    <img src="../../assets/images/nhiepanh/bocuc/quy-tac-khong-gian-nhiep-anh-9.png" alt="Hướng ánh sáng" class="responsive">
+    <source srcset="../../assets/images/nhiepanh/bocuc/quy-tac-khong-gian-nhiep-anh-9.webp" type="image/webp" >
+    <img src="../../assets/images/nhiepanh/bocuc/quy-tac-khong-gian-nhiep-anh-9.png" alt="Hướng ánh sáng" >
   </picture>
 </p>
 <p style="text-align:center;">Bức ảnh 3D cực đẹp khi kết hợp giữa quy tắc không gian và màu sắc, độ sáng</p>
