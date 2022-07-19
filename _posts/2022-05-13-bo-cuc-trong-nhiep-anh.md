@@ -81,20 +81,16 @@ Ngày nay trên máy ảnh hay điện thoại đều có các lưới kẻ, chi
 <!-- 2 columns offset -->
 <div class="container">
   <div class="row">
-        <div class="col-xs-12 col-sm-3">
+    <div class="col-xs-12 col-sm-3">
       <div class="box">
-        <p>Đường chân trời dọc theo đường kẻ một phần ba dưới cùng của khung ảnh
-</p>
+        <p>Đường chân trời dọc theo đường kẻ một phần ba dưới cùng của khung ảnh</p>
       </div>
     </div>
-
     <div class="col-xs-12 col-sm-9">
       <div class="box">
       <img src="../../assets/images/nhiepanh/anhsang/quytac1_3_2_1.png" alt="Hướng ánh sáng" class="responsive">
-
       </div>
     </div>
-
   </div>
 </div>
 
@@ -105,7 +101,7 @@ Ngày nay trên máy ảnh hay điện thoại đều có các lưới kẻ, chi
   -inhminhdigital.com](https://binhminhdigital.com/tin/5-bo-cuc-pho-bien-trong-chup-anh-chan-dung-ban-nen-biet.html).
 - [Ánh sáng trong nhiếp ảnh: Nguồn sáng & Hướng sáng - tinhte.vn](https://tinhte.vn/thread/hoc-chup-anh-anh-sang-trong-nhiep-anh-nguon-sang-huong-sang-bai-2.2424120/).
 
-> Với những người mới vào nghề. Trước tiên, khi không biết sắp xếp bố cục, hãy tuân thủ đầy đủ các quy tắc bố cục ảnh đã được học để không tự mình hủy hoại bức ảnh. Nhưng trong nghệ thuật, sự sáng tạo và phá cách thường được khuyến khích. Việc phá vỡ những quy tắc giúp nhiếp ảnh gia có được phong cách, để tạo dấu ấn, tạo các tác phẩm kinh điển. [Xem ở đây](https://tiemanhsky.com/bo-cuc-chup-anh/#Bo_Cuc_13).
+> Với những **người mới** vào **con đường chinh phục nhiếp ảnh**. Trước tiên, khi không biết sắp xếp bố cục, hãy tuân thủ đầy đủ các quy tắc bố cục ảnh đã được học để không tự mình hủy hoại bức ảnh. Nhưng trong nghệ thuật, sự sáng tạo và phá cách thường được khuyến khích. Việc phá vỡ những quy tắc giúp nhiếp ảnh gia có được **phong cách**, để tạo **dấu ấn**, tạo các tác phẩm kinh điển. [Xem ở đây](https://mythuatms.com/hoc-ve-bo-cuc-pha-cach-trong-nhiep-anh-d1523.html).
 
 <style>
 .box {
