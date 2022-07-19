@@ -29,9 +29,8 @@ Lưu ý: Nếu bạn có 2 đường thẳng hội tụ trong một khung hình,
   <img src="../../assets/images/nhiepanh/anhsang/Bo-cuc-vang-trong-nhiep-anh-03.jpg" alt="Hướng ánh sáng" class="responsive">
 
 - **Đường thẳng đứng:** Ví dụ đơn giản nhất là bố cụ trung tâm
-Đây là bố cục đa phần những ai mới bắt đầu chụp ảnh cũng sẽ sử dụng. Bạn chỉ cần đặt đối tượng vào chính giữa khung hình và bấm chụp là bạn đã có được 1 tấm hình với bố cục trung tâm rồi đấy.Ưu điểm của bố cục này là bạn sẽ tập trung sự chú ý của người xem vào chủ thể chính, loại bỏ được sự chú ý vào những yếu tố không cần thiết. Tuy nhiên, để chụp được bức hình đẹp với bố cục này không dễ, vì bạn sẽ không biết di chuyển tầm mắt đến đâu khi chụp, cũng như người xem sẽ bị rối vì không biết nhìn ở đâu tiếp theo.
+  Đây là bố cục đa phần những ai mới bắt đầu chụp ảnh cũng sẽ sử dụng. Bạn chỉ cần đặt đối tượng vào chính giữa khung hình và bấm chụp là bạn đã có được 1 tấm hình với bố cục trung tâm rồi đấy.Ưu điểm của bố cục này là bạn sẽ tập trung sự chú ý của người xem vào chủ thể chính, loại bỏ được sự chú ý vào những yếu tố không cần thiết. Tuy nhiên, để chụp được bức hình đẹp với bố cục này không dễ, vì bạn sẽ không biết di chuyển tầm mắt đến đâu khi chụp, cũng như người xem sẽ bị rối vì không biết nhìn ở đâu tiếp theo.
 
-  <img src="../../assets/images/nhiepanh/anhsang/Bo-cuc-vang-trong-nhiep-anh-13.jpg" alt="Hướng ánh sáng" class="responsive">
 <div class="row">
   <div class="column">
   <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-05.jpg" alt="Hướng ánh sáng" >
@@ -40,6 +39,9 @@ Lưu ý: Nếu bạn có 2 đường thẳng hội tụ trong một khung hình,
     <div class="column">
   <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-02.jpg" alt="Hướng ánh sáng" >
    <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-03.jpg" alt="Hướng ánh sáng" >
+  </div>
+      <div class="column">
+  <img src="../../assets/images/nhiepanh/anhsang/Bo-cuc-vang-trong-nhiep-anh-13.jpg" alt="Hướng ánh sáng" >
   </div>
 </div>
 
