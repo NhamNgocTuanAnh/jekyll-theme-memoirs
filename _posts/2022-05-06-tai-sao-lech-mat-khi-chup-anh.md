@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Một số nguyên tắc trong bố cục - [Cẩm nang nhiếp ảnh]'
+title: 'Khắc Phục Mặt Lệch Khi Chụp Ảnh  - [Cẩm nang nhiếp ảnh]'
 author: sal
 categories: [Nhiếp ảnh]
 tags: [nhiếp ảnh]
@@ -9,13 +9,13 @@ image: assets/images/nhiepanh/anhsang/bocuc_1.jpg
 comments: false
 ---
 
-Bố cục là một trong những yếu tố quan trọng để tạo nên bức ảnh đẹp, có chiều sâu. Quy tắc về bố cục được đặt ra giúp chúng ta định hình chính xác đối tượng, sắp xếp và bố trí các yếu tố khác nhau cho phù hợp. Quy tắc này có thể áp dụng trong mọi tình huống mang đến những bức ảnh đẹp, cân đối và hài hòa, thu hút ánh nhìn của người xem. Nếu là người mới bắt đầu tìm hiểu về nhiếp ảnh, bạn nên nắm rõ những quy tắc cơ bản về bố cục trong nhiếp ảnh để có thể sáng tạo những bức ảnh mang phong cách riêng.
+Mặt bị lệch do những nguyên nhân nào và giải pháp điều trị? Trong thế giới ngày nay, ngoại hình ngày càng chiếm một vị thế quan trọng trong công việc, sự nghiệp của chúng ta. Gương mặt dễ nhìn sẽ giúp bạn có thêm một phần ưu thế trong bất kỳ cuộc làm ăn hay giao dịch nào. Tuy nhiên, có không ít người trở nên lo lắng, sợ hãi khi phát hiện mình có một khuôn mặt không cân đối hay mặt bị lệch khi chụp ảnh. Hãy cùng Nha khoa Vinh An đi tìm hiểu tại sao mặt bị lệch và cách khắc phục vấn đề này.
 
 ### Mục lục
 
-[1. Nguyên tắc đường thẳng](#nguongoc)\\
-[2. Tỷ lệ vàng](#huongsang)\\
-[3. Nguyên tắc 1/3](#nguyennahn)
+[1. Nguyên nhân](#nguongoc)\\
+[2. Cách khắc phục](#huongsang)\\
+[3. Mẹo chụp ảnh với mặt ngiêng](#nguyennahn)
 
 <a name="nguongoc"></a>
 
@@ -110,6 +110,13 @@ Ngày nay trên máy ảnh hay điện thoại đều có các lưới kẻ, chi
   </div>
 </div>
 
+### Trích nguồn
+
+- [Những Bố Cục Chụp Ảnh Cần Biết - tiemanhsky.com](https://tiemanhsky.com/bo-cuc-chup-anh/#Bo_Cuc_13).
+- [5 bố cục phổ biến trong chụp ảnh chân dung bạn nên biết
+  -inhminhdigital.com](https://binhminhdigital.com/tin/5-bo-cuc-pho-bien-trong-chup-anh-chan-dung-ban-nen-biet.html).
+- [Ánh sáng trong nhiếp ảnh: Nguồn sáng & Hướng sáng - tinhte.vn](https://tinhte.vn/thread/hoc-chup-anh-anh-sang-trong-nhiep-anh-nguon-sang-huong-sang-bai-2.2424120/).
+
 ### Bạn dễ dàng kết hợp với quy tắc không gian nhiếp ảnh và tạo chiều sâu khung hình với mọt vài mẹo nhỏ:
 * Đối tượng càng đứng xa càng nhỏ, nó dễ dàng bị hòa vào background
 * Các vật che lấp hoặc nằm đè lên nhau tạo cảm giác chiều sâu
@@ -121,13 +128,6 @@ Ngày nay trên máy ảnh hay điện thoại đều có các lưới kẻ, chi
 <p style="text-align:center;">Bức ảnh 3D cực đẹp khi kết hợp giữa quy tắc không gian và màu sắc, độ sáng</p>
 
 Với những **người mới** vào **con đường chinh phục nhiếp ảnh**. Trước tiên, khi không biết sắp xếp bố cục, hãy tuân thủ đầy đủ các quy tắc bố cục ảnh đã được học để không tự mình hủy hoại bức ảnh. Nhưng trong nghệ thuật, sự sáng tạo và phá cách thường được khuyến khích. Việc phá vỡ những quy tắc giúp nhiếp ảnh gia có được **phong cách**, để tạo **dấu ấn**, tạo các tác phẩm kinh điển. [Xem ở đây](https://mythuatms.com/hoc-ve-bo-cuc-pha-cach-trong-nhiep-anh-d1523.html).
-
-### Trích nguồn
-
-- [Những Bố Cục Chụp Ảnh Cần Biết - tiemanhsky.com](https://tiemanhsky.com/bo-cuc-chup-anh/#Bo_Cuc_13).
-- [5 bố cục phổ biến trong chụp ảnh chân dung bạn nên biết
-  -inhminhdigital.com](https://binhminhdigital.com/tin/5-bo-cuc-pho-bien-trong-chup-anh-chan-dung-ban-nen-biet.html).
-- [Ánh sáng trong nhiếp ảnh: Nguồn sáng & Hướng sáng - tinhte.vn](https://tinhte.vn/thread/hoc-chup-anh-anh-sang-trong-nhiep-anh-nguon-sang-huong-sang-bai-2.2424120/).
 
 <style>
 .box {
