@@ -42,7 +42,7 @@ Lưu ý: Nếu bạn có 2 đường thẳng hội tụ trong một khung hình,
   </div>
       <div class="column">
   <img src="../../assets/images/nhiepanh/anhsang/Bo-cuc-vang-trong-nhiep-anh-13.jpg" alt="Hướng ánh sáng" >
-  <img src="../../assets/images/nhiepanh/anhsang/ doi-xung-do-hoa-hue.webp" alt="Hướng ánh sáng" >
+  <img src="../../assets/images/nhiepanh/anhsang/doi-xung-do-hoa-hue.webp" alt="Hướng ánh sáng" >
 
   </div>
 </div>
