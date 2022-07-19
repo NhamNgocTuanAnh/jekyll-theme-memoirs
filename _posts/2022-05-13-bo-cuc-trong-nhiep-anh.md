@@ -115,6 +115,16 @@ Ngày nay trên máy ảnh hay điện thoại đều có các lưới kẻ, chi
   -inhminhdigital.com](https://binhminhdigital.com/tin/5-bo-cuc-pho-bien-trong-chup-anh-chan-dung-ban-nen-biet.html).
 - [Ánh sáng trong nhiếp ảnh: Nguồn sáng & Hướng sáng - tinhte.vn](https://tinhte.vn/thread/hoc-chup-anh-anh-sang-trong-nhiep-anh-nguon-sang-huong-sang-bai-2.2424120/).
 
+### B ạn dễ dàng kết hợp với quy tắc không gian nhiếp ảnh và tạo chiều sâu khung hình với mọt vài mẹo nhỏ:
+* Đối tượng càng đứng xa càng nhỏ, nó dễ dàng bị hòa vào background
+* Các vật che lấp hoặc nằm đè lên nhau tạo cảm giác chiều sâu
+* Khi có sự tương phản giữa sáng và tối thì cảm quan về chiều sâu được bộc lộ
+* Các đối tượng được đặt trên cao tạo cảm giác về khoảng cách và chiều sâu
+* Màu sắc ấm tiến lại gần còn màu nhạt và lạnh sẽ thu về phía xa.
+
+<p style="text-align:center;"><img src="../../assets/images/nhiepanh/anhsang/quy-tac-khong-gian-nhiep-anh-9.png" alt="Hướng ánh sáng" class="responsive"></p>
+<p style="text-align:center;">Bức ảnh 3D cực đẹp khi kết hợp giữa quy tắc không gian và màu sắc, độ sáng</p>
+
 Với những **người mới** vào **con đường chinh phục nhiếp ảnh**. Trước tiên, khi không biết sắp xếp bố cục, hãy tuân thủ đầy đủ các quy tắc bố cục ảnh đã được học để không tự mình hủy hoại bức ảnh. Nhưng trong nghệ thuật, sự sáng tạo và phá cách thường được khuyến khích. Việc phá vỡ những quy tắc giúp nhiếp ảnh gia có được **phong cách**, để tạo **dấu ấn**, tạo các tác phẩm kinh điển. [Xem ở đây](https://mythuatms.com/hoc-ve-bo-cuc-pha-cach-trong-nhiep-anh-d1523.html).
 
 <style>
