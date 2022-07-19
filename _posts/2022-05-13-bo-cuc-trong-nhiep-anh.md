@@ -20,18 +20,19 @@ Bố cục là một trong những yếu tố quan trọng để tạo nên bứ
 <a name="nguongoc"></a>
 
 ### 1. Nguyên tắc đường thẳng
+
 Mắt người có xu hướng dõi theo đường thẳng một cách tự nhiên. Vì vậy ta có thể dùng những đường thẳng để dẫn người xem tới chủ để bức ảnh. Phổ biến nhất trong chân dung, đó là tìm những đường thẳng tự nhiên như lề đường, hàng cây, thanh ray đường sắt... và đặt người mẫu trên các đường thẳng đó.
 <img src="../../assets/images/nhiepanh/anhsang/bo-cuc-duong-dan-5.jpg" alt="Hướng ánh sáng" class="responsive">
 Lưu ý: Nếu bạn có 2 đường thẳng hội tụ trong một khung hình, ví dụ 2 hàng cây, tránh đặt người mẫu thẳng vào điểm hội tụ. Nó làm mất chiều sâu bức ảnh. Thay vào đó, hãy đặt người mẫu lên một đường thẳng sao cho điểm hội tụ không bị chắn.
 
-* **Đường thẳng ngang:** Hay còn gọi là đường chân trời.
-<img src="../../assets/images/nhiepanh/anhsang/Bo-cuc-vang-trong-nhiep-anh-03.jpg" alt="Hướng ánh sáng" class="responsive">
+- **Đường thẳng ngang:** Hay còn gọi là đường chân trời.
+  <img src="../../assets/images/nhiepanh/anhsang/Bo-cuc-vang-trong-nhiep-anh-03.jpg" alt="Hướng ánh sáng" class="responsive">
 
-* **Đường thẳng đứng:**
-<img src="../../assets/images/nhiepanh/anhsang/Bo-cuc-vang-trong-nhiep-anh-13.jpg" alt="Hướng ánh sáng" class="responsive">
+- **Đường thẳng đứng:**
+  <img src="../../assets/images/nhiepanh/anhsang/Bo-cuc-vang-trong-nhiep-anh-13.jpg" alt="Hướng ánh sáng" class="responsive">
 
-* **Đường thẳng đứng:**
-<img src="../../assets/images/nhiepanh/anhsang/3582398_untitled-shoot-4643-Edit.webp" alt="Hướng ánh sáng" class="responsive">
+- **Đường thẳng đứng:**
+  <img src="../../assets/images/nhiepanh/anhsang/3582398_untitled-shoot-4643-Edit.webp" alt="Hướng ánh sáng" class="responsive">
 
 <a name="huongsang"></a>
 
@@ -49,7 +50,8 @@ Một cách sắp xếp bố cục tiếp theo được dựa theo nguyên tắc
 ### 3. Nguyên tắc 1/3
 
 Để có được một bức ảnh theo đúng quy tắc thì hãy tưởng tượng khung hình được chia thành 9 phần bằng nhau bởi hai đường dọc và hai đường ngang. Dựa vào đó, bạn hoàn toàn có thể đặt đối tượng giao nhau tại các điểm giao nhau của đường thẳng. Bạn chia khung ảnh thành 9 phần bằng nhau với 2 đường kẻ dọc và 2 đường kẻ ngang như hình minh họa trên. Theo quy tắc này, chúng ta cần đặt các yếu tố quan trọng của cảnh vật dọc theo một hay nhiều đường kẻ, hay nơi các đường kẻ giao nhau.
-<img src="../../assets/images/nhiepanh/anhsang/quy-tac-khong-gian-nhiep-anh-4.png" alt="Hướng ánh sáng" class="responsive">
+
+<p style="text-align:center;"><img src="../../assets/images/nhiepanh/anhsang/quy-tac-khong-gian-nhiep-anh-4.png" alt="Hướng ánh sáng" class="responsive"></p>
 
 Quy tắc ⅓ là một kĩ thuật hữu ích và hiệu quả. Kỹ thuật này chắc chắn sẽ rất đáng để nghiên cứu. Bởi nó làm nên “tỷ lệ vàng” nên bức ảnh thật sự rất ưa nhìn. Đó là nguyên nhân dẫn đến sự phổ biến của nó.
 <img src="../../assets/images/nhiepanh/anhsang/quytac1_3_1.jpg" alt="Hướng ánh sáng" class="responsive">
@@ -100,10 +102,10 @@ Ngày nay trên máy ảnh hay điện thoại đều có các lưới kẻ, chi
 
 - [Những Bố Cục Chụp Ảnh Cần Biết - tiemanhsky.com](https://tiemanhsky.com/bo-cuc-chup-anh/#Bo_Cuc_13).
 - [5 bố cục phổ biến trong chụp ảnh chân dung bạn nên biết
--inhminhdigital.com](https://binhminhdigital.com/tin/5-bo-cuc-pho-bien-trong-chup-anh-chan-dung-ban-nen-biet.html).
+  -inhminhdigital.com](https://binhminhdigital.com/tin/5-bo-cuc-pho-bien-trong-chup-anh-chan-dung-ban-nen-biet.html).
 - [Ánh sáng trong nhiếp ảnh: Nguồn sáng & Hướng sáng - tinhte.vn](https://tinhte.vn/thread/hoc-chup-anh-anh-sang-trong-nhiep-anh-nguon-sang-huong-sang-bai-2.2424120/).
 
-> Trong nghệ thuật, sự sáng tạo và phá cách thường được khuyến khích. Việc phá vỡ những quy tắc giúp nhiếp ảnh gia có được phong cách, để tạo dấu ấn, tạo các tác phẩm kinh điển. Tuy nhiên, điều này lại thực sự chưa phù hợp với những người mới vào nghề. Trước tiên, khi không biết sắp xếp bố cục, hãy tuân thủ đầy đủ các quy tắc bố cục ảnh đã được học để không tự mình hủy hoại bức ảnh.
+> Với những người mới vào nghề. Trước tiên, khi không biết sắp xếp bố cục, hãy tuân thủ đầy đủ các quy tắc bố cục ảnh đã được học để không tự mình hủy hoại bức ảnh. Nhưng trong nghệ thuật, sự sáng tạo và phá cách thường được khuyến khích. Việc phá vỡ những quy tắc giúp nhiếp ảnh gia có được phong cách, để tạo dấu ấn, tạo các tác phẩm kinh điển. [Xem ở đây](https://tiemanhsky.com/bo-cuc-chup-anh/#Bo_Cuc_13).
 
 <style>
 .box {
