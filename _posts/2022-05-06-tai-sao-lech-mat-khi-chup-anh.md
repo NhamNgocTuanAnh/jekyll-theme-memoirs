@@ -4,7 +4,7 @@ title: 'Khắc Phục Mặt Lệch Khi Chụp Ảnh  - [Cẩm nang nhiếp ảnh
 author: sal
 categories: [Nhiếp ảnh]
 tags: [nhiếp ảnh]
-image: assets/images/nhiepanh/anhsang/bocuc_1.jpg
+image: assets/images/nhiepanh/doituong/matlech-av.jpg
 # rating: 4.5
 comments: false
 ---
@@ -19,48 +19,33 @@ Mặt bị lệch do những nguyên nhân nào và giải pháp điều trị? 
 
 <a name="nguongoc"></a>
 
-### 1. Nguyên tắc đường thẳng
+### 1. Nguyên nhân
 
-Mắt người có xu hướng dõi theo đường thẳng một cách tự nhiên. Vì vậy ta có thể dùng những đường thẳng để dẫn người xem tới chủ để bức ảnh. Phổ biến nhất trong chân dung, đó là tìm những đường thẳng tự nhiên như lề đường, hàng cây, thanh ray đường sắt... và đặt người mẫu trên các đường thẳng đó.
+Trong số những nguyên do gây ra sự không đều của khuôn mặt thì những thói quen chiếm một tỉ lệ khá lớn. Thói quen xấu được lặp đi lặp lại trong thời hạn dài sẽ làm biến hóa cấu trúc mặt và làm cho khuôn mặt không cân đối. Một số hoàn toàn có thể kể đến như :
+
+* Mặt không cân đối do bẩm sinh:Có những người có khuôn mặt kém cân đối từ khi sinh ra. Đó là do di truyền từ những người thân trong gia đình trong mái ấm gia đình nên có bộ khung xương bị lệch. Trường hợp này rất khó để hoàn toàn có thể cải tổ trọn vẹn .
+* Nằm nghiêng một bên bị lệch mặt: Nằm nghiêng bị lệch mặt là thực trạng rất thông dụng lúc bấy giờ. Kiểu nằm này khiến cho bên mặt áp xuống gối nhiều nhỏ hơn so với bên mặt còn lại, làm cho mặt bên to bên nhỏ.
+
 <img src="../../assets/images/nhiepanh/anhsang/bo-cuc-duong-dan-5.jpg" alt="Hướng ánh sáng" class="responsive">
-Lưu ý: Nếu bạn có 2 đường thẳng hội tụ trong một khung hình, ví dụ 2 hàng cây, tránh đặt người mẫu thẳng vào điểm hội tụ. Nó làm mất chiều sâu bức ảnh. Thay vào đó, hãy đặt người mẫu lên một đường thẳng sao cho điểm hội tụ không bị chắn.
 
-- **Đường thẳng ngang:** Hay còn gọi là đường chân trời.
-  <img src="../../assets/images/nhiepanh/anhsang/Bo-cuc-vang-trong-nhiep-anh-03.jpg" alt="Hướng ánh sáng" class="responsive">
-
-- **Đường thẳng đứng:** Ví dụ đơn giản nhất là bố cụ trung tâm
-  Đây là bố cục đa phần những ai mới bắt đầu chụp ảnh cũng sẽ sử dụng. Bạn chỉ cần đặt đối tượng vào chính giữa khung hình và bấm chụp là bạn đã có được 1 tấm hình với bố cục trung tâm rồi đấy.Ưu điểm của bố cục này là bạn sẽ tập trung sự chú ý của người xem vào chủ thể chính, loại bỏ được sự chú ý vào những yếu tố không cần thiết. Tuy nhiên, để chụp được bức hình đẹp với bố cục này không dễ, vì bạn sẽ không biết di chuyển tầm mắt đến đâu khi chụp, cũng như người xem sẽ bị rối vì không biết nhìn ở đâu tiếp theo.
-
-<div class="row">
-  <div class="column">
-  <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-05.jpg" alt="Hướng ánh sáng" >
-   <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-04.jpg" alt="Hướng ánh sáng" >
-  </div>
-    <div class="column">
-  <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-02.jpg" alt="Hướng ánh sáng" >
-   <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-03.jpg" alt="Hướng ánh sáng" >
-  </div>
-      <div class="column">
-  <img src="../../assets/images/nhiepanh/bocuc/Bo-cuc-vang-trong-nhiep-anh-13.jpg" alt="Hướng ánh sáng" >
-  <img src="../../assets/images/nhiepanh/bocuc/doi-xung-do-hoa-hue.webp" alt="Hướng ánh sáng" >
-   <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-06.jpg" alt="Hướng ánh sáng" >
-  </div>
-</div>
-
-- **Đường chéo:**
-  <img src="../../assets/images/nhiepanh/anhsang/3582398_untitled-shoot-4643-Edit.webp" alt="Hướng ánh sáng" class="responsive">
+* Nhai bằng một bên hàm:Nguyên nhân làm khuôn mặt mất cân đốiTrong thời hạn dài sẽ tạo thành thói quen khiến người nhai tự động hóa chuyển thức ăn về bên đó. Lâu dần khuôn mặt sẽ trở nên rơi lệch, thậm chí còn lệch hẳn về bên hàm nhai .
+* Ngoài ra lệch mặt còn do Do Các vấn đề về răng hoặc các bệnh lý gây nên. Ngoài ra, răng cũng là một trong những nguyên do đáng quan tâm gây ra sự không bình thường cho khuôn mặt. Những người có hàm tăng trưởng không đúng cấu trúc, hay còn gọi là hàm răng bị lệch sẽ làm lệch khớp cắn và mất cân đối hàng loạt khuôn mặt. Tùy theo từng kiểu lệch của hàm mà mặt sẽ bị tác động ảnh hưởng theo. Có những kiểu lệch hàm như lệch trái, lệch phải, hàm nhô ra phía trước hay thụt quá sâu vào trong .
+Những người cao tuổi hay những người mắc các bệnh lý về huyết áp, tim mạch, tiểu đường rất dễ bị các biến chứng gây liệt cơ mặt. Tình trạng này thường khiến cho bệnh nhân bị mặt méo, cứng miệng, hay không mở được mắt.
 
 <a name="huongsang"></a>
 
-### 2. Tỷ lệ vàng
+### 2. Cách khắc phục gương mặt bị lệch tốt hiệu quả
 
-Tỷ lệ vàng (Golden Ratio) được sử dụng trong các bức hình có bố cục tương đối đơn giản để người xem tập trung vào đối tượng mà không bị chi phối bởi các yếu tố khác trong bức ảnh. Tỷ lệ vàng bao gồm một đường xoắn ốc hướng mắt người xem đến đối tượng. Tương tự như quy tắc 1/3, ở quy tắc này, đối tượng trung tâm sẽ nằm trong vòng tròn xoắn nhỏ nhất của xoắn ốc và các đối tượng nằm bên ngoài chính là phông nền.
+<p style="text-align:center;">
+  <picture>
+    <source srcset="../../assets/images/nhiepanh/doituong/matlech-01.webp" type="image/webp" class="responsive">
+    <img src="../../assets/images/nhiepanh/doituong/matlech-01.jpg" alt="Hướng ánh sáng" class="responsive">
+  </picture>
+</p>
 
-Quy tắc này "tỉ lệ vàng", một tỉ lệ của cái đẹp. Một sự thống nhất hài hòa giữa khoa học và nghệ thuật. Rất nhiều nhà nghệ thuật thời phục hưng như Da vinci hay Angelo... đều lấy nó làm tỉ lệ chuẩn trong các tác phẩm của mình. Họ gọi nó là "tỉ lệ thần thánh". Nếu bạn có tỉ lệ của 2 đại lượng nào đó là con số xấp xỉ 1,6180... thì người ta gọi đó chính là "tỉ lệ vàng", chính vì khi lấy số đứng sau chia cho số đứng trước trong dãy Fibonacci, chúng ta được một con số xấp xỉ tỉ lệ vàng này.​
-
-<img src="../../assets/images/nhiepanh/anhsang/ap-dung-ty-le-vang-trong-nhiep-anh.jpg" alt="Hướng ánh sáng" class="responsive">
-
-Một cách sắp xếp bố cục tiếp theo được dựa theo nguyên tắc tỉ lệ dựa trên dãy số Fibonacci chính là quy tắc Một Phần Ba.
+* Massage mặt: Massage mặt là một trong những cách đơn thuần và không hề tốn kém để cải tổ thực trạng này. Hiện nay trên mạng có rất nhiều bài tập giúp cải tổ cơ mặt đồng thời thư giãn giải trí da. Tuy nhiên giải pháp này chỉ tác động ảnh hưởng từ bên ngoài nên không thật sự mang lại hiệu suất cao như mong ước
+* Cải thiện các thói quen xấu: Tình trạng mặt bị lệch sẽ càng trở nên tồi tệ hơn nếu những thói quen này liên tục được duy trì. Hãy rèn luyện cho mình cách nằm ngửa hay nhai bằng cả hai bên hàm điều này giúp khuôn mặt từ từ lấy lại sự cân đối bắt đầu .
+* Niềng răng: Đây cũng là cách Admin thực hiện, nhưng trong khuôn khổ bài viết, ta sẽ không bàn thêm.
 <a name="nguyennahn"></a>
 
 ### 3. Nguyên tắc 1/3
