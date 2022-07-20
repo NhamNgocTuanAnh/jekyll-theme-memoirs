@@ -46,7 +46,7 @@ Với những bạn không dư dả về tài chính, hay còn gọi là "đỗ 
 
 <span style="color:red">Lưu ý</span>: tủ chống ẩm cắm điện, khi mất điện lâu có thể gây hại ngược cho chính máy ảnh của bạn. Vì vậy bạn có thể để bugi sấy sấy chính các hạt hút ẩm có sẵn của bạn, từ đố khiến hộp trụ được dài hơi hơn cho tới khi có điện.
 
-anhhangxom.xyz chúc bạn thành công ☆ヾ(*´・∀・)ﾉヾ(・∀・`*)ﾉ☆
+<span style="color:red"><a href="https://anhhangxom.xyz" target="_blank">anhhangxom.xyz</a></span> chúc bạn thành công ☆ヾ(*´・∀・)ﾉヾ(・∀・`*)ﾉ☆
 
 > |ʘ‿ʘ)╯ **one more thing**
 
