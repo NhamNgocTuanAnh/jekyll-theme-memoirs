@@ -5,9 +5,7 @@ author: sal
 categories: [Nhiếp ảnh]
 tags: [nhiếp ảnh]
 image: assets/images/nhiepanh/doituong/matlech-av.jpg
-
-# rating: 4.5
-
+rating: 4.5
 comments: false
 ---
 
