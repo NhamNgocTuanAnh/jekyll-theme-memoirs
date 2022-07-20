@@ -2,8 +2,8 @@
 layout: post
 title: '[DIY] Hộp chống ẩm máy ảnh với arduino, relay, dht11  - [Cẩm nang nhiếp ảnh]'
 author: sal
-categories: [Nhiếp ảnh]
-tags: [nhiếp ảnh, diy]
+categories: [Nhiếp ảnh, Lập trình]
+tags: [nhiếp ảnh, diy, lập trình nhúng]
 image: assets/images/nhiepanh/doituong/matlech-av.jpg
 
 # rating: 4.5
@@ -11,7 +11,7 @@ image: assets/images/nhiepanh/doituong/matlech-av.jpg
 comments: false
 ---
 
-Mặt bị lệch do những nguyên nhân nào và giải pháp điều trị? Trong thế giới ngày nay, ngoại hình ngày càng chiếm một vị thế quan trọng trong công việc, sự nghiệp của chúng ta. Gương mặt dễ nhìn sẽ giúp bạn có thêm một phần ưu thế trong bất kỳ cuộc làm ăn hay giao dịch nào. Tuy nhiên, có không ít người trở nên lo lắng, sợ hãi khi phát hiện mình có một khuôn mặt không cân đối hay mặt bị lệch khi chụp ảnh. Hãy cùng Nha khoa Vinh An đi tìm hiểu tại sao mặt bị lệch và cách khắc phục vấn đề này.
+Với những bạn không dư dả về tài chính, hay còn gọi là "con nghèo đỗ khỉ" thì việc sử dụng những cách như cho máy ảnh vào hũ gạo, hay mua một hộp chống ẩm tự chế với máy sấy về thì là một việc hết sức dễ hiểu. nhưng hũ gạo thì có bụi còn hộp chống ẩm tự chế rất bất tiện. Là một dân IT mình không cam tâm làm các công việc lặp đi lặp lại.
 
 ### Mục lục
 
