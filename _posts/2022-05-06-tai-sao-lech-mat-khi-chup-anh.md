@@ -104,7 +104,7 @@ Tuy rằng ta có thể dùng một cái thủ thuật để che đi khuyết đ
 </p>
 <p style="text-align:center; ">Quá trình thực hiện phương pháp Mewing</p>
 
-Bạn có thể đọc thêm về Mewing [ở đây](https://www.youtube.com/results?search_query=mewing) hoặc [đây](https://www.youtube.com/watch?v=Lg4h6KvURrg).
+Bạn có thể đọc thêm về Mewing. [ở đây](https://www.youtube.com/results?search_query=mewing) hoặc [đây](https://www.youtube.com/watch?v=Lg4h6KvURrg).
 
 </li>
 
