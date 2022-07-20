@@ -23,7 +23,7 @@ Hộp chống ẩm tự chế thì khá lích kích phải sấy hạt hút ẩm
 Ngày hôm nay admin sẽ chia sẻ về cách làm một tủ chống ẩm tự động cho riêng mình nhất.
 Với những bạn không dư dả về tài chính, hay còn gọi là "đỗ nghèo khỉ" thì việc sử dụng những cách như cho máy ảnh vào hũ gạo, hay mua một hộp chống ẩm tự chế dùng hạt hút ẩm về thì là một việc hết sức quen thuộc. Nhưng hũ gạo thì có bụi còn hộp chống ẩm tự chế mỗi lần lấy máy ảnh ra lại phải lôi hạt hút ẩm ra sấy lại. Là một dân IT mình không cam tâm làm các công việc lặp đi lặp lại cũng không cầm lòng mua một tủ chống ẩm đắt đỏ cho một chiếc Canon M10 nhỏ tý hon của mình. (๑˃ᴗ˂)ﻭ
 
-> Một hộp chống ẩm tự chế có thể tự động sấy hạt hút ẩm, nhưng khi nào sấy, khi nào dừng sấy 	( ͡ಠ ʖ̯ ͡ಠ)
+> Một hộp chống ẩm tự chế có thể tự động sấy hạt hút ẩm, nhưng khi nào sấy, khi nào dừng sấy. Vì khi sấy quá lâu sẽ tốn điện còn sấy ít thì vẫn mốc như thường 	( ͡ಠ ʖ̯ ͡ಠ)
 
 <a name="phancung"></a>
 
@@ -40,7 +40,7 @@ Với những bạn không dư dả về tài chính, hay còn gọi là "đỗ 
 {% gist 789025c391ffb868bca20f4737103127 %}
 
 * Bước 1: Khai báo các chân đèn sấy, DHT sensor, ...
-* Bước 2: Xác định nhiệt độ và độ ẩm thích hợp cho máy ảnh. Lưu ý độ ẩm thích hợp cho máy ảnh là từ 21->61% không nên cao quá dễ gặp móc cũng như thấp quá dễ bong lớp cao su của máy. CÒn nhiệt độ do dùng bugi sấy nhiệt độ khá cao nên để an toàn tý thôi :D
+* Bước 2: Xác định nhiệt độ và độ ẩm thích hợp cho máy ảnh. Lưu ý độ ẩm thích hợp cho máy ảnh là từ 21 đến 61% thôi, không nên cao quá dễ gặp nấm mốc cũng như thấp quá dễ bong lớp cao su của máy. CÒn nhiệt độ do dùng bugi sấy nhiệt độ khá cao nên để an toàn tý thôi :D
 * Bước 3: void setup() khai báo các chân đèn sấy, chân quạt
 * Bước 4: Bạn cho hết chúng nó vào vòng lặp vô hạn loop với khoảng thời gian 2s check điều kiện một lần. Nếu độ ấm trên 60% thì bugi sấy và quạt được kích hoạt, không thì nếu nhiệt độ quá cao hoặc độ ẩm quá thấp thì hệ thống sẽ ngưng hoạt động.
 
