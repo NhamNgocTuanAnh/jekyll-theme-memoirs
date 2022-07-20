@@ -48,6 +48,7 @@ Lưu ý: Nếu bạn có 2 đường thẳng hội tụ trong một khung hình,
       <div class="column">
   <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-06.jpg" alt="Hướng ánh sáng" >
   <img src="../../assets/images/nhiepanh/bocuc/doi-xung-do-hoa-hue.webp" alt="Hướng ánh sáng" >
+    <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-09.jpg" alt="Hướng ánh sáng" >
 
   </div>
 
