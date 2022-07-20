@@ -134,24 +134,26 @@ Vì mạch Arduino UNO R3 rất hạn chế về cổng GND và 5v. Bạn có th
 }
 </style>
 <script>
-var myVideo = document.getElementById("video1");
+let myVideo = document.getElementById("video1");
+if(myVideo){
+  myVideo.play();
+  function playPause() {
+    if (myVideo.paused)
+      myVideo.play();
+    else
+      myVideo.pause();
+  }
 
-function playPause() {
-  if (myVideo.paused)
-    myVideo.play();
-  else
-    myVideo.pause();
-}
+  function makeBig() {
+      myVideo.width = 560;
+  }
 
-function makeBig() {
-    myVideo.width = 560;
-}
+  function makeSmall() {
+      myVideo.width = 320;
+  }
 
-function makeSmall() {
-    myVideo.width = 320;
-}
-
-function makeNormal() {
-    myVideo.width = 420;
+  function makeNormal() {
+      myVideo.width = 420;
+  }
 }
 </script>
