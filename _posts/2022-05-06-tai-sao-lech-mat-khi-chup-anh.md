@@ -36,7 +36,7 @@ Trong số những nguyên do gây ra sự không đều của khuôn mặt thì
 
 <a name="huongsang"></a>
 
-### 2. Cách khắc phục gương mặt bị lệch tốt hiệu quả
+### 3. Cách khắc phục gương mặt bị lệch tốt hiệu quả
 
 <p style="text-align:center;">
   <picture>
@@ -53,16 +53,19 @@ Trong số những nguyên do gây ra sự không đều của khuôn mặt thì
 <p style="text-align:center;">
   <picture>
     <source srcset="../../assets/images/nhiepanh/doituong/matlech-01.webp" type="image/webp" class="responsive">
-    <img src="../../assets/images/nhiepanh/doituong/matlech-01.jpg" alt="Hướng ánh sáng" class="responsive">
+    <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-02.png" alt="Khắc phục mặt lệch hiệu quả" class="responsive">
   </picture>
 </p>
+<p style="text-align:center;">Quá trình thực hiện phương pháp Mewing</p>
+
+
 Bạn có thể đọc thêm về Mewing tại đây hoặc đây
 </li>
       </ul>
 
 <a name="nguyennahn"></a>
 
-### 3. Nguyên tắc 1/3
+### 2. Tips chụp ảnh cho người mặt lệch
 
 Để có được những bức ảnh xinh xắn không bị mất cân đối gương mặt, GhienCongNghe sẽ gợi ý cho bạn những tips nho nhỏ để chụp ảnh cho người mặt lệch.
 
