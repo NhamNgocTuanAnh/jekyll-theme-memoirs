@@ -19,7 +19,15 @@ Mặt bị lệch do những nguyên nhân nào và giải pháp điều trị? 
 [2. Tips chụp ảnh cho người mặt lệch](#tipchup)\\
 [3. Cách khắc phục gương mặt bị lệch tốt hiệu quả](#khacphuc)
 
-<img src="../../assets/images/nhiepanh/doituong/matlech-02.png" alt="Hướng ánh sáng" class="responsive">
+<p style="text-align:center; ">
+  <picture>
+
+    <source type="image/webp" srcset="../../assets/images/nhiepanh/doituong/matlech-02.webp">
+    <source type="image/jpeg" srcset="../../assets/images/nhiepanh/doituong/matlech-02.jpg">
+    <img src="../../assets/images/nhiepanh/doituong/matlech-02.jpg" alt="Khắc phục mặt lệch hiệu quả">
+
+  </picture>
+</p>
 <p style="text-align:center; "><a href="https://kenh14.vn/sao-kbiz-mat-bi-lech-nhung-van-thanh-cuc-pham-nhan-sac-jennie-irene-tzuyu-thanh-luon-nu-than-kim-soo-hyun-hot-thay-la-20201215121007454.chn" target="_blank">Sự cân xứng trên gương mặt được cho là tiêu chí hàng đầu tạo nên nhan sắc cho 1 người. Tuy nhiên, tại Kbiz có rất nhiều ngôi sao có gương mặt bất đối xứng mà vẫn là những nhan sắc tường thành. - kenh14.vn </a></p>
 
 <a name="nguongoc"></a>
