@@ -7,6 +7,7 @@ tags: [ Học máy, Python, Lập trình ]
 image: assets/images/emotion-detection/happy-ex-p1.webp
 # rating: 4.5
 comments: false
+description: Xây dựng mô hình nhận dạng cảm xúc gương mặt với Python, Keras và TensorFlow
 ---
 
 <!-- > Chúng ta là những gì mà chúng ta ăn vào.  -->

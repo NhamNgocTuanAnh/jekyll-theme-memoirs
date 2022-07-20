@@ -7,9 +7,9 @@ tags: [ Python, Lập trình ]
 image: assets/images/emotion-detection/happy-ex-p3.webp
 # rating: 4.5
 comments: false
+description: Trong phần 3 này. Chúng ta sẽ đi thẳng vào xây dựng mô hình CNN cho model nhận dạng đã được viết ở phần 2.
 ---
 
-<!-- > Chúng ta là những gì mà chúng ta ăn vào.  -->
 Trong phần 3 này. Chúng ta sẽ đi thẳng vào xây dựng mô hình CNN cho model nhận dạng đã được viết ở phần 2.
 
 Một mô hình học sâu thường có 3 nhiệm vụ được kết hợp trong một kiến trúc mạng duy nhất:

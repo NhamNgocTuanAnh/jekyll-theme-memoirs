@@ -7,6 +7,7 @@ tags: [ Python, Lập trình ]
 image: assets/images/emotion-detection/happy-ex-p4.webp
 # rating: 4.5
 comments: false
+description: Trong phần 4 này. Chúng ta sẽ sử dụng model đã training từ phần 3 để tạo một ứng dụng nhận dạng cảm xúc python đơn giản
 ---
 
 <!-- > Chúng ta là những gì mà chúng ta ăn vào.  -->

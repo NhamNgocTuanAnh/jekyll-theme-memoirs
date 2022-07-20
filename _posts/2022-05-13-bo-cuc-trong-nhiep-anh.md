@@ -7,9 +7,10 @@ tags: [nhiếp ảnh]
 image: assets/images/nhiepanh/anhsang/bocuc_1.jpg
 rating: 5
 comments: false
+description: Bố cục là một trong những yếu tố quan trọng để tạo nên bức ảnh đẹp, có chiều sâu. Việc áp dụng một số quy tắc trong các tình huống có thể mang đến những bức ảnh đẹp, cân đối và hài hòa, thu hút ánh nhìn của người xem.
 ---
 
-Bố cục là một trong những yếu tố quan trọng để tạo nên bức ảnh đẹp, có chiều sâu. Quy tắc về bố cục được đặt ra giúp chúng ta định hình chính xác đối tượng, sắp xếp và bố trí các yếu tố khác nhau cho phù hợp. Quy tắc này có thể áp dụng trong mọi tình huống mang đến những bức ảnh đẹp, cân đối và hài hòa, thu hút ánh nhìn của người xem. Nếu là người mới bắt đầu tìm hiểu về nhiếp ảnh, bạn nên nắm rõ những quy tắc cơ bản về bố cục trong nhiếp ảnh để có thể sáng tạo những bức ảnh mang phong cách riêng.
+Quy tắc về bố cục được đặt ra giúp chúng ta định hình chính xác đối tượng, sắp xếp và bố trí các yếu tố khác nhau cho phù hợp.  Nếu là người mới bắt đầu tìm hiểu về nhiếp ảnh, bạn nên nắm rõ những quy tắc cơ bản về bố cục trong nhiếp ảnh để có thể sáng tạo những bức ảnh mang phong cách riêng.
 
 ### Mục lục
 

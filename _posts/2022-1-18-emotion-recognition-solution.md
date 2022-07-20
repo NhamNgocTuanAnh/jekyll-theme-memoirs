@@ -7,6 +7,7 @@ tags: [ Python, Lập trình ]
 image: assets/images/emotion-detection/happy-ex-p2.webp
 # rating: 4.5
 comments: false
+description: Trong phần này chúng ta sẽ tìm cách giải quyết bài toán làm thế nào để tạo ra một ứng dụng
 ---
 
 <!-- > Chúng ta là những gì mà chúng ta ăn vào.  -->

@@ -7,9 +7,10 @@ tags: [nhiếp ảnh]
 image: assets/images/nhiepanh/doituong/matlech-av.jpg
 rating: 4.5
 comments: false
+description: Khi chụp camera trước của smartphone bị lệch mặt, thậm chí cả máy ảnh hoặc các thiết bị ghi hình tương tự. Vậy nguyên nhân do đâu và các khắc phục là gì?
 ---
 
-Chúng ta lại có hứng thú đặc biệt với những thứ có tính đối xứng. Con sao biển hay các cánh hoa có hình dạng đối xứng xuyên tâm, tổ ong hình lục giác đối xứng, hay những họa tiết pha lê đối xứng độc đáo của một bông tuyết. Và tất nhiên con người cũng là những sinh vật đối xứng. Nhưng Về ngoại hình, khuôn mặt của chúng ta rất dễ bị mất đi tính đối xứng đó. Tại sao vậy? và Cách khắc phục là gì?
+Chúng ta lại có hứng thú đặc biệt với những thứ có tính đối xứng. Con sao biển hay các cánh hoa có hình dạng đối xứng xuyên tâm, tổ ong hình lục giác đối xứng, hay những họa tiết pha lê đối xứng độc đáo của một bông tuyết. Và tất nhiên con người cũng là những sinh vật đối xứng. Nhưng về ngoại hình, khuôn mặt của chúng ta rất dễ bị mất đi tính đối xứng đó. Tại sao vậy? và Cách khắc phục là gì?
 
 ### Mục lục
 
