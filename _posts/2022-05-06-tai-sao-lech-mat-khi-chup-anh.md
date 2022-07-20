@@ -11,7 +11,7 @@ image: assets/images/nhiepanh/doituong/matlech-av.jpg
 comments: false
 ---
 
-Mặt bị lệch do những nguyên nhân nào và giải pháp điều trị? Trong thế giới ngày nay, ngoại hình ngày càng chiếm một vị thế quan trọng trong công việc, sự nghiệp của chúng ta. Gương mặt dễ nhìn sẽ giúp bạn có thêm một phần ưu thế trong bất kỳ cuộc làm ăn hay giao dịch nào. Tuy nhiên, có không ít người trở nên lo lắng, sợ hãi khi phát hiện mình có một khuôn mặt không cân đối hay mặt bị lệch khi chụp ảnh.
+Chúng ta lại có hứng thú đặc biệt với những thứ có tính đối xứng. Con sao biển hay các cánh hoa có hình dạng đối xứng xuyên tâm, tổ ong hình lục giác đối xứng, hay những họa tiết pha lê đối xứng độc đáo của một bông tuyết. Và tất nhiên con người cũng là những sinh vật đối xứng. Nhưng Về ngoại hình, khuôn mặt của chúng ta rất dễ bị mất đi tính đối xứng đó. Tại sao vậy? và Cách khắc phục đó là gì?
 
 ### Mục lục
 
