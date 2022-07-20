@@ -9,7 +9,7 @@ rating: 4.5
 comments: false
 ---
 
-Với những bạn không dư dả về tài chính, hay còn gọi là "đỗ nghèo khỉ" thì việc sử dụng những cách như cho máy ảnh vào hũ gạo, hay mua một hộp chống ẩm tự chế với máy sấy về thì là một việc hết sức dễ hiểu. nhưng hũ gạo thì có bụi còn hộp chống ẩm tự chế rất bất tiện. Là một dân IT mình không cam tâm làm các công việc lặp đi lặp lại. (๑˃ᴗ˂)ﻭ
+Với những bạn không dư dả về tài chính, hay còn gọi là "đỗ nghèo khỉ" thì việc sử dụng những cách như cho máy ảnh vào hũ gạo, hay mua một hộp chống ẩm tự chế dùng hạt hút ẩm về thì là một việc hết sức quen thuộc. Nhưng hũ gạo thì có bụi còn hộp chống ẩm tự chế mỗi lần lấy máy ảnh ra lại phải lôi hạt hút ẩm ra sấy lại. Là một dân IT mình không cam tâm làm các công việc lặp đi lặp lại. (๑˃ᴗ˂)ﻭ
 
 ### Mục lục
 
@@ -20,11 +20,15 @@ Với những bạn không dư dả về tài chính, hay còn gọi là "đỗ 
 <a name="noidung"></a>
 
 ### 1. Nội dung chính, cần nắm
-Ngày hôm nay tô sẽ chia sẻ về cách làm một tủ chống ẩm tự động cho riêng mình nhất.
+Ngày hôm nay admin sẽ chia sẻ về cách làm một tủ chống ẩm tự động cho riêng mình nhất.
 <a name="phancung"></a>
 
 ### 2. Phần cứng
-
+* Arduino UNO
+* DHT11 hoặc DHT22 cho rẻ :D
+* 1 module relay 5v
+* 1 quạt 5v
+* 1 bugi sấy, bóng đèn sợi đốt hoặc thứ gì đố sinh nhiệt tương tự
 <a name="malaptrinh"></a>
 
 ### 3. Mã lập trình và giải thích
@@ -36,6 +40,8 @@ Ngày hôm nay tô sẽ chia sẻ về cách làm một tủ chống ẩm tự �
 * Bước 4: Bạn cho hết chúng nó vào vòng lặp vô hạn loop với khoảng thời gian 2s check điều kiện một lần. Nếu độ ấm trên 60% thì bugi sấy và quạt được kích hoạt, không thì nếu nhiệt độ quá cao hoặc độ ẩm quá thấp thì hệ thống sẽ ngưng hoạt động.
 
 > lưu ý: tủ chấm ẩm cắm điện khi mất điện lâu có thể gây hại ngược cho chính máy ảnh của bạn. Vì vậy bạn có thể để bugi sấy sấy chính các hạt hút ẩm có sẵn của bạn, từ đố khiến hộp trụ được dài hơi hơn cho tới khi có điện.
+
+anhhangxom.xyz chúc bạn thành công ☆ヾ(*´・∀・)ﾉヾ(・∀・`*)ﾉ☆
 
 ### Trích nguồn
 
