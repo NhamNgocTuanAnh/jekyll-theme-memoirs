@@ -28,7 +28,7 @@ Trong số những nguyên do gây ra sự không đều của khuôn mặt thì
 
 - Mặt không cân đối do bẩm sinh:Có những người có khuôn mặt kém cân đối từ khi sinh ra. Đó là do di truyền từ những người thân trong gia đình trong mái ấm gia đình nên có bộ khung xương bị lệch. Trường hợp này rất khó để hoàn toàn có thể cải tổ trọn vẹn .
 - Nằm nghiêng một bên bị lệch mặt: Nằm nghiêng bị lệch mặt là thực trạng rất thông dụng lúc bấy giờ. Kiểu nằm này khiến cho bên mặt áp xuống gối nhiều nhỏ hơn so với bên mặt còn lại, làm cho mặt bên to bên nhỏ.
-  <img src="../../assets/images/nhiepanh/doituong/nguyennhan-matlech-01.jpg" alt="Hướng ánh sáng" class="responsive">
+  <p style="text-align:center;"><img src="../../assets/images/nhiepanh/doituong/nguyennhan-matlech-01.jpg" alt="Hướng ánh sáng" class="responsive"></p>
 
 - Nhai bằng một bên hàm:Nguyên nhân làm khuôn mặt mất cân đốiTrong thời hạn dài sẽ tạo thành thói quen khiến người nhai tự động hóa chuyển thức ăn về bên đó. Lâu dần khuôn mặt sẽ trở nên rơi lệch, thậm chí còn lệch hẳn về bên hàm nhai .
 - Ngoài ra lệch mặt còn do Do Các vấn đề về răng hoặc các bệnh lý gây nên. Ngoài ra, răng cũng là một trong những nguyên do đáng quan tâm gây ra sự không bình thường cho khuôn mặt. Những người có hàm tăng trưởng không đúng cấu trúc, hay còn gọi là hàm răng bị lệch sẽ làm lệch khớp cắn và mất cân đối hàng loạt khuôn mặt. Tùy theo từng kiểu lệch của hàm mà mặt sẽ bị tác động ảnh hưởng theo. Có những kiểu lệch hàm như lệch trái, lệch phải, hàm nhô ra phía trước hay thụt quá sâu vào trong .
