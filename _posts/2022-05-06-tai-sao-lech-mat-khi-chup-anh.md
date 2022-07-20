@@ -64,8 +64,6 @@ Trong số những nguyên do gây ra sự không đều của khuôn mặt thì
 </p>
 <p style="text-align:center;">Cải thiện gương mặt mà phương pháp Mewing</p>
 
-
-
  <ul>
          <li>Massage mặt: Massage mặt là một trong những cách đơn thuần và không hề tốn kém để cải tổ thực trạng này. Hiện nay trên mạng có rất nhiều bài tập giúp cải tổ cơ mặt đồng thời thư giãn giải trí da. Tuy nhiên giải pháp này chỉ tác động ảnh hưởng từ bên ngoài nên không thật sự mang lại hiệu suất cao như mong ước</li>
          <li>Cải thiện các thói quen xấu: Tình trạng mặt bị lệch sẽ càng trở nên tồi tệ hơn nếu những thói quen này liên tục được duy trì. Hãy rèn luyện cho mình cách nằm ngửa hay nhai bằng cả hai bên hàm điều này giúp khuôn mặt từ từ lấy lại sự cân đối bắt đầu.</li>
