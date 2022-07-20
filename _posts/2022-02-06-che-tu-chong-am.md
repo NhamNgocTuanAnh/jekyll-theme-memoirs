@@ -29,6 +29,7 @@ Ngày hôm nay admin sẽ chia sẻ về cách làm một tủ chống ẩm tự
 * 1 module relay 5v
 * 1 quạt 5v
 * 1 bugi sấy, bóng đèn sợi đốt hoặc thứ gì đố sinh nhiệt tương tự
+
 <a name="malaptrinh"></a>
 
 ### 3. Mã lập trình và giải thích
@@ -38,8 +39,6 @@ Ngày hôm nay admin sẽ chia sẻ về cách làm một tủ chống ẩm tự
 * Bước 2: Xác định nhiệt độ và độ ẩm thích hợp cho máy ảnh. Lưu ý độ ẩm thích hợp cho máy ảnh là từ 21->61% không nên cao quá dễ gặp móc cũng như thấp quá dễ bong lớp cao su của máy. CÒn nhiệt độ do dùng bugi sấy nhiệt độ khá cao nên để an toàn tý thôi :D
 * Bước 3: void setup() khai báo các chân đèn sấy, chân quạt
 * Bước 4: Bạn cho hết chúng nó vào vòng lặp vô hạn loop với khoảng thời gian 2s check điều kiện một lần. Nếu độ ấm trên 60% thì bugi sấy và quạt được kích hoạt, không thì nếu nhiệt độ quá cao hoặc độ ẩm quá thấp thì hệ thống sẽ ngưng hoạt động.
-
-
 
 > lưu ý: tủ chấm ẩm cắm điện khi mất điện lâu có thể gây hại ngược cho chính máy ảnh của bạn. Vì vậy bạn có thể để bugi sấy sấy chính các hạt hút ẩm có sẵn của bạn, từ đố khiến hộp trụ được dài hơi hơn cho tới khi có điện.
 
