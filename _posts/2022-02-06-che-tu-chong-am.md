@@ -3,117 +3,43 @@ layout: post
 title: '[DIY] Hộp chống ẩm máy ảnh với arduino, relay, dht11  - [Cẩm nang nhiếp ảnh]'
 author: sal
 categories: [Nhiếp ảnh, Lập trình]
-tags: [nhiếp ảnh, diy, lập trình nhúng]
+tags: [nhiếp ảnh, diy, lập trình nhúng, arduino]
 image: assets/images/nhiepanh/hop-chong-am-avt.png
 rating: 4.5
 comments: false
 ---
 
-Với những bạn không dư dả về tài chính, hay còn gọi là "con nghèo đỗ khỉ" thì việc sử dụng những cách như cho máy ảnh vào hũ gạo, hay mua một hộp chống ẩm tự chế với máy sấy về thì là một việc hết sức dễ hiểu. nhưng hũ gạo thì có bụi còn hộp chống ẩm tự chế rất bất tiện. Là một dân IT mình không cam tâm làm các công việc lặp đi lặp lại.
+Với những bạn không dư dả về tài chính, hay còn gọi là "đỗ nghèo khỉ" thì việc sử dụng những cách như cho máy ảnh vào hũ gạo, hay mua một hộp chống ẩm tự chế với máy sấy về thì là một việc hết sức dễ hiểu. nhưng hũ gạo thì có bụi còn hộp chống ẩm tự chế rất bất tiện. Là một dân IT mình không cam tâm làm các công việc lặp đi lặp lại. (๑˃ᴗ˂)ﻭ
 
 ### Mục lục
 
-[1. Nguyên nhân](#nguyennhan)\\
-[2. Tips chụp ảnh cho người mặt lệch](#tipchup)\\
-[3. Cách khắc phục gương mặt bị lệch tốt hiệu quả](#khacphuc)
+[1. Nội dung chính, cần nắm](#noidung)\\
+[2. Phần cứng](#phancung)\\
+[3. Mã lập trình và giải thích](#malaptrinh)
 
-<img src="../../assets/images/nhiepanh/doituong/matlech-02.png" alt="Hướng ánh sáng" class="responsive">
-<p style="text-align:center; "><a href="https://kenh14.vn/sao-kbiz-mat-bi-lech-nhung-van-thanh-cuc-pham-nhan-sac-jennie-irene-tzuyu-thanh-luon-nu-than-kim-soo-hyun-hot-thay-la-20201215121007454.chn" target="_blank">Sự cân xứng trên gương mặt được cho là tiêu chí hàng đầu tạo nên nhan sắc cho 1 người. Tuy nhiên, tại Kbiz có rất nhiều ngôi sao có gương mặt bất đối xứng mà vẫn là những nhan sắc tường thành. - kenh14.vn </a></p>
+<a name="noidung"></a>
 
-<a name="nguongoc"></a>
+### 1. Nội dung chính, cần nắm
+Ngày hôm nay tô sẽ chia sẻ về cách làm một tủ chống ẩm tự động cho riêng mình nhất.
+<a name="phancung"></a>
 
-### 1. Nguyên nhân
+### 2. Phần cứng
 
+<a name="malaptrinh"></a>
+
+### 3. Mã lập trình và giải thích
 {% gist 789025c391ffb868bca20f4737103127 %}
 
+* Bước 1: Khai báo các chân đèn sấy, DHT sensor, ...
+* Bước 2: Xác định nhiệt độ và độ ẩm thích hợp cho máy ảnh. Lưu ý độ ẩm thích hợp cho máy ảnh là từ 21->61% không nên cao quá dễ gặp móc cũng như thấp quá dễ bong lớp cao su của máy. CÒn nhiệt độ do dùng bugi sấy nhiệt độ khá cao nên để an toàn tý thôi :D
+* Bước 3: void setup() khai báo các chân đèn sấy, chân quạt
+* Bước 4: Bạn cho hết chúng nó vào vòng lặp vô hạn loop với khoảng thời gian 2s check điều kiện một lần. Nếu độ ấm trên 60% thì bugi sấy và quạt được kích hoạt, không thì nếu nhiệt độ quá cao hoặc độ ẩm quá thấp thì hệ thống sẽ ngưng hoạt động.
 
-Trong số những nguyên do gây ra sự không đều của khuôn mặt thì những thói quen chiếm một tỉ lệ khá lớn. Thói quen xấu được lặp đi lặp lại trong thời hạn dài sẽ làm biến hóa cấu trúc mặt và làm cho khuôn mặt không cân đối. Một số hoàn toàn có thể kể đến như :
-
-* Mặt không cân đối do bẩm sinh: Có những người có khuôn mặt kém cân đối từ khi sinh ra. Đó là do di truyền từ những người thân trong gia đình trong mái ấm gia đình nên có bộ khung xương bị lệch. Trường hợp này rất khó để hoàn toàn có thể cải tổ trọn vẹn .
-* Nằm nghiêng một bên bị lệch mặt: Nằm nghiêng bị lệch mặt là thực trạng rất thông dụng lúc bấy giờ. Kiểu nằm này khiến cho bên mặt áp xuống gối nhiều nhỏ hơn so với bên mặt còn lại, làm cho mặt bên to bên nhỏ.
-  <p style="text-align:center; "><img src="../../assets/images/nhiepanh/doituong/nguyennhan-matlech-01.jpg" alt="Hướng ánh sáng" class="responsive"></p>
-
-* Nhai bằng một bên hàm: Nguyên nhân làm khuôn mặt mất cân đốiTrong thời hạn dài sẽ tạo thành thói quen khiến người nhai tự động hóa chuyển thức ăn về bên đó. Lâu dần khuôn mặt sẽ trở nên rơi lệch, thậm chí còn lệch hẳn về bên hàm nhai .
-* Ngoài ra lệch mặt còn do Do Các vấn đề về răng hoặc các bệnh lý gây nên. Ngoài ra, răng cũng là một trong những nguyên do đáng quan tâm gây ra sự không bình thường cho khuôn mặt. Những người có hàm tăng trưởng không đúng cấu trúc, hay còn gọi là hàm răng bị lệch sẽ làm lệch khớp cắn và mất cân đối hàng loạt khuôn mặt. Tùy theo từng kiểu lệch của hàm mà mặt sẽ bị tác động ảnh hưởng theo. Có những kiểu lệch hàm như lệch trái, lệch phải, hàm nhô ra phía trước hay thụt quá sâu vào trong .
-  Những người cao tuổi hay những người mắc các bệnh lý về huyết áp, tim mạch, tiểu đường rất dễ bị các biến chứng gây liệt cơ mặt. Tình trạng này thường khiến cho bệnh nhân bị mặt méo, cứng miệng, hay không mở được mắt.
-
-<a name="tipchup"></a>
-
-### 2. Tips chụp ảnh cho người mặt lệch
-
-Để có được những bức ảnh xinh xắn không bị mất cân đối gương mặt, Admin sẽ gợi ý cho bạn những tips nho nhỏ để chụp ảnh cho người mặt lệch.
-
-Đó là dùng tay che bên phần mặt mà bạn cảm thấy bị lệch. Đây là một trong những cách chụp cam thường không bị méo mặt. Cách này giúp che đi những khuyết điểm trên khuôn mặt bạn, đồng thời gương mặt khi lên hình cũng nhỏ hơn.
-
-<p style="text-align:center; ">
-  <picture>
-
-    <source type="image/webp" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.webp">
-    <source type="image/jpeg" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.jpg">
-    <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.jpg" alt="Hướng ánh sáng" >
-
-  </picture>
-</p>
-<p style="text-align:center; ">Dùng tay che một bên gương mặt</p>
-
-<a name="khacphuc"></a>
-
-### 3. Cách khắc phục gương mặt bị lệch tốt hiệu quả
-
-<p style="text-align:center; ">
-  <picture>
-
-    <source type="image/webp" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-03.webp">
-    <source type="image/jpeg" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-03.jpg">
-    <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-03.jpg" alt="Khắc phục mặt lệch hiệu quả">
-
-  </picture>
-</p>
-<p style="text-align:center; ">Cải thiện gương mặt mà phương pháp Mewing</p>
-
- <ul>
-
-         <li>Massage mặt: Massage mặt là một trong những cách đơn thuần và không hề tốn kém để cải tổ thực trạng này. Hiện nay trên mạng có rất nhiều bài tập giúp cải tổ cơ mặt đồng thời thư giãn giải trí da.
-          <ul>
-            <li>Dùng tay massage đều đặn, nhẹ nhàng khuôn mặt theo chiều từ dưới cằm đưa lên, và từ trong ra ngoài;  </li>
-            <li>Ở vùng trán và ngang cằm, bạn hãy sử dụng một lực vừa đủ để massage theo đường vòng tròn cùng chiều kim đồng hồ, tạo cảm giác dễ chịu, thoải mái.</li>
-          </ul>
-          Tuy nhiên giải pháp này chỉ tác động ảnh hưởng từ bên ngoài nên không thật sự mang lại hiệu suất cao như mong ước. Bạn nên áp dụng phương pháp này thường xuyên đều đặn vào mỗi ngày để nâng cao hiệu quả. Có thể sử dụng cách này khi rửa mặt để cơ mặt được thư giãn tốt nhất, đồng thời giúp sữa rửa mặt thấm sâu vào da, lấy đi các bụi bẩn một cách tốt hơn.
-         </li>
-         <li>Cải thiện các thói quen xấu: Tình trạng mặt bị lệch sẽ càng trở nên tồi tệ hơn nếu những thói quen này liên tục được duy trì. Hãy rèn luyện cho mình cách nằm ngửa hay nhai bằng cả hai bên hàm điều này giúp khuôn mặt từ từ lấy lại sự cân đối bắt đầu.</li>
-         <li>Niềng răng: Đây cũng là cách Admin thực hiện, nhưng trong khuôn khổ bài viết, ta sẽ không bàn thêm.</li>
-         <li>Mewing: Mewing là phương pháp luyện tập cách đặt lưỡi đúng vị trí nhằm giúp thon mặt, nâng cao sống mũi và xương hàm, giúp cải thiện gương mặt theo hướng tích cực hơn. Phương pháp này được nghiên cứu bởi bác sĩ John Mew và được phổ biến rộng rãi bởi con trai của ông là bác sĩ chỉnh nha Mike Mew.
-
-<p style="text-align:center; ">
-  <picture>
-
-    <source srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-02.webp" type="image/webp" >
-    <source type="image/png" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-02.png">
-    <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-02.png" alt="Khắc phục mặt lệch hiệu quả">
-
-  </picture>
-</p>
-<p style="text-align:center; ">Quá trình thực hiện phương pháp Mewing</p>
-
-Bạn có thể đọc thêm về Mewing tại đây hoặc đây
-
-</li>
-
-      </ul>
-
-<p style="text-align:center; ">
-  <picture>
-
-    <source srcset="../../assets/images/nhiepanh/bocuc/quy-tac-khong-gian-nhiep-anh-9.webp" type="image/webp" class="responsive">
-    <img src="../../assets/images/nhiepanh/bocuc/quy-tac-khong-gian-nhiep-anh-9.png" alt="Hướng ánh sáng" class="responsive">
-
-  </picture>
-</p>
-<p style="text-align:center; ">Bức ảnh 3D cực đẹp khi kết hợp giữa quy tắc không gian và màu sắc, độ sáng</p>
+> lưu ý: tủ chấm ẩm cắm điện khi mất điện lâu có thể gây hại ngược cho chính máy ảnh của bạn. Vì vậy bạn có thể để bugi sấy sấy chính các hạt hút ẩm có sẵn của bạn, từ đố khiến hộp trụ được dài hơi hơn cho tới khi có điện.
 
 ### Trích nguồn
 
-* [Tại sao chụp ảnh camera sau mặt bị lệch? Một số mẹo khắc phục hiệu quả - ghiencongnghe.info](https://ghiencongnghe.info/tai-sao-chup-anh-camera-sau-mat-bi-lech.html).
+* [Cách làm đèn LED nhấp nháy theo yêu cầu - arduino.vn](http://arduino.vn/bai-viet/77-bai-2-cach-lam-den-led-nhap-nhay-theo-yeu-cau).
 * [Sao Kbiz mặt bị lệch nhưng vẫn thành cực phẩm nhan sắc - kenh14.vn](https://kenh14.vn/sao-kbiz-mat-bi-lech-nhung-van-thanh-cuc-pham-nhan-sac-jennie-irene-tzuyu-thanh-luon-nu-than-kim-soo-hyun-hot-thay-la-20201215121007454.chn).
 * [NHỮNG THÓI QUEN XẤU LÀM GƯƠNG MẶT BỊ LỆCH VÀ CÁCH KHẮC PHỤC HIỆU QUẢ - nhakhoavinhan.com](https://nhakhoavinhan.com/mat-bi-lech/).
 
