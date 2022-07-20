@@ -45,15 +45,15 @@ Với những bạn không dư dả về tài chính, hay còn gọi là "đỗ 
 * Bước 3: void setup() khai báo các chân đèn sấy, chân quạt
 * Bước 4: Bạn cho hết chúng nó vào vòng lặp vô hạn loop với khoảng thời gian 2s check điều kiện một lần. Nếu độ ấm trên 60% thì bugi sấy và quạt được kích hoạt, không thì nếu nhiệt độ quá cao hoặc độ ẩm quá thấp thì hệ thống sẽ ngưng hoạt động.
 
-<span style="color:red">Lưu ý</span>: tủ chống ẩm cắm điện, khi mất điện lâu có thể gây hại ngược cho chính máy ảnh của bạn. Vì vậy bạn có thể để bugi sấy sấy chính các hạt hút ẩm có sẵn của bạn, từ đố khiến hộp trụ được dài hơi hơn cho tới khi có điện.
+<span style="color:red">Lưu ý</span>: Tủ chống ẩm cắm điện, khi mất điện lâu có thể gây hại ngược cho chính máy ảnh của bạn. Vì vậy bạn có thể để bugi sấy sấy chính các hạt hút ẩm có sẵn của bạn, từ đố khiến hộp trụ được dài hơi hơn cho tới khi có điện.
 
 <span style="color:red"><a href="https://anhhangxom.xyz" target="_blank">anhhangxom.xyz</a></span> chúc bạn thành công ☆ヾ(*´・∀・)ﾉヾ(・∀・`*)ﾉ☆
 
 ### Trích nguồn
 
 * [Cách làm đèn LED nhấp nháy theo yêu cầu - arduino.vn](http://arduino.vn/bai-viet/77-bai-2-cach-lam-den-led-nhap-nhay-theo-yeu-cau).
-* [Sao Kbiz mặt bị lệch nhưng vẫn thành cực phẩm nhan sắc - kenh14.vn](https://kenh14.vn/sao-kbiz-mat-bi-lech-nhung-van-thanh-cuc-pham-nhan-sac-jennie-irene-tzuyu-thanh-luon-nu-than-kim-soo-hyun-hot-thay-la-20201215121007454.chn).
-* [NHỮNG THÓI QUEN XẤU LÀM GƯƠNG MẶT BỊ LỆCH VÀ CÁCH KHẮC PHỤC HIỆU QUẢ - nhakhoavinhan.com](https://nhakhoavinhan.com/mat-bi-lech/).
+* [Cách điều khiển modul relay với Arduino - istem.com.vn](http://istem.com.vn/blog/cach-dieu-khien-modul-relay-voi-arduino).
+* [Chế hộp chống ẩm - Hộp sấy mini đơn giản -kenhsangtao](https://www.youtube.com/watch?v=N1kYU2mnL9o).
 
 > |ʘ‿ʘ)╯ **one more thing**
 
