@@ -13,9 +13,9 @@ Mặt bị lệch do những nguyên nhân nào và giải pháp điều trị? 
 
 ### Mục lục
 
-[1. Nguyên nhân](#nguongoc)\\
-[2. Tips chụp ảnh cho người mặt lệch](#nguyennahn)
-[3. Cách khắc phục](#huongsang)\\
+[1. Nguyên nhân](#nguyennhan)\\
+[2. Tips chụp ảnh cho người mặt lệch](#tipchup)
+[3. Cách khắc phục gương mặt bị lệch tốt hiệu quả](#khacphuc)\\
 
 <img src="../../assets/images/nhiepanh/doituong/matlech-02.png" alt="Hướng ánh sáng" class="responsive">
 <p style="text-align:center;"><a href="https://kenh14.vn/sao-kbiz-mat-bi-lech-nhung-van-thanh-cuc-pham-nhan-sac-jennie-irene-tzuyu-thanh-luon-nu-than-kim-soo-hyun-hot-thay-la-20201215121007454.chn" target="_blank">Sự cân xứng trên gương mặt được cho là tiêu chí hàng đầu tạo nên nhan sắc cho 1 người. Tuy nhiên, tại Kbiz có rất nhiều ngôi sao có gương mặt bất đối xứng mà vẫn là những nhan sắc tường thành. - kenh14.vn </a></p>
@@ -34,7 +34,23 @@ Trong số những nguyên do gây ra sự không đều của khuôn mặt thì
 - Ngoài ra lệch mặt còn do Do Các vấn đề về răng hoặc các bệnh lý gây nên. Ngoài ra, răng cũng là một trong những nguyên do đáng quan tâm gây ra sự không bình thường cho khuôn mặt. Những người có hàm tăng trưởng không đúng cấu trúc, hay còn gọi là hàm răng bị lệch sẽ làm lệch khớp cắn và mất cân đối hàng loạt khuôn mặt. Tùy theo từng kiểu lệch của hàm mà mặt sẽ bị tác động ảnh hưởng theo. Có những kiểu lệch hàm như lệch trái, lệch phải, hàm nhô ra phía trước hay thụt quá sâu vào trong .
   Những người cao tuổi hay những người mắc các bệnh lý về huyết áp, tim mạch, tiểu đường rất dễ bị các biến chứng gây liệt cơ mặt. Tình trạng này thường khiến cho bệnh nhân bị mặt méo, cứng miệng, hay không mở được mắt.
 
-<a name="huongsang"></a>
+<a name="tipchup"></a>
+
+### 2. Tips chụp ảnh cho người mặt lệch
+
+Để có được những bức ảnh xinh xắn không bị mất cân đối gương mặt, GhienCongNghe sẽ gợi ý cho bạn những tips nho nhỏ để chụp ảnh cho người mặt lệch.
+
+Cách đầu tiên là dùng tay che bên phần mặt mà bạn cảm thấy bị lệch. Đây là một trong những cách chụp cam thường không bị méo mặt. Cách này giúp che đi những khuyết điểm trên khuôn mặt bạn, đồng thời gương mặt khi lên hình cũng nhỏ hơn.
+
+<p style="text-align:center;">
+  <picture>
+    <source srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.webp" type="image/webp" >
+    <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.jpg" alt="Hướng ánh sáng" >
+  </picture>
+</p>
+<p style="text-align:center;">Dùng tay che một bên gương mặt</p>
+
+<a name="khacphuc"></a>
 
 ### 3. Cách khắc phục gương mặt bị lệch tốt hiệu quả
 
@@ -58,40 +74,10 @@ Trong số những nguyên do gây ra sự không đều của khuôn mặt thì
 </p>
 <p style="text-align:center;">Quá trình thực hiện phương pháp Mewing</p>
 
-
 Bạn có thể đọc thêm về Mewing tại đây hoặc đây
+
 </li>
       </ul>
-
-<a name="nguyennahn"></a>
-
-### 2. Tips chụp ảnh cho người mặt lệch
-
-Để có được những bức ảnh xinh xắn không bị mất cân đối gương mặt, GhienCongNghe sẽ gợi ý cho bạn những tips nho nhỏ để chụp ảnh cho người mặt lệch.
-
-Cách đầu tiên là dùng tay che bên phần mặt mà bạn cảm thấy bị lệch. Đây là một trong những cách chụp cam thường không bị méo mặt. Cách này giúp che đi những khuyết điểm trên khuôn mặt bạn, đồng thời gương mặt khi lên hình cũng nhỏ hơn.
-
-<p style="text-align:center;">
-  <picture>
-    <source srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.webp" type="image/webp" >
-    <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.jpg" alt="Hướng ánh sáng" >
-  </picture>
-</p>
-<p style="text-align:center;">Dùng tay che một bên gương mặt</p>
-
-### Trích nguồn
-
-- [Tại sao chụp ảnh camera sau mặt bị lệch? Một số mẹo khắc phục hiệu quả - ghiencongnghe.info](https://ghiencongnghe.info/tai-sao-chup-anh-camera-sau-mat-bi-lech.html).
-- [Sao Kbiz mặt bị lệch nhưng vẫn thành cực phẩm nhan sắc - kenh14.vn](https://kenh14.vn/sao-kbiz-mat-bi-lech-nhung-van-thanh-cuc-pham-nhan-sac-jennie-irene-tzuyu-thanh-luon-nu-than-kim-soo-hyun-hot-thay-la-20201215121007454.chn).
-- [NHỮNG THÓI QUEN XẤU LÀM GƯƠNG MẶT BỊ LỆCH VÀ CÁCH KHẮC PHỤC HIỆU QUẢ - nhakhoavinhan.com](https://nhakhoavinhan.com/mat-bi-lech/).
-
-### Bạn dễ dàng kết hợp với quy tắc không gian nhiếp ảnh và tạo chiều sâu khung hình với mọt vài mẹo nhỏ:
-
-- Đối tượng càng đứng xa càng nhỏ, nó dễ dàng bị hòa vào background
-- Các vật che lấp hoặc nằm đè lên nhau tạo cảm giác chiều sâu
-- Khi có sự tương phản giữa sáng và tối thì cảm quan về chiều sâu được bộc lộ
-- Các đối tượng được đặt trên cao tạo cảm giác về khoảng cách và chiều sâu
-- Màu sắc ấm tiến lại gần còn màu nhạt và lạnh sẽ thu về phía xa.
 
 <p style="text-align:center;">
   <picture>
@@ -101,7 +87,11 @@ Cách đầu tiên là dùng tay che bên phần mặt mà bạn cảm thấy b�
 </p>
 <p style="text-align:center;">Bức ảnh 3D cực đẹp khi kết hợp giữa quy tắc không gian và màu sắc, độ sáng</p>
 
-Với những **người mới** vào **con đường chinh phục nhiếp ảnh**. Trước tiên, khi không biết sắp xếp bố cục, hãy tuân thủ đầy đủ các quy tắc bố cục ảnh đã được học để không tự mình hủy hoại bức ảnh. Nhưng trong nghệ thuật, sự sáng tạo và phá cách thường được khuyến khích. Việc phá vỡ những quy tắc giúp nhiếp ảnh gia có được **phong cách**, để tạo **dấu ấn**, tạo các tác phẩm kinh điển. [Xem ở đây](https://mythuatms.com/hoc-ve-bo-cuc-pha-cach-trong-nhiep-anh-d1523.html).
+### Trích nguồn
+
+- [Tại sao chụp ảnh camera sau mặt bị lệch? Một số mẹo khắc phục hiệu quả - ghiencongnghe.info](https://ghiencongnghe.info/tai-sao-chup-anh-camera-sau-mat-bi-lech.html).
+- [Sao Kbiz mặt bị lệch nhưng vẫn thành cực phẩm nhan sắc - kenh14.vn](https://kenh14.vn/sao-kbiz-mat-bi-lech-nhung-van-thanh-cuc-pham-nhan-sac-jennie-irene-tzuyu-thanh-luon-nu-than-kim-soo-hyun-hot-thay-la-20201215121007454.chn).
+- [NHỮNG THÓI QUEN XẤU LÀM GƯƠNG MẶT BỊ LỆCH VÀ CÁCH KHẮC PHỤC HIỆU QUẢ - nhakhoavinhan.com](https://nhakhoavinhan.com/mat-bi-lech/).
 
 <style>
 .box {
