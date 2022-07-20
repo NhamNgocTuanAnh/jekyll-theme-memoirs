@@ -11,7 +11,7 @@ image: assets/images/nhiepanh/doituong/matlech-av.jpg
 comments: false
 ---
 
-Mặt bị lệch do những nguyên nhân nào và giải pháp điều trị? Trong thế giới ngày nay, ngoại hình ngày càng chiếm một vị thế quan trọng trong công việc, sự nghiệp của chúng ta. Gương mặt dễ nhìn sẽ giúp bạn có thêm một phần ưu thế trong bất kỳ cuộc làm ăn hay giao dịch nào. Tuy nhiên, có không ít người trở nên lo lắng, sợ hãi khi phát hiện mình có một khuôn mặt không cân đối hay mặt bị lệch khi chụp ảnh. Hãy cùng Nha khoa Vinh An đi tìm hiểu tại sao mặt bị lệch và cách khắc phục vấn đề này.
+Mặt bị lệch do những nguyên nhân nào và giải pháp điều trị? Trong thế giới ngày nay, ngoại hình ngày càng chiếm một vị thế quan trọng trong công việc, sự nghiệp của chúng ta. Gương mặt dễ nhìn sẽ giúp bạn có thêm một phần ưu thế trong bất kỳ cuộc làm ăn hay giao dịch nào. Tuy nhiên, có không ít người trở nên lo lắng, sợ hãi khi phát hiện mình có một khuôn mặt không cân đối hay mặt bị lệch khi chụp ảnh.
 
 ### Mục lục
 
@@ -55,6 +55,8 @@ Trong số những nguyên do gây ra sự không đều của khuôn mặt thì
 </p>
 <p style="text-align:center; ">Dùng tay che một bên gương mặt</p>
 
+Tuy rằng ta có thể dùng một cái thủ thuật để che đi khuyết điểm khi chụp ảnh. Nhưng việc xác định nguyên nhân và cách khắc phục triệt để khuyết điểm đi luôn là thứ mà chúng ta hướng tới.
+
 <a name="khacphuc"></a>
 
 ### 3. Cách khắc phục gương mặt bị lệch tốt hiệu quả
@@ -94,7 +96,7 @@ Trong số những nguyên do gây ra sự không đều của khuôn mặt thì
 </p>
 <p style="text-align:center; ">Quá trình thực hiện phương pháp Mewing</p>
 
-Bạn có thể đọc thêm về Mewing tại đây hoặc đây
+Bạn có thể đọc thêm về Mewing [ở đây](https://www.youtube.com/results?search_query=mewing) hoặc [đây](https://www.youtube.com/watch?v=Lg4h6KvURrg).
 
 </li>
 
