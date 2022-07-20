@@ -5,7 +5,7 @@ author: sal
 categories: [Nhiếp ảnh]
 tags: [nhiếp ảnh]
 image: assets/images/nhiepanh/anhsang/bocuc_1.jpg
-# rating: 4.5
+rating: 5
 comments: false
 ---
 
