@@ -41,17 +41,17 @@ Với những bạn không dư dả về tài chính, hay còn gọi là "đỗ 
 {% gist 789025c391ffb868bca20f4737103127 %}
 
 * Bước 1: Khai báo các chân đèn sấy, DHT sensor, ...
-* Bước 2: Xác định nhiệt độ và độ ẩm thích hợp cho máy ảnh. Lưu ý độ ẩm thích hợp cho máy ảnh là từ 21->61% không nên cao quá dễ gặp móc cũng như thấp quá dễ bong lớp cao su của máy. CÒn nhiệt độ do dùng bugi sấy nhiệt độ khá cao nên để an toàn tý thôi :D
+* Bước 2: Xác định nhiệt độ và độ ẩm thích hợp cho máy ảnh. Lưu ý độ ẩm thích hợp cho máy ảnh là từ 21 đến 61% không nên cao quá dễ gặp móc cũng như thấp quá dễ bong lớp cao su của máy. Còn nhiệt độ do dùng bugi sấy nhiệt độ khá cao nên để an toàn tý thôi :D
 * Bước 3: void setup() khai báo các chân đèn sấy, chân quạt
 * Bước 4: Bạn cho hết chúng nó vào vòng lặp vô hạn loop với khoảng thời gian 2s check điều kiện một lần. Nếu độ ấm trên 60% thì bugi sấy và quạt được kích hoạt, không thì nếu nhiệt độ quá cao hoặc độ ẩm quá thấp thì hệ thống sẽ ngưng hoạt động.
 
-> lưu ý: tủ chấm ẩm cắm điện khi mất điện lâu có thể gây hại ngược cho chính máy ảnh của bạn. Vì vậy bạn có thể để bugi sấy sấy chính các hạt hút ẩm có sẵn của bạn, từ đố khiến hộp trụ được dài hơi hơn cho tới khi có điện.
+<span style="color:red;font-weight:bold">Lưu ý</span>: Tủ chấm ẩm cắm điện khi mất điện lâu có thể gây hại ngược cho chính máy ảnh của bạn. Vì vậy bạn có thể để bugi sấy sấy chính các hạt hút ẩm có sẵn của bạn, từ đố khiến hộp trụ được dài hơi hơn cho tới khi có điện.
 
 <div style="text-align:center">
-  <button onclick="playPause()">Play/Pause</button>
-  <button onclick="makeBig()">Big</button>
-  <button onclick="makeSmall()">Small</button>
-  <button onclick="makeNormal()">Normal</button>
+  <button onclick="playPause()">Chạy/Tạm dừng</button>
+  <button onclick="makeBig()">Phóng lớn</button>
+  <button onclick="makeSmall()">Thu nhỏ</button>
+  <button onclick="makeNormal()">Bình thường</button>
   <br><br>
   <video id="video1" width="420">
     <source src="../../assets/images/nhiepanh/done-hop-chong-am.mp4" type="video/mp4">
@@ -63,7 +63,13 @@ Với những bạn không dư dả về tài chính, hay còn gọi là "đỗ 
 
 anhhangxom.xyz chúc bạn thành công ☆ヾ(*´・∀・)ﾉヾ(・∀・`*)ﾉ☆
 
-> **one more thing**
+### Trích nguồn
+
+* [Cách làm đèn LED nhấp nháy theo yêu cầu - arduino.vn](http://arduino.vn/bai-viet/77-bai-2-cach-lam-den-led-nhap-nhay-theo-yeu-cau).
+* [Sao Kbiz mặt bị lệch nhưng vẫn thành cực phẩm nhan sắc - kenh14.vn](https://kenh14.vn/sao-kbiz-mat-bi-lech-nhung-van-thanh-cuc-pham-nhan-sac-jennie-irene-tzuyu-thanh-luon-nu-than-kim-soo-hyun-hot-thay-la-20201215121007454.chn).
+* [NHỮNG THÓI QUEN XẤU LÀM GƯƠNG MẶT BỊ LỆCH VÀ CÁCH KHẮC PHỤC HIỆU QUẢ - nhakhoavinhan.com](https://nhakhoavinhan.com/mat-bi-lech/).
+
+> |ʘ‿ʘ)╯ **one more thing**
 
 Vì mạch Arduino UNO R3 rất hạn chế về cổng GND và 5v. Bạn có thể mua thêm Board mở rộng ProtoShield mini cho arduino uno
 <p style="text-align:center;">
@@ -74,12 +80,6 @@ Vì mạch Arduino UNO R3 rất hạn chế về cổng GND và 5v. Bạn có th
   </picture>
 </p>
 <p style="text-align:center;">Ảnh ProtoShield mini</p>
-
-### Trích nguồn
-
-* [Cách làm đèn LED nhấp nháy theo yêu cầu - arduino.vn](http://arduino.vn/bai-viet/77-bai-2-cach-lam-den-led-nhap-nhay-theo-yeu-cau).
-* [Sao Kbiz mặt bị lệch nhưng vẫn thành cực phẩm nhan sắc - kenh14.vn](https://kenh14.vn/sao-kbiz-mat-bi-lech-nhung-van-thanh-cuc-pham-nhan-sac-jennie-irene-tzuyu-thanh-luon-nu-than-kim-soo-hyun-hot-thay-la-20201215121007454.chn).
-* [NHỮNG THÓI QUEN XẤU LÀM GƯƠNG MẶT BỊ LỆCH VÀ CÁCH KHẮC PHỤC HIỆU QUẢ - nhakhoavinhan.com](https://nhakhoavinhan.com/mat-bi-lech/).
 
 <style>
 .box {
