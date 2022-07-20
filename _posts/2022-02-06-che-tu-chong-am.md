@@ -48,7 +48,7 @@ Với những bạn không dư dả về tài chính, hay còn gọi là "đỗ 
 
 anhhangxom.xyz chúc bạn thành công ☆ヾ(*´・∀・)ﾉヾ(・∀・`*)ﾉ☆
 
-> **one more thing**
+> |ʘ‿ʘ)╯ **one more thing**
 
 Vì mạch Arduino UNO R3 rất hạn chế về cổng gnd và 5v. Bạn có thể mua thêm Board mở rộng ProtoShield mini cho arduino uno
 <p style="text-align:center;">
