@@ -7,6 +7,7 @@ tags: [nhiếp ảnh, diy, lập trình nhúng, arduino]
 image: assets/images/nhiepanh/hop-chong-am-avt.png
 rating: 4.5
 comments: false
+description: Tự làm hộp chống ẩm giá rẻ cho máy ảnh với relay tự sấy lại hạt chống ẩm
 ---
 
 Hộp chống ẩm tự chế thì khá lích kích phải sấy hạt hút ẩm thường xuyên. Tủ chấm ẩm ưu việt nhưng giá thành lại quá đắt. Ta sẽ phải làm gì? Một hộp chống ẩm tự chế có thể tự động sấy hạt hút ẩm. (◎ ◎)ゞ
@@ -48,6 +49,12 @@ Với những bạn không dư dả về tài chính, hay còn gọi là "đỗ 
 
 <span style="color:red"><a href="https://anhhangxom.xyz" target="_blank">anhhangxom.xyz</a></span> chúc bạn thành công ☆ヾ(*´・∀・)ﾉヾ(・∀・`*)ﾉ☆
 
+### Trích nguồn
+
+* [Cách làm đèn LED nhấp nháy theo yêu cầu - arduino.vn](http://arduino.vn/bai-viet/77-bai-2-cach-lam-den-led-nhap-nhay-theo-yeu-cau).
+* [Sao Kbiz mặt bị lệch nhưng vẫn thành cực phẩm nhan sắc - kenh14.vn](https://kenh14.vn/sao-kbiz-mat-bi-lech-nhung-van-thanh-cuc-pham-nhan-sac-jennie-irene-tzuyu-thanh-luon-nu-than-kim-soo-hyun-hot-thay-la-20201215121007454.chn).
+* [NHỮNG THÓI QUEN XẤU LÀM GƯƠNG MẶT BỊ LỆCH VÀ CÁCH KHẮC PHỤC HIỆU QUẢ - nhakhoavinhan.com](https://nhakhoavinhan.com/mat-bi-lech/).
+
 > |ʘ‿ʘ)╯ **one more thing**
 
 Vì mạch Arduino UNO R3 rất hạn chế về cổng gnd và 5v. Bạn có thể mua thêm Board mở rộng ProtoShield mini cho arduino uno
@@ -59,12 +66,6 @@ Vì mạch Arduino UNO R3 rất hạn chế về cổng gnd và 5v. Bạn có th
   </picture>
 </p>
 <p style="text-align:center;">Ảnh ProtoShield mini</p>
-
-### Trích nguồn
-
-* [Cách làm đèn LED nhấp nháy theo yêu cầu - arduino.vn](http://arduino.vn/bai-viet/77-bai-2-cach-lam-den-led-nhap-nhay-theo-yeu-cau).
-* [Sao Kbiz mặt bị lệch nhưng vẫn thành cực phẩm nhan sắc - kenh14.vn](https://kenh14.vn/sao-kbiz-mat-bi-lech-nhung-van-thanh-cuc-pham-nhan-sac-jennie-irene-tzuyu-thanh-luon-nu-than-kim-soo-hyun-hot-thay-la-20201215121007454.chn).
-* [NHỮNG THÓI QUEN XẤU LÀM GƯƠNG MẶT BỊ LỆCH VÀ CÁCH KHẮC PHỤC HIỆU QUẢ - nhakhoavinhan.com](https://nhakhoavinhan.com/mat-bi-lech/).
 
 <style>
 .box {
