@@ -30,7 +30,7 @@ Trong số những nguyên do gây ra sự không đều của khuôn mặt thì
 - Nằm nghiêng một bên bị lệch mặt: Nằm nghiêng bị lệch mặt là thực trạng rất thông dụng lúc bấy giờ. Kiểu nằm này khiến cho bên mặt áp xuống gối nhiều nhỏ hơn so với bên mặt còn lại, làm cho mặt bên to bên nhỏ.
   <p style="text-align:center;"><img src="../../assets/images/nhiepanh/doituong/nguyennhan-matlech-01.jpg" alt="Hướng ánh sáng" class="responsive"></p>
 
-- Nhai bằng một bên hàm:Nguyên nhân làm khuôn mặt mất cân đốiTrong thời hạn dài sẽ tạo thành thói quen khiến người nhai tự động hóa chuyển thức ăn về bên đó. Lâu dần khuôn mặt sẽ trở nên rơi lệch, thậm chí còn lệch hẳn về bên hàm nhai .
+- Nhai bằng một bên hàm: Nguyên nhân làm khuôn mặt mất cân đốiTrong thời hạn dài sẽ tạo thành thói quen khiến người nhai tự động hóa chuyển thức ăn về bên đó. Lâu dần khuôn mặt sẽ trở nên rơi lệch, thậm chí còn lệch hẳn về bên hàm nhai .
 - Ngoài ra lệch mặt còn do Do Các vấn đề về răng hoặc các bệnh lý gây nên. Ngoài ra, răng cũng là một trong những nguyên do đáng quan tâm gây ra sự không bình thường cho khuôn mặt. Những người có hàm tăng trưởng không đúng cấu trúc, hay còn gọi là hàm răng bị lệch sẽ làm lệch khớp cắn và mất cân đối hàng loạt khuôn mặt. Tùy theo từng kiểu lệch của hàm mà mặt sẽ bị tác động ảnh hưởng theo. Có những kiểu lệch hàm như lệch trái, lệch phải, hàm nhô ra phía trước hay thụt quá sâu vào trong .
   Những người cao tuổi hay những người mắc các bệnh lý về huyết áp, tim mạch, tiểu đường rất dễ bị các biến chứng gây liệt cơ mặt. Tình trạng này thường khiến cho bệnh nhân bị mặt méo, cứng miệng, hay không mở được mắt.
 
@@ -38,9 +38,9 @@ Trong số những nguyên do gây ra sự không đều của khuôn mặt thì
 
 ### 2. Tips chụp ảnh cho người mặt lệch
 
-Để có được những bức ảnh xinh xắn không bị mất cân đối gương mặt, GhienCongNghe sẽ gợi ý cho bạn những tips nho nhỏ để chụp ảnh cho người mặt lệch.
+Để có được những bức ảnh xinh xắn không bị mất cân đối gương mặt, Admin sẽ gợi ý cho bạn những tips nho nhỏ để chụp ảnh cho người mặt lệch.
 
-Cách đầu tiên là dùng tay che bên phần mặt mà bạn cảm thấy bị lệch. Đây là một trong những cách chụp cam thường không bị méo mặt. Cách này giúp che đi những khuyết điểm trên khuôn mặt bạn, đồng thời gương mặt khi lên hình cũng nhỏ hơn.
+Đó là dùng tay che bên phần mặt mà bạn cảm thấy bị lệch. Đây là một trong những cách chụp cam thường không bị méo mặt. Cách này giúp che đi những khuyết điểm trên khuôn mặt bạn, đồng thời gương mặt khi lên hình cũng nhỏ hơn.
 
 <p style="text-align:center;">
   <picture>
