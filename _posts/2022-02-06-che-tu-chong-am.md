@@ -26,6 +26,9 @@ Với những bạn không dư dả về tài chính, hay còn gọi là "con ng
 
 ### 1. Nguyên nhân
 
+{% gist 789025c391ffb868bca20f4737103127 %}
+
+
 Trong số những nguyên do gây ra sự không đều của khuôn mặt thì những thói quen chiếm một tỉ lệ khá lớn. Thói quen xấu được lặp đi lặp lại trong thời hạn dài sẽ làm biến hóa cấu trúc mặt và làm cho khuôn mặt không cân đối. Một số hoàn toàn có thể kể đến như :
 
 * Mặt không cân đối do bẩm sinh: Có những người có khuôn mặt kém cân đối từ khi sinh ra. Đó là do di truyền từ những người thân trong gia đình trong mái ấm gia đình nên có bộ khung xương bị lệch. Trường hợp này rất khó để hoàn toàn có thể cải tổ trọn vẹn .

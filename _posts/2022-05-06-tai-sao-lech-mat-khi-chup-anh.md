@@ -28,7 +28,7 @@ Mặt bị lệch do những nguyên nhân nào và giải pháp điều trị? 
 
   </picture>
 </p>
-<p style="text-align:center; "><a href="https://kenh14.vn/sao-kbiz-mat-bi-lech-nhung-van-thanh-cuc-pham-nhan-sac-jennie-irene-tzuyu-thanh-luon-nu-than-kim-soo-hyun-hot-thay-la-20201215121007454.chn" target="_blank">Sự cân xứng trên gương mặt được cho là tiêu chí hàng đầu tạo nên nhan sắc cho 1 người. Tuy nhiên, tại Kbiz có rất nhiều ngôi sao có gương mặt bất đối xứng mà vẫn là những nhan sắc tường thành. - kenh14.vn </a></p>
+<p style="text-align:center; "><a href="https://kenh14.vn/sao-kbiz-mat-bi-lech-nhung-van-thanh-cuc-pham-nhan-sac-jennie-irene-tzuyu-thanh-luon-nu-than-kim-soo-hyun-hot-thay-la-20201215121007454.chn" target="_blank">Sự cân xứng trên gương mặt được cho là tiêu chí hàng đầu tạo nên nhan sắc cho 1 người. - kenh14.vn </a></p>
 
 <a name="nguongoc"></a>
 
@@ -125,6 +125,8 @@ Bạn có thể đọc thêm về Mewing [ở đây](https://www.youtube.com/res
 * [Tại sao chụp ảnh camera sau mặt bị lệch? Một số mẹo khắc phục hiệu quả - ghiencongnghe.info](https://ghiencongnghe.info/tai-sao-chup-anh-camera-sau-mat-bi-lech.html).
 * [Sao Kbiz mặt bị lệch nhưng vẫn thành cực phẩm nhan sắc - kenh14.vn](https://kenh14.vn/sao-kbiz-mat-bi-lech-nhung-van-thanh-cuc-pham-nhan-sac-jennie-irene-tzuyu-thanh-luon-nu-than-kim-soo-hyun-hot-thay-la-20201215121007454.chn).
 * [NHỮNG THÓI QUEN XẤU LÀM GƯƠNG MẶT BỊ LỆCH VÀ CÁCH KHẮC PHỤC HIỆU QUẢ - nhakhoavinhan.com](https://nhakhoavinhan.com/mat-bi-lech/).
+
+> Bạn là chính bạn, là một ngôi sao. Đừng vì gương mặt bất đối xứng mà mặc cảnh, tự ti.
 
 <style>
 .box {
