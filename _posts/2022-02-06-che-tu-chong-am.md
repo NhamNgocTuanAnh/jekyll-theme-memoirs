@@ -46,6 +46,20 @@ Với những bạn không dư dả về tài chính, hay còn gọi là "đỗ 
 
 > lưu ý: tủ chấm ẩm cắm điện khi mất điện lâu có thể gây hại ngược cho chính máy ảnh của bạn. Vì vậy bạn có thể để bugi sấy sấy chính các hạt hút ẩm có sẵn của bạn, từ đố khiến hộp trụ được dài hơi hơn cho tới khi có điện.
 
+<div style="text-align:center">
+  <button onclick="playPause()">Play/Pause</button>
+  <button onclick="makeBig()">Big</button>
+  <button onclick="makeSmall()">Small</button>
+  <button onclick="makeNormal()">Normal</button>
+  <br><br>
+  <video id="video1" width="420">
+    <source src="../../assets/images/nhiepanh/done-hop-chong-am.mp4" type="video/mp4">
+    <source src="../../assets/images/nhiepanh/done-hop-chong-am.webm" type="video/webm">
+    Your browser does not support HTML video.
+  </video>
+</div>
+
+
 anhhangxom.xyz chúc bạn thành công ☆ヾ(*´・∀・)ﾉヾ(・∀・`*)ﾉ☆
 
 > **one more thing**
@@ -118,3 +132,25 @@ Vì mạch Arduino UNO R3 rất hạn chế về cổng gnd và 5v. Bạn có th
   }
 }
 </style>
+<script>
+var myVideo = document.getElementById("video1");
+
+function playPause() {
+  if (myVideo.paused)
+    myVideo.play();
+  else
+    myVideo.pause();
+}
+
+function makeBig() {
+    myVideo.width = 560;
+}
+
+function makeSmall() {
+    myVideo.width = 320;
+}
+
+function makeNormal() {
+    myVideo.width = 420;
+}
+</script>
