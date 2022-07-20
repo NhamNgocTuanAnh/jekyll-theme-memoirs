@@ -44,7 +44,8 @@ Trong số những nguyên do gây ra sự không đều của khuôn mặt thì
 
 <p style="text-align:center;">
   <picture>
-    <source srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.webp" type="image/webp" >
+    <source type="image/webp" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.webp">
+    <source type="image/jpeg" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.jpg">
     <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.jpg" alt="Hướng ánh sáng" >
   </picture>
 </p>
