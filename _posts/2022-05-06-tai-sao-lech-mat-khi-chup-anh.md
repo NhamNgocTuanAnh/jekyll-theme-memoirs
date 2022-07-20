@@ -14,8 +14,8 @@ Mặt bị lệch do những nguyên nhân nào và giải pháp điều trị? 
 ### Mục lục
 
 [1. Nguyên nhân](#nguongoc)\\
-[2. Cách khắc phục](#huongsang)\\
-[3. Mẹo chụp ảnh với mặt ngiêng](#nguyennahn)
+[2. Tips chụp ảnh cho người mặt lệch](#nguyennahn)
+[3. Cách khắc phục](#huongsang)\\
 
 
 
@@ -55,57 +55,24 @@ Những người cao tuổi hay những người mắc các bệnh lý về huy�
 
 ### 3. Nguyên tắc 1/3
 
-Để có được một bức ảnh theo đúng quy tắc thì hãy tưởng tượng khung hình được chia thành 9 phần bằng nhau bởi hai đường dọc và hai đường ngang. Dựa vào đó, bạn hoàn toàn có thể đặt đối tượng giao nhau tại các điểm giao nhau của đường thẳng. Bạn chia khung ảnh thành 9 phần bằng nhau với 2 đường kẻ dọc và 2 đường kẻ ngang như hình minh họa trên. Theo quy tắc này, chúng ta cần đặt các yếu tố quan trọng của cảnh vật dọc theo một hay nhiều đường kẻ, hay nơi các đường kẻ giao nhau.
+Để có được những bức ảnh xinh xắn không bị mất cân đối gương mặt, GhienCongNghe sẽ gợi ý cho bạn những tips nho nhỏ để chụp ảnh cho người mặt lệch.
 
-<p style="text-align:center;"><img src="../../assets/images/nhiepanh/anhsang/quy-tac-khong-gian-nhiep-anh-4.png" alt="Hướng ánh sáng" class="responsive"></p>
+Cách đầu tiên là dùng tay che bên phần mặt mà bạn cảm thấy bị lệch. Đây là một trong những cách chụp cam thường không bị méo mặt. Cách này giúp che đi những khuyết điểm trên khuôn mặt bạn, đồng thời gương mặt khi lên hình cũng nhỏ hơn.
 
-Quy tắc ⅓ là một kĩ thuật hữu ích và hiệu quả. Kỹ thuật này chắc chắn sẽ rất đáng để nghiên cứu. Bởi nó làm nên “tỷ lệ vàng” nên bức ảnh thật sự rất ưa nhìn. Đó là nguyên nhân dẫn đến sự phổ biến của nó.
-<img src="../../assets/images/nhiepanh/anhsang/quytac1_3_1.jpg" alt="Hướng ánh sáng" class="responsive">
+<p style="text-align:center;">
+  <picture>
+    <source srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.webp" type="image/webp" >
+    <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.jpg" alt="Hướng ánh sáng" >
+  </picture>
+</p>
+<p style="text-align:center;">Dùng tay che một bên gương mặt</p>
 
-Ngày nay trên máy ảnh hay điện thoại đều có các lưới kẻ, chia thành các khung hình bằng nhau nên rất thuận để chụp bố cục 1/3.
-
-<!-- 2 columns offset -->
-<div class="container">
-  <div class="row">
-
-    <div class="col-xs-12 col-sm-9">
-      <div class="box">
-      <img src="../../assets/images/nhiepanh/anhsang/quytac1_3_2.jpg" alt="Hướng ánh sáng" class="responsive">
-      </div>
-    </div>
-
-
-    <div class="col-xs-12 col-sm-3">
-      <div class="box">
-        <p>Đặt chủ thể tại tại giao điểm 1/3 bên trái phía dưới</p>
-      </div>
-    </div>
-
-  </div>
-</div>
-
-<!-- 2 columns offset -->
-<div class="container">
-  <div class="row">
-    <div class="col-xs-12 col-sm-3">
-      <div class="box">
-        <p>Đường chân trời dọc theo đường kẻ một phần ba dưới cùng của khung ảnh</p>
-      </div>
-    </div>
-    <div class="col-xs-12 col-sm-9">
-      <div class="box">
-      <img src="../../assets/images/nhiepanh/anhsang/quytac1_3_2_1.png" alt="Hướng ánh sáng" class="responsive">
-      </div>
-    </div>
-  </div>
-</div>
 
 ### Trích nguồn
 
-- [Những Bố Cục Chụp Ảnh Cần Biết - tiemanhsky.com](https://tiemanhsky.com/bo-cuc-chup-anh/#Bo_Cuc_13).
-- [5 bố cục phổ biến trong chụp ảnh chân dung bạn nên biết
-  -inhminhdigital.com](https://binhminhdigital.com/tin/5-bo-cuc-pho-bien-trong-chup-anh-chan-dung-ban-nen-biet.html).
-- [Ánh sáng trong nhiếp ảnh: Nguồn sáng & Hướng sáng - tinhte.vn](https://tinhte.vn/thread/hoc-chup-anh-anh-sang-trong-nhiep-anh-nguon-sang-huong-sang-bai-2.2424120/).
+- [Tại sao chụp ảnh camera sau mặt bị lệch? Một số mẹo khắc phục hiệu quả - ghiencongnghe.info](https://ghiencongnghe.info/tai-sao-chup-anh-camera-sau-mat-bi-lech.html).
+- [Sao Kbiz mặt bị lệch nhưng vẫn thành cực phẩm nhan sắc - kenh14.vn](https://kenh14.vn/sao-kbiz-mat-bi-lech-nhung-van-thanh-cuc-pham-nhan-sac-jennie-irene-tzuyu-thanh-luon-nu-than-kim-soo-hyun-hot-thay-la-20201215121007454.chn).
+- [NHỮNG THÓI QUEN XẤU LÀM GƯƠNG MẶT BỊ LỆCH VÀ CÁCH KHẮC PHỤC HIỆU QUẢ - nhakhoavinhan.com](https://nhakhoavinhan.com/mat-bi-lech/).
 
 ### Bạn dễ dàng kết hợp với quy tắc không gian nhiếp ảnh và tạo chiều sâu khung hình với mọt vài mẹo nhỏ:
 * Đối tượng càng đứng xa càng nhỏ, nó dễ dàng bị hòa vào background
