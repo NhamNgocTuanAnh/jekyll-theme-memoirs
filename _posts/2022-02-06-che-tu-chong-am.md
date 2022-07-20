@@ -9,7 +9,7 @@ rating: 4.5
 comments: false
 ---
 
-Với những bạn không dư dả về tài chính, hay còn gọi là "đỗ nghèo khỉ" thì việc sử dụng những cách như cho máy ảnh vào hũ gạo, hay mua một hộp chống ẩm tự chế dùng hạt hút ẩm về thì là một việc hết sức quen thuộc. Nhưng hũ gạo thì có bụi còn hộp chống ẩm tự chế mỗi lần lấy máy ảnh ra lại phải lôi hạt hút ẩm ra sấy lại. Là một dân IT mình không cam tâm làm các công việc lặp đi lặp lại. (๑˃ᴗ˂)ﻭ
+Hộp chống ẩm tự chế thì khá lích kích phải sấy hạt hút ẩm thường xuyên. Tủ chấm ẩm ưu việt nhưng giá thành lại quá đắt. Ta sẽ phải làm gì? Một hộp chống ẩm tự chế có thể tự động sấy hạt hút ẩm. (◎ ◎)ゞ
 
 ### Mục lục
 
@@ -21,6 +21,10 @@ Với những bạn không dư dả về tài chính, hay còn gọi là "đỗ 
 
 ### 1. Nội dung chính, cần nắm
 Ngày hôm nay admin sẽ chia sẻ về cách làm một tủ chống ẩm tự động cho riêng mình nhất.
+Với những bạn không dư dả về tài chính, hay còn gọi là "đỗ nghèo khỉ" thì việc sử dụng những cách như cho máy ảnh vào hũ gạo, hay mua một hộp chống ẩm tự chế dùng hạt hút ẩm về thì là một việc hết sức quen thuộc. Nhưng hũ gạo thì có bụi còn hộp chống ẩm tự chế mỗi lần lấy máy ảnh ra lại phải lôi hạt hút ẩm ra sấy lại. Là một dân IT mình không cam tâm làm các công việc lặp đi lặp lại cũng không cầm lòng mua một tủ chống ẩm đắt đỏ cho một chiếc Canon M10 nhỏ tý hon của mình. (๑˃ᴗ˂)ﻭ
+
+> Một hộp chống ẩm tự chế có thể tự động sấy hạt hút ẩm, nhưng khi nào sấy, khi nào dừng sấy 	( ͡ಠ ʖ̯ ͡ಠ)
+
 <a name="phancung"></a>
 
 ### 2. Phần cứng
@@ -28,7 +32,7 @@ Ngày hôm nay admin sẽ chia sẻ về cách làm một tủ chống ẩm tự
 * DHT11 hoặc DHT22 cho rẻ :D
 * 1 module relay 5v
 * 1 quạt 5v
-* 1 bugi sấy, bóng đèn sợi đốt hoặc thứ gì đố sinh nhiệt tương tự
+* 1 bugi sấy, bóng đèn sợi đốt hoặc thứ gì để sinh nhiệt tương tự.
 
 <a name="malaptrinh"></a>
 
@@ -44,7 +48,7 @@ Ngày hôm nay admin sẽ chia sẻ về cách làm một tủ chống ẩm tự
 
 anhhangxom.xyz chúc bạn thành công ☆ヾ(*´・∀・)ﾉヾ(・∀・`*)ﾉ☆
 
-> one more thing
+> **one more thing**
 
 Vì mạch Arduino UNO R3 rất hạn chế về cổng gnd và 5v. Bạn có thể mua thêm Board mở rộng ProtoShield mini cho arduino uno
 <p style="text-align:center;">
