@@ -57,10 +57,14 @@ Trong số những nguyên do gây ra sự không đều của khuôn mặt thì
 
 <p style="text-align:center;">
   <picture>
-    <source srcset="../../assets/images/nhiepanh/doituong/matlech-01.webp" type="image/webp" class="responsive">
-    <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-02.png" alt="Hướng ánh sáng" class="responsive">
+    <source type="image/webp" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-03.webp">
+    <source type="image/jpeg" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-03.jpg">
+    <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-03.jpg" alt="Khắc phục mặt lệch hiệu quả">
   </picture>
 </p>
+<p style="text-align:center;">Cải thiện gương mặt mà phương pháp Mewing</p>
+
+
 
  <ul>
          <li>Massage mặt: Massage mặt là một trong những cách đơn thuần và không hề tốn kém để cải tổ thực trạng này. Hiện nay trên mạng có rất nhiều bài tập giúp cải tổ cơ mặt đồng thời thư giãn giải trí da. Tuy nhiên giải pháp này chỉ tác động ảnh hưởng từ bên ngoài nên không thật sự mang lại hiệu suất cao như mong ước</li>
