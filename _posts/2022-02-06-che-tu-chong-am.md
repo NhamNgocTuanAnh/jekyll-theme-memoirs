@@ -4,10 +4,8 @@ title: '[DIY] Hộp chống ẩm máy ảnh với arduino, relay, dht11  - [Cẩ
 author: sal
 categories: [Nhiếp ảnh, Lập trình]
 tags: [nhiếp ảnh, diy, lập trình nhúng]
-image: assets/images/nhiepanh/hop-chong-am-avt.jpg
-
-# rating: 4.5
-
+image: assets/images/nhiepanh/hop-chong-am-avt.png
+rating: 4.5
 comments: false
 ---
 
