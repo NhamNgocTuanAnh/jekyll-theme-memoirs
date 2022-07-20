@@ -26,7 +26,7 @@ Mặt bị lệch do những nguyên nhân nào và giải pháp điều trị? 
 
 Trong số những nguyên do gây ra sự không đều của khuôn mặt thì những thói quen chiếm một tỉ lệ khá lớn. Thói quen xấu được lặp đi lặp lại trong thời hạn dài sẽ làm biến hóa cấu trúc mặt và làm cho khuôn mặt không cân đối. Một số hoàn toàn có thể kể đến như :
 
-- Mặt không cân đối do bẩm sinh:Có những người có khuôn mặt kém cân đối từ khi sinh ra. Đó là do di truyền từ những người thân trong gia đình trong mái ấm gia đình nên có bộ khung xương bị lệch. Trường hợp này rất khó để hoàn toàn có thể cải tổ trọn vẹn .
+- Mặt không cân đối do bẩm sinh: Có những người có khuôn mặt kém cân đối từ khi sinh ra. Đó là do di truyền từ những người thân trong gia đình trong mái ấm gia đình nên có bộ khung xương bị lệch. Trường hợp này rất khó để hoàn toàn có thể cải tổ trọn vẹn .
 - Nằm nghiêng một bên bị lệch mặt: Nằm nghiêng bị lệch mặt là thực trạng rất thông dụng lúc bấy giờ. Kiểu nằm này khiến cho bên mặt áp xuống gối nhiều nhỏ hơn so với bên mặt còn lại, làm cho mặt bên to bên nhỏ.
   <p style="text-align:center;"><img src="../../assets/images/nhiepanh/doituong/nguyennhan-matlech-01.jpg" alt="Hướng ánh sáng" class="responsive"></p>
 
@@ -65,7 +65,13 @@ Trong số những nguyên do gây ra sự không đều của khuôn mặt thì
 <p style="text-align:center;">Cải thiện gương mặt mà phương pháp Mewing</p>
 
  <ul>
-         <li>Massage mặt: Massage mặt là một trong những cách đơn thuần và không hề tốn kém để cải tổ thực trạng này. Hiện nay trên mạng có rất nhiều bài tập giúp cải tổ cơ mặt đồng thời thư giãn giải trí da. Tuy nhiên giải pháp này chỉ tác động ảnh hưởng từ bên ngoài nên không thật sự mang lại hiệu suất cao như mong ước</li>
+         <li>Massage mặt: Massage mặt là một trong những cách đơn thuần và không hề tốn kém để cải tổ thực trạng này. Hiện nay trên mạng có rất nhiều bài tập giúp cải tổ cơ mặt đồng thời thư giãn giải trí da.
+          <ul>
+            <li>Dùng tay massage đều đặn, nhẹ nhàng khuôn mặt theo chiều từ dưới cằm đưa lên, và từ trong ra ngoài;  </li>
+            <li>Ở vùng trán và ngang cằm, bạn hãy sử dụng một lực vừa đủ để massage theo đường vòng tròn cùng chiều kim đồng hồ, tạo cảm giác dễ chịu, thoải mái.</li>
+          </ul>
+          Tuy nhiên giải pháp này chỉ tác động ảnh hưởng từ bên ngoài nên không thật sự mang lại hiệu suất cao như mong ước. Bạn nên áp dụng phương pháp này thường xuyên đều đặn vào mỗi ngày để nâng cao hiệu quả. Có thể sử dụng cách này khi rửa mặt để cơ mặt được thư giãn tốt nhất, đồng thời giúp sữa rửa mặt thấm sâu vào da, lấy đi các bụi bẩn một cách tốt hơn.
+         </li>
          <li>Cải thiện các thói quen xấu: Tình trạng mặt bị lệch sẽ càng trở nên tồi tệ hơn nếu những thói quen này liên tục được duy trì. Hãy rèn luyện cho mình cách nằm ngửa hay nhai bằng cả hai bên hàm điều này giúp khuôn mặt từ từ lấy lại sự cân đối bắt đầu.</li>
          <li>Niềng răng: Đây cũng là cách Admin thực hiện, nhưng trong khuôn khổ bài viết, ta sẽ không bàn thêm.</li>
          <li>Mewing: Mewing là phương pháp luyện tập cách đặt lưỡi đúng vị trí nhằm giúp thon mặt, nâng cao sống mũi và xương hàm, giúp cải thiện gương mặt theo hướng tích cực hơn. Phương pháp này được nghiên cứu bởi bác sĩ John Mew và được phổ biến rộng rãi bởi con trai của ông là bác sĩ chỉnh nha Mike Mew.
