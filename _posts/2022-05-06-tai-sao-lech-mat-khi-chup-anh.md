@@ -57,7 +57,7 @@ Trong số những nguyên do gây ra sự không đều của khuôn mặt thì
 <p style="text-align:center;">
   <picture>
     <source srcset="../../assets/images/nhiepanh/doituong/matlech-01.webp" type="image/webp" class="responsive">
-    <img src="../../assets/images/nhiepanh/doituong/matlech-01.jpg" alt="Hướng ánh sáng" class="responsive">
+    <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-02.png" alt="Hướng ánh sáng" class="responsive">
   </picture>
 </p>
 
@@ -68,8 +68,8 @@ Trong số những nguyên do gây ra sự không đều của khuôn mặt thì
          <li>Mewing: Mewing là phương pháp luyện tập cách đặt lưỡi đúng vị trí nhằm giúp thon mặt, nâng cao sống mũi và xương hàm, giúp cải thiện gương mặt theo hướng tích cực hơn. Phương pháp này được nghiên cứu bởi bác sĩ John Mew và được phổ biến rộng rãi bởi con trai của ông là bác sĩ chỉnh nha Mike Mew.
 <p style="text-align:center;">
   <picture>
-    <source srcset="../../assets/images/nhiepanh/doituong/matlech-01.webp" type="image/webp" class="responsive">
-    <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-02.png" alt="Khắc phục mặt lệch hiệu quả" class="responsive">
+    <source srcset="../../assets/images/nhiepanh/doituong/matlech-01.webp" type="image/webp" >
+    <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-02.png" alt="Khắc phục mặt lệch hiệu quả">
   </picture>
 </p>
 <p style="text-align:center;">Quá trình thực hiện phương pháp Mewing</p>
