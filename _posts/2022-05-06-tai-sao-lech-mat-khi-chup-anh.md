@@ -47,20 +47,20 @@ Trong số những nguyên do gây ra sự không đều của khuôn mặt thì
 
 ### 2. Tips chụp ảnh cho người mặt lệch
 
-Để có được những bức ảnh xinh xắn không bị mất cân đối gương mặt, Admin sẽ gợi ý cho bạn những tips nho nhỏ để chụp ảnh cho người mặt lệch.
+Để có được những bức ảnh xinh xắn không bị mất cân đối gương mặt, Admin sẽ gợi ý cho bạn tips nho nhỏ để chụp ảnh cho người mặt lệch.
 
 Đó là dùng tay che bên phần mặt mà bạn cảm thấy bị lệch. Đây là một trong những cách chụp cam thường không bị méo mặt. Cách này giúp che đi những khuyết điểm trên khuôn mặt bạn, đồng thời gương mặt khi lên hình cũng nhỏ hơn.
 
-<p style="text-align:center; ">
-  <picture>
+  <p style="text-align:center; ">
+    <picture>
 
-    <source type="image/webp" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.webp">
-    <source type="image/jpeg" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.jpg">
-    <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.jpg" alt="Hướng ánh sáng" >
+      <source type="image/webp" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.webp">
+      <source type="image/jpeg" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.jpg">
+      <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.jpg" alt="Hướng ánh sáng" >
 
-  </picture>
-</p>
-<p style="text-align:center; ">Dùng tay che một bên gương mặt</p>
+    </picture><br>
+    Dùng tay che một bên gương mặt
+  </p>
 
 Tuy rằng ta có thể dùng một cái thủ thuật để che đi khuyết điểm khi chụp ảnh. Nhưng việc xác định nguyên nhân và cách khắc phục triệt để khuyết điểm đi luôn là thứ mà chúng ta hướng tới.
 
@@ -68,16 +68,16 @@ Tuy rằng ta có thể dùng một cái thủ thuật để che đi khuyết đ
 
 ### 3. Cách khắc phục gương mặt bị lệch tốt hiệu quả
 
-<p style="text-align:center; ">
-  <picture>
+  <p style="text-align:center; ">
+    <picture>
 
-    <source type="image/webp" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-03.webp">
-    <source type="image/jpeg" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-03.jpg">
-    <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-03.jpg" alt="Khắc phục mặt lệch hiệu quả">
+      <source type="image/webp" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-03.webp">
+      <source type="image/jpeg" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-03.jpg">
+      <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-03.jpg" alt="Khắc phục mặt lệch hiệu quả">
 
-  </picture>
-</p>
-<p style="text-align:center; ">Cải thiện gương mặt mà phương pháp Mewing</p>
+    </picture>
+  </p>
+  <p style="text-align:center; ">Cải thiện gương mặt mà phương pháp Mewing</p>
 
  <ul>
 

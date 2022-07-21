@@ -35,7 +35,7 @@ Chúng ta chỉ có thể chờ tới sáng, tới trưa, tới chiều hoặc t
 
 ![image](/assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao.png){:class="img-responsive"}
 
-Vào những thời điểm khác nhau trong ngày, thậm chí trong năm, ánh sáng tự nhiên sẽ tạo ra những hiệu ứng khác nhau do đó việc tận dụng hay tránh các tác động không mong muốn vào hình ảnh. Ta có thể điều khiển ánh sáng bằng cách tự tạo ra chúng. Nhưng bằng cách nào???
+Vào những thời điểm khác nhau trong ngày, thậm chí trong năm, ánh sáng tự nhiên sẽ tạo ra những hiệu ứng khác nhau do đó việc tận dụng hay tránh các tác động không mong muốn vào hình ảnh. Ta có thể điều khiển ánh sáng bằng cách tự tạo ra chúng. **Nhưng bằng cách nào???**
 
 ![image](/assets/images/nhiepanh/anhsang/anh_sang_trong_nhiep_anh_nhan_tao_1.jpg){:class="img-responsive"}
 
