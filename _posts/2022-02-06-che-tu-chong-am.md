@@ -155,11 +155,11 @@ if(myVideo){
   }
 
   function makeSmall() {
-      myVideo.width = 320;
+      myVideo.width = 228;
   }
 
   function makeNormal() {
-      myVideo.width = 420;
+      myVideo.width = 320;
   }
 }
 </script>
