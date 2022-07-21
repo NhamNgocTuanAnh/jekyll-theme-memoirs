@@ -3,7 +3,7 @@ layout: post
 title: 'Ánh sáng - [Cẩm nang nhiếp ảnh]'
 author: sal
 categories: [Nhiếp ảnh]
-tags: [ánh sáng, nhiếp ảnh]
+tags: [ánh sáng]
 image: assets/images/nhiepanh/anhsang/anhsang-cover.webp
 rating: 4
 comments: false
