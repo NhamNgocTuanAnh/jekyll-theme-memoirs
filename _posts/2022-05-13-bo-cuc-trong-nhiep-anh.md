@@ -35,14 +35,6 @@ Lưu ý: Nếu bạn có 2 đường thẳng hội tụ trong một khung hình,
 <p style="text-align:center; ">
   <picture>
 
-    <source srcset="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-02.webp" type="image/webp" >
-    <source type="image/jpeg" srcset="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-02.jpg">
-    <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-02.jpg" alt="Ảnh ProtoShield mini" >
-
-  </picture>
-  <br>
-  <picture>
-
     <source srcset="../../assets/images/nhiepanh/bocuc/doi-xung-do-hoa-hue.webp" type="image/webp" >
         <source type="image/jpeg" srcset="../../assets/images/nhiepanh/bocuc/doi-xung-do-hoa-hue.jpg">
     <img src="../../assets/images/nhiepanh/bocuc/doi-xung-do-hoa-hue.jpg" alt="Ảnh ProtoShield mini" >
@@ -165,7 +157,6 @@ Ngày nay trên máy ảnh hay điện thoại đều có các lưới kẻ, chi
   <br>
 <b>Phá vỡ bố cục - Thay đổi góc chụp</b>
 <br>
-
 Thay vì nhìn ngang và bấm chụp. Hãy thử hướng ống kính máy ảnh lên trời hoặc chĩa xuống phía dưới. Cách này có thể tạo ra những sự trừu tượng khơi gợi sự tò mò người xem.
 </p>
 
