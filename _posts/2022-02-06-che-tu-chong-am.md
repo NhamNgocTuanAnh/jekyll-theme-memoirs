@@ -65,8 +65,8 @@ Với những bạn không dư dả về tài chính, hay còn gọi là "đỗ 
 
 ### Trích nguồn
 
-* [Cách làm đèn LED nhấp nháy theo yêu cầu - arduino.vn](http://arduino.vn/bai-viet/77-bai-2-cach-lam-den-led-nhap-nhay-theo-yeu-cau).
 * [Lập trình cho Arduino](http://arduino.vn/bai-viet/42-arduino-uno-r3-la-gi).
+* [Cách làm đèn LED nhấp nháy theo yêu cầu - arduino.vn](http://arduino.vn/bai-viet/77-bai-2-cach-lam-den-led-nhap-nhay-theo-yeu-cau).
 * [Chế hộp chống ẩm - Hộp sấy mini đơn giản - kenhsangtao.com](https://www.youtube.com/watch?v=N1kYU2mnL9o&t=535s).
 
 > |ʘ‿ʘ)╯ **one more thing**
