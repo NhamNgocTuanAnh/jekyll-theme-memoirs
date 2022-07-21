@@ -66,8 +66,8 @@ anhhangxom.xyz chúc bạn thành công ☆ヾ(*´・∀・)ﾉヾ(・∀・`*)�
 ### Trích nguồn
 
 * [Cách làm đèn LED nhấp nháy theo yêu cầu - arduino.vn](http://arduino.vn/bai-viet/77-bai-2-cach-lam-den-led-nhap-nhay-theo-yeu-cau).
-* [Sao Kbiz mặt bị lệch nhưng vẫn thành cực phẩm nhan sắc - kenh14.vn](https://kenh14.vn/sao-kbiz-mat-bi-lech-nhung-van-thanh-cuc-pham-nhan-sac-jennie-irene-tzuyu-thanh-luon-nu-than-kim-soo-hyun-hot-thay-la-20201215121007454.chn).
-* [NHỮNG THÓI QUEN XẤU LÀM GƯƠNG MẶT BỊ LỆCH VÀ CÁCH KHẮC PHỤC HIỆU QUẢ - nhakhoavinhan.com](https://nhakhoavinhan.com/mat-bi-lech/).
+* [Lập trình cho Arduino](http://arduino.vn/bai-viet/42-arduino-uno-r3-la-gi).
+* [Chế hộp chống ẩm - Hộp sấy mini đơn giản - kenhsangtao.com](https://www.youtube.com/watch?v=N1kYU2mnL9o&t=535s).
 
 > |ʘ‿ʘ)╯ **one more thing**
 
