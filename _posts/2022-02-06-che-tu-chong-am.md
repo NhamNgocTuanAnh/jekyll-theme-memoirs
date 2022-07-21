@@ -61,7 +61,7 @@ Với những bạn không dư dả về tài chính, hay còn gọi là "đỗ 
 </div>
 
 
-anhhangxom.xyz chúc bạn thành công ☆ヾ(*´・∀・)ﾉヾ(・∀・`*)ﾉ☆
+<p style="text-align:center; "><a href="https://anhhangxom.xyz/" target="_blank"><span style="color:red;font-weight:bold">anhhangxom.xyz</span></a> chúc bạn thành công ☆ヾ(*´・∀・)ﾉヾ(・∀・`*)ﾉ☆</p>
 
 ### Trích nguồn
 
