@@ -95,13 +95,13 @@ Trong thực tế, người chụp kết hợp sử dụng cả hai loại ngu�
   <div class="container">
     <div class="row">
 
-      <div class="col-xs-12 col-sm-3">
+      <div class="col-xs-12 col-sm-4">
         <div class="box">
         <img src="../../assets/images/nhiepanh/anhsang/NumbersNewtonLight.jpg" alt="Newton khám phá ánh sáng" class="responsive">
           Năm 1666, Isaac Newton (1642-1727 ) nhà vật lý vĩ đại người Anh đã bị hấp dẫn khi ông quan sát hiện tượng các tia mặt trời chiếu xuyền qua một lăng kính.
         </div>
       </div>
-      <div class="col-xs-12 col-sm-9">
+      <div class="col-xs-12 col-sm-8">
         <div class="box">
       Ánh sáng và màu sắc không chỉ vẽ lên hình khối trong ảnh mà còn tạo ra hình tượng và nội dung bức ảnh, trong đó màu sắc được tạo ra từ ánh sáng và chịu tác động mạnh mẽ từ nguồn sáng.
 
