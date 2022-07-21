@@ -65,70 +65,70 @@ Một cách sắp xếp bố cục tiếp theo được dựa theo nguyên tắc
 
 Để có được một bức ảnh theo đúng quy tắc thì hãy tưởng tượng khung hình được chia thành 9 phần bằng nhau bởi hai đường dọc và hai đường ngang. Dựa vào đó, bạn hoàn toàn có thể đặt đối tượng giao nhau tại các điểm giao nhau của đường thẳng. Bạn chia khung ảnh thành 9 phần bằng nhau với 2 đường kẻ dọc và 2 đường kẻ ngang như hình minh họa trên. Theo quy tắc này, chúng ta cần đặt các yếu tố quan trọng của cảnh vật dọc theo một hay nhiều đường kẻ, hay nơi các đường kẻ giao nhau.
 
-<p style="text-align:center; "><img src="../../assets/images/nhiepanh/anhsang/quy-tac-khong-gian-nhiep-anh-4.png" alt="Hướng ánh sáng" class="responsive"></p>
+  <p style="text-align:center; "><img src="../../assets/images/nhiepanh/anhsang/quy-tac-khong-gian-nhiep-anh-4.png" alt="Hướng ánh sáng" class="responsive"></p>
 
 Quy tắc ⅓ là một kĩ thuật hữu ích và hiệu quả. Kỹ thuật này chắc chắn sẽ rất đáng để nghiên cứu. Bởi nó làm nên “tỷ lệ vàng” nên bức ảnh thật sự rất ưa nhìn. Đó là nguyên nhân dẫn đến sự phổ biến của nó.
-<img src="../../assets/images/nhiepanh/anhsang/quytac1_3_1.jpg" alt="Hướng ánh sáng" class="responsive">
+  <img src="../../assets/images/nhiepanh/anhsang/quytac1_3_1.jpg" alt="Hướng ánh sáng" class="responsive">
 
 Ngày nay trên máy ảnh hay điện thoại đều có các lưới kẻ, chia thành các khung hình bằng nhau nên rất thuận để chụp bố cục 1/3.
 
-<!-- 2 columns offset -->
-<div class="container">
-  <div class="row">
+  <!-- 2 columns offset -->
+  <div class="container">
+    <div class="row">
 
-    <div class="col-xs-12 col-sm-9">
-      <div class="box">
-      <img src="../../assets/images/nhiepanh/anhsang/quytac1_3_2.jpg" alt="Hướng ánh sáng" class="responsive">
+      <div class="col-xs-12 col-sm-9">
+        <div class="box">
+        <img src="../../assets/images/nhiepanh/anhsang/quytac1_3_2.jpg" alt="Hướng ánh sáng" class="responsive">
+        </div>
       </div>
-    </div>
 
-    <div class="col-xs-12 col-sm-3">
-      <div class="box">
-        <p>Đặt chủ thể tại tại giao điểm 1/3 bên trái phía dưới</p>
+      <div class="col-xs-12 col-sm-3">
+        <div class="box">
+          <p>Đặt chủ thể tại tại giao điểm 1/3 bên trái phía dưới</p>
+        </div>
       </div>
-    </div>
 
+    </div>
   </div>
-</div>
 
-<!-- 2 columns offset -->
-<div class="container">
-  <div class="row">
+  <!-- 2 columns offset -->
+  <div class="container">
+    <div class="row">
 
-    <div class="col-xs-12 col-sm-3">
-      <div class="box">
-        <p>Đường chân trời dọc theo đường kẻ một phần ba dưới cùng của khung ảnh</p>
+      <div class="col-xs-12 col-sm-3">
+        <div class="box">
+          <p>Đường chân trời dọc theo đường kẻ một phần ba dưới cùng của khung ảnh</p>
+        </div>
       </div>
-    </div>
-    <div class="col-xs-12 col-sm-9">
-      <div class="box">
-      <img src="../../assets/images/nhiepanh/anhsang/quytac1_3_2_1.png" alt="Hướng ánh sáng" class="responsive">
+      <div class="col-xs-12 col-sm-9">
+        <div class="box">
+        <img src="../../assets/images/nhiepanh/anhsang/quytac1_3_2_1.png" alt="Hướng ánh sáng" class="responsive">
+        </div>
       </div>
-    </div>
 
+    </div>
   </div>
-</div>
 
-<b> Bạn dễ dàng kết hợp với quy tắc không gian nhiếp ảnh và tạo chiều sâu khung hình với mọt vài mẹo nhỏ:</b><br>
-<ul>
-  <li>Đối tượng càng đứng xa càng nhỏ, nó dễ dàng bị hòa vào background</li>
-  <li>Các vật che lấp hoặc nằm đè lên nhau tạo cảm giác chiều sâu</li>
-  <li>Khi có sự tương phản giữa sáng và tối thì cảm quan về chiều sâu được bộc lộ</li>
-  <li>Các đối tượng được đặt trên cao tạo cảm giác về khoảng cách và chiều sâu</li>
-  <li>Màu sắc ấm tiến lại gần còn màu nhạt và lạnh sẽ thu về phía xa.</li>
-</ul>
+  <b> Bạn dễ dàng kết hợp với quy tắc không gian nhiếp ảnh và tạo chiều sâu khung hình với mọt vài mẹo nhỏ:</b><br>
+  <ul>
+    <li>Đối tượng càng đứng xa càng nhỏ, nó dễ dàng bị hòa vào background</li>
+    <li>Các vật che lấp hoặc nằm đè lên nhau tạo cảm giác chiều sâu</li>
+    <li>Khi có sự tương phản giữa sáng và tối thì cảm quan về chiều sâu được bộc lộ</li>
+    <li>Các đối tượng được đặt trên cao tạo cảm giác về khoảng cách và chiều sâu</li>
+    <li>Màu sắc ấm tiến lại gần còn màu nhạt và lạnh sẽ thu về phía xa.</li>
+  </ul>
 
-<p style="text-align:center; ">
-  <picture>
-    <source srcset="../../assets/images/nhiepanh/bocuc/lamsaophabobocucchuan4.webp" type="image/webp" >
-        <source type="image/jpeg" srcset="../../assets/images/nhiepanh/bocuc/lamsaophabobocucchuan4.jpg">
-    <img src="../../assets/images/nhiepanh/bocuc/lamsaophabobocucchuan4.jpg" alt="Phá vỡ bố cục" >
-  </picture>
+  <p style="text-align:center; ">
+    <picture>
+      <source srcset="../../assets/images/nhiepanh/bocuc/lamsaophabobocucchuan4.webp" type="image/webp" >
+          <source type="image/jpeg" srcset="../../assets/images/nhiepanh/bocuc/lamsaophabobocucchuan4.jpg">
+      <img src="../../assets/images/nhiepanh/bocuc/lamsaophabobocucchuan4.jpg" alt="Phá vỡ bố cục" >
+    </picture>
+    <br>
+  <b>Phá vỡ bố cục - Thay đổi góc chụp</b>
   <br>
-<b>Phá vỡ bố cục - Thay đổi góc chụp</b>
-<br>
-Thay vì nhìn ngang và bấm chụp. Hãy thử hướng ống kính máy ảnh lên trời hoặc chĩa xuống phía dưới. Cách này có thể tạo ra những sự trừu tượng khơi gợi sự tò mò người xem.
-</p>
+  Thay vì nhìn ngang và bấm chụp. Hãy thử hướng ống kính máy ảnh lên trời hoặc chĩa xuống phía dưới. Cách này có thể tạo ra những sự trừu tượng khơi gợi sự tò mò người xem.
+  </p>
 
 
 Với những **người mới** vào **con đường chinh phục nhiếp ảnh**. Trước tiên, khi không biết sắp xếp bố cục, hãy tuân thủ đầy đủ các quy tắc bố cục ảnh đã được học để không tự mình hủy hoại bức ảnh. Nhưng trong nghệ thuật, sự sáng tạo và phá cách thường được khuyến khích. Việc phá vỡ những quy tắc giúp nhiếp ảnh gia có được **phong cách**, để tạo **dấu ấn**, tạo các tác phẩm kinh điển. [Xem ở đây](https://mythuatms.com/hoc-ve-bo-cuc-pha-cach-trong-nhiep-anh-d1523.html) hoặc [đây](https://binhminhdigital.com/tin/lam-sao-de-pha-bo-bo-cuc-chuan.html).
