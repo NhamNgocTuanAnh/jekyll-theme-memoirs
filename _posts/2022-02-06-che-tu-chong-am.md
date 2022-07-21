@@ -10,7 +10,7 @@ comments: false
 description: Tủ chống ẩm thì có chi phí khá đắt đỏ, còn họp chống ẩm tự chế thì ta phải tháo hạt hút ẩm ra để sấy lại rất tốn thời gian. Vậy có cách nào tốt hơn không? Cùng vào bài viết nhé.
 ---
 
-Hộp chống ẩm tự chế thì khá lích kích phải sấy hạt hút ẩm thường xuyên. Tủ chấm ẩm ưu việt nhưng giá thành lại quá đắt. Ta sẽ phải làm gì? Một hộp chống ẩm tự chế có thể tự động sấy hạt hút ẩm. (◎ ◎)ゞ
+Hộp chống ẩm tự chế thì khá lích kích phải sấy hạt hút ẩm thường xuyên. Tủ chống ẩm ưu việt nhưng giá thành lại quá đắt. Ta sẽ phải làm gì? Một hộp chống ẩm tự chế có thể tự động sấy hạt hút ẩm. (◎ ◎)ゞ
 
 ### Mục lục
 
@@ -45,7 +45,7 @@ Với những bạn không dư dả về tài chính, hay còn gọi là "đỗ 
 * Bước 3: void setup() khai báo các chân đèn sấy, chân quạt
 * Bước 4: Bạn cho hết chúng nó vào vòng lặp vô hạn loop với khoảng thời gian 2s check điều kiện một lần. Nếu độ ấm trên 60% thì bugi sấy và quạt được kích hoạt, không thì nếu nhiệt độ quá cao hoặc độ ẩm quá thấp thì hệ thống sẽ ngưng hoạt động.
 
-<span style="color:red;font-weight:bold">Lưu ý</span>: Tủ chấm ẩm cắm điện khi mất điện lâu có thể gây hại ngược cho chính máy ảnh của bạn. Vì vậy bạn có thể để bugi sấy sấy chính các hạt hút ẩm có sẵn của bạn, từ đố khiến hộp trụ được dài hơi hơn cho tới khi có điện.
+<span style="color:red;font-weight:bold">Lưu ý</span>: Tủ chống ẩm cắm điện khi mất điện lâu có thể gây hại ngược cho chính máy ảnh của bạn. Vì vậy bạn có thể để bugi sấy sấy chính các hạt hút ẩm có sẵn của bạn, từ đố khiến hộp trụ được dài hơi hơn cho tới khi có điện.
 
 <div style="text-align:center">
 
