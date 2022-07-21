@@ -100,24 +100,16 @@ Tuy rằng ta có thể dùng một cái thủ thuật để che đi khuyết đ
     <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-02.png" alt="Khắc phục mặt lệch hiệu quả">
 
   </picture>
+  <br>
+  Quá trình thực hiện phương pháp Mewing
 </p>
-<p style="text-align:center; ">Quá trình thực hiện phương pháp Mewing</p>
 
-Bạn có thể đọc thêm về Mewing. [ở đây](https://www.youtube.com/results?search_query=mewing) hoặc [đây](https://www.youtube.com/watch?v=Lg4h6KvURrg).
+Bạn có thể đọc thêm về Mewing. <a href="https://www.youtube.com/results?search_query=mewing" target="_blank"><span style="color:red;font-weight:bold">ở đây</span></a> hoặc <a href="https://www.youtube.com/watch?v=Lg4h6KvURrg" target="_blank"><span style="color:red;font-weight:bold">đây</span></a>.
+
 
 </li>
 
-      </ul>
-
-<p style="text-align:center; ">
-  <picture>
-
-    <source srcset="../../assets/images/nhiepanh/bocuc/quy-tac-khong-gian-nhiep-anh-9.webp" type="image/webp" class="responsive">
-    <img src="../../assets/images/nhiepanh/bocuc/quy-tac-khong-gian-nhiep-anh-9.png" alt="Hướng ánh sáng" class="responsive">
-
-  </picture>
-</p>
-<p style="text-align:center; ">Bức ảnh 3D cực đẹp khi kết hợp giữa quy tắc không gian và màu sắc, độ sáng</p>
+</ul>
 
 ### Trích nguồn
 
