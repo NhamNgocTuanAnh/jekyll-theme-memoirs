@@ -53,7 +53,7 @@ Với những bạn không dư dả về tài chính, hay còn gọi là "đỗ 
   <button onclick="makeSmall()">Thu nhỏ</button>
   <button onclick="makeNormal()">Bình thường</button>
   <br><br>
-  <video id="video1" width="420" muted playsinline controls>
+  <video id="video1" width="320" muted playsinline controls>
     <source src="../../assets/images/nhiepanh/done-hop-chong-am.mp4" type="video/mp4">
     <source src="../../assets/images/nhiepanh/done-hop-chong-am.webm" type="video/webm">
     Your browser does not support HTML video.
@@ -131,6 +131,10 @@ Vì mạch Arduino UNO R3 rất hạn chế về cổng GND và 5v. Bạn có th
     max-width: 100%;
 
   }
+}
+.video {
+  max-width: 100%;
+  height: auto;
 }
 </style>
 <script>
