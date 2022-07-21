@@ -33,6 +33,10 @@ Chúng ta lại có hứng thú đặc biệt với những thứ có tính đ�
 
 ### 1. Nguyên nhân
 
+Đương nhiên là do cái **máy ảnh** rồi :)). Khi chụp camera trước bị lệch mặt, hoặc thậm chí cả trên camera thực chất không phải là lỗi mà chỉ là một nguyên tắc cơ bản khi chụp ảnh. Thông thường camera trên điện thoại sẽ thu hình đối tượng chụp giống như một người đang đứng đối diện nhìn bạn. Khi đó bên phải của bạn sẽ là bên trái của họ.
+
+Đó là nguyên nhân chủ quan về mặt phần cứng của thiết bị bạn đang sử dụng. Nhưng nếu nguyên nhân chính đến từ bạn thì sao. **Tại sao mặt lại bị lệch nhỉ?**
+
 Trong số những nguyên do gây ra sự không đều của khuôn mặt thì những thói quen chiếm một tỉ lệ khá lớn. Thói quen xấu được lặp đi lặp lại trong thời hạn dài sẽ làm biến hóa cấu trúc mặt và làm cho khuôn mặt không cân đối. Một số hoàn toàn có thể kể đến như :
 
 * Mặt không cân đối do bẩm sinh: Có những người có khuôn mặt kém cân đối từ khi sinh ra. Đó là do di truyền từ những người thân trong gia đình trong mái ấm gia đình nên có bộ khung xương bị lệch. Trường hợp này rất khó để hoàn toàn có thể cải tổ trọn vẹn .
@@ -49,7 +53,20 @@ Trong số những nguyên do gây ra sự không đều của khuôn mặt thì
 
 Để có được những bức ảnh xinh xắn không bị mất cân đối gương mặt, Admin sẽ gợi ý cho bạn tips nho nhỏ để chụp ảnh cho người mặt lệch.
 
-Đó là dùng tay che bên phần mặt mà bạn cảm thấy bị lệch. Đây là một trong những cách chụp cam thường không bị méo mặt. Cách này giúp che đi những khuyết điểm trên khuôn mặt bạn, đồng thời gương mặt khi lên hình cũng nhỏ hơn.
+Điều đầu tiên là chỉnh sửa trên chính phần mềm chụp ảnh của bạn.Trên điện thoại iPhone iOS 14, người dùng có thể sử dụng tính năng chụp ảnh bằng camera không bị lệch mặt, không bị ngược ảnh.
+
+  <p style="text-align:center; ">
+    <picture>
+
+      <source type="image/webp" srcset="../../assets/images/nhiepanh/doituong/tai-sao-chup-anh-camera-sau-mat-bi-lech-4.webp">
+      <source type="image/jpeg" srcset="../../assets/images/nhiepanh/doituong/tai-sao-chup-anh-camera-sau-mat-bi-lech-4.jpg">
+      <img src="../../assets/images/nhiepanh/doituong/tai-sao-chup-anh-camera-sau-mat-bi-lech-4.jpg" alt="Hướng ánh sáng" >
+
+    </picture><br>
+    Bạn có thể kích hoạt tính năng này trong phần Cài đặt của điện thoại iPhone như sau: Mở mục Cài đặt trên điện thoại iPhone >> chọn mục Camera >> chọn mục Đối xứng camera trước
+  </p>
+
+Dùng tay che bên phần mặt mà bạn cảm thấy bị lệch. Đây là một trong những cách chụp cam thường không bị méo mặt. Cách này giúp che đi những khuyết điểm trên khuôn mặt bạn, đồng thời gương mặt khi lên hình cũng nhỏ hơn.
 
   <p style="text-align:center; ">
     <picture>
