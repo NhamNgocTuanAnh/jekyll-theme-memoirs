@@ -158,13 +158,15 @@ Ngày nay trên máy ảnh hay điện thoại đều có các lưới kẻ, chi
 
 <p style="text-align:center; ">
   <picture>
-
-    <source srcset="../../assets/images/nhiepanh/bocuc/quy-tac-khong-gian-nhiep-anh-9.webp" type="image/webp" >
-    <img src="../../assets/images/nhiepanh/bocuc/quy-tac-khong-gian-nhiep-anh-9.png" alt="Hướng ánh sáng" >
-
+    <source srcset="../../assets/images/nhiepanh/bocuc/lamsaophabobocucchuan4.webp" type="image/webp" >
+        <source type="image/jpeg" srcset="../../assets/images/nhiepanh/bocuc/lamsaophabobocucchuan4.jpg">
+    <img src="../../assets/images/nhiepanh/bocuc/lamsaophabobocucchuan4.jpg" alt="Phá vỡ bố cục" >
   </picture>
   <br>
-Bức ảnh 3D cực đẹp khi kết hợp giữa quy tắc không gian và màu sắc, độ sáng
+<b>Phá vỡ bố cục - Thay đổi góc chụp</b>
+<br>
+
+Thay vì nhìn ngang và bấm chụp. Hãy thử hướng ống kính máy ảnh lên trời hoặc chĩa xuống phía dưới. Cách này có thể tạo ra những sự trừu tượng khơi gợi sự tò mò người xem.
 </p>
 
 Với những **người mới** vào **con đường chinh phục nhiếp ảnh**. Trước tiên, khi không biết sắp xếp bố cục, hãy tuân thủ đầy đủ các quy tắc bố cục ảnh đã được học để không tự mình hủy hoại bức ảnh. Nhưng trong nghệ thuật, sự sáng tạo và phá cách thường được khuyến khích. Việc phá vỡ những quy tắc giúp nhiếp ảnh gia có được **phong cách**, để tạo **dấu ấn**, tạo các tác phẩm kinh điển. [Xem ở đây](https://mythuatms.com/hoc-ve-bo-cuc-pha-cach-trong-nhiep-anh-d1523.html) hoặc [đây](https://binhminhdigital.com/tin/lam-sao-de-pha-bo-bo-cuc-chuan.html).
