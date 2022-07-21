@@ -63,7 +63,7 @@ Với những bạn không dư dả về tài chính, hay còn gọi là "đỗ 
 </div>
 
 
-<p style="text-align:center; "><a href="https://anhhangxom.xyz/" target="_blank"><span style="color:red;font-weight:bold">anhhangxom.xyz</span></a> chúc bạn thành công <br>☆ヾ(*´・∀・)ﾉヾ(・∀・`*)ﾉ☆</p>
+<p style="text-align:center; "><a href="https://anhhangxom.xyz/" target="_blank"><span style="color:red;font-weight:bold">anhhangxom.xyz</span></a> chúc bạn thành công!!! <br>☆ヾ(*´・∀・)ﾉヾ(・∀・`*)ﾉ☆</p>
 
 ### Trích nguồn
 
