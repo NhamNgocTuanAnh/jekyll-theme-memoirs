@@ -73,4 +73,4 @@ Chứng minh rằng  $$T_2$$ là một ánh xạ tuyến tính.
 
 Vậy $$T_2$$ là một ánh xạ tuyến tính.
 
-
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
