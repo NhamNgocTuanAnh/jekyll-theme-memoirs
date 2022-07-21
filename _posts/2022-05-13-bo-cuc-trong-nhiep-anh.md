@@ -32,52 +32,21 @@ Lưu ý: Nếu bạn có 2 đường thẳng hội tụ trong một khung hình,
 * **Đường thẳng đứng:** Ví dụ đơn giản nhất là bố cụ trung tâm
   Đây là bố cục đa phần những ai mới bắt đầu chụp ảnh cũng sẽ sử dụng. Bạn chỉ cần đặt đối tượng vào chính giữa khung hình và bấm chụp là bạn đã có được 1 tấm hình với bố cục trung tâm rồi đấy.Ưu điểm của bố cục này là bạn sẽ tập trung sự chú ý của người xem vào chủ thể chính, loại bỏ được sự chú ý vào những yếu tố không cần thiết. Tuy nhiên, để chụp được bức hình đẹp với bố cục này không dễ, vì bạn sẽ không biết di chuyển tầm mắt đến đâu khi chụp, cũng như người xem sẽ bị rối vì không biết nhìn ở đâu tiếp theo.
 
-<p style="text-align:center; ">
-  <picture>
+  <p style="text-align:center; ">
+    <picture>
 
-    <source srcset="../../assets/images/nhiepanh/bocuc/doi-xung-do-hoa-hue.webp" type="image/webp" >
-        <source type="image/jpeg" srcset="../../assets/images/nhiepanh/bocuc/doi-xung-do-hoa-hue.jpg">
-    <img src="../../assets/images/nhiepanh/bocuc/doi-xung-do-hoa-hue.jpg" alt="Ảnh ProtoShield mini" >
+      <source srcset="../../assets/images/nhiepanh/bocuc/doi-xung-do-hoa-hue.webp" type="image/webp" >
+          <source type="image/jpeg" srcset="../../assets/images/nhiepanh/bocuc/doi-xung-do-hoa-hue.jpg">
+      <img src="../../assets/images/nhiepanh/bocuc/doi-xung-do-hoa-hue.jpg" alt="Ảnh ProtoShield mini" >
 
-  </picture>
-  <br>
-<p>
+    </picture>
+    <br>
+  <p>
 
-<!--
-<div class="row">
-  <div class="column">
-  <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-05.jpg" alt="Hướng ánh sáng" >
-   <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-04.jpg" alt="Hướng ánh sáng" >
-  </div>
-
-    <div class="column">
-
-  <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-02.jpg" alt="Hướng ánh sáng" >
-   <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-03.jpg" alt="Hướng ánh sáng" >
-  </div>
-
-      <div class="column">
-
-  <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-10.jpg" alt="Hướng ánh sáng" >
-  <img src="../../assets/images/nhiepanh/anhsang/Bo-cuc-vang-trong-nhiep-anh-13.jpg" alt="Hướng ánh sáng" >
-
-  </div>
-
-      <div class="column">
-
-  <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-06.jpg" alt="Hướng ánh sáng" >
-  <img src="../../assets/images/nhiepanh/bocuc/doi-xung-do-hoa-hue.webp" alt="Hướng ánh sáng" >
-
-    <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-09.jpg" alt="Hướng ánh sáng" >
-
-  </div>
-
-</div>
--->
 * **Đường chéo:**
   <img src="../../assets/images/nhiepanh/anhsang/3582398_untitled-shoot-4643-Edit.webp" alt="Hướng ánh sáng" class="responsive">
 
-[Tại sao chúng ta lại có hứng thú đặc biệt với những thứ có tính đối xứng? - vnreview.vn](https://vnreview.vn/thread-old/tai-sao-chung-ta-lai-co-hung-thu-dac-biet-voi-nhung-thu-co-tinh-doi-xung.2918021).
+  [Tại sao chúng ta lại có hứng thú đặc biệt với những thứ có tính đối xứng? - vnreview.vn](https://vnreview.vn/thread-old/tai-sao-chung-ta-lai-co-hung-thu-dac-biet-voi-nhung-thu-co-tinh-doi-xung.2918021).
 
 <a name="huongsang"></a>
 
@@ -172,6 +141,39 @@ Với những **người mới** vào **con đường chinh phục nhiếp ảnh
   -inhminhdigital.com](https://binhminhdigital.com/tin/5-bo-cuc-pho-bien-trong-chup-anh-chan-dung-ban-nen-biet.html).
 * [30 mẹo hay về bố cục để có bức ảnh đẹp - duytom.com](https://duytom.com/tin-tuc/759-30-kieu-bo-cuc-kinh-dien-de-co-buc-anh-dep).
 * [10 Kỹ thuật bố cục sẽ cải thiện ảnh của bạn - webnhiepanh.com](https://webnhiepanh.com/10-ky-thuat-bo-cuc-se-cai-thien-anh-cua-ban-5355).
+
+
+<!--
+<div class="row">
+  <div class="column">
+  <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-05.jpg" alt="Hướng ánh sáng" >
+   <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-04.jpg" alt="Hướng ánh sáng" >
+  </div>
+
+    <div class="column">
+
+  <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-02.jpg" alt="Hướng ánh sáng" >
+   <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-03.jpg" alt="Hướng ánh sáng" >
+  </div>
+
+      <div class="column">
+
+  <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-10.jpg" alt="Hướng ánh sáng" >
+  <img src="../../assets/images/nhiepanh/anhsang/Bo-cuc-vang-trong-nhiep-anh-13.jpg" alt="Hướng ánh sáng" >
+
+  </div>
+
+      <div class="column">
+
+  <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-06.jpg" alt="Hướng ánh sáng" >
+  <img src="../../assets/images/nhiepanh/bocuc/doi-xung-do-hoa-hue.webp" alt="Hướng ánh sáng" >
+
+    <img src="../../assets/images/nhiepanh/bocuc/bo-cuc-trung-tam-09.jpg" alt="Hướng ánh sáng" >
+
+  </div>
+
+</div>
+-->
 
 <style>
 .box {
