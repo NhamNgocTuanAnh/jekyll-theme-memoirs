@@ -39,12 +39,12 @@ Chúng ta lại có hứng thú đặc biệt với những thứ có tính đ�
 
 Trong số những nguyên do gây ra sự không đều của khuôn mặt thì những thói quen chiếm một tỉ lệ khá lớn. Thói quen xấu được lặp đi lặp lại trong thời hạn dài sẽ làm biến hóa cấu trúc mặt và làm cho khuôn mặt không cân đối. Một số hoàn toàn có thể kể đến như :
 
-* Mặt không cân đối do bẩm sinh: Có những người có khuôn mặt kém cân đối từ khi sinh ra. Đó là do di truyền từ những người thân trong gia đình trong mái ấm gia đình nên có bộ khung xương bị lệch. Trường hợp này rất khó để hoàn toàn có thể cải tổ trọn vẹn .
-* Nằm nghiêng một bên bị lệch mặt: Nằm nghiêng bị lệch mặt là thực trạng rất thông dụng lúc bấy giờ. Kiểu nằm này khiến cho bên mặt áp xuống gối nhiều nhỏ hơn so với bên mặt còn lại, làm cho mặt bên to bên nhỏ.
+* Mặt không cân đối do bẩm sinh: Có những người có khuôn mặt kém cân đối từ khi sinh ra. Đó là do di truyền từ những người thân trong gia đình. Trường hợp này rất khó để hoàn toàn có thể cải tổ trọn vẹn vì khung xương bị lệch.
+* Nằm nghiêng một bên bị lệch mặt: Kiểu nằm này khiến cho bên mặt áp xuống gối nhiều nhỏ hơn so với bên mặt còn lại, làm cho mặt bên to bên nhỏ. Nằm nghiêng bị lệch mặt là thực trạng rất thông dụng lúc bấy giờ.
   <p style="text-align:center; "><img src="../../assets/images/nhiepanh/doituong/nguyennhan-matlech-01.jpg" alt="Hướng ánh sáng" class="responsive"></p>
 
-* Nhai bằng một bên hàm: Nguyên nhân làm khuôn mặt mất cân đốiTrong thời hạn dài sẽ tạo thành thói quen khiến người nhai tự động hóa chuyển thức ăn về bên đó. Lâu dần khuôn mặt sẽ trở nên rơi lệch, thậm chí còn lệch hẳn về bên hàm nhai .
-* Ngoài ra lệch mặt còn do Do Các vấn đề về răng hoặc các bệnh lý gây nên. Ngoài ra, răng cũng là một trong những nguyên do đáng quan tâm gây ra sự không bình thường cho khuôn mặt. Những người có hàm tăng trưởng không đúng cấu trúc, hay còn gọi là hàm răng bị lệch sẽ làm lệch khớp cắn và mất cân đối hàng loạt khuôn mặt. Tùy theo từng kiểu lệch của hàm mà mặt sẽ bị tác động ảnh hưởng theo. Có những kiểu lệch hàm như lệch trái, lệch phải, hàm nhô ra phía trước hay thụt quá sâu vào trong .
+* Nhai bằng một bên hàm: Khuôn mặt sẽ trở nên rơi lệch, thậm chí còn lệch hẳn về bên hàm nhai với thời hạn dài sẽ tạo thành thói quen khiến người nhai tự động hóa chuyển thức ăn về bên đó.
+* Ngoài ra lệch mặt còn do các vấn đề về răng hoặc các bệnh lý gây nên. Răng là một trong những nguyên do đáng quan tâm gây ra sự không bình thường cho khuôn mặt. Những người có hàm tăng trưởng không đúng cấu trúc, hay còn gọi là hàm răng bị lệch sẽ làm lệch khớp cắn và mất cân đối hàng loạt khuôn mặt. Tùy theo từng kiểu lệch của hàm mà mặt sẽ bị tác động ảnh hưởng theo. Có những kiểu lệch hàm như lệch trái, lệch phải, hàm nhô ra phía trước hay thụt quá sâu vào trong .
   Những người cao tuổi hay những người mắc các bệnh lý về huyết áp, tim mạch, tiểu đường rất dễ bị các biến chứng gây liệt cơ mặt. Tình trạng này thường khiến cho bệnh nhân bị mặt méo, cứng miệng, hay không mở được mắt.
 
 <a name="tipchup"></a>
@@ -98,33 +98,38 @@ Tuy rằng ta có thể dùng một cái thủ thuật để che đi khuyết đ
 
  <ul>
 
-         <li>Massage mặt: Massage mặt là một trong những cách đơn thuần và không hề tốn kém để cải tổ thực trạng này. Hiện nay trên mạng có rất nhiều bài tập giúp cải tổ cơ mặt đồng thời thư giãn giải trí da.
+         <li>Massage mặt là một trong những cách đơn thuần và không hề tốn kém để cải tổ thực trạng này. Hiện nay trên mạng có rất nhiều bài tập giúp cải tổ cơ mặt đồng thời thư giãn giải trí da.
           <ul>
             <li>Dùng tay massage đều đặn, nhẹ nhàng khuôn mặt theo chiều từ dưới cằm đưa lên, và từ trong ra ngoài;  </li>
             <li>Ở vùng trán và ngang cằm, bạn hãy sử dụng một lực vừa đủ để massage theo đường vòng tròn cùng chiều kim đồng hồ, tạo cảm giác dễ chịu, thoải mái.</li>
           </ul>
-          Tuy nhiên giải pháp này chỉ tác động ảnh hưởng từ bên ngoài nên không thật sự mang lại hiệu suất cao như mong ước. Bạn nên áp dụng phương pháp này thường xuyên đều đặn vào mỗi ngày để nâng cao hiệu quả. Có thể sử dụng cách này khi rửa mặt để cơ mặt được thư giãn tốt nhất, đồng thời giúp sữa rửa mặt thấm sâu vào da, lấy đi các bụi bẩn một cách tốt hơn.
+          Bạn nên áp dụng phương pháp này thường xuyên đều đặn vào mỗi ngày để nâng cao hiệu quả. Có thể sử dụng cách này khi rửa mặt để cơ mặt được thư giãn tốt nhất, đồng thời giúp sữa rửa mặt thấm sâu vào da, lấy đi các bụi bẩn một cách tốt hơn.
          </li>
          <li>Cải thiện các thói quen xấu: Tình trạng mặt bị lệch sẽ càng trở nên tồi tệ hơn nếu những thói quen này liên tục được duy trì. Hãy rèn luyện cho mình cách nằm ngửa hay nhai bằng cả hai bên hàm điều này giúp khuôn mặt từ từ lấy lại sự cân đối bắt đầu.</li>
-         <li>Niềng răng: Đây cũng là cách Admin thực hiện, nhưng trong khuôn khổ bài viết, ta sẽ không bàn thêm.</li>
+
+</ul>
+
+<span style="color:red;font-weight:bold">Lưu ý</span>: Các giải pháp trên chỉ tác động ảnh hưởng từ bên ngoài nên không thật sự mang lại hiệu suất cao như mong ước. Một số giải pháp dưới đây Admmin vẫn đang thực hiện. Nặng đô hơn và hiệu quả hơn.
+<ul>
          <li>Mewing: Mewing là phương pháp luyện tập cách đặt lưỡi đúng vị trí nhằm giúp thon mặt, nâng cao sống mũi và xương hàm, giúp cải thiện gương mặt theo hướng tích cực hơn. Phương pháp này được nghiên cứu bởi bác sĩ John Mew và được phổ biến rộng rãi bởi con trai của ông là bác sĩ chỉnh nha Mike Mew.
+         <li>Niềng răng: Đây cũng là cách Admin thực hiện, nhưng trong khuôn khổ bài viết, ta sẽ không bàn thêm.</li>
 
-<p style="text-align:center; ">
-  <picture>
+        <p style="text-align:center; ">
+          <picture>
 
-    <source srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-02.webp" type="image/webp" >
-    <source type="image/png" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-02.png">
-    <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-02.png" alt="Khắc phục mặt lệch hiệu quả">
+            <source srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-02.webp" type="image/webp" >
+            <source type="image/png" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-02.png">
+            <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-02.png" alt="Khắc phục mặt lệch hiệu quả">
 
-  </picture>
-  <br>
-  Quá trình thực hiện phương pháp Mewing
-</p>
+          </picture>
+          <br>
+          Quá trình thực hiện phương pháp Mewing
+        </p>
 
-Bạn có thể đọc thêm về Mewing. <a href="https://www.youtube.com/results?search_query=mewing" target="_blank"><span style="color:red;font-weight:bold">ở đây</span></a> hoặc <a href="https://www.youtube.com/watch?v=Lg4h6KvURrg" target="_blank"><span style="color:red;font-weight:bold">đây</span></a>.
+        Bạn có thể đọc thêm về Mewing. <a href="https://www.youtube.com/results?search_query=mewing" target="_blank"><span style="color:red;font-weight:bold">ở đây</span></a> hoặc <a href="https://www.youtube.com/watch?v=Lg4h6KvURrg" target="_blank"><span style="color:red;font-weight:bold">đây</span></a>.
 
 
-</li>
+        </li>
 
 </ul>
 
