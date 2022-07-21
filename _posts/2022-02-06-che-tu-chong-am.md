@@ -78,7 +78,7 @@ Vì mạch Arduino UNO R3 rất hạn chế về cổng GND và 5v. Bạn có th
   <picture>
     <source srcset="../../assets/images/nhiepanh/board-mo-rong-arduino-uno.webp" type="image/webp" >
         <source type="image/jpeg" srcset="../../assets/images/nhiepanh/board-mo-rong-arduino-uno.jpg">
-    <img src="../../assets/images/nhiepanh/board-mo-rong-arduino-uno.jpg" alt="Hướng ánh sáng" >
+    <img src="../../assets/images/nhiepanh/board-mo-rong-arduino-uno.jpg" alt="Ảnh ProtoShield mini" >
   </picture>
 </p>
 <p style="text-align:center;">Ảnh ProtoShield mini</p>
