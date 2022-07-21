@@ -134,7 +134,7 @@ Vì mạch Arduino UNO R3 rất hạn chế về cổng GND và 5v. Bạn có th
 
   }
 }
-.video {
+video {
   max-width: 100%;
   height: auto;
 }
