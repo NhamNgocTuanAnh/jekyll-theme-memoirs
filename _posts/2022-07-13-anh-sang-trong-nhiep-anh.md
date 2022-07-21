@@ -91,17 +91,29 @@ Trong thực tế, người chụp kết hợp sử dụng cả hai loại ngu�
 
 ### 3. Màu sắc của ánh sáng
 
-<div class="row">
-  <div class="col-5">
-  <img src="../../assets/images/nhiepanh/anhsang/NumbersNewtonLight.jpg" alt="Newton khám phá ánh sáng" class="responsive">
-  Năm 1666, Isaac Newton (1642-1727 ) nhà vật lý vĩ đại người Anh đã bị hấp dẫn khi ông quan sát hiện tượng các tia mặt trời chiếu xuyền qua một lăng kính. </div>
-  <div class="col-7">Ánh sáng và màu sắc không chỉ vẽ lên hình khối trong ảnh mà còn tạo ra hình tượng và nội dung bức ảnh, trong đó màu sắc được tạo ra từ ánh sáng và chịu tác động mạnh mẽ từ nguồn sáng.
+  <!-- 2 columns offset -->
+  <div class="container">
+    <div class="row">
 
-Độ lạnh hay ấm (ngả vàng hay ngả xanh)của ánh sáng được đo theo thang Kelvin(<b>K</b>)
-<img src="../../assets/images/nhiepanh/anhsang/bang-mau-anh-sang.jpg" alt="Biểu đồ nhiệt độ màu" class="responsive">
+      <div class="col-xs-12 col-sm-3">
+        <div class="box">
+        <img src="../../assets/images/nhiepanh/anhsang/NumbersNewtonLight.jpg" alt="Newton khám phá ánh sáng" class="responsive">
+          Năm 1666, Isaac Newton (1642-1727 ) nhà vật lý vĩ đại người Anh đã bị hấp dẫn khi ông quan sát hiện tượng các tia mặt trời chiếu xuyền qua một lăng kính.
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-9">
+        <div class="box">
+      Ánh sáng và màu sắc không chỉ vẽ lên hình khối trong ảnh mà còn tạo ra hình tượng và nội dung bức ảnh, trong đó màu sắc được tạo ra từ ánh sáng và chịu tác động mạnh mẽ từ nguồn sáng.
 
-</div>
-</div>
+      Độ lạnh hay ấm (ngả vàng hay ngả xanh)của ánh sáng được đo theo thang Kelvin(<b>K</b>)
+      <img src="../../assets/images/nhiepanh/anhsang/bang-mau-anh-sang.jpg" alt="Biểu đồ nhiệt độ màu" class="responsive">
+
+        </div>
+      </div>
+
+    </div>
+  </div>
+
 
 Mặc dù máy ảnh giờ đây đã **cân bằng trắng(auto white balance)** khá tốt, nhưng dù sao vẫn chỉ là cái máy. Việc biết được nhiệt độ màu trong nhiếp ảnh vô cùng quan trọng khi ta có thể áp dụng vào ý đồ nghệ thuật hoặc đơn giản tránh những trường hợp không ý muốn.
 
