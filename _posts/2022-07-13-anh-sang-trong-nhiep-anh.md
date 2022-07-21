@@ -118,7 +118,7 @@ Trong thực tế, người chụp kết hợp sử dụng cả hai loại ngu�
 Mặc dù máy ảnh giờ đây đã **cân bằng trắng(auto white balance)** khá tốt, nhưng dù sao vẫn chỉ là cái máy. Việc biết được nhiệt độ màu trong nhiếp ảnh vô cùng quan trọng khi ta có thể áp dụng vào ý đồ nghệ thuật hoặc đơn giản tránh những trường hợp không ý muốn.
 
 <p style="text-align:center;"><img src="../../assets/images/nhiepanh/anhsang/White-Balance-Menu-v01.jpg" alt="Ảnh White balance của máy ảnh" class="responsive"></p>
-Ví dụ:Khi chụp với ánh sáng trong nhà, nhiệt độ màu của bóng đèn trong phòng sẽ ảnh hưởng cực kỳ lớn trong nhiếp ảnh chân dung khi tác động trực tiếp vào da của người mẫu. Ánh sáng bình thường của bóng đèn trắng là 5500K, nếu vượt quá thì ánh sáng sẽ ngả sang màu xanh và nếu nhỏ hơn 4800K thì ánh sáng sẽ ngả vàng.
+Ví dụ: Khi chụp với ánh sáng trong nhà, nhiệt độ màu của bóng đèn trong phòng sẽ ảnh hưởng cực kỳ lớn trong nhiếp ảnh chân dung khi tác động trực tiếp vào da của người mẫu. Ánh sáng bình thường của bóng đèn trắng là 5500K, nếu vượt quá thì ánh sáng sẽ ngả sang màu xanh và nếu nhỏ hơn 4800K thì ánh sáng sẽ ngả vàng.
     <img src="../../assets/images/nhiepanh/anhsang/Colour-Temperature-Example-v01.jpg" alt="Ảnh so sánh chân dung giữa nhiệt độ màu khác nhau" class="responsive">
 
 Tham khảo bảng nhiệt độ màu với một số nguồn sáng thường gặp khác nhau:
