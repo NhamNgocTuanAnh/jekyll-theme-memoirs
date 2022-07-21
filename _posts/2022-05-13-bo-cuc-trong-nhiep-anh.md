@@ -140,6 +140,7 @@ Ngày nay trên máy ảnh hay điện thoại đều có các lưới kẻ, chi
   </div>
 </div>
 
+
 ### Bạn dễ dàng kết hợp với quy tắc không gian nhiếp ảnh và tạo chiều sâu khung hình với mọt vài mẹo nhỏ:
 
 * Đối tượng càng đứng xa càng nhỏ, nó dễ dàng bị hòa vào background
@@ -147,6 +148,7 @@ Ngày nay trên máy ảnh hay điện thoại đều có các lưới kẻ, chi
 * Khi có sự tương phản giữa sáng và tối thì cảm quan về chiều sâu được bộc lộ
 * Các đối tượng được đặt trên cao tạo cảm giác về khoảng cách và chiều sâu
 * Màu sắc ấm tiến lại gần còn màu nhạt và lạnh sẽ thu về phía xa.
+
 
 <p style="text-align:center; ">
   <picture>
