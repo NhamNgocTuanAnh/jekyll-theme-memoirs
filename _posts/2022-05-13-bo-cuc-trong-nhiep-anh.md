@@ -40,15 +40,14 @@ Lưu ý: Nếu bạn có 2 đường thẳng hội tụ trong một khung hình,
       <img src="../../assets/images/nhiepanh/bocuc/doi-xung-do-hoa-hue.jpg" alt="Ảnh ProtoShield mini" >
 
     </picture>
-    <br>
   <p>
+
   Ưu điểm của bố cục này là bạn sẽ tập trung sự chú ý của người xem vào chủ thể chính, loại bỏ được sự chú ý vào những yếu tố không cần thiết. Tuy nhiên, để chụp được bức hình đẹp với bố cục này không dễ, vì bạn sẽ không biết di chuyển tầm mắt đến đâu khi chụp, cũng như người xem sẽ bị rối vì không biết nhìn ở đâu tiếp theo.
+  [Tại sao chúng ta lại có hứng thú đặc biệt với những thứ có tính đối xứng? - vnreview.vn](https://vnreview.vn/thread-old/tai-sao-chung-ta-lai-co-hung-thu-dac-biet-voi-nhung-thu-co-tinh-doi-xung.2918021).
 
 * **Đường chéo:**
   <a name="doixung"></a>
   <img src="../../assets/images/nhiepanh/anhsang/3582398_untitled-shoot-4643-Edit.webp" alt="Hướng ánh sáng" class="responsive">
-
-  [Tại sao chúng ta lại có hứng thú đặc biệt với những thứ có tính đối xứng? - vnreview.vn](https://vnreview.vn/thread-old/tai-sao-chung-ta-lai-co-hung-thu-dac-biet-voi-nhung-thu-co-tinh-doi-xung.2918021).
 
 <a name="huongsang"></a>
 
