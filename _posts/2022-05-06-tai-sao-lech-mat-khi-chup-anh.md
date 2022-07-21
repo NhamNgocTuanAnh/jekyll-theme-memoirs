@@ -33,6 +33,18 @@ Chúng ta lại có hứng thú đặc biệt với những thứ có [tính đ�
 
 ### 1. Nguyên nhân
 
+  <p style="text-align:center; ">
+    <picture>
+
+      <source type="image/webp" srcset="../../assets/images/nhiepanh/doituong/anh-selfie-bi-nguoc-trang.webp">
+      <source type="image/jpeg" srcset="../../assets/images/nhiepanh/doituong/anh-selfie-bi-nguoc-trang.jpg">
+      <img src="../../assets/images/nhiepanh/doituong/anh-selfie-bi-nguoc-trang.jpg" alt="Ảnh selfie bị ngược" >
+
+    </picture><br>
+    Nhiều người thắc mắc tại sao trên iPhone chụp ảnh selfie bị ngược?
+  </p>
+
+
 Đương nhiên là do cái **máy ảnh** rồi :)). Khi chụp camera trước bị lệch mặt, hoặc thậm chí cả trên camera thực chất không phải là lỗi mà chỉ là một nguyên tắc cơ bản khi chụp ảnh. Thông thường camera trên điện thoại sẽ thu hình đối tượng chụp giống như một người đang đứng đối diện nhìn bạn. Khi đó bên phải của bạn sẽ là bên trái của họ.
 
 Đó là nguyên nhân chủ quan về mặt phần cứng của thiết bị bạn đang sử dụng. Nhưng nếu nguyên nhân chính đến từ bạn thì sao. **Tại sao mặt lại bị lệch nhỉ?**
