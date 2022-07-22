@@ -41,7 +41,7 @@ Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị
 
 Nikon xử lý Dynamic Range quá mạnh nhưng dàn đều, điều này gây ra việc chụp mặt người trong cùng 1 điều kiện sẽ có cảm giác "bẹt" hơn. Ngoài ra màu da cam hơi sạm (mình test thì đa phần đến từ ống kính), do đó nếu chỉ chụp JPEG thì sẽ có lúc màu da và mặt lên khá khó chịu.
 Tuy nhiên các vấn đề này đều cân bằng khá dễ dàng trong photoshop, nó chỉ xảy ra khi bạn cần chụp nhiều và sử dụng luôn ảnh, hoặc chỉnh qua loa số lượng lớn để đưa khách.
-Bù lại cũng chính cái này khiến Nikon thu được khá nhiều chi tiết phân vùng tối mà khi chụp Canon khó có được (thường là so sánh ảnh RAW).
+Bù lại cũng chính cái này khiến Nikon thu được khá nhiều chi tiết phân vùng tối mà khi chụp Canon khó có được (thường là so sánh ảnh RAW).//
 P/s: Trong các trường hợp chụp người với dải sáng chênh lệch cao, Nikon sẽ cho kết quả tốt hơn Canon.
 
 Ngược lại, Canon thiết lập Dynamic Range yếu hơn nên tạo tương phản tại mặt tốt hơn nếu chụp trong ánh sáng dịu (thường là chân dung tiêu chuẩn). Màu sắc da hồng chỉ là 1 phần, thực tế chế độ potrait của Canon nhiều khi cho màu da không chính xác. Canon cũng không phải hãng cho màu da người/chụp chân dung đẹp nhất.
@@ -55,10 +55,11 @@ So sánh d600 vớ 7d có vẻ hơi khập khiễng nhỉ. Không sao.  Ta có t
     <img src="https://4.img-dpreview.com/files/p/TS560x560~forums/59202730/9c4a8d35bc6a4a17a2bd19085710c25b"><br>
     Re: 5D Mark iv Dynamic Range vs Nikon: Canon EOS-1D / 5D / 6D Talk Forum: Digital Photography Review<br>
     <img src="https://i.ytimg.com/vi/lIKcfKhE-ew/maxresdefault.jpg"><br>
-    Nikon D800 v Canon 5D Mark III video test: high ISO, moiré, rolling shutter & dynamic range<br>
+    Nikon D800 v Canon 5D Mark III video test: high ISO, moiré, rolling shutter & dynamic range
   <p>
 
-Màn đấu giữa canon và nikon vẫn luôn luôn diễn ra.
+
+> Màn đấu giữa canon và nikon vẫn luôn luôn diễn ra.
 
 <a name="tipchupwb"></a>
 
@@ -74,10 +75,10 @@ Bản thân màu sắc bức ảnh có tươi tắn hay không phụ thuộc ph�
       <img src="../../assets/images/nhiepanh/anhsang/chup-vang-da-nikon-vang.jpg" alt="Hướng ánh sáng" >
 
     </picture><br>
-Ảnh chụp bởi  D300 + tamron 17-50 f2.8
+    Ảnh chụp bởi  D300 + tamron 17-50 f2.8
   </p>
 
-Nếu bạn chụp không dùng flash :Bác chuyển qua live view rồi chỉnh wb theo độ K đến khi nhìn trên màn hình ưng ý là đc. Con tamron này chụp thiếu sáng hơi ám vàng.
+Nếu bạn chụp không dùng flash: Bác chuyển qua live view rồi chỉnh wb theo độ K đến khi nhìn trên màn hình ưng ý là đc. Con tamron này chụp thiếu sáng hơi ám vàng.
 Nếu dùng flash, bạn nên lưu ý về nhiệt độ màu. Thường thỳ chỉnh độ K nếu có đèn flash là 5000k -5200k, còn k có thì dưới mức 4000k có thể là 3520k-3850k, à nhớ tùy chỉnh iso và khép hay mở khẩu nhe
 
 <span style="color:red;font-weight:bold">Lưu ý</span>: ám vàng thì tỉnh WB giảm lại xíu. 5000k là lý thuyết. thực tế bác chỉnh cho đúng màu. k có độ k chuẩn đâu bác. VD chụp trong đèn sợi tóc thì bác giảm xuống vì màu vàng, đèn huỳnh quang thì ngược lại
