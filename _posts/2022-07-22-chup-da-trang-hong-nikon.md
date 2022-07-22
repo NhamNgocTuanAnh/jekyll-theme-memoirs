@@ -15,8 +15,10 @@ Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị
 ### Mục lục
 
 [1. Nguyên nhân](#nguyennhan)\\
-[2. Tips chụp ảnh với cân bằng trắng WB để làm chủ tông màu](#tipchupwb)\\
-[3. Tips chỉnh sửa ảnh với file Raw hậu kỳ](#tipchupraw)
+[2. Thêm Picture Control là xong (ʘ ͜ʖ ʘ)](#tipchuppicturedtyle)\\
+[3. Tips chụp ảnh với đủ sáng](#tipchupdusang)\\
+[4. Tips chụp ảnh với cân bằng trắng WB để làm chủ tông màu](#tipchupwb)\\
+[5. Tips chỉnh sửa ảnh với file Raw hậu kỳ](#tipchupraw)
 
   <p style="text-align:center; ">
     <picture>
