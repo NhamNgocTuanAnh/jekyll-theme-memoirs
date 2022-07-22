@@ -50,6 +50,15 @@ Còn Dynamic Range yếu có hại trong chụp cảnh thì cũng không hẳn �
 
 Trích nguồn [Đúng hay sai "Chụp người chọn Canon chụp cảnh chọn Nikon" ?](https://tinhte.vn/thread/dung-hay-sai-chup-nguoi-chon-canon-chup-canh-chon-nikon.2421576/page-2)
 
+So sánh d600 vớ 7d có vẻ hơi khập khiễng nhỉ. Không sao. Màn đấu giữa canon và nikon vẫn luôn luôn diễn ra. Ta có thể tham khảo các cuộc chiến công bằng hơn như:
+
+<p style="text-align:center; ">
+<img src="https://4.img-dpreview.com/files/p/TS560x560~forums/59202730/9c4a8d35bc6a4a17a2bd19085710c25b"><br>
+Re: 5D Mark iv Dynamic Range vs Nikon: Canon EOS-1D / 5D / 6D Talk Forum: Digital Photography Review<br>
+<img src="https://i.ytimg.com/vi/lIKcfKhE-ew/maxresdefault.jpg"><br>
+Nikon D800 v Canon 5D Mark III video test: high ISO, moiré, rolling shutter & dynamic range
+<p>
+
 <a name="tipchupwb"></a>
 
 ### 2. Tips chụp ảnh voi cân bằng trắng WB để làm chủ tông màu
