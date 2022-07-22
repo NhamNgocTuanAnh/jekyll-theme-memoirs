@@ -24,7 +24,7 @@ Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị
       <source type="image/jpeg" srcset="../../assets/images/nhiepanh/anhsang/chup-nguoi-chon-canon-chup-canh-chon-nikon.jpg">
       <img src="../../assets/images/nhiepanh/anhsang/chup-nguoi-chon-canon-chup-canh-chon-nikon.jpg" alt="Chụp người chọn Canon chụp cảnh chọn Nikon?">
     </picture><br><a name="anhchude"></a>
-    Đúng hay sai "Chụp người chọn Canon chụp cảnh chọn Nikon" ?
+    Chụp người chọn Canon chụp cảnh chọn Nikon?
   </p>
 
 <a name="nguongoc"></a>
@@ -52,12 +52,12 @@ Trích nguồn [Đúng hay sai "Chụp người chọn Canon chụp cảnh chọ
 
 So sánh d600 vớ 7d có vẻ hơi khập khiễng nhỉ. Không sao. Màn đấu giữa canon và nikon vẫn luôn luôn diễn ra. Ta có thể tham khảo các cuộc chiến công bằng hơn như:
 
-<p style="text-align:center; ">
-<img src="https://4.img-dpreview.com/files/p/TS560x560~forums/59202730/9c4a8d35bc6a4a17a2bd19085710c25b"><br>
-Re: 5D Mark iv Dynamic Range vs Nikon: Canon EOS-1D / 5D / 6D Talk Forum: Digital Photography Review<br>
-<img src="https://i.ytimg.com/vi/lIKcfKhE-ew/maxresdefault.jpg"><br>
-Nikon D800 v Canon 5D Mark III video test: high ISO, moiré, rolling shutter & dynamic range
-<p>
+  <p style="text-align:center; ">
+  <img src="https://4.img-dpreview.com/files/p/TS560x560~forums/59202730/9c4a8d35bc6a4a17a2bd19085710c25b"><br>
+  Re: 5D Mark iv Dynamic Range vs Nikon: Canon EOS-1D / 5D / 6D Talk Forum: Digital Photography Review<br>
+  <img src="https://i.ytimg.com/vi/lIKcfKhE-ew/maxresdefault.jpg"><br>
+  Nikon D800 v Canon 5D Mark III video test: high ISO, moiré, rolling shutter & dynamic range
+  <p>
 
 <a name="tipchupwb"></a>
 
@@ -73,7 +73,7 @@ Bản thân màu sắc bức ảnh có tươi tắn hay không phụ thuộc ph�
       <img src="../../assets/images/nhiepanh/anhsang/chup-vang-da-nikon-vang.jpg" alt="Hướng ánh sáng" >
 
     </picture><br>
-Ảnh chụp bởi  D300+tamron 17-50 f2.8
+Ảnh chụp bởi  D300 + tamron 17-50 f2.8
   </p>
 
 Nếu bạn chụp không dùng flash :Bác chuyển qua live view rồi chỉnh wb theo độ K đến khi nhìn trên màn hình ưng ý là đc. Con tamron này chụp thiếu sáng hơi ám vàng.
