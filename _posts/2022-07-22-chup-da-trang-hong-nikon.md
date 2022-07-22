@@ -88,18 +88,21 @@ hay còn gọi là <a style="color:red;font-weight:bold" href="https://www.youtu
   </p>
 Đáp án là: <span style="color:red;font-weight:bold">Còn lâu ạ</span>!!!. Ngay từ lúc chụp họ đã có tư duy sẵn rồi. Background đơn giản, phục trang và ánh sáng cũng đã có tư duy trước. Mình sẽ viết chi tiết về màu sắc blend màu trong một bài viết khác, các bạn nhớ đón xem nhé.<br>
 
-* Về tinh chỉnh: Phần Picture Style có 4 yếu tố. Đó là Sharpness (Sh), Contrast (C), Saturation (Sa), Color tone (T)
-- Sharpness: Bác muốn ảnh càng nét thì set thông số này đẩy lên càng cao (Tối đa là +7) nhưng cũng đừng lạm dụng điều này vì khi tăng Sh lên cũng chính làm ảnh bị răng cưa và vô tình tăng noise lên cao. Nên bình thường em hay để ở (+3) hoặc (+4)
-- Tăng contrast thì ảnh có chiều sâu, nhưng bác phải có bức ảnh đúng sáng, không có phần nào bị cháy (hoặc gần cháy) và không có phần nào bị quá tối, vì nếu bị và tăng contrast ảnh sẽ bị cháy hoặc mất chi tiết vùng tối nghiêm trọng hơn. Nếu bức ảnh đúng sáng và ko vướng vào 2 phần trên, contrast làm bức ảnh trong và có chiều sâu.
+* Về tinh chỉnh: Phần Picture Control hoặc Picture Style có 4 yếu tố. Đó là Sharpness (Sh), Contrast (C), Saturation (Sa), Color tone (T)
+- Sharpness: Nếu bạn muốn ảnh càng nét thì set thông số này đẩy lên càng cao (Tối đa là +7) nhưng cũng đừng lạm dụng điều này. Vì cơ bản một phần là Nikon ảnh vốn đã nét, nên khi tăng Sh lên cũng chính làm ảnh bị răng cưa và vô tình tăng noise lên cao. Nên bình thường admin hay để ở (+3) hoặc (+4). Lưu ý nếu bạn sử dụng các lens hơi cũ tý hoặc máy ảnh đã lâu thì đẩy cao tý nữa cũng được.
+- Tăng contrast thì ảnh có chiều sâu, đòi hỏi bạn phải có bức ảnh đúng sáng, không có phần nào bị cháy (hoặc gần cháy) và không có phần nào bị quá tối. Nếu không tăng contrast ảnh sẽ bị cháy hoặc mất chi tiết vùng tối nghiêm trọng hơn.
 - Saturation làm màu sắc rực và đậm hơn.
-Với em thì
+
+Với admin thì
 - Chụp phong cảnh: Sh+4, C+1, St+2, T+1. Tăng T sẽ thiên về màu vàng/xanh, giảm T thiên về màu magenta.
 - Portrait: Sh+1, C+0, St+1, T-1
+
 Nhưng lý thuyết chỉ là vậy còn muốn có đc chất màu đúng ý mình thì bạn hãy tự thực hành cho chính mình.
 
-Hãy tăng và giảm các thông số ấy một cách phù hợp bác sẽ tìm đc chất màu ảnh như mình muốn.
-Ngoài ra một trong những yếu tố ảnh hưởng lớn tới màu sắc của ảnh chính là việc điều chỉnh phơi sáng cho tấm ảnh. Ảnh thừa sáng (overexposure) thường có màu sắc nhợt nhạt hơn; ngược lại, ảnh thiếu sáng (underexposure) thường cho màu sắc tối thẫm, cả hai trường hợp đều cho ra đời những tấm ảnh không trung thực về màu sắc.
-Vì thế bác nên tìm hiểu về điều chỉnh phơi sáng cho phù hợp nữa.<br>
+Hãy tăng và giảm các thông số ấy một cách phù hợp bạn sẽ tìm được chất màu ảnh như mình muốn.
+Ngoài ra một trong những yếu tố ảnh hưởng lớn tới màu sắc của ảnh chính là việc điều chỉnh phơi sáng cho tấm ảnh.
+Việc ảnh thừa sáng (overexposure) thường có màu sắc nhợt nhạt hơn; ngược lại, ảnh thiếu sáng (underexposure) thường cho màu sắc tối thêm (đã nói trong phần so sánh giữa nikon và canon)
+Vì thế nếu muốn chụp ảnh trắng hồng chân dung cho nikon. Tại sao chúng ta không chụp dư sáng hơn một tý hoặc ít nhất đúng sáng nhỉ?! (๑˘︶˘๑)<br>
 <a name="tipchupdusang"></a>
 <h3>3. Tips chụp ảnh với đủ sáng hoặc dư sáng</h3>
 
