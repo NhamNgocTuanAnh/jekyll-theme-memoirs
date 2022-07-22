@@ -58,6 +58,7 @@ So sánh d600 vớ 7d có vẻ hơi khập khiễng nhỉ. Không sao. Màn đ�
   Nikon D800 v Canon 5D Mark III video test: high ISO, moiré, rolling shutter & dynamic range
   <p>
 
+
 <a name="tipchupwb"></a>
 
 ### 2. Tips chụp ảnh voi cân bằng trắng WB để làm chủ tông màu
