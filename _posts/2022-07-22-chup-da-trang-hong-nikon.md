@@ -20,9 +20,9 @@ Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị
 
   <p style="text-align:center; ">
     <picture>
-      <source type="image/webp" srcset="../../assets/images/anhsang/chup-nguoi-chon-canon-chup-canh-chon-nikon.webp">
-      <source type="image/jpeg" srcset="../../assets/images/anhsang/chup-nguoi-chon-canon-chup-canh-chon-nikon.jpg">
-      <img src="../../assets/images/anhsang/chup-nguoi-chon-canon-chup-canh-chon-nikon.jpg" alt="Chụp người chọn Canon chụp cảnh chọn Nikon?">
+      <source type="image/webp" srcset="../../assets/images/nhiepanh/anhsang/chup-nguoi-chon-canon-chup-canh-chon-nikon.webp">
+      <source type="image/jpeg" srcset="../../assets/images/nhiepanh/anhsang/chup-nguoi-chon-canon-chup-canh-chon-nikon.jpg">
+      <img src="../../assets/images/nhiepanh/anhsang/chup-nguoi-chon-canon-chup-canh-chon-nikon.jpg" alt="Chụp người chọn Canon chụp cảnh chọn Nikon?">
     </picture><br><a name="anhchude"></a>
     Đúng hay sai "Chụp người chọn Canon chụp cảnh chọn Nikon" ?
   </p>
@@ -33,9 +33,9 @@ Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị
 
   <p style="text-align:center; ">
     <picture>
-      <source type="image/webp" srcset="../../assets/images/anhsang/so-sanh-dynamic-range-canon-nikon.webp">
-      <source type="image/jpeg" srcset="../../assets/images/anhsang/so-sanh-dynamic-range-canon-nikon.jpg">
-      <img src="../../assets/images/anhsang/so-sanh-dynamic-range-canon-nikon.jpg" alt="Nikon D600 Dynamic Range">
+      <source type="image/webp" srcset="../../assets/images/nhiepanh/anhsang/so-sanh-dynamic-range-canon-nikon.webp">
+      <source type="image/jpeg" srcset="../../assets/images/nhiepanh/anhsang/so-sanh-dynamic-range-canon-nikon.jpg">
+      <img src="../../assets/images/nhiepanh/anhsang/so-sanh-dynamic-range-canon-nikon.jpg" alt="Nikon D600 Dynamic Range">
     </picture><br>
     <a href="https://www.youtube.com/watch?v=jWvaaHqQni0">Nikon D600 Review Part 4 - Dynamic Range Testing</a>
   </p>
