@@ -40,7 +40,7 @@ Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị
       <source type="image/jpeg" srcset="../../assets/images/anhsang/doituong/chup-nguoi-chon-canon-chup-canh-chon-nikon.jpg">
       <img src="../../assets/images/anhsang/doituong/chup-nguoi-chon-canon-chup-canh-chon-nikonjpg" alt="Đúng hay sai "Chụp người chọn Canon chụp cảnh chọn Nikon" ?" >
 
-    </picture><br>
+    </picture><br><a name="anhchude"></a>
     Đúng hay sai "Chụp người chọn Canon chụp cảnh chọn Nikon" ?
   </p>
 
