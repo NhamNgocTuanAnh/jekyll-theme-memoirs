@@ -24,7 +24,6 @@ Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị
       <source type="image/jpeg" srcset="../../assets/images/nhiepanh/anhsang/chup-nguoi-chon-canon-chup-canh-chon-nikon.jpg">
       <img src="../../assets/images/nhiepanh/anhsang/chup-nguoi-chon-canon-chup-canh-chon-nikon.jpg" alt="Chụp người chọn Canon chụp cảnh chọn Nikon?">
     </picture><br><a name="anhchude"></a>
-    Chụp người chọn Canon chụp cảnh chọn Nikon?
   </p>
 
 <a name="nguongoc"></a>
