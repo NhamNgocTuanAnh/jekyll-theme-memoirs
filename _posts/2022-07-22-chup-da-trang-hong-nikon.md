@@ -31,13 +31,22 @@ Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị
 
 ### 1. Nguyên nhân
 
-Nikon xử lý DR quá mạnh nhưng dàn đều, điều này gây ra việc chụp mặt người trong cùng 1 điều kiện sẽ có cảm giác "bẹt" hơn. Ngoài ra màu da cam hơi sạm (mình test thì đa phần đến từ ống kính), do đó nếu chỉ chụp JPEG thì sẽ có lúc màu da và mặt lên khá khó chịu.
+  <p style="text-align:center; ">
+    <picture>
+      <source type="image/webp" srcset="../../assets/images/anhsang/so-sanh-dynamic-range-canon-nikon.webp">
+      <source type="image/jpeg" srcset="../../assets/images/anhsang/so-sanh-dynamic-range-canon-nikon.jpg">
+      <img src="../../assets/images/anhsang/so-sanh-dynamic-range-canon-nikon.jpg" alt="Nikon D600 Dynamic Range">
+    </picture><br>
+    <a href="https://www.youtube.com/watch?v=jWvaaHqQni0">Nikon D600 Review Part 4 - Dynamic Range Testing</a>
+  </p>
+
+Nikon xử lý Dynamic Range quá mạnh nhưng dàn đều, điều này gây ra việc chụp mặt người trong cùng 1 điều kiện sẽ có cảm giác "bẹt" hơn. Ngoài ra màu da cam hơi sạm (mình test thì đa phần đến từ ống kính), do đó nếu chỉ chụp JPEG thì sẽ có lúc màu da và mặt lên khá khó chịu.
 Tuy nhiên các vấn đề này đều cân bằng khá dễ dàng trong photoshop, nó chỉ xảy ra khi bạn cần chụp nhiều và sử dụng luôn ảnh, hoặc chỉnh qua loa số lượng lớn để đưa khách.
 Bù lại cũng chính cái này khiến Nikon thu được khá nhiều chi tiết phân vùng tối mà khi chụp Canon khó có được (thường là so sánh ảnh RAW).
 P/s: Trong các trường hợp chụp người với dải sáng chênh lệch cao, Nikon sẽ cho kết quả tốt hơn Canon.
 
-Ngược lại, Canon thiết lập DR yếu hơn nên tạo tương phản tại mặt tốt hơn nếu chụp trong ánh sáng dịu (thường là chân dung tiêu chuẩn). Màu sắc da hồng chỉ là 1 phần, thực tế chế độ potrait của Canon nhiều khi cho màu da không chính xác. Canon cũng không phải hãng cho màu da người/chụp chân dung đẹp nhất.
-Còn DR yếu có hại trong chụp cảnh thì cũng không hẳn 😃. Nói chung cái nào cũng có điểm mạnh, điểm yếu nhưng không phải là - chụp người - chụp cảnh. Nếu bạn không làm nghề và không thường xuyên chụp 1 loại đặc biệt nào đó thì chả phải lo cái gì cả.
+Ngược lại, Canon thiết lập Dynamic Range yếu hơn nên tạo tương phản tại mặt tốt hơn nếu chụp trong ánh sáng dịu (thường là chân dung tiêu chuẩn). Màu sắc da hồng chỉ là 1 phần, thực tế chế độ potrait của Canon nhiều khi cho màu da không chính xác. Canon cũng không phải hãng cho màu da người/chụp chân dung đẹp nhất.
+Còn Dynamic Range yếu có hại trong chụp cảnh thì cũng không hẳn 😃. Nói chung cái nào cũng có điểm mạnh, điểm yếu nhưng không phải là - chụp người - chụp cảnh. Nếu bạn không làm nghề và không thường xuyên chụp 1 loại đặc biệt nào đó thì chả phải lo cái gì cả.
 
 Trích nguồn [Đúng hay sai "Chụp người chọn Canon chụp cảnh chọn Nikon" ?](https://tinhte.vn/thread/dung-hay-sai-chup-nguoi-chon-canon-chup-canh-chon-nikon.2421576/page-2)
 
