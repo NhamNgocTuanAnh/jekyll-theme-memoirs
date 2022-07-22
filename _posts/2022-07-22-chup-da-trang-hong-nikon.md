@@ -16,7 +16,7 @@ Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị
 
 [1. Nguyên nhân](#nguyennhan)\\
 [2. Thêm Picture Control là xong (ʘ ͜ʖ ʘ)](#tipchuppicturedtyle)\\
-[3. Tips chụp ảnh với đủ sáng](#tipchupdusang)\\
+[3. Tips chụp ảnh với đủ sáng hoặc dư sáng](#tipchupdusang)\\
 [4. Tips chụp ảnh với cân bằng trắng WB để làm chủ tông màu](#tipchupwb)\\
 [5. Tips chỉnh sửa ảnh với file Raw hậu kỳ](#tipchupraw)
 
@@ -43,7 +43,7 @@ Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị
 
 Nikon xử lý Dynamic Range quá mạnh nhưng dàn đều, điều này gây ra việc chụp mặt người trong cùng 1 điều kiện sẽ có cảm giác "bẹt" hơn. Ngoài ra màu da cam hơi sạm (mình test thì đa phần đến từ ống kính), do đó nếu chỉ chụp JPEG thì sẽ có lúc màu da và mặt lên khá khó chịu.
 Tuy nhiên các vấn đề này đều cân bằng khá dễ dàng trong photoshop, nó chỉ xảy ra khi bạn cần chụp nhiều và sử dụng luôn ảnh, hoặc chỉnh qua loa số lượng lớn để đưa khách.
-Bù lại cũng chính cái này khiến Nikon thu được khá nhiều chi tiết phân vùng tối mà khi chụp Canon khó có được (thường là so sánh ảnh RAW).//
+Bù lại cũng chính cái này khiến Nikon thu được khá nhiều chi tiết phân vùng tối mà khi chụp Canon khó có được (thường là so sánh ảnh RAW).<br>
 P/s: Trong các trường hợp chụp người với dải sáng chênh lệch cao, Nikon sẽ cho kết quả tốt hơn Canon.
 
 Ngược lại, Canon thiết lập Dynamic Range yếu hơn nên tạo tương phản tại mặt tốt hơn nếu chụp trong ánh sáng dịu (thường là chân dung tiêu chuẩn). Màu sắc da hồng chỉ là 1 phần, thực tế chế độ potrait của Canon nhiều khi cho màu da không chính xác. Canon cũng không phải hãng cho màu da người/chụp chân dung đẹp nhất.
@@ -62,6 +62,37 @@ So sánh d600 vớ 7d có vẻ hơi khập khiễng nhỉ. Không sao.  Ta có t
 
 
 > Màn đấu giữa canon và nikon vẫn luôn luôn diễn ra.
+
+<a name="tipchuppicturedtyle"></a>
+
+<h3>2. Thêm Picture Control là xong (ʘ ͜ʖ ʘ)</h3>
+Đơn giản, nhanh gọn nhẹ. Bạn có thể download ti tỉ preset loại này trên mạng. Ưu điểm là nhanh, gọn, ăn liên, hiệu quả ngay và luôc. Đặc biệt là lúc đưa mẫu xem preview - đặc sản màn hình canon :><br>
+  <p style="text-align:center; ">
+    <picture>
+      <source type="image/webp" srcset="../../assets/images/nhiepanh/anhsang/picture-style-trong-treo-canon-2.webp">
+      <source type="image/jpeg" srcset="../../assets/images/nhiepanh/anhsang/picture-style-trong-treo-canon-2.jpg">
+      <img src="../../assets/images/nhiepanh/anhsang/picture-style-trong-treo-canon-2.jpg" alt="Màu trong trẻo">
+    </picture><br>
+   Bấm phát ăn liền
+  </p>
+<span style="color:red;font-weight:bold">Nhưng!!!</span> Nhưng trên đời không có gì là quá dễ dàng cả. Việc bạn sử dụng một preset màu có sẵn có thể rất tiện lợi hay còn gọi là <a style="color:red;font-weight:bold" href="https://www.youtube.com/watch?v=2D54ozVQAdk">"tư duy blend màu"</a><br>
+
+
+* Về tinh chỉnh: Phần Picture Style có 4 yếu tố. Đó là Sharpness (Sh), Contrast (C), Saturation (Sa), Color tone (T)
+- Sharpness: Bác muốn ảnh càng nét thì set thông số này đẩy lên càng cao (Tối đa là +7) nhưng cũng đừng lạm dụng điều này vì khi tăng Sh lên cũng chính làm ảnh bị răng cưa và vô tình tăng noise lên cao. Nên bình thường em hay để ở (+3) hoặc (+4)
+- Tăng contrast thì ảnh có chiều sâu, nhưng bác phải có bức ảnh đúng sáng, không có phần nào bị cháy (hoặc gần cháy) và không có phần nào bị quá tối, vì nếu bị và tăng contrast ảnh sẽ bị cháy hoặc mất chi tiết vùng tối nghiêm trọng hơn. Nếu bức ảnh đúng sáng và ko vướng vào 2 phần trên, contrast làm bức ảnh trong và có chiều sâu.
+- Saturation làm màu sắc rực và đậm hơn.
+Với em thì
+- Chụp phong cảnh: Sh+4, C+1, St+2, T+1. Tăng T sẽ thiên về màu vàng/xanh, giảm T thiên về màu magenta.
+- Portrait: Sh+1, C+0, St+1, T-1
+Nhưng lý thuyết chỉ là vậy còn muốn có đc chất màu đúng ý mình thì bác hãy tự thực hành cho mình. Hãy tăng và giảm các thông số ấy một cách phù hợp bác sẽ tìm đc chất màu ảnh như mình muốn.
+Ngoài ra một trong những yếu tố ảnh hưởng lớn tới màu sắc của ảnh chính là việc điều chỉnh phơi sáng cho tấm ảnh. Ảnh thừa sáng (overexposure) thường có màu sắc nhợt nhạt hơn; ngược lại, ảnh thiếu sáng (underexposure) thường cho màu sắc tối thẫm, cả hai trường hợp đều cho ra đời những tấm ảnh không trung thực về màu sắc. Vì thế bác nên tìm hiểu về điều chỉnh phơi sáng cho phù hợp nữa.
+
+<a name="tipchupdusang"></a>
+
+<h3>3. Tips chụp ảnh với đủ sáng hoặc dư sáng</h3>
+
+
 
 <a name="tipchupwb"></a>
 
