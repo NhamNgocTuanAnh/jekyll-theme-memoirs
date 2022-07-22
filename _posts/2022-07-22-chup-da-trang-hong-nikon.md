@@ -94,13 +94,16 @@ Nguyên bản lens tamron là hơi ám vàng,chụp ngoài trời nên để day
     </picture><br>
   </p>
 
+Cách tốt nhất để có được Cân bằng trắng chính xác là cài đặt thông qua Preset (PRE) nhưng bạn sẽ cần một thẻ Cân bằng trắng còn được gọi là thẻ xám hoặc thẻ xám 18%. Quá trình này bao gồm việc giữ thẻ Cân bằng trắng trước ống kính để máy ảnh đọc nhiệt độ màu chính xác của ánh sáng được phản chiếu từ thẻ.
+
+Bên cạnh đó, một số máy ảnh có thể yêu cầu bạn chụp ảnh thẻ Cân bằng trắng trước, sau đó đọc màu của thẻ để xác định cân bằng trắng chính xác. Hãy nhớ rằng đây không phải là cài đặt vĩnh viễn của máy ảnh mà mỗi điều kiện ánh sáng thay đổi Cân bằng trắng sẽ thay đổi theo.
 Việc cân bằng trắng là việc tối quan trọng trong nhiếp ảnh. Nhưng nếu cân bằng trắng sai. Chúng ta vẫn có thể cứu được trong quá trình hậu kỳ với file raw.
 
 <a name="tipchupraw"></a>
 
 ### 3. Tips chỉnh sửa ảnh với file Raw hậu kỳ
 
-Hậu kì màu sắc hình ảnh là một phần không thể thiếu trong các chuỗi công việc của một NAG .
+Hậu kì màu sắc hình ảnh là một phần không thể thiếu trong các chuỗi công việc của một NAG. Nếu bạn chụp bằng file RAW, cân bằng trắng là một trong số các tính năng điều chỉnh mà bạn hoàn toàn có thể thay đổi khi xử lý hậu kỳ mà không ảnh hưởng đến chất lượng và độ sắc nét. Ngoài ra, các thay đổi White Balance đối với file RAW bao giờ cũng linh hoạt hơn so với khi thay đổi với file JPEG. Cho nên miễn là bạn chụp ở định dạng RAW thì việc điều chỉnh nhiệt độ màu của nguồn sáng trong bức ảnh sẽ dễ dàng xử lý hơn, đặc biệt ở giai đoạn hậu kỳ.
 
   <p style="text-align:center; ">
     <picture>
@@ -160,7 +163,7 @@ Có bác nào chụp màu tím chưa ạ?
 * [Giả lập màu phim FUji ngay trên máy ảnh nikon](https://www.50mm.vn/2017/09/09/gia-lap-mau-phim-fuji-tren-may-nikon/).
 * [NHỮNG THÓI QUEN XẤU LÀM GƯƠNG MẶT BỊ LỆCH VÀ CÁCH KHẮC PHỤC HIỆU QUẢ - nhakhoavinhan.com](https://nhakhoavinhan.com/mat-bi-lech/).
 
-> Bạn là chính bạn, là một ngôi sao. Đừng vì gương mặt bất đối xứng mà mặc cảnh, tự ti.
+> Cái này vào ps hay lr kéo 1 cái là xong ngay. chụp đám (nhất là chụp ăn $) mà mấy bác loay hoay chỉnh K thì không ổn rồi, bao nhiêu khoảnh khắc đẹp qua hết hoặc set up lâu khách họ lại sốt ruột. cứ auto mà chơi, không tự tin thì chụp raw về sửa. Hậu kỳ màu mè thì khó chứ chỉnh căn bản không khó đâu, tìm tòi tý là ra
 
 <style>
 .box {
