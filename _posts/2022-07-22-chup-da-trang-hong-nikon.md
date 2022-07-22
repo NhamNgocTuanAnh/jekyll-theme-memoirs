@@ -36,12 +36,12 @@ Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị
   <p style="text-align:center; ">
     <picture>
 
-      <source type="image/webp" srcset="../../assets/images/nhiepanh/doituong/anh-selfie-bi-nguoc-trang.webp">
-      <source type="image/jpeg" srcset="../../assets/images/nhiepanh/doituong/anh-selfie-bi-nguoc-trang.jpg">
-      <img src="../../assets/images/nhiepanh/doituong/anh-selfie-bi-nguoc-trang.jpg" alt="Ảnh selfie bị ngược" >
+      <source type="image/webp" srcset="../../assets/images/anhsang/doituong/chup-nguoi-chon-canon-chup-canh-chon-nikon.webp">
+      <source type="image/jpeg" srcset="../../assets/images/anhsang/doituong/chup-nguoi-chon-canon-chup-canh-chon-nikon.jpg">
+      <img src="../../assets/images/anhsang/doituong/chup-nguoi-chon-canon-chup-canh-chon-nikonjpg" alt="Đúng hay sai "Chụp người chọn Canon chụp cảnh chọn Nikon" ?" >
 
     </picture><br>
-    Nhiều người thắc mắc tại sao trên iPhone chụp ảnh selfie bị ngược?
+    Đúng hay sai "Chụp người chọn Canon chụp cảnh chọn Nikon" ?
   </p>
 
 
