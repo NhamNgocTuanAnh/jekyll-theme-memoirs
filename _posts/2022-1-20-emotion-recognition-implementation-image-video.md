@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nhận dạng cảm xúc khuôn mặt.(Part 4) Triển khai trên ảnh và video - [Học máy]"
+title:  "Nhận Diện Cảm Xúc Khuôn Mặt.(Part 4) Triển khai trên ảnh và video - [Học máy]"
 author: sal
 categories: [ Machine learning, học máy ]
 tags: [ Python, Lập trình ]

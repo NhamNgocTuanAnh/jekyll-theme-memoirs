@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nhận dạng cảm xúc khuôn mặt.(Part 1) Tổng quan - [Học máy]"
+title:  "Nhận Diện Cảm Xúc Khuôn Mặt.(Part 1) Tổng quan - [Học máy]"
 author: sal
 categories: [ Machine learning, học máy ]
 tags: [ Học máy, Python, Lập trình ]

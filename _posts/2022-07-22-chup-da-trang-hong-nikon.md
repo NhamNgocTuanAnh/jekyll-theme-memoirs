@@ -78,6 +78,15 @@ So sánh d600 vớ 7d có vẻ hơi khập khiễng nhỉ. Không sao.  Ta có t
 <span style="color:red;font-weight:bold">Nhưng!!!</span> Nhưng trên đời không có gì là quá dễ dàng cả. Việc bạn sử dụng một preset màu có sẵn có thể rất tiện lợi. Kéo xong một tấm ảnh hỏi bạn. Không biết phải bắt đầu và kết thúc tấm ảnh
 hay còn gọi là <a style="color:red;font-weight:bold" href="https://www.youtube.com/watch?v=2D54ozVQAdk">"tư duy blend màu"</a><br>
 
+  <p style="text-align:center; ">
+    <picture>
+      <source type="image/webp" srcset="../../assets/images/nhiepanh/anhsang/chup-anh-phong-cach-hongkong-3.webp">
+      <source type="image/jpeg" srcset="../../assets/images/nhiepanh/anhsang/chup-anh-phong-cach-hongkong-3.jpg">
+      <img src="../../assets/images/nhiepanh/anhsang/chup-anh-phong-cach-hongkong-3.jpg" alt="Màu HongKong">
+    </picture><br>
+   Có phải cứ add một preset HongKong vào, và ra bừa một tiệm tạp hóa cũ nào đó thì sẽ ra ảnh HongKong không?!
+  </p>
+Đáp án là: <span style="color:red;font-weight:bold">Còn lâu ạ</span>!!!. Ngay từ lúc chụp họ đã có tư duy sẵn rồi. Background đơn giản, phục trang và ánh sáng cũng đã có tư duy trước. Mình sẽ viết chi tiết về màu sắc blend màu trong một bài viết khác, các bạn nhớ đón xem nhé.<br>
 
 * Về tinh chỉnh: Phần Picture Style có 4 yếu tố. Đó là Sharpness (Sh), Contrast (C), Saturation (Sa), Color tone (T)
 - Sharpness: Bác muốn ảnh càng nét thì set thông số này đẩy lên càng cao (Tối đa là +7) nhưng cũng đừng lạm dụng điều này vì khi tăng Sh lên cũng chính làm ảnh bị răng cưa và vô tình tăng noise lên cao. Nên bình thường em hay để ở (+3) hoặc (+4)
@@ -86,13 +95,12 @@ hay còn gọi là <a style="color:red;font-weight:bold" href="https://www.youtu
 Với em thì
 - Chụp phong cảnh: Sh+4, C+1, St+2, T+1. Tăng T sẽ thiên về màu vàng/xanh, giảm T thiên về màu magenta.
 - Portrait: Sh+1, C+0, St+1, T-1
-Nhưng lý thuyết chỉ là vậy còn muốn có đc chất màu đúng ý mình thì bác hãy tự thực hành cho mình. Hãy tăng và giảm các thông số ấy một cách phù hợp bác sẽ tìm đc chất màu ảnh như mình muốn.
-Ngoài ra một trong những yếu tố ảnh hưởng lớn tới màu sắc của ảnh chính là việc điều chỉnh phơi sáng cho tấm ảnh. Ảnh thừa sáng (overexposure) thường có màu sắc nhợt nhạt hơn; ngược lại, ảnh thiếu sáng (underexposure) thường cho màu sắc tối thẫm, cả hai trường hợp đều cho ra đời những tấm ảnh không trung thực về màu sắc. Vì thế bác nên tìm hiểu về điều chỉnh phơi sáng cho phù hợp nữa.
+Nhưng lý thuyết chỉ là vậy còn muốn có đc chất màu đúng ý mình thì bạn hãy tự thực hành cho chính mình.
 
-Ngày từ lúc chụp họ đã có tư duy sẵn rồi. Background đơn giản.
-
+Hãy tăng và giảm các thông số ấy một cách phù hợp bác sẽ tìm đc chất màu ảnh như mình muốn.
+Ngoài ra một trong những yếu tố ảnh hưởng lớn tới màu sắc của ảnh chính là việc điều chỉnh phơi sáng cho tấm ảnh. Ảnh thừa sáng (overexposure) thường có màu sắc nhợt nhạt hơn; ngược lại, ảnh thiếu sáng (underexposure) thường cho màu sắc tối thẫm, cả hai trường hợp đều cho ra đời những tấm ảnh không trung thực về màu sắc.
+Vì thế bác nên tìm hiểu về điều chỉnh phơi sáng cho phù hợp nữa.<br>
 <a name="tipchupdusang"></a>
-
 <h3>3. Tips chụp ảnh với đủ sáng hoặc dư sáng</h3>
 
 

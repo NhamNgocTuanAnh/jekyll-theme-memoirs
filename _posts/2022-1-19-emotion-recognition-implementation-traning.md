@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nhận dạng cảm xúc khuôn mặt.(Part 3) Tiến hành Training model - [Học máy]"
+title:  "Nhận Diện Cảm Xúc Khuôn Mặt.(Part 3) Tiến hành Training model - [Học máy]"
 author: sal
 categories: [ Machine learning, học máy ]
 tags: [ Python, Lập trình ]

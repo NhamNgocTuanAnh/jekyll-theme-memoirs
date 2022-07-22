@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[DIY] Hộp chống ẩm máy ảnh với arduino, relay, dht11  - [Cẩm nang nhiếp ảnh]'
+title: 'Chế hộp chống ẩm cho máy ảnh với arduino, relay, dht11  - [Cẩm nang nhiếp ảnh]'
 author: sal
 categories: [Nhiếp ảnh, Lập trình]
 tags: [lập trình nhúng, arduino]
