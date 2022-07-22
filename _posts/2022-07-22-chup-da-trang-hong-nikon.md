@@ -4,7 +4,7 @@ title: 'Chụp da trắng hồng nikon  - [Cẩm nang nhiếp ảnh]'
 author: sal
 categories: [Nhiếp ảnh]
 tags: [tips chụp ảnh]
-image: assets/images/nhiepanh/doituong/cai-dat-picture-control-nikon-chan-dung.png
+image: assets/images/nhiepanh/doituong/cai-dat-picture-control-nikon-chan-dung-rsz_1.jpg
 rating: 4.5
 comments: false
 description: Khi chụp camera trước của smartphone bị lệch mặt, thậm chí cả máy ảnh hoặc các thiết bị ghi hình tương tự. Vậy nguyên nhân do đâu và các khắc phục là gì?
