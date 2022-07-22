@@ -7,15 +7,16 @@ tags: [tips chụp ảnh]
 image: assets/images/nhiepanh/doituong/cai-dat-picture-control-nikon-chan-dung-rsz_1.jpg
 rating: 4.5
 comments: false
-description: Khi chụp camera trước của smartphone bị lệch mặt, thậm chí cả máy ảnh hoặc các thiết bị ghi hình tương tự. Vậy nguyên nhân do đâu và các khắc phục là gì?
+description: Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị vàng da, chỉ chụp phong cảnh đẹp thôi. Mình xin đính chính là điều đó là sự thật. Vậy làm sao để khắc phục bớt đi điểm yếu cũng đồng thời là điểm mạnh này cho chụp chân dung? Vào bài viết nhỉ!!
 ---
 
-Chúng ta lại có hứng thú đặc biệt với những thứ có [tính đối xứng]({% post_url 2022-05-13-bo-cuc-trong-nhiep-anh %}#doixung). Con sao biển hay các cánh hoa có hình dạng đối xứng xuyên tâm, tổ ong hình lục giác đối xứng, hay những họa tiết pha lê đối xứng độc đáo của một bông tuyết. Và tất nhiên con người cũng là những sinh vật đối xứng. Nhưng về ngoại hình, khuôn mặt của chúng ta rất dễ bị **lệch** - mất đi tính đối xứng đó. **Tại sao vậy? và Cách khắc phục là gì?**
+Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị vàng da, chỉ chụp phong cảnh đẹp thôi. Mình xin đính chính là điều đó là sự thật. Vậy làm sao để khắc phục bớt đi điểm yếu cũng đồng thời là điểm mạnh này cho chụp chân dung? Vào bài viết nhỉ!!
+cai-while-blance-nikon-am-vang
 
 ### Mục lục
 
 [1. Nguyên nhân](#nguyennhan)\\
-[2. Tips chụp ảnh cho người mặt lệch](#tipchup)\\
+[2. Tips chụp ảnh voi cân bằng trắng WB để làm chủ tông màu](#tipchupwb)\\
 [3. Cách khắc phục gương mặt bị lệch tốt hiệu quả](#khacphuc)
 
 <p style="text-align:center; ">
@@ -45,47 +46,46 @@ Chúng ta lại có hứng thú đặc biệt với những thứ có [tính đ�
   </p>
 
 
-Đương nhiên là do cái **máy ảnh** rồi :)). Khi chụp camera trước bị lệch mặt, hoặc thậm chí cả trên camera thực chất không phải là lỗi mà chỉ là một nguyên tắc cơ bản khi chụp ảnh. Thông thường camera trên điện thoại sẽ thu hình đối tượng chụp giống như một người đang đứng đối diện nhìn bạn. Khi đó bên phải của bạn sẽ là bên trái của họ.
+Nikon xử lý DR quá mạnh nhưng dàn đều, điều này gây ra việc chụp mặt người trong cùng 1 điều kiện sẽ có cảm giác "bẹt" hơn. Ngoài ra màu da cam hơi sạm (mình test thì đa phần đến từ ống kính), do đó nếu chỉ chụp JPEG thì sẽ có lúc màu da và mặt lên khá khó chịu.
+Tuy nhiên các vấn đề này đều cân bằng khá dễ dàng trong photoshop, nó chỉ xảy ra khi bạn cần chụp nhiều và sử dụng luôn ảnh, hoặc chỉnh qua loa số lượng lớn để đưa khách.
+Bù lại cũng chính cái này khiến Nikon thu được khá nhiều chi tiết phân vùng tối mà khi chụp Canon khó có được (thường là so sánh ảnh RAW).
+P/s: Trong các trường hợp chụp người với dải sáng chênh lệch cao, Nikon sẽ cho kết quả tốt hơn Canon.
 
-Đó là nguyên nhân chủ quan về mặt phần cứng của thiết bị bạn đang sử dụng. Nhưng nếu nguyên nhân chính đến từ bạn thì sao. **Tại sao mặt lại bị lệch nhỉ?**
+Ngược lại, Canon thiết lập DR yếu hơn nên tạo tương phản tại mặt tốt hơn nếu chụp trong ánh sáng dịu (thường là chân dung tiêu chuẩn). Màu sắc da hồng chỉ là 1 phần, thực tế chế độ potrait của Canon nhiều khi cho màu da không chính xác. Canon cũng không phải hãng cho màu da người/chụp chân dung đẹp nhất.
+Còn DR yếu có hại trong chụp cảnh thì cũng không hẳn 😃. Nói chung cái nào cũng có điểm mạnh, điểm yếu nhưng không phải là - chụp người - chụp cảnh. Nếu bạn không làm nghề và không thường xuyên chụp 1 loại đặc biệt nào đó thì chả phải lo cái gì cả.
 
-Trong số những nguyên do gây ra sự không đều của khuôn mặt thì những thói quen chiếm một tỉ lệ khá lớn. Thói quen xấu được lặp đi lặp lại trong thời hạn dài sẽ làm biến hóa cấu trúc mặt và làm cho khuôn mặt không cân đối. Một số hoàn toàn có thể kể đến như :
+Trích nguồn [Đúng hay sai "Chụp người chọn Canon chụp cảnh chọn Nikon" ?](https://tinhte.vn/thread/dung-hay-sai-chup-nguoi-chon-canon-chup-canh-chon-nikon.2421576/page-2)
 
-* Mặt không cân đối do bẩm sinh: Có những người có khuôn mặt kém cân đối từ khi sinh ra. Đó là do di truyền từ những người thân trong gia đình. Trường hợp này rất khó để hoàn toàn có thể cải tổ trọn vẹn vì khung xương bị lệch.
-* Nằm nghiêng một bên bị lệch mặt: Kiểu nằm này khiến cho bên mặt áp xuống gối nhiều nhỏ hơn so với bên mặt còn lại, làm cho mặt bên to bên nhỏ. Nằm nghiêng bị lệch mặt là thực trạng rất thông dụng lúc bấy giờ.
-  <p style="text-align:center; "><img src="../../assets/images/nhiepanh/doituong/nguyennhan-matlech-01.jpg" alt="Hướng ánh sáng" class="responsive"></p>
+<a name="tipchupwb"></a>
 
-* Nhai bằng một bên hàm: Khuôn mặt sẽ trở nên rơi lệch, thậm chí còn lệch hẳn về bên hàm nhai với thời hạn dài sẽ tạo thành thói quen khiến người nhai tự động hóa chuyển thức ăn về bên đó.
-* Ngoài ra lệch mặt còn do các vấn đề về răng hoặc các bệnh lý gây nên. Răng là một trong những nguyên do đáng quan tâm gây ra sự không bình thường cho khuôn mặt. Những người có hàm tăng trưởng không đúng cấu trúc, hay còn gọi là hàm răng bị lệch sẽ làm lệch khớp cắn và mất cân đối hàng loạt khuôn mặt. Tùy theo từng kiểu lệch của hàm mà mặt sẽ bị tác động ảnh hưởng theo. Có những kiểu lệch hàm như lệch trái, lệch phải, hàm nhô ra phía trước hay thụt quá sâu vào trong .
-  Những người cao tuổi hay những người mắc các bệnh lý về huyết áp, tim mạch, tiểu đường rất dễ bị các biến chứng gây liệt cơ mặt. Tình trạng này thường khiến cho bệnh nhân bị mặt méo, cứng miệng, hay không mở được mắt.
+### 2. Tips chụp ảnh voi cân bằng trắng WB để làm chủ tông màu
 
-<a name="tipchup"></a>
-
-### 2. Tips chụp ảnh cho người mặt lệch
-
-Để có được những bức ảnh xinh xắn không bị mất cân đối gương mặt, Admin sẽ gợi ý cho bạn tips nho nhỏ để chụp ảnh cho người mặt lệch.
-
-Điều đầu tiên là chỉnh sửa trên chính phần mềm chụp ảnh của bạn.Trên điện thoại iPhone iOS 14, người dùng có thể sử dụng tính năng chụp ảnh bằng camera không bị lệch mặt, không bị ngược ảnh.
+Bản thân màu sắc bức ảnh có tươi tắn hay không phụ thuộc phần lớn vào chính chiếc máy, chứ không phải do lens. Tuy nhiên, để máy nhận biết được màu sắc đúng với mắt người cảm nhận thì lại phụ thuộc vào người chụp. Bạn nên hiểu rõ khái niệm này để tùy chỉnh tông màu bức ảnh theo ý mình. Đó chính là khái niệm về Cân Bằng Trắng (White Balance). Bạn có thể đọc thêm trong bài viết [ánh sáng trong nhiếp ảnh]({% post_url 2022-07-13-anh-sang-trong-nhiep-anh %}) để hiểu về nhiệt độ Kelvin nói chung cũng như màu sắc ánh sáng nói riêng.
 
   <p style="text-align:center; ">
     <picture>
 
-      <source type="image/webp" srcset="../../assets/images/nhiepanh/doituong/tai-sao-chup-anh-camera-sau-mat-bi-lech-4.webp">
-      <source type="image/jpeg" srcset="../../assets/images/nhiepanh/doituong/tai-sao-chup-anh-camera-sau-mat-bi-lech-4.jpg">
-      <img src="../../assets/images/nhiepanh/doituong/tai-sao-chup-anh-camera-sau-mat-bi-lech-4.jpg" alt="Hướng ánh sáng" >
+      <source type="image/webp" srcset="../../assets/images/nhiepanh/anhsang/chup-vang-da-nikon-vang.webp">
+      <source type="image/jpeg" srcset="../../assets/images/nhiepanh/anhsang/chup-vang-da-nikon-vang.jpg">
+      <img src="../../assets/images/nhiepanh/anhsang/chup-vang-da-nikon-vang.jpg" alt="Hướng ánh sáng" >
 
     </picture><br>
-    Bạn có thể kích hoạt tính năng này trong phần Cài đặt của điện thoại iPhone như sau: Mở mục Cài đặt trên điện thoại iPhone >> chọn mục Camera >> chọn mục Đối xứng camera trước
+Ảnh chụp bởi  D300+tamron 17-50 f2.8
   </p>
 
-Dùng tay che bên phần mặt mà bạn cảm thấy bị lệch. Đây là một trong những cách chụp cam thường không bị méo mặt. Cách này giúp che đi những khuyết điểm trên khuôn mặt bạn, đồng thời gương mặt khi lên hình cũng nhỏ hơn.
+Nếu bạn chụp không dùng flash :Bác chuyển qua live view rồi chỉnh wb theo độ K đến khi nhìn trên màn hình ưng ý là đc. Con tamron này chụp thiếu sáng hơi ám vàng.
+Nếu dùng flash, bạn nên lưu ý về nhiệt độ màu. Thường thỳ chỉnh độ K nếu có đèn flash là 5000k -5200k, còn k có thì dưới mức 4000k có thể là 3520k-3850k, à nhớ tùy chỉnh iso và khép hay mở khẩu nhe
+
+<span style="color:red;font-weight:bold">Lưu ý</span>: ám vàng thì tỉnh WB giảm lại xíu. 5000k là lý thuyết. thực tế bác chỉnh cho đúng màu. k có độ k chuẩn đâu bác. VD chụp trong đèn sợi tóc thì bác giảm xuống vì màu vàng, đèn huỳnh quang thì ngược lại
+
+Nguyên bản lens tamron là hơi ám vàng,chụp ngoài trời nên để dayligth hoặc cố định K5200 - WB shift dương+blue tí...trong nhà thì K4200>>>>k4500...
 
   <p style="text-align:center; ">
     <picture>
 
-      <source type="image/webp" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.webp">
-      <source type="image/jpeg" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.jpg">
-      <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.jpg" alt="Hướng ánh sáng" >
+      <source type="image/webp" srcset="../../assets/images/nhiepanh/anhsang/cai-white-balance-nikon-am-vang.webp">
+      <source type="image/jpeg" srcset="../../assets/images/nhiepanh/anhsang/cai-white-balance-nikon-am-vang.jpg">
+      <img src="../../assets/images/nhiepanh/anhsang/cai-white-balance-nikon-am-vang.jpg" alt="Hướng ánh sáng" >
 
     </picture><br>
     Dùng tay che một bên gương mặt
