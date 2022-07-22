@@ -10,8 +10,7 @@ comments: false
 description: Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị vàng da, chỉ chụp phong cảnh đẹp thôi. Mình xin đính chính là điều đó là sự thật. Vậy làm sao để khắc phục bớt đi điểm yếu cũng đồng thời là điểm mạnh này cho chụp chân dung? Vào bài viết nhỉ!!
 ---
 
-Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị vàng da, chỉ chụp phong cảnh đẹp thôi. Mình xin đính chính là điều đó là sự thật. Vậy làm sao để khắc phục bớt đi điểm yếu cũng đồng thời là điểm mạnh này cho chụp chân dung? Vào bài viết nhỉ!!
-cai-while-blance-nikon-am-vang
+Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị vàng da, chỉ chụp phong cảnh đẹp thôi. Mình xin đính chính là điều đó là sự thật. Vậy làm sao để khắc phục bớt đi điểm yếu cũng đồng thời là điểm mạnh này cho chụp chân dung? Vào bài viết nhở!! (~‾▽‾)~
 
 ### Mục lục
 
