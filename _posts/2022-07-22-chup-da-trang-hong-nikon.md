@@ -10,7 +10,7 @@ comments: false
 description: Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị vàng da, chỉ chụp phong cảnh đẹp thôi. Mình xin đính chính là điều đó là sự thật. Vậy làm sao để khắc phục bớt đi điểm yếu cũng đồng thời là điểm mạnh này cho chụp chân dung? Vào bài viết nhỉ!!
 ---
 
-Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị vàng da, chỉ chụp phong cảnh đẹp thôi. Mình xin đính chính là điều đó là sự thật. Vậy làm sao để khắc phục bớt đi điểm yếu cũng đồng thời là điểm mạnh này cho chụp chân dung? Vào bài viết nhở!! (~‾▽‾)~
+Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị vàng da, chỉ chụp phong cảnh đẹp thôi. Mình xin đính chính là điều đó là sự thật. Vậy làm sao để khắc phục bớt đi điểm yếu cũng đồng thời là điểm mạnh này cho chụp chân dung? Vào bài viết thôi nhở!! (~‾▽‾)~
 
 ### Mục lục
 
@@ -18,32 +18,18 @@ Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị
 [2. Tips chụp ảnh voi cân bằng trắng WB để làm chủ tông màu](#tipchupwb)\\
 [3. Cách khắc phục gương mặt bị lệch tốt hiệu quả](#khacphuc)
 
-<p style="text-align:center; ">
-  <picture>
-
-    <source type="image/webp" srcset="../../assets/images/nhiepanh/doituong/matlech-02.webp">
-    <source type="image/jpeg" srcset="../../assets/images/nhiepanh/doituong/matlech-02.jpg">
-    <img src="../../assets/images/nhiepanh/doituong/matlech-02.jpg" alt="Khắc phục mặt lệch hiệu quả">
-
-  </picture>
-</p>
-<p style="text-align:center; "><a href="https://kenh14.vn/sao-kbiz-mat-bi-lech-nhung-van-thanh-cuc-pham-nhan-sac-jennie-irene-tzuyu-thanh-luon-nu-than-kim-soo-hyun-hot-thay-la-20201215121007454.chn" target="_blank">Sự cân xứng trên gương mặt được cho là tiêu chí hàng đầu tạo nên nhan sắc cho 1 người. - kenh14.vn </a></p>
-
-<a name="nguongoc"></a>
-
-### 1. Nguyên nhân
-
   <p style="text-align:center; ">
     <picture>
-
-      <source type="image/webp" srcset="../../assets/images/anhsang/doituong/chup-nguoi-chon-canon-chup-canh-chon-nikon.webp">
-      <source type="image/jpeg" srcset="../../assets/images/anhsang/doituong/chup-nguoi-chon-canon-chup-canh-chon-nikon.jpg">
-      <img src="../../assets/images/anhsang/doituong/chup-nguoi-chon-canon-chup-canh-chon-nikon.jpg" alt="Chụp người chọn Canon chụp cảnh chọn Nikon?" >
-
+      <source type="image/webp" srcset="../../assets/images/anhsang/chup-nguoi-chon-canon-chup-canh-chon-nikon.webp">
+      <source type="image/jpeg" srcset="../../assets/images/anhsang/chup-nguoi-chon-canon-chup-canh-chon-nikon.jpg">
+      <img src="../../assets/images/anhsang/chup-nguoi-chon-canon-chup-canh-chon-nikon.jpg" alt="Chụp người chọn Canon chụp cảnh chọn Nikon?">
     </picture><br><a name="anhchude"></a>
     Đúng hay sai "Chụp người chọn Canon chụp cảnh chọn Nikon" ?
   </p>
 
+<a name="nguongoc"></a>
+
+### 1. Nguyên nhân
 
 Nikon xử lý DR quá mạnh nhưng dàn đều, điều này gây ra việc chụp mặt người trong cùng 1 điều kiện sẽ có cảm giác "bẹt" hơn. Ngoài ra màu da cam hơi sạm (mình test thì đa phần đến từ ống kính), do đó nếu chỉ chụp JPEG thì sẽ có lúc màu da và mặt lên khá khó chịu.
 Tuy nhiên các vấn đề này đều cân bằng khá dễ dàng trong photoshop, nó chỉ xảy ra khi bạn cần chụp nhiều và sử dụng luôn ảnh, hoặc chỉnh qua loa số lượng lớn để đưa khách.
