@@ -5,7 +5,7 @@ author: sal
 categories: [Nhiếp ảnh]
 tags: [tips chụp ảnh]
 image: assets/images/nhiepanh/doituong/cai-dat-picture-control-nikon-chan-dung-rsz_1.jpg
-rating: 4.5
+rating: 5
 comments: false
 description: Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị vàng da, chỉ chụp phong cảnh đẹp thôi. Mình xin đính chính là điều đó là sự thật. Vậy làm sao để khắc phục bớt đi điểm yếu cũng đồng thời là điểm mạnh này cho chụp chân dung? Vào bài viết nhỉ!!
 ---
@@ -15,14 +15,14 @@ Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị
 ### Mục lục
 
 [1. Nguyên nhân](#nguyennhan)\\
-[2. Tips chụp ảnh voi cân bằng trắng WB để làm chủ tông màu](#tipchupwb)\\
-[3. Cách khắc phục gương mặt bị lệch tốt hiệu quả](#khacphuc)
+[2. Tips chụp ảnh với cân bằng trắng WB để làm chủ tông màu](#tipchupwb)\\
+[3. Tips chỉnh sửa ảnh với file Raw hậu kỳ](#tipchupraw)
 
   <p style="text-align:center; ">
     <picture>
-      <source type="image/webp" srcset="../../assets/images/nhiepanh/anhsang/chup-nguoi-chon-canon-chup-canh-chon-nikon.webp">
-      <source type="image/jpeg" srcset="../../assets/images/nhiepanh/anhsang/chup-nguoi-chon-canon-chup-canh-chon-nikon.jpg">
-      <img src="../../assets/images/nhiepanh/anhsang/chup-nguoi-chon-canon-chup-canh-chon-nikon.jpg" alt="Chụp người chọn Canon chụp cảnh chọn Nikon?">
+      <source type="image/webp" srcset="../../assets/images/nhiepanh/anhsang/chup-da-nguoi-nikon-xau.webp">
+      <source type="image/jpeg" srcset="../../assets/images/nhiepanh/anhsang/chup-da-nguoi-nikon-xau.jpg">
+      <img src="../../assets/images/nhiepanh/anhsang/chup-da-nguoi-nikon-xau.jpg" alt="Chụp người chọn Canon chụp cảnh chọn Nikon?">
     </picture><br><a name="anhchude"></a>
   </p>
 
@@ -92,14 +92,15 @@ Nguyên bản lens tamron là hơi ám vàng,chụp ngoài trời nên để day
       <img src="../../assets/images/nhiepanh/anhsang/cai-white-balance-nikon-am-vang.jpg" alt="Hướng ánh sáng" >
 
     </picture><br>
-    Dùng tay che một bên gương mặt
   </p>
 
-Tuy rằng ta có thể dùng một cái thủ thuật để che đi khuyết điểm khi chụp ảnh. Nhưng việc xác định nguyên nhân và cách khắc phục triệt để khuyết điểm đi luôn là thứ mà chúng ta hướng tới.
+Việc cân bằng trắng là việc tối quan trọng trong nhiếp ảnh. Nhưng nếu cân bằng trắng sai. Chúng ta vẫn có thể cứu được trong quá trình hậu kỳ với file raw.
 
-<a name="khacphuc"></a>
+<a name="tipchupraw"></a>
 
-### 3. Cách khắc phục gương mặt bị lệch tốt hiệu quả
+### 3. Tips chỉnh sửa ảnh với file Raw hậu kỳ
+
+Hậu kì màu sắc hình ảnh là một phần không thể thiếu trong các chuỗi công việc của một NAG .
 
   <p style="text-align:center; ">
     <picture>
@@ -149,10 +150,14 @@ Tuy rằng ta có thể dùng một cái thủ thuật để che đi khuyết đ
 
 </ul>
 
+ Nikon đôi khi cho ra màu " đỏ, vàng, cam ". Nikon đặc biệt là màu tím đó bác.
+Khó ra màu chuẩn thôi rồi.
+Có bác nào chụp màu tím chưa ạ?
+
 ### Trích nguồn
 
-* [Tại sao chụp ảnh camera sau mặt bị lệch? Một số mẹo khắc phục hiệu quả - ghiencongnghe.info](https://ghiencongnghe.info/tai-sao-chup-anh-camera-sau-mat-bi-lech.html).
-* [Sao Kbiz mặt bị lệch nhưng vẫn thành cực phẩm nhan sắc - kenh14.vn](https://kenh14.vn/sao-kbiz-mat-bi-lech-nhung-van-thanh-cuc-pham-nhan-sac-jennie-irene-tzuyu-thanh-luon-nu-than-kim-soo-hyun-hot-thay-la-20201215121007454.chn).
+* [Làm mịn da bằng Photoshop 2021 đẹp như da em bé](https://kieutruong.com/lam-min-da-bang-photoshop-2021-dep-nhu-da-em-be/).
+* [Giả lập màu phim FUji ngay trên máy ảnh nikon](https://www.50mm.vn/2017/09/09/gia-lap-mau-phim-fuji-tren-may-nikon/).
 * [NHỮNG THÓI QUEN XẤU LÀM GƯƠNG MẶT BỊ LỆCH VÀ CÁCH KHẮC PHỤC HIỆU QUẢ - nhakhoavinhan.com](https://nhakhoavinhan.com/mat-bi-lech/).
 
 > Bạn là chính bạn, là một ngôi sao. Đừng vì gương mặt bất đối xứng mà mặc cảnh, tự ti.
