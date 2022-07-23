@@ -133,8 +133,8 @@ Bản thân màu sắc bức ảnh có tươi tắn hay không phụ thuộc ph�
     Ảnh chụp bởi  D300 + tamron 17-50 f2.8
   </p>
 
-Nếu bạn chụp không dùng flash: Bác chuyển qua live view rồi chỉnh wb theo độ K đến khi nhìn trên màn hình ưng ý là đc. Con tamron này chụp thiếu sáng hơi ám vàng.
-Nếu dùng flash, bạn nên lưu ý về nhiệt độ màu. Thường thỳ chỉnh độ K nếu có đèn flash là 5000k -5200k, còn k có thì dưới mức 4000k có thể là 3520k-3850k, à nhớ tùy chỉnh iso và khép hay mở khẩu nhe
+* Nếu bạn chụp không dùng flash: Bác chuyển qua live view rồi chỉnh wb theo độ K đến khi nhìn trên màn hình ưng ý là đc. Con tamron này chụp thiếu sáng hơi ám vàng.
+* Nếu dùng flash, bạn nên lưu ý về nhiệt độ màu. Thường thỳ chỉnh độ K nếu có đèn flash là 5000k -5200k, còn k có thì dưới mức 4000k có thể là 3520k-3850k, à nhớ tùy chỉnh iso và khép hay mở khẩu nhé!
 
 <span style="color:red;font-weight:bold">Lưu ý</span>: ám vàng thì tỉnh WB giảm lại xíu. 5000k là lý thuyết. thực tế bác chỉnh cho đúng màu. k có độ k chuẩn đâu bác. VD chụp trong đèn sợi tóc thì bác giảm xuống vì màu vàng, đèn huỳnh quang thì ngược lại
 
