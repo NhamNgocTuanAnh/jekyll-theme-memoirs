@@ -130,7 +130,7 @@ Bản thân màu sắc bức ảnh có tươi tắn hay không phụ thuộc ph�
       <img src="../../assets/images/nhiepanh/anhsang/chup-vang-da-nikon-vang.jpg" alt="Hướng ánh sáng" >
 
     </picture><br>
-    Ảnh chụp bởi  D300 + tamron 17-50 f2.8
+    Ảnh bị ám vàng. Chụp từ D300 + tamron 17-50 f2.8
   </p>
 
 <ul>
