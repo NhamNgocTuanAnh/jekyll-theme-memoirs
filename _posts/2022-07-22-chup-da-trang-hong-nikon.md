@@ -138,7 +138,7 @@ Bản thân màu sắc bức ảnh có tươi tắn hay không phụ thuộc ph�
 <li> Nếu dùng flash, bạn nên lưu ý về nhiệt độ màu. Thường thỳ chỉnh độ K nếu có đèn flash là 5000k -5200k, còn k có thì dưới mức 4000k có thể là 3520k-3850k, à nhớ tùy chỉnh iso và khép hay mở khẩu nhé!</li>
 </ul>
 
-  <span style="color:red;font-weight:bold">Lưu ý</span>: Ám vàng thì chỉnh WB giảm lại xíu. 5000k là lý thuyết. Trong thực tế còn phải phụ thuộc vào màn hình live view bạn đang xem có đúng màu hay không (màn hình máy ảnh canon màu thường rất nịnh mắt) nên bạn chỉ cần chỉnh tương đối là được. Còn đâu để về khẩu hậu kỳ lo. Vì khoảnh khắc là vô giá.
+  <span style="color:red;font-weight:bold">Lưu ý</span>: Ám vàng thì chỉnh WB giảm lại xíu. 5000k là lý thuyết. Trong thực tế còn phải phụ thuộc vào màn hình live view bạn đang xem có đúng màu hay không (màn hình máy ảnh canon màu thường rất nịnh mắt) nên bạn chỉ cần chỉnh tương đối là được. Còn đâu để về khẩu hậu kỳ lo. Vì khoảnh khắc là vô giá.<br>
 
   <span style="color:red;font-weight:bold">Lưu ý về lens tamron 17-50 f2.8</span>: Nguyên nhân cơ bản bản ống kính tamron này chụp hơi ám vàng, nếu bạn chụp ngoài trời nên để dayligth hoặc cố định K5200 - WB shift dương+blue tí còn chụp trong nhà thì từ K4200 đến k4500.
 
