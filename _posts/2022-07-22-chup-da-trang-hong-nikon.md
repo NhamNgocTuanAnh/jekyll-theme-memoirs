@@ -120,7 +120,7 @@ hay còn gọi là <a style="color:red;font-weight:bold" href="https://www.youtu
 <a name="tipchupwb"></a>
 <h3>4. Tips chụp ảnh với cân bằng trắng WB để làm chủ tông màu</h3>
 
-Bản thân màu sắc bức ảnh có tươi tắn hay không phụ thuộc phần lớn vào chính chiếc máy, chứ không phải do lens. Tuy nhiên, để máy nhận biết được màu sắc đúng với mắt người cảm nhận thì lại phụ thuộc vào người chụp. Bạn nên hiểu rõ khái niệm này để tùy chỉnh tông màu bức ảnh theo ý mình. Đó chính là khái niệm về Cân Bằng Trắng (White Balance). Bạn có thể đọc thêm trong bài viết [ánh sáng trong nhiếp ảnh]({% post_url 2022-07-13-anh-sang-trong-nhiep-anh %}) để hiểu về nhiệt độ Kelvin nói chung cũng như màu sắc ánh sáng nói riêng.
+Bản thân màu sắc bức ảnh có tươi tắn hay không phụ thuộc phần lớn vào chính chiếc máy, chứ không phải do lens. Tuy nhiên, để máy nhận biết được màu sắc đúng với mắt người cảm nhận thì lại phụ thuộc vào người chụp. Bạn nên hiểu rõ khái niệm này để tùy chỉnh tông màu bức ảnh theo ý mình. Đó chính là khái niệm về Cân Bằng Trắng (White Balance). Bạn có thể đọc thêm trong bài viết <a href="{{site.baseurl}}/2022-07-13-anh-sang-trong-nhiep-anh">ánh sáng trong nhiếp ảnh</a> để hiểu về nhiệt độ Kelvin nói chung cũng như màu sắc ánh sáng nói riêng.
 
   <p style="text-align:center; ">
     <picture>
