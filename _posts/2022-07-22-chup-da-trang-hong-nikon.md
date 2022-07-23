@@ -110,14 +110,13 @@ hay còn gọi là <a style="color:red;font-weight:bold" href="https://www.youtu
     </picture><br>
    Có phải cứ add một preset HongKong vào, và ra bừa một tiệm tạp hóa cũ nào đó thì sẽ ra ảnh HongKong không?!
   </p>
-Đáp án là: <span style="color:red;font-weight:bold;text-transform:uppercase; ">Còn lâu ạ!!!</span>. Ngay từ lúc chụp họ đã có tư duy sẵn rồi. Background đơn giản, phục trang và ánh sáng cũng đã có tư duy trước. Mình sẽ viết chi tiết về màu sắc blend màu trong một bài viết khác, các bạn nhớ đón xem nhé.<br>
-
-<p>Về tinh chỉnh: Phần Picture Control hoặc Picture Style c&oacute; 4 yếu tố. Đ&oacute; l&agrave; <strong>Sharpness </strong>(Sh), <strong>Contrast </strong>(C), <strong>Saturation </strong>(Sa), <strong>Color tone</strong> (T)</p><ul>	<li><strong>Sharpness</strong>: Nếu bạn muốn ảnh c&agrave;ng n&eacute;t th&igrave; set th&ocirc;ng số n&agrave;y đẩy l&ecirc;n c&agrave;ng cao (Tối đa l&agrave; +7) nhưng cũng đừng lạm dụng điều n&agrave;y. V&igrave; cơ bản một phần l&agrave; Nikon ảnh vốn đ&atilde; n&eacute;t, n&ecirc;n khi tăng Sh l&ecirc;n cũng ch&iacute;nh l&agrave;m ảnh bị răng cưa v&agrave; v&ocirc; t&igrave;nh tăng noise l&ecirc;n cao. N&ecirc;n b&igrave;nh thường admin hay để ở (+3) hoặc (+4). Lưu &yacute; nếu bạn sử dụng c&aacute;c lens hơi cũ t&yacute; hoặc m&aacute;y ảnh đ&atilde; l&acirc;u th&igrave; đẩy cao t&yacute; nữa cũng được.</li>	<li><strong>Contrast</strong>: Tăng contrast th&igrave; ảnh c&oacute; chiều s&acirc;u, đ&ograve;i hỏi bạn phải c&oacute; bức ảnh đ&uacute;ng s&aacute;ng, kh&ocirc;ng c&oacute; phần n&agrave;o bị ch&aacute;y (hoặc gần ch&aacute;y) v&agrave; kh&ocirc;ng c&oacute; phần n&agrave;o bị qu&aacute; tối. Nếu kh&ocirc;ng tăng contrast ảnh sẽ bị ch&aacute;y hoặc mất chi tiết v&ugrave;ng tối nghi&ecirc;m trọng hơn.</li>	<li><strong>Saturation</strong>: l&agrave;m m&agrave;u sắc rực v&agrave; đậm hơn.</li></ul><p>Với <a href="http://anhhangxom.xyz">anhhangxom</a> th&igrave;</p><ul>	<li><strong>Chụp phong cản</strong>h: Sh+4, C+1, St+2, T+1. Tăng T sẽ thi&ecirc;n về m&agrave;u v&agrave;ng/xanh, giảm T thi&ecirc;n về m&agrave;u magenta.</li>	<li><strong>Chụp ch&acirc;n dung</strong>: Portrait: Sh+1, C+0, St+1, T-1</li></ul><p>H&atilde;y tăng v&agrave; giảm c&aacute;c th&ocirc;ng số ấy một c&aacute;ch ph&ugrave; hợp bạn sẽ t&igrave;m được chất m&agrave;u ảnh như m&igrave;nh muốn.</p><p>Ngo&agrave;i ra một trong những yếu tố ảnh hưởng lớn tới m&agrave;u sắc của ảnh ch&iacute;nh l&agrave; việc điều chỉnh phơi s&aacute;ng cho tấm ảnh.</p><p>Việc ảnh thừa s&aacute;ng (<strong>overexposure</strong>) thường c&oacute; m&agrave;u sắc nhợt nhạt hơn; ngược lại, ảnh thiếu s&aacute;ng (<strong>underexposure</strong>) thường cho m&agrave;u sắc tối th&ecirc;m (đ&atilde; n&oacute;i trong phần so s&aacute;nh giữa nikon v&agrave; canon)</p><p>V&igrave; thế nếu muốn chụp ảnh trắng hồng ch&acirc;n dung cho nikon. Tại sao ch&uacute;ng ta kh&ocirc;ng chụp dư s&aacute;ng hơn một t&yacute; hoặc &iacute;t nhất đ&uacute;ng s&aacute;ng nhỉ?! (๑˘︶˘๑)</p><br>
-<a name="tipchupdusang"></a>
-<h3>3. Tips chụp ảnh với đủ sáng hoặc dư sáng</h3>
-
-
-
+<p>Đ&aacute;p &aacute;n l&agrave;: <span style="color:#e74c3c"><strong>C&ograve;n l&acirc;u ạ!!!</strong></span>. Ngay từ l&uacute;c chụp họ đ&atilde; c&oacute; tư duy sẵn rồi. Background đơn giản, phục trang v&agrave; &aacute;nh s&aacute;ng cũng đ&atilde; c&oacute; tư duy trước. M&igrave;nh sẽ viết chi tiết về m&agrave;u sắc blend m&agrave;u trong một b&agrave;i viết kh&aacute;c, c&aacute;c bạn nhớ đ&oacute;n xem nh&eacute;.</p><p>Về tinh chỉnh: Phần Picture Control hoặc Picture Style c&oacute; 4 yếu tố. Đ&oacute; l&agrave; <strong>Sharpness </strong>(Sh), <strong>Contrast </strong>(C), <strong>Saturation </strong>(Sa), <strong>Color tone</strong> (T)</p><ul>	<li><strong>Sharpness</strong>: Nếu bạn muốn ảnh c&agrave;ng n&eacute;t th&igrave; set th&ocirc;ng số n&agrave;y đẩy l&ecirc;n c&agrave;ng cao (Tối đa l&agrave; +7) nhưng cũng đừng lạm dụng điều n&agrave;y. V&igrave; cơ bản một phần l&agrave; Nikon ảnh vốn đ&atilde; n&eacute;t, n&ecirc;n khi tăng Sh l&ecirc;n cũng ch&iacute;nh l&agrave;m ảnh bị răng cưa v&agrave; v&ocirc; t&igrave;nh tăng noise l&ecirc;n cao. N&ecirc;n b&igrave;nh thường admin hay để ở (+3) hoặc (+4). Lưu &yacute; nếu bạn sử dụng c&aacute;c lens hơi cũ t&yacute; hoặc m&aacute;y ảnh đ&atilde; l&acirc;u th&igrave; đẩy cao t&yacute; nữa cũng được.</li>	<li><strong>Contrast</strong>: Tăng contrast th&igrave; ảnh c&oacute; chiều s&acirc;u, đ&ograve;i hỏi bạn phải c&oacute; bức ảnh đ&uacute;ng s&aacute;ng, kh&ocirc;ng c&oacute; phần n&agrave;o bị ch&aacute;y (hoặc gần ch&aacute;y) v&agrave; kh&ocirc;ng c&oacute; phần n&agrave;o bị qu&aacute; tối. Nếu kh&ocirc;ng tăng contrast ảnh sẽ bị ch&aacute;y hoặc mất chi tiết v&ugrave;ng tối nghi&ecirc;m trọng hơn.</li>	<li><strong>Saturation</strong>: l&agrave;m m&agrave;u sắc rực v&agrave; đậm hơn.</li></ul><p>Với <a href="http://anhhangxom.xyz">anhhangxom</a> th&igrave;</p><ul>	<li><strong>Chụp phong cảnh(L<em>andscape</em>)</strong>: Sh+4, C+1, St+2, T+1. Tăng T sẽ thi&ecirc;n về m&agrave;u v&agrave;ng/xanh, giảm T thi&ecirc;n về m&agrave;u magenta.</li>	<li><strong>Chụp ch&acirc;n dung(Portrait)</strong>: Sh+1, C+0, St+1, T-1</li></ul><p>H&atilde;y tăng v&agrave; giảm c&aacute;c th&ocirc;ng số ấy một c&aacute;ch ph&ugrave; hợp bạn sẽ t&igrave;m được chất m&agrave;u ảnh như m&igrave;nh muốn.</p><p>Ngo&agrave;i ra một trong những yếu tố ảnh hưởng lớn tới m&agrave;u sắc của ảnh ch&iacute;nh l&agrave; việc điều chỉnh phơi s&aacute;ng cho tấm ảnh.</p><p>Việc ảnh thừa s&aacute;ng (<strong>overexposure</strong>) thường c&oacute; m&agrave;u sắc nhợt nhạt hơn; ngược lại, ảnh thiếu s&aacute;ng (<strong>underexposure</strong>) thường cho m&agrave;u sắc tối th&ecirc;m (đ&atilde; n&oacute;i trong phần so s&aacute;nh giữa nikon v&agrave; canon)</p><p>V&igrave; thế nếu muốn chụp ảnh trắng hồng ch&acirc;n dung cho nikon. Tại sao ch&uacute;ng ta kh&ocirc;ng chụp dư s&aacute;ng hơn một t&yacute; hoặc &iacute;t nhất đ&uacute;ng s&aacute;ng nhỉ?! (๑˘︶˘๑).</p><p>&lt;a name=&quot;tipchupdusang&quot;&gt;&lt;/a&gt;</p><h3>3. Tips chụp ảnh với đủ s&aacute;ng hoặc dư s&aacute;ng</h3><p><input alt="" src="https://d1hjkbq40fs2x4.cloudfront.net/2020-04-06/files/dynamic-range-landscape-photography_2028-14b.jpg" style="float: left;" type="image" />Trước ti&ecirc;n ảnh <strong>phải đủ s&aacute;ng hoặc dư s&aacute;ng</strong> +0.3 EV. C&aacute;c điểm ảnh c&agrave;ng s&aacute;ng th&igrave; c&agrave;ng gần với m&agrave;u trắng. Biểu đồ Histogram nghi&ecirc;ng về b&ecirc;n phải nhiều hơn. Bạn c&oacute; thể +EV, giảm tốc hoặc tăng ISO để c&oacute; ảnh đủ s&aacute;ng. V&iacute; dụ tr&ecirc;n, ảnh đủ v&agrave; dư s&aacute;ng đ&atilde; kh&aacute;c nhau rất nhiều.</p><p>Như vậy yếu tố đầu ti&ecirc;n l&agrave; ảnh phải đủ s&aacute;ng. Kh&ocirc;ng đủ s&aacute;ng c&aacute;c bước c&ograve;n lại coi như bỏ. Khi hiểu phần n&agrave;y, bạn c&ograve;n c&oacute; thể chỉnh da trắng hồng tr&ecirc;n phần mềm dễ d&agrave;ng.&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>Lưu &yacute; đừng tin qu&aacute; nhiều v&agrave;o thanh đo s&aacute;ng tr&ecirc;n m&aacute;y ảnh, v&igrave; m&aacute;y ảnh chỉ c&oacute; thể nh&igrave;n được mọt nửa sắc độ &aacute;nh s&aacute;ng m&agrave; mắt người nh&igrave;n được.</p> <p style="text-align:center; ">
+    <picture>
+      <source type="image/webp" srcset="../../assets/images/nhiepanh/anhsang/so-sanh-may-anh-mat-nguoi-1.webp">
+      <source type="image/jpeg" srcset="../../assets/images/nhiepanh/anhsang/so-sanh-may-anh-mat-nguoi-1.jpg">
+      <img src="../../assets/images/nhiepanh/anhsang/so-sanh-may-anh-mat-nguoi-1.jpg" alt="Dải nhạy sáng">
+    </picture><br>
+  </p><p>T&ocirc;i sẽ l&agrave;m ri&ecirc;ng một b&agrave;i viết về đo s&aacute;ng ở đ&acirc;u để ph&ugrave; hợp với &yacute; đồ của bạn. C&ograve;n trong khu&ocirc;n khổ b&agrave;i viết n&agrave;y, chỉ cần nhớ<strong> lấy n&eacute;t ở đ&acirc;u đo s&aacute;ng ở đấy</strong>.</p><p>Tiếp theo ta sẽ đến với mẹo tiếp theo: c&acirc;n bằng trắng.</p>
 <a name="tipchupwb"></a>
 <h3>4. Tips chụp ảnh với cân bằng trắng WB để làm chủ tông màu</h3>
 
@@ -151,66 +150,18 @@ Nguyên bản lens tamron là hơi ám vàng,chụp ngoài trời nên để day
     </picture><br>
   </p>
 
-Cách tốt nhất để có được Cân bằng trắng chính xác là cài đặt thông qua Preset (PRE) nhưng bạn sẽ cần một thẻ Cân bằng trắng còn được gọi là thẻ xám hoặc thẻ xám 18%. Quá trình này bao gồm việc giữ thẻ Cân bằng trắng trước ống kính để máy ảnh đọc nhiệt độ màu chính xác của ánh sáng được phản chiếu từ thẻ.
+Cách tốt nhất để có được cân bằng trắng chính xác là cài đặt thông qua Preset (PRE) nhưng bạn sẽ cần một thẻ Cân bằng trắng còn được gọi là thẻ xám hoặc thẻ xám 18%. Quá trình này bao gồm việc giữ thẻ Cân bằng trắng trước ống kính để máy ảnh đọc nhiệt độ màu chính xác của ánh sáng được phản chiếu từ thẻ.
 
 Bên cạnh đó, một số máy ảnh có thể yêu cầu bạn chụp ảnh thẻ Cân bằng trắng trước, sau đó đọc màu của thẻ để xác định cân bằng trắng chính xác. Hãy nhớ rằng đây không phải là cài đặt vĩnh viễn của máy ảnh mà mỗi điều kiện ánh sáng thay đổi Cân bằng trắng sẽ thay đổi theo.
 Việc cân bằng trắng là việc tối quan trọng trong nhiếp ảnh. Nhưng nếu cân bằng trắng sai. Chúng ta vẫn có thể cứu được trong quá trình hậu kỳ với file raw.
 
 <a name="tipchupraw"></a>
 
-### 3. Tips chỉnh sửa ảnh với file Raw hậu kỳ
+### 5. Tips chỉnh sửa ảnh với file Raw hậu kỳ
 
 Hậu kì màu sắc hình ảnh là một phần không thể thiếu trong các chuỗi công việc của một NAG. Nếu bạn chụp bằng file RAW, cân bằng trắng là một trong số các tính năng điều chỉnh mà bạn hoàn toàn có thể thay đổi khi xử lý hậu kỳ mà không ảnh hưởng đến chất lượng và độ sắc nét. Ngoài ra, các thay đổi White Balance đối với file RAW bao giờ cũng linh hoạt hơn so với khi thay đổi với file JPEG. Cho nên miễn là bạn chụp ở định dạng RAW thì việc điều chỉnh nhiệt độ màu của nguồn sáng trong bức ảnh sẽ dễ dàng xử lý hơn, đặc biệt ở giai đoạn hậu kỳ.
 
-  <p style="text-align:center; ">
-    <picture>
-
-      <source type="image/webp" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-03.webp">
-      <source type="image/jpeg" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-03.jpg">
-      <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-03.jpg" alt="Khắc phục mặt lệch hiệu quả">
-
-    </picture>
-  </p>
-  <p style="text-align:center; ">Cải thiện gương mặt mà phương pháp Mewing</p>
-
- <ul>
-
-         <li>Massage mặt là một trong những cách đơn thuần và không hề tốn kém để cải tổ thực trạng này. Hiện nay trên mạng có rất nhiều bài tập giúp cải tổ cơ mặt đồng thời thư giãn giải trí da.
-          <ul>
-            <li>Dùng tay massage đều đặn, nhẹ nhàng khuôn mặt theo chiều từ dưới cằm đưa lên, và từ trong ra ngoài;  </li>
-            <li>Ở vùng trán và ngang cằm, bạn hãy sử dụng một lực vừa đủ để massage theo đường vòng tròn cùng chiều kim đồng hồ, tạo cảm giác dễ chịu, thoải mái.</li>
-          </ul>
-          Bạn nên áp dụng phương pháp này thường xuyên đều đặn vào mỗi ngày để nâng cao hiệu quả. Có thể sử dụng cách này khi rửa mặt để cơ mặt được thư giãn tốt nhất, đồng thời giúp sữa rửa mặt thấm sâu vào da, lấy đi các bụi bẩn một cách tốt hơn.
-         </li>
-         <li>Cải thiện các thói quen xấu: Tình trạng mặt bị lệch sẽ càng trở nên tồi tệ hơn nếu những thói quen này liên tục được duy trì. Hãy rèn luyện cho mình cách nằm ngửa hay nhai bằng cả hai bên hàm điều này giúp khuôn mặt từ từ lấy lại sự cân đối bắt đầu.</li>
-
-</ul>
-
-<span style="color:red;font-weight:bold">Lưu ý</span>: Các giải pháp trên chỉ tác động ảnh hưởng từ bên ngoài nên không thật sự mang lại hiệu suất cao như mong ước. Một số giải pháp dưới đây Admmin vẫn đang thực hiện. Nặng đô hơn và hiệu quả hơn.
-<ul>
-         <li>Mewing: Mewing là phương pháp luyện tập cách đặt lưỡi đúng vị trí nhằm giúp thon mặt, nâng cao sống mũi và xương hàm, giúp cải thiện gương mặt theo hướng tích cực hơn. Phương pháp này được nghiên cứu bởi bác sĩ John Mew và được phổ biến rộng rãi bởi con trai của ông là bác sĩ chỉnh nha Mike Mew.
-         <li>Niềng răng: Đây cũng là cách Admin thực hiện, nhưng trong khuôn khổ bài viết, ta sẽ không bàn thêm.</li>
-
-        <p style="text-align:center; ">
-          <picture>
-
-            <source srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-02.webp" type="image/webp" >
-            <source type="image/png" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-02.png">
-            <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-02.png" alt="Khắc phục mặt lệch hiệu quả">
-
-          </picture>
-          <br>
-          Quá trình thực hiện phương pháp Mewing
-        </p>
-
-        Bạn có thể đọc thêm về Mewing. <a href="https://www.youtube.com/results?search_query=mewing" target="_blank"><span style="color:red;font-weight:bold">ở đây</span></a> hoặc <a href="https://www.youtube.com/watch?v=Lg4h6KvURrg" target="_blank"><span style="color:red;font-weight:bold">đây</span></a>.
-
-
-        </li>
-
-</ul>
-
- Nikon đôi khi cho ra màu " đỏ, vàng, cam ". Nikon đặc biệt là màu tím đó bác.
+Nikon đôi khi cho ra màu " đỏ, vàng, cam ". Nikon đặc biệt là màu tím đó bác.
 Khó ra màu chuẩn thôi rồi.
 Có bác nào chụp màu tím chưa ạ?
 
