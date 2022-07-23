@@ -90,7 +90,7 @@ Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị
 <a name="tipchuppicturedtyle"></a>
 
 <h3>2. Thêm Picture Control là xong (ʘ ͜ʖ ʘ)</h3>
-Đơn giản, nhanh gọn nhẹ. Bạn có thể download ti tỉ preset loại này trên mạng. Ưu điểm là nhanh, gọn, ăn liên, hiệu quả ngay và luôc. Đặc biệt là lúc đưa mẫu xem preview - đặc sản màn hình canon :><br>
+Đơn giản, nhanh gọn nhẹ. Bạn có thể download ti tỉ preset loại này trên mạng. Ưu điểm là nhanh, gọn, ăn liên, hiệu quả ngay và luôn. Đặc biệt là lúc đưa mẫu xem preview - đặc sản màn hình canon :><br>
   <p style="text-align:center; ">
     <picture>
       <source type="image/webp" srcset="../../assets/images/nhiepanh/anhsang/picture-style-trong-treo-canon-2.webp">
@@ -133,12 +133,12 @@ Bản thân màu sắc bức ảnh có tươi tắn hay không phụ thuộc ph�
     Ảnh chụp bởi  D300 + tamron 17-50 f2.8
   </p>
 
-* Nếu bạn chụp không dùng flash: Bác chuyển qua live view rồi chỉnh wb theo độ K đến khi nhìn trên màn hình ưng ý là đc. Con tamron này chụp thiếu sáng hơi ám vàng.
+* Nếu bạn chụp không dùng flash: Bạn coó hêtr chuyển qua live view rồi chỉnh wb theo độ K đến khi nhìn trên màn hình ưng ý là đc.
 * Nếu dùng flash, bạn nên lưu ý về nhiệt độ màu. Thường thỳ chỉnh độ K nếu có đèn flash là 5000k -5200k, còn k có thì dưới mức 4000k có thể là 3520k-3850k, à nhớ tùy chỉnh iso và khép hay mở khẩu nhé!
 
   <span style="color:red;font-weight:bold">Lưu ý</span>: Ám vàng thì chỉnh WB giảm lại xíu. 5000k là lý thuyết. Trong thực tế còn phải phụ thuộc vào màn hình live view bạn đang xem có đúng màu hay không (màn hình máy ảnh canon màu thường rất nịnh mắt) nên bạn chỉ cần chỉnh tương đối là được. Còn đâu để về khẩu hậu kỳ lo. Vì khoảnh khắc là vô giá.
 
-  <span style="color:red;font-weight:bold">Lưu ý về lens tamron 17-50 f2.8</span>: Nguyên bản lens tamron là hơi ám vàng, nếu bạn chụp ngoài trời nên để dayligth hoặc cố định K5200 - WB shift dương+blue tí còn chụp trong nhà thì K4200>>>>k4500...
+  <span style="color:red;font-weight:bold">Lưu ý về lens tamron 17-50 f2.8</span>: Nguyên bản ống kính tamron này chụp hơi ám vàng, nếu bạn chụp ngoài trời nên để dayligth hoặc cố định K5200 - WB shift dương+blue tí còn chụp trong nhà thì K4200>>>>k4500...
 
   <p style="text-align:center; ">
     <picture>
