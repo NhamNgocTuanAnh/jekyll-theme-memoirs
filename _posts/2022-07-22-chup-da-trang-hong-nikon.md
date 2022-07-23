@@ -136,9 +136,9 @@ Bản thân màu sắc bức ảnh có tươi tắn hay không phụ thuộc ph�
 * Nếu bạn chụp không dùng flash: Bác chuyển qua live view rồi chỉnh wb theo độ K đến khi nhìn trên màn hình ưng ý là đc. Con tamron này chụp thiếu sáng hơi ám vàng.
 * Nếu dùng flash, bạn nên lưu ý về nhiệt độ màu. Thường thỳ chỉnh độ K nếu có đèn flash là 5000k -5200k, còn k có thì dưới mức 4000k có thể là 3520k-3850k, à nhớ tùy chỉnh iso và khép hay mở khẩu nhé!
 
-<span style="color:red;font-weight:bold">Lưu ý</span>: ám vàng thì tỉnh WB giảm lại xíu. 5000k là lý thuyết. thực tế bác chỉnh cho đúng màu. k có độ k chuẩn đâu bác. VD chụp trong đèn sợi tóc thì bác giảm xuống vì màu vàng, đèn huỳnh quang thì ngược lại
+  <span style="color:red;font-weight:bold">Lưu ý</span>: Ám vàng thì chỉnh WB giảm lại xíu. 5000k là lý thuyết. Trong thực tế còn phải phụ thuộc vào màn hình live view bạn đang xem có đúng màu hay không (màn hình máy ảnh canon màu thường rất nịnh mắt) nên bạn chỉ cần chỉnh tương đối là được. Còn đâu để về khẩu hậu kỳ lo. Vì khoảnh khắc là vô giá.
 
-Nguyên bản lens tamron là hơi ám vàng,chụp ngoài trời nên để dayligth hoặc cố định K5200 - WB shift dương+blue tí...trong nhà thì K4200>>>>k4500...
+  <span style="color:red;font-weight:bold">Lưu ý về lens tamron 17-50 f2.8</span>: Nguyên bản lens tamron là hơi ám vàng, nếu bạn chụp ngoài trời nên để dayligth hoặc cố định K5200 - WB shift dương+blue tí còn chụp trong nhà thì K4200>>>>k4500...
 
   <p style="text-align:center; ">
     <picture>
@@ -150,10 +150,9 @@ Nguyên bản lens tamron là hơi ám vàng,chụp ngoài trời nên để day
     </picture><br>
   </p>
 
-Cách tốt nhất để có được cân bằng trắng chính xác là cài đặt thông qua Preset (PRE) nhưng bạn sẽ cần một thẻ Cân bằng trắng còn được gọi là thẻ xám hoặc thẻ xám 18%. Quá trình này bao gồm việc giữ thẻ Cân bằng trắng trước ống kính để máy ảnh đọc nhiệt độ màu chính xác của ánh sáng được phản chiếu từ thẻ.
-
-Bên cạnh đó, một số máy ảnh có thể yêu cầu bạn chụp ảnh thẻ Cân bằng trắng trước, sau đó đọc màu của thẻ để xác định cân bằng trắng chính xác. Hãy nhớ rằng đây không phải là cài đặt vĩnh viễn của máy ảnh mà mỗi điều kiện ánh sáng thay đổi Cân bằng trắng sẽ thay đổi theo.
-Việc cân bằng trắng là việc tối quan trọng trong nhiếp ảnh. Nhưng nếu cân bằng trắng sai. Chúng ta vẫn có thể cứu được trong quá trình hậu kỳ với file raw.
+  <span style="color:red;font-weight:bold">Cách tốt nhất</span> để có được cân bằng trắng chính xác là cài đặt thông qua Preset (PRE) nhưng bạn sẽ cần một thẻ Cân bằng trắng còn được gọi là thẻ xám hoặc thẻ xám 18%. Quá trình này bao gồm việc giữ thẻ Cân bằng trắng trước ống kính để máy ảnh đọc nhiệt độ màu chính xác của ánh sáng được phản chiếu từ thẻ.<br>
+  Bên cạnh đó, một số máy ảnh có thể yêu cầu bạn chụp ảnh thẻ Cân bằng trắng trước, sau đó đọc màu của thẻ để xác định cân bằng trắng chính xác. Hãy nhớ rằng đây không phải là cài đặt vĩnh viễn của máy ảnh mà mỗi điều kiện ánh sáng thay đổi Cân bằng trắng sẽ thay đổi theo.
+  Việc cân bằng trắng là việc tối quan trọng trong nhiếp ảnh. Nhưng nếu cân bằng trắng sai. Chúng ta vẫn có thể cứu được trong quá trình hậu kỳ với file raw.
 
 <a name="tipchupraw"></a>
 
