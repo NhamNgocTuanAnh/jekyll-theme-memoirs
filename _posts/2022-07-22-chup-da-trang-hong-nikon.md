@@ -100,7 +100,7 @@ Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị
    Bấm phát ăn liền
   </p>
 <span style="color:red;font-weight:bold">Nhưng!!!</span> Nhưng trên đời không có gì là quá dễ dàng cả. Việc bạn sử dụng một preset màu có sẵn có thể rất tiện lợi. Kéo xong một tấm ảnh hỏi bạn. Không biết phải bắt đầu và kết thúc tấm ảnh
-hay còn gọi là <a style="color:red;font-weight:bold" href="https://www.youtube.com/watch?v=2D54ozVQAdk">"tư duy blend màu"</a><br>.
+hay còn gọi là <a style="color:red;font-weight:bold" href="https://www.youtube.com/watch?v=2D54ozVQAdk">"tư duy blend màu"</a>.<br>
 
   <p style="text-align:center; ">
     <picture>
