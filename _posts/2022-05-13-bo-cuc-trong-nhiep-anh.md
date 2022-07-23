@@ -42,8 +42,7 @@ Lưu ý: Nếu bạn có 2 đường thẳng hội tụ trong một khung hình,
     </picture>
   <p>
 
-  Ưu điểm của bố cục này là bạn sẽ tập trung sự chú ý của người xem vào chủ thể chính, loại bỏ được sự chú ý vào những yếu tố không cần thiết. Tuy nhiên, để chụp được bức hình đẹp với bố cục này không dễ, vì bạn sẽ không biết di chuyển tầm mắt đến đâu khi chụp, cũng như người xem sẽ bị rối vì không biết nhìn ở đâu tiếp theo.
-  [Tại sao chúng ta lại có hứng thú đặc biệt với những thứ có tính đối xứng? - vnreview.vn](https://vnreview.vn/thread-old/tai-sao-chung-ta-lai-co-hung-thu-dac-biet-voi-nhung-thu-co-tinh-doi-xung.2918021).
+  Ưu điểm của bố cục này là bạn sẽ tập trung sự chú ý của người xem vào chủ thể chính, loại bỏ được sự chú ý vào những yếu tố không cần thiết. Tuy nhiên, để chụp được bức hình đẹp với bố cục này không dễ, vì bạn sẽ không biết di chuyển tầm mắt đến đâu khi chụp, cũng như người xem sẽ bị rối vì không biết nhìn ở đâu tiếp theo. <a href="https://vnreview.vn/thread-old/tai-sao-chung-ta-lai-co-hung-thu-dac-biet-voi-nhung-thu-co-tinh-doi-xung.2918021">Tại sao chúng ta lại có hứng thú đặc biệt với những thứ có tính đối xứng? - vnreview.vn</a>
 
 * **Đường chéo:**
   <a name="doixung"></a>
