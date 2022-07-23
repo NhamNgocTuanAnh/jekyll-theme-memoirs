@@ -164,9 +164,9 @@ Hậu kì màu sắc hình ảnh là một phần không thể thiếu trong cá
   <p style="text-align:center; ">
     <picture>
 
-      <source type="image/webp" srcset="../../assets/images/nhiepanh/anhsang/cach-chinh-anh-nguoc-sang-trong-photoshop.webp">
-      <source type="image/jpeg" srcset="../../assets/images/nhiepanh/anhsang/cach-chinh-anh-nguoc-sang-trong-photoshop.jpg">
-      <img src="../../assets/images/nhiepanh/anhsang/cach-chinh-anh-nguoc-sang-trong-photoshop.jpg" alt="Hướng ánh sáng" >
+      <source type="image/webp" srcset="../../assets/images/nhiepanh/anhsang/chinh-anh-nguoc-sang-trong-photoshop.webp">
+      <source type="image/jpeg" srcset="../../assets/images/nhiepanh/anhsang/chinh-anh-nguoc-sang-trong-photoshop.jpg">
+      <img src="../../assets/images/nhiepanh/anhsang/chinh-anh-nguoc-sang-trong-photoshop.jpg" alt="Hướng ánh sáng" >
 
     </picture><br>
   </p>
