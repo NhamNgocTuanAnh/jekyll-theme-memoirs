@@ -15,6 +15,7 @@ imageshadow: true
     </picture><br>
   </p>
 
+<!--
 {% for page in site.pages %}
   {% if page.categories contains 'Nhiếp ảnh' %}
     <div class="item">
@@ -26,3 +27,5 @@ imageshadow: true
     </div>
   {% endif %}
 {% endif %}
+-->
+
