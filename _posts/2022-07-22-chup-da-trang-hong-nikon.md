@@ -43,7 +43,6 @@ Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị
 
 
   <table>
-    <caption>Statement Summary</caption>
     <thead>
       <tr>
         <th scope="col">Tiêu chí</th>
@@ -53,32 +52,30 @@ Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị
     </thead>
     <tbody>
       <tr>
-        <td data-label="Account">Dynamic Range</td>
-        <td data-label="Due Date">Nikon xử lý Dynamic Range quá mạnh nhưng dàn đều, điều này gây ra việc chụp mặt người trong cùng 1 điều kiện sẽ có cảm giác "bẹt" hơn.</td>
-        <td data-label="Amount">Ngược lại, Canon thiết lập Dynamic Range yếu hơn nên tạo tương phản tại mặt tốt hơn nếu chụp trong ánh sáng dịu (thường là chân dung tiêu chuẩn).</td>
+        <td data-label="Tiêu chí">Dynamic Range</td>
+        <td data-label="NIKON">Nikon xử lý Dynamic Range quá mạnh nhưng dàn đều, điều này gây ra việc chụp mặt người trong cùng 1 điều kiện sẽ có cảm giác "bẹt" hơn.</td>
+        <td data-label="Canon">Ngược lại, Canon thiết lập Dynamic Range yếu hơn nên tạo tương phản tại mặt tốt hơn nếu chụp trong ánh sáng dịu (thường là chân dung tiêu chuẩn).</td>
 
       </tr>
       <tr>
         <td scope="row" data-label="Account">Màu sắc</td>
-        <td data-label="Due Date">Ngoài ra màu da cam hơi sạm (mình test thì đa phần đến từ ống kính), do đó nếu chỉ chụp JPEG thì sẽ có lúc màu da và mặt lên khá khó chịu.
-  Tuy nhiên các vấn đề này đều cân bằng khá dễ dàng trong photoshop, nó chỉ xảy ra khi bạn cần chụp nhiều và sử dụng luôn ảnh, hoặc chỉnh qua loa số lượng lớn để đưa khách.</td>
-        <td data-label="Amount">Màu sắc da hồng chỉ là 1 phần, thực tế chế độ potrait của Canon nhiều khi cho màu da không chính xác. Canon cũng không phải hãng cho màu da người/chụp chân dung đẹp nhất.</td>
-
+        <td data-label="NIKON">Ngoài ra màu da cam hơi sạm (mình test thì đa phần đến từ ống kính), do đó nếu chỉ chụp JPEG thì sẽ có lúc màu da và mặt lên khá khó chịu.
+        Tuy nhiên các vấn đề này đều cân bằng khá dễ dàng trong photoshop, nó chỉ xảy ra khi bạn cần chụp nhiều và sử dụng luôn ảnh, hoặc chỉnh qua loa số lượng lớn để đưa khách.</td>
+        <td data-label="Canon">Màu sắc da hồng chỉ là 1 phần, thực tế chế độ potrait của Canon nhiều khi cho màu da không chính xác. Canon cũng không phải hãng cho màu da người/chụp chân dung đẹp nhất.</td>
       </tr>
           <tr>
         <td scope="row" data-label="Account">Chi tiết</td>
-        <td data-label="Due Date">Trong các trường hợp chụp người với dải sáng chênh lệch cao, Nikon sẽ cho kết quả tốt hơn Canon. và cũn vì chính cái này khiến Nikon thu được khá nhiều chi tiết phân vùng tối. (thường là so sánh ảnh RAW)</td>
-        <td data-label="Amount">Canon thu được ít chi tiết vùng tối hơn, luôn có xu hướng dư sáng khiến da mẫu trắng hơn.</td>
-
+        <td data-label="NIKON">Trong các trường hợp chụp người với dải sáng chênh lệch cao, Nikon sẽ cho kết quả tốt hơn Canon. và cũn vì chính cái này khiến Nikon thu được khá nhiều chi tiết phân vùng tối. (thường là so sánh ảnh RAW)</td>
+        <td data-label="Canon">Canon thu được ít chi tiết vùng tối hơn, luôn có xu hướng dư sáng khiến da mẫu trắng hơn.</td>
       </tr>
     </tbody>
   </table>
 
-Dynamic Range yếu có hại trong chụp cảnh thì cũng không hẳn 😃. Nói chung cái nào cũng có điểm mạnh, điểm yếu nhưng không phải là - chụp người - chụp cảnh. Nếu bạn không làm nghề và không thường xuyên chụp 1 loại đặc biệt nào đó thì chả phải lo cái gì cả.
+  Dynamic Range yếu có hại trong chụp cảnh thì cũng không hẳn 😃. Nói chung cái nào cũng có điểm mạnh, điểm yếu nhưng không phải là - chụp người - chụp cảnh. Nếu bạn không làm nghề và không thường xuyên chụp 1 loại đặc biệt nào đó thì chả phải lo cái gì cả.
 
-Trích nguồn [Đúng hay sai "Chụp người chọn Canon chụp cảnh chọn Nikon" ?](https://tinhte.vn/thread/dung-hay-sai-chup-nguoi-chon-canon-chup-canh-chon-nikon.2421576/page-2)
+  Trích nguồn [Đúng hay sai "Chụp người chọn Canon chụp cảnh chọn Nikon" ?](https://tinhte.vn/thread/dung-hay-sai-chup-nguoi-chon-canon-chup-canh-chon-nikon.2421576/page-2)
 
-So sánh nikon d600 với canon 7d, dòng fullframe so với crop có vẻ hơi khập khiễng nhỉ. Không sao.  Ta có thể tham khảo các cuộc chiến công bằng hơn như:
+  So sánh nikon d600 với canon 7d, dòng fullframe so với crop có vẻ hơi khập khiễng nhỉ. Không sao.  Ta có thể tham khảo các cuộc chiến công bằng hơn như:
 
   <p style="text-align:center; ">
     <img src="https://4.img-dpreview.com/files/p/TS560x560~forums/59202730/9c4a8d35bc6a4a17a2bd19085710c25b"><br>
@@ -113,7 +110,7 @@ hay còn gọi là <a style="color:red;font-weight:bold" href="https://www.youtu
     </picture><br>
    Có phải cứ add một preset HongKong vào, và ra bừa một tiệm tạp hóa cũ nào đó thì sẽ ra ảnh HongKong không?!
   </p>
-Đáp án là: <span style="color:red;font-weight:bold;text-transform:uppercase; ">Còn lâu ạ</span>!!!. Ngay từ lúc chụp họ đã có tư duy sẵn rồi. Background đơn giản, phục trang và ánh sáng cũng đã có tư duy trước. Mình sẽ viết chi tiết về màu sắc blend màu trong một bài viết khác, các bạn nhớ đón xem nhé.<br>
+Đáp án là: <span style="color:red;font-weight:bold;text-transform:uppercase; ">Còn lâu ạ!!!</span>. Ngay từ lúc chụp họ đã có tư duy sẵn rồi. Background đơn giản, phục trang và ánh sáng cũng đã có tư duy trước. Mình sẽ viết chi tiết về màu sắc blend màu trong một bài viết khác, các bạn nhớ đón xem nhé.<br>
 
 * Về tinh chỉnh: Phần Picture Control hoặc Picture Style có 4 yếu tố. Đó là Sharpness (Sh), Contrast (C), Saturation (Sa), Color tone (T)
 - Sharpness: Nếu bạn muốn ảnh càng nét thì set thông số này đẩy lên càng cao (Tối đa là +7) nhưng cũng đừng lạm dụng điều này. Vì cơ bản một phần là Nikon ảnh vốn đã nét, nên khi tăng Sh lên cũng chính làm ảnh bị răng cưa và vô tình tăng noise lên cao. Nên bình thường admin hay để ở (+3) hoặc (+4). Lưu ý nếu bạn sử dụng các lens hơi cũ tý hoặc máy ảnh đã lâu thì đẩy cao tý nữa cũng được.
@@ -136,7 +133,7 @@ Vì thế nếu muốn chụp ảnh trắng hồng chân dung cho nikon. Tại s
 
 
 <a name="tipchupwb"></a>
-<h3>4. Tips chụp ảnh voi cân bằng trắng WB để làm chủ tông màu<h.3>
+<h3>4. Tips chụp ảnh voi cân bằng trắng WB để làm chủ tông màu</h3>
 
 Bản thân màu sắc bức ảnh có tươi tắn hay không phụ thuộc phần lớn vào chính chiếc máy, chứ không phải do lens. Tuy nhiên, để máy nhận biết được màu sắc đúng với mắt người cảm nhận thì lại phụ thuộc vào người chụp. Bạn nên hiểu rõ khái niệm này để tùy chỉnh tông màu bức ảnh theo ý mình. Đó chính là khái niệm về Cân Bằng Trắng (White Balance). Bạn có thể đọc thêm trong bài viết [ánh sáng trong nhiếp ảnh]({% post_url 2022-07-13-anh-sang-trong-nhiep-anh %}) để hiểu về nhiệt độ Kelvin nói chung cũng như màu sắc ánh sáng nói riêng.
 
