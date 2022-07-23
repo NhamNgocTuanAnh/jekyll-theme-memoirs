@@ -158,11 +158,18 @@ Bản thân màu sắc bức ảnh có tươi tắn hay không phụ thuộc ph�
 
 <h3>5. Tips chỉnh sửa ảnh với file Raw hậu kỳ</h3>
 
-Hậu kì màu sắc hình ảnh là một phần không thể thiếu trong các chuỗi công việc của một NAG. Nếu bạn chụp bằng file RAW, cân bằng trắng là một trong số các tính năng điều chỉnh mà bạn hoàn toàn có thể thay đổi khi xử lý hậu kỳ mà không ảnh hưởng đến chất lượng và độ sắc nét. Ngoài ra, các thay đổi White Balance đối với file RAW bao giờ cũng linh hoạt hơn so với khi thay đổi với file JPEG. Cho nên miễn là bạn chụp ở định dạng RAW thì việc điều chỉnh nhiệt độ màu của nguồn sáng trong bức ảnh sẽ dễ dàng xử lý hơn, đặc biệt ở giai đoạn hậu kỳ.<br>
+Hậu kì màu sắc hình ảnh là một phần không thể thiếu trong các chuỗi công việc của một NAG. Nếu bạn chụp bằng file RAW, cân bằng trắng là một trong số các tính năng điều chỉnh mà bạn hoàn toàn có thể thay đổi khi xử lý hậu kỳ mà không ảnh hưởng đến chất lượng và độ sắc nét.
+  <p style="text-align:center; ">
+    <picture>
 
-Nikon đôi khi cho ra màu " đỏ, vàng, cam ". Nikon đặc biệt là màu tím đó bác.
-Khó ra màu chuẩn thôi rồi.
-Có bác nào chụp màu tím chưa ạ?
+      <source type="image/webp" srcset="../../assets/images/nhiepanh/anhsang/cach-chinh-anh-nguoc-sang-trong-photoshop.webp">
+      <source type="image/jpeg" srcset="../../assets/images/nhiepanh/anhsang/cach-chinh-anh-nguoc-sang-trong-photoshop.jpg">
+      <img src="../../assets/images/nhiepanh/anhsang/cach-chinh-anh-nguoc-sang-trong-photoshop.jpg" alt="Hướng ánh sáng" >
+
+    </picture><br>
+  </p>
+
+Ngoài ra, các thay đổi White Balance đối với file RAW bao giờ cũng linh hoạt hơn so với khi thay đổi với file JPEG. Cho nên miễn là bạn chụp ở định dạng RAW thì việc điều chỉnh nhiệt độ màu của nguồn sáng trong bức ảnh sẽ dễ dàng xử lý hơn, đặc biệt ở giai đoạn hậu kỳ.
 
 <h3>Tr&iacute;ch nguồn</h3><blockquote><p>Khoảnh khắc l&agrave; thứ duy nhất tồn tại, nhưng thứ kh&aacute;c c&oacute; hay kh&ocirc;ng c&oacute;, kh&ocirc;ng quan trọng!</p></blockquote><p>C&aacute;c thứ như c&acirc;n bằng trắng bạn c&acirc;n bằng sai c&oacute; thể đổ v&agrave;o phần mềm PTS, LR, ... để c&acirc;n lại. Trong khi bạn cứ loay hoay chỉnh K, bao nhi&ecirc;u khoảnh khắc đẹp qua hết hoặc set up l&acirc;u kh&aacute;ch họ lại sốt ruột.Trừ những m&aacute;y kh&aacute; cũ ra, c&aacute;c d&ograve;ng m&aacute;y mới đ&atilde; c&acirc;n bằng rất tốt rồi. Kh&ocirc;ng tự tin th&igrave; chụp raw về sửa. Hậu kỳ m&agrave;u m&egrave; th&igrave; kh&oacute; chứ chỉnh căn bản kh&ocirc;ng kh&oacute; đ&acirc;u, t&igrave;m t&ograve;i t&yacute; l&agrave; ra.</p><p>M&igrave;nh xin được đ&iacute;nh ch&iacute;nh luận điểm <strong>nikon chỉ chụp cảnh</strong>. Hiện nay c&aacute;c d&ograve;ng m&aacute;y mới như nikon d750 trở về sau, đ&atilde; c&oacute; hệ thống c&acirc;n bằng trắng cực tốt. Tuy sẽ kh&ocirc;ng cho ra c&aacute;c chất ảnh trắng hồng như canon, nhưng thế l&agrave; đ&atilde; rất tốt cho anh em chụp đ&aacute;m, hoặc chụp dịch vụ rồi. bạn chỉ cần để lưu ý là nikon chơi màu tím, đỏ ,vàng và cam hơi khó thôi.&nbsp;</p>
 
