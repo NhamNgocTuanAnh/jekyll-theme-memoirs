@@ -4,7 +4,7 @@ title: 'Chụp da trắng hồng nikon  - [Cẩm nang nhiếp ảnh]'
 author: sal
 categories: [Nhiếp ảnh]
 tags: [tips chụp ảnh]
-image: assets/images/nhiepanh/doituong/cai-dat-picture-control-nikon-chan-dung-rsz_1.jpg
+image: assets/images/nhiepanh/doituong/cai-dat-picture-control-nikon-chan-dung.webp
 rating: 5
 comments: false
 description: Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị vàng da, chỉ chụp phong cảnh đẹp thôi. Mình xin đính chính là điều đó là sự thật. Vậy làm sao để khắc phục bớt đi điểm yếu cũng đồng thời là điểm mạnh này cho chụp chân dung? Vào bài viết nhỉ!!
