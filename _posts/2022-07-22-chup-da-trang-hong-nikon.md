@@ -162,20 +162,24 @@ Bản thân màu sắc bức ảnh có tươi tắn hay không phụ thuộc ph�
 
 Hậu kì màu sắc hình ảnh là một phần không thể thiếu trong các chuỗi công việc của một NAG. Nếu bạn chụp bằng file RAW, cân bằng trắng là một trong số các tính năng điều chỉnh mà bạn hoàn toàn có thể thay đổi khi xử lý hậu kỳ mà không ảnh hưởng đến chất lượng và độ sắc nét.
   <p style="text-align:center; ">
-    <picture>
-
-      <source type="image/webp" srcset="../../assets/images/nhiepanh/anhsang/chinh-anh-nguoc-sang-trong-photoshop.webp">
-      <source type="image/jpeg" srcset="../../assets/images/nhiepanh/anhsang/chinh-anh-nguoc-sang-trong-photoshop.jpg">
-      <img src="../../assets/images/nhiepanh/anhsang/chinh-anh-nguoc-sang-trong-photoshop.jpg" alt="Hướng ánh sáng" >
-
-    </picture><br>
+      <img src="../../assets/images/nhiepanh/anhsang/photoshop-da-trang-hong.webp" alt="Hướng ánh sáng" >
+<a href="https://www.youtube.com/watch?v=OK6_3lnHcOY">Hướng dẫn xử lý ảnh chân dung có màu da bị ám vàng đơn giản chỉ vài giây</a>
   </p>
-
-Ngoài ra, các thay đổi White Balance đối với file RAW bao giờ cũng linh hoạt hơn so với khi thay đổi với file JPEG. Cho nên miễn là bạn chụp ở định dạng RAW thì việc điều chỉnh nhiệt độ màu của nguồn sáng trong bức ảnh sẽ dễ dàng xử lý hơn, đặc biệt ở giai đoạn hậu kỳ.
+Bạn chỉ cần vào chế độ Adjustment Brush chọn khuôn mặt
+<ul>
+<li>Với thanh Temperature: bạn kéo về xanh hơn</li>
+<li>Thanh Tint: Bạn kéo về hồng hơn</li>
+<li>Cùng với đó bạn kéo <b>Exposre tăng</br>, <b>Contrast và Clarity giảm</b>.</li>
+</ul>
+Ngoài ra, các thay đổi White Balance đối với file RAW bao giờ cũng linh hoạt hơn so với khi thay đổi với file JPEG. Cho nên miễn là bạn chụp ở định dạng RAW thì việc điều chỉnh nhiệt độ màu của nguồn sáng trong bức ảnh sẽ dễ dàng xử lý hơn, đặc biệt ở giai đoạn hậu kỳ.<br>
+Lưu ý: Khi chụp ảnh ở các nơi có background như hoa vàng, tường vàng,... trong khung cảnh rất dễ bị ám vàng. Không chỉ máy Nikon mà mọi máy khi chụp sẽ bị, bạn lưu ý nhé. (￣ε￣＠)
 
 <h3>Tr&iacute;ch nguồn</h3>
 <ul>	<li><a href="https://kieutruong.com/lam-min-da-bang-photoshop-2021-dep-nhu-da-em-be/">L&agrave;m mịn da bằng Photoshop 2021 đẹp như da em b&eacute;</a></li>	<li><a href="https://www.50mm.vn/2017/09/09/gia-lap-mau-phim-fuji-tren-may-nikon/">Giả lập m&agrave;u phim Fuji ngay tr&ecirc;n m&aacute;y ảnh nikon</a></li>	<li><a href="https://kieutruong.com/tim-hieu-va-lam-chu-picture-control-may-anh-nikon/">T&igrave;m hiểu v&agrave; l&agrave;m chủ Picture Control m&aacute;y ảnh nikon</a></li></ul>
-<p style="margin-top: 0px; margin-bottom: 0px; ">C&aacute;c thứ như c&acirc;n bằng trắng bạn c&acirc;n bằng sai c&oacute; thể đổ v&agrave;o phần mềm PTS, LR, ... để c&acirc;n lại. Trong khi bạn cứ loay hoay chỉnh K, bao nhi&ecirc;u khoảnh khắc đẹp qua hết hoặc set up l&acirc;u kh&aacute;ch họ lại sốt ruột.Trừ những m&aacute;y kh&aacute; cũ ra, c&aacute;c d&ograve;ng m&aacute;y mới đ&atilde; c&acirc;n bằng rất tốt rồi. Kh&ocirc;ng tự tin th&igrave; chụp raw về sửa. Hậu kỳ m&agrave;u m&egrave; th&igrave; kh&oacute; chứ chỉnh căn bản kh&ocirc;ng kh&oacute; đ&acirc;u, t&igrave;m t&ograve;i t&yacute; l&agrave; ra.</p><p>M&igrave;nh xin được đ&iacute;nh ch&iacute;nh luận điểm <strong>nikon chỉ chụp cảnh</strong>. Hiện nay c&aacute;c d&ograve;ng m&aacute;y mới như nikon d750 trở về sau, đ&atilde; c&oacute; hệ thống c&acirc;n bằng trắng cực tốt. Tuy sẽ kh&ocirc;ng cho ra c&aacute;c chất ảnh trắng hồng như canon, nhưng thế l&agrave; đ&atilde; rất tốt cho anh em chụp đ&aacute;m, hoặc chụp dịch vụ rồi. bạn chỉ cần để lưu ý là nikon chơi màu tím, đỏ ,vàng và cam hơi khó thôi.&nbsp;</p>
+<p style="margin-top: 0px; margin-bottom: 0px; ">C&aacute;c thứ như c&acirc;n bằng trắng bạn c&acirc;n bằng sai c&oacute; thể đổ v&agrave;o phần mềm PTS, LR, ... để c&acirc;n lại. Trong khi bạn cứ loay hoay chỉnh K, bao nhi&ecirc;u khoảnh khắc đẹp qua hết hoặc set up l&acirc;u kh&aacute;ch họ lại sốt ruột.Trừ những m&aacute;y kh&aacute; cũ ra, c&aacute;c d&ograve;ng m&aacute;y mới đ&atilde; c&acirc;n bằng rất tốt rồi. Kh&ocirc;ng tự tin th&igrave; chụp raw về sửa. Hậu kỳ m&agrave;u m&egrave; th&igrave; kh&oacute; chứ chỉnh căn bản kh&ocirc;ng kh&oacute; đ&acirc;u, t&igrave;m t&ograve;i t&yacute; l&agrave; ra.</p> <p style="text-align:center; ">
+      <img src="../../assets/images/nhiepanh/anhsang/chinh-anh-nguoc-sang-trong-photoshop.webp" alt="Cứu sáng ảnh quá tối!" >
+Khả năng lấy lại chi tiết của máy ảnh mới đã rất tốt.
+  </p><p>M&igrave;nh xin được đ&iacute;nh ch&iacute;nh luận điểm <strong>nikon chỉ chụp cảnh</strong>. Hiện nay c&aacute;c d&ograve;ng m&aacute;y mới như nikon d750 trở về sau, đ&atilde; c&oacute; hệ thống c&acirc;n bằng trắng cực tốt. Tuy sẽ kh&ocirc;ng cho ra c&aacute;c chất ảnh trắng hồng như canon, nhưng thế l&agrave; đ&atilde; rất tốt cho anh em chụp đ&aacute;m, hoặc chụp dịch vụ rồi. bạn chỉ cần để lưu ý là nikon chơi màu tím, đỏ ,vàng và cam hơi khó thôi.&nbsp;</p>
 <blockquote><p>Khoảnh khắc l&agrave; thứ duy nhất tồn tại, nhưng thứ kh&aacute;c c&oacute; hay kh&ocirc;ng c&oacute;, kh&ocirc;ng quan trọng!</p></blockquote>
 <style>
 .box {
