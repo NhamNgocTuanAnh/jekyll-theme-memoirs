@@ -78,7 +78,7 @@ Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị
   So sánh nikon d600 với canon 7d, dòng fullframe so với crop có vẻ hơi khập khiễng nhỉ. Không sao.  Ta có thể tham khảo các cuộc chiến công bằng hơn như:
 
   <p style="text-align:center; ">
-    <img src="https://4.img-dpreview.com/files/p/TS560x560~forums/59202730/9c4a8d35bc6a4a17a2bd19085710c25b"><br>
+    <img type="image/webp" src="../../assets/images/nhiepanh/anhsang/canon-vs-nikon-noise.webp"><br>
     Re: 5D Mark iv Dynamic Range vs Nikon: Canon EOS-1D / 5D / 6D Talk Forum: Digital Photography Review<br>
     <img src="https://i.ytimg.com/vi/lIKcfKhE-ew/maxresdefault.jpg"><br>
     Nikon D800 v Canon 5D Mark III video test: high ISO, moiré, rolling shutter & dynamic range
