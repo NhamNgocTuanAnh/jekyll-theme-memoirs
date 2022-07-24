@@ -165,11 +165,12 @@ Hậu kì màu sắc hình ảnh là một phần không thể thiếu trong cá
       <img src="../../assets/images/nhiepanh/anhsang/photoshop-da-trang-hong.webp" alt="Hướng ánh sáng" >
 <a href="https://www.youtube.com/watch?v=OK6_3lnHcOY">Hướng dẫn xử lý ảnh chân dung có màu da bị ám vàng đơn giản chỉ vài giây</a>
   </p>
-Bạn chỉ cần vào chế độ Adjustment Brush chọn khuôn mặt
+Bạn cần vào chế độ Adjustment Brush sau khi chọn khuôn mặt, Chú với với các thang nhiệt độ màu và
 <ul>
 <li>Với thanh Temperature: bạn kéo về xanh hơn</li>
 <li>Thanh Tint: Bạn kéo về hồng hơn</li>
 <li>Cùng với đó bạn kéo <b>Exposre tăng</br>, <b>Contrast và Clarity giảm</b>.</li>
+<li>Nếu màu sắc quá sặc sỡ, bạn có thể giảm thanh Saturation đi.</li>
 </ul>
 Ngoài ra, các thay đổi White Balance đối với file RAW bao giờ cũng linh hoạt hơn so với khi thay đổi với file JPEG. Cho nên miễn là bạn chụp ở định dạng RAW thì việc điều chỉnh nhiệt độ màu của nguồn sáng trong bức ảnh sẽ dễ dàng xử lý hơn, đặc biệt ở giai đoạn hậu kỳ.<br>
 Lưu ý: Khi chụp ảnh ở các nơi có background như hoa vàng, tường vàng,... trong khung cảnh rất dễ bị ám vàng. Không chỉ máy Nikon mà mọi máy khi chụp sẽ bị, bạn lưu ý nhé. (￣ε￣＠)
