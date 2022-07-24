@@ -116,7 +116,7 @@ hay còn gọi là <a style="color:red;font-weight:bold" href="https://www.youtu
       <source type="image/jpeg" srcset="../../assets/images/nhiepanh/anhsang/so-sanh-may-anh-mat-nguoi-1.jpg">
       <img src="../../assets/images/nhiepanh/anhsang/so-sanh-may-anh-mat-nguoi-1.jpg" alt="Dải nhạy sáng">
     </picture><br>
-  </p><p>T&ocirc;i sẽ l&agrave;m ri&ecirc;ng một b&agrave;i viết về đo s&aacute;ng ở đ&acirc;u để ph&ugrave; hợp với &yacute; đồ của bạn. C&ograve;n trong khu&ocirc;n khổ b&agrave;i viết n&agrave;y, chỉ cần nhớ<strong> lấy n&eacute;t ở đ&acirc;u đo s&aacute;ng ở đấy</strong>.</p><p>Tiếp theo ta sẽ đến với mẹo tiếp theo: c&acirc;n bằng trắng.</p>
+  </p><p>T&ocirc;i sẽ l&agrave;m ri&ecirc;ng một b&agrave;i viết về đo s&aacute;ng ở đ&acirc;u để ph&ugrave; hợp với &yacute; đồ của bạn. C&ograve;n trong khu&ocirc;n khổ b&agrave;i viết n&agrave;y, chỉ cần nhớ<strong> lấy n&eacute;t ở đ&acirc;u đo s&aacute;ng ở đấy</strong>.</p><p>Tiếp theo ta sẽ đến với mẹo tiếp theo: <b>c&acirc;n bằng trắng</b>.</p>
 <a name="tipchupwb"></a>
 <h3>4. Tips chụp ảnh với cân bằng trắng WB để làm chủ tông màu</h3>
 
@@ -140,7 +140,7 @@ Bản thân màu sắc bức ảnh có tươi tắn hay không phụ thuộc ph�
 
   <span style="color:red;font-weight:bold">Lưu ý</span>: Ám vàng thì chỉnh WB giảm lại xíu. 5000k là lý thuyết. Trong thực tế còn phải phụ thuộc vào màn hình live view bạn đang xem có đúng màu hay không (màn hình máy ảnh canon màu thường rất nịnh mắt) nên bạn chỉ cần chỉnh tương đối là được. Còn đâu để về khẩu hậu kỳ lo. Vì khoảnh khắc là vô giá.<br>
 
-  <span style="color:red;font-weight:bold">Lưu ý về lens tamron 17-50 f2.8</span>: Nguyên nhân cơ bản bản ống kính tamron này chụp hơi ám vàng, nếu bạn chụp ngoài trời nên để dayligth hoặc cố định K5200 - WB shift dương+blue tí còn chụp trong nhà thì từ K4200 đến k4500.
+  <span style="color:red;font-weight:bold">Lưu ý về lens tamron 17-50 f2.8</span>: Nguyên nhân cơ bản bản ống kính tamron này chụp hơi ám vàng, nếu bạn chụp ngoài trời nên để dayligth hoặc cố định K5200 - WB shift dương + blue tí còn chụp trong nhà thì từ K4200 đến k4500.
 
   <p style="text-align:center; ">
     <picture>
@@ -165,11 +165,11 @@ Hậu kì màu sắc hình ảnh là một phần không thể thiếu trong cá
       <img src="../../assets/images/nhiepanh/anhsang/photoshop-da-trang-hong.webp" alt="Hướng ánh sáng" >
 <a href="https://www.youtube.com/watch?v=OK6_3lnHcOY">Hướng dẫn xử lý ảnh chân dung có màu da bị ám vàng đơn giản chỉ vài giây</a>
   </p>
-Bạn cần vào chế độ Adjustment Brush sau khi chọn khuôn mặt, Chú với với các thang nhiệt độ màu và
+Bạn cần vào chế độ Adjustment Brush sau khi chọn khuôn mặt, Chú ý tới các thang nhiệt độ màu
 <ul>
 <li>Với thanh Temperature: bạn kéo về xanh hơn</li>
 <li>Thanh Tint: Bạn kéo về hồng hơn</li>
-<li>Cùng với đó bạn kéo <b>Exposre tăng</br>, <b>Contrast và Clarity giảm</b>.</li>
+<li>Cùng với đó bạn kéo <b>Exposre tăng</b>, <b>Contrast và Clarity giảm</b>.</li>
 <li>Nếu màu sắc quá sặc sỡ, bạn có thể giảm thanh Saturation đi.</li>
 </ul>
 Ngoài ra, các thay đổi White Balance đối với file RAW bao giờ cũng linh hoạt hơn so với khi thay đổi với file JPEG. Cho nên miễn là bạn chụp ở định dạng RAW thì việc điều chỉnh nhiệt độ màu của nguồn sáng trong bức ảnh sẽ dễ dàng xử lý hơn, đặc biệt ở giai đoạn hậu kỳ.<br>
@@ -178,7 +178,7 @@ Lưu ý: Khi chụp ảnh ở các nơi có background như hoa vàng, tường 
 <h3>Tr&iacute;ch nguồn</h3>
 <ul>	<li><a href="https://kieutruong.com/lam-min-da-bang-photoshop-2021-dep-nhu-da-em-be/">L&agrave;m mịn da bằng Photoshop 2021 đẹp như da em b&eacute;</a></li>	<li><a href="https://www.50mm.vn/2017/09/09/gia-lap-mau-phim-fuji-tren-may-nikon/">Giả lập m&agrave;u phim Fuji ngay tr&ecirc;n m&aacute;y ảnh nikon</a></li>	<li><a href="https://kieutruong.com/tim-hieu-va-lam-chu-picture-control-may-anh-nikon/">T&igrave;m hiểu v&agrave; l&agrave;m chủ Picture Control m&aacute;y ảnh nikon</a></li></ul>
 <p style="margin-top: 0px; margin-bottom: 0px; ">C&aacute;c thứ như c&acirc;n bằng trắng bạn c&acirc;n bằng sai c&oacute; thể đổ v&agrave;o phần mềm PTS, LR, ... để c&acirc;n lại. Trong khi bạn cứ loay hoay chỉnh K, bao nhi&ecirc;u khoảnh khắc đẹp qua hết hoặc set up l&acirc;u kh&aacute;ch họ lại sốt ruột.Trừ những m&aacute;y kh&aacute; cũ ra, c&aacute;c d&ograve;ng m&aacute;y mới đ&atilde; c&acirc;n bằng rất tốt rồi. Kh&ocirc;ng tự tin th&igrave; chụp raw về sửa. Hậu kỳ m&agrave;u m&egrave; th&igrave; kh&oacute; chứ chỉnh căn bản kh&ocirc;ng kh&oacute; đ&acirc;u, t&igrave;m t&ograve;i t&yacute; l&agrave; ra.</p> <p style="text-align:center; ">
-      <img src="../../assets/images/nhiepanh/anhsang/chinh-anh-nguoc-sang-trong-photoshop.webp" alt="Cứu sáng ảnh quá tối!" >
+      <img src="../../assets/images/nhiepanh/anhsang/chinh-anh-nguoc-sang-trong-photoshop.webp" alt="Cứu sáng ảnh quá tối!" ><br>
 Khả năng lấy lại chi tiết của máy ảnh mới đã rất tốt.
   </p><p>M&igrave;nh xin được đ&iacute;nh ch&iacute;nh luận điểm <strong>nikon chỉ chụp cảnh</strong>. Hiện nay c&aacute;c d&ograve;ng m&aacute;y mới như nikon d750 trở về sau, đ&atilde; c&oacute; hệ thống c&acirc;n bằng trắng cực tốt. Tuy sẽ kh&ocirc;ng cho ra c&aacute;c chất ảnh trắng hồng như canon, nhưng thế l&agrave; đ&atilde; rất tốt cho anh em chụp đ&aacute;m, hoặc chụp dịch vụ rồi. bạn chỉ cần để lưu ý là nikon chơi màu tím, đỏ ,vàng và cam hơi khó thôi.&nbsp;</p>
 <blockquote><p>Khoảnh khắc l&agrave; thứ duy nhất tồn tại, nhưng thứ kh&aacute;c c&oacute; hay kh&ocirc;ng c&oacute;, kh&ocirc;ng quan trọng!</p></blockquote>
