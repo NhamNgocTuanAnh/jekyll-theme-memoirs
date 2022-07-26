@@ -37,6 +37,10 @@ Một trong những lý do mình sử dụng Python rất nhiều mặc dù mìn
 Trong bài viết này mình sẽ nói về Cython thứ giúp cho code Python của bạn nhanh hơn nhiều lần để hạn chế điểm yếu là chạy chậm của Python thuần.
 Ví dụ: https://www.pydev.vn/d/62-huong-dan-cython-co-ban-cach-chuyen-code-python-thanh-code-cc
 
+Vì đã có rất nhiều bên mô tả và code Cython rồi, bạn có thể tham khảo ở đây:
+* [Cython - Cách Để Code Python Chạy Nhanh Hơn](https://codelearn.io/sharing/cython-cach-de-code-python-chay-nhanh)
+* [Cython: Python chạy nhanh như C](https://niithanoi.edu.vn/cython-python-chay-nhanh-nhu-c.html)
+
 A. Cách làm
 
 1. Ảnh đầu vào được chuyển thành đa cấp xám;
