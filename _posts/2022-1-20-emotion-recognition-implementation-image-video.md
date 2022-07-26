@@ -1,32 +1,41 @@
 ---
 layout: post
-title:  "Nhận Diện Cảm Xúc Khuôn Mặt Real-Time Với Python, Keras, Cython và OpenCV.(Part 4) Triển khai trên ảnh và video - [Học máy]"
+title:  "Nhận Diện Cảm Xúc Khuôn Mặt Real-Time Với Python, Keras, Cython và OpenCV.(Part 4) Tối ưu với Cython - [Học máy]"
 author: sal
 categories: [ Machine learning, học máy ]
 tags: [ Python, Lập trình ]
 image: assets/images/emotion-detection/happy-ex-p4.webp
 # rating: 4.5
 comments: false
-description: Trong phần 4 này. Chúng ta sẽ sử dụng model đã training từ phần 3 để tạo một ứng dụng nhận dạng cảm xúc python đơn giản
+description: Trong các phần trước, vấn đề siêu chậm của python đã được tôi nhắc đến. Vậy làm thế nào để giữ được code dễ hiểu python nhưng lại có tốc độ cao gần như C++?
 ---
 
-<!-- > Chúng ta là những gì mà chúng ta ăn vào.  -->
-Trong phần 3 này. Chúng ta sẽ đi thẳng vào ứng dụng của bài toán nhận dạng cảm xúc sử dụng ngôn ngữ lập trình python và thư viện keras.
+Làm thế nào để giữ được code dễ hiểu python nhưng lại có tốc độ cao gần như C++? Làm sao với phần cứng chỉ dùng cpu có thể xử lý nhiều khuôn mặt trong cùng một lúc?
 
-Đây là một bài toán phân lớp tương đối tiêu chuẩn. Một hệ thống nhận diện cảm xúc khuôn mặt thường được triển khai gồm **2 bước**.
+Xử lý một khuôn mặt đã khó, rồi phải đưa khuôn mặt ấy vào để xác định cảm xúc. Nay lại rất nhiều khuôn mặt cùng một lúc, lại còn realtime .
+![image](/assets/images/emotion-detection/result-two.webp){:class="img-responsive"}
+Bạn có nhìn thấy cái gì sai ở đây không?
+**2 bước**.
 1. **Nhận ảnh và tiền xử lý.** Ảnh khuôn mặt được lấy từ nguồn dữ liệu tĩnh (chẳng hạn như từ file, database), hoặc động (từ livestream, webcam, camera,…), nguồn dữ liệu này có thể trải qua một số bước tiền xử lý nhằm tăng chất lượng hình ảnh để giúp việc phát hiện cảm xúc trở nên hiệu quả hơn.
 2. **Phân lớp nhận dạng cảm xúc.**
 
 ---
 ### Mục lục
-[1. Ứng dụng với ảnh ](#ungdunganh)\\
+[1. Giới thiệu và cài đặt Cython ](#gioithieu)\\
 [2. Ứng dụng với video](#ungdungvideo)\\
 [3. Tổng kết ](#tongket)
 
 ---
 
-<a name="ungdunganh"></a>
-### 1. Ứng dụng với ảnh
+<a name="gioithieu"></a>
+### 1. Giới thiệu và cài đặt Cython
+
+Mình tin rằng bạn đã nghe nhiều người phàn nàn rằng Python quá chậm. Mình thấy mọi người chỉ so sánh Python với C về hiệu năng - performance, nhưng không mấy ai so sánh về thời gian phát triển. Thời gian phát triển Python quá nhanh vì Python có vẻ "dễ code" hơn một vài ngôn ngữ khác và bạn không phải đối mặt với con trỏ hay quản lý bộ nhớ, v.v. Nếu bạn muốn code cú pháp dễ dàng như Python và hiệu suất cao như C thì Cython là lựa chọn của bạn. Bạn có thể sử dụng Cython để viết các extention C cho Python. Code Python của bạn sẽ được dịch sang code C/C++ và được tối ưu hóa. Nó sẽ cung cấp cho bạn hiệu suất cao và bạn có thể sử dụng nó trong các dự án Python của mình.
+
+Một trong những lý do mình sử dụng Python rất nhiều mặc dù mình cũng biết cơ bản một số ngôn ngữ khác (chẳng hạn C/C++) là vì trong hầu hết các trường hợp, thời gian phát triển quan trọng hơn hiệu suất. Nếu bạn làm nhanh sẽ làm được nhiều và có lẽ chỉ ở bước đưa ra sản phẩm bạn mới thực sự cần đến performance. Hơn nữa Python có một cộng đồng rất lớn và các thư viện hỗ trợ nhiều vô kể nên bạn có thể làm rất nhiều thứ.
+
+Trong bài viết này mình sẽ nói về Cython thứ giúp cho code Python của bạn nhanh hơn nhiều lần để hạn chế điểm yếu là chạy chậm của Python thuần.
+Ví dụ: https://www.pydev.vn/d/62-huong-dan-cython-co-ban-cach-chuyen-code-python-thanh-code-cc
 
 A. Cách làm
 

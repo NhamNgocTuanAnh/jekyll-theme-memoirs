@@ -120,6 +120,11 @@ hay còn gọi là <a style="color:red;font-weight:bold" href="https://www.youtu
 <a name="tipchupwb"></a>
 <h3>4. Tips chụp ảnh với cân bằng trắng WB để làm chủ tông màu</h3>
 
+  <p style="text-align:center; ">
+      <img src="../../assets/images/nhiepanh/doituong/chup-style-life-01.webp" alt="Hướng ánh sáng" >
+<a href="https://www.youtube.com/watch?v=OK6_3lnHcOY">Thêm phụ kiện, thêm tự tin</a>
+  </p>
+
 Bản thân màu sắc bức ảnh có tươi tắn hay không phụ thuộc phần lớn vào chính chiếc máy, chứ không phải do lens. Tuy nhiên, để máy nhận biết được màu sắc đúng với mắt người cảm nhận thì lại phụ thuộc vào người chụp. Bạn nên hiểu rõ khái niệm này để tùy chỉnh tông màu bức ảnh theo ý mình. Đó chính là khái niệm về Cân Bằng Trắng (White Balance). Bạn có thể đọc thêm trong bài viết <a href="{{site.baseurl}}/anh-sang-trong-nhiep-anh/">ánh sáng trong nhiếp ảnh</a> để hiểu về nhiệt độ Kelvin nói chung cũng như màu sắc ánh sáng nói riêng.
 
   <p style="text-align:center; ">
@@ -162,7 +167,7 @@ Bản thân màu sắc bức ảnh có tươi tắn hay không phụ thuộc ph�
 
 Hậu kì màu sắc hình ảnh là một phần không thể thiếu trong các chuỗi công việc của một NAG. Nếu bạn chụp bằng file RAW, cân bằng trắng là một trong số các tính năng điều chỉnh mà bạn hoàn toàn có thể thay đổi khi xử lý hậu kỳ mà không ảnh hưởng đến chất lượng và độ sắc nét.
   <p style="text-align:center; ">
-      <img src="../../assets/images/nhiepanh/anhsang/photoshop-da-trang-hong.webp" alt="Hướng ánh sáng" >
+      <img src="../../assets/images/nhiepanh/doituong/chup-style-life-01.webp" alt="Hướng ánh sáng" >
 <a href="https://www.youtube.com/watch?v=OK6_3lnHcOY">Hướng dẫn xử lý ảnh chân dung có màu da bị ám vàng đơn giản chỉ vài giây</a>
   </p>
 Bạn cần vào chế độ Adjustment Brush sau khi chọn khuôn mặt, Chú ý tới các thang nhiệt độ màu
