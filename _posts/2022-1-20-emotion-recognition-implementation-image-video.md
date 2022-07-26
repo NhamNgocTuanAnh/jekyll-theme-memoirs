@@ -22,8 +22,9 @@ Bạn có nhìn thấy cái gì sai ở đây không?
 ---
 ### Mục lục
 [1. Giới thiệu và cài đặt Cython ](#gioithieu)\\
-[2. Ứng dụng với video](#ungdungvideo)\\
-[3. Tổng kết ](#tongket)
+[2. Lý thuyết về Hàng đợi - Queue](#lythuyetvecode)\\
+[3. Mã lập trình và giải thích ](#malaptrinhvagiaithich)
+[4. Kết luận ](#ketluan)
 
 ---
 
@@ -46,28 +47,59 @@ Vì đã có rất nhiều bên mô tả và code Cython rồi, bạn có thể 
 * [Cython: Python chạy nhanh như C](https://niithanoi.edu.vn/cython-python-chay-nhanh-nhu-c.html)
 * [Hướng dẫn Cython cơ bản cách chuyển code python thành code c/c++](https://codelearn.io/sharing/cython-cach-de-code-python-chay-nhanh)
 
-A. Cách làm
+<a name="lythuyetvecode"></a>
+### 2. Lý thuyết về Hàng đợi - Queue
+Hàng đợi (queue) là một cấu trúc dữ liệu hoạt động theo cơ chế FIFO (First In First Out), tạm dịch là “vào trước ra trước”. Có nghĩa là phần tử nào được thêm hàng đợi trước thì sẽ được lấy ra trước.
 
-1. Ảnh đầu vào được chuyển thành đa cấp xám;
-2. Dùng haar cascade (OpenCV) tìm kiếm vùng mặt người trên ảnh đầu vào;
-3. Vùng ảnh mặt người được chuyển đổi về kích thước 48x48;
-4. Ảnh 48x48 đa cấp xám chuyển đổi về miền [0, 1] sau đó đưa vào mô hình CNN;
-5. Đầu ra của CNN là xác suất của các cảm xúc, chọn cảm xúc có xác xuất cao nhất làm kết quả cuối cùng.
+![image](/assets/images/emotion-detection/Queue-Illustration.webp){:class="img-responsive"}
 
-B. Triển khai code
+```python
 
-{% gist cf7d11672bce4a830524d0ccd6b0043f %}
-<a name="ungdungvideo"></a>
-### 2. Ứng dụng với video
-Vấn đề này dễ dàng hơn vì chúng ta có rất nhiều thông tin về khuôn mặt
-dựa vào các khung hình liên tiếp, và vấn đề này cũng thực tiễn hơn nhiều so
-với nhận dạng cảm xúc trong không gian 2D.\\
-Việc nhận dạng cảm xúc khuôn mặt được thực hiện trên các bức ảnh, do
-đó việc lấy ảnh từ camera ta phải chuyển thành các ảnh tĩnh và xử lý trên
-từng ảnh tĩnh. Khi đã có ảnh đầu vào, tiếp tục chuyển ảnh cho quá trình xử
-lý tiếp theo.
+# Python program to
+# demonstrate queue implementation
+# using collections.dequeue
 
-{% gist 4d585badff602951bd84b0e2c29c4412 %}
+
+from collections import deque
+
+# Initializing a queue
+q = deque()
+
+# Adding elements to a queue
+q.append('a')
+q.append('b')
+q.append('c')
+
+print("Initial queue")
+print(q)
+
+# Removing elements from a queue
+print("\nElements dequeued from the queue")
+print(q.popleft())
+print(q.popleft())
+print(q.popleft())
+
+print("\nQueue after removing elements")
+print(q)
+
+# Uncommenting q.popleft()
+# will raise an IndexError
+# as queue is now empty
+```
+Nguyên tắc đơn giản của hàng đợi là ai vào quán trà sữa trước thì sẽ được mua trước, ai vô sau thì mua sau.
+
+```console
+Initial queue
+deque(['a', 'b', 'c'])
+
+Elements dequeued from the queue
+a
+b
+c
+
+Queue after removing elements
+deque([])
+```
 
 <a name="tongket"></a>
 ### 3. Tổng kết
