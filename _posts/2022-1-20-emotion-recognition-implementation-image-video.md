@@ -44,9 +44,10 @@ Vì đã có rất nhiều bên mô tả và code Cython rồi, bạn có thể 
 
 <a name="lythuyetvecode"></a>
 ### 2. Lý thuyết về Hàng đợi - Queue
-Hàng đợi (queue) là một cấu trúc dữ liệu hoạt động theo cơ chế FIFO (First In First Out), tạm dịch là “vào trước ra trước”. Có nghĩa là phần tử nào được thêm hàng đợi trước thì sẽ được lấy ra trước.
 
 ![image](/assets/images/emotion-detection/Queue-Illustration.webp){:class="img-responsive"}
+
+Hàng đợi (queue) là một cấu trúc dữ liệu hoạt động theo cơ chế FIFO (First In First Out), tạm dịch là “vào trước ra trước”. Có nghĩa là phần tử nào được thêm hàng đợi trước thì sẽ được lấy ra trước.
 
 ```python
 
@@ -121,8 +122,9 @@ Nhưng trước tiên chúng ta cần hiểu về thread/process là gì? Vì bl
 Tạo một ứng dụng không khó, nhưng để đáp ứng được tốc độ xử lý, độ chính xác và mức độ sử dụng resource thì cần phải tối ưu nhiều thứ:
 
 - Giảm nhẹ kích thước mô hình thông qua: Quantization và compress mô hình.
-- Optimize lại code.
+- Optimize lại code: do Cython chajy treen neefn python thôi nên ghi phân luồng và queue không thật sự là phân luồng cà queue giống C++ hoặc JAVA được.
 - Chuyển từ single-thread sang multi-thread.
 - Allocate lại tài nguyên như CPU, Memory.
 
 Mình tin rằng bạn đã nghe nhiều người phàn nàn rằng Python quá chậm. Mình thấy mọi người chỉ so sánh Python với C về hiệu năng - performance, nhưng không mấy ai so sánh về thời gian phát triển. Thời gian phát triển Python quá nhanh vì Python có vẻ "dễ code" hơn một vài ngôn ngữ khác và bạn không phải đối mặt với con trỏ hay quản lý bộ nhớ, v.v.
+(〜￣▽￣)〜 〜(￣▽￣〜)
