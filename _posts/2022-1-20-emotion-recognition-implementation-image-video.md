@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nhận Diện Cảm Xúc Khuôn Mặt Real-Time Với Python, Keras, Cython và OpenCV.(Part 4) Tối ưu với Cython - [Học máy]"
+title:  "Nhận Diện Cảm Xúc Khuôn Mặt Với Python, Keras, Cython và OpenCV.(Part 4) Tối ưu với Cython - [Học máy]"
 author: sal
 categories: [ Machine learning, học máy ]
 tags: [ Python, Lập trình ]
@@ -15,27 +15,22 @@ Làm thế nào để giữ được code dễ hiểu python nhưng lại có t�
 Xử lý một khuôn mặt đã khó, rồi phải đưa khuôn mặt ấy vào để xác định cảm xúc. Nay lại rất nhiều khuôn mặt cùng một lúc, lại còn realtime .
 ![image](/assets/images/emotion-detection/result-two.webp){:class="img-responsive"}
 Bạn có nhìn thấy cái gì sai ở đây không?
-**2 bước**.
-1. **Nhận ảnh và tiền xử lý.** Ảnh khuôn mặt được lấy từ nguồn dữ liệu tĩnh (chẳng hạn như từ file, database), hoặc động (từ livestream, webcam, camera,…), nguồn dữ liệu này có thể trải qua một số bước tiền xử lý nhằm tăng chất lượng hình ảnh để giúp việc phát hiện cảm xúc trở nên hiệu quả hơn.
-2. **Phân lớp nhận dạng cảm xúc.**
 
 ---
 ### Mục lục
 [1. Giới thiệu và cài đặt Cython ](#gioithieu)\\
 [2. Lý thuyết về Hàng đợi - Queue](#lythuyetvecode)\\
-[3. Mã lập trình và giải thích ](#malaptrinhvagiaithich)
-[4. Kết luận ](#ketluan)
+[3. Lý thuyết về đa luồng - multithreading](#lythuyetvemultithreading)\\
+[4. Mã lập trình và giải thích ](#malaptrinhvagiaithich)
+[5. Kết luận ](#ketluan)
 
 ---
 
 <a name="gioithieu"></a>
 ### 1. Giới thiệu và cài đặt Cython
 
-Mình tin rằng bạn đã nghe nhiều người phàn nàn rằng Python quá chậm. Mình thấy mọi người chỉ so sánh Python với C về hiệu năng - performance, nhưng không mấy ai so sánh về thời gian phát triển. Thời gian phát triển Python quá nhanh vì Python có vẻ "dễ code" hơn một vài ngôn ngữ khác và bạn không phải đối mặt với con trỏ hay quản lý bộ nhớ, v.v. Nếu bạn muốn code cú pháp dễ dàng như Python và hiệu suất cao như C thì Cython là lựa chọn của bạn. Bạn có thể sử dụng Cython để viết các extention C cho Python. Code Python của bạn sẽ được dịch sang code C/C++ và được tối ưu hóa. Nó sẽ cung cấp cho bạn hiệu suất cao và bạn có thể sử dụng nó trong các dự án Python của mình.
+Nếu bạn muốn code cú pháp dễ dàng như Python và hiệu suất cao như C thì Cython là lựa chọn của bạn. Bạn có thể sử dụng Cython để viết các extention C cho Python. Code Python của bạn sẽ được dịch sang code C/C++ và được tối ưu hóa. Nó sẽ cung cấp cho bạn hiệu suất cao và bạn có thể sử dụng nó trong các dự án Python của mình.
 
-Một trong những lý do mình sử dụng Python rất nhiều mặc dù mình cũng biết cơ bản một số ngôn ngữ khác (chẳng hạn C/C++) là vì trong hầu hết các trường hợp, thời gian phát triển quan trọng hơn hiệu suất. Nếu bạn làm nhanh sẽ làm được nhiều và có lẽ chỉ ở bước đưa ra sản phẩm bạn mới thực sự cần đến performance. Hơn nữa Python có một cộng đồng rất lớn và các thư viện hỗ trợ nhiều vô kể nên bạn có thể làm rất nhiều thứ.
-
-Trong bài viết này mình sẽ nói về Cython thứ giúp cho code Python của bạn nhanh hơn nhiều lần để hạn chế điểm yếu là chạy chậm của Python thuần.
 Ví dụ:
 
 {% gist 5905366e178ca0a91ae72ecf115f52d0 %}
@@ -100,20 +95,34 @@ c
 Queue after removing elements
 deque([])
 ```
+Chúng ta sẽ ứng dụng queue bằng cách sẽ cắt tất cả khuôn mặt trong từng frame hình vào queue để xử lý.
 
-<a name="tongket"></a>
-### 3. Tổng kết
+<a name="lythuyetvemultithreading"></a>
+### 3. Lý thuyết về đa luồng - multithreading
 
-![image](/assets/images/emotion-detection/result-one.webp){:class="img-responsive"}
-Hmm có vẻ khá là **khả quan** nhỉ. Nhưng vấn đề sẽ xảy ra **nếu**:
-![image](/assets/images/emotion-detection/result-two.webp){:class="img-responsive"}
-Bạn có nhìn thấy cái gì sai ở đây không?
+![image](/assets/images/emotion-detection/python-multithreading.webp){:class="img-responsive"}
 
-Đúng vậy.\\
-Thứ nhất: Nhận dạng gương mặt bằng [thuật toán Haar-Like hay còn gọi là Viola's Zone](https://viblo.asia/p/tim-hieu-ve-phuong-phap-nhan-dien-khuon-mat-cua-violas-john-ByEZkNVyKQ0) tuy nhanh nhưng độ chính xác cũng không quá tốt.
+Nói về cấu trúc máy tính : Thread là một đơn vị cơ bản trong CPU. Một luồng sẽ chia sẻ với các luồng khác trong cùng process về thông tin data, các dữ liệu của mình. Việc tạo ra thread giúp cho các chương trình có thể chạy được nhiều công việc cùng một lúc.
 
-Thứ hai: Ngôn ngữ python là một ngôn ngữ hiệu năng rất kém. Một hai gương mặt xuất hiện trong video, máy đã chạy lag tung đít rồi. Với một bài toán gồm một lớp học thì sao.
+Đơn giản, ngày nay, công xưởng bạn có nhiều công nhân. Mỗi công nhân có thể làm nhiều việc. Thay vì chạy python, trong cùng một thời điểm bạn chỉ có thể sử dụng một công nhân duy nhất để làm một công việc duy nhất. CHo dù công nhân đó có to khỏe thế nào, khi giao một đống công việc cũng không thể nhanh được.
 
-Thứ  ba: Là gì ấy nhở, ... ╮(￣～￣)╭
+Đa luồng có rất công dụng vô cùng hữu ích thích hợp cho những tác vụ chạy ngầm không cần quan tâm chính xác thời gian hoàn thành.
+Đặc biệt là các ứng dụng trên python thì tối ưu tốc độ xử lý là một challenge bởi python bị ràng buộc bởi cơ chế GIL (Global Interpreter Lock). Tức là nó chỉ cho phép một thread hoạt động truy suất và chỉnh sửa bộ nhớ tại một thời điểm. Do đó python không tận dụng được các tính toán đa luồng. Tuy nhiên ở python 3.2 trở đi thì python đã bắt đầu hỗ trợ đa luồng. Và thông qua bài viết này mình sẽ hướng dẫn các bạn có thể accelerate các ứng dụng của mình thông qua đa luồng.
 
-(〜￣▽￣)〜 Trong các phần tiếp theo. Mình sẽ đi sâu vào quá trình tối ưu code. Các bạn chú ý đón xem nhé. 〜(￣▽￣〜)
+Nhưng trước tiên chúng ta cần hiểu về thread/process là gì? Vì blog dành cho đa dạng bạn đọc ở trình độ khác nhau nên bạn nào đã biết thì có thể bỏ qua phần kiến thức rất sơ đẳng này.
+
+<a name="malaptrinhvagiaithich"></a>
+### 4. Mã lập trình và giải thích
+
+{% gist 09381efa2f2d911ad8f3140f00427e33 %}
+
+<a name="ketluan"></a>
+### 5. Kết luận
+Tạo một ứng dụng không khó, nhưng để đáp ứng được tốc độ xử lý, độ chính xác và mức độ sử dụng resource thì cần phải tối ưu nhiều thứ:
+
+- Giảm nhẹ kích thước mô hình thông qua: Quantization và compress mô hình.
+- Optimize lại code.
+- Chuyển từ single-thread sang multi-thread.
+- Allocate lại tài nguyên như CPU, Memory.
+
+Mình tin rằng bạn đã nghe nhiều người phàn nàn rằng Python quá chậm. Mình thấy mọi người chỉ so sánh Python với C về hiệu năng - performance, nhưng không mấy ai so sánh về thời gian phát triển. Thời gian phát triển Python quá nhanh vì Python có vẻ "dễ code" hơn một vài ngôn ngữ khác và bạn không phải đối mặt với con trỏ hay quản lý bộ nhớ, v.v.

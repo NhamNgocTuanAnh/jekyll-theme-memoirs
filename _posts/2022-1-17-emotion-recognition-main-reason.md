@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nhận Diện Cảm Xúc Khuôn Mặt Real-Time Với Python, Keras, Cython và OpenCV.(Part 1) Tổng quan - [Học máy]"
+title:  "Nhận Diện Cảm Xúc Khuôn Mặt Với Python, Keras, Cython và OpenCV.(Part 1) Tổng quan - [Học máy]"
 author: sal
 categories: [ Machine learning, học máy ]
 tags: [ Học máy, Python, Lập trình ]
