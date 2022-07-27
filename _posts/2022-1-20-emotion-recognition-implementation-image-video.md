@@ -10,7 +10,7 @@ comments: false
 description: Trong các phần trước, vấn đề siêu chậm của python đã được tôi nhắc đến. Vậy làm thế nào để giữ được code dễ hiểu python nhưng lại có tốc độ cao gần như C++?
 ---
 
-Làm thế nào để giữ được code dễ hiểu python nhưng lại có tốc độ cao gần như C++? Làm sao với phần cứng chỉ dùng cpu có thể xử lý nhiều khuôn mặt trong cùng một lúc?Xử lý một khuôn mặt đã khó, rồi phải đưa khuôn mặt ấy vào để xác định cảm xúc. Nay lại rất nhiều khuôn mặt cùng một lúc, lại còn realtime.
+Làm thế nào để giữ được code dễ hiểu của python nhưng lại có tốc độ cao gần như C++? Xử lý một khuôn mặt đã khó, rồi phải đưa khuôn mặt ấy vào để xác định cảm xúc. Làm sao với phần cứng chỉ dùng cpu có thể xử lý nhiều khuôn mặt trong cùng một lúc?
 
 ![image](/assets/images/emotion-detection/result-two.webp){:class="img-responsive"}
 Bạn có nhìn thấy cái gì sai ở đây không?
