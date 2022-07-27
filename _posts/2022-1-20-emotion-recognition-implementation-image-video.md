@@ -10,9 +10,8 @@ comments: false
 description: Trong các phần trước, vấn đề siêu chậm của python đã được tôi nhắc đến. Vậy làm thế nào để giữ được code dễ hiểu python nhưng lại có tốc độ cao gần như C++?
 ---
 
-Làm thế nào để giữ được code dễ hiểu python nhưng lại có tốc độ cao gần như C++? Làm sao với phần cứng chỉ dùng cpu có thể xử lý nhiều khuôn mặt trong cùng một lúc?
+Làm thế nào để giữ được code dễ hiểu python nhưng lại có tốc độ cao gần như C++? Làm sao với phần cứng chỉ dùng cpu có thể xử lý nhiều khuôn mặt trong cùng một lúc?Xử lý một khuôn mặt đã khó, rồi phải đưa khuôn mặt ấy vào để xác định cảm xúc. Nay lại rất nhiều khuôn mặt cùng một lúc, lại còn realtime.
 
-Xử lý một khuôn mặt đã khó, rồi phải đưa khuôn mặt ấy vào để xác định cảm xúc. Nay lại rất nhiều khuôn mặt cùng một lúc, lại còn realtime .
 ![image](/assets/images/emotion-detection/result-two.webp){:class="img-responsive"}
 Bạn có nhìn thấy cái gì sai ở đây không?
 
@@ -21,7 +20,7 @@ Bạn có nhìn thấy cái gì sai ở đây không?
 [1. Giới thiệu và cài đặt Cython ](#gioithieu)\\
 [2. Lý thuyết về Hàng đợi - Queue](#lythuyetvecode)\\
 [3. Lý thuyết về đa luồng - multithreading](#lythuyetvemultithreading)\\
-[4. Mã lập trình và giải thích ](#malaptrinhvagiaithich)
+[4. Mã lập trình và giải thích ](#malaptrinhvagiaithich)\\
 [5. Kết luận ](#ketluan)
 
 ---
