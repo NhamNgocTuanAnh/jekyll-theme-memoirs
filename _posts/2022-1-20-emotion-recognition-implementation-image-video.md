@@ -35,7 +35,7 @@ Ví dụ:
 {% gist 5905366e178ca0a91ae72ecf115f52d0 %}
 
 ![image](/assets/images/emotion-detection/cython-vs-python.webp){:class="img-responsive"}
-Kết quả Cython chạy nhanh hơn Python cả trục lần :>> [Trích](https://betterprogramming.pub/skyrocket-your-python-code-with-cython-6851e357bef8)\\
+Kết quả Cython chạy nhanh hơn Python cả trục lần :>> [Trích betterprogramming.pub](https://betterprogramming.pub/skyrocket-your-python-code-with-cython-6851e357bef8)\\
 Vì đã có rất nhiều bên mô tả và code Cython rồi, bạn có thể tham khảo ở đây:
 * [Cython - Cách Để Code Python Chạy Nhanh Hơn](https://codelearn.io/sharing/cython-cach-de-code-python-chay-nhanh)
 * [Cython: Python chạy nhanh như C](https://niithanoi.edu.vn/cython-python-chay-nhanh-nhu-c.html)
