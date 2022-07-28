@@ -85,10 +85,12 @@ Dùng tay che bên phần mặt mà bạn cảm thấy bị lệch. Đây là m�
 
       <source type="image/webp" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.webp">
       <source type="image/jpeg" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.jpg">
-      <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.jpg" alt="Hướng ánh sáng" >
+      <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.jpg" alt="Che một bên mặt" >
 
     </picture><br>
-    Dùng tay che một bên gương mặt
+    Dùng tay che một bên gương mặt<br>
+    <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-04.webp" alt="Vươn cằm, đưa cổ ra một chút" >
+    Hơi vươn cổ, đưa cằm ra một chút để tăng khoảng cách với phần còn lại của khuôn mặt.
   </p>
 
 Tuy rằng ta có thể dùng một cái thủ thuật để che đi khuyết điểm khi chụp ảnh. Nhưng việc xác định nguyên nhân và cách khắc phục triệt để khuyết điểm đi luôn là thứ mà chúng ta hướng tới.
