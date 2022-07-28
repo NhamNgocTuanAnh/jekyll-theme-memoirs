@@ -58,7 +58,8 @@ Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sán
       <img src="../../assets/images/nhiepanh/anhsang/anhsangtruoc.jpg" alt="Ánh sáng phía trước" width = 360px height = 640px>
      Ánh sáng phía trước đi từ phía sau máy ảnh hoặc từ bản thân máy ảnh. Nó chiếu sáng đối tượng một cách đồng đều, giúp dễ tái tạo màu sắc và chi tiết của đối tượng. Tạo ra ít bóng râm hơn, làm cho ảnh có vẻ phẳng và ít kịch tính hơn.
      <p>Chụp thuận sáng đạt được màu sắc đều, nhưng thiếu vùng tối tương phản nên bức ảnh ít có chiều sâu, không nổi khối. Bề mặt chủ thể sáng đều, bóng đổ ra phía sau chủ thể.
-     Ánh sáng chiếu trực tiếp làm tương phản lớn nhưng mẫu dễ nheo mắt
+     Ánh sáng chiếu trực tiếp làm tương phản lớn nhưng mẫu dễ nheo mắt, tuy trình ra nhiều chi-tiết nhưng lại bị "bẹt" hay "dẹp" không nổi được hiệu ứng 3D vì vậy ánh sáng thuận thường không được ưa thích lắm. Trong trường-hợp phải dùng ánh sáng thuận, nên dùng ở trạng-thái dịu.
+
      </p>
      </td>
 
