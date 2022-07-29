@@ -21,7 +21,6 @@ Street style đã len vào mọi ngóc ngách của làng thời trang hiện đ
 [5. Chụp chuyển động](#tip5)
 
 <a name="tip1"></a>
-
 <h3>1. Đừng đứng im</h3>
 
 <!-- 2 columns offset -->
@@ -44,10 +43,11 @@ Street style đã len vào mọi ngóc ngách của làng thời trang hiện đ
         </p>
       </div>
     </div>
-
   </div>
 </div>
-          Hãy thoải mái nhất có thể, thả lỏng cơ thể, hai cánh tay và chân sẽ giúp bức hình của bạn đẹp hơn so với việc vòng tay trước bụng như một “thanh niên nghiêm túc” không đúng lúc vậy đó.<br>
+<p>
+Hãy thoải mái nhất có thể, thả lỏng cơ thể, hai cánh tay và chân sẽ giúp bức hình của bạn đẹp hơn so với việc vòng tay trước bụng như một “thanh niên nghiêm túc” không đúng lúc vậy đó.
+</p><br>
 
 <a name="tip2"></a>
 <h3>2. Thả lỏng 2 tay</h3>
@@ -62,23 +62,27 @@ Street style đã len vào mọi ngóc ngách của làng thời trang hiện đ
 
 <a name="tip3"></a>
 <h3>3. Ngực tấn công, mông phòng thủ (ʘ ͜ʖ ʘ)</h3>
-  <p style="text-align:center; ">
-    <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-06.jpg" alt="Nikon D600 Dynamic Range">
-    Chụp theo kiểu chữ S: Tay ôm đầu, cong hông.
-  </p>
+<p style="text-align:center; ">
+  <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-06.jpg" alt="Nikon D600 Dynamic Range">
+  Chụp theo kiểu chữ S: Tay ôm đầu, cong hông.
+</p>
 
 <a name="tip4"></a>
 <h3>4. Thêm phụ kiện, thêm tự tin</h3>
+  <p style="text-align:center; ">
+    <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-07.jpg" alt="Nikon D600 Dynamic Range">
+    Cầm một cành hoa, một chén trà, ... sẽ làm bạn tự tin hơn đó.
+  </p>
+
 <a name="tip5"></a>
 <h3>5. Chụp chuyển động</h3>
 Nếu bạn chỉ đứng im một chỗ thì không giống ảnh đường phố lắm. Nhưng khi chuyển động thì sẽ khá khó cho bạn chụp. Vậy có bí quyết nào không?
 Khó tập trung vừa mặt, vừa tay, vừa người nên mình chỉ nhón bước thôi, đặc biệt là phải nhón cả hai chân. Kết hợp nhìn vào camera, nhìn trước nhìn sau<br>
 
-  <p style="text-align:center; ">
-    <img src="../../assets/images/nhiepanh/doituong/style-life/tao-dang-khi-chup-hinh-ngoai-canh.gif" alt="tạo dáng chụp hình ngoại cảnh street style"><br>
-    <a href="https://www.youtube.com/watch?v=KYW6cbWfO7I"> 5 cách tạo dáng chụp hình ngoại cảnh street style cực dễ mà không phải ai cũng biết - Danny Nguyen</a>
-
-  </p>
+<p style="text-align:center; ">
+  <img src="../../assets/images/nhiepanh/doituong/style-life/tao-dang-khi-chup-hinh-ngoai-canh.gif" alt="tạo dáng chụp hình ngoại cảnh street style"><br>
+  <a href="https://www.youtube.com/watch?v=KYW6cbWfO7I">5 cách tạo dáng chụp hình ngoại cảnh street style cực dễ mà không phải ai cũng biết - Danny Nguyen</a>
+</p>
 <!--Lưu ý-->
 <h3><strong>Một số lưu &yacute;:&nbsp;</strong></h3><ul>	<li>Đừng chụp nheo mắt</li>	<li>Nghĩ đến những c&acirc;u chuyện th&uacute; vị: Đ&acirc;y l&agrave; c&aacute;ch gi&uacute;p gương mặt v&agrave; nụ cười của bạn trở n&ecirc;n tự nhi&ecirc;n hơn. Nh&agrave; tạo h&igrave;nh thời trang Anna Naphtali đ&atilde; từng chia sẻ kinh nghiệm:<em>&nbsp;&quot;Giả vờ cười khi chụp ảnh chỉ khiến gương mặt của bạn bị đơ, c&aacute;ch tốt nhất l&agrave; nghĩ đến chuyện&nbsp;cười, những t&igrave;nh huống&nbsp;vui vẻ, h&agrave;i hước để nụ cười ấm &aacute;p v&agrave; tự nhi&ecirc;n nhất&quot;.</em></li>	<li>Thẳng lưng khi ngồi: Việc ngồi thẳng lưng, mở rộng cơ thể, duỗi ch&acirc;n tay sẽ gi&uacute;p cho đường cong cơ thể của bạn hiện r&otilde; hơn, v&oacute;c d&aacute;ng cũng trở n&ecirc;n mảnh mai hơn.</li>	<li>&nbsp;&Aacute;nh s&aacute;ng rất cần thiết: Theo kinh nghiệm của nhiếp ảnh gia chuy&ecirc;n chụp ch&acirc;n dung Aaron Gil l&agrave; khi chụp h&igrave;nh phải t&igrave;m ra được điểm s&aacute;ng nổi bật tr&ecirc;n gương mặt, tr&aacute;nh những g&oacute;c chụp c&oacute; v&ugrave;ng tối v&igrave; sẽ khiến gương mặt của bạn tối đi.</li>	<li>H&atilde;y đặt tay l&ecirc;n eo: D&ugrave; bạn c&oacute; eo b&aacute;nh m&igrave; hay eo thon th&igrave; cũng n&ecirc;n tạo điểm nhấn bằng c&aacute;ch đặt tay l&ecirc;n eo. Ngo&agrave;i ra tư thế n&agrave;y c&agrave;ng gi&uacute;p bạn tự nhi&ecirc;n hơn thay v&igrave; để th&otilde;ng hai tay trong tư thế ch&agrave;o cờ.</li>	<li>Đừng bao giờ chụp ảnh l&uacute;c giữa trưa hoặc khi mặt trời đ&atilde; tắt:&nbsp;V&iacute; dụ, h&atilde;y tận dụng thời gian ăn nhẹ để nghỉ ngơi (thời gian c&oacute; b&oacute;ng r&acirc;m từ l&uacute;c 1h chiều), tập trung chụp ảnh v&agrave;o cuối bữa tiệc tầm 4-5 giờ chiều, khi mặt trời dần lặn l&agrave; l&uacute;c bạn c&oacute; thể chụp những tấm h&igrave;nh ưng &yacute; nhất. H&atilde;y căn chỉnh g&oacute;c sao cho mặt trời dời về ph&iacute;a sau họ hoặc đợi cho đến khi c&aacute;i b&oacute;ng của c&acirc;y sồi khổng lồ che khuất một phần của hồ bơi để c&oacute; một phần khuếch t&aacute;n từ mặt trời.</li></ul><p>Mặc d&ugrave; những mẹo n&agrave;y sẽ cải thiện đ&aacute;ng kể ảnh ch&acirc;n dung ngo&agrave;i trời của bạn, nhưng bạn c&oacute; thể c&oacute; được những bức ảnh đẹp hơn nữa nếu bạn thực sự hiểu r&otilde; về m&aacute;y ảnh của m&igrave;nh. Đọc hướng dẫn sử dụng trước khi d&ugrave;ng. L&agrave;m quen với những c&agrave;i đặt kh&aacute;c ngo&agrave;i c&agrave;i đặt &ldquo;Tự động&rdquo; (t&ocirc;i kh&ocirc;ng n&oacute;i về c&aacute;c c&agrave;i đặt sẵn như &ldquo;Thể thao&rdquo; v&agrave; &ldquo;Ch&acirc;n dung&rdquo;). H&atilde;y thử bắt đầu bằng &ldquo;P&rdquo;. Bạn sẽ c&oacute; quyền kiểm so&aacute;t tốt hơn nhiều với m&aacute;y ảnh của m&igrave;nh v&agrave; qua qu&aacute; tr&igrave;nh thử nghiệm v&agrave; bị lỗi, bạn sẽ ph&aacute;t hiện v&agrave; nắm bắt được những ưu, nhược điểm của m&aacute;y ảnh, chức năng, chế độ v&agrave; c&agrave;i đặt của ch&uacute;ng để xem x&eacute;t rằng m&aacute;y ảnh của bạn c&oacute; thể chụp đẹp đến mức độ n&agrave;o.&nbsp;Hơn hết, h&atilde;y kh&ocirc;ng ngừng cố gắng v&agrave; học hỏi! Kh&ocirc;ng c&oacute; g&igrave; tốt hơn kinh nghiệm, cải thiện ch&uacute;ng h&agrave;ng ng&agrave;y n&agrave;y sẽ gi&uacute;p bạn cho ra sản phẩm tuyệt vời nhất.</p>
 
