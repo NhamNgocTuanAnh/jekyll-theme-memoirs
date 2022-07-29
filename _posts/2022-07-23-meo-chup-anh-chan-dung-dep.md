@@ -47,8 +47,7 @@ Street style đã len vào mọi ngóc ngách của làng thời trang hiện đ
 </div>
 <p>
 Hãy thoải mái nhất có thể, thả lỏng cơ thể, hai cánh tay và chân sẽ giúp bức hình của bạn đẹp hơn so với việc vòng tay trước bụng như một “thanh niên nghiêm túc” không đúng lúc vậy đó.
-</p><br>
-
+</p>
 <a name="tip2"></a>
 <h3>2. Thả lỏng 2 tay</h3>
   <p style="text-align:center; ">
@@ -61,16 +60,16 @@ Hãy thoải mái nhất có thể, thả lỏng cơ thể, hai cánh tay và ch
   </p>
 
 <a name="tip3"></a>
-<h3>3. Ngực tấn công, mông phòng thủ (ʘ ͜ʖ ʘ)</h3>
+<h3>3. (ʘ ͜ʖ ʘ) Ngực tấn công, mông phòng thủ</h3>
 <p style="text-align:center; ">
-  <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-06.jpg" alt="Nikon D600 Dynamic Range">
+  <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-06.jpg" alt="Nikon D600 Dynamic Range"><br>
   Chụp theo kiểu chữ S: Tay ôm đầu, cong hông.
 </p>
 
 <a name="tip4"></a>
 <h3>4. Thêm phụ kiện, thêm tự tin</h3>
   <p style="text-align:center; ">
-    <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-07.jpg" alt="Nikon D600 Dynamic Range">
+    <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-07.jpeg" alt="Nikon D600 Dynamic Range">
     Cầm một cành hoa, một chén trà, ... sẽ làm bạn tự tin hơn đó.
   </p>
 
