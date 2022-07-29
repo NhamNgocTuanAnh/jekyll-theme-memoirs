@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'Tạo dáng chụp hình ngoại cảnh street style cho nữ- [Cẩm nang nhiếp ảnh]'
+title: 'Tạo dáng chụp hình ngoại cảnh street style cho nam- [Cẩm nang nhiếp ảnh]'
 author: sal
 categories: [Nhiếp ảnh]
 tags: [tips chụp ảnh]
-image: assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-005.jpg
+image: assets/images/nhiepanh/doituong/tao-dang-street-style-2_14.webp
 rating: 5
 comments: false
 description: Street style với phong cách đề cao con mắt thời trang của người mặc vẫn luôn là xu hướng hot của đại đa số giới trẻ hiện nay. Nào cùng tìm hiểu một số cách để chụp với phong cách siêu ngầu này nào.
