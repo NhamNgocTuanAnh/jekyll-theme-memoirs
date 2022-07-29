@@ -30,8 +30,8 @@ Street style đã len vào mọi ngóc ngách của làng thời trang hiện đ
 
       <div class="col-xs-12 col-sm-4">
         <div class="box">
-          Hãy thoải mái nhất có thể, thả lỏng cơ thể, hai cánh tay và chân sẽ giúp bức hình của bạn đẹp hơn so với việc vòng tay trước bụng như một “thanh niên nghiêm túc” không đúng lúc vậy đó.</br>
-          Nhiêm túc rồi, bây giờ bạn có thể lột xác với các động rác uyển chuyển của tay và chân như: tay chống eo, tay đưa lên làm như hất tóc để tạo và nhấn các đường cong.</br>
+          Hãy thoải mái nhất có thể, thả lỏng cơ thể, hai cánh tay và chân sẽ giúp bức hình của bạn đẹp hơn so với việc vòng tay trước bụng như một “thanh niên nghiêm túc” không đúng lúc vậy đó.<br>
+          Nhiêm túc rồi, bây giờ bạn có thể lột xác với các động rác uyển chuyển của tay và chân như: tay chống eo, tay đưa lên làm như hất tóc để tạo và nhấn các đường cong.<br>
           <p style="text-align:center; ">
             <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-02.jpg" alt="Nikon D600 Dynamic Range">
             Đừng chỉ đứng im, hãy bước đi thật tự nhiên để bức ảnh trông sống động hơn.
