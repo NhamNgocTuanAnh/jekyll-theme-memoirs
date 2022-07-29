@@ -20,72 +20,39 @@ Street style đã len vào mọi ngóc ngách của làng thời trang hiện đ
 [4. Thêm phụ kiện, thêm tự tin](#tip4)\\
 [5. Chụp chuyển động](#tip5)
 
-  <p style="text-align:center; ">
-    <picture>
-      <source type="image/webp" srcset="../../assets/images/nhiepanh/anhsang/chup-da-nguoi-nikon-xau.webp">
-      <source type="image/jpeg" srcset="../../assets/images/nhiepanh/anhsang/chup-da-nguoi-nikon-xau.jpg">
-      <img src="../../assets/images/nhiepanh/anhsang/chup-da-nguoi-nikon-xau.jpg" alt="Chụp người chọn Canon chụp cảnh chọn Nikon?">
-    </picture><br><a name="anhchude"></a>
+<a name="tip1"></a>
+
+### 1. Đừng đứng im
+
+  <!-- 2 columns offset -->
+  <div class="container">
+    <div class="row">
+
+      <div class="col-xs-12 col-sm-4">
+        <div class="box">
+          Hãy thoải mái nhất có thể, thả lỏng cơ thể, hai cánh tay và chân sẽ giúp bức hình của bạn đẹp hơn so với việc vòng tay trước bụng như một “thanh niên nghiêm túc” không đúng lúc vậy đó.</br>
+          Nhiêm túc rồi, bây giờ bạn có thể lột xác với các động rác uyển chuyển của tay và chân như: tay chống eo, tay đưa lên làm như hất tóc để tạo và nhấn các đường cong.
+          <p style="text-align:center; ">
+            <img src="../../assets/images/nhiepanh/doituong/chup-style-life-dang-02.jpg" alt="Nikon D600 Dynamic Range">
+            Đừng chỉ đứng im, hãy bước đi thật tự nhiên để bức ảnh trông sống động hơn.
+          </p>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-8">
+        <div class="box">
+     <p style="text-align:center; ">
+    <img src="../../assets/images/nhiepanh/doituong/chup-style-life-dang-01.jpg" alt="Nikon D600 Dynamic Range">
+    Đừng chỉ đứng im, hãy bước đi thật tự nhiên để bức ảnh trông sống động hơn.
   </p>
 
-<a name="nguongoc"></a>
+        </div>
+      </div>
 
-### 1. Nguyên nhân
-
-  <p style="text-align:center; ">
-    <picture>
-      <source type="image/webp" srcset="../../assets/images/nhiepanh/anhsang/so-sanh-dynamic-range-canon-nikon.webp">
-      <source type="image/jpeg" srcset="../../assets/images/nhiepanh/anhsang/so-sanh-dynamic-range-canon-nikon.jpg">
-      <img src="../../assets/images/nhiepanh/anhsang/so-sanh-dynamic-range-canon-nikon.jpg" alt="Nikon D600 Dynamic Range">
-    </picture><br>
-    <a href="https://www.youtube.com/watch?v=jWvaaHqQni0">Nikon D600 Review Part 4 - Dynamic Range Testing</a>
-  </p>
+    </div>
+  </div>
 
 
-  <table>
-    <thead>
-      <tr>
-        <th scope="col">Tiêu chí</th>
-        <th scope="col">Nikon</th>
-        <th scope="col">Canon</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td data-label="Tiêu chí">Dynamic Range</td>
-        <td data-label="NIKON">Xử lý Dynamic Range quá mạnh nhưng dàn đều, điều này gây ra việc chụp mặt người trong cùng 1 điều kiện sẽ có cảm giác "bẹt" hơn.</td>
-        <td data-label="Canon">Ngược lại, Canon thiết lập Dynamic Range yếu hơn nên tạo tương phản tại mặt tốt hơn nếu chụp trong ánh sáng dịu (thường là chân dung tiêu chuẩn).</td>
 
-      </tr>
-      <tr>
-        <td scope="row" data-label="Tiêu chí">Màu sắc</td>
-        <td data-label="NIKON">Ngoài ra màu da cam hơi sạm (mình test thì đa phần đến từ ống kính), do đó nếu chỉ chụp JPEG thì sẽ có lúc màu da và mặt lên khá khó chịu.
-        Tuy nhiên các vấn đề này đều cân bằng khá dễ dàng trong photoshop, nó chỉ xảy ra khi bạn cần chụp nhiều và sử dụng luôn ảnh, hoặc chỉnh qua loa số lượng lớn để đưa khách.</td>
-        <td data-label="Canon">Màu sắc da hồng chỉ là 1 phần, thực tế chế độ potrait của Canon nhiều khi cho màu da không chính xác. Canon cũng không phải hãng cho màu da người/chụp chân dung đẹp nhất.</td>
-      </tr>
-          <tr>
-        <td scope="row" data-label="Tiêu chí">Chi tiết</td>
-        <td data-label="NIKON">Trong các trường hợp chụp người với dải sáng chênh lệch cao, Nikon sẽ cho kết quả tốt hơn Canon. và cũn vì chính cái này khiến Nikon thu được khá nhiều chi tiết phân vùng tối. (thường là so sánh ảnh RAW)</td>
-        <td data-label="Canon">Canon thu được ít chi tiết vùng tối hơn, luôn có xu hướng dư sáng khiến da mẫu trắng hơn.</td>
-      </tr>
-    </tbody>
-  </table>
-
-  Dynamic Range yếu có hại trong chụp cảnh thì cũng không hẳn 😃. Nói chung cái nào cũng có điểm mạnh, điểm yếu nhưng không phải là - chụp người - chụp cảnh. Nếu bạn không làm nghề và không thường xuyên chụp 1 loại đặc biệt nào đó thì chả phải lo cái gì cả.
-
-  Trích nguồn [Đúng hay sai "Chụp người chọn Canon chụp cảnh chọn Nikon" ?](https://tinhte.vn/thread/dung-hay-sai-chup-nguoi-chon-canon-chup-canh-chon-nikon.2421576/page-2)
-
-  So sánh nikon d600 với canon 7d, dòng fullframe so với crop có vẻ hơi khập khiễng nhỉ. Không sao.  Ta có thể tham khảo các cuộc chiến công bằng hơn như:
-
-  <p style="text-align:center; ">
-    <img type="image/webp" src="../../assets/images/nhiepanh/anhsang/canon-vs-nikon-noise.webp"><br>
-    Re: 5D Mark iv Dynamic Range vs Nikon: Canon EOS-1D / 5D / 6D Talk Forum: Digital Photography Review<br>
-    <img src="https://i.ytimg.com/vi/lIKcfKhE-ew/maxresdefault.jpg"><br>
-    Nikon D800 v Canon 5D Mark III video test: high ISO, moiré, rolling shutter & dynamic range
-  <p>
-
-
-> Màn đấu giữa canon và nikon vẫn luôn luôn diễn ra.
 
 <a name="tipchuppicturedtyle"></a>
 
