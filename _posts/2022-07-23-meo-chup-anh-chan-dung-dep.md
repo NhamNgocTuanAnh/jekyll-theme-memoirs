@@ -61,7 +61,7 @@ Street style đã len vào mọi ngóc ngách của làng thời trang hiện đ
 <h3>4. Thêm phụ kiện, thêm tự tin</h3>
 <a name="tip5"></a>
 <h3>5. Chụp chuyển động</h3>
-
+Nếu bạn chỉ đứng im một chỗ thì không giống ảnh đường phố lắm. Nhưng khi chuyển động thì sẽ khá khó cho bạn chụp. Vậy có bí quyết nào không?
 <style>
 .box {
   display: flex;
