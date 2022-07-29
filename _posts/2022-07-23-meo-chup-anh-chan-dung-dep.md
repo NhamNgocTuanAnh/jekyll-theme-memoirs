@@ -30,11 +30,9 @@ Street style đã len vào mọi ngóc ngách của làng thời trang hiện đ
     <div class="col-xs-12 col-sm-4">
       <div class="box">
         <p style="text-align:center; ">
-          Hãy thoải mái nhất có thể, thả lỏng cơ thể, hai cánh tay và chân sẽ giúp bức hình của bạn đẹp hơn so với việc vòng tay trước bụng như một “thanh niên nghiêm túc” không đúng lúc vậy đó.<br>
           Nhiêm túc rồi, bây giờ bạn có thể lột xác với các động rác uyển chuyển của tay và chân như: tay chống eo, tay đưa lên làm như hất tóc để tạo và nhấn các đường cong.<br>
                     Thay vì đứng giơ 2 ngón tay quá đơn giản và không có điểm nhấn, bạn hãy đưa một chân sang một cách tự nhiên, một tay ép vào thân mình, tay kia giơ thẳng lên và "Say hi".<br>
           <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-02.jpg" alt="Nikon D600 Dynamic Range"><br>
-
         </p>
       </div>
     </div>
@@ -49,7 +47,7 @@ Street style đã len vào mọi ngóc ngách của làng thời trang hiện đ
 
   </div>
 </div>
-
+          Hãy thoải mái nhất có thể, thả lỏng cơ thể, hai cánh tay và chân sẽ giúp bức hình của bạn đẹp hơn so với việc vòng tay trước bụng như một “thanh niên nghiêm túc” không đúng lúc vậy đó.<br>
 
 <a name="tip2"></a>
 <h3>2. Thả lỏng 2 tay</h3>
