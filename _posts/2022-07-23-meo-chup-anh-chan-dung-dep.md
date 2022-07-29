@@ -7,7 +7,7 @@ tags: [tips chụp ảnh]
 image: assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-005.jpg
 rating: 5
 comments: false
-description: Street style với phong cách đề cao con mắt thời trang của người mặc vẫn luôn là xu hướng hot của đại đa số giới trẻ hiện nay. Nào cùng tìm hiểu một số cách để chụp với phong cách siêu ngầu này nào.
+description: Tạo dáng sao cho sang chảnh, nổi bật trong mỗi bức hình là điều quan tâm hàng đầu của các tín đồ “sống ảo”. Những gợi ý về tư thế tạo dáng cũng như trang phục sẽ giúp bạn có được bức ảnh đậm chất street style "nghìn like".
 ---
 
 Street style đã len vào mọi ngóc ngách của làng thời trang hiện đại, biến mọi nơi trở thành sàn catwalk cho những tín đồ thời trang. Vậy làm sao để chụp được phong cách này? Vào bài viết thôi nhở!! (~‾▽‾)~
