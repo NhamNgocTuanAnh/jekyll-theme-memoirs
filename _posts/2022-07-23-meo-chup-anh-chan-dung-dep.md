@@ -32,10 +32,10 @@ Street style đã len vào mọi ngóc ngách của làng thời trang hiện đ
         <div class="box">
           Hãy thoải mái nhất có thể, thả lỏng cơ thể, hai cánh tay và chân sẽ giúp bức hình của bạn đẹp hơn so với việc vòng tay trước bụng như một “thanh niên nghiêm túc” không đúng lúc vậy đó.<br>
           Nhiêm túc rồi, bây giờ bạn có thể lột xác với các động rác uyển chuyển của tay và chân như: tay chống eo, tay đưa lên làm như hất tóc để tạo và nhấn các đường cong.<br>
-          <p style="text-align:center; ">
-            <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-02.jpg" alt="Nikon D600 Dynamic Range">
+
+            <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-02.jpg" alt="Nikon D600 Dynamic Range"><br>
             Thay vì đứng giơ 2 ngón tay quá đơn giản và không có điểm nhấn, bạn hãy đưa một chân sang một cách tự nhiên, một tay ép vào thân mình, tay kia giơ thẳng lên và "Say hi".
-          </p>
+
         </div>
       </div>
       <div class="col-xs-12 col-sm-8">
@@ -73,7 +73,7 @@ Nếu bạn chỉ đứng im một chỗ thì không giống ảnh đường ph�
 Khó tập trung vừa mặt, vừa tay, vừa người nên mình chỉ nhón bước thôi, đặc biệt là phải nhón cả hai chân. Kết hợp nhìn vào camera, nhìn trước nhìn sau<br>
 
   <p style="text-align:center; ">
-    <img src="../../assets/images/nhiepanh/doituong/style-life/tao-dang-khi-chup-hinh-ngoai-canh.gif" alt="tạo dáng chụp hình ngoại cảnh street style">
+    <img src="../../assets/images/nhiepanh/doituong/style-life/tao-dang-khi-chup-hinh-ngoai-canh.gif" alt="tạo dáng chụp hình ngoại cảnh street style"><br>
     <a href="https://www.youtube.com/watch?v=KYW6cbWfO7I"> 5 cách tạo dáng chụp hình ngoại cảnh street style cực dễ mà không phải ai cũng biết - Danny Nguyen</a>
 
   </p>
