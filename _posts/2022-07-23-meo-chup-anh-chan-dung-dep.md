@@ -26,7 +26,7 @@ Street style đã len vào mọi ngóc ngách của làng thời trang hiện đ
 <!-- 2 columns offset -->
 <div class="container">
   <div class="row">
-    <div class="col-xs-12 col-sm-4">
+    <div class="col-xs-12 col-sm-5">
       <div class="box">
         <p style="text-align:center; ">
           Nhiêm túc rồi, bây giờ bạn có thể lột xác với các động rác uyển chuyển của tay và chân như: tay chống eo, tay đưa lên làm như hất tóc để tạo và nhấn các đường cong.<br>
@@ -35,7 +35,7 @@ Street style đã len vào mọi ngóc ngách của làng thời trang hiện đ
         </p>
       </div>
     </div>
-    <div class="col-xs-12 col-sm-8">
+    <div class="col-xs-12 col-sm-7">
       <div class="box">
         <p style="text-align:center; ">
           <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-01.jpg" alt="Nikon D600 Dynamic Range">
