@@ -82,7 +82,10 @@ Nếu bạn chỉ đứng im một chỗ thì không giống ảnh đường ph�
   border: 2px #ccc solid;
   color: #fff;
 }
-
+.col-sm-8 {
+  padding-right: 0px;
+  padding-left: 0px;
+}
 .row {
   display: flex;
   flex-wrap: wrap;
