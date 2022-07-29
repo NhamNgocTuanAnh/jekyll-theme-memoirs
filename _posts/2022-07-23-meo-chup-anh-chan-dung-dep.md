@@ -24,32 +24,30 @@ Street style đã len vào mọi ngóc ngách của làng thời trang hiện đ
 
 <h3>1. Đừng đứng im</h3>
 
-  <!-- 2 columns offset -->
-  <div class="container">
-    <div class="row">
-
-      <div class="col-xs-12 col-sm-4">
-        <div class="box">
+<!-- 2 columns offset -->
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-4">
+      <div class="box">
+        <p style="text-align:center; ">
           Hãy thoải mái nhất có thể, thả lỏng cơ thể, hai cánh tay và chân sẽ giúp bức hình của bạn đẹp hơn so với việc vòng tay trước bụng như một “thanh niên nghiêm túc” không đúng lúc vậy đó.<br>
           Nhiêm túc rồi, bây giờ bạn có thể lột xác với các động rác uyển chuyển của tay và chân như: tay chống eo, tay đưa lên làm như hất tóc để tạo và nhấn các đường cong.<br>
-
-            <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-02.jpg" alt="Nikon D600 Dynamic Range"><br>
-            Thay vì đứng giơ 2 ngón tay quá đơn giản và không có điểm nhấn, bạn hãy đưa một chân sang một cách tự nhiên, một tay ép vào thân mình, tay kia giơ thẳng lên và "Say hi".
-
-        </div>
+          <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-02.jpg" alt="Nikon D600 Dynamic Range"><br>
+          Thay vì đứng giơ 2 ngón tay quá đơn giản và không có điểm nhấn, bạn hãy đưa một chân sang một cách tự nhiên, một tay ép vào thân mình, tay kia giơ thẳng lên và "Say hi".
+        </p>
       </div>
-      <div class="col-xs-12 col-sm-8">
-        <div class="box">
-          <p style="text-align:center; ">
-            <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-01.jpg" alt="Nikon D600 Dynamic Range">
-            Đừng chỉ đứng im, hãy bước đi thật tự nhiên để bức ảnh trông sống động hơn.
-          </p>
-
-        </div>
-      </div>
-
     </div>
+    <div class="col-xs-12 col-sm-8">
+      <div class="box">
+        <p style="text-align:center; ">
+          <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-01.jpg" alt="Nikon D600 Dynamic Range">
+          Đừng chỉ đứng im, hãy bước đi thật tự nhiên để bức ảnh trông sống động hơn.
+        </p>
+      </div>
+    </div>
+
   </div>
+</div>
 
 
 <a name="tip2"></a>
