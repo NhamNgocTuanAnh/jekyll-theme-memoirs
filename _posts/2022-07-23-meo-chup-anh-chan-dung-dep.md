@@ -62,6 +62,11 @@ Street style đã len vào mọi ngóc ngách của làng thời trang hiện đ
 
 <a name="tip3"></a>
 <h3>3. Ngực tấn công, mông phòng thủ (ʘ ͜ʖ ʘ)</h3>
+  <p style="text-align:center; ">
+    <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-04.jpg" alt="Nikon D600 Dynamic Range">
+    Đừng chỉ đặt tay lên đùi rồi ngồi nghiêng một cách nhàm chán, để thu hút ánh nhìn, bạn nên đưa một chân ra trước, đẩy hông sang một bên để trông "xì tai" hơn.
+  </p>
+
 <a name="tip4"></a>
 <h3>4. Thêm phụ kiện, thêm tự tin</h3>
 <a name="tip5"></a>
