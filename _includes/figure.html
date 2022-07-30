@@ -1,9 +1,9 @@
 <figure>
 
     <picture>
-
+<!--
         {% assign webp_filename = include.url | replace: ".jpg", ".webp" | replace: ".jpeg", ".webp" | replace: ".png",
-        ".webp" | replace: ".tif", ".webp" %}
+        ".webp" | replace: ".tif", ".webp" %} -->
 
         <!-- <source
             srcset='{% unless jekyll.environment == "development" %}{{ site.url }}{% endunless %}{{ webp_filename }}'
@@ -19,7 +19,7 @@
 
     <figcaption>
 
-        <p>{{ include.caption }}</p>
+        <p id="{{ include.url }}" name="anhanh">{{ include.caption }}</p>
 
     </figcaption>
 
@@ -37,6 +37,9 @@
             return false;
         } else {
             console.log("File exists");
+            var elements = document.getElementsByName( 'anhanh' );
+            var id1 = elements[0].getAttribute( 'id' );
+            console.log(id1);
             container.innerHTML = `<img scr="${urlToFile}">`
             return true;
         }
