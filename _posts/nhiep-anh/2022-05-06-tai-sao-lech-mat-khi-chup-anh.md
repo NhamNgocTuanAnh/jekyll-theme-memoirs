@@ -7,6 +7,9 @@ tags: [tips chụp ảnh]
 image: assets/images/nhiepanh/doituong/matlech-av.jpg
 rating: 4.5
 comments: false
+date: '2022-05-06 13:25:00 -0400'
+permalink: nhiep-anh/tai-sao-lech-mat-khi-chup-anh
+excerpt: Tips chụp ảnh mặt tránh bị lệch
 description: Khi chụp camera trước của smartphone bị lệch mặt, thậm chí cả máy ảnh hoặc các thiết bị ghi hình tương tự. Vậy nguyên nhân do đâu và các khắc phục là gì?
 ---
 
