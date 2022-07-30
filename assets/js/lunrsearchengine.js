@@ -25,9 +25,12 @@ var documents = [{% for page in site.pages %}{% if page.url contains '.xml' or p
     }{% if forloop.last %}{% else %}, {% endif %}{% endfor %}];
 var documents_copy = documents;
     documents = documents.map(doc=>({
-description: removeAccents(doc.description)||"",
-title: removeAccents(doc.title)||"",
-body: removeAccents(doc.body)||"",
+description: doc.description||"",
+title: doc.title||"",
+body: doc.body||"",
+description_en: removeAccents(doc.description)||"",
+title_en: removeAccents(doc.title)||"",
+body_en: removeAccents(doc.body)||"",
 id:doc.id||0,
 url:doc.url||""}));
 var idx = lunr(function () {
@@ -84,7 +87,7 @@ function lunr_search(term) {
     document.getElementById('lunrsearchresults').innerHTML = '<div id="resultsmodal" class="modal fade show d-block"  tabindex="-1" role="dialog" aria-labelledby="resultsmodal"> <div class="modal-dialog shadow" role="document"> <div class="modal-content"> <div class="modal-header" id="modtit"> <button type="button" class="close" id="btnx" data-dismiss="modal" aria-label="Close"> &times; </button> </div> <div class="modal-body"> <ul class="mb-0"> </ul>    </div> <div class="modal-footer"><button id="btnx" type="button" class="btn btn-primary btn-sm" data-dismiss="modal">Close</button></div></div> </div></div>';
     if(term) {
         var termRemoveAccentEd = removeAccents(term);
-        document.getElementById('modtit').innerHTML = "<h5 class='modal-title'>Search results for '" + term + "'</h5>" + document.getElementById('modtit').innerHTML;
+        document.getElementById('modtit').innerHTML = "<h5 class='modal-title'>Kết quả tìm kiếm cho từ khóa: '" + term + "'</h5>" + document.getElementById('modtit').innerHTML;
         //put results on the screen.
         var results = idx.search(termRemoveAccentEd);
         if(results.length>0){
