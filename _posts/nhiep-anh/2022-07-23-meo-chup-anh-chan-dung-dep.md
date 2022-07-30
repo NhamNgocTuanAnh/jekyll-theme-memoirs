@@ -73,7 +73,7 @@ Hãy thoải mái nhất có thể, thả lỏng cơ thể, hai cánh tay và ch
 <h3>4. Thêm phụ kiện, thêm tự tin</h3>
   <p style="text-align:center; ">
     <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-07.jpeg" alt="Nikon D600 Dynamic Range">
-    Cầm một cành hoa, một chén trà, ... sẽ làm bạn tự tin hơn đó.
+    Cầm một cành hoa, một chén trà và nghĩ đến những câu chuyện thú vị: Đây là cách giúp gương mặt và nụ cười của bạn trở nên tự nhiên hơn.
   </p>
 
 <a name="tip5"></a>
