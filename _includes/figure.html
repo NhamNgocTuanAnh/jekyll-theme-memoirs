@@ -2,15 +2,7 @@
 
     <picture>
 
-        {% if include.avif %}
-
-        {% assign webp_filename = include.url | replace: ".jpg", ".avif" | replace: ".jpeg", ".avif" | replace: ".png", ".avif" | replace: ".tif", ".avif" %}
-
-        {% else %}
-
         {% assign webp_filename = include.url | replace: ".jpg", ".webp" | replace: ".jpeg", ".webp" | replace: ".png", ".webp" | replace: ".tif", ".webp" %}
-
-        {% endif %}
 
         <source srcset='{% unless jekyll.environment == "development" %}{{ site.url }}{% endunless %}{{ webp_filename }}' type="image/webp">
 
