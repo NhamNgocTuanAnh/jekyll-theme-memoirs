@@ -26,33 +26,33 @@ Street style đã len vào mọi ngóc ngách của làng thời trang hiện đ
 <h3>1. Đừng đứng im</h3>
 <div id="container">
 
-</div>
+</div>aa
 <!-- {% include figure.html url="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-06.jpg" alt="tôi nghĩ về em"  caption="Sidney Paget illustration of Holmes and Moriarty tussling at the Reichenbach Falls." %} -->
 <script>
-    function doesFileExist() {
-        var xhr = new XMLHttpRequest();
-        var elements = document.getElementsByName('anhanh');
-        if (elements) {
-            var id1 = "../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-06.jpg;
-            if (id1) {
-                xhr.open('HEAD', id1, false);
-                xhr.send();
-                if (xhr.status == "404") {
-                    console.log("File doesn't exist");
-                    return false;
-                } else {
-                    console.log("File exists");
-                    console.log(id1);
-                    // container.innerHTML = `<img scr="${urlToFile}">`
-                    return true;
-                }
-            }else{
-                console.log("fail id1");
-            }
-        }else{
-            console.log("fail elements");
-        }}
-    doesFileExist();
+    // function doesFileExist() {
+    //     var xhr = new XMLHttpRequest();
+    //     var elements = document.getElementsByName('anhanh');
+    //     if (elements) {
+    //         var id1 = "../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-06.jpg;
+    //         if (id1) {
+    //             xhr.open('HEAD', id1, false);
+    //             xhr.send();
+    //             if (xhr.status == "404") {
+    //                 console.log("File doesn't exist");
+    //                 return false;
+    //             } else {
+    //                 console.log("File exists");
+    //                 console.log(id1);
+    //                 // container.innerHTML = `<img scr="${urlToFile}">`
+    //                 return true;
+    //             }
+    //         }else{
+    //             console.log("fail id1");
+    //         }
+    //     }else{
+    //         console.log("fail elements");
+    //     }}
+    // doesFileExist();
 
 </script>
 <style>
