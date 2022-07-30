@@ -7,7 +7,6 @@ tags: [tips chụp ảnh]
 image: assets/images/nhiepanh/doituong/cai-dat-picture-control-nikon-chan-dung.webp
 rating: 5
 comments: false
-date: '2022-07-22 23:25:00 -0400'
 permalink: nhiep-anh/chup-da-trang-hong-nikon
 excerpt: Chụp ảnh Nikon bị vàng da liệu có thật không?
 description: Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị vàng da, chỉ chụp phong cảnh đẹp thôi. Mình xin đính chính là điều đó là sự thật. Vậy làm sao để khắc phục bớt đi điểm yếu cũng đồng thời là điểm mạnh này cho chụp chân dung? Vào bài viết nhỉ!!

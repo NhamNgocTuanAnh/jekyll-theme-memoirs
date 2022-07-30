@@ -7,7 +7,6 @@ tags: [tips chụp ảnh]
 image: assets/images/nhiepanh/doituong/tao-dang-street-style-2_14.webp
 rating: 5
 comments: false
-date: '2022-04-29 13:25:00 -0400'
 permalink: nhiep-anh/meo-chup-anh-chan-dung-dep-nam
 excerpt: Tips chụp ảnh nam
 description: Street style với phong cách đề cao con mắt thời trang của người mặc vẫn luôn là xu hướng hot của đại đa số giới trẻ hiện nay. Nào cùng tìm hiểu một số cách để chụp với phong cách siêu ngầu này nào.

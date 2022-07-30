@@ -7,7 +7,6 @@ tags: [bố cục]
 image: assets/images/nhiepanh/anhsang/bocuc_1.jpg
 rating: 5
 comments: false
-date: '2022-05-13 23:25:00 -0400'
 permalink: nhiep-anh/bo-cuc-trong-nhiep-anh
 excerpt: Bố cục - một điều tối quan trọng trong nhiếp ảnh
 description: Bố cục là một trong những yếu tố quan trọng để tạo nên bức ảnh đẹp, có chiều sâu. Việc áp dụng một số quy tắc trong các tình huống có thể mang đến những bức ảnh đẹp, cân đối và hài hòa, thu hút ánh nhìn của người xem.
