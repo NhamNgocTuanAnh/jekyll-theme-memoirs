@@ -12,15 +12,15 @@ excerpt: Tạo dáng sao cho sang chảnh, nổi bật trong mỗi bức hình l
 description: Tạo dáng sao cho sang chảnh, nổi bật trong mỗi bức hình là điều quan tâm hàng đầu của các tín đồ “sống ảo”. Những gợi ý về tư thế tạo dáng cũng như trang phục sẽ giúp bạn có được bức ảnh đậm chất street style nghìn like.
 ---
 
-Street style đã len vào mọi ngóc ngách của làng thời trang hiện đại, biến mọi nơi trở thành sàn catwalk cho những tín đồ thời trang. Vậy làm sao để chụp được phong cách này? Vào bài viết thôi nhở!! (~‾▽‾)~
+<!-- Street style đã len vào mọi ngóc ngách của làng thời trang hiện đại, biến mọi nơi trở thành sàn catwalk cho những tín đồ thời trang. Vậy làm sao để chụp được phong cách này? Vào bài viết thôi nhở!! (~‾▽‾)~ -->
 
-### Mục lục
+<!-- ### Mục lục
 
 [1. Đừng đứng như pho tượng](#tip1)\\
 [2. Thả lỏng 2 tay](#tip2)\\
 [3. Ngực tấn công, mông phòng thủ (ʘ ͜ʖ ʘ)](#tip3)\\
 [4. Thêm phụ kiện, thêm tự tin](#tip4)\\
-[5. Chụp chuyển động](#tip5)
+[5. Chụp chuyển động](#tip5) -->
 
 <a name="tip1"></a>
 <h3>1. Đừng đứng im</h3>
