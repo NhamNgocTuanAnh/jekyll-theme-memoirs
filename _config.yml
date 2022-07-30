@@ -25,7 +25,7 @@ authors:
     display_name: Anh Hàng Xóm
     avatar: 'assets/images/avatar-sal.jpg'
     email: tuananhtlu9366@gmail.com
-    web: https://hoctoancungthaytan.xyz/
+    web: https://anhhangxom.xyz/
     twitter: https://twitter.com/wowthemesnet
     facebook: https://www.facebook.com/nntatlu
     description: "Xin chào, tôi là lập trình viên backend. Với đam mê chụp ảnh, lập trình và đi chơi. Tôi xây dựng blog với mục đích là chia sẻ kinh nghiêm coder, cuộc sống thường ngày và sức khỏe cho developer ."
@@ -150,18 +150,18 @@ defaults:
       permalink: /:path/:basename:output_ext
 
 # https://github.com/valerijaspasojevic/jekyll-compress-images
-compress_images:
-  images_path: "assets/images/**/*.{gif,png,jpg,jpeg,svg}"
-imageoptim:
-  pngout: false
-  svgo: true
-  verbose: false
+# compress_images:
+#   images_path: "assets/images/**/*.{gif,png,jpg,jpeg,svg}"
+# imageoptim:
+#   pngout: false
+#   svgo: true
+#   verbose: false
 
 # https://github.com/lazyIoad/jekyll-image-optim
 # image_optim-jekyll-plugin customizations.
-image_optim:
-  archive_dir: "assets/full-res-kittens"
-  cache_file: "tmp/kitty-cache.yml"
-  image_glob: "assets/images/**/*.{gif,png,jpg,jpeg}"
+# image_optim:
+#   archive_dir: "assets/full-res-kittens"
+#   cache_file: "tmp/kitty-cache.yml"
+#   image_glob: "assets/images/**/*.{gif,png,jpg,jpeg}"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
