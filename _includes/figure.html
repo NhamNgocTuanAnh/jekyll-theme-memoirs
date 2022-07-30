@@ -26,6 +26,7 @@
     var urlToFile = "{{ include.url }}"
     function doesFileExist(urlToFile) {
         var xhr = new XMLHttpRequest();
+        console.log("File url"+urlToFile);
         xhr.open('HEAD', urlToFile, false);
         xhr.send();
 
