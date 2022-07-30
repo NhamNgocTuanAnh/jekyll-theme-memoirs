@@ -23,18 +23,18 @@ var documents = [{% for page in site.pages %}{% if page.url contains '.xml' or p
     "description": "{{ page.description }}",
     "body": "{{ page.date | date: "%Y/%m/%d" }} - {{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
     }{% if forloop.last %}{% else %}, {% endif %}{% endfor %}];
-
+documents = documents.map(doc=>({
+description: removeAccents(doc.description)||"",
+title: removeAccents(doc.title)||"",
+body: removeAccents(doc.body)||"",
+id:doc.id||0,
+url:doc.url||""}));
 var idx = lunr(function () {
-    this.ref('id')
-    this.field('title')
-    this.field('body')
-    this.field('description')
-    documents = documents.map(doc=>({
-        description: removeAccents(doc.description)||"",
-        title: removeAccents(doc.title)||"",
-        body: removeAccents(doc.body)||"",
-        id:doc.id||0,
-        url:doc.url||""}))
+    this.ref('id');
+    this.field('title');
+    this.field('body');
+    this.field('description');
+
     documents.forEach(function (doc) {
         this.add(doc)
     }, this)
