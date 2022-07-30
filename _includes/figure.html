@@ -9,10 +9,12 @@
             srcset='{% unless jekyll.environment == "development" %}{{ site.url }}{% endunless %}{{ webp_filename }}'
             type="image/webp">
 
-        <img src='{% unless jekyll.environment == "development" %}{{site.baseurl}}/{{ include.url }}'
+        <!-- <img src='{% unless jekyll.environment == "development" %}{{site.baseurl}}/{{ include.url }}'
             alt="{{ include.alt }}" {% unless include.not-lazy %} loading="lazy" {% endunless %}{% if include.height %}
-            height="{{ include.height }}" {% endif %}{% if include.width %} width="{{ include.width }}" {% endif %}>
+            height="{{ include.height }}" {% endif %}{% if include.width %} width="{{ include.width }}" {% endif %}> -->
+            <div id="container">
 
+            </div>
     </picture>
 
     <figcaption>
@@ -26,7 +28,7 @@
     var urlToFile = "{{webp_filename }}"
     function doesFileExist(urlToFile) {
         var xhr = new XMLHttpRequest();
-        console.log("File url"+urlToFile);
+        console.log(urlToFile);
         xhr.open('HEAD', urlToFile, false);
         xhr.send();
 
@@ -35,6 +37,8 @@
             return false;
         } else {
             console.log("File exists");
+
+            container.innerHTML = `<img scr="${urlToFile}">`
             return true;
         }
     }
