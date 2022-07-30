@@ -75,6 +75,20 @@ Hãy thoải mái nhất có thể, thả lỏng cơ thể, hai cánh tay và ch
     <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-07.jpeg" alt="Nikon D600 Dynamic Range">
     Cầm một cành hoa, một chén trà và nghĩ đến những câu chuyện thú vị: Đây là cách giúp gương mặt và nụ cười của bạn trở nên tự nhiên hơn.
   </p>
+  <figure>
+
+    <picture>
+      <!-- Use the webp file -->
+      <source srcset="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-07.webp' type="image/webp">
+
+      <!-- Fallback to the file you added -->
+      <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-07.jpeg" alt="Nikon D600 Dynamic Range">
+
+    </picture>
+
+    <figcaption>Cầm một cành hoa, một chén trà và nghĩ đến những câu chuyện thú vị: Đây là cách giúp gương mặt và nụ cười của bạn trở nên tự nhiên hơn.</figcaption>
+
+  </figure>
 
 <a name="tip5"></a>
 <h3>5. Chụp chuyển động</h3>
