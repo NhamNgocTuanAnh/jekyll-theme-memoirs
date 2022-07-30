@@ -74,18 +74,6 @@ Hãy thoải mái nhất có thể, thả lỏng cơ thể, hai cánh tay và ch
     <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-07.jpeg" alt="Nikon D600 Dynamic Range">
     Cầm một cành hoa, một chén trà và nghĩ đến những câu chuyện thú vị: Đây là cách giúp gương mặt và nụ cười của bạn trở nên tự nhiên hơn.
   </p>
-  {% assign webp_filename = "../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-07.jpeg" | replace: ".jpg", ".webp" | replace: ".jpeg", ".webp" | replace: ".png", ".webp" | replace: ".tiff", ".webp" %}
-  <figure>
-    <picture>
-      <!-- Use the webp file -->
-      <source srcset= "../../assets/images/nhiepanh/doituong/style-life/{{ webp_filename }}" type="image/webp">
-      <!-- Fallback to the file you added -->
-      <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-07.jpeg" alt="Nikon D600 Dynamic Range">
-    </picture>
-    <figcaption>Cầm một cành hoa, một chén trà và nghĩ đến những câu chuyện thú vị: Đây là cách giúp gương mặt và nụ cười của bạn trở nên tự nhiên hơn.</figcaption>
-
-  </figure>
-
   {% include figure.html url="/images/295700417_122550010519227_2342726387005444281_n.jpg" alt="tôi nghĩ về em" avif="true" height="720" width="1200" caption="Sidney Paget illustration of Holmes and Moriarty tussling at the Reichenbach Falls." %}
 
 <a name="tip5"></a>
