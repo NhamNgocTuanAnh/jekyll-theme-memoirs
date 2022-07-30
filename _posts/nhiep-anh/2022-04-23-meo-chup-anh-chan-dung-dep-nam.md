@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tạo dáng chụp hình ngoại cảnh street style cho nam- [Cẩm nang nhiếp ảnh]'
+title: 'Tạo dáng chụp hình street style cho nam- [Cẩm nang nhiếp ảnh]'
 author: sal
 categories: [Nhiếp ảnh]
 tags: [tips chụp ảnh]
