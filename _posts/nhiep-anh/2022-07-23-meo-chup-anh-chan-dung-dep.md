@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tạo dáng chụp hình street style cho nữ- [Cẩm nang nhiếp ảnh]'
+title: 'Tạo dáng chụp hình street style cho nữ - [Cẩm nang nhiếp ảnh]'
 author: sal
 categories: [Nhiếp ảnh]
 tags: [tips chụp ảnh]
