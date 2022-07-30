@@ -86,7 +86,7 @@ Hãy thoải mái nhất có thể, thả lỏng cơ thể, hai cánh tay và ch
 
   </figure>
 
-  {% include figure.html url="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-07.jpeg" alt="Illustration of two Victorian men toppling over a ledge above a precipice." avif="true" height="720" width="1200" caption="Sidney Paget illustration of Holmes and Moriarty tussling at the Reichenbach Falls." %}
+  {% include figure.html url="assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-07.jpeg" alt="Illustration of two Victorian men toppling over a ledge above a precipice." avif="true" height="720" width="1200" caption="Sidney Paget illustration of Holmes and Moriarty tussling at the Reichenbach Falls." %}
 
 
 </figure>
