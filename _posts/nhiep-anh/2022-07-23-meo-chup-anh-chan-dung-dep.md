@@ -25,7 +25,7 @@ Street style đã len vào mọi ngóc ngách của làng thời trang hiện đ
 <a name="tip1"></a>
 <h3>1. Đừng đứng im</h3>
 
- {% include figure.html url="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-06.jpg" alt="tôi nghĩ về em"  caption="Sidney Paget illustration of Holmes and Moriarty tussling at the Reichenbach Falls." %}
+{% include figure.html url="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-06.jpg" alt="tôi nghĩ về em"  caption="Sidney Paget illustration of Holmes and Moriarty tussling at the Reichenbach Falls." %}
 
 <style>
 .box {

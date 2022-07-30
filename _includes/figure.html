@@ -1,49 +1,55 @@
 <!-- <figure> -->
 
-    <!-- <picture> -->
+<!-- <picture> -->
 <!--
         {% assign webp_filename = include.url | replace: ".jpg", ".webp" | replace: ".jpeg", ".webp" | replace: ".png",
         ".webp" | replace: ".tif", ".webp" %} -->
 
-        <!-- <source
+<!-- <source
             srcset='{% unless jekyll.environment == "development" %}{{ site.url }}{% endunless %}{{ webp_filename }}'
             type="image/webp"> -->
 
-        <!-- <img src='{% unless jekyll.environment == "development" %}{{site.baseurl}}/{{ include.url }}'
+<!-- <img src='{% unless jekyll.environment == "development" %}{{site.baseurl}}/{{ include.url }}'
             alt="{{ include.alt }}" {% unless include.not-lazy %} loading="lazy" {% endunless %}{% if include.height %}
             height="{{ include.height }}" {% endif %}{% if include.width %} width="{{ include.width }}" {% endif %}> -->
-            <div id="container">
+<div id="container">
 
-            </div>
-    <!-- </picture> -->
+</div>
+<!-- </picture> -->
 
-    <!-- <figcaption> -->
+<!-- <figcaption> -->
 
-        <p id="{{ include.url }}" name="anhanh">{{ include.caption }}</p>
+<p id="{{ include.url }}" name="anhanh">{{ include.caption }}</p>
 
-    <!-- </figcaption> -->
+<!-- </figcaption> -->
 <!--  -->
 <!-- </figure> -->
 <script>
 
-    function doesFileExist(urlToFile) {
+    function doesFileExist() {
         var xhr = new XMLHttpRequest();
-        console.log(urlToFile);
-        xhr.open('HEAD', urlToFile, false);
-        xhr.send();
+        var elements = document.getElementsByName('anhanh');
+        if (elements) {
+            var id1 = elements[0].getAttribute('id');
+            if (id1) {
+                xhr.open('HEAD', id1, false);
+                xhr.send();
 
-        if (xhr.status == "404") {
-            console.log("File doesn't exist");
-            return false;
-        } else {
-            console.log("File exists");
-            var elements = document.getElementsByName( 'anhanh' );
-            var id1 = elements[0].getAttribute( 'id' );
-            console.log(id1);
-            // container.innerHTML = `<img scr="${urlToFile}">`
-            return true;
+                if (xhr.status == "404") {
+                    console.log("File doesn't exist");
+                    return false;
+                } else {
+                    console.log("File exists");
+
+                    console.log(id1);
+                    // container.innerHTML = `<img scr="${urlToFile}">`
+                    return true;
+                }
+            }
         }
+
+
     }
-    doesFileExist(urlToFile);
+    doesFileExist();
 
 </script>
