@@ -7,6 +7,9 @@ tags: [ Python, Lập trình ]
 image: assets/images/emotion-detection/happy-ex-p3.webp
 # rating: 4.5
 comments: false
+date: '2022-01-19 14:25:00 -0400'
+permalink: lap-trinh/emotion-recognition-implementation-traning
+excerpt: Xây dựng mô hình CNN cho nhận dạng khuôn mặt
 description: Trong phần 3 này. Chúng ta sẽ đi thẳng vào xây dựng mô hình CNN cho model nhận dạng đã được viết ở phần 2.
 ---
 
