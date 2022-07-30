@@ -31,8 +31,8 @@ id:doc.id||0,
 url:doc.url||""}));
 var idx = lunr(function () {
     this.ref('id');
-    this.field('title');
-    this.field('body');
+    this.field('title', { boost: 10 });
+    this.field('body', { boost: 5 });
     this.field('description');
 
     documents.forEach(function (doc) {
