@@ -25,7 +25,7 @@
 
 </figure>
 <script>
-    var urlToFile = "{{ include.url }}"
+
     function doesFileExist(urlToFile) {
         var xhr = new XMLHttpRequest();
         console.log(urlToFile);
@@ -39,8 +39,8 @@
             console.log("File exists");
             var elements = document.getElementsByName( 'anhanh' );
             var id1 = elements[0].getAttribute( 'id' );
-            console.log(id1);
-            container.innerHTML = `<img scr="${urlToFile}">`
+            // console.log(id1);
+            // container.innerHTML = `<img scr="${urlToFile}">`
             return true;
         }
     }
