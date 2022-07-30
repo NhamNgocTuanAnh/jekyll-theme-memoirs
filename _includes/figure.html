@@ -26,24 +26,24 @@
 <!-- </figure> -->
 <script>
 
-    // function doesFileExist(urlToFile) {
-    //     var xhr = new XMLHttpRequest();
-    //     console.log(urlToFile);
-    //     xhr.open('HEAD', urlToFile, false);
-    //     xhr.send();
+    function doesFileExist(urlToFile) {
+        var xhr = new XMLHttpRequest();
+        console.log(urlToFile);
+        xhr.open('HEAD', urlToFile, false);
+        xhr.send();
 
-    //     if (xhr.status == "404") {
-    //         console.log("File doesn't exist");
-    //         return false;
-    //     } else {
-    //         console.log("File exists");
-    //         var elements = document.getElementsByName( 'anhanh' );
-    //         var id1 = elements[0].getAttribute( 'id' );
-    //         console.log(id1);
-    //         // container.innerHTML = `<img scr="${urlToFile}">`
-    //         return true;
-    //     }
-    // }
-    // doesFileExist(urlToFile);
+        if (xhr.status == "404") {
+            console.log("File doesn't exist");
+            return false;
+        } else {
+            console.log("File exists");
+            var elements = document.getElementsByName( 'anhanh' );
+            var id1 = elements[0].getAttribute( 'id' );
+            console.log(id1);
+            // container.innerHTML = `<img scr="${urlToFile}">`
+            return true;
+        }
+    }
+    doesFileExist(urlToFile);
 
 </script>
