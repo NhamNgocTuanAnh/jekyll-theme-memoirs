@@ -22,14 +22,14 @@ description: Tạo dáng sao cho sang chảnh, nổi bật trong mỗi bức hì
 [4. Thêm phụ kiện, thêm tự tin](#tip4)\\
 [5. Chụp chuyển động](#tip5) -->
 
-<a name="tip1"></a>
-<h3>1. Đừng đứng im</h3>
+<!-- <a name="tip1"></a>
+<h3>1. Đừng đứng im</h3> -->
 <div id="container">
 
 </div>aa
 <!-- {% include figure.html url="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-06.jpg" alt="tôi nghĩ về em"  caption="Sidney Paget illustration of Holmes and Moriarty tussling at the Reichenbach Falls." %} -->
-<script>
-    // function doesFileExist() {
+<!-- <script> -->
+    <!-- // function doesFileExist() {
     //     var xhr = new XMLHttpRequest();
     //     var elements = document.getElementsByName('anhanh');
     //     if (elements) {
@@ -52,9 +52,9 @@ description: Tạo dáng sao cho sang chảnh, nổi bật trong mỗi bức hì
     //     }else{
     //         console.log("fail elements");
     //     }}
-    // doesFileExist();
+    // doesFileExist(); -->
 
-</script>
+<!-- </script> -->
 <style>
 .box {
   display: flex;
