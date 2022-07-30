@@ -2,11 +2,16 @@
 
     <picture>
 
-        {% assign webp_filename = include.url | replace: ".jpg", ".webp" | replace: ".jpeg", ".webp" | replace: ".png", ".webp" | replace: ".tif", ".webp" %}
+        {% assign webp_filename = include.url | replace: ".jpg", ".webp" | replace: ".jpeg", ".webp" | replace: ".png",
+        ".webp" | replace: ".tif", ".webp" %}
 
-        <source srcset='{% unless jekyll.environment == "development" %}{{ site.url }}{% endunless %}{{ webp_filename }}' type="image/webp">
+        <source
+            srcset='{% unless jekyll.environment == "development" %}{{ site.url }}{% endunless %}{{ webp_filename }}'
+            type="image/webp">
 
-        <img src='{% unless jekyll.environment == "development" %}{{ site.url }}{% endunless %}{{ include.url }}' alt="{{ include.alt }}"{% unless include.not-lazy %} loading="lazy"{% endunless %}{% if include.height %} height="{{ include.height }}"{% endif %}{% if include.width %} width="{{ include.width }}"{% endif %}>
+        <img src='{% unless jekyll.environment == "development" %}{{site.baseurl}}/{{ include.url }}'
+            alt="{{ include.alt }}" {% unless include.not-lazy %} loading="lazy" {% endunless %}{% if include.height %}
+            height="{{ include.height }}" {% endif %}{% if include.width %} width="{{ include.width }}" {% endif %}>
 
     </picture>
 
@@ -18,21 +23,20 @@
 
 </figure>
 <script>
-var urlToFile = "{{ include.url }}"
-function doesFileExist(urlToFile)
-{
-    var xhr = new XMLHttpRequest();
-    xhr.open('HEAD', urlToFile, false);
-    xhr.send();
+    var urlToFile = "{{ include.url }}"
+    function doesFileExist(urlToFile) {
+        var xhr = new XMLHttpRequest();
+        xhr.open('HEAD', urlToFile, false);
+        xhr.send();
 
-    if (xhr.status == "404") {
-        console.log("File doesn't exist");
-        return false;
-    } else {
-        console.log("File exists");
-        return true;
+        if (xhr.status == "404") {
+            console.log("File doesn't exist");
+            return false;
+        } else {
+            console.log("File exists");
+            return true;
+        }
     }
-}
-doesFileExist(urlToFile);
+    doesFileExist(urlToFile);
 
 </script>
