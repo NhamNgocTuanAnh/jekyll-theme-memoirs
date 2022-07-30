@@ -12,7 +12,7 @@ excerpt: Tạo dáng sao cho sang chảnh, nổi bật trong mỗi bức hình l
 description: Tạo dáng sao cho sang chảnh, nổi bật trong mỗi bức hình là điều quan tâm hàng đầu của các tín đồ “sống ảo”. Những gợi ý về tư thế tạo dáng cũng như trang phục sẽ giúp bạn có được bức ảnh đậm chất street style nghìn like.
 ---
 
-Street style đã len vào mọi ngóc ngách của làng thời trang hiện đại, biến mọi nơi trở thành sàn catwalk cho những tín đồ thời trang. Vậy làm sao để chụp được phong cách này? Vào bài viết thôi nhở!! (~‾▽‾)~
+Testarnh Street style đã len vào mọi ngóc ngách của làng thời trang hiện đại, biến mọi nơi trở thành sàn catwalk cho những tín đồ thời trang. Vậy làm sao để chụp được phong cách này? Vào bài viết thôi nhở!! (~‾▽‾)~
 
 ### Mục lục
 
@@ -74,10 +74,11 @@ Hãy thoải mái nhất có thể, thả lỏng cơ thể, hai cánh tay và ch
     <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-07.jpeg" alt="Nikon D600 Dynamic Range">
     Cầm một cành hoa, một chén trà và nghĩ đến những câu chuyện thú vị: Đây là cách giúp gương mặt và nụ cười của bạn trở nên tự nhiên hơn.
   </p>
+  {% assign webp_filename = "../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-07.jpeg" | replace: ".jpg", ".webp" | replace: ".jpeg", ".webp" | replace: ".png", ".webp" | replace: ".tiff", ".webp" %}
   <figure>
     <picture>
       <!-- Use the webp file -->
-      <source srcset="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-07.webp" type="image/webp">
+      <source srcset= "../../assets/images/nhiepanh/doituong/style-life/{{ webp_filename }}" type="image/webp">
       <!-- Fallback to the file you added -->
       <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-07.jpeg" alt="Nikon D600 Dynamic Range">
     </picture>
