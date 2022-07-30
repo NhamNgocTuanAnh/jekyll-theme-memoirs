@@ -23,7 +23,8 @@ var documents = [{% for page in site.pages %}{% if page.url contains '.xml' or p
     "description": "{{ page.description }}",
     "body": "{{ page.date | date: "%Y/%m/%d" }} - {{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
     }{% if forloop.last %}{% else %}, {% endif %}{% endfor %}];
-documents = documents.map(doc=>({
+var documents_copy = documents;
+    documents = documents.map(doc=>({
 description: removeAccents(doc.description)||"",
 title: removeAccents(doc.title)||"",
 body: removeAccents(doc.body)||"",
@@ -49,13 +50,25 @@ function lunr_search(term) {
         if(results.length>0){
             //console.log(idx.search(term));
             //if results
+            let resultsBeforeCheck = [];
             for (var i = 0; i < results.length; i++) {
+                documents_copy.map(item=>{
+                    if(item&&item&&results[i].url&&item.url==results[i].url){
+                        resultsBeforeCheck.push(item);
+                    }
+                })
+            }
+            console.log("Tim kiem");
+            console.log(resultsBeforeCheck);
+            for (var i = 0; i < resultsBeforeCheck.length; i++) {
+
                 // more statements
-                var ref = results[i]['ref'];
-                var url = documents[ref]['url'];
-                var title = documents[ref]['title'];
-                var body = documents[ref]['body'].substring(0,160)+'...';
+                var ref = resultsBeforeCheck[i]['ref'];
+                var url = resultsBeforeCheck[ref]['url'];
+                var title = resultsBeforeCheck[ref]['title'];
+                var body = resultsBeforeCheck[ref]['body'].substring(0,160)+'...';
                 document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML + "<li class='lunrsearchresult'><a href='" + url + "'><span class='title'>" + title + "</span><span class='body'>"+ body +"</span><span class='url'>"+ url +"</span></a></li>";
+
             }
         } else {
             document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = "<li class='lunrsearchresult'>(・・;)ゞ bạn thử dùng từ khóa mạnh hơn xem!...</li>";
