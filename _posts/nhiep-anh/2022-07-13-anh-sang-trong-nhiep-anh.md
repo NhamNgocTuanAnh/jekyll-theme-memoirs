@@ -151,6 +151,13 @@ Với một số dòng máy ảnh có thể **chỉnh nhiệt độ K**. Ta có 
 
 <p style="text-align:center;"> Ánh sáng quyết định sự thành bại của một bức ảnh.</p>
 
+### Hãy nhớ 5 thuộc tính của ánh sáng
+
+- Cường độ ánh sáng mạnh hay nhẹ.
+- Chất lượng ánh sáng: Ánh sáng lớn cho ảnh mềm mại. ánh sáng nhỏ cho đổ bóng shadow rõ ràng.
+- Hướng sáng: Tái tạo 3D.
+- Tương phản:
+- Màu sắc của ánh sáng.
 ### Trích nguồn
 
 - [Ánh Sáng Ảnh Hưởng Thế Nào Đến Nhiếp Ảnh](https://snapshot.canon-asia.com/vn/article/viet/lesson-8-how-light-affects-photography).
