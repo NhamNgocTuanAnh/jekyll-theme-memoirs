@@ -12,7 +12,6 @@ excerpt: Tạo dáng sao cho sang chảnh, nổi bật trong mỗi bức hình l
 description: Tạo dáng sao cho sang chảnh, nổi bật trong mỗi bức hình là điều quan tâm hàng đầu của các tín đồ “sống ảo”. Những gợi ý về tư thế tạo dáng cũng như trang phục sẽ giúp bạn có được bức ảnh đậm chất street style nghìn like.
 ---
 
-test ảnh
 Street style đã len vào mọi ngóc ngách của làng thời trang hiện đại, biến mọi nơi trở thành sàn catwalk cho những tín đồ thời trang. Vậy làm sao để chụp được phong cách này? Vào bài viết thôi nhở!! (~‾▽‾)~
 
 ### Mục lục
