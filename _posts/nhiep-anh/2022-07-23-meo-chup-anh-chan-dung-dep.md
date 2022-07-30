@@ -86,7 +86,7 @@ Hãy thoải mái nhất có thể, thả lỏng cơ thể, hai cánh tay và ch
 
   </figure>
 
-  {% include figure.html url="295700417_122550010519227_2342726387005444281_n.jpg" alt="tôi nghĩ về em" avif="true" height="720" width="1200" caption="Sidney Paget illustration of Holmes and Moriarty tussling at the Reichenbach Falls." %}
+  {% include figure.html url="/images/295700417_122550010519227_2342726387005444281_n.jpg" alt="tôi nghĩ về em" avif="true" height="720" width="1200" caption="Sidney Paget illustration of Holmes and Moriarty tussling at the Reichenbach Falls." %}
 
 <a name="tip5"></a>
 <h3>5. Chụp chuyển động</h3>
