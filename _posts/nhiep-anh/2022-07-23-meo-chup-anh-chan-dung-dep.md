@@ -81,26 +81,23 @@ function allSrc() {
   var src = [];
   var imgs = document.images||[];
   for(let i =0; i<imgs.length; i++){
-    const idImage = imgs[i].id;
-     const substring = "imagesblog";
-     if(idImage.includes(substring)){
-        console.log("Chay ",i);
-       let ch = document.getElementById(imgs[i]);
-       if(ch){
-        let urlOld = ch.src;
+
+      const idImage = imgs[i].id;
+      const substring = "imagesblog";
+      console.log("Tim thay anh:", idImage);
+      if(idImage.includes(substring)){
+        let urlOld = imgs[i].src;
         let re = /.jpg|.png|.jpeg/gi;
         let urlNew = urlOld.replace(re, '.webp');
-        if(checkImage(urlNew) ==true){
-          const myArray = urlNew.split("/");
-          document.getElementById(imgs[i].id).src= urlNew;
+        if(checkImage(urlNew,idImage,urlNew) ==true){
+          console.log("Find item:",urlNew);
         }
-        console.log(urlNew);
-       }
-     }
+      }
+
   }
 }
 allSrc();
-function checkImage(url) {
+function checkImage(url, idImg, urlNew) {
   var request = new XMLHttpRequest();
   let checkImg = false;
   request.open("GET", url, true);
@@ -110,11 +107,9 @@ function checkImage(url) {
     status = request.status;
     if (request.status == 200) //if(statusText == OK)
     {
-      console.log("image exists");
-      console.log(url);
+      document.getElementById(idImg).src= urlNew;
       checkImg =  true;
     } else {
-      console.log("image doesn't exist");
       checkImg = false;
     }
 
