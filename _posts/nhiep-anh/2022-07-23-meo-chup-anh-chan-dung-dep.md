@@ -92,7 +92,7 @@ function allSrc() {
         let urlNew = urlOld.replace(re, '.webp');
         if(checkImage(urlNew) ==true){
           const myArray = urlNew.split("/");
-          document.getElementById(imgs[i]).src= urlNew;
+          document.getElementById(imgs[i].id).src= urlNew;
         }
         console.log(urlNew);
        }
