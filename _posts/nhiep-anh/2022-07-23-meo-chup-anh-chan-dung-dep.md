@@ -90,7 +90,7 @@ const imgs = [
 ];
 function allSrc() {
   // var imgs = document.images;
-  Array.isArray(imgs){
+  if(Array.isArray(imgs)&&imgs.length>0){
     for(let i =0; i<imgs.length; i++){
       let ch = document.getElementById(imgs[i]);
       if(ch){
