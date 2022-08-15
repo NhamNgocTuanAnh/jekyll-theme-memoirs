@@ -26,34 +26,5 @@
 <!-- </figure> -->
 <script>
 
-    function doesFileExist() {
-        var xhr = new XMLHttpRequest();
-        var elements = document.getElementsByName('anhanh');
-        if (elements) {
-            var id1 = elements[0].getAttribute('id');
-            if (id1) {
-                xhr.open('HEAD', id1, false);
-                xhr.send();
-
-                if (xhr.status == "404") {
-                    console.log("File doesn't exist");
-                    return false;
-                } else {
-                    console.log("File exists");
-
-                    console.log(id1);
-                    // container.innerHTML = `<img scr="${urlToFile}">`
-                    return true;
-                }
-            }else{
-                console.log("fail id1");
-            }
-        }else{
-            console.log("fail elements");
-        }
-
-
-    }
-    doesFileExist();
 
 </script>
