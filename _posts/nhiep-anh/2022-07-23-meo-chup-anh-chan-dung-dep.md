@@ -78,10 +78,8 @@ Khó tập trung vừa mặt, vừa tay, vừa người nên mình chỉ nhón b
 
 <script>
 function allSrc() {
-  var src = [];
   var imgs = document.images||[];
   for(let i =0; i<imgs.length; i++){
-
       const idImage = imgs[i].id;
       const substring = "imagesblog";
       console.log("Tim thay anh:", idImage);
@@ -93,7 +91,6 @@ function allSrc() {
           console.log("Find item:",urlNew);
         }
       }
-
   }
 }
 allSrc();
@@ -103,7 +100,6 @@ function checkImage(url, idImg, urlNew) {
   request.open("GET", url, true);
   request.send();
   request.onload = function() {
-
     status = request.status;
     if (request.status == 200) //if(statusText == OK)
     {
