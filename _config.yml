@@ -165,4 +165,48 @@ defaults:
 #   cache_file: "tmp/kitty-cache.yml"
 #   image_glob: "assets/images/**/*.{gif,png,jpg,jpeg}"
 
+# HTML Compression
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+picture:
+  source: "images/_originals"
+  output: "images"
+  markup: "picture"
+  presets:
+    default:
+      ppi: [1]
+      source_720:
+        media: "(min-width: 1200px)"
+        width: "720"
+      source_670:
+        media: "(min-width: 768px)"
+        width: "670"
+      source_540:
+        media: "(min-width: 600px)"
+        width: "540"
+      source_default:
+        width: "320"
+    hero:
+      attr:
+        class: "page__hero-image"
+        itemprop: "image"
+      ppi: [1]
+      source_1600:
+        media: "(min-width: 1600px)"
+        width: "1600"
+      source_1024:
+        media: "(min-width: 1024px)"
+        width: "1024"
+      source_768:
+        media: "(min-width: 768px)"
+        width: "768"
+      source_600:
+        media: "(min-width: 600px)"
+        width: "600"
+      source_default:
+        width: "320"
+
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
