@@ -4,7 +4,7 @@ title:  "Chuyên đề 5. Khảo sát sự biến thiên và vẽ đồ thị h�
 author: john
 categories: [ Toán học ]
 tags: [ Toán cao cấp ]
-image: assets/images/math/anh-xa-tuyen-tinh-chuong-7.jpg
+image: assets/images/thay-tan.webp
 # rating: 4.5
 comments: false
 permalink: toan-hoc/khao-sat-bien-thien-ve-do-thi-ham-so
