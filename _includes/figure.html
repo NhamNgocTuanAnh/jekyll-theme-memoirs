@@ -1,0 +1,59 @@
+<!-- <figure> -->
+
+<!-- <picture> -->
+<!--
+        {% assign webp_filename = include.url | replace: ".jpg", ".webp" | replace: ".jpeg", ".webp" | replace: ".png",
+        ".webp" | replace: ".tif", ".webp" %} -->
+
+<!-- <source
+            srcset='{% unless jekyll.environment == "development" %}{{ site.url }}{% endunless %}{{ webp_filename }}'
+            type="image/webp"> -->
+
+<!-- <img src='{% unless jekyll.environment == "development" %}{{site.baseurl}}/{{ include.url }}'
+            alt="{{ include.alt }}" {% unless include.not-lazy %} loading="lazy" {% endunless %}{% if include.height %}
+            height="{{ include.height }}" {% endif %}{% if include.width %} width="{{ include.width }}" {% endif %}> -->
+<div id="container">
+
+</div>
+<!-- </picture> -->
+
+<!-- <figcaption> -->
+
+<p id="{{ include.url }}" name="anhanh">{{ include.caption }}</p>
+
+<!-- </figcaption> -->
+<!--  -->
+<!-- </figure> -->
+<script>
+
+    function doesFileExist() {
+        var xhr = new XMLHttpRequest();
+        var elements = document.getElementsByName('anhanh');
+        if (elements) {
+            var id1 = elements[0].getAttribute('id');
+            if (id1) {
+                xhr.open('HEAD', id1, false);
+                xhr.send();
+
+                if (xhr.status == "404") {
+                    console.log("File doesn't exist");
+                    return false;
+                } else {
+                    console.log("File exists");
+
+                    console.log(id1);
+                    // container.innerHTML = `<img scr="${urlToFile}">`
+                    return true;
+                }
+            }else{
+                console.log("fail id1");
+            }
+        }else{
+            console.log("fail elements");
+        }
+
+
+    }
+    doesFileExist();
+
+</script>
