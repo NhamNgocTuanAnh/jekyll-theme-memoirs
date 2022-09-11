@@ -4,3 +4,6 @@ _site
 .sass-cache
 *~
 .jekyll-cache
+Gemfile
+Gemfile.lock
+_config.yml
