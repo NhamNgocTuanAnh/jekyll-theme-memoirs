@@ -36,7 +36,7 @@ excerpt: Đánh giá Tốt. Phù hợp với người chơi nghiệp dư không
 [1. Cấu tạo và thiết kế](#tip1)\\
 [2. Tính năng và hoạt động](#tip2)\\
 [3. Chất lượng hình ảnh](#tip3)\\
-[4. Tổng kết đánh giá chung và tư vấn](#tip4)\\
+[4. Tổng kết đánh giá chung và tư vấn](#tip4)
 
 <!-- wp:heading -->
 <a name="tip1"></a>
