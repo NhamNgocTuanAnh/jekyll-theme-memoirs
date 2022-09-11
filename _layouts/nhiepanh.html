@@ -23,6 +23,8 @@
 
 </head>
 
+
+
 {% if jekyll.environment == 'production' %}
 <!-- change your GA id in _config.yml -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics}}"></script>
@@ -38,6 +40,7 @@
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 
 <body>
+    <a>anh</a>
     <!-- defer loading of font and font awesome -->
     <noscript id="deferred-styles">
         <link href="https://fonts.googleapis.com/css?family=Sen:400,700&display=swap" rel="stylesheet">
@@ -88,15 +91,16 @@
 
             <!-- Site Tag
     ================================================== -->
-            {% if page.url == '/' %}
+            {% if page.url == '/blogs' %}
             <p class="sitetag">
                 {{ site.description }}
             </p>
             {% endif %}
-
+            Để không bao giờ bỏ lỡ bài mới nhất từ tôi, đăng ký ngay
             <!-- Content
     ================================================== -->
             <div class="main-content">
+                Để không bao giờ bỏ lỡ bài mới nhất từ tôi, đăng ký ngay
 
                 {{ content }}
 

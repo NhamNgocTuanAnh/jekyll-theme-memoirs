@@ -49,7 +49,7 @@ Việc nhận dạng cảm xúc khuôn mặt được thực hiện trên các b
 từng ảnh tĩnh. Khi đã có ảnh đầu vào, tiếp tục chuyển ảnh cho quá trình xử
 lý tiếp theo.
 
-{% gist 4d585badff602951bd84b0e2c29c4412 %}
+<script src="https://gist.github.com/NhamNgocTuanAnh/4d585badff602951bd84b0e2c29c4412.js"></script>
 
 <a name="tongket"></a>
 ### 3. Tổng kết

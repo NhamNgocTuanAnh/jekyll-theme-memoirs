@@ -33,8 +33,7 @@ Bạn có nhìn thấy cái gì sai ở đây không?
 Nếu bạn muốn code cú pháp dễ dàng như Python và hiệu suất cao như C thì Cython là lựa chọn của bạn. Bạn có thể sử dụng Cython để viết các extention C cho Python. Code Python của bạn sẽ được dịch sang code C/C++ và được tối ưu hóa. Nó sẽ cung cấp cho bạn hiệu suất cao và bạn có thể sử dụng nó trong các dự án Python của mình.
 
 Ví dụ:
-
-{% gist 5905366e178ca0a91ae72ecf115f52d0 %}
+<script src="https://gist.github.com/NhamNgocTuanAnh/5905366e178ca0a91ae72ecf115f52d0.js"></script>
 
 ![image](/assets/images/emotion-detection/cython-vs-python.webp){:class="img-responsive"}
 Kết quả Cython chạy nhanh hơn Python cả trục lần :>> [Trích betterprogramming.pub](https://betterprogramming.pub/skyrocket-your-python-code-with-cython-6851e357bef8)\\
@@ -111,8 +110,7 @@ Nói về cấu trúc máy tính : Thread là một đơn vị cơ bản trong C
 
 <a name="malaptrinhvagiaithich"></a>
 ### 4. Mã lập trình và giải thích
-
-{% gist 09381efa2f2d911ad8f3140f00427e33 %}
+<script src="https://gist.github.com/NhamNgocTuanAnh/09381efa2f2d911ad8f3140f00427e33.js"></script>
 
 <a name="ketluan"></a>
 ### 5. Kết luận

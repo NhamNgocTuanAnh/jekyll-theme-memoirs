@@ -33,7 +33,7 @@ restricted BM, DBN, autoencoder,…
 <a name="mohinhmangcnn"></a>
 ### 1. Mô hình CNN mạng
 
-{% gist f77f69224e16a79cb83eda66c741c9ad %}
+<script src="https://gist.github.com/NhamNgocTuanAnh/f77f69224e16a79cb83eda66c741c9ad.js"></script>
 
 <a name="giaithichmohinh"></a>
 ### 2. Giải thích mô hình
