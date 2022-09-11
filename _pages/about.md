@@ -7,7 +7,7 @@ comments: false
 imageshadow: true
 ---
 
-<style>
+<!-- <style>
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;700&display=swap');
 
 * {
@@ -186,7 +186,7 @@ body,
         <button class="view">View profile</button>
       </div>
     </div>
-  </div>
+  </div> -->
 
 
 [![Đô Đô has a lot of ideas.](/assets/images/mine-introdu.webp)](https://www.facebook.com/nntatlu/){:class="img-responsive"}
@@ -195,12 +195,6 @@ Hi. Tôi là lập trình viên backend. Với đam mê chụp ảnh, lập trì
 
 >Cuộc sống và công việc là không thể tác rời. Nhưng đôi khi ta đã đắm chìm nhiều vào công việc mà quên mất đi các khía cạnh của cuộc sống.
 
-
-
-<!-- This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github.
-
-<a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a> -->
----
 
 <div class="container">
   <div class="row">
