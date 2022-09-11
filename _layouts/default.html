@@ -156,28 +156,28 @@
             min-height: 100vh;
         } */
 
-        img {
+        img-avt {
             max-width: 100%;
             display: block;
         }
 
-        ul {
+        ul-avt {
             list-style: none;
         }
 
         /* Utilities */
-        .card::after,
-        .card img {
+        .card-avt::after,
+        .card-avt img {
             border-radius: 50%;
         }
 
         /* body,
-        .card,
-        .stats {
+        .card-avt,
+        .stats-avt {
             display: flex;
         } */
 
-        .card {
+        .card-avt {
             padding: 2.5rem 2rem;
             border-radius: 10px;
             background-color: rgba(255, 255, 255, .5);
@@ -189,14 +189,14 @@
             overflow: hidden;
         }
 
-        .card::before,
-        .card::after {
+        .card-avt::before,
+        .card-avt::after {
             content: '';
             position: absolute;
             z-index: -1;
         }
 
-        .card::before {
+        .card-avt::before {
             width: 100%;
             height: 100%;
             border: 1px solid #FFF;
@@ -205,7 +205,7 @@
             left: -.7rem;
         }
 
-        .card::after {
+        .card-avt::after {
             height: 15rem;
             width: 15rem;
             background-color: #4172f5aa;
@@ -214,51 +214,51 @@
             box-shadow: 2rem 6rem 0 -3rem #FFF
         }
 
-        .card img {
+        .card-avt img-avt {
             width: 8rem;
             min-width: 80px;
             box-shadow: 0 0 0 5px #FFF;
         }
 
-        .infos {
+        .infos-avt {
             margin-left: 1.5rem;
         }
 
-        .name {
+        .name-avt {
             margin-bottom: 1rem;
         }
 
-        .name h2 {
+        .name-avt h2 {
             font-size: 1.3rem;
         }
 
-        .name h4 {
+        .name-avt h4 {
             font-size: .8rem;
             color: #333
         }
 
-        .text {
+        .text-avt {
             font-size: .9rem;
             margin-bottom: 1rem;
         }
 
-        .stats {
+        .stats-avt {
             margin-bottom: 1rem;
         }
 
-        .stats li {
+        .stats-avt li {
             min-width: 5rem;
         }
 
-        .stats li h3 {
+        .stats-avt li h3 {
             font-size: .99rem;
         }
 
-        .stats li h4 {
+        .stats-avt li h4 {
             font-size: .75rem;
         }
 
-        .links button {
+        .links-avt button-avt {
             font-family: 'Poppins', sans-serif;
             min-width: 120px;
             padding: .5rem;
@@ -269,29 +269,29 @@
             transition: all .25s linear;
         }
 
-        .links .follow,
-        .links .view:hover {
+        .links-avt .follow-avt,
+        .links-avt .view-avt:hover {
             background-color: #222;
             color: #FFF;
         }
 
-        .links .view,
-        .links .follow:hover {
+        .links-avt .view-avt,
+        .links-avt .follow-avt:hover {
             background-color: transparent;
             color: #222;
         }
 
         @media screen and (max-width: 450px) {
-            .card {
+            .card-avt {
                 display: block;
             }
 
-            .infos {
+            .infos-avt {
                 margin-left: 0;
                 margin-top: 1.5rem;
             }
 
-            .links button {
+            .links-avt button-avt {
                 min-width: 100px;
             }
         }
@@ -378,21 +378,21 @@
                 <!-- Modal(simply a div) which is initially invisible = out of bounds of the page -->
                 <div id="feedbackSection" class="modal">
                     <div class="modal-content">
-                        <div class="card">
-                            <div class="img">
+                        <div class="card-avt">
+                            <div class="img-avt">
                                 <img
                                     src="https://images.unsplash.com/photo-1610216705422-caa3fcb6d158?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDB8fGZhY2V8ZW58MHwyfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60">
                             </div>
-                            <div class="infos">
-                                <div class="name">
+                            <div class="infos-avt">
+                                <div class="name-avt">
                                     <h2>Bradley Steve</h2>
                                     <h4>@bradsteve</h4>
                                 </div>
-                                <p class="text">
+                                <p class="text-avt">
                                     I'm a Front End Developer, follow me to be the first
                                     who see my new work.
                                 </p>
-                                <ul class="stats">
+                                <ul class="stats-avt">
                                     <li>
                                         <h3>15K</h3>
                                         <h4>Views</h4>
@@ -406,9 +406,9 @@
                                         <h4>Followers</h4>
                                     </li>
                                 </ul>
-                                <div class="links">
-                                    <button class="follow">Follow</button>
-                                    <button class="view">View profile</button>
+                                <div class="links-avt">
+                                    <button class="follow-avt">Follow</button>
+                                    <button class="view-avt">View profile</button>
                                 </div>
                             </div>
                         </div>
