@@ -4,7 +4,7 @@ title: 'Đánh giá ngàm Viltrox Canon EF-EOS M2 (0.71X) - [Review]'
 author: sal
 categories: [Nhiếp ảnh]
 tags: [tips chụp ảnh]
-image: assets/images/nhiepanh/danh-gia-viltrox-EF-EOS-M2.webp
+image: assets/images/nhiepanh/danh-gia-viltrox-ef-eos-m2-ava.webp
 rating: 5
 comments: false
 permalink: nhiep-anh/danh-gia-ngam-viltrox-canon-ef-eos-m2-0-71x
@@ -94,11 +94,13 @@ excerpt: Đánh giá Tốt. Phù hợp với người chơi nghiệp dư không
 <!-- wp:paragraph -->
 <p>Bắt đầu đau đầu phải không nào. không sao, ta hãy cùng đến ngay với chất lượng thực tế mà adapter cho ra.</p>
 <!-- /wp:paragraph -->
+<h2>3. Chất lượng hình ảnh </h2>
+  <img id="imagesblog-01" src="../../assets/images/nhiepanh/ef-50mm-f1.2l-viltrox-ef-eos-m2-na-canon-m50-vs-canon-50-2.webp" alt="Nikon D600 Dynamic Range"><br>
+Nhìn tổng thể bức ảnh thì Viltrox-EF-EOSM2 có vẻ hẹp hơn một chút. độ nét vùng trung tâm khá tốt, nhưng cùng zoom phần rìa ảnh thì hình ảnh có xuất hiện viền tím. Phải khép khẩu rất sâu mới đỡ.
+  <img id="imagesblog-03" src="../../assets/images/nhiepanh/danh-gia-viltrox-ef-eos-m2-3-3.webp" alt="Nikon D600 Dynamic Range"><br>
 
-
-
-
-
+Dù cấp cho bạn góc nhìn tiệm cận fullframe nhưng vì cảm biến nhỏ hơn, bạn vẫn có thể nhận thấy noise rõ rệt.
+  <img id="imagesblog-03" src="../../assets/images/nhiepanh/danh-gia-viltrox-ef-eos-m2-3-4.webp" alt="Nikon D600 Dynamic Range"><br>
 
 
 
