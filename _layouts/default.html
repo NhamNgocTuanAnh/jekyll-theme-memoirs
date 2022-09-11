@@ -1,85 +1,144 @@
 <!DOCTYPE html>
 <html lang="vi">
+
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<link rel="icon" href="{{ site.baseurl }}/assets/images/logo.webp">
+    <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.webp">
 
-<title>{{ page.title }} | {{site.name}}</title>
+    <title>{{ page.title }} | {{site.name}}</title>
 
-{% seo %}
-<link rel="stylesheet" href="{{ "/assets/css/gallery.css" | relative_url }}">
-<link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-<link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
-<link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
+    {% seo %}
+    <link rel="stylesheet" href="{{ " /assets/css/gallery.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ " /assets/css/main.css" | relative_url }}">
+    <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
 
-<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-<script src="{{ site.baseurl }}/assets/js/lazysizes.min.js" async=""></script>
-<meta name="google-site-verification" content="d_QhcFO6jYixKuqHeimC-fB9HoL2oOxFPBBr1Dm-3nE" />
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3817570563020075"
-     crossorigin="anonymous"></script>
+    <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/lazysizes.min.js" async=""></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" async=""></script>
 
-     <style>
-        /* Popup box BEGIN */
-.hover_bkgr_fricc{
-    background:rgba(0,0,0,.4);
-    cursor:pointer;
-    display:none;
-    height:100%;
-    position:fixed;
-    text-align:center;
-    top:0;
-    width:100%;
-    z-index:10000;
-}
-.hover_bkgr_fricc .helper{
-    display:inline-block;
-    height:100%;
-    vertical-align:middle;
-}
-.hover_bkgr_fricc > div {
-    background-color: #fff;
-    box-shadow: 10px 10px 60px #555;
-    display: inline-block;
-    height: auto;
-    max-width: 551px;
-    min-height: 100px;
-    vertical-align: middle;
-    width: 60%;
-    position: relative;
-    border-radius: 8px;
-    padding: 15px 5%;
-}
-.popupCloseButton {
-    background-color: #fff;
-    border: 3px solid #999;
-    border-radius: 50px;
-    cursor: pointer;
-    display: inline-block;
-    font-family: arial;
-    font-weight: bold;
-    position: absolute;
-    top: -20px;
-    right: -20px;
-    font-size: 25px;
-    line-height: 30px;
-    width: 30px;
-    height: 30px;
-    text-align: center;
-}
-.popupCloseButton:hover {
-    background-color: #ccc;
-}
-.trigger_popup_fricc {
-    cursor: pointer;
-    font-size: 20px;
-    margin: 20px;
-    display: inline-block;
-    font-weight: bold;
-}
-/* Popup box BEGIN */
-     </style>
+    <meta name="google-site-verification" content="d_QhcFO6jYixKuqHeimC-fB9HoL2oOxFPBBr1Dm-3nE" />
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3817570563020075"
+        crossorigin="anonymous"></script>
+
+    <style>
+        h3 {
+            width: 50%;
+            margin: 20%;
+        }
+
+        #userFeedback {
+            float: right;
+            margin-right: 100px;
+            margin-top: -50px;
+        }
+
+        /*Adjustments for the various parts of modal*/
+        #modalButtons {
+            float: right;
+            margin-right: 20px;
+        }
+
+        #email,
+        #feedback {
+            width: 340px;
+            margin-left: 20px;
+        }
+
+        .ratingDisplay {
+            margin-left: 20px;
+        }
+
+        /* for partially visible background around the modal display is set to block when 'Feedback is clicked'*/
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            padding-top: 100px;
+            top: 0;
+            left: 0;
+            height: 100%;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+
+        /*default class on modal div*/
+        .modal-content {
+            position: relative;
+            padding: 10px;
+            width: 400px;
+            margin: auto;
+            background-color: #fefefe;
+            border: 1px solid #777;
+            box-shadow: 0px 4px 8px 0px rgba(3, 3, 3, 0.3);
+            -webkit-animation-name: slideDown;
+            -webkit-animation-duration: 1s;
+            animation-name: slideDown;
+            animation-duration: 1s
+        }
+
+        /*css animations*/
+        @-webkit-keyframes slideDown {
+            from {
+                top: -100vh;
+                opacity: 0
+            }
+
+            to {
+                top: 0;
+                opacity: 1
+            }
+        }
+
+        @keyframes slideDown {
+            from {
+                top: -100vh;
+                opacity: 0
+            }
+
+            to {
+                top: 0;
+                opacity: 1
+            }
+        }
+
+        /*CSS class that is added on clicking 'Feedback' button & removed on clicking 'Done' or 'Close'*/
+        .visible {
+            display: block;
+        }
+
+        /*Light grey representation of avg. rating*/
+        .oldRating {
+            color: #bbbbbb;
+        }
+
+        /*default look of stars without user interaction*/
+        #ratingStars {
+            font-size: 25px;
+            color: #555577;
+        }
+
+        /*user interaction = hover*/
+        #ratingStars:hover {
+            text-decoration: none;
+            cursor: pointer;
+        }
+
+        /*user interaction = hover*/
+        .tmpRating {
+            color: #ffee00;
+        }
+
+        /*user interaction = click*/
+        .newRating {
+            color: #ff7300;
+        }
+
+        F
+
+    </style>
 
 </head>
 
@@ -87,137 +146,169 @@
 <!-- change your GA id in _config.yml -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics}}"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-  gtag('config', '{{site.google_analytics}}');
+    gtag('config', '{{site.google_analytics}}');
 </script>
 {% endif %}
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
+
 <body>
-	<!-- defer loading of font and font awesome -->
-	<noscript id="deferred-styles">
-		<link href="https://fonts.googleapis.com/css?family=Sen:400,700&display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-	</noscript>
+    <!-- defer loading of font and font awesome -->
+    <noscript id="deferred-styles">
+        <link href="https://fonts.googleapis.com/css?family=Sen:400,700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
+            integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    </noscript>
 
-<!-- Begin Sidebar Navigation
+    <!-- Begin Sidebar Navigation
 ================================================== -->
 
-<div class="sidebar">
-</div>
-<div class="nav-icon">
-    <div class="hamburger-bar"></div>
-</div>
-<div id="blackover-nav" class="blackover"></div>
-<nav id="menu">
-    <ul>
-        <h3>Mục lục</h3>
-        <li><a href="{{ site.baseurl }}/">Trang chủ</a></li>
-        <li><a href="{{ site.baseurl }}/about">Về tôi</a></li>
-        <li><a href="{{ site.baseurl }}/categories">Thể loại's</a></li>
-        <li><a href="{{ site.baseurl }}/photography">My Gallery</a></li>
-        <!-- https://nhamngoctuananh.github.io/theloai/ -->
-        <!-- <li><a href="{{ site.baseurl }}/authors">Contributors <span class="badge badge-primary">new</span></a></li>
+    <div class="sidebar">
+    </div>
+    <div class="nav-icon">
+        <div class="hamburger-bar"></div>
+    </div>
+    <div id="blackover-nav" class="blackover"></div>
+    <nav id="menu">
+        <ul>
+            <h3>Mục lục</h3>
+            <li><a href="{{ site.baseurl }}/">Trang chủ</a></li>
+            <li><a href="{{ site.baseurl }}/about">Về tôi</a></li>
+            <li><a href="{{ site.baseurl }}/categories">Thể loại's</a></li>
+            <li><a href="{{ site.baseurl }}/photography">My Gallery</a></li>
+            <!-- https://nhamngoctuananh.github.io/theloai/ -->
+            <!-- <li><a href="{{ site.baseurl }}/authors">Contributors <span class="badge badge-primary">new</span></a></li>
         <li><a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/">Get Memoirs</a></li>       -->
-        <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
-    </ul>
-</nav>
+            <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
+        </ul>
+    </nav>
 
-{% include search-lunr.html %}
+    {% include search-lunr.html %}
 
 
-<!-- End Sidebar Navigation
+    <!-- End Sidebar Navigation
 ================================================== -->
 
-<div class="site-content {% if page.url == '/' %} firstpage {% endif %}">
+    <div class="site-content {% if page.url == '/' %} firstpage {% endif %}">
 
-<div class="container">
+        <div class="container">
 
-    <!-- Site Logo/Name
+            <!-- Site Logo/Name
     ================================================== -->
 
-    <a class="navbar-brand" href="{{ site.baseurl }}/">
-        <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
-    </a>
+            <a class="navbar-brand" href="{{ site.baseurl }}/">
+                <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
+            </a>
 
 
-    <!-- Site Tag
+            <!-- Site Tag
     ================================================== -->
-    {% if page.url == '/' %}
-        <p class="sitetag">
-            {{ site.description }}
-        </p>
+            {% if page.url == '/' %}
+            <p class="sitetag">
+                {{ site.description }}
+            </p>
+            {% endif %}
+
+            <!-- Content
+    ================================================== -->
+            <div class="main-content">
+                {{ content }}
+
+                <!-- Modal(simply a div) which is initially invisible = out of bounds of the page -->
+                <div id="feedbackSection" class="modal">
+                    <div class="modal-content">
+                        <form action="">
+                            <br />
+                            <label class="sr-only" for="email">&nbsp; &nbsp; &nbsp; &nbsp;Email : </label>
+                            <input type="text" name="email" id="email" placeholder="Enter email address" required
+                                autofocus /><br /><br />
+
+                            <label class="sr-only" for="feedback">Comment : </label>
+                            <textarea name="feedback" id="feedback" placeholder="Enter comments if any ..."
+                                autofocus></textarea>
+                            <br /><br />
+                            <span class="ratingDisplay" id="ratingStars">
+                                <span id="r1" class="star glyphicon glyphicon-star-empty" aria-hidden="true"></span>
+                                <span id="r2" class="star glyphicon glyphicon-star-empty" aria-hidden="true"></span>
+                                <span id="r3" class="star glyphicon glyphicon-star-empty" aria-hidden="true"></span>
+                                <span id="r4" class="star glyphicon glyphicon-star-empty" aria-hidden="true"></span>
+                                <span id="r5" class="star glyphicon glyphicon-star-empty" aria-hidden="true"></span>
+                            </span><br />
+                            <span class="ratingDisplay">
+                                <span id="showNumRating"></span> ratings,
+                                <span id="showAvgRating"></span> out of 5 stars
+                            </span><br /><br />
+                            <span id="modalButtons">
+                                <button id="closeSend" class="btn btn-success">&nbsp; Done &nbsp;</button> &nbsp; &nbsp;
+                                <button id="closeOnly" class="btn btn-danger">&nbsp; Close &nbsp;</button>
+                            </span>
+                        </form>
+                    </div>
+                </div>
+
+                <button id="userFeedback" class="btn btn-success">&nbsp; Feedback &nbsp;</button>
+            </div>
+
+
+
+            {% if site.mailchimp-list %}
+            <!-- Newsletter
+    ================================================== -->
+            <div class="newsletter text-center">
+                <span class="h4"><img src="{{ site.baseurl }}/{{ site.logo }}" class="newsletter-logo"
+                        alt="{{site.title}}"> &nbsp; Để không bao giờ bỏ lỡ <b>bài mới nhất</b> từ tôi, đăng ký
+                    ngay</span>
+                <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form"
+                    class="wj-contact-form validate" target="_blank" novalidate>
+                    <div class="mc-field-group d-inline-flex">
+                        <input type="email" placeholder="Your e-mail" name="EMAIL" class="required email" id="mce-EMAIL"
+                            autocomplete="on" required>
+                        <input type="submit" value="Subscribe" name="subscribe" class="heart">
+                    </div>
+                </form>
+            </div>
+            {% endif %}
+
+        </div>
+
+        <!-- Begin Footer
+================================================== -->
+        <footer class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 col-sm-12 text-center text-lg-left">
+                        Copyright © {{ site.time | date: "%Y" }} {{ site.name }}
+                    </div>
+                    <div class="col-md-6 col-sm-12 text-center text-lg-right">
+                        <a target="_blank" href="https://www.facebook.com/nntatlu/">Anh Hàng Xóm</a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- End Footer
+================================================== -->
+
+    </div> <!-- /.site-content -->
+
+    <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
+================================================== -->
+
+    <script src="{{ site.baseurl }}/assets/js/prism.js"></script>
+
+    <script src="{{ site.baseurl }}/assets/js/theme.js"></script>
+
+    {% if site.lazyimages == "enabled" %}
+    <script src="{{ site.baseurl }}/assets/js/lazyload.js"></script>
     {% endif %}
 
-    <!-- Content
-    ================================================== -->
-    <div class="main-content">
-        {{ content }}
-
-        <a class="trigger_popup_fricc">Click here to show the popup</a>
-    </div>
-
-    <div class="hover_bkgr_fricc">
-        <span class="helper"></span>
-        <div>
-            <div class="popupCloseButton">&times;</div>
-            <p>Add any HTML content<br />inside the popup box!</p>
-        </div>
-    </div>
-
-    {% if site.mailchimp-list %}
-    <!-- Newsletter
-    ================================================== -->
-    <div class="newsletter text-center">
-        <span class="h4"><img src="{{ site.baseurl }}/{{ site.logo }}" class="newsletter-logo" alt="{{site.title}}"> &nbsp; Để không bao giờ bỏ lỡ <b>bài mới nhất</b> từ tôi, đăng ký ngay</span>
-        <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
-            <div class="mc-field-group d-inline-flex">
-            <input type="email" placeholder="Your e-mail" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
-            <input type="submit" value="Subscribe" name="subscribe" class="heart">
-            </div>
-        </form>
-    </div>
+    {% if page.layout == 'post' %}
+    <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
     {% endif %}
-
-</div>
-
-<!-- Begin Footer
-================================================== -->
-<footer class="footer">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6 col-sm-12 text-center text-lg-left">
-                Copyright © {{ site.time | date: "%Y" }} {{ site.name }}
-            </div>
-            <div class="col-md-6 col-sm-12 text-center text-lg-right">
-                <a target="_blank" href="https://www.facebook.com/nntatlu/">Anh Hàng Xóm</a>
-            </div>
-        </div>
-    </div>
-</footer>
-<!-- End Footer
-================================================== -->
-
-</div> <!-- /.site-content -->
-
-<!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
-================================================== -->
-
-<script src="{{ site.baseurl }}/assets/js/prism.js"></script>
-
-<script src="{{ site.baseurl }}/assets/js/theme.js"></script>
-
-{% if site.lazyimages == "enabled" %}
-<script src="{{ site.baseurl }}/assets/js/lazyload.js"></script>
-{% endif %}
-
-{% if page.layout == 'post' %}
-<script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
-{% endif %}
-<!--
+    <!--
 
 
     <script >
@@ -231,21 +322,122 @@
     });
     </script>
 -->
-// @fn: bat popup gioi thieu
-<script>
+    // @fn: bat popup gioi thieu
+    <script>
+        $(document).ready(function () {
+            var numRating, avgRating, currentRating;
+            var email, feedback;
+            var validateEmail = true, validateRating = false;
 
-$(window).load(function () {
-    $('.hover_bkgr_fricc').show();
-    $(".trigger_popup_fricc").click(function(){
-       $('.hover_bkgr_fricc').show();
-    });
-    $('.hover_bkgr_fricc').click(function(){
-        $('.hover_bkgr_fricc').hide();
-    });
-    $('.popupCloseButton').click(function(){
-        $('.hover_bkgr_fricc').hide();
-    });
-});
-</script>
+            numRating = 234;      //get the value from the server here 234 is taken as an example
+            avgRating = 3;        //get the value from the server here 3 is taken as an example
+
+            //click events on 'close' button on the modal = simply close the modal
+            $('#closeOnly').click(function () {
+                $('#feedbackSection').removeClass('visible');
+            });
+            //--- click events on 'Feedback' button on the page = bring up the modal
+            function takefeedback()   //default click event
+            {
+                $('#feedbackSection').addClass('visible');
+            }
+            function sentfeedback()     //click event attached when feedback succesfully submitted
+            {
+                $('#feedbackSection').addClass('visible');
+                console.log('changing feedback section');
+                $('form').prepend('<br /><span style="color:red; margin-left:20px;">' +
+                    'You have already submitted a rating</span><br />');
+                $('#closeSend').prop('disabled', true);
+                $('#email').prop('disabled', true);
+                $('#feedback').prop('disabled', true);
+            }
+            $('#userFeedback').on('click', takefeedback);
+            //---
+            //-------updating the rating stars according to total number of ratings & its average
+            var avg = $('#r'.concat(avgRating.toString()));
+            avg.prevAll().addClass('oldRating');
+            avg.addClass('oldRating');
+            $('#showNumRating').text(numRating.toString());
+            $('#showAvgRating').text(avgRating.toString());
+            //-------
+            function hoverOut() {
+                $('.star').removeClass('glyphicon-star tmpRating');
+                $('.star').addClass('glyphicon-star-empty');
+            }
+            function hoverIn() {
+                $(this).prevAll().removeClass('glyphicon-star-empty');
+                $(this).prevAll().addClass('glyphicon-star tmpRating');
+                $(this).removeClass('glyphicon-star-empty');
+                $(this).addClass('glyphicon-star tmpRating');
+                $('.star').on('mouseleave', hoverOut);
+            }
+            // attaching mouseenter & mouseleave events on rating stars
+            $('.star').on('mouseenter', hoverIn);
+
+            // click event on stars
+            $('.star').click(function (elem) {
+                currentRating = parseInt((elem.target.id).substring(1, 2));//taking no. of stars from id of star clicked
+
+                $('*').removeClass('tmpRating newRating');
+                $('*').find('.glyphicon-star').removeClass('glyphicon-star').addClass('glyphicon-star-empty');
+
+                $(this).prevAll().removeClass('glyphicon-star-empty');
+                $(this).prevAll().addClass('glyphicon-star newRating');
+                $(this).removeClass('glyphicon-star-empty');
+                $(this).addClass('glyphicon-star newRating');
+                //$('.star').unbind('mouseleave');
+                $('.star').off('mouseleave', hoverOut);
+                validateRating = true;                  //ensures the stars has been clicked atleast once
+            });
+
+            //click event on 'close' button on the modal = simply close the modal
+            $('#closeOnly').click(function () {
+                $('#feedbackSection').removeClass('visible');
+            });
+            // when 'Done' button on modal is clicked = close the modal and send the data(actually data isn't going anywhere its ficticious)
+            $('#closeSend').click(function () {
+                email = $('#email').val();
+                feedback = $('#feedback').val();
+                //validating the email field
+                var atpos = email.indexOf("@");
+                var dotpos = email.lastIndexOf(".");
+                if ((atpos < 1) || (dotpos < atpos + 2) || (dotpos + 2 >= dotpos.length) || (email.length < 0)) {
+                    validateEmail = false;
+                }
+
+                if ((validateEmail == true) && (validateRating == true))   //feedback comment field is optional
+                {
+                    //NOTE : The value of numRating, avgRating are updated here but actually it must be done on server side
+                    //Calculating updating
+                    var prevNum = numRating, prevAvg = avgRating;
+                    numRating = prevNum + 1;
+                    avgRating = Math.round((currentRating + prevAvg * prevNum) / numRating);//taking int val of 'avgRating'
+                    //Update done
+
+                    var feedbackObj = new Object();
+                    feedbackObj.email = email;
+                    feedbackObj.feedback = feedback;
+                    feedbackObj.rating = currentRating;
+                    var jsonFeedback = JSON.stringify(feedbackObj);
+                    //send the values back to server eamil, feedback, numRating, avgRating,
+                    console.log(jsonFeedback);
+                    //disable the 'Done' button in feedback section & Show that feedback is submitted
+                    $('#userFeedback').off('click', takefeedback);
+                    $('#userFeedback').on('click', sentfeedback);
+                    $('#feedbackSection').removeClass('visible');
+                }
+                else {
+                    if ((validateEmail == false) && (validateRating == false)) {
+                        alert('Kindly choose a valid email address and rating.');
+                    }
+                    else {
+                        if (validateEmail == false) { alert('Please enter a valid email address'); }
+                        if (validateRating == false) { alert('Please select a rating'); }
+                    }
+                }
+            });     // end of code for 'Done' button
+        });
+    </script>
 </body>
+
 </html>
