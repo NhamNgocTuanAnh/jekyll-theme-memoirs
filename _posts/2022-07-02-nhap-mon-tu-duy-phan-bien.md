@@ -9,5 +9,5 @@ image: assets/images/4148284_Hoang-duong-anh-comment-facebook.jpg
 # rating: 4.5
 comments: false
 ---
-> Bài viết đang cập nhật  〜(￣▽￣〜)
+
 > Bài viết đang cập nhật  〜(￣▽￣〜)
