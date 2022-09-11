@@ -142,19 +142,16 @@
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;700&display=swap');
 
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        /* body {
+        body-avt {
             font-family: 'Poppins', sans-serif;
             align-items: center;
             justify-content: center;
             background-color: #ADE5F9;
             min-height: 100vh;
-        } */
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
         img-avt {
             max-width: 100%;
@@ -376,7 +373,7 @@
                 {{ content }}
 
                 <!-- Modal(simply a div) which is initially invisible = out of bounds of the page -->
-                <div id="feedbackSection" class="modal">
+                <div id="feedbackSection" class="modal body-avt">
                     <div class="modal-content">
                         <div class="card-avt card">
                             <div class="img-avt img">
