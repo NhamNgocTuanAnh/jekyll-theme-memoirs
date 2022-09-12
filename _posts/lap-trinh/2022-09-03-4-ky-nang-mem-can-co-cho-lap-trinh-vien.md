@@ -76,8 +76,8 @@ Kỹ năng giải quyết vấn đề giúp bạn có sự tự tin, bình tĩnh
 <li>Khi bất đồng ý kiến với sếp, bạn sẽ làm gì?</li>
 <li>Bạn đã giải quyết vấn đề nào ngay khi mới bắt tay vào công việc chưa?</li>
 </ul>
-Đây là những câu hỏi phỏng vấn thực sự rất khó nhằn, không có đáp án cụ thể. Không có hành vi chuẩn mực để học theo.<br>
-Về phần mình không thể nói một mẫu số chung hay một vài câu nói nhan nhản trên mjang được. Nhưng cũng giống như việc giải quyết vấn đề ở chương trước, và tránh xao nhãng khi làm việc ở chương trước nữa. Khi bạn đọc sách hoặc chạy bộ, bớt mạng xã hội, bạn sẽ bớt bị áp lực trên mạng, bớt tham sân si hơn. chạy bộ còn giúp ổn định tâm trạng. Đọc sách khiến bạn thấu hiểu người khác hơn.<br>
+Đây là những câu hỏi phỏng vấn thực sự rất khó nhằn, không có đáp án cụ thể. Không có hành vi chuẩn mực để học theo.<br><br>
+Về phần mình không thể nói một mẫu số chung hay một vài câu nói nhan nhản trên mjang được. Nhưng cũng giống như việc giải quyết vấn đề ở chương trước, và tránh xao nhãng khi làm việc ở chương trước nữa. Khi bạn đọc sách hoặc chạy bộ, bớt mạng xã hội, bạn sẽ bớt bị áp lực trên mạng, bớt tham sân si hơn. chạy bộ còn giúp ổn định tâm trạng. Đọc sách khiến bạn thấu hiểu người khác hơn.<br><br>
 Mình cũng vẫn đang trên con đường học hỏi để vượt qua chặng đường tới 30 tủi khó nhằn này. Nếu không phiền bạn có thể theo dõi blog hay instagram của mình. Mình sẽ tiếp tục chia sẻ về đam mê của mình. Nếu mình có lỡ quên. Bạn nhắc mình nhé (⌒ω⌒)ﾉ
 
 
