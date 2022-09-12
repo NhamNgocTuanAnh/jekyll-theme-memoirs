@@ -16,215 +16,96 @@ description: 4 kỹ năng mềm sau đây sẽ giúp các developer (lập trìn
 
 ---
 ### Mục lục
-[1. Giới thiệu và cài đặt Cython ](#gioithieu)\\
-[2. Lý thuyết về Hàng đợi - Queue](#lythuyetvecode)\\
-[3. Lý thuyết về đa luồng - multithreading](#lythuyetvemultithreading)\\
-[4. Mã lập trình và giải thích ](#malaptrinhvagiaithich)\\
-[5. Kết luận ](#ketluan)
+[1. Quản lý bản thân](#tip1)\\
+[2. Tập trung cao độ](#tip2)\\
+[3. Phân tích vấn đề](#tip3)\\
+[4. Vượt qua khó khăn](#tip4)
 
 ---
 
+<a name="tip1"></a>
 <h2>1. Quản lý bản thân</h2>
 Quản trị bản thân hay còn có một cách gọi khác là quản lý bản thân có nghĩa là việc kiểm soát, quản lý về tất cả mọi thứ của bản thân như: cảm xúc, suy nghĩ, hành động, lời nói,… Quản trị bản thân giúp việc định hướng rõ ràng và đảm bảo nổ lực để tìm kiếm cơ hội đạt được mục tiêu của mình.
-
-  <img id="imagesblog-01" src="../../assets/images/suy-nghi-nhieu.webp" alt="Gánh nặng lớn nhất của một con người là những suy nghĩ trong đầu"><br>
-
-<table>
-  <thead>
-    <tr>
-      <th>Quản lý cảm xúc</th>
-      <th>Quản lý thời gian
-</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td data-column="Quản lý cảm xúc">Hãy tìm điểm cân bằng trước khi hành động. Tìm kiếm cho mình một động lực, một tinh thần kỷ luật và một lòng kiên trì vì bất kỳ công việc nào cũng tốn nhiều công sức và áp lực trước khi đạt được kết quả. Cùng với đó hãy cởi mở tiếp thu cái mới, điều đó sẽ giúp bạn nhạy bén phát hiện điều bất thường của những điều nhỏ nhặt nhất từ đó có thể linh hoạt thay đổi với từng môi trường, từng hoàn cảnh diễn ra.</td>
-      <td data-column="Quản lý thời gian
-">Thời gian là tiền bạc. Hãy nghĩ xem điều gì đáng để bạn dành trọn cả cuộc đời? Từ đó bạn sẽ có cách quản lý thời gian hiệu quả hơn.<br>
+<div style="max-width: 100%">
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Quản lý cảm xúc	</h2>
+    <p>Hãy tìm điểm cân bằng trước khi hành động. Tìm kiếm cho mình một động lực, một tinh thần kỷ luật và một lòng kiên trì vì bất kỳ công việc nào cũng tốn nhiều công sức và áp lực trước khi đạt được kết quả. Cùng với đó hãy cởi mở tiếp thu cái mới, điều đó sẽ giúp bạn nhạy bén phát hiện điều bất thường của những điều nhỏ nhặt nhất từ đó có thể linh hoạt thay đổi với từng môi trường, từng hoàn cảnh diễn ra.</p>
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>Quản lý thời gian</h2>
+    <p>Thời gian là tiền bạc. Hãy nghĩ xem điều gì đáng để bạn dành trọn cả cuộc đời? Từ đó bạn sẽ có cách quản lý thời gian hiệu quả hơn.<br>
 80% thời gian – làm những việc bạn giỏi nhất.<br>
 15% thời gian – làm những việc bạn đang học hỏi.<br>
-5% thời gian – làm những việc cần thiết khác.</td>
+5% thời gian – làm những việc cần thiết khác.</p>
+  </div>
+</div>
+</div>
+Chỉ khi hiểu rõ bản thân mình, điểm mạnh, điểm yếu, thấy được nhu cầu và mục tiêu rõ ràng, bạn mới chuẩn bị được một kế hoạch hợp lý. Quản trị bản thânlà một con đường khó nhằn, dài vô cùng và gian nan. Cố gằng lên nhé.
+<p style="text-align:center; ">
+  <img id="imagesblog-01" src="../../assets/images/suy-nghi-nhieu.webp" alt="Gánh nặng lớn nhất của một con người là những suy nghĩ trong đầu"><br>
+</p>
+<h2>2. Tập trung cao độ</h2>
+Thuật toán đề xuất “kỳ diệu” của TikTok khiến người xem không thể ngừng xem các nội dung, thậm chí nó còn có khả năng “huấn luyện” bộ não người dùng và gây mất tập trung. Bạn nghĩ mình tự chủ khi xem video. Đúng, những video đầu là theo từ khóa search của bạn, nhưng những video sau, là do thuật toán gợi ý bạn xem.
+<p style="text-align:center; ">
+  <img id="imagesblog-02" src="../../assets/images/tiktok-gay-xao-nhang.webp" alt="tiktop gây xao nhãng"><br>
+</p>
+Việc tạm thời ngắt kết nối khỏi mạng xã hội, smartphone và tập trung làm việc, học hành đang trở thành điều khá khó khăn với nhiều người.<br>
+Notification rất ồn ào, thường làm mình mất tập trung, mình cũng là con nghiện instagram, eo ôi mình lướt cả ngày với các album ảnh flim film nè, facebook lên đọc phốt. Lướt qua lướt lại mất 15p nhưng thoát được thì trong đầu vẫn nhún nhảy theo điệu nhạc của tiktok (눈_눈).<br>
+Mình đã <b>tắt toàn bộ Notification</b> bằng cách để chế độ im lặng gầy như 24/24. Mình thường check tin nhắn rất muộn, hoặc xem xong quên không rep luôn. Nhiều người ghét mình lắm lắm ψ( ` ∇ ´ )ψ . Nhưng biết sao được bây giờ. Nếu việc quan trọng, vẫn có thể liên lạc ngay cho mình bằng zalo, sdt mà. Mình chỉ check mail vào 11h và 14h.<br>
+Mình cũng đang cố thử cách làm việc pomodoro 🍅 25p nghỉ 5p, cơ mà cũng khó cho dân coder vì đã ngồi nghiền ngẫm quá cơ, 3 – 4 tiếng mới đứng lên. Mình còn chăm đi lấy nước để đi lượn lờ chào hỏi mấy bạn Hr trẻ tuổi nữa ♪♪♪ ヽ(ˇ∀ˇ )ゞ.<br>
+Và mình cũng đọc sách, chạy bộ nữa. Nếu bạn không có thói quen đọc sách, thì bạn có thể bắt đầu với những sách về truyện ngắn, đừng vội đọc mấy quyển sách dạy làm giàu hay mệt đầu ngay. Mình thì đọc từ cuốn “chú mèo dạy hai âu bay” – với lời dạy của chú mèo với chú hải âu con mất mẹ từ sớm là muốn biết bay hãy bay ／(￣▽￣)／. Còn riêng chạy bộ thì mình nói cho sang chứ chạy được 3p là thở hồng hộc mà ┐(︶▽︶)┌.<br>
+Dù mình nói những thứ rất <b>giáo điều</b>, trên mạng ghi đầy. Nhưng như mình đã nói, từ câu chuyện cuốn sách đầu tiên mình đọc. Mình sẽ làm và làm. Không còn quan tâm kết quả nữa. Nếu bạn nào có đọc về bài viết mình đã giảm 20kg thế nào sẽ biết mình giảm không cần trong thời hạn 6 tháng hay 1 năm. mình chỉ làm và làm thôi.
+<h2>3. Phân tích vấn đề</h2>
+Những tình huống phát sinh có thể diễn ra hàng ngày và bạn khó lòng tránh khỏi. Khi đó, bạn cần tìm ra hướng giải quyết tốt nhất để hạn chế những rủi ro trong tương lai.<br>
+Kỹ năng giải quyết vấn đề giúp bạn có sự tự tin, bình tĩnh và đưa ra phương án xử lý tối ưu nhất. Nhờ quá trình xác định, đánh giá và phân tích theo nhiều chiều hướng khác nhau mà bạn có một lựa chọn đúng đắn và làm chủ những vấn đề phát sinh.<br>
+<b>Với 6 bước mình hay làm trong công ty:</b>
+<ul>
+<li>Phát hiện vấn đề</li>
+<li>Tìm hiểu vấn đề và người trách nghiệm</li>
+<li>Phân tích vấn đề theo nhiều khía cạnh</li>
+<li>So sánh để chọn lựa giải pháp tối ưu nhất</li>
+<li>Thực thi</li>
+<li>Theo dõi quán trình và đánh giá kết quả</li>
+</ul>
+<h2>4. Vượt qua khó khăn</h2>
+<ul>
+<li>Khi áp lực, bạn giải quyết bằng cách nào?</li>
+<li>Khi khách hàng tức giận, bạn sẽ làm gì?</li>
+<li>Khi công việc thay đổi vào phút chót, bạn xử lý như thế nào?</li>
+<li>Khi bất đồng ý kiến với sếp, bạn sẽ làm gì?</li>
+<li>Bạn đã giải quyết vấn đề nào ngay khi mới bắt tay vào công việc chưa?</li>
+</ul>
+Đây là những câu hỏi phỏng vấn thực sự rất khó nhằn, không có đáp án cụ thể. Không có hành vi chuẩn mực để học theo.<br>
+Về phần mình không thể nói một mẫu số chung hay một vài câu nói nhan nhản trên mjang được. Nhưng cũng giống như việc giải quyết vấn đề ở chương trước, và tránh xao nhãng khi làm việc ở chương trước nữa. Khi bạn đọc sách hoặc chạy bộ, bớt mạng xã hội, bạn sẽ bớt bị áp lực trên mạng, bớt tham sân si hơn. chạy bộ còn giúp ổn định tâm trạng. Đọc sách khiến bạn thấu hiểu người khác hơn.<br>
+Mình cũng vẫn đang trên con đường học hỏi để vượt qua chặng đường tới 30 tủi khó nhằn này. Nếu không phiền bạn có thể theo dõi blog hay instagram của mình. Mình sẽ tiếp tục chia sẻ về đam mê của mình. Nếu mình có lỡ quên. Bạn nhắc mình nhé (⌒ω⌒)ﾉ
 
-    </tr>
-  </tbody>
-</table>
-
-
-<a name="gioithieu"></a>
-### 1. Giới thiệu và cài đặt Cython
-
-Nếu bạn muốn code cú pháp dễ dàng như Python và hiệu suất cao như C thì Cython là lựa chọn của bạn. Bạn có thể sử dụng Cython để viết các extention C cho Python. Code Python của bạn sẽ được dịch sang code C/C++ và được tối ưu hóa. Nó sẽ cung cấp cho bạn hiệu suất cao và bạn có thể sử dụng nó trong các dự án Python của mình.
-
-Ví dụ:
-<script src="https://gist.github.com/NhamNgocTuanAnh/5905366e178ca0a91ae72ecf115f52d0.js"></script>
-
-![image](/assets/images/emotion-detection/cython-vs-python.webp){:class="img-responsive"}
-Kết quả Cython chạy nhanh hơn Python cả trục lần :>> [Trích betterprogramming.pub](https://betterprogramming.pub/skyrocket-your-python-code-with-cython-6851e357bef8)\\
-Vì đã có rất nhiều bên mô tả và code Cython rồi, bạn có thể tham khảo ở đây:
-* [Cython - Cách Để Code Python Chạy Nhanh Hơn](https://codelearn.io/sharing/cython-cach-de-code-python-chay-nhanh)
-* [Cython: Python chạy nhanh như C](https://niithanoi.edu.vn/cython-python-chay-nhanh-nhu-c.html)
-* [Hướng dẫn Cython cơ bản cách chuyển code python thành code c/c++](https://codelearn.io/sharing/cython-cach-de-code-python-chay-nhanh)
-
-<a name="lythuyetvecode"></a>
-### 2. Lý thuyết về Hàng đợi - Queue
-
-![image](/assets/images/emotion-detection/Queue-Illustration.webp){:class="img-responsive"}
-
-Hàng đợi (queue) là một cấu trúc dữ liệu hoạt động theo cơ chế FIFO (First In First Out), tạm dịch là “vào trước ra trước”. Có nghĩa là phần tử nào được thêm hàng đợi trước thì sẽ được lấy ra trước.
-
-```python
-
-# Python program to
-# demonstrate queue implementation
-# using collections.dequeue
-
-
-from collections import deque
-
-# Initializing a queue
-q = deque()
-
-# Adding elements to a queue
-q.append('a')
-q.append('b')
-q.append('c')
-
-print("Initial queue")
-print(q)
-
-# Removing elements from a queue
-print("\nElements dequeued from the queue")
-print(q.popleft())
-print(q.popleft())
-print(q.popleft())
-
-print("\nQueue after removing elements")
-print(q)
-
-# Uncommenting q.popleft()
-# will raise an IndexError
-# as queue is now empty
-```
-Nguyên tắc đơn giản của hàng đợi là ai vào quán trà sữa trước thì sẽ được mua trước, ai vô sau thì mua sau.
-
-```console
-Initial queue
-deque(['a', 'b', 'c'])
-
-Elements dequeued from the queue
-a
-b
-c
-
-Queue after removing elements
-deque([])
-```
-Chúng ta sẽ ứng dụng queue bằng cách sẽ cắt tất cả khuôn mặt trong từng frame hình vào queue để xử lý.
-
-<a name="lythuyetvemultithreading"></a>
-### 3. Lý thuyết về đa luồng - multithreading
-
-![image](/assets/images/emotion-detection/python-multithreading.webp){:class="img-responsive"}
-
-Nói về cấu trúc máy tính : Thread là một đơn vị cơ bản trong CPU. Một luồng sẽ chia sẻ với các luồng khác trong cùng process về thông tin data, các dữ liệu của mình. Việc tạo ra thread giúp cho các chương trình có thể chạy được nhiều công việc cùng một lúc. Đa luồng có rất công dụng vô cùng hữu ích thích hợp cho những tác vụ chạy ngầm không cần quan tâm chính xác thời gian hoàn thành.
-
-Đơn giản, ngày nay, công xưởng bạn có nhiều công nhân. Mỗi công nhân có thể làm nhiều việc. Thay vì chạy python, trong cùng một thời điểm bạn chỉ có thể sử dụng một công nhân duy nhất để làm một công việc duy nhất. Cho dù công nhân đó có to khỏe thế nào, khi giao một đống công việc cũng không thể nhanh được.
-
-
-<a name="malaptrinhvagiaithich"></a>
-### 4. Mã lập trình và giải thích
-<script src="https://gist.github.com/NhamNgocTuanAnh/09381efa2f2d911ad8f3140f00427e33.js"></script>
-
-<a name="ketluan"></a>
-### 5. Kết luận
-Tạo một ứng dụng không khó, nhưng để đáp ứng được tốc độ xử lý, độ chính xác và mức độ sử dụng resource thì cần phải tối ưu nhiều thứ:
-
-- Giảm nhẹ kích thước mô hình thông qua: Quantization và compress mô hình.
-- Optimize lại code: do Cython chạy cùng python thôi nên ghi phân luồng và queue không thật sự là phân luồng cà queue giống C++ hoặc JAVA được.
-- Chuyển từ single-thread sang multi-thread.
-- Allocate lại tài nguyên như CPU, Memory.
-- Đặc biệt là các ứng dụng trên python thì tối ưu tốc độ xử lý là một challenge bởi python bị ràng buộc bởi cơ chế GIL (Global Interpreter Lock). Tức là nó chỉ cho phép một thread hoạt động truy suất và chỉnh sửa bộ nhớ tại một thời điểm. Do đó python không tận dụng được các tính toán đa luồng. Tuy nhiên ở python 3.2 trở đi thì python đã bắt đầu hỗ trợ đa luồng.
-
-Về mặt thời gian phát triển phần mềm thì Python luôn trong top 5 các ngôn ngữ nhanh nhất. Nhưng vì tránh cho người dùng phải đối mặt với con trỏ hay quản lý bộ nhớ động,... đã làm tốc độ thực thi của python giảm đi đáng kể. Nhưng Cython đã là một vị cứu cánh. Bạn chỉ cần thay đổi 20% đoạn mã code của bạn để nâng 80% hiệu suất tổng thể. Vì có khá ít blog Việt nam nói chuyên sâu về Cython. Nên mình ít để ví dụ hoặc tutorial cho các bạn được. \\
-(〜￣▽￣)〜Trong tương lai mình sẽ viết thêm về Cython. Các bạn chú ý đón xem nhé!! 〜(￣▽￣〜)
 
 <style>
 
-    table {
-	width: 750px;
-	border-collapse: collapse;
-	margin:50px auto;
-	}
+* {
+  box-sizing: border-box;
+}
 
-/* Zebra striping */
-tr:nth-of-type(odd) {
-	background: #eee;
-	}
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 400px; /* Should be removed. Only for demonstration */
+}
 
-th {
-	background: #3498db;
-	color: white;
-	font-weight: bold;
-	}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
-td, th {
-	padding: 10px;
-	border: 1px solid #ccc;
-	text-align: left;
-	font-size: 18px;
-	}
-
-/*
-Max width before this PARTICULAR table gets nasty
-This query will take effect for any screen smaller than 760px
-and also iPads specifically.
-*/
-@media
-only screen and (max-width: 760px),
-(min-device-width: 768px) and (max-device-width: 1024px)  {
-
-	table {
-	  	width: 100%;
-	}
-
-	/* Force table to not be like tables anymore */
-	table, thead, tbody, th, td, tr {
-		display: block;
-	}
-
-	/* Hide table headers (but not display: none;, for accessibility) */
-	thead tr {
-		position: absolute;
-		top: -9999px;
-		left: -9999px;
-	}
-
-	tr { border: 1px solid #ccc; }
-
-	td {
-		/* Behave  like a "row" */
-		border: none;
-		border-bottom: 1px solid #eee;
-		position: relative;
-		padding-left: 50%;
-	}
-
-	td:before {
-		/* Now like a table header */
-		position: absolute;
-		/* Top/left values mimic padding */
-		top: 6px;
-		left: 6px;
-		width: 45%;
-		padding-right: 10px;
-		white-space: nowrap;
-		/* Label the data */
-		content: attr(data-column);
-
-		color: #000;
-		font-weight: bold;
-	}
-
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
 }
 </style>
