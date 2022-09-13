@@ -22,11 +22,10 @@ Hồ Tây là một địa điểm thích hợp để thực hành chụp ảnh 
 Chìa khóa để chụp ngược sáng là: chọn một chủ thể mạnh mẽ với một hình dạng xác định và dễ nhận biết; tắt đèn flash để có càng ít ánh sáng phía trước đối tượng càng tốt; lấy ánh sáng phù hợp bằng cách có nhiều ánh sáng chiếu từ hậu cảnh hơn tiền cảnh;
 
 <p style="text-align:center; ">
-  <img id="imagesblog-02" src="../../assets/images/IMG_8847_resize-617x1024.webp" alt="Nikon D600 Dynamic Range">
+  <img id="imagesblog-02" src="../../assets/images/IMG_8847_resize-617x1024.webp" alt="Nikon D600 Dynamic Range"><br>
   Hồ Tây một chiều hè.
 </p>
-
-Dưới đây là một số khẩu khuyết giúp bạn chụp thể loại ngược sáng tốt hơn:
+<b>Dưới đây</b> là một số khẩu khuyết giúp bạn chụp thể loại ngược sáng <b>tốt hơn</b>:
 <ul>
   <li><b>ĐÚNG NƠI ĐÚNG LÚC</b>: Trước hết, để có thể chụp ảnh ngược sáng thì bạn cần chọn được cho mình một địa điểm chụp ảnh lý tưởng và một khung giờ chụp ảnh lý tưởng. Lưu ý đến trước 30p để setup trang phục và bố cục. Ảnh hoàng hôn chụp dễ hơn bình mình(Cú đêm như mình :P)</li>
   <li><b>ĐỨNG ĐÚNG VỊ TRÍ</b>: Bạn sẽ phải đứng chính diện nguồn sáng. Luôn đảm bảo background của mình sáng hơn chủ thể nhé thì chủ thể mới “tối đi” được. Đeo kính dâm trông ngầu hơn và bớt đau mắt hơn😎😎</li>
@@ -40,4 +39,4 @@ Dưới đây là một số khẩu khuyết giúp bạn chụp thể loại ng�
   Đừng chỉ đứng im, hãy bước đi thật tự nhiên để bức ảnh trông sống động hơn.
 </p>
 
-Lưu ý: đảm bảo rằng tay chân không đứng quá khít vào nhau như thế sẽ tránh tạo thành một vùng đen xì trong bức ảnh và nhìn sẽ không ra được hình người mất 😂🤣
+<b>Lưu ý</b>: Với kiểu chụp ảnh ngược sáng, hãy đảm bảo rằng tay chân không đứng quá khít vào nhau như thế sẽ tránh tạo thành một vùng đen xì trong bức ảnh và nhìn sẽ không ra được hình người mất 😂🤣
