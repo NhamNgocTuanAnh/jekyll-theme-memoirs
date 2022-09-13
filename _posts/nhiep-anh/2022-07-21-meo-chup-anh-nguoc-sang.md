@@ -34,16 +34,10 @@ Dưới đây là một số khẩu khuyết giúp bạn chụp thể loại ng�
         <li><b>HẬU KỲ</b>: Nhớ bật chế độ lưu ảnh RAW trên điện thoại hoặc máy ảnh của bạn có chất lượng hình ảnh tốt nhất để khi về ta có thể chỉnh sửa hình ảnh một cách dễ dàng nhất. Vì thế nếu phần bóng đen không đủ đen bạn có thể về kéo lại được ngay.</li>
 </ul>
 
-
 <p style="text-align:center; ">
   <img id="imagesblog-03"
   src="../../assets/images/IMG_4740_resize-682x1024.webp" alt="Nikon D600 Dynamic Range">
   Đừng chỉ đứng im, hãy bước đi thật tự nhiên để bức ảnh trông sống động hơn.
 </p>
-
-PHƠI SÁNG (Exposure): Thông thường khi chụp ảnh thì bạn luôn muốn chủ thể của mình sáng nhất có thể đúng không? Tuy nhiên khi chụp ảnh silhouette thì lại khác, bạn lại cần phải chú ý cho background của mình phải sáng nhé. Khi chụp bằng điện thoại bạn chỉ cần đơn giản bấm vào phần sáng hơn trên màn hình điện thoại thì điện thoại sẽ tự động điều chỉnh phần được chọn sáng hơn làm cho chủ thể khi đó tối đi.
-RÕ RÀNG: Điều này phụ thuộc nhiều vào cách tạo dáng của chủ thể, hãy đảm bảo rằng tay chân họ không đứng quá khít vào nhau như thế sẽ tránh tạo thành một vùng đen xì trong bức ảnh và nhìn sẽ không ra được hình người mất
-
-EDITING: Nếu phần bóng đen trong bức ảnh của bạn không được tối cho lắm cũng không có sao cả. Những lúc thế này hãy nhờ cậy một chút vào sự biến hóa kì diệu của các phần mềm chỉnh sửa ảnh trên điện thoại nhé. Chọn lấy cho mình một app chỉnh ảnh ưa thích rồi bấm vào phần shadow, chỉnh cho đậm lên chút và thế là silhouette của bạn sẽ đẹp ngay.
 
 Lưu ý: đảm bảo rằng tay chân không đứng quá khít vào nhau như thế sẽ tránh tạo thành một vùng đen xì trong bức ảnh và nhìn sẽ không ra được hình người mất 😂🤣
