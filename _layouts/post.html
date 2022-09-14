@@ -17,15 +17,18 @@ post_class: post-template
             {% if author.avatar %}
             <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
             {% else %}
-            <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
+            <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x"
+                alt="{{ author.display_name }}">
             {% endif %}
         </div>
         <div>
-        Written by {{ author.display_name }} on
-        <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>
-        {% if page.last_modified_at %}
-        (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-        {% endif %}
+            Written by {{ author.display_name }} on
+            <span class="post-date"><time class="post-date" datetime="{{ page.date | date:" %Y-%m-%d" }}">{{ page.date |
+                    date_to_string }}</time></span>
+            {% if page.last_modified_at %}
+            (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{
+                page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+            {% endif %}
         </div>
     </div>
     {% endif %}
@@ -33,7 +36,7 @@ post_class: post-template
 
 <!-- Adsense under title if enabled from _config.yml (change your pub id and slot) -->
 {% if site.adsense == "enabled" %}
-    {% include adsense-under-header.html %}
+{% include adsense-under-header.html %}
 {% endif %}
 
 <!-- Featured Image -->
@@ -55,35 +58,28 @@ post_class: post-template
 <!-- Author Box if enabled from _config.yml -->
 {% include author-box.html %}
 
-<!-- Comments if not disabled with comments: false -->
-<script src="https://giscus.app/client.js"
-        data-repo="nhamngoctuananh/nhamngoctuananh.github.io"
-        data-repo-id="R_kgDOGi2Xag"
-        data-category="Q&A"
-        data-category-id="DIC_kwDOGi2Xas4CRbIn"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="1"
-        data-input-position="top"
-        data-theme="github-light"
-        data-lang="vi"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
+<div class="authorbox mb-5 mt-5 pt-4 pb-4">
+    <div class="row">
+        <!-- Comments if not disabled with comments: false -->
+        <script src="https://giscus.app/client.js" data-repo="nhamngoctuananh/nhamngoctuananh.github.io"
+            data-repo-id="R_kgDOGi2Xag" data-category="Q&A" data-category-id="DIC_kwDOGi2Xas4CRbIn"
+            data-mapping="pathname" data-strict="0" data-reactions-enabled="1" data-emit-metadata="1"
+            data-input-position="top" data-theme="github-light" data-lang="vi" data-loading="lazy"
+            crossorigin="anonymous" async>
+            </script>
+    </div>
+    <div>
+        <!-- Share -->
+        {% include share.html %}
 
-<!-- Share -->
-{% include share.html %}
+        <!-- Related Post -->
+        {% include related-posts.html %}
 
-<!-- Related Post -->
-{% include related-posts.html %}
-
-<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first:
+        <!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first:
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
-{% if page.rating %}
-    <script type="application/ld+json">
+        {% if page.rating %}
+        <script type="application/ld+json">
     {
     "@context": "http://schema.org/",
     "@type": "Review",
@@ -103,4 +99,4 @@ https://search.google.com/structured-data/testing-tool/u/0/
     }
     }
     </script>
-{% endif %}
+        {% endif %}
