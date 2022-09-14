@@ -35,14 +35,14 @@ Street style đã len vào mọi ngóc ngách của làng thời trang hiện đ
         <p style="text-align:center; ">
           Nhiêm túc rồi, bây giờ bạn có thể lột xác với các động rác uyển chuyển của tay và chân như: tay chống eo, tay đưa lên làm như hất tóc để tạo và nhấn các đường cong.<br>
                     Thay vì đứng giơ 2 ngón tay quá đơn giản và không có điểm nhấn, bạn hãy đưa một chân sang một cách tự nhiên, một tay ép vào thân mình, tay kia giơ thẳng lên và "Say hi".<br>
-          <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-02.jpg" alt="Nikon D600 Dynamic Range"><br>
+          <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-02.jpg" alt="Nikon D600 Dynamic Range" class="lazy-bg" lazy><br>
         </p>
       </div>
     </div>
     <div class="col-xs-12 col-sm-8">
       <div class="box">
         <p style="text-align:center; ">
-          <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-01.jpg" alt="Nikon D600 Dynamic Range">
+          <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-01.jpg" class="lazy-bg" lazy alt="Nikon D600 Dynamic Range">
           Đừng chỉ đứng im, hãy bước đi thật tự nhiên để bức ảnh trông sống động hơn.
         </p>
       </div>
@@ -55,18 +55,18 @@ Street style đã len vào mọi ngóc ngách của làng thời trang hiện đ
 <a name="tip2"></a>
 <h3>2. Thả lỏng 2 tay</h3>
   <p style="text-align:center; ">
-    <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-03.jpg" alt="Nikon D600 Dynamic Range">
+    <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-03.jpg" class="lazy-bg" lazy alt="Nikon D600 Dynamic Range">
     Không cần phải ngồi thu người, khép nép, hãy tạo điểm nhấn bằng cách bắt chéo chân, tay đặt lên đầu gối, chống cằm
   </p>
   <p style="text-align:center; ">
-    <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-04.jpg" alt="Nikon D600 Dynamic Range">
+    <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-04.jpg" class="lazy-bg" lazy alt="Nikon D600 Dynamic Range">
     Đừng chỉ đặt tay lên đùi rồi ngồi nghiêng một cách nhàm chán, để thu hút ánh nhìn, bạn nên đưa một chân ra trước, đẩy hông sang một bên để trông "xì tai" hơn.
   </p>
 
 <a name="tip3"></a>
 <h3>3. Ngực tấn công, mông phòng thủ (ʘ ͜ʖ ʘ)</h3>
   <p style="text-align:center; ">
-    <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-04.jpg" alt="Nikon D600 Dynamic Range">
+    <img src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-04.jpg" class="lazy-bg" lazy alt="Nikon D600 Dynamic Range">
     Đừng chỉ đặt tay lên đùi rồi ngồi nghiêng một cách nhàm chán, để thu hút ánh nhìn, bạn nên đưa một chân ra trước, đẩy hông sang một bên để trông "xì tai" hơn.
   </p>
 
@@ -78,7 +78,7 @@ Nếu bạn chỉ đứng im một chỗ thì không giống ảnh đường ph�
 Khó tập trung vừa mặt, vừa tay, vừa người nên mình chỉ nhón bước thôi, đặc biệt là phải nhón cả hai chân. Kết hợp nhìn vào camera, nhìn trước nhìn sau<br>
 
   <p style="text-align:center; ">
-    <img src="../../assets/images/nhiepanh/doituong/style-life/tao-dang-khi-chup-hinh-ngoai-canh.gif" alt="tạo dáng chụp hình ngoại cảnh street style"><br>
+    <img src="../../assets/images/nhiepanh/doituong/style-life/tao-dang-khi-chup-hinh-ngoai-canh.gif" class="lazy-bg" lazy alt="tạo dáng chụp hình ngoại cảnh street style"><br>
     <a href="https://www.youtube.com/watch?v=KYW6cbWfO7I"> 5 cách tạo dáng chụp hình ngoại cảnh street style cực dễ mà không phải ai cũng biết - Danny Nguyen</a>
 
   </p>

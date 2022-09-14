@@ -37,11 +37,9 @@ Chúng ta lại có hứng thú đặc biệt với những thứ có [tính đ�
 
   <p style="text-align:center; ">
     <picture>
-
       <source type="image/webp" srcset="../../assets/images/nhiepanh/doituong/anh-selfie-bi-nguoc-trang.webp">
       <source type="image/jpeg" srcset="../../assets/images/nhiepanh/doituong/anh-selfie-bi-nguoc-trang.jpg">
-      <img src="../../assets/images/nhiepanh/doituong/anh-selfie-bi-nguoc-trang.jpg" alt="Ảnh selfie bị ngược" >
-
+      <img src="../../assets/images/nhiepanh/doituong/anh-selfie-bi-nguoc-trang.jpg" alt="Ảnh selfie bị ngược" class="lazy-bg" lazy>
     </picture><br>
     Nhiều người thắc mắc tại sao trên iPhone chụp ảnh selfie bị ngược?
   </p>
@@ -71,11 +69,9 @@ Trong số những nguyên do gây ra sự không đều của khuôn mặt thì
 
   <p style="text-align:center; ">
     <picture>
-
       <source type="image/webp" srcset="../../assets/images/nhiepanh/doituong/tai-sao-chup-anh-camera-sau-mat-bi-lech-4.webp">
       <source type="image/jpeg" srcset="../../assets/images/nhiepanh/doituong/tai-sao-chup-anh-camera-sau-mat-bi-lech-4.jpg">
-      <img src="../../assets/images/nhiepanh/doituong/tai-sao-chup-anh-camera-sau-mat-bi-lech-4.jpg" alt="Hướng ánh sáng" >
-
+      <img src="../../assets/images/nhiepanh/doituong/tai-sao-chup-anh-camera-sau-mat-bi-lech-4.jpg" alt="Hướng ánh sáng" class="lazy-bg" lazy>
     </picture><br>
     Bạn có thể kích hoạt tính năng này trong phần Cài đặt của điện thoại iPhone như sau: Mở mục Cài đặt trên điện thoại iPhone >> chọn mục Camera >> chọn mục Đối xứng camera trước
   </p>
@@ -84,14 +80,12 @@ Dùng tay che bên phần mặt mà bạn cảm thấy bị lệch. Đây là m�
 
   <p style="text-align:center; ">
     <picture>
-
       <source type="image/webp" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.webp">
       <source type="image/jpeg" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.jpg">
-      <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.jpg" alt="Che một bên mặt" >
-
+      <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-01.jpg" alt="Che một bên mặt" class="lazy-bg" lazy>
     </picture><br>
     Dùng tay che một bên gương mặt<br>
-    <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-04.webp" alt="Vươn cằm, đưa cổ ra một chút" >
+    <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-04.webp" alt="Vươn cằm, đưa cổ ra một chút" class="lazy-bg" lazy>
     Hơi vươn cổ, đưa cằm ra một chút để tăng khoảng cách với phần còn lại của khuôn mặt.
   </p>
 
@@ -103,11 +97,9 @@ Tuy rằng ta có thể dùng một cái thủ thuật để che đi khuyết đ
 
   <p style="text-align:center; ">
     <picture>
-
       <source type="image/webp" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-03.webp">
       <source type="image/jpeg" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-03.jpg">
-      <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-03.jpg" alt="Khắc phục mặt lệch hiệu quả">
-
+      <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-03.jpg" alt="Khắc phục mặt lệch hiệu quả" class="lazy-bg" lazy>
     </picture>
   </p>
   <p style="text-align:center; ">Cải thiện gương mặt mà phương pháp Mewing</p>
@@ -129,24 +121,17 @@ Tuy rằng ta có thể dùng một cái thủ thuật để che đi khuyết đ
 <ul>
          <li>Mewing: Mewing là phương pháp luyện tập cách đặt lưỡi đúng vị trí nhằm giúp thon mặt, nâng cao sống mũi và xương hàm, giúp cải thiện gương mặt theo hướng tích cực hơn. Phương pháp này được nghiên cứu bởi bác sĩ John Mew và được phổ biến rộng rãi bởi con trai của ông là bác sĩ chỉnh nha Mike Mew.
          <li>Niềng răng: Đây cũng là cách Admin thực hiện, nhưng trong khuôn khổ bài viết, ta sẽ không bàn thêm.</li>
-
         <p style="text-align:center; ">
           <picture>
-
             <source srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-02.webp" type="image/webp" >
             <source type="image/png" srcset="../../assets/images/nhiepanh/doituong/khacphuc-matlech-02.png">
-            <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-02.png" alt="Khắc phục mặt lệch hiệu quả">
-
+            <img src="../../assets/images/nhiepanh/doituong/khacphuc-matlech-02.png" alt="Khắc phục mặt lệch hiệu quả" class="lazy-bg" lazy>
           </picture>
           <br>
           Quá trình thực hiện phương pháp Mewing
         </p>
-
         Bạn có thể đọc thêm về Mewing. <a href="https://www.youtube.com/results?search_query=mewing" target="_blank"><span style="color:red;font-weight:bold">ở đây</span></a> hoặc <a href="https://www.youtube.com/watch?v=Lg4h6KvURrg" target="_blank"><span style="color:red;font-weight:bold">đây</span></a>.
-
-
         </li>
-
 </ul>
 
 ### Trích nguồn
