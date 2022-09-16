@@ -45,8 +45,8 @@ plugins:
   - jekyll-archives
   - jekyll-figure
   #- jekyll-google-search-console-verification-file
-  - jekyll-google_search_console_verification_file
-  - jekyll-gist
+  #- jekyll-google_search_console_verification_file
+  #- jekyll-gist
 
 
 # Archives
