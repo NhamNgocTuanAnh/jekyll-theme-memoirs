@@ -48,6 +48,14 @@ plugins:
   #- jekyll-google_search_console_verification_file
   #- jekyll-gist
 
+jekyll_admin:
+  hidden_links:
+    # - posts
+    # - pages
+    # - staticfiles
+    # - datafiles
+    # - configuration
+  homepage: "pages"
 
 # Archives
 jekyll-archives:
