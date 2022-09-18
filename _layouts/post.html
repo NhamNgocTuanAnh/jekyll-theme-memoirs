@@ -50,15 +50,35 @@ post_class: post-template
 
 <!-- Comment -->
 <div class="article-post">
-    <div id="fb-root"></div>
-    <script>(function (d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) return;
-            js = d.createElement(s); js.id = id;
-            js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=2086804534891096";
-            fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));</script>
-    <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="5"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 col-sm-3"></div>
+            <div class="col-xs-12 col-sm-6 quotebox">
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div id="fb-root"></div>
+                        <script>(function (d, s, id) {
+                                var js, fjs = d.getElementsByTagName(s)[0];
+                                if (d.getElementById(id)) return;
+                                js = d.createElement(s); js.id = id;
+                                js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=2086804534891096";
+                                fjs.parentNode.insertBefore(js, fjs);
+                            }(document, 'script', 'facebook-jssdk'));</script>
+                        <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="5"></div>
+                    </div>
+                </div>
+                <div class="row">
+
+                    <div class="col-xs-12 col-sm-12">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-3"></div>
+    </div>
+
+    </div>
 </div>
 
 <!-- Rating -->
