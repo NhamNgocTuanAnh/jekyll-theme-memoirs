@@ -45,6 +45,9 @@ post_class: post-template
 <!-- Quote -->
 {% include quote.html %}
 
+<!-- Content -->
+{% include cmt.html %}
+
 <!-- Rating -->
 {% if page.rating %}
 <div class="rating mt-4 mb-4 d-flex align-items-center">
@@ -55,27 +58,6 @@ post_class: post-template
 <!-- Author Box if enabled from _config.yml -->
 {% include author-box.html %}
 
-<div class="authorbox mb-5 mt-5 pt-4 pb-4">
-    <div class="row">
-    <!-- Comments if not disabled with comments: false -->
-    <script src="https://giscus.app/client.js"
-            data-repo="nhamngoctuananh/nhamngoctuananh.github.io"
-            data-repo-id="R_kgDOGi2Xag"
-            data-category="Q&A"
-            data-category-id="DIC_kwDOGi2Xas4CRbIn"
-            data-mapping="pathname"
-            data-strict="0"
-            data-reactions-enabled="1"
-            data-emit-metadata="1"
-            data-input-position="top"
-            data-theme="github-light"
-            data-lang="vi"
-            data-loading="lazy"
-            crossorigin="anonymous"
-            async>
-    </script>
-    </div>
-<div>
 <!-- Share -->
 {% include share.html %}
 
