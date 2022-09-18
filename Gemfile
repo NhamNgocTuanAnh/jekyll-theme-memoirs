@@ -21,6 +21,7 @@ group :jekyll_plugins do
     gem 'rouge'
     gem 'jekyll-admin', group: :jekyll_plugins
     gem 'jekyll-algolia', '~> 1.0'
+    gem 'jekyll-redirect-from'
 end
 
 gem "webrick", "~> 1.7"

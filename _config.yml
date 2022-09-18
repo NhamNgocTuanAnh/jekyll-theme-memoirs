@@ -38,6 +38,7 @@ authors:
 # Plugins
 plugins:
   - jekyll-paginate
+  - jekyll-redirect-from
   # - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
