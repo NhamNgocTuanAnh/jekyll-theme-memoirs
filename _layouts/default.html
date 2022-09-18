@@ -41,7 +41,7 @@
         function popunder() {
             if (Get_Cookie('cucre') == null) {
                 Set_Cookie('cucre', 'cucre Popunder', '1', '/', '', '');
-                location.replace("{{ site.url }}about-me")
+                location.replace("{{ site.url }}/about-me")
 
                 window.focus();
             }
@@ -73,8 +73,7 @@
     <title>{{ page.title }} | {{site.name}}</title>
 
     {% seo %}
-    <link rel="stylesheet" href="{{ " /assets/css/gallery.css" | relative_url }}">
-    <link rel="stylesheet" href="{{ " /assets/css/main.css" | relative_url }}">
+
     <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
     <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
 
@@ -83,51 +82,6 @@
     <meta name="google-site-verification" content="d_QhcFO6jYixKuqHeimC-fB9HoL2oOxFPBBr1Dm-3nE" />
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8920573839255504"
     crossorigin="anonymous"></script>
-
-    <style>
-        .lazy-bg {
-            width: 753px;
-            height: 500px;
-            margin: 10px auto;
-            background-size: cover;
-            background-position: center;
-        }
-
-    </style>
-    <!-- https://topdev.vn/blog/kien-thuc-ve-lazy-loading-images-ma-ban-can-biet/#tiet-kiem-tai-nguyen -->
-    <script>
-        // duyệt tất cả tấm ảnh cần lazy-load
-        const lazyImages = document.querySelectorAll('[lazy]');
-
-        // chờ các tấm ảnh này xuất hiện trên màn hình
-        const lazyImageObserver = new IntersectionObserver((entries, observer) => {
-            entries.forEach((entry) => {
-                // tấm ảnh này đã xuất hiện trên màn hình
-                if (entry.isIntersecting) {
-                    const lazyImage = entry.target;
-                    const src = lazyImage.dataset.src;
-
-                    lazyImage.tagName.toLowerCase() === 'img'
-                        // <img>: copy data-src sang src
-                        ? lazyImage.src = src
-
-                        // <div>: copy data-src sang background-image
-                        : lazyImage.style.backgroundImage = "url(\'" + src + "\')";
-
-                    // copy xong rồi thì bỏ attribute lazy đi
-                    lazyImage.removeAttribute('lazy');
-
-                    // job done, không cần observe nó nữa
-                    observer.unobserve(lazyImage);
-                }
-            });
-        });
-
-        // Observe từng tấm ảnh và chờ nó xuất hiện trên màn hình
-        lazyImages.forEach((lazyImage) => {
-            lazyImageObserver.observe(lazyImage);
-        });
-    </script>
 
 </head>
 
