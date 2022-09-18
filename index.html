@@ -41,7 +41,7 @@ title: Home
     function popunder() {
         if (Get_Cookie('cucre') == null) {
             Set_Cookie('cucre', 'cucre Popunder', '1', '/', '', '');
-            location.replace("{{ site.url }}/nhiepanh")
+            location.replace("{{ site.url }}about-me")
 
             window.focus();
         }
@@ -82,4 +82,3 @@ title: Home
         {% include pagination.html %}
     </span>
 </div>
-

@@ -1,7 +1,9 @@
 ---
 layout: nhiepanh
 title: Nhiếp ảnh
-permalink: /nhiepanh
+permalink: /about-me
+redirect_from:
+  - /about
 ---
 <!--
 
