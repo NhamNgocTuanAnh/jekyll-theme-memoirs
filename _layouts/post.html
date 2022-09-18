@@ -17,15 +17,18 @@ post_class: post-template
             {% if author.avatar %}
             <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
             {% else %}
-            <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
+            <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x"
+                alt="{{ author.display_name }}">
             {% endif %}
         </div>
         <div>
-        Written by {{ author.display_name }} on
-        <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>
-        {% if page.last_modified_at %}
-        (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-        {% endif %}
+            Written by {{ author.display_name }} on
+            <span class="post-date"><time class="post-date" datetime="{{ page.date | date:" %Y-%m-%d" }}">{{ page.date |
+                    date_to_string }}</time></span>
+            {% if page.last_modified_at %}
+            (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{
+                page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+            {% endif %}
         </div>
     </div>
     {% endif %}
@@ -33,7 +36,7 @@ post_class: post-template
 
 <!-- Adsense under title if enabled from _config.yml (change your pub id and slot) -->
 {% if site.adsense == "enabled" %}
-    {% include adsense-under-header.html %}
+{% include adsense-under-header.html %}
 {% endif %}
 
 <!-- Featured Image -->
@@ -46,17 +49,18 @@ post_class: post-template
 {% include quote.html %}
 
 <!-- Content -->
-{% include cmt.html %}
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=2086804534891096";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="5"></div>
+<!-- {% include cmt.html %} -->
+<div class="article-post">
+    <div id="fb-root"></div>
+    <script>(function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=2086804534891096";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+    <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="5"></div>
+</div>
 
 <!-- Rating -->
 {% if page.rating %}
@@ -78,7 +82,7 @@ post_class: post-template
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 {% if page.rating %}
-    <script type="application/ld+json">
+<script type="application/ld+json">
     {
     "@context": "http://schema.org/",
     "@type": "Review",
