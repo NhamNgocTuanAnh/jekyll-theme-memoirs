@@ -43,7 +43,6 @@ Nhiều người đến giờ vẫn luôn tâm niệm nikon chụp người bị
     <a href="https://www.youtube.com/watch?v=jWvaaHqQni0">Nikon D600 Review Part 4 - Dynamic Range Testing</a>
   </p>
 
-
   <table>
     <thead>
       <tr>
@@ -183,7 +182,7 @@ Lưu ý: Khi chụp ảnh ở các nơi có background như hoa vàng, tường 
       <img src="../../assets/images/nhiepanh/anhsang/chinh-anh-nguoc-sang-trong-photoshop.webp" alt="Cứu sáng ảnh quá tối!" ><br>
 Khả năng lấy lại chi tiết của máy ảnh mới đã rất tốt.
   </p><p>M&igrave;nh xin được đ&iacute;nh ch&iacute;nh luận điểm <strong>nikon chỉ chụp cảnh</strong>. Hiện nay c&aacute;c d&ograve;ng m&aacute;y mới như nikon d750 trở về sau, đ&atilde; c&oacute; hệ thống c&acirc;n bằng trắng cực tốt. Tuy sẽ kh&ocirc;ng cho ra c&aacute;c chất ảnh trắng hồng như canon, nhưng thế l&agrave; đ&atilde; rất tốt cho anh em chụp đ&aacute;m, hoặc chụp dịch vụ rồi. bạn chỉ cần để lưu ý là nikon chơi màu tím, đỏ ,vàng và cam hơi khó thôi.&nbsp;</p>
-<blockquote><p>Khoảnh khắc l&agrave; thứ duy nhất tồn tại, nhưng thứ kh&aacute;c c&oacute; hay kh&ocirc;ng c&oacute;, kh&ocirc;ng quan trọng!</p></blockquote>
+
 <style>
 .box {
   display: flex;
