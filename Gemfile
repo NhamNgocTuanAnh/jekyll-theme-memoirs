@@ -20,6 +20,7 @@ group :jekyll_plugins do
     gem 'kramdown'
     gem 'rouge'
     gem 'jekyll-admin', group: :jekyll_plugins
+    gem 'jekyll-algolia', '~> 1.0'
 end
 
 gem "webrick", "~> 1.7"
