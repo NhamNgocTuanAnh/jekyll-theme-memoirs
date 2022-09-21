@@ -30,3 +30,4 @@ pickle-email-*.html
 /*.log
 _config.yml
 _config.yml
+Gemfile.lock
