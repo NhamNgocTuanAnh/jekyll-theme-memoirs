@@ -184,135 +184,23 @@ Khả năng lấy lại chi tiết của máy ảnh mới đã rất tốt.
   </p><p>M&igrave;nh xin được đ&iacute;nh ch&iacute;nh luận điểm <strong>nikon chỉ chụp cảnh</strong>. Hiện nay c&aacute;c d&ograve;ng m&aacute;y mới như nikon d750 trở về sau, đ&atilde; c&oacute; hệ thống c&acirc;n bằng trắng cực tốt. Tuy sẽ kh&ocirc;ng cho ra c&aacute;c chất ảnh trắng hồng như canon, nhưng thế l&agrave; đ&atilde; rất tốt cho anh em chụp đ&aacute;m, hoặc chụp dịch vụ rồi. bạn chỉ cần để lưu ý là nikon chơi màu tím, đỏ ,vàng và cam hơi khó thôi.&nbsp;</p>
 
 <style>
-.box {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: #aaa;
-  margin: 20px 0;
-  width: 100%;
-  min-height: 200px;
-  border: 2px #ccc solid;
-  color: #fff;
-}
-
-.row {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0 4px;
-}
-
-/* Create four equal columns that sits next to each other */
-.column {
-  flex: 25%;
-  max-width: 25%;
-  padding: 0 4px;
-}
-
-.column img {
-  margin-top: 8px;
-  vertical-align: middle;
-  width: 100%;
-}
-
-/* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 800px) {
-  .column {
-
-    flex: 50%;
-    max-width: 50%;
-
-  }
-}
-
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-
-    flex: 100%;
-    max-width: 100%;
-
-  }
+.box { display: flex; align-items: center; justify-content: center; background: #aaa; margin: 20px 0; width: 100%; min-height: 200px; border: 2px #ccc solid; color: #fff;
+} .row { display: flex; flex-wrap: wrap; padding: 0 4px;
+} /* Create four equal columns that sits next to each other */
+.column { flex: 25%; max-width: 25%; padding: 0 4px;
+} .column img { margin-top: 8px; vertical-align: middle; width: 100%;
+} /* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) { .column { flex: 50%; max-width: 50%; }
+} /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) { .column { flex: 100%; max-width: 100%; }
 }
 /* https://codepen.io/AllThingsSmitty/pen/MyqmdM */
-table {
-  border: 1px solid #ccc;
-  border-collapse: collapse;
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  table-layout: fixed;
-}
-
-table caption {
-  font-size: 1.5em;
-  margin: .5em 0 .75em;
-}
-
-table tr {
-  background-color: #f8f8f8;
-  border: 1px solid #ddd;
-  padding: .35em;
-}
-
-table th,
-table td {
-  padding: .625em;
-  text-align: center;
-}
-
-table th {
-  font-size: .85em;
-  letter-spacing: .1em;
-  text-transform: uppercase;
-}
-
-@media screen and (max-width: 600px) {
-  table {
-    border: 0;
-  }
-
-  table caption {
-    font-size: 1.3em;
-  }
-
-  table thead {
-    border: none;
-    clip: rect(0 0 0 0);
-    height: 1px;
-    margin: -1px;
-    overflow: hidden;
-    padding: 0;
-    position: absolute;
-    width: 1px;
-  }
-
-  table tr {
-    border-bottom: 3px solid #ddd;
-    display: block;
-    margin-bottom: .625em;
-  }
-
-  table td {
-    border-bottom: 1px solid #ddd;
-    display: block;
-    font-size: .8em;
-    text-align: right;
-  }
-
-  table td::before {
-    /*
-    * aria-label has no advantage, it won't be read inside a table
-    content: attr(aria-label);
-    */
-    content: attr(data-label);
-    float: left;
-    font-weight: bold;
-    text-transform: uppercase;
-  }
-
-  table td:last-child {
-    border-bottom: 0;
-  }
+table { border: 1px solid #ccc; border-collapse: collapse; margin: 0; padding: 0; width: 100%; table-layout: fixed;
+} table caption { font-size: 1.5em; margin: .5em 0 .75em;
+} table tr { background-color: #f8f8f8; border: 1px solid #ddd; padding: .35em;
+} table th,
+table td { padding: .625em; text-align: center;
+} table th { font-size: .85em; letter-spacing: .1em; text-transform: uppercase;
+} @media screen and (max-width: 600px) { table { border: 0; } table caption { font-size: 1.3em; } table thead { border: none; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; } table tr { border-bottom: 3px solid #ddd; display: block; margin-bottom: .625em; } table td { border-bottom: 1px solid #ddd; display: block; font-size: .8em; text-align: right; } table td::before { /* * aria-label has no advantage, it won't be read inside a table content: attr(aria-label); */ content: attr(data-label); float: left; font-weight: bold; text-transform: uppercase; } table td:last-child { border-bottom: 0; }
 }
 </style>
