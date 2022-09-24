@@ -104,6 +104,7 @@ Nhìn tổng thể bức ảnh thì Viltrox-EF-EOSM2 có vẻ hẹp hơn một c
   <img id="imagesblog-03" src="../../assets/images/nhiepanh/danh-gia-viltrox-ef-eos-m2-3-3.webp" alt="đánh giá viltrox-ef-eos-m2 với canon 6d và canon m3" class="lazy-bg lazyload"><br>
 
 Dù cấp cho bạn góc nhìn tiệm cận fullframe nhưng vì cảm biến nhỏ hơn, bạn vẫn có thể nhận thấy noise rõ rệt.
+
   <img id="imagesblog-03" src="../../assets/images/nhiepanh/danh-gia-viltrox-ef-eos-m2-3-4.webp" alt="Viltrox EF-EOS M2 chụp đêm ra sao" class="lazy-bg lazyload"><br>
 
 <a name="tip4"></a>
