@@ -4,6 +4,7 @@ title: 'Đánh giá Viltrox Canon EF-EOS M2 (0.71X) - [Review]'
 author: sal
 categories: [Nhiếp ảnh]
 tags: [đánh giá, nhiếp ảnh]
+pinned: true
 image: assets/images/nhiepanh/danh-gia-viltrox-ef-eos-m2-ava.webp
 rating: 5
 comments: true
