@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-<script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.44/darkreader.js"></script>
 <!-- Posts Index
 ================================================== -->
 <div class="blog-grid-container">
@@ -28,36 +27,5 @@ title: Home
         {% include pagination.html %}
     </span>
 </div>
-
-<script>
-    document.getElementsByClassName('dark-mode-button')[0].onclick = function() {
-    darkmode()
-}
-function darkmode() {
-  let enabled = localStorage.getItem('dark-mode')
-
-  if (enabled === null) {
-    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        enable();
-    }
-  } else if (enabled === 'true') {
-    enable()
-  }
-
-  if (localStorage.getItem('dark-mode') === 'false') {
-      enable();
-  } else {
-      disable();
-  }
-}
-function enable()  {
-  DarkReader.setFetchMethod(window.fetch)
-  DarkReader.enable();
-  localStorage.setItem('dark-mode', 'true');
-}
-
-function disable() {
-  DarkReader.disable();
-  localStorage.setItem('dark-mode', 'false');
-}
-</script>
+<script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.44/darkreader.js"></script><script>document.getElementsByClassName('dark-mode-button')[0].onclick = function() { darkmode(); }; function darkmode() {
+    console.log("enable darkmode"); let enabled = localStorage.getItem('dark-mode'); if (enabled === null) { if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) { enable(); } } else if (enabled === 'true') { enable(); } if (localStorage.getItem('dark-mode') === 'false') { enable(); } else { disable(); } } function enable() { DarkReader.setFetchMethod(window.fetch); DarkReader.enable(); localStorage.setItem('dark-mode', 'true'); } function disable() { DarkReader.disable(); localStorage.setItem('dark-mode', 'false'); } </script>
