@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code ubuntu trên windows - WSL2. Lạc vào đồng cỏ xanh"
+title:  "WSL2. Code ubuntu trên windows - Lạc vào đồng cỏ xanh"
 author: sal
 categories: [ Lập trình ]
 tags: [ lập trình ]
