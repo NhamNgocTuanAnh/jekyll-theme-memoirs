@@ -6,7 +6,7 @@ email:
 
 facebook:
   id: 'nntatlu'
-  href: 'https://www.facebook.com/'
+  href: 'https://www.facebook.com/nntatlu/'
   title: 'Facebook'
   fa-icon: 'fa-facebook-square'
 
@@ -18,6 +18,6 @@ twitter:
 
 github:
   id: 'NhamNgocTuanAnh'
-  href: 'https://github.com/'
+  href: 'https://github.com/NhamNgocTuanAnh'
   title: 'GitHub'
   fa-icon: 'fa-github-square'
