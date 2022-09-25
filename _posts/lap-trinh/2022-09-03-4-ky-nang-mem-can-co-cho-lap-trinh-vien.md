@@ -8,7 +8,7 @@ image: assets/images/ky-nang-lap-trinh-vien.webp
 # rating: 4.5
 comments: false
 permalink: lap-trinh/4-ky-nang-mem-can-co-cho-lap-trinh-vien
-excerpt: Nhận dạng khuôn mặt với Python và Cython
+excerpt: 4 kỹ năng mềm sau đây sẽ giúp các developer (lập trình viên) phát triển hơn trong sự nghiệp của mình. Một số tính cách như là sự đồng cảm, cởi mở, sẵn sàng học hỏi đều là những kỹ năng mềm rất cần thiết trong bất kỳ lĩnh vực nào. Kỹ năng mềm cho phép chúng ta tương tác hiệu quả và sống hòa hợp hơn với mọi người xung quanh.
 description: 4 kỹ năng mềm sau đây sẽ giúp các developer (lập trình viên) phát triển hơn trong sự nghiệp của mình. Một số tính cách như là sự đồng cảm, cởi mở, sẵn sàng học hỏi đều là những kỹ năng mềm rất cần thiết trong bất kỳ lĩnh vực nào. Kỹ năng mềm cho phép chúng ta tương tác hiệu quả và sống hòa hợp hơn với mọi người xung quanh.
 toc: false
 ---
