@@ -5,7 +5,7 @@ author: sal
 categories: [ Lập trình ]
 tags: [ lập trình ]
 image: assets/images/laptrinh/cai-dat-linux-trong-window.webp
-# rating: 4.5
+rating: 4.5
 comments: false
 permalink: lap-trinh/code-ubuntu-tren-windows
 excerpt: Tại sao lại dùng WSL, Nó có lợi ích gì tới bát cơm của bạn
