@@ -49,30 +49,11 @@ Vào những thời điểm khác nhau trong ngày, thậm chí trong năm, ánh
 
 ### 2. Hướng ánh sáng
 
-<img src="../../assets/images/nhiepanh/anhsang/huonganhsang.jpg" alt="Hướng ánh sáng" class="responsive">
+<p style="text-align:center; "><img src="../../assets/images/nhiepanh/anhsang/huonganhsang.jpg" alt="Hướng ánh sáng" class="responsive"></p>
 
 Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sáng.
 
-<table>
-  <tbody>
-    <tr>
-      <td > <b>Ánh sáng phía trước, hay còn gọi là ánh sáng trực diện.(Front lighting)</b><br>
-      <img src="../../assets/images/nhiepanh/anhsang/anhsangtruoc.jpg" alt="Ánh sáng phía trước" width = 360px height = 640px>
-     Ánh sáng phía trước đi từ phía sau máy ảnh hoặc từ bản thân máy ảnh. Nó chiếu sáng đối tượng một cách đồng đều, giúp dễ tái tạo màu sắc và chi tiết của đối tượng. Tạo ra ít bóng râm hơn, làm cho ảnh có vẻ phẳng và ít kịch tính hơn.
-     <p>Chụp thuận sáng đạt được màu sắc đều, nhưng thiếu vùng tối tương phản nên bức ảnh ít có chiều sâu, không nổi khối. Bề mặt chủ thể sáng đều, bóng đổ ra phía sau chủ thể.
-     Ánh sáng chiếu trực tiếp làm tương phản lớn nhưng mẫu dễ nheo mắt, tuy trình ra nhiều chi-tiết nhưng lại bị "bẹt" hay "dẹp" không nổi được hiệu ứng 3D vì vậy ánh sáng thuận thường không được ưa thích lắm. Trong trường-hợp phải dùng ánh sáng thuận, nên dùng ở trạng-thái dịu.
-
-     </p>
-     </td>
-
-      <td ><b>Ánh sáng một bên</b><br>
-      <img src="../../assets/images/nhiepanh/anhsang/anhsangmotben.jpg" alt="Ánh sáng phía trước" width = 360px height = 640px>
-      Ánh sáng chiếu sáng chủ thể từ một bên. Bất kỳ là bên phải hay bên trái. Loại ánh sáng này có khuynh hướng đổ bóng rõ ràng lên chủ thể, tạo sự tương phản mạnh mẽ giữa vùng sáng và vùng tối. Loại này thích hợp nhất với ý đồ tạo chiều sâu cho ảnh bằng cách thêm bóng đổ vào chủ thể. Ánh sáng xiên ngang có độ tương phản cao, người chụp khó xử lý hơn thuận sáng, phù hợp với thời điểm mặt trời bình minh hoặc hoàng hôn, ảnh ấn tượng hơn.
-      <p>
-
-Ánh sáng xiên một bên luôn làm nổi bật hình dạng vật thể và thể hiện chiều sâu chủ đề. Chủ thể nửa sáng nửa tối.
-
-</p>
+<table><tbody><tr><td ><b>Ánh sáng phía trước, hay còn gọi là ánh sáng trực diện.(Front lighting)</b><br><img src="../../assets/images/nhiepanh/anhsang/anhsangtruoc.jpg" alt="Ánh sáng phía trước" width = 360px height = 640px>Ánh sáng phía trước đi từ phía sau máy ảnh hoặc từ bản thân máy ảnh. Nó chiếu sáng đối tượng một cách đồng đều, giúp dễ tái tạo màu sắc và chi tiết của đối tượng. <p>Chụp thuận sáng đạt được màu sắc đều, nhưng thiếu vùng tối tương phản nên bức ảnh ít có chiều sâu, không nổi khối. Tạo ra ít bóng râm hơn, làm cho ảnh có vẻ phẳng và ít kịch tính hơn. Ánh sáng chiếu trực tiếp làm tương phản lớn nhưng mẫu dễ nheo mắt, tuy trình ra nhiều chi-tiết nhưng lại bị "bẹt" hay "dẹp" không nổi được hiệu ứng 3D vì vậy ánh sáng thuận thường không được ưa thích lắm. </p></td><td ><b>Ánh sáng một bên</b><br><img src="../../assets/images/nhiepanh/anhsang/anhsangmotben.jpg" alt="Ánh sáng phía trước" width = 360px height = 640px>Ánh sáng chiếu sáng chủ thể từ một bên. Bất kỳ là bên phải hay bên trái. Loại ánh sáng này có khuynh hướng đổ bóng rõ ràng lên chủ thể, tạo sự tương phản mạnh mẽ giữa vùng sáng và vùng tối. Loại này thích hợp nhất với ý đồ tạo chiều sâu cho ảnh bằng cách thêm bóng đổ vào chủ thể. Ánh sáng xiên ngang có độ tương phản cao, người chụp khó xử lý hơn thuận sáng, phù hợp với thời điểm mặt trời bình minh hoặc hoàng hôn, ảnh ấn tượng hơn. <p>Ánh sáng xiên một bên luôn làm nổi bật hình dạng vật thể và thể hiện chiều sâu chủ đề. Chủ thể nửa sáng nửa tối. </p>
 </td>
 </tr>
 <tr>
@@ -82,13 +63,12 @@ Có ba hướng ánh sáng thiết yếu: phía trước, bên và ngược sán
 Ánh sáng ngược là nguồn ánh sáng đi từ phía sau đối tượng, làm cho đối tượng xuất hiện như một cái bóng. Không dễ chụp ảnh ở điều kiện thiếu sáng nhưng kết quả gây ấn tượng mạnh mẽ nhất và dễ tạo cảm xúc cho người xem, nếu người chụp kiểm soát được. Tránh để ánh sáng chiếu trực tiếp vào ống kính, dễ làm bức ảnh loé sáng ngoài ý muốn. Việc tăng bù phơi sáng sẽ giúp bạn khắc phục ngược sáng dẫn đến nền sau quá sáng.
 <p>
 Thường chụp không để mất chi tiết phần sáng, hậu kỳ để thể hiện chi tiết phần tối hoặc dùng kỹ thuật HDR, hoặc chế độ chụp HDR có sẵn trên điện thoại chụp hiệu quả trong hoàn cảnh ngược sáng.
+Đọc thêm<a href="{{site.baseurl}}/nhiep-anh/chup-nguoc-sang"> Chụp ngược sáng</a>
 </p>
 </td>
-</tr>
-
-  </tbody>
+</tr></tbody>
 </table>
-Trong thực tế, người chụp kết hợp sử dụng cả hai loại nguồn sáng tự nhiên và nhân tạo để có hiệu ứng tốt nhất khi chụp ảnh. Ánh sáng tự nhiên có thể được sử dụng để tạo ra nhiều hiệu ứng lôi cuốn, đặc biệt trong chụp ảnh chân dung. Còn ánh sáng studio cho bạn khả năng khiểm soát ánh sáng vô hạn. Dù nguồn sáng nào, bước đầu tiên bạn phải xác định nguồn sáng và hướng sáng chủ đạo cho chủ thể và toàn khung ảnh.
+Trong thực tế, người chụp kết hợp sử dụng nhiều loại ánh sáng để có hiệu ứng tốt nhất khi chụp ảnh. Ánh sáng tự nhiên có thể được sử dụng để tạo ra nhiều hiệu ứng lôi cuốn, đặc biệt trong chụp ảnh chân dung. Còn ánh sáng studio cho bạn khả năng khiểm soát ánh sáng vô hạn. Dù nguồn sáng nào, bước đầu tiên bạn phải xác định nguồn sáng và hướng sáng chủ đạo cho chủ thể và toàn khung ảnh.
 
 <a name="nguyennahn"></a>
 
