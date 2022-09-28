@@ -41,7 +41,7 @@ Những màn công kích đám đông với ngôn từ có tính chất phỉ b�
 
 Ví dụ. Một nữ sinh (14 tuổi) có tên tài khoản là Amnesia đã tham gia mạng xã hội Ask.fm để tìm sự cảm thông sau khi chia tay với bạn trai. Tuy nhiên, đáp lại cô là những lời nguyền rủa độc địa: "Tự chết đi!", "Không ai muốn mày cả" và "Mày không bình thường". Và cô cũng đã làm y như thế, tìm đến cái chết khi quá tổn thương về tinh thần. trích [Thế giới ảo và những tác hại của công kích đám đông - Dân trí](https://dantri.com.vn/nhip-song-tre/the-gioi-ao-va-nhung-tac-hai-cua-cong-kich-dam-dong-1431216073.htm)
 
-{% _includes/responsive_image path: assets/images/nan-nhan-cong-kich-ca-nhan.jpg alt: "Sulli đã phải hứng chịu rất nhiều chỉ trích từ cộng đồng mạng kể từ sau khi rời f(x). (Ảnh: Yonhap)"%}
+{% include responsive_image.html path: assets/images/nan-nhan-cong-kich-ca-nhan.jpg alt: "Sulli đã phải hứng chịu rất nhiều chỉ trích từ cộng đồng mạng kể từ sau khi rời f(x). (Ảnh: Yonhap)"%}
 
 **Hậu quả của bạo lực ngôn ngữ hay công kích cá nhân**
 Một trong những hậu quả của bạo hành bằng ngôn ngữ dễ dàng tiếp cận nhất đó chính là **suy nghĩ**. Nếu lời nói đó ở bên trong họ một thời gian dài, nó có thể điều khiển được suy nghĩ của chính họ.\\
@@ -55,14 +55,14 @@ Có nhiều trường hợp, những người bị **tổn thương cảm xúc**
 <a name="nguyennahn"></a>
 ### 4. Nguyên nhân
 
-{% _includes/responsive_image path: assets/images/con-nha-ngta.jpg %}
+{% include responsive_image.html path: assets/images/con-nha-ngta.jpg %}
 
 Bạn đã từng nghe tới câu nói này chưa. Nếu rồi thì chúc mừng bạn - Bạn có một tuổi thơ tươi đẹp đó. "Bằng tuổi mày, người ta làm được abc xyz.", "Mày nhìn con bác B chưa, đạt điểm mười suốt đó.", "Tao nhặt được mày từ bãi rác", ...vv.
 Và đó là **bạo hành ngôn ngữ**, và chúng ta đã trải nghiệm nó từ nhỏ, ăn sâu vào nhận thức của chúng ta, khiến chúng ta coi nó như chuyện bình thường. Lôi những khiếm khuyết, nhưng sai lầm của người khác ra để mà bêu rếu, nhục mạ. Kẻ tổn thương lại đi làm tổn thương người khác :)).
 
 **"Phong ba bão táp, không bằng ngữ pháp Việt Nam"** điều này quả là chính xác. Bởi chỉ từ một câu nói nhưng đặt trong hoàn cảnh khác nhau, ngữ nghĩa của chúng lại được hiểu theo ý gần như chẳng liên quan tới nhau.
 
-{% _includes/responsive_image path: assets/images/ngon-ngu-viet-phong-phu.png alt: "Ngôn ngữ việt rất phong phú" %}
+{% include responsive_image.html path: assets/images/ngon-ngu-viet-phong-phu.png alt: "Ngôn ngữ việt rất phong phú" %}
 
 Cùng với việc quen với bạo hành ngôn ngữ từ nhỏ. Chúng ta còn được hậu thuẫn bởi sự đồ sộ ([lỏng lẻo](https://spiderum.com/bai-dang/Van-de-o-Viet-Nam-moi-nguoi-song-qua-cam-tinh-va-tu-duy-long-leo-87p)) của ngôn ngữ Việt. "Đồ lăng loàn trắc nết", "trốn chúa lộn chồng", "đầu trộm đuôi cướp", "đầu trâu mặt ngựa", "lòng lang dạ sói"... Để nguyền rủa nhau cũng có cả kho từ vựng dùng hoài không hết như "đồ diều tha quạ mổ", "trời đánh thánh vật", "voi giày ngựa xé", "chết bờ chết bụi"... Thậm chí bài chửi "mất gà" kinh điển có ca có kệ của miền Bắc còn được xem là một trong những ví dụ về sự hoạt ngôn và phong phú của dân gian về nghệ thuật chửi.
 
@@ -71,14 +71,14 @@ Người Châu á rất quan trọng mối quan hệ vai vế, người trên k�
 
 Người Âu Mỹ xem tranh luận là một hành động hết sức lành mạnh nhằm làm sáng tỏ vấn đề và tìm ra giải pháp cho vấn đề đó nên khi tranh luận họ quan trọng đúng sai cũng như không đặt cái tôi cá nhân vào đó vì xét cho cùng, tranh luận xong cả hai phía đều sẽ hiểu vấn đề một cách toàn diện hơn.
 
-{% _includes/responsive_image path: assets/images/phan-bien-hay-cong-kich.jpg alt: "Cãi nhau hay tranh luận trên mạng" %}
+{% include responsive_image.html path: assets/images/phan-bien-hay-cong-kich.jpg alt: "Cãi nhau hay tranh luận trên mạng" %}
 
 [Rồi đó là phản biện hay ám chỉ người khác không hiểu vấn đề?!](https://spiderum.com/bai-dang/Spidrama-Vi-du-ve-su-lam-dung-tu-duy-phan-bien-va-cong-kich-ca-nhan-cua-mot-so-bo-phan-tri-thuc-nua-voi-p4q) rồi ý nghĩa gì sau những cuộc trò chuyện nóng bỏng này là gì? Hay chỉ là  những sự bực tức, khinh bỉ nhau mà không có gì vô đầu?
 
 
 <a name="trachkhoi"></a>
 ### 5. Vậy làm gì để thoát hoặc tránh khỏi công kích cá nhân
-{% _includes/responsive_image path: assets/images/che_tai_phat.jpg alt: "Quy định xử phạt hành vi bôi nhọ trên mạng" %}
+{% include responsive_image.html path: assets/images/che_tai_phat.jpg alt: "Quy định xử phạt hành vi bôi nhọ trên mạng" %}
 
 Xúc phạm danh dự nhân phẩm người khác là hành vi vi phạm pháp luật.\\
 Pháp luật nước Cộng hòa Xã hội Chủ nghĩa Việt Nam hay Pháp luật của đa phần các quốc gia trên thế giới đều không thể bỏ qua việc “Xúc phạm danh dự nhân phẩm của người khác” dù ở ngoài đời thật hay cả trên mạng xã hội. Điều 34, bộ Luật Dân sự 2015 nước Cộng hòa Xã hội Chủ nghĩa Việt Nam quy định:
