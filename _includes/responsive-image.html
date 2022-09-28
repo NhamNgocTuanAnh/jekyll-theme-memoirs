@@ -1,8 +1,15 @@
 <p style="text-align:center; ">
     <picture>
         {% for i in resized %}
-            <source media="(min-width: {{ i.width }}px)" srcset="/{{ i.path }}">
+        <source media="(min-width: {{ i.width }}px)" srcset="/{{ i.path }}">
         {% endfor %}
-        <img src="/{{ path }}">
-    </picture>
+        <img src="/{{ path }}" alt="{{ alt }}">
+        <div class="image-caption ">{{ alt }}</div>
+</picture>
 </p>
+<style>
+    .image-caption {
+  text-align: center;
+  font-size: .8rem;
+  color: light-grey;
+</style>

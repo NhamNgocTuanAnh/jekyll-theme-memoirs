@@ -41,9 +41,7 @@ Những màn công kích đám đông với ngôn từ có tính chất phỉ b�
 
 Ví dụ. Một nữ sinh (14 tuổi) có tên tài khoản là Amnesia đã tham gia mạng xã hội Ask.fm để tìm sự cảm thông sau khi chia tay với bạn trai. Tuy nhiên, đáp lại cô là những lời nguyền rủa độc địa: "Tự chết đi!", "Không ai muốn mày cả" và "Mày không bình thường". Và cô cũng đã làm y như thế, tìm đến cái chết khi quá tổn thương về tinh thần. trích [Thế giới ảo và những tác hại của công kích đám đông - Dân trí](https://dantri.com.vn/nhip-song-tre/the-gioi-ao-va-nhung-tac-hai-cua-cong-kich-dam-dong-1431216073.htm)
 
-{% responsive_image path: assets/images/nan-nhan-cong-kich-ca-nhan.jpg %}
-
-[Sulli đã phải hứng chịu rất nhiều chỉ trích từ cộng đồng mạng kể từ sau khi rời f(x). (Ảnh: Yonhap)](https://vtv.vn/chuyen-dong-24h/chinh-phu-han-quoc-xem-xet-ban-hanh-dao-luat-sulli-2019101618384955.htm)
+{% responsive_image path: assets/images/nan-nhan-cong-kich-ca-nhan.jpg alt: "Sulli đã phải hứng chịu rất nhiều chỉ trích từ cộng đồng mạng kể từ sau khi rời f(x). (Ảnh: Yonhap)"%}
 
 **Hậu quả của bạo lực ngôn ngữ hay công kích cá nhân**
 Một trong những hậu quả của bạo hành bằng ngôn ngữ dễ dàng tiếp cận nhất đó chính là **suy nghĩ**. Nếu lời nói đó ở bên trong họ một thời gian dài, nó có thể điều khiển được suy nghĩ của chính họ.\\
