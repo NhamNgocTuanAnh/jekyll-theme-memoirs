@@ -24,6 +24,8 @@ group :jekyll_plugins do
     gem 'jekyll-redirect-from'
     gem 'jekyll-minifier'
     gem 'jekyll-toc'
+    gem 'jekyll-responsive-image'
+    gem 'rmagick', '~> 4.3'
 end
 
 gem "webrick", "~> 1.7"

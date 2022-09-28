@@ -45,6 +45,14 @@ plugins:
   - jekyll-archives
   - jekyll-figure
   - jekyll-toc
+  - jekyll-responsive-image
+
+responsive_image:
+  template: _includes/responsive-image.html
+  sizes:
+    - width: 320
+    - width: 480
+    - width: 800
 
 toc:
   min_level: 1
