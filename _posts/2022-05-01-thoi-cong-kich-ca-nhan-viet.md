@@ -71,14 +71,13 @@ Người Châu á rất quan trọng mối quan hệ vai vế, người trên k�
 
 Người Âu Mỹ xem tranh luận là một hành động hết sức lành mạnh nhằm làm sáng tỏ vấn đề và tìm ra giải pháp cho vấn đề đó nên khi tranh luận họ quan trọng đúng sai cũng như không đặt cái tôi cá nhân vào đó vì xét cho cùng, tranh luận xong cả hai phía đều sẽ hiểu vấn đề một cách toàn diện hơn.
 
-{% include responsive-image.html path='assets/images/phan-bien-hay-cong-kich.jpg' alt="Cãi nhau hay tranh luận trên mạng" %}
-
+{% responsive_image path:assets/images/phan-bien-hay-cong-kich.jpg alt:"Cãi nhau hay tranh luận trên mạng" %}
 [Rồi đó là phản biện hay ám chỉ người khác không hiểu vấn đề?!](https://spiderum.com/bai-dang/Spidrama-Vi-du-ve-su-lam-dung-tu-duy-phan-bien-va-cong-kich-ca-nhan-cua-mot-so-bo-phan-tri-thuc-nua-voi-p4q) rồi ý nghĩa gì sau những cuộc trò chuyện nóng bỏng này là gì? Hay chỉ là  những sự bực tức, khinh bỉ nhau mà không có gì vô đầu?
 
 
 <a name="trachkhoi"></a>
 ### 5. Vậy làm gì để thoát hoặc tránh khỏi công kích cá nhân
-{% include responsive-image.html path='assets/images/che_tai_phat.jpg' alt="Quy định xử phạt hành vi bôi nhọ trên mạng" %}
+{% responsive_image path:assets/images/che_tai_phat.jpg alt:"Quy định xử phạt hành vi bôi nhọ trên mạng" %}
 
 Xúc phạm danh dự nhân phẩm người khác là hành vi vi phạm pháp luật.\\
 Pháp luật nước Cộng hòa Xã hội Chủ nghĩa Việt Nam hay Pháp luật của đa phần các quốc gia trên thế giới đều không thể bỏ qua việc “Xúc phạm danh dự nhân phẩm của người khác” dù ở ngoài đời thật hay cả trên mạng xã hội. Điều 34, bộ Luật Dân sự 2015 nước Cộng hòa Xã hội Chủ nghĩa Việt Nam quy định:
