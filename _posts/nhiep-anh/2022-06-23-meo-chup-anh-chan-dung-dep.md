@@ -28,11 +28,11 @@ Street style đã len vào mọi ngóc ngách của làng thời trang hiện đ
 <p style="text-align:center; ">
   Nghiêm túc rồi, bây giờ bạn có thể lột xác với các động rác uyển chuyển của tay và chân như: tay chống eo, tay đưa lên làm như hất tóc để tạo và nhấn các đường cong.<br>Thay vì đứng giơ 2 ngón tay quá đơn giản và không có điểm nhấn, bạn hãy đưa một chân sang một cách tự nhiên, một tay ép vào thân mình, tay kia giơ thẳng lên và "Say hi".<br>
 
-{% responsive-image path: assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-02.jpg alt: "Đừng đứng thẳng như trời trồng như vậy chứ :'"%}
+{% include responsive-image.html path='assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-02.jpg' alt="Đừng đứng thẳng như trời trồng như vậy chứ :'"%}
 
 </p>
 <p style="text-align:center; ">
-  {% responsive-image path: assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-01.jpg alt: "Đừng đứng im"%}
+  {% include responsive-image.html path="assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-01.jpg" alt="Đừng đứng im"%}
   Đừng chỉ đứng im, hãy bước đi thật tự nhiên để bức ảnh trông sống động hơn.
 </p>
 <p>
@@ -41,11 +41,11 @@ Hãy thoải mái nhất có thể, thả lỏng cơ thể, hai cánh tay và ch
 <a name="tip2"></a>
 <h3>2. Thả lỏng 2 tay</h3>
   <p style="text-align:center; ">
-    {% responsive-image path: assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-03.jpg alt: "1,2, 3 xoay nào"%}
+    {% include responsive-image.html path="assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-03.jpg" alt="1,2, 3 xoay nào" %}
   </p>
   <p style="text-align:center; ">
 
-        {% responsive-image path: assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-04.jpg alt: "Đừng chỉ đặt tay lên đùi"%}
+        {% include responsive-image.html path=' assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-04.jpg' alt= "Đừng chỉ đặt tay lên đùi" %}
 
      Ngồi nghiêng một cách nhàm chán, để thu hút ánh nhìn, bạn nên đưa một chân ra trước, đẩy hông sang một bên để trông "xì tai" hơn.<br>
         Không cần phải ngồi thu người, khép nép, hãy tạo điểm nhấn bằng cách bắt chéo chân, tay đặt lên đầu gối, chống cằm
@@ -61,7 +61,7 @@ Hãy thoải mái nhất có thể, thả lỏng cơ thể, hai cánh tay và ch
 <a name="tip4"></a>
 <h3>4. Thêm phụ kiện, thêm tự tin</h3>
   <p style="text-align:center; ">
-    {% responsive-image path: assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-07.jpeg alt: "Nghĩ đến những câu chuyện thú vị"%}
+    {% include responsive-image.html path="assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-07.jpeg" alt="Nghĩ đến những câu chuyện thú vị"%}
     Cầm một cành hoa, một chén trà và nghĩ đến những câu chuyện thú vị: Đây là cách giúp gương mặt và nụ cười của bạn trở nên tự nhiên hơn.
   </p>
 
