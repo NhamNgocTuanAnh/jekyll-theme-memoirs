@@ -36,8 +36,8 @@ Chìa khóa để chụp ngược sáng là: chọn một chủ thể mạnh m�
 
 <p style="text-align:center; ">
   <img id="imagesblog-03"
-  src="../../assets/images/IMG_4740_resize-682x1024.webp" alt="Nikon D600 Dynamic Range">
-  Đừng chỉ đứng im, hãy bước đi thật tự nhiên để bức ảnh trông sống động hơn.
+  src="../../assets/images/IMG_4740_resize-682x1024.webp" alt="Chèo thuyền. Hồ tây">
+  Chèo thuyền. Hồ tây
 </p>
 
 <b>Lưu ý</b>: Với kiểu chụp ảnh ngược sáng, hãy đảm bảo rằng tay chân không đứng quá khít vào nhau như thế sẽ tránh tạo thành một vùng đen xì trong bức ảnh và nhìn sẽ không ra được hình người mất 😂🤣
