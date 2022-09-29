@@ -49,7 +49,7 @@ plugins:
 
 responsive_image:
   cache: true
-  template: _includes/responsive-image.html
+  template: _includes/responsive_image.html
   # [Optional, Default: 85]
   # Quality to use when resizing images.
   default_quality: 90
