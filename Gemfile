@@ -25,7 +25,7 @@ group :jekyll_plugins do
     gem 'jekyll-minifier'
     gem 'jekyll-toc'
     gem 'jekyll-responsive-image'
-    gem 'rmagick', '~> 4.3'
+    gem 'rmagick'
 end
 
 gem "webrick", "~> 1.7"
