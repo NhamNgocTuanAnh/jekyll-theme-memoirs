@@ -1,20 +1,24 @@
-<p style="text-align:center; "><picture>
-{% for i in resized %}
-<source media="(min-width: {{ i.width }}px)" srcset="/{{ i.path }}">
-{% endfor %}
-<img src="/{{ include.path }}" alt="{{ include.alt }}">
-<div class="image-caption ">{{ include.alt }}</div>
-</picture></p>
+
 <style>
     .image-caption {
         text-align: center;
         font-size: .8rem;
         color: light-grey;
+    }
+    .image-center{
+        text-align:center;
+    }
 </style>
-<p style="text-align:center; "><picture>
-{% for i in resized %}
-<source media="(min-width: {{ i.width }}px)" srcset="/{{ i.path }}">
-{% endfor %}
-<img src="/{{ path }}" alt="{{alt }}">
-<div class="image-caption ">{{ alt }}</div>
-</picture></p>
+
+<p class="image-center">
+    <picture>
+        <source
+        srcset="{{ site.BASE_PATH }}/assets/resized/480/{{ include.NAME_PIC }} 480w">
+        <source
+        srcset="{{ site.BASE_PATH }}/assets/resized/800/{{ include.NAME_PIC }} 800w">
+        <source
+        srcset="{{ site.BASE_PATH }}/assets/resized/1400/{{ include.NAME_PIC }} 1400w">
+    <img src="/{{ include.path }}" alt="{{ include.alt }}">
+    <div class="image-caption ">{{ include.alt }}</div>
+    </picture>
+</p>

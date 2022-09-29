@@ -48,21 +48,20 @@ plugins:
   - jekyll-responsive-image
 
 responsive_image:
-  cache: true
   template: _includes/responsive_image.html
   # [Optional, Default: 85]
   # Quality to use when resizing images.
-  default_quality: 90
+  default_quality: 100
 
   # [Optional, Default: []]
   # An array of resize configuration objects. Each object must contain at least
   # a `width` value.
   sizes:
     - width: 480  # [Required] How wide the resized image will be.
-      quality: 80 # [Optional] Overrides default_quality for this size.
+      quality: 100 # [Optional] Overrides default_quality for this size.
     - width: 800
     - width: 1400
-      quality: 90
+      quality: 100
 
   # [Optional, Default: false]
   # Rotate resized images depending on their EXIF rotation attribute. Useful for
@@ -95,12 +94,12 @@ responsive_image:
 
   # [Optional, Default: true]
   # Whether or not to save the generated assets into the source folder.
-  save_to_source: false
+  save_to_source: true
 
   # [Optional, Default: false]
   # Cache the result of {% responsive_image %} and {% responsive_image_block %}
   # tags. See the "Caching" section of the README for more information.
-  cache: false
+  cache: true
 
   # [Optional, Default: []]
   # By default, only images referenced by the responsive_image and responsive_image_block

@@ -228,7 +228,7 @@ DEPENDENCIES
   jekyll-sitemap
   jekyll-toc
   kramdown
-  rmagick (~> 4.3)
+  rmagick
   rouge
   webrick (~> 1.7)
 
