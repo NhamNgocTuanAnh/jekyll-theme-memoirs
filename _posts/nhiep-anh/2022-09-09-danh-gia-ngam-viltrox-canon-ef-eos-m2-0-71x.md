@@ -7,7 +7,7 @@ tags: [đánh giá, nhiếp ảnh]
 pinned: true
 image: assets/images/nhiepanh/danh-gia-viltrox-ef-eos-m2-ava.webp
 rating: 5
-comments: true
+isGithubComments: false
 permalink: nhiep-anh/danh-gia-ngam-viltrox-canon-ef-eos-m2-0-71x
 excerpt: Đánh giá Tốt. Phù hợp với người chơi nghiệp dư không có nhu cầu về độ sắc nét hoặc chụp tối cao
 adsense: "enabled"

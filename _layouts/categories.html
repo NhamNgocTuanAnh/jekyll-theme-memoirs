@@ -4,9 +4,8 @@ layout: default
 permalink: "/categories.html"
 ---
 <div>
-    <h1>Categories</h1>
-    <script async src="https://cse.google.com/cse.js?cx=1687c5698c7838227"></script>
-    <div class="gcse-search"></div>
+    <h1>Thể loại</h1>
+    <form method="get" id="search-google" action="https://www.google.com/search" target="_blank"><input type="hidden" name="sitesearch" value="jekyllcodex.org" /><input type="text" name="q" maxlength="255" value="" placeholder="Tìm kiếm bằng Google" class="form-control" /></form>
     <hr/>
     <div class ="tags-expo-section">
         {% for category in site.categories %}
