@@ -2,35 +2,36 @@
 ================================================== -->
 {% if page.isGithubComments != false %}
 <div class="comments mt-5">
-    <button class="btn btn-outline-dark py-2 px-5 d-block w-100 show-comments"><i class="fa fa-comments text-muted"></i> &nbsp; Load Comments</button>
+    <button class="btn btn-outline-dark py-2 px-5 d-block w-100 show-comments"><i class="fa fa-comments text-muted"></i>
+        &nbsp; Load Comments</button>
     <div id="comments">
         <h4 class="mb-4">Comments</h4>
         <div class="article-post">
             <!-- Comments if not disabled with comments: false -->
             <script src="https://giscus.app/client.js" data-repo="nhamngoctuananh/nhamngoctuananh.github.io"
-                data-repo-id="R_kgDOGi2Xag" data-category="Q&A" data-category-id="DIC_kwDOGi2Xas4CRbIn" data-mapping="pathname"
-                data-strict="0" data-reactions-enabled="1" data-emit-metadata="1" data-input-position="top"
-                data-theme="github-light" data-lang="vi" data-loading="lazy" crossorigin="anonymous" async>
+                data-repo-id="R_kgDOGi2Xag" data-category="Q&A" data-category-id="DIC_kwDOGi2Xas4CRbIn"
+                data-mapping="pathname" data-strict="0" data-reactions-enabled="1" data-emit-metadata="1"
+                data-input-position="top" data-theme="github-light" data-lang="vi" data-loading="lazy"
+                crossorigin="anonymous" async>
                 </script>
         </div>
-    <div class="clearfix"></div>
     </div>
 </div>
 {% else %}
 <div class="comments mt-5">
-    <button class="btn btn-outline-dark py-2 px-5 d-block w-100 show-comments"><i class="fa fa-comments text-muted"></i> &nbsp; Load Comments</button>
+    <button class="btn btn-outline-dark py-2 px-5 d-block w-100 show-comments"><i class="fa fa-comments text-muted"></i>
+        &nbsp; Load Comments</button>
     <div id="comments">
         <h4 class="mb-4">Comments</h4>
         <div class="row">
             <div class="col-xs-12 col-sm-3"></div>
-                <div class="col-xs-12 col-sm-8"><br>
-                    <p style="text-align:center; ">
-                    <div id="fb-root"></div>
-                    <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="5"></div>
-                    </p>
-                </div>
+            <div class="col-xs-12 col-sm-8"><br>
+                <p style="text-align:center; ">
+                <div id="fb-root"></div>
+                <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="5"></div>
+                </p>
             </div>
-    <div class="clearfix"></div>
+        </div>
     </div>
 </div>
 {% endif %}
