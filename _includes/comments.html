@@ -23,12 +23,15 @@
         &nbsp; Load Comments</button>
     <div id="comments">
         <h4 class="mb-4">Comments</h4>
+        <div class="article-post">
+            <div id="fb-root"></div>
+            <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="5"></div>
+        </div>
         <div class="row">
             <div class="col-xs-12 col-sm-3"></div>
             <div class="col-xs-12 col-sm-8"><br>
                 <p style="text-align:center; ">
-                <div id="fb-root"></div>
-                <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="5"></div>
+
                 </p>
             </div>
         </div>
