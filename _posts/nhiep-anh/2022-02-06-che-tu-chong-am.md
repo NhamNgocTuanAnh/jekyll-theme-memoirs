@@ -6,7 +6,7 @@ categories: [Nhiếp ảnh, Lập trình]
 tags: [lập trình nhúng, arduino]
 image: assets/images/nhiepanh/hop-chong-am-avt.jpg
 rating: 4.5
-comments: false
+isGithubComments: true
 permalink: nhiep-anh/che-tu-chong-am
 excerpt: Chế hộp chống ẩm tự ngắt
 description: Tủ chống ẩm thì có chi phí khá đắt đỏ, còn họp chống ẩm tự chế thì ta phải tháo hạt hút ẩm ra để sấy lại rất tốn thời gian. Vậy có cách nào tốt hơn không? Cùng vào bài viết nhé.

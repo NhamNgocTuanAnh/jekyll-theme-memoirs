@@ -6,7 +6,7 @@ categories: [ Machine learning, học máy ]
 tags: [ Học máy, Python, Lập trình ]
 image: assets/images/emotion-detection/happy-ex-p1.webp
 # rating: 4.5
-comments: false
+isGithubComments: true
 permalink: lap-trinh/emotion-recognition-main-reason
 excerpt: Tổng quan bài toán nhận dạng khuôn mặt
 description: Xây dựng mô hình nhận dạng cảm xúc gương mặt với Python, Keras và TensorFlow

@@ -6,7 +6,7 @@ categories: [Nhiếp ảnh]
 tags: [tips chụp ảnh]
 image: assets/images/nhiepanh/doituong/tao-dang-street-style-2_14.webp
 rating: 5
-comments: false
+isGithubComments: false
 permalink: nhiep-anh/meo-chup-anh-chan-dung-dep-nam
 date: 2022-04-29 11:04 +0200
 excerpt: Tips chụp ảnh nam

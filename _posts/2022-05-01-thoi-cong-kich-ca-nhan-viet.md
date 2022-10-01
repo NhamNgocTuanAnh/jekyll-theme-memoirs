@@ -6,7 +6,7 @@ categories: [ Suy ngẫm ]
 tags: [ phản biện ]
 image: assets/images/phan-bien-viet-avt.jpg
 rating: 4.5
-comments: false
+isGithubComments: false
 description: Mày biết gì mà nói?! hay Ăn cơm mèo nói leo các cụ là những câu nói phổ biến ta thường nghe khi muốn góp ý cho một người khác. Đó là những câu hạ nhục đối phương và đó là công kích cá nhân hay ad hominem
 ---
 

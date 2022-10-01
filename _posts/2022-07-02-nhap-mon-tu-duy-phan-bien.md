@@ -8,7 +8,7 @@ tags:
 - phản biện
 date: '2022-06-01'
 image: assets/images/4148284_Hoang-duong-anh-comment-facebook.jpg
-comments: false
+isGithubComments: false
 ---
 
 > Bài viết đang cập nhật  〜(￣▽￣〜)

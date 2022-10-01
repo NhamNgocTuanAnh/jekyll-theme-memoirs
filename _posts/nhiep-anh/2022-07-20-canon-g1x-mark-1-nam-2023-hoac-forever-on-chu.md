@@ -6,7 +6,7 @@ categories: [Nhiếp ảnh]
 tags: [đánh giá, nhiếp ảnh]
 image: assets/images/nhiepanh/gioi-thieu-canon-g1x.webp
 rating: 5
-comments: true
+isGithubComments: false
 permalink: nhiep-anh/canon-g1x-mark-1-nam-2023-hoac-forever-on-chu
 excerpt: Đánh giá Tốt. Phù hợp với người chơi nghiệp dư không có nhu cầu về độ sắc nét hoặc chụp tối cao
 ---

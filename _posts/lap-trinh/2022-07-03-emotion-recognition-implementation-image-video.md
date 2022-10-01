@@ -6,7 +6,7 @@ categories: [ Machine learning, học máy ]
 tags: [ Python, Lập trình ]
 image: assets/images/emotion-detection/happy-ex-p4.webp
 # rating: 4.5
-comments: false
+isGithubComments: true
 permalink: lap-trinh/emotion-recognition-implementation-image-video
 excerpt: Nhận dạng khuôn mặt với Python và Cython
 description: Trong các phần trước, vấn đề siêu chậm của python đã được tôi nhắc đến. Vậy làm thế nào để giữ được code dễ hiểu python nhưng lại có tốc độ cao gần như C++?
