@@ -11,7 +11,7 @@
 </head>
 
 <body>
-
+<hr><hr><hr>
    <div>
       <section class="grid extended-grid-18">
          <div class="container clearfix">
@@ -44,7 +44,7 @@
 <script>
 
    CKEDITOR.replace('editor1');
-   CKEDITOR.config.height = 580;     // 500 pixels wide.
+   CKEDITOR.config.height = 480;     // 500 pixels wide.
    CKEDITOR.instances.editor1.on("change", function () {
       console.log(this.getData());
       document.getElementById("myText").value = this.getData();
