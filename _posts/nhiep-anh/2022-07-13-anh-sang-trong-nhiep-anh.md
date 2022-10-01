@@ -6,7 +6,7 @@ categories: [Nhiếp ảnh]
 tags: [ánh sáng]
 image: assets/images/nhiepanh/anhsang/anhsang-cover.webp
 rating: 4
-comments: false
+isGithubComments: false
 permalink: nhiep-anh/anh-sang-trong-nhiep-anh
 excerpt: Hiện nay công nghệ đã rất phát triển, có những máy ảnh có thể chụp ảnh buổi tối rõ như ban ngày. Điều đó làm những người mới chơi thường không đánh giá cao vai trò của ánh sáng trong quá trình tạo nên một bức ảnh.
 description: Hiện nay công nghệ đã rất phát triển, có những máy ảnh có thể chụp ảnh buổi tối rõ như ban ngày. Điều đó làm những người mới chơi thường không đánh giá cao vai trò của ánh sáng trong quá trình tạo nên một bức ảnh.

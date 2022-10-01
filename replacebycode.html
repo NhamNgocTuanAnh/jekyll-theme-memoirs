@@ -1,0 +1,62 @@
+1
+<!DOCTYPE html>
+<html>
+
+<head>
+   <meta charset="utf-8">
+   <title>Replace Textarea by Code</title>
+
+   <!-- (1): Khai báo sử dụng thư viện CKEditor -->
+   <script src="./ckeditor/ckeditor.js"></script>
+
+</head>
+
+<body>
+   <div style="width: 60%; float:left">
+      #left content in here
+      <h2>Replace Textarea Elements Using JavaScript Code</h2>
+
+      <form action="" method="post">
+
+         <!-- (2): textarea sẽ được thay thế bởi CKEditor -->
+         <textarea id="editor1" name="editor1" cols="80" rows="10">
+           <p>Hello <strong>CKEditor</strong></p>
+       </textarea>
+
+
+
+      </form>
+
+   </div>
+   <div style="width: 40%; float:right">
+      #right content in there
+      <input type="text" id="myText" name="content-val" />
+      <button onclick="SetContents()">Click me</button>
+
+      <p id="demo">Click me to change my HTML content (innerHTML).</p>
+
+</body>
+<!-- (3): Code Javascript thay thế textarea có id='editor1' bởi CKEditor -->
+<script>
+
+   CKEDITOR.replace('editor1');
+   CKEDITOR.config.height = 580;     // 500 pixels wide.
+   CKEDITOR.instances.editor1.on("change", function () {
+      console.log(this.getData());
+      document.getElementById("myText").value = this.getData();
+      document.getElementById("demo").innerHTML = this.getData();
+
+   });
+   function SetContents() {
+
+      var oEditor = CKEDITOR.instances.editor1;
+      var t = document.getElementById('myText').value;
+      if (oEditor && t) {
+         oEditor.setData(t);
+
+      }
+
+   }
+</script>
+
+</html>
