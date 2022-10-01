@@ -1,4 +1,8 @@
-<!DOCTYPE html>
+---
+title: Thêm bài viết
+permalink: /them-bai-viet
+---
+
 <html>
 
 <head>
