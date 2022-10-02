@@ -27,12 +27,13 @@ Street style đã len vào mọi ngóc ngách của làng thời trang hiện đ
 
 <p style="text-align:center; ">
   Nghiêm túc rồi, bây giờ bạn có thể lột xác với các động rác uyển chuyển của tay và chân như: tay chống eo, tay đưa lên làm như hất tóc để tạo và nhấn các đường cong.<br>Thay vì đứng giơ 2 ngón tay quá đơn giản và không có điểm nhấn, bạn hãy đưa một chân sang một cách tự nhiên, một tay ép vào thân mình, tay kia giơ thẳng lên và "Say hi".<br>
-
-{% include responsive-image.html path='assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-02.jpg' alt="Đừng đứng thẳng như trời trồng như vậy chứ :'"%}
-
 </p>
+
+{% include responsive-image.html path='assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-02.jpg' NAME_PIC="chup-style-life-dang-02.jpg" alt="Đừng đứng thẳng như trời trồng như vậy chứ :'" %}
+
 <p style="text-align:center; ">
-  {% include responsive-image.html path="assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-01.jpg" alt="Đừng đứng im"%}
+  {% include responsive-image.html path="assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-01.jpg" alt="Đừng đứng im" NAME_PIC="chup-style-life-dang-01.jpg" %}
+
   Đừng chỉ đứng im, hãy bước đi thật tự nhiên để bức ảnh trông sống động hơn.
 </p>
 <p>
@@ -41,11 +42,12 @@ Hãy thoải mái nhất có thể, thả lỏng cơ thể, hai cánh tay và ch
 <a name="tip2"></a>
 <h3>2. Thả lỏng 2 tay</h3>
   <p style="text-align:center; ">
-    {% include responsive-image.html path="assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-03.jpg" alt="1,2, 3 xoay nào" %}
+    {% include responsive-image.html path="assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-03.jpg" alt="1,2, 3 xoay nào" NAME_PIC="chup-style-life-dang-03.jpg" %}
+
   </p>
   <p style="text-align:center; ">
 
-        {% include responsive-image.html path=' assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-04.jpg' alt= "Đừng chỉ đặt tay lên đùi" %}
+        {% include responsive-image.html path='assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-04.jpg' alt= "Đừng chỉ đặt tay lên đùi" NAME_PIC="chup-style-life-dang-04.jpg" %}
 
      Ngồi nghiêng một cách nhàm chán, để thu hút ánh nhìn, bạn nên đưa một chân ra trước, đẩy hông sang một bên để trông "xì tai" hơn.<br>
         Không cần phải ngồi thu người, khép nép, hãy tạo điểm nhấn bằng cách bắt chéo chân, tay đặt lên đầu gối, chống cằm
@@ -61,8 +63,8 @@ Hãy thoải mái nhất có thể, thả lỏng cơ thể, hai cánh tay và ch
 <a name="tip4"></a>
 <h3>4. Thêm phụ kiện, thêm tự tin</h3>
   <p style="text-align:center; ">
-    {% include responsive-image.html path="assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-07.jpeg" alt="Nghĩ đến những câu chuyện thú vị"%}
-    Cầm một cành hoa, một chén trà và nghĩ đến những câu chuyện thú vị: Đây là cách giúp gương mặt và nụ cười của bạn trở nên tự nhiên hơn.
+  <img  src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-07.jpeg" alt="Nghĩ đến những câu chuyện thú vị"><br>
+  Cầm một cành hoa, một chén trà và nghĩ đến những câu chuyện thú vị: Đây là cách giúp gương mặt và nụ cười của bạn trở nên tự nhiên hơn.
   </p>
 
 <a name="tip5"></a>
@@ -76,44 +78,6 @@ Khó tập trung vừa mặt, vừa tay, vừa người nên mình chỉ nhón b
 </p>
 <!--Lưu ý-->
 <h3><strong>Tổng kết</strong></h3><ul>	<li>Nghĩ đến những c&acirc;u chuyện th&uacute; vị: Đ&acirc;y l&agrave; c&aacute;ch gi&uacute;p gương mặt v&agrave; nụ cười của bạn trở n&ecirc;n tự nhi&ecirc;n hơn. Nh&agrave; tạo h&igrave;nh thời trang Anna Naphtali đ&atilde; từng chia sẻ kinh nghiệm:<em>&nbsp;&quot; Giả vờ cười khi chụp ảnh chỉ khiến gương mặt của bạn bị đơ, c&aacute;ch tốt nhất l&agrave; nghĩ đến chuyện&nbsp;cười, những t&igrave;nh huống&nbsp;vui vẻ, hài hước để nụ cười ấm &aacute;p v&agrave; tự nhi&ecirc;n nhất&quot; .</em></li>	<li>Thẳng lưng khi ngồi: Việc ngồi thẳng lưng, mở rộng cơ thể, duỗi ch&acirc;n tay sẽ gi&uacute;p cho đường cong cơ thể của bạn hiện r&otilde; hơn, v&oacute;c d&aacute; ng cũng trở n&ecirc;n mảnh mai hơn.</li>	<li>&Aacute;nh s&aacute; ng rất cần thiết: Theo kinh nghiệm của nhiếp ảnh gia chuy&ecirc;n chụp ch&acirc; n dung Aaron Gil l&agrave; khi chụp h&igrave;nh phải t&igrave;m ra được điểm s&aacute;ng nổi bật tr&ecirc; n gương mặt, tr&aacute;nh những g&oacute;c chụp c&oacute; v&ugrave;ng tối v&igrave; sẽ khiến gương mặt của bạn tối đi.</li>	<li>H&atilde;y đặt tay l&ecirc;n eo: D&ugrave; bạn c&oacute; eo bánh m&igrave; hay eo thon th&igrave; cũng n&ecirc;n tạo điểm nhấn bằng c&aacute;ch đặt tay l&ecirc;n eo. Ngo&agrave; i ra tư thế n&agrave;y c&agrave; ng gi&uacute;p bạn tự nhi&ecirc;n hơn thay v&igrave; để th&otilde;ng hai tay trong tư thế ch&agrave;o cờ.</li>	<li>Đừng bao giờ chụp ảnh l&uacute;c giữa trưa hoặc khi mặt trời đ&atilde; tắt:&nbsp; V&iacute; dụ, h&atilde;y tận dụng thời gian ăn nhẹ để nghỉ ngơi (thời gian c&oacute; b&oacute;ng r&acirc; m từ l&uacute;c 1h chiều), tập trung chụp ảnh v&agrave; o cuối bữa tiệc tầm 4-5 giờ chiều, khi mặt trời dần lặn l&agrave; l&uacute;c bạn c&oacute; thể chụp những tấm h&igrave; nh ưng &yacute; nhất.&nbsp;</li><li>Nhớ đừng chụp nheo mắt nhé 😵</li>	</ul><p><strong>Lưu &yacute;:</strong> Mặc d&ugrave; những mẹo n&agrave;y sẽ cải thiện đ&aacute;ng kể ảnh ch&acirc;n dung ngo&agrave;i trời của bạn, nhưng bạn c&oacute; thể c&oacute; được những bức ảnh đẹp hơn nữa nếu bạn thực sự hiểu r&otilde; về m&aacute;y ảnh của m&igrave;nh. Đọc hướng dẫn sử dụng trước khi dùng. Kh&ocirc;ng d&ugrave;ng chế độ tự động &ldquo; Tự động&rdquo;.. H&atilde;y thử bắt đầu bằng &ldquo; P&rdquo; . Hơn hết, h&atilde;y đọc blog của m&igrave;nh mỗi ng&agrave;y để biết th&ecirc;m một số mẹo hoặc ngắm ảnh đẹp nh&eacute; :3</p>
-
-<script>
-function allSrc() {
-  var imgs = document.images||[];
-  for(let i =0; i<imgs.length; i++){
-      const idImage = imgs[i].id;
-      const substring = "imagesblog";
-      console.log("Tim thay anh:", idImage);
-      if(idImage.includes(substring)){
-        let urlOld = imgs[i].src;
-        let re = /.jpg|.png|.jpeg/gi;
-        let urlNew = urlOld.replace(re, '.webp');
-        if(checkImage(urlNew,idImage,urlNew) ==true){
-          console.log("Find item:",urlNew);
-        }
-      }
-  }
-}
-allSrc();
-function checkImage(url, idImg, urlNew) {
-  var request = new XMLHttpRequest();
-  let checkImg = false;
-  request.open("GET", url, true);
-  request.send();
-  request.onload = function() {
-    status = request.status;
-    if (request.status == 200) //if(statusText == OK)
-    {
-      document.getElementById(idImg).src= urlNew;
-      checkImg =  true;
-    } else {
-      checkImg = false;
-    }
-
-  }
-  return checkImg;
-};
-</script>
 
 <style>
 .box {
