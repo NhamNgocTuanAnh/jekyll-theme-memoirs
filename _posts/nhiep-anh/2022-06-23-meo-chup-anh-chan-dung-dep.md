@@ -28,12 +28,9 @@ Street style đã len vào mọi ngóc ngách của làng thời trang hiện đ
 <p style="text-align:center; ">
   Nghiêm túc rồi, bây giờ bạn có thể lột xác với các động rác uyển chuyển của tay và chân như: tay chống eo, tay đưa lên làm như hất tóc để tạo và nhấn các đường cong.<br>Thay vì đứng giơ 2 ngón tay quá đơn giản và không có điểm nhấn, bạn hãy đưa một chân sang một cách tự nhiên, một tay ép vào thân mình, tay kia giơ thẳng lên và "Say hi".<br>
 </p>
-
-{% include responsive-image.html path='assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-02.jpg' NAME_PIC="chup-style-life-dang-02.jpg" alt="Đừng đứng thẳng như trời trồng như vậy chứ :'" %}
-
+  <img  src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-02.jpg" alt="Đừng đứng thẳng như trời trồng như vậy chứ"><br>
 <p style="text-align:center; ">
-  {% include responsive-image.html path="assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-01.jpg" alt="Đừng đứng im" NAME_PIC="chup-style-life-dang-01.jpg" %}
-
+  <img  src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-01.jpg" alt="Đừng đứng im"><br>
   Đừng chỉ đứng im, hãy bước đi thật tự nhiên để bức ảnh trông sống động hơn.
 </p>
 <p>
@@ -42,13 +39,11 @@ Hãy thoải mái nhất có thể, thả lỏng cơ thể, hai cánh tay và ch
 <a name="tip2"></a>
 <h3>2. Thả lỏng 2 tay</h3>
   <p style="text-align:center; ">
-    {% include responsive-image.html path="assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-03.jpg" alt="1,2, 3 xoay nào" NAME_PIC="chup-style-life-dang-03.jpg" %}
-
+  <img  src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-03.jpg" alt="Nghĩ đến những câu chuyện thú vị"><br>
   </p>
   <p style="text-align:center; ">
 
-        {% include responsive-image.html path='assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-04.jpg' alt= "Đừng chỉ đặt tay lên đùi" NAME_PIC="chup-style-life-dang-04.jpg" %}
-
+  <img  src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-04.jpg" alt="Nghĩ đến những câu chuyện thú vị"><br>
      Ngồi nghiêng một cách nhàm chán, để thu hút ánh nhìn, bạn nên đưa một chân ra trước, đẩy hông sang một bên để trông "xì tai" hơn.<br>
         Không cần phải ngồi thu người, khép nép, hãy tạo điểm nhấn bằng cách bắt chéo chân, tay đặt lên đầu gối, chống cằm
   </p>
