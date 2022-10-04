@@ -81,6 +81,46 @@ toc: true
 -	Tải file cài đặt sqldeveloper và giải nén file
 {% responsive_image path:assets/images/laptrinh/lifray/setup/jdkseting28.jpg %}
 -	Chạy file sqldeveloper
+{% responsive_image path:assets/images/laptrinh/lifray/setup/jdkseting29.jpg %}
+-	Gioa điện sqldeveloper
+Mở kết nối tới tài khoản quản trị SYS
+-	Mở sqlplus
+{% responsive_image path:assets/images/laptrinh/lifray/setup/jdkseting30.jpg %}
+-	Chạy câu lệnh: sqlplus / as sysdba
+{% responsive_image path:assets/images/laptrinh/lifray/setup/jdkseting31.jpg %}
+-	Tiếp tục chạy câu lệnh: connect /as sysdba  để kết nối tới tài khoản quản trị
+{% responsive_image path:assets/images/laptrinh/lifray/setup/jdkseting32.jpg %}
+-	Tiếp tục chạy câu lệnh: alter user sys identified by (password);( đổi mật khẩu sys)
+-	Connect tới tài khoản quản trị sys
+-	Khởi động sqldeveloper
+{% responsive_image path:assets/images/laptrinh/lifray/setup/jdkseting33.jpg %}
+{% responsive_image path:assets/images/laptrinh/lifray/setup/jdkseting34.jpg %}
+
+1.	Tên (tùy ý)
+2.	Username: sys
+3.	Mật khẩu
+4.	Role ( sysdba)
+5.	Local máy chủ cài database
+6.	 Port
+7.	Chọn Sevice name: điền orcl
+-	Tạo schemas
+alter session set "_ORACLE_SCRIPT"=true;
+ CREATE USER (tên user) IDENTIFIED BY (mật khẩu);
+GRANT CONNECT,RESOURCE,DBA TO (tên user);
+GRANT CREATE SESSION, GRANT ANY PRIVILEGE TO (tên user);
+GRANT UNLIMITED TABLESPACE TO (tên user);
+
+•	Chạy đồng thời các lệnh trên
+Kết nối tới schemas vừa tạo
+{% responsive_image path:assets/images/laptrinh/lifray/setup/jdkseting35.jpg %}
+1.	Tên database
+2.	Tên user mới tạo
+3.	Password
+4.	Chọn default
+5.	Local máy chủ cài database
+6.	Port
+7.	Chọn service name: điền orcl
+Bấm connect
 
 <script>
     var downloadButton = document.getElementById("download");
