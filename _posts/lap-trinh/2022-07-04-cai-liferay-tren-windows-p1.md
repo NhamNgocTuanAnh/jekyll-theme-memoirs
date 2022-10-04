@@ -94,13 +94,15 @@ toc: true
   <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting16.jpg" alt="Cài đặt JDK"><br>
 </p>
 -	Chạy file setup
-{% responsive_image path:assets/images/laptrinh/lifray/setup/<p style="text-align:center; ">
+<p style="text-align:center; ">
   <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting17.jpg" alt="Cài đặt JDK"><br>
 </p><p style="text-align:center; ">
   <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting18.jpg" alt="Cài đặt JDK"><br>
 </p>
 -	Kích chọn Next liên tục  đến mà hình sau
-{% responsive_image path:assets/images/laptrinh/lifray/setup/jdkseting19.jpg %}
+<p style="text-align:center; ">
+  <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting19.jpg" alt="Cài đặt JDK"><br>
+</p>
 -	chọn Next đến màn hình tiếp theo
 <p style="text-align:center; ">
   <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting20.jpg" alt="Cài đặt JDK"><br>
