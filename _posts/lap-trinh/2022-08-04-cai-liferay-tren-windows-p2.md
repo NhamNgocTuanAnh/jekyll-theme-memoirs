@@ -25,10 +25,7 @@ toc: true
 </style>
 
 <h3>Phần 3: Cài đặt Liferay Portal</h3>
-Trước hết, máy chủ phải cài đặt sẵn Oracle JDK phiên bản 1.8 trở lên.
-Yêu cầu phần cứng tối thiểu:
--	Ổ cứng còn trống ít nhất 5Gb.
--	Để chạy tốt RAM tối thiểu nên >= 4Gb
+<p>Trước hết, m&aacute;y chủ phải c&agrave;i đặt sẵn Oracle JDK phi&ecirc;n bản 1.8 trở l&ecirc;n.</p><p>Y&ecirc;u cầu phần cứng tối thiểu:</p><ul>	<li>Ổ cứng c&ograve;n trống &iacute;t nhất 5Gb.</li>	<li>&nbsp;Để chạy tốt RAM tối thiểu n&ecirc;n &gt;= 4Gb</li></ul>
 <h4>3.1. Cấu hình kết nối CSDL</h4>
 - Giải nén thư mục cài đặt Liferay
 <p style="text-align:center; "><img  src="../../assets/images/laptrinh/lifray/setup/jdkseting36.jpg" alt="Cài đặt JDK"><br></p>
