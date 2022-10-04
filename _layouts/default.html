@@ -18,6 +18,10 @@
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 
 <body onload="detectAdBlock()" class="preloading">
+
+    <div class="loader">
+        <span class="fas fa-spinner xoay icon"></span>
+    </div>
     <!-- defer loading of font and font awesome -->
     <noscript id="deferred-styles">
         <link href="https://fonts.googleapis.com/css?family=Sen:400,700&display=swap" rel="stylesheet">
