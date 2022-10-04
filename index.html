@@ -8,15 +8,9 @@ title: Home
 <div class="blog-grid-container">
 
     {% for post in paginator.posts %}
-        {% if post.pinned %}
-            {% include postbox.html %}
-        {% endif %}
-    {% endfor %}
 
-    {% for post in paginator.posts %}
-        {% unless post.pinned %}
-            {% include postbox.html %}
-        {% endunless %}
+        {% include postbox.html %}
+
     {% endfor %}
 
 </div>
