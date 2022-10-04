@@ -31,13 +31,9 @@ Yêu cầu phần cứng tối thiểu:
 -	Để chạy tốt RAM tối thiểu nên >= 4Gb
 <h4>3.1. Cấu hình kết nối CSDL</h4>
 - Giải nén thư mục cài đặt Liferay
-<p style="text-align:center; ">
-  <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting36.jpg" alt="Cài đặt JDK"><br>
-</p>
+<p style="text-align:center; "><img  src="../../assets/images/laptrinh/lifray/setup/jdkseting36.jpg" alt="Cài đặt JDK"><br></p>
 Tạo file portal-ext.properties trong thư mục liferay-ce-portal trong đường dẫn: \liferay-ce-portal-tomcat-7.3.7-ga8-20210610183559721\liferay-ce-portal-7.3.7-ga8
-<p style="text-align:center; ">
-  <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting37.jpg" alt="Cài đặt JDK"><br>
-</p>
+<p style="text-align:center; "><img  src="../../assets/images/laptrinh/lifray/setup/jdkseting37.jpg" alt="Cài đặt JDK"><br></p>
 -	Mở file portal-ext.properties: thêm cấu hình kết nối CSDL
 <div><blockquote><p style="margin-left:76px; margin-right:76px"><span style="font-size:14pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><em>jdbc.default.driverClassName=oracle.jdbc.OracleDriver</em></span></span></p><p style="margin-left:76px; margin-right:76px"><span style="font-size:14pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><em>jdbc.default.username=USER_NAME</em></span></span></p><p style="margin-left:76px; margin-right:76px"><span style="font-size:14pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><em>jdbc.default.password=PASSWORD</em></span></span></p><p style="margin-left:76px; margin-right:76px"><span style="font-size:14pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><em>jdbc.default.url=jdbc:oracle:thin:@</em><em><span style="color:#222222">localhost</span></em><em>:1521:orcl</em></span></span></p><p style="margin-left:76px; margin-right:76px">&nbsp;</p><p style="margin-left:76px; margin-right:76px"><span style="font-size:14pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>jdbc.default.username</strong><span dir="ltr" lang="VI">: t&ecirc;n database</span></span></span></p><p style="margin-left:76px; margin-right:76px"><span style="font-size:14pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span dir="ltr" lang="VI">jdbc.default.password</span></strong><span dir="ltr" lang="VI">: mật khẩu</span></span></span></p><p style="margin-left:76px; margin-right:76px"><span style="font-size:14pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span dir="ltr" lang="VI">localhost: </span></strong><span dir="ltr" lang="VI">địa chỉ ip server c&agrave;i đặt database</span></span></span></p></blockquote></div>
 -	Một vài csdl được hỗ trợ trong liferay<br>
@@ -64,9 +60,7 @@ jdbc.default.password=PASSWORD<br>
   <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting38.jpg" alt="Cài đặt JDK"><br>
 </p>
 -	Add thư viện liferay-portal-database-all-in-one-support-1.2.1 vào đường dẫn: …\liferay-ce-portal-tomcat-7.3.7-ga8-20210610183559721\liferay-ce-portal-7.3.7-ga8\tomcat-9.0.43\webapps\ROOT\WEB-INF\lib
-<p style="text-align:center; ">
-  <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting39.jpg" alt="Cài đặt JDK"><br>
-</p>
+<p style="text-align:center; "><img  src="../../assets/images/laptrinh/lifray/setup/jdkseting39.jpg" alt="Cài đặt JDK"><br></p>
 <h4>3.4. Chạy server</h4>
 Có hai cách chạy server
 -	Sử dụng file startup.bat
