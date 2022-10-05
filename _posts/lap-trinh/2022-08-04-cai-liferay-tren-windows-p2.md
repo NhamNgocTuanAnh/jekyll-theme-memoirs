@@ -35,8 +35,15 @@ Tạo file portal-ext.properties trong thư mục liferay-ce-portal trong đư�
 
 {% include lazyload.html image_src="../../assets/images/laptrinh/lifray/setup/jdkseting37.jpg" image_alt="Cài đặt JDK" image_title="Cài đặt JDK" %}
 
--	Mở file portal-ext.properties: thêm cấu hình kết nối CSDL
-<div><blockquote><p style="margin-left:76px; margin-right:76px"><span style="font-size:14pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><em>jdbc.default.driverClassName=oracle.jdbc.OracleDriver</em></span></span></p><p style="margin-left:76px; margin-right:76px"><span style="font-size:14pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><em>jdbc.default.username=USER_NAME</em></span></span></p><p style="margin-left:76px; margin-right:76px"><span style="font-size:14pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><em>jdbc.default.password=PASSWORD</em></span></span></p><p style="margin-left:76px; margin-right:76px"><span style="font-size:14pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><em>jdbc.default.url=jdbc:oracle:thin:@</em><em><span style="color:#222222">localhost</span></em><em>:1521:orcl</em></span></span></p><p style="margin-left:76px; margin-right:76px">&nbsp;</p><p style="margin-left:76px; margin-right:76px"><span style="font-size:14pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong>jdbc.default.username</strong><span dir="ltr" lang="VI">: t&ecirc;n database</span></span></span></p><p style="margin-left:76px; margin-right:76px"><span style="font-size:14pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span dir="ltr" lang="VI">jdbc.default.password</span></strong><span dir="ltr" lang="VI">: mật khẩu</span></span></span></p><p style="margin-left:76px; margin-right:76px"><span style="font-size:14pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><strong><span dir="ltr" lang="VI">localhost: </span></strong><span dir="ltr" lang="VI">địa chỉ ip server c&agrave;i đặt database</span></span></span></p></blockquote></div>
+-	Mở file portal-ext.properties: thêm cấu hình kết nối CSDL<br>
+<b>OracleSQL:</b><br>
+jdbc.default.driverClassName=oracle.jdbc.OracleDriver<br>
+jdbc.default.username=USER_NAME<br>
+jdbc.default.password=PASSWORD<br>
+jdbc.default.url=jdbc:oracle:thin:@localhost:1521:orcl<br>
+jdbc.default.username: tên database<br>
+jdbc.default.password: mật khẩu<br>
+localhost: địa chỉ ip server cài đặt database<br>
 -	Một vài csdl được hỗ trợ trong liferay<br>
 <b>MySQL:</b><br>
 jdbc.default.driverClassName=com.mysql.jdbc.Driver<br>
