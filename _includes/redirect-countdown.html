@@ -1,0 +1,51 @@
+{% if include.redirect_src %}
+
+<body class="preloading">
+    <div class="loader"><span class="fas fa-spinner xoay icon"></span></div>
+    <div class='row mt-5'>
+        <button class="btn" onclick="countDownActive()">
+            <span id="timer-count-redirect">{{include.redirect_title}}</span>
+        </button>
+        <button class="btn ml-3" id="welcomeDiv" style="display:none;" onclick="cancelCountDown()">Hủy</button>
+    </div>
+
+</body>
+{% endif %}
+
+
+<script type="text/javascript">
+    var countRedirect = 10; // Timer
+    let isCountDown = true;
+    var redirect = "{{include.redirect_src}}"; // Target URL
+    var timerCountRedirect = document.getElementById("timer-count-redirect"); // Timer ID
+    function cancelCountDown() {
+        isCountDown = false;
+        console.log("Khóa chuyển hướng");
+        timerCountRedirect.innerHTML = "{{include.redirect_title}}";
+        document.getElementById('welcomeDiv').style.display = "none";
+        document.getElementById('welcomeDivdiv').style.display = "none";
+    }
+    function countDownActive() {
+        isCountDown = true;
+        countDown();
+    }
+    function countDown() {
+        console.log("Đang chuyển hướng");
+        document.getElementById('welcomeDiv').style.display = "block";
+        document.getElementById('welcomeDivdiv').style.display = "block";
+
+        if (countRedirect > 0 && isCountDown) {
+            countRedirect--;
+            timerCountRedirect.innerHTML = "Chuyển hướng sau " + countRedirect + " giây."; // Timer Message
+            setTimeout("countDown()", 1000);
+
+        } else if (!isCountDown) {
+            timerCountRedirect.innerHTML = "{{include.redirect_title}}";
+            document.getElementById('welcomeDiv').style.display = "none";
+        }
+        else {
+            window.location.href = redirect;
+        }
+    }
+
+</script>

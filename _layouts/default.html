@@ -7,9 +7,6 @@
 	 bottom: 3rem;
 	 right: 3rem;
 	 box-shadow: 0 0 14px -5px rgba(0, 0, 0, 0.5);
-	 border-radius: 100%;
-	 width: 80px;
-	 height: 80px;
 	 display: flex;
 	 font-family: "Arial";
 	 align-items: center;
@@ -34,10 +31,8 @@
     animation: glowing 20s linear infinite;
     opacity: 0;
     transition: opacity .3s ease-in-out;
-    border-radius: 100%;
+
 }
-
-
 
 #scrollToTop:active:after {
     background: transparent;
@@ -53,9 +48,6 @@
     position: absolute;
     left: 0;
     top: 0;
-    border-radius: 100%;
-    width: 80px;
-    height: 80px;
 
 }
 
@@ -197,42 +189,20 @@
            // $('.load').delay(1000).fadeOut('fast');
         $('.loader').delay(1000).fadeOut('fast');
      });</script>
-     <script>
-        // Get the button
-        let mybutton = document.getElementById("myBtn");
 
-        // When the user scrolls down 20px from the top of the document, show the button
-        window.onscroll = function() {scrollFunction()};
-
-        function scrollFunction() {
-          if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-            mybutton.style.display = "block";
-          } else {
-            mybutton.style.display = "none";
-          }
-        }
-
-        // When the user clicks on the button, scroll to the top of the document
-        function topFunction() {
-          document.body.scrollTop = 0;
-          document.documentElement.scrollTop = 0;
-        }
-        </script>
 
     <script>
         $(window).on('scroll',function() {
-  if (window.scrollY > window.outerHeight) {
-    $('#scrollToTop').addClass('active')
-  } else {
-    $('#scrollToTop').removeClass('active')
-  }
-})
+        if (window.scrollY > window.outerHeight) {
+        $('#scrollToTop').addClass('active')
+        } else {
+        $('#scrollToTop').removeClass('active')
+        }
+        })
 
-$('#scrollToTop').on('click',function() {
-  $("html, body").animate({ scrollTop: 0 }, 500);
-})
-
-    </script>
+        $('#scrollToTop').on('click',function() {
+        $("html, body").animate({ scrollTop: 0 }, 500);
+        })</script>
 
 </body>
 </body>

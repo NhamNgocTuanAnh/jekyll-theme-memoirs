@@ -119,6 +119,7 @@ Thêm server liferay
 <center><a class="button" href="https://drive.google.com/file/d/1xP4kCtnGs1204WWUI0bWXO3RYEZcknJA/view?usp=sharing" id="download"><span class="circle" aria-hidden="true"><span class="icon arrow"></span></span> Click To Download </a>
 <button class="button" id="btn"><span class="circle" aria-hidden="true"><span class="icon arrow"></span></span> Download </button></center><hr>
 
+<!-- {% include redirect-countdown.html redirect_src="https://drive.google.com/file/d/1xP4kCtnGs1204WWUI0bWXO3RYEZcknJA/view?usp=sharing" redirect_title="WEb hay" %} -->
 
 <script>
     var downloadButton = document.getElementById("download");
