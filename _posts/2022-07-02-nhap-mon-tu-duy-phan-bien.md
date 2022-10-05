@@ -6,6 +6,7 @@ categories:
 - Suy ngẫm
 tags:
 - phản biện
+lazyimages: "enabled"
 date: '2022-06-01'
 image: assets/images/4148284_Hoang-duong-anh-comment-facebook.jpg
 isGithubComments: false

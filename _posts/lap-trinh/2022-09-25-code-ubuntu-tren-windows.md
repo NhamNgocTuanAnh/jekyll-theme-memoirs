@@ -2,6 +2,7 @@
 layout: post
 title:  "WSL2. Code ubuntu trên windows - Lạc vào đồng cỏ xanh"
 author: sal
+lazyimages: "enabled"
 categories: [ Lập trình ]
 tags: [ lập trình ]
 image: assets/images/laptrinh/cai-dat-linux-trong-window.webp

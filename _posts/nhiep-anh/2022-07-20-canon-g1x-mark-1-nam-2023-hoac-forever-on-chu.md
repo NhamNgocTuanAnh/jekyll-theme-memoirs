@@ -2,6 +2,7 @@
 layout: post
 title: 'Canon G1X (mark 1) năm 2023 hoặc forever – ổn chứ??'
 author: sal
+lazyimages: "enabled"
 categories: [Nhiếp ảnh]
 tags: [đánh giá, nhiếp ảnh]
 image: assets/images/nhiepanh/gioi-thieu-canon-g1x.webp

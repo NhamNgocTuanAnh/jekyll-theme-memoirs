@@ -2,6 +2,7 @@
 layout: post
 title:  "Thức ăn thay đổi tính cách"
 author: sal
+lazyimages: "enabled"
 categories: [ Ăn uống, Sức khỏe ]
 tags: [ Ăn, Dinh dưỡng ]
 image: assets/images/odFocus_FoodGuide.webp
@@ -12,7 +13,7 @@ rating: 4.5
 
 >Albert Einstein ăn chay 100%; \\
 Giống Pitago và Newton, Leonardo da Vinci phần lớn cuộc đời ăn chay (thảng hoặc có ăn cá); \\
-Napoleon thích ăn trứng gà, salát, mỳ gà, thịt bò, thịt cừu và gia cầm. 
+Napoleon thích ăn trứng gà, salát, mỳ gà, thịt bò, thịt cừu và gia cầm.
 
 >Ăn nhiều thịt mầu đỏ và fast food có thể trở nên hung hãn. \\
 Nếu bạn là một người nhút nhát. Tại sao bạn không thử tăng liều lượng những thực phẩm này lên. Một miếng hotdog có vẻ không đủ đâu, gấp 3 đi. Thịt nướng, thịt rán đang trên chảo kìa, gắp thêm, gắp thêm đi. Nhưng hãy nhớ rằng thịt mầu đỏ và fast food rất không tốt cho sức khỏe bạn nên hạn chế ;>

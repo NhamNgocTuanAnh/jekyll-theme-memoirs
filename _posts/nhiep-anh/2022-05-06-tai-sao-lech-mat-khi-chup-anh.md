@@ -2,6 +2,7 @@
 layout: post
 title: 'Khắc Phục Mặt Lệch Khi Chụp Ảnh  - [Cẩm nang nhiếp ảnh]'
 author: sal
+lazyimages: "enabled"
 categories: [Nhiếp ảnh]
 tags: [tips chụp ảnh]
 image: assets/images/nhiepanh/doituong/matlech-av.jpg

@@ -2,6 +2,7 @@
 layout: post
 title:  "Chuyện ăn gì"
 author: sal
+lazyimages: "enabled"
 categories: [ Sức khỏe ]
 tags: [ Ăn, Đồ ăn, Dinh dưỡng ]
 image: assets/images/thuc-pham-tot.webp
@@ -9,8 +10,8 @@ rating: 4.5
 comments: true
 ---
 
-> Chúng ta là những gì mà chúng ta ăn vào. 
-Thực vậy, thực phẩm có tác động trực tiếp tới sự hoạt động của não bộ chúng ta. Hơn nữa, chúng còn ảnh hưởng tới cảm xúc, độ căng thẳng,... Vậy, hãy đảm bảo bạn biết chắc chắn nên ăn gì và khi nào. 
+> Chúng ta là những gì mà chúng ta ăn vào.
+Thực vậy, thực phẩm có tác động trực tiếp tới sự hoạt động của não bộ chúng ta. Hơn nữa, chúng còn ảnh hưởng tới cảm xúc, độ căng thẳng,... Vậy, hãy đảm bảo bạn biết chắc chắn nên ăn gì và khi nào.
 
 ### ***Bữa sáng***
 
@@ -25,7 +26,7 @@ Phải cung cấp năng lượng cho cả ngày!\\
 Phải ...
 
 Thật cám dỗ phải không?!\\
-Nhưng đừng, "Căng da bụng, chùng da mắt". Ăn nhiều vào giờ ăn trưa có thể khiến bạn cảm thấy uể oải hơn nữa có thể gây ra tình trạng rối loạn tinh thần! 
+Nhưng đừng, "Căng da bụng, chùng da mắt". Ăn nhiều vào giờ ăn trưa có thể khiến bạn cảm thấy uể oải hơn nữa có thể gây ra tình trạng rối loạn tinh thần!
 
 Bạn nên ăn Bánh mỳ, ngũ cốc hoặc thịt, cá, trứng với salad.\\
 Có một lưu ý nhỏ tôi không khuyên bạn ăn Protein với tinh bột. Tại sao không nên ăn tinh bột với protein
@@ -40,6 +41,6 @@ Hãy để ý tới hơi thở
 
 ### ***Bữa tối***
 
-Đến giờ ăn tối rồi! Vậy là thời khắc trọng đại đã đến! Bạn đã cẩn thận lựa chọn những gì bạn đã ăn cả ngày và hơi thở của bạn thơm hơn không khí… bạn nên gọi món gì? 
+Đến giờ ăn tối rồi! Vậy là thời khắc trọng đại đã đến! Bạn đã cẩn thận lựa chọn những gì bạn đã ăn cả ngày và hơi thở của bạn thơm hơn không khí… bạn nên gọi món gì?
 
 Giờ nếu tôi nói rằng thời điểm tối là thời điểm cơ thể nghỉ ngơi, tại sao bạn không cho dạ dày bạn nghỉ ngơi thì thật có lỗi =)). Nhưng thật vậy, thức ăn cần đến 8 tiếng để tiêu hóa hết trong cơ thể. Vậy

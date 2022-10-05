@@ -1,5 +1,6 @@
 ---
 layout: post
+lazyimages: "enabled"
 title:  "Nhận Diện Cảm Xúc Khuôn Mặt Với Python, Keras, Cython và OpenCV.(Part 3) Tiến hành Training model - [Học máy]"
 author: sal
 categories: [ Machine learning, học máy ]

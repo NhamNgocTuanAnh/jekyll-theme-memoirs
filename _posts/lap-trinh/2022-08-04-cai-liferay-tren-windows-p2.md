@@ -2,6 +2,7 @@
 layout: post
 title:  "Tài liệu cài đặt Liferay phần 2"
 author: sal
+lazyimages: "enabled"
 categories: [ Lập trình, Liferay ]
 tags: [ lập trình, liferay ]
 image: assets/images/laptrinh/lifray/setup/liferay-avt.webp

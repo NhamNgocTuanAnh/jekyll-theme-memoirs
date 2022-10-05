@@ -4,6 +4,7 @@ title: 'Công kích cá nhân'
 author: sal
 categories: [ Suy ngẫm ]
 tags: [ phản biện ]
+lazyimages: "enabled"
 image: assets/images/phan-bien-viet-avt.jpg
 rating: 4.5
 isGithubComments: false

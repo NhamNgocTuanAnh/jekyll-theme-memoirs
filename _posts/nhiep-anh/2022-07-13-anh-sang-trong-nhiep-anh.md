@@ -2,6 +2,7 @@
 layout: post
 title: 'Ánh sáng trong nhiếp ảnh - [Cẩm nang nhiếp ảnh]'
 author: sal
+lazyimages: "enabled"
 categories: [Nhiếp ảnh]
 tags: [ánh sáng]
 image: assets/images/nhiepanh/anhsang/anhsang-cover.webp

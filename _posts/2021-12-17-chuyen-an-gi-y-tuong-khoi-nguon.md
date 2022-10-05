@@ -2,6 +2,7 @@
 layout: post
 title:  "2019 - Nhân tố Enzyme - Ý tưởng khởi nguồn"
 author: sal
+lazyimages: "enabled"
 categories: [ Sức khỏe ]
 tags: [ Ăn, Đồ ăn, Dinh dưỡng ]
 image: assets/images/thuc-pham-tot.webp

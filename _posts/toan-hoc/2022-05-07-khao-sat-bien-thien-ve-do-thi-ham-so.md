@@ -6,6 +6,7 @@ categories: [ Toán học ]
 tags: [ Toán cao cấp ]
 image: assets/images/thay-tan.webp
 # rating: 4.5
+lazyimages: "enabled"
 comments: false
 permalink: toan-hoc/khao-sat-bien-thien-ve-do-thi-ham-so
 header-includes:

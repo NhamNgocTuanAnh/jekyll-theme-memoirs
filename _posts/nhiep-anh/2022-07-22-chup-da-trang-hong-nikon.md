@@ -2,6 +2,7 @@
 layout: post
 title: 'Chụp da trắng hồng nikon  - [Cẩm nang nhiếp ảnh]'
 author: sal
+lazyimages: "enabled"
 categories: [Nhiếp ảnh]
 tags: [tips chụp ảnh]
 image: assets/images/nhiepanh/doituong/cai-dat-picture-control-nikon-chan-dung.webp

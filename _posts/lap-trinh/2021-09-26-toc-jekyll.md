@@ -11,6 +11,7 @@ permalink: lap-trinh/jekyll-toc
 excerpt: Tại sao lại dùng WSL, Nó có lợi ích gì tới bát cơm của bạn
 description: Tại sao lại dùng WSL, Nó có lợi ích gì tới bát cơm của bạn
 toc: false
+lazyimages: "enabled"
 ---
 
 <h3>Mục lục</h3>

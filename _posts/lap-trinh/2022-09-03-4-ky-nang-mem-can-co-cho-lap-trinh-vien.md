@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "4 kỹ năng mềm cần có cho lập trình viên"
+lazyimages: "enabled"
 author: sal
 categories: [ Lập trình, Đời thường ]
 tags: [ Đời thường, Lập trình ]
