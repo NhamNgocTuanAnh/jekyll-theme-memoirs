@@ -137,9 +137,9 @@ Mở kết nối tới tài khoản quản trị SYS
   <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting31.jpg" alt="Cài đặt JDK"><br>
 </p>
 -	Tiếp tục chạy câu lệnh: connect /as sysdba  để kết nối tới tài khoản quản trị
-<p style="text-align:center; ">
-  <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting32.jpg" alt="Cài đặt JDK"><br>
-</p>
+
+{% include lazyload.html image_src="../../assets/images/laptrinh/lifray/setup/jdkseting32.jpg" image_alt="Cài đặt JDK" image_title="Cài đặt JDK" %}
+
 -	Tiếp tục chạy câu lệnh: alter user sys identified by (password);( đổi mật khẩu sys)
 -	Connect tới tài khoản quản trị sys
 -	Khởi động sqldeveloper

@@ -56,7 +56,7 @@ Có nhiều trường hợp, những người bị **tổn thương cảm xúc**
 <a name="nguyennahn"></a>
 ### 4. Nguyên nhân
 
-{% include responsive-image.html path="assets/images/con-nha-ngta.jpg" alt="Con n nhà người ta" NAME_PIC="con-nha-ngta.jpg" %}
+{% include responsive-image.html path="assets/images/con-nha-ngta.jpg" alt="Con nhà người ta" NAME_PIC="con-nha-ngta.jpg" %}
 
 Bạn đã từng nghe tới câu nói này chưa. Nếu rồi thì chúc mừng bạn - Bạn có một tuổi thơ tươi đẹp đó. "Bằng tuổi mày, người ta làm được abc xyz.", "Mày nhìn con bác B chưa, đạt điểm mười suốt đó.", "Tao nhặt được mày từ bãi rác", ...vv.
 Và đó là **bạo hành ngôn ngữ**, và chúng ta đã trải nghiệm nó từ nhỏ, ăn sâu vào nhận thức của chúng ta, khiến chúng ta coi nó như chuyện bình thường. Lôi những khiếm khuyết, nhưng sai lầm của người khác ra để mà bêu rếu, nhục mạ. Kẻ tổn thương lại đi làm tổn thương người khác :)).
