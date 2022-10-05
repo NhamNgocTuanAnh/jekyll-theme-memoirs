@@ -115,27 +115,27 @@ toc: true
 
 -	close để kết thúc quá trình cài đặt
 <h4>2.2. Cài đặt Sqldeveloper</h4>
-<p style="text-align:center; ">
-  <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting27.jpg" alt="Cài đặt JDK"><br>
-</p>
+
+{% include lazyload.html image_src="../../assets/images/laptrinh/lifray/setup/jdkseting27.jpg" image_alt="Cài đặt JDK" image_title="Cài đặt JDK" %}
+
 -	Tải file cài đặt sqldeveloper và giải nén file
-<p style="text-align:center; ">
-  <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting28.jpg" alt="Cài đặt JDK"><br>
-</p>
+
+{% include lazyload.html image_src="../../assets/images/laptrinh/lifray/setup/jdkseting28.jpg" image_alt="Cài đặt JDK" image_title="Cài đặt JDK" %}
+
 -	Chạy file sqldeveloper
-<p style="text-align:center; ">
-  <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting29.jpg" alt="Cài đặt JDK"><br>
-</p>
+
+{% include lazyload.html image_src="../../assets/images/laptrinh/lifray/setup/jdkseting29.jpg" image_alt="Cài đặt JDK" image_title="Cài đặt JDK" %}
+
 -	Gioa điện sqldeveloper
 Mở kết nối tới tài khoản quản trị SYS
 -	Mở sqlplus
-<p style="text-align:center; ">
-  <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting30.jpg" alt="Cài đặt JDK"><br>
-</p>
+
+{% include lazyload.html image_src="../../assets/images/laptrinh/lifray/setup/jdkseting30.jpg" image_alt="Cài đặt JDK" image_title="Cài đặt JDK" %}
+
 -	Chạy câu lệnh: sqlplus / as sysdba
-<p style="text-align:center; ">
-  <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting31.jpg" alt="Cài đặt JDK"><br>
-</p>
+
+{% include lazyload.html image_src="../../assets/images/laptrinh/lifray/setup/jdkseting31.jpg" image_alt="Cài đặt JDK" image_title="Cài đặt JDK" %}
+
 -	Tiếp tục chạy câu lệnh: connect /as sysdba  để kết nối tới tài khoản quản trị
 
 {% include lazyload.html image_src="../../assets/images/laptrinh/lifray/setup/jdkseting32.jpg" image_alt="Cài đặt JDK" image_title="Cài đặt JDK" %}
