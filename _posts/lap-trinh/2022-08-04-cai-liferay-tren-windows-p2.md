@@ -36,29 +36,7 @@ Tạo file portal-ext.properties trong thư mục liferay-ce-portal trong đư�
 {% include lazyload.html image_src="../../assets/images/laptrinh/lifray/setup/jdkseting37.jpg" image_alt="Cài đặt JDK" image_title="Cài đặt JDK" %}
 
 -	Mở file portal-ext.properties: thêm cấu hình kết nối CSDL<br>
-<b>OracleSQL:</b><br>
-jdbc.default.driverClassName=oracle.jdbc.OracleDriver<br>
-jdbc.default.username=USER_NAME<br>
-jdbc.default.password=PASSWORD<br>
-jdbc.default.url=jdbc:oracle:thin:@localhost:1521:orcl<br>
-jdbc.default.username: tên database<br>
-jdbc.default.password: mật khẩu<br>
-localhost: địa chỉ ip server cài đặt database<br>
--	Một vài csdl được hỗ trợ trong liferay<br>
-<b>MySQL:</b><br>
-jdbc.default.driverClassName=com.mysql.jdbc.Driver<br>
-jdbc.default.url=jdbc:mysql://localhost:3306/DATABASE_NAME?useUnicode=true&<br>characterEncoding=UTF-8&useFastDateParsing=false<br>
-jdbc.default.username=USER_NAME<br>
-jdbc.default.password=PASSWORD<br>
-<b>Posgresql:</b>
-jdbc.default.driverClassName=org.postgresql.Driver <br>
-jdbc.default.url=jdbc:postgresql://localhost:5432/DATABASE_NAME<br>
-jdbc.default.username=USER_NAME<br>
-jdbc.default.password=PASSWORD<br>
-<b>SQL Server:</b><br>
-jdbc.default.driverClassName=net.sourceforge.jtds.jdbc.Driver <br>jdbc.default.url=jdbc:jtds:sqlserver://localhost:1433/DATABASE_NAME<br>
-jdbc.default.username=USER_NAME<br>
-jdbc.default.password=PASSWORD<br>
+<script src="https://gist.github.com/NhamNgocTuanAnh/39aef9731ae7edee74b322e9b0eda06a.js"></script>
 <b>Chú ý:</b> Nên sử dụng một schemas mới tránh việc xung đột dữ liệu vì liferay tự sinh ra rất nhiều bảng.
 <h4>3.2. Thêm đường dẫn liferay home</h4>
 - Đường dẫn chứa file cài đặt liferay: thêm liferay.home=C:/Users/Administrator/Downloads/liferay-ce-portal-tomcat-7.3.7-ga8-20210610183559721/liferay-ce-portal-7.3.7-ga8 vào file portal-ext.properties( thay đổi \ thành /)
@@ -94,12 +72,11 @@ Chuyển đến thư mục …/liferay-ce-portal-tomcat-7.3.7-ga8-20210610183559
   <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting44.jpg" alt="Cài đặt JDK"><br>
 </p>
 Thêm server liferay
-<p style="text-align:center; ">
-  <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting45.jpg" alt="Cài đặt JDK"><br>
-</p>
-<p style="text-align:center; ">
-  <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting46.jpg" alt="Cài đặt JDK"><br>
-</p>
+
+{% include lazyload.html image_src="../../assets/images/laptrinh/lifray/setup/jdkseting45.jpg" image_alt="Cài đặt JDK" image_title="Cài đặt JDK" %}
+
+{% include lazyload.html image_src="../../assets/images/laptrinh/lifray/setup/jdkseting46.jpg" image_alt="Cài đặt JDK" image_title="Cài đặt JDK" %}
+
 -	Thêm đường dẫn liferay: C:\Users\Administrator\Downloads\liferay-ce-portal-tomcat-7.3.7-ga8-20210610183559721\liferay-ce-portal-7.3.7-ga8
 <p style="text-align:center; ">
   <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting47.jpg" alt="Cài đặt JDK"><br>
@@ -117,26 +94,24 @@ Thêm server liferay
   <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting51.jpg" alt="Cài đặt JDK"><br>
 </p>
 -	Chọn đến file cài đặt jdk
-<p style="text-align:center; ">
-  <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting52.jpg" alt="Cài đặt JDK"><br>
-</p>
-<p style="text-align:center; ">
-  <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting53.jpg" alt="Cài đặt JDK"><br>
-</p>
+
+{% include lazyload.html image_src="../../assets/images/laptrinh/lifray/setup/jdkseting52.jpg" image_alt="Cài đặt JDK" image_title="Cài đặt JDK" %}
+
+{% include lazyload.html image_src="../../assets/images/laptrinh/lifray/setup/jdkseting53.jpg" image_alt="Cài đặt JDK" image_title="Cài đặt JDK" %}
+
 -	Chạy server
-<p style="text-align:center; ">
-  <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting54.jpg" alt="Cài đặt JDK"><br>
-</p>
+
+{% include lazyload.html image_src="../../assets/images/laptrinh/lifray/setup/jdkseting54.jpg" image_alt="Cài đặt JDK" image_title="Cài đặt JDK" %}
+
 -	Truy cập vào địa chỉ 10.7.57.86
-<p style="text-align:center; ">
-  <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting55.jpg" alt="Cài đặt JDK"><br>
-</p>
+
+{% include lazyload.html image_src="../../assets/images/laptrinh/lifray/setup/jdkseting55.jpg" image_alt="Cài đặt JDK" image_title="Cài đặt JDK" %}
+
 -	Chọn finish để hoàn tất cấu hình
 -	Làm theo các bước thay đổi mật khẩu và xác thực
-<p style="text-align:center; ">
-  <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting56.jpg" alt="Cài đặt JDK"><br>
-  Giao diện liferay
-</p>
+
+{% include lazyload.html image_src="../../assets/images/laptrinh/lifray/setup/jdkseting56.jpg" image_alt="Cài đặt JDK" image_title="Cài đặt JDK" %}
+
 
 <b>Tải tài liệu ở đây:</b>
 <center><a class="button" href="https://drive.google.com/file/d/1xP4kCtnGs1204WWUI0bWXO3RYEZcknJA/view?usp=sharing" id="download"><i class="icon download"></i> Click To Download </a>
