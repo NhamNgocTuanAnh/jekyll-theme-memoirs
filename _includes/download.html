@@ -1,0 +1,128 @@
+{% if include.down_src %}
+<body class="preloading">
+<div class="loader"><span class="fas fa-spinner xoay icon"></span></div>
+<b>Tải tài liệu ở đây:</b>
+<center><a class="button" href="https://drive.google.com/file/d/1xP4kCtnGs1204WWUI0bWXO3RYEZcknJA/view?usp=sharing" id="download"><i class="icon download"></i> Click To Download </a>
+<div id="container"><center>
+    <button class="learn-more button button1" id="btn">
+      <span class="circle" aria-hidden="true">
+        <span class="icon arrow"></span>
+      </span>
+      <span class="button-text">Download</span>
+    </button></center>
+  </div>
+{% endif %}
+
+<style>
+
+.button1 {
+	 position: relative;
+	 display: inline-block;
+	 cursor: pointer;
+	 outline: none;
+	 border: 0;
+	 vertical-align: middle;
+	 text-decoration: none;
+	 background: transparent;
+	 padding: 0;
+	 font-size: inherit;
+	 font-family: inherit;
+}
+.button1.learn-more {
+	 width: 12rem;
+	 height: auto;
+}
+.button1.learn-more .circle {
+	 transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+	 position: relative;
+	 display: block;
+	 margin: 0;
+	 width: 3rem;
+	 height: 3rem;
+	 background: #282936;
+	 border-radius: 1.625rem;
+}
+.button1.learn-more .circle .icon {
+	 transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+	 position: absolute;
+	 top: 0;
+	 bottom: 0;
+	 margin: auto;
+	 background: #fff;
+}
+ button.learn-more .circle .icon.arrow {
+	 transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+	 left: 0.625rem;
+	 width: 1.125rem;
+	 height: 0.125rem;
+	 background: none;
+}
+ button.learn-more .circle .icon.arrow::before {
+	 position: absolute;
+	 content: '';
+	 top: -0.25rem;
+	 right: 0.0625rem;
+	 width: 0.625rem;
+	 height: 0.625rem;
+	 border-top: 0.125rem solid #fff;
+	 border-right: 0.125rem solid #fff;
+	 transform: rotate(45deg);
+}
+ button.learn-more .button-text {
+	 transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+	 position: absolute;
+	 top: 0;
+	 left: 0;
+	 right: 0;
+	 bottom: 0;
+	 padding: 0.75rem 0;
+	 margin: 0 0 0 1.85rem;
+	 color: #282936;
+	 font-weight: 700;
+	 line-height: 1.6;
+	 text-align: center;
+	 text-transform: uppercase;
+}
+ .button1:hover .circle {
+	 width: 100%;
+}
+ .button1:hover .circle .icon.arrow {
+	 background: #fff;
+	 transform: translate(1rem, 0);
+}
+ .button1:hover .button-text {
+	 color: #fff;
+}
+ @supports (display: grid) {
+	 #container {
+		 grid-area: main;
+		 align-self: center;
+		 justify-self: center;
+	}
+}
+
+</style>
+
+<script>
+    var downloadButton = document.getElementById("download");
+    var counter = 15;
+    var newElement = document.createElement("p");
+    newElement.innerHTML = "";
+    var id;
+    downloadButton.parentNode.replaceChild(newElement, downloadButton);
+
+    function startDownload() {
+        this.style.display = 'none';
+        id = setInterval(function() {
+            counter--;
+            if (counter < 0) {
+                newElement.parentNode.replaceChild(downloadButton, newElement);
+                clearInterval(id)
+            } else {
+                newElement.innerHTML = "<astext>Please wait <ascolor>" + counter.toString() + " </ascolor>second.</astext>"
+            }
+        }, 1000)
+    };
+    var clickbtn = document.getElementById("btn");
+    clickbtn.onclick = startDownload;
+</script>

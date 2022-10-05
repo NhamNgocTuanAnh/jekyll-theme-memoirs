@@ -116,8 +116,9 @@ Thêm server liferay
 
 
 <b>Tải tài liệu ở đây:</b>
-<center><a class="button" href="https://drive.google.com/file/d/1xP4kCtnGs1204WWUI0bWXO3RYEZcknJA/view?usp=sharing" id="download"><i class="icon download"></i> Click To Download </a>
-<button class="button" id="btn"><i class="icon download"></i> Download </button></center><hr>
+<center><a class="button" href="https://drive.google.com/file/d/1xP4kCtnGs1204WWUI0bWXO3RYEZcknJA/view?usp=sharing" id="download"><span class="circle" aria-hidden="true"><span class="icon arrow"></span></span> Click To Download </a>
+<button class="button" id="btn"><span class="circle" aria-hidden="true"><span class="icon arrow"></span></span> Download </button></center><hr>
+
 
 <script>
     var downloadButton = document.getElementById("download");
