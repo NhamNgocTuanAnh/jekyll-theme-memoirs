@@ -45,7 +45,6 @@ plugins:
   - jekyll-archives
   - jekyll-figure
   - jekyll-toc
-  - jekyll-responsive-image
 
 responsive_image:
   template: _includes/responsive_image.html
