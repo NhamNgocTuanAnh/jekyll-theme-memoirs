@@ -57,8 +57,8 @@
          editor.model.document.on('change:data', () => {
             console.log(editor.getData());
             // document.getElementById("demo").innerHTML = "<md-block>" + editor.getData() + "</md-block>";
-            document.getElementById('myText').innerHTML =
-               marked.parse(editor.getData());
+            document.getElementById('myText').innerHTML ="<pre>" + editor.getData() + "</pre>";
+               // marked.parse(editor.getData());
 
          });
       })
