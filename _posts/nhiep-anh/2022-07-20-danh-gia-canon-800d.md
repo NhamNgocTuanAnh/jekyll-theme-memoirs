@@ -39,7 +39,7 @@ Chúng ta nói về tên tuổi của nó một chút nhé. Sinh ra vào ngày 1
 
 <h3>1. Ngoại hình</h3> Đối với 1 đứa tay nhỏ như mình thì mình thấy máy cũng khá vừa tay, báng cầm sâu, cầm chắc chắn và trọng lượng thì mình thấy cũng khá nhẹ, chụp cả ngày sẽ không thấy có cảm giác bị mỏi tay
 
-<h3>2. Trải nghiệp</h3> Máy mình mua cũng là máy cũ đến từ 1 shop bán máy ảnh cũ cũng khá là uy tín ở ngoài Hà Nội, máy mua lúc tháng 5 là 12 triệu (đã bao gồm cả ống fix). Mình dùng để chụp và quay video cũng khá nhiều, khoảng thời gian là 5 tháng, mình nghĩ đó cũng là khoảng thời gian kha khá để mình có thể đưa ra được những ý kiến của mình về chiếc máy này.
+<h3>2. Trải nghiệm</h3> Máy mình mua cũng là máy cũ đến từ 1 shop bán máy ảnh cũ cũng khá là uy tín ở ngoài Hà Nội, máy mua lúc tháng 5 là 12 triệu (đã bao gồm cả ống fix). Mình dùng để chụp và quay video cũng khá nhiều, khoảng thời gian là 5 tháng, mình nghĩ đó cũng là khoảng thời gian kha khá để mình có thể đưa ra được những ý kiến của mình về chiếc máy này.
 
 <h3>3. Về khoản chụp ảnh</h3> Với cảm biến ảnh CMOS APS-C 24.2MP thì độ nét của ảnh phải gọi là rất ổn so với một đứa lúc nào cũng thích ảnh phải thức sự sắc nét như mình. Chất lưởng ảnh chụp ra tốt với điều kiện ngoài trời, màu sắc lên tươi tắn. Như ảnh mình chụp cặp đôi dưới đây thì màu lá cây rất xanh, như là đã chỉnh qua màu sắc 1 lần. Màu da người cũng lên hồng hào, sáng.
 
