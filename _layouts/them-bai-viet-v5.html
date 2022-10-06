@@ -4,8 +4,7 @@
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css'>
    <meta charset="utf-8">
-   <title>Thêm bài viết mới</title>
-
+   <title>Thêm bài viết mới v2</title>
 
 </head>
 
@@ -35,7 +34,8 @@
                      <hr>
                      <hr>
                      <div id="myText"></div>
-                     <p id="demo">Click me to change my HTML content.</p>
+                     <p>Ctrl+A và Ctrl+S để lưu code markdown. Bạn thử dùng Ctrl+V để dán nội dung đã copy vào file md
+                        của bạn.</p>
                      <hr>
 
 
@@ -45,40 +45,49 @@
          </div>
       </section>
    </div>
-   <button id=getdata>Print data</button>
+
+
+
+
+   <button type="button" onclick="saveDynamicDataToFile();">Click to Save</button>
 </body>
 
 <script src="../ckeditor5/build/ckeditor.js"></script>
 <script type="module" src="https://md-block.verou.me/md-block.js"></script>
-
+<script src="../assets/js/FileSaver.js"></script>
 <script>
 
    let theEditor;
    ClassicEditor
       .create(document.querySelector('#editor')).then(editor => {
          console.log('Editor was initialized', editor);
-         theEditor = editor;
          editor.model.document.on('change:data', () => {
             console.log(editor.getData());
-            // document.getElementById("demo").innerHTML = "<md-block>" + editor.getData() + "</md-block>";
-            document.getElementById('myText').innerHTML ="<pre>" + editor.getData() + "</pre>";
-               // marked.parse(editor.getData());
+            theEditor = editor.getData();
+            document.getElementById('myText').innerHTML = "<pre>" + editor.getData() + "</pre>";
+            // marked.parse(editor.getData());
 
          });
       })
       .catch(error => {
          console.error(error);
       });
-   function getDataFromTheEditor() {
-      return theEditor.getData();
+
+   function saveDynamicDataToFile() {
+      var userInput = document.getElementById("myText").value;
+      var blob = new Blob([theEditor], { type: "text/plain;charset=utf-8" });
+      saveAs(blob, "dynamic.txt");
    }
-   document.getElementById('getdata').addEventListener('click', () => {
-      getDataFromTheEditor()
-      console.log(getDataFromTheEditor());
-      document.getElementById("myText").value = getDataFromTheEditor();
-      document.getElementById("demo").innerHTML = "<md-block>" + getDataFromTheEditor() + "</md-block>";
-   });
+
+   function myFunction() {
+      var copyText = document.getElementById("myText").innerHTML;
+      window.prompt("Copy to clipboard: Ctrl+C, Enter", copyText);
+
+      var tooltip = document.getElementById("myTooltip");
+      tooltip.style.display = 'block';
+      tooltip.innerHTML = "Đã copy";
+   }
 </script>
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
 
 </html>
