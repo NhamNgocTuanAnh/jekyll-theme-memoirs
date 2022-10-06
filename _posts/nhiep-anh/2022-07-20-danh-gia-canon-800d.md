@@ -11,6 +11,7 @@ isGithubComments: false
 permalink: nhiep-anh/danh-gia-canon-800d
 excerpt: Đánh giá Tốt. Phù hợp với người chơi nghiệp dư không có nhu cầu về độ sắc nét hoặc chụp tối cao
 adsense: "enabled"
+toc: true
 ---
 
 <!-- wp:paragraph -->
