@@ -13,18 +13,24 @@
    <hr>
    <hr>
    <hr>
+   <hr>
+   <hr>
+   <hr>
    <div>
       <section class="grid extended-grid-18">
          <div class="container clearfix">
             <div class="row row-sm-sm sample-row">
                <div class="col-xs-12 col-md-8 gutter-sm-sm gutter-margin-xs-sm">
                   <div class="inner">
+                     <div id="editor">
+                        <p>This is some sample content.</p>
+                    </div>
                      <form action="" method="post">
 
                         <!-- (2): textarea sẽ được thay thế bởi CKEditor -->
-                        <textarea id="editor1" name="editor1" cols="80" rows="10">
+                        <!-- <textarea id="editor" name="editor" cols="80" rows="10">
                        <p>Hello <strong>CKEditor</strong></p>
-                   </textarea>
+                   </textarea> -->
 
                      </form>
                   </div>
@@ -41,36 +47,33 @@
          </div>
       </section>
    </div>
-   <hr>
-   <hr>
-   <hr>
 </body>
 
-<!-- <script src="../ckeditor5/build/ckeditor.js"></script> -->
-<script src="./ckeditor/ckeditor.js"></script>
+<script src="../ckeditor5/build/ckeditor.js"></script>
+<!-- <script src="./ckeditor/ckeditor.js"></script> -->
 <script>
 
-   CKEDITOR.replace('editor1');
-   CKEDITOR.config.height = 480;     // 500 pixels wide.
-   CKEDITOR.instances.editor1.on("change", function () {
-      console.log(this.getData());
-      document.getElementById("myText").value = this.getData();
-      document.getElementById("demo").innerHTML = this.getData();
+   // CKEDITOR.replace('editor1');
+   // CKEDITOR.config.height = 480;     // 500 pixels wide.
+   // CKEDITOR.instances.editor1.on("change", function () {
+   //    console.log(this.getData());
+   //    document.getElementById("myText").value = this.getData();
+   //    document.getElementById("demo").innerHTML = this.getData();
 
-   });
-   function SetContents() {
-      var oEditor = CKEDITOR.instances.editor1;
-      var t = document.getElementById('myText').value;
-      if (oEditor && t) {
-         oEditor.setData(t);
-      }
-   }
+   // });
+   // function SetContents() {
+   //    var oEditor = CKEDITOR.instances.editor1;
+   //    var t = document.getElementById('myText').value;
+   //    if (oEditor && t) {
+   //       oEditor.setData(t);
+   //    }
+   // }
 
-   // ClassicEditor
-   //          .create( document.querySelector( '#editor' ) )
-   //          .catch( error => {
-   //              console.error( error );
-   //          } );
+   ClassicEditor
+            .create( document.querySelector( '#editor' ) )
+            .catch( error => {
+                console.error( error );
+            } );
 </script>
 
 </html>
