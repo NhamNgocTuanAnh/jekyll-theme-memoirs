@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Canon 800D - Dòng máy ảnh EntryLevel - Có thực sự tốt về mọi mặt ở cuối năm 2022?'
-author: nhatminh
+author: minh
 lazyimages: "enabled"
 categories: [Nhiếp ảnh]
 tags: [đánh giá, nhiếp ảnh]
