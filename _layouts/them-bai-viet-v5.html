@@ -12,68 +12,69 @@
 <body>
    <hr>
    <hr>
-   <hr>
-   <hr>
-   <hr>
-   <hr>
    <div>
       <section class="grid extended-grid-18">
          <div class="container clearfix">
             <div class="row row-sm-sm sample-row">
                <div class="col-xs-12 col-md-8 gutter-sm-sm gutter-margin-xs-sm">
                   <div class="inner">
-                     <div id="editor">
-                        <p>This is some sample content.</p>
-                    </div>
+
                      <form action="" method="post">
-
-                        <!-- (2): textarea sẽ được thay thế bởi CKEditor -->
-                        <!-- <textarea id="editor" name="editor" cols="80" rows="10">
-                       <p>Hello <strong>CKEditor</strong></p>
-                   </textarea> -->
-
+                        <div id="editor">
+                           <p>This is some sample content.</p>
+                        </div>
                      </form>
                   </div>
                </div>
                <div class="col-xs-6 col-md-4 gutter-sm-sm gutter-margin-xs-sm">
-                  <div class="inner"> <input type="text" id="myText" name="content-val" />
-                     <button onclick="SetContents()">Click me</button>
+                  <div class="inner">
+
+                     <div id="myText"></div>
                      <hr>
                      <hr>
-                     <p id="demo">Click me to change my HTML content (innerHTML).</p>
+                     <p id="demo">Click me to change my HTML content.</p>
+                     <hr>
+
                   </div>
                </div>
             </div>
          </div>
       </section>
    </div>
+   <button id=getdata>Print data</button>
 </body>
 
 <script src="../ckeditor5/build/ckeditor.js"></script>
-<!-- <script src="./ckeditor/ckeditor.js"></script> -->
+<script type="module" src="https://md-block.verou.me/md-block.js"></script>
+
 <script>
 
-   // CKEDITOR.replace('editor1');
-   // CKEDITOR.config.height = 480;     // 500 pixels wide.
-   // CKEDITOR.instances.editor1.on("change", function () {
-   //    console.log(this.getData());
-   //    document.getElementById("myText").value = this.getData();
-   //    document.getElementById("demo").innerHTML = this.getData();
-
-   // });
-   // function SetContents() {
-   //    var oEditor = CKEDITOR.instances.editor1;
-   //    var t = document.getElementById('myText').value;
-   //    if (oEditor && t) {
-   //       oEditor.setData(t);
-   //    }
-   // }
-
+   let theEditor;
    ClassicEditor
-            .create( document.querySelector( '#editor' ) )
-            .catch( error => {
-                console.error( error );
-            } );
+      .create(document.querySelector('#editor')).then(editor => {
+         console.log('Editor was initialized', editor);
+         theEditor = editor;
+         editor.model.document.on('change:data', () => {
+            console.log(editor.getData());
+            // document.getElementById("demo").innerHTML = "<md-block>" + editor.getData() + "</md-block>";
+            document.getElementById('myText').innerHTML =
+               marked.parse(editor.getData());
+
+         });
+      })
+      .catch(error => {
+         console.error(error);
+      });
+   function getDataFromTheEditor() {
+      return theEditor.getData();
+   }
+   document.getElementById('getdata').addEventListener('click', () => {
+      getDataFromTheEditor()
+      console.log(getDataFromTheEditor());
+      document.getElementById("myText").value = getDataFromTheEditor();
+      document.getElementById("demo").innerHTML = "<md-block>" + getDataFromTheEditor() + "</md-block>";
+   });
 </script>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
 </html>
