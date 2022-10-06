@@ -34,6 +34,12 @@ authors:
     avatar: 'assets/images/tan.jpg'
     facebook: https://www.facebook.com/tan.nhamngoc
     description: "Quan trọng là thần thái!"
+  nhatminh:
+    name: Phạm Nhật Minh
+    display_name: Quả táo tàu
+    avatar: 'assets/images/tan.jpg'
+    facebook: https://www.facebook.com/minhtron.6998
+    description: "Đơn giản là Minh, nhưng Minh không đơn giản"
 
 # Plugins
 plugins:
