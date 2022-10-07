@@ -132,21 +132,26 @@
    function checkChangeForm() {
       if (document.getElementById('titleId') && document.getElementById('titleId').value) {
          titleValue = document.getElementById('titleId').value
+         titleValue = titleValue.trim()
       }
       if (document.getElementById('authorId') && document.getElementById('authorId').value) {
          authorValue = document.getElementById('authorId').value
+         authorValue = authorValue.trim()
       }
       if (document.getElementById('categorieIds') && document.getElementById('categorieIds').value) {
          categoryValue = document.getElementById('categorieIds').value
+         categoryValue = categoryValue.trim()
       }
       if (document.getElementById('tagIds') && document.getElementById('tagIds').value) {
          tagValue = document.getElementById('tagIds').value
+         tagValue = tagValue.trim()
       }
       if (document.getElementById('dateId') && document.getElementById('dateId').value) {
          dateValue = (document.getElementById('dateId').value).toString()
       }
       if (document.getElementById('descriptionId') && document.getElementById('descriptionId').value) {
          descriptionValue = (document.getElementById('descriptionId').value).toString()
+         descriptionValue = descriptionValue.trim()
       }
 
    }
@@ -164,19 +169,21 @@
             // headContent = headContent + "author: " + authorValue + "\n";
          }
          if (descriptionValue) {
-            headContent = [headContent, "description: ", '"', descriptionValue, '"', "\n"].join('');
-            headContent = [headContent, "excerpt: ", '"', descriptionValue, '"', "\n"].join('');
+            headContent = [headContent, "description: ", '"', descriptionValue, '"', "\n", "excerpt: ", '"', descriptionValue, '"', "\n"].join('');
             // headContent = headContent + "description: " + '"' + descriptionValue + '"' + "\n";
             // excerpt
          }
          if (categoryValue) {
-            headContent = headContent + 'categories: ' + '[' + categoryValue + ' ]\n';
+            // headContent = headContent + 'categories: ' + '[' + categoryValue + ' ]\n';
+            headContent = [headContent, 'categories: ', '[', categoryValue, ' ]\n'].join('');
          }
          if (tagValue) {
-            headContent = headContent + 'tags: ' + '[' + tagValue + ' ]\n';
+            // headContent = headContent + 'tags: ' + '[' + tagValue + ' ]\n';
+            headContent = [headContent, 'tags: ', '[', tagValue, ' ]\n'].join('');
          }
          if (dateValue) {
-            headContent = headContent + 'date: ' + '"' + dateValue + '"' + '\n';
+            headContent = [headContent, 'date: ', '"', dateValue, '"', '\n'].join('');
+            // headContent = headContent + 'date: ' + '"' + dateValue + '"' + '\n';
          }
          // headContent = headContent + "lazyimages: " + '"' + "enabled" + '"' + "\n";
          headContent = [headContent, "lazyimages: ", '"', "enabled", '"', "\n", "layout: post\n", "isGithubComments: ", isComment, "\n", "---\n\n"].join('')
