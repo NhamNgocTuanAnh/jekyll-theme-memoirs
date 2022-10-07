@@ -22,50 +22,68 @@
                            <div class="col-sm-12">
                               <h4>Tiêu đề</h4>
                               <input type="text" class="form-control" id="titleId" placeholder="Tiêu đề"
-                                 name="Tiêu đề mới" value="" onkeydown="checkInputTitleId(this);" required>
+                                 name="Tiêu đề mới" value="" required>
                            </div>
                         </div>
 
                         <div class="form-group">
                            <div class="col-sm-12">
                               <h4>Tác giả</h4>
-                              <input type="text" class="form-control" id="authorId"
-                                 onkeydown="checkInputAuthorId(this);" placeholder="Thêm tên tác giả" name="author-name"
-                                 value="" required>
+                              <input type="text" class="form-control" id="authorId" placeholder="Thêm tên tác giả"
+                                 name="author-name" value="" required>
                            </div>
                         </div>
-                        <h4>Nội dung</h4>
-                        <textarea class="form-control" id="editor" rows="10" placeholder="Nội dung" required></textarea>
                         <div class="form-group">
                            <div class="col-sm-12">
                               <h4>Chủ đề</h4>
                               <input type="text" class="form-control" id="categorieIds"
-                                 onkeydown="checkInputCategoryIds(this);" placeholder="vd: nhiếp ảnh, lập trình"
-                                 name="category-name" value="" required>
+                                 placeholder="vd: nhiếp ảnh, lập trình" name="category-name" value="" required>
                            </div>
                         </div>
                         <div class="form-group">
                            <div class="col-sm-12">
                               <h4>Thẻ tag</h4>
-                              <input type="text" class="form-control" id="tagIds" onkeydown="checkInputTagIds(this);"
+                              <input type="text" class="form-control" id="tagIds"
                                  placeholder="vd: nhiếp ảnh, lập trình" name="tag-name" value="" required>
                            </div>
                         </div>
-                        <br>
-                        <label for="myCheck">Cho phép bình luận:</label>
-                        <input type="checkbox" id="myCheck" onclick="myFunction()">
-                        <br>
-                        <br>
-                        <button onclick="saveDynamicDataToFile();" class="btn btn-primary send-button" id="submit"
-                           type="submit" value="SEND">
-                           <div class="alt-send-button">
-                              <i class="fa fa-paper-plane"></i><span class="send-text">Click to Save</span>
+                        <div class="form-group">
+                           <div class="col-sm-12">
+                              <h4>Ngày xuất bản</h4>
+                              <input type="date" class="form-control" id="dateId" name="date-name" required>
                            </div>
-                        </button>
-                        <!-- <center><button type="button" onclick="saveDynamicDataToFile();">Click to Save</button></center> -->
+                        </div>
+                        <div class="form-group">
+                           <div class="col-sm-12">
+                              <h4>Tóm tắt</h4>
+                              <input type="text" class="form-control" value="" rows="10" placeholder="Tóm tắt"
+                                 name="description-name" id="descriptionId" required>
+                           </div>
+                        </div>
+                        <br>
                      </form>
-                     <!--
-                     <center><button type="button" onclick="saveDynamicDataToFile();">Click to Save</button></center> -->
+
+
+                     <div class="form-group">
+                        <div class="col-sm-12">
+                           <h4>Nội dung</h4>
+                           <input id="editor" class="form-control" value="" rows="10" placeholder="Nội dung"
+                              name="ck-name" required>
+                        </div>
+                     </div>
+                     <div class="form-group">
+                        <div class="col-sm-12">
+                           <label for="myCheck">Cho phép bình luận:</label>
+                           <input type="checkbox" id="myCheck" onclick="myFunction()">
+                        </div>
+                     </div>
+
+                     <button onclick="saveDynamicDataToFile();" class="btn btn-primary send-button" id="submit"
+                        type="submit" value="SEND">
+                        <div class="alt-send-button">
+                           <i class="fa fa-paper-plane"></i><span class="send-text">Click to Save</span>
+                        </div>
+                     </button>
                   </div>
                </div>
                <div class="col-xs-6 col-md-4 gutter-sm-sm gutter-margin-xs-sm">
@@ -90,46 +108,116 @@
 <script src="../assets/js/FileSaver.js"></script>
 <script>
 
-   let isComent = false
+   let isComment = false;
    let titleValue = "";
+   let authorValue = "";
+   let categoryValue = "";
+   let tagValue = "";
+   let theEditor = "";
+   let headContent = "";
+   let dateValue = "";
+   let descriptionValue = "";
    function checkInputTitleId(obj) {
       if (obj && obj.value) {
          titleValue = obj.value;
          console.log("title: ", titleValue);
+         checkChangeForm();
       }
    }
-   let authorValue = "";
-   let categoryValue = "";
-   let tagValue = "";
 
+   function checkChangeForm() {
+      if (document.getElementById('titleId') && document.getElementById('titleId').value) {
+         titleValue = document.getElementById('titleId').value
+      }
+      if (document.getElementById('authorId') && document.getElementById('authorId').value) {
+         authorValue = document.getElementById('authorId').value
+      }
+      if (document.getElementById('categorieIds') && document.getElementById('categorieIds').value) {
+         categoryValue = document.getElementById('categorieIds').value
+      }
+      if (document.getElementById('tagIds') && document.getElementById('tagIds').value) {
+         tagValue = document.getElementById('tagIds').value
+      }
+      if (document.getElementById('dateId') && document.getElementById('dateId').value) {
+         dateValue = (document.getElementById('dateId').value).toString()
+      }
+      if (document.getElementById('descriptionId') && document.getElementById('descriptionId').value) {
+         descriptionValue = (document.getElementById('descriptionId').value).toString()
+      }
+
+   }
+   document.querySelector("form").addEventListener("change", (event) => {
+      if (!event.target.classList.contains("nochange")) {
+         console.log("fire change for me");
+         checkChangeForm();
+         headContent = "---\n"
+         if (titleValue) {
+            headContent = headContent + "title: " + '"' + titleValue + '"' + "\n";
+         }
+         if (authorValue) {
+            headContent = headContent + "author: " + '"' + authorValue + '"' + "\n";
+         }
+         if (descriptionValue) {
+            headContent = headContent + "description: " + '"' + descriptionValue + '"' + "\n";
+         }
+         if (categoryValue) {
+            headContent = headContent + 'categories: ' + '[' + categoryValue + ' ]\n';
+         }
+         if (tagValue) {
+            headContent = headContent + 'tags: ' + '[' + tagValue + ' ]\n';
+         }
+         if (dateValue) {
+            headContent = headContent + 'date: ' + '"' + dateValue + '"' + '\n';
+         }
+         headContent = headContent + "lazyimages: " + '"' + "enabled" + '"' + "\n";
+
+         headContent = headContent + "layout: " + "post" + "\n";
+         headContent = headContent + "isGithubComments: " + isComment + "\n";
+         headContent = headContent + "---\n\n";
+         if (headContent) {
+            document.getElementById('myText').innerHTML = "<pre>" + headContent + theEditor + "</pre>";
+         }
+      } else {
+         console.log("no change event for me");
+      }
+   });
 
    function checkInputCategoryIds(obj) {
       if (obj && obj.value) {
          categoryValue = obj.value;
          console.log("categoryValue: ", categoryValue);
+         checkChangeForm();
       }
    }
    function checkInputTagIds(obj) {
       if (obj && obj.value) {
          tagValue = obj.value;
-         console.log("tagValue: ", authortagValueValue);
+         console.log("tagValue: ", tagValue);
+         checkChangeForm();
       }
    }
    function checkInputAuthorId(obj) {
       if (obj && obj.value) {
          authorValue = obj.value;
          console.log("authorId: ", authorValue);
+         checkChangeForm();
       }
    }
 
-   let theEditor;
+
    ClassicEditor
       .create(document.querySelector('#editor')).then(editor => {
          console.log('Editor was initialized', editor);
          editor.model.document.on('change:data', () => {
             console.log(editor.getData());
             theEditor = editor.getData();
-            document.getElementById('myText').innerHTML = "<pre>" + editor.getData() + "</pre>";
+
+            if (headContent) {
+               document.getElementById('myText').innerHTML = "<pre>" + headContent + editor.getData() + "</pre>";
+            } else {
+               document.getElementById('myText').innerHTML = "<pre>" + editor.getData() + "</pre>";
+            }
+
             // marked.parse(editor.getData());
 
          });
@@ -139,41 +227,13 @@
       });
 
    async function saveDynamicDataToFile() {
-      var userInput = document.getElementById("myText").value;
-
-      // ---
-      // layout: post
-      // title:  "Chuyện ăn gì"
-      // author: sal
-      // lazyimages: "enabled"
-      // categories: [ Sức khỏe ]
-      // tags: [ Ăn, Đồ ăn, Dinh dưỡng ]
-      // image: assets/images/thuc-pham-tot.webp
-      // rating: 4.5
-      // comments: true
-      // ---
-      let bodyContent;
-
-      let headContent = "---\n"
-      if (document.getElementById('titleId') && document.getElementById('titleId').value) {
-         console.log("document.getElementById", document.getElementById('titleId').value);
-         headContent = headContent + "title: \"" + document.getElementById('titleId').value + "\"\n"
-      }
-      if (document.getElementById('authorId') && document.getElementById('authorId').value) {
-         console.log("document.getElementById");
-         headContent = headContent + "author: \"" + document.getElementById('authorId').value + "\"\n"
-      }
-      if (document.getElementById('categorieIds') && document.getElementById('categorieIds').value) {
-         console.log("document.getElementById");
-         headContent = "categories: [ " + document.getElementById('categorieIds').value + " ]\n"
+      if (headContent) {
+         var blob = new Blob([bodyContent], { type: "text/plain;charset=utf-8" });
+         saveAs(blob, "dynamic.md");
+      } else {
+         alert('Rỗng')
       }
 
-      headContent = headContent + "---\n\n\n"
-
-      bodyContent = headContent + theEditor
-      console.log(bodyContent);
-      var blob = new Blob([theEditor], { type: "text/plain;charset=utf-8" });
-      saveAs(blob, "dynamic.md");
    }
 
    // function myFunction() {
@@ -186,11 +246,10 @@
    // }
    function myFunction() {
       var checkBox = document.getElementById("myCheck");
-      var text = document.getElementById("text");
       if (checkBox.checked == true) {
-         text.style.display = "block";
+         isComment = true;
       } else {
-         text.style.display = "none";
+         isComment = false;
       }
    }
    // function readTextFile(file) {
