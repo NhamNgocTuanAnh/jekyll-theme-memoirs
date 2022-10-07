@@ -192,7 +192,6 @@
    function checkInputTagIds(obj) {
       if (obj && obj.value) {
          tagValue = obj.value;
-         console.log("tagValue: ", tagValue);
          checkChangeForm();
       }
    }
@@ -228,14 +227,52 @@
 
    async function saveDynamicDataToFile() {
       if (headContent) {
-         var blob = new Blob([bodyContent], { type: "text/plain;charset=utf-8" });
-         saveAs(blob, "dynamic.md");
+         let nameFile = ""
+         var blob = new Blob([headContent], { type: "text/plain;charset=utf-8" });
+
+         if (!dateValue) {
+            const d = new Date()
+            let year = d.getFullYear();
+            let month = d.getMonth() + 1;
+            let day = d.getDate();
+            dateValue = year + "-" + month + "-" + day
+         }
+         titleValue = titleValue.trim()
+         titleValue = removeAccents(titleValue);
+         titleValue = titleValue.replace(/\s/g, '-')
+         titleValue = titleValue.toLowerCase()
+         nameFile = dateValue + "-" + titleValue + ".md"
+
+         alert(nameFile)
+         saveAs(blob, nameFile);
       } else {
-         alert('Rỗng')
+         alert('Rỗng');
       }
 
    }
-
+   function removeAccents(str) {
+      var AccentsMap = [
+         "aàảãáạăằẳẵắặâầẩẫấậ",
+         "AÀẢÃÁẠĂẰẲẴẮẶÂẦẨẪẤẬ",
+         "dđ", "DĐ",
+         "eèẻẽéẹêềểễếệ",
+         "EÈẺẼÉẸÊỀỂỄẾỆ",
+         "iìỉĩíị",
+         "IÌỈĨÍỊ",
+         "oòỏõóọôồổỗốộơờởỡớợ",
+         "OÒỎÕÓỌÔỒỔỖỐỘƠỜỞỠỚỢ",
+         "uùủũúụưừửữứự",
+         "UÙỦŨÚỤƯỪỬỮỨỰ",
+         "yỳỷỹýỵ",
+         "YỲỶỸÝỴ"
+      ];
+      for (var i = 0; i < AccentsMap.length; i++) {
+         var re = new RegExp('[' + AccentsMap[i].substr(1) + ']', 'g');
+         var char = AccentsMap[i][0];
+         str = str.replace(re, char);
+      }
+      return str;
+   }
    // function myFunction() {
    //    var copyText = document.getElementById("myText").innerHTML;
    //    window.prompt("Copy to clipboard: Ctrl+C, Enter", copyText);
