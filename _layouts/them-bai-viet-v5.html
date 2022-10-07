@@ -29,8 +29,12 @@
                         <div class="form-group">
                            <div class="col-sm-12">
                               <h4>Tác giả</h4>
-                              <input type="text" class="form-control" id="authorId" placeholder="Thêm tên tác giả"
-                                 name="author-name" value="" required>
+
+                              <select id="authorId" name="author-name" class="form-control" required>
+                                 <option value="john">Nhâm Ngọc Tần</option>
+                                 <option value="sal">Anh Hàng Xóm</option>
+                                 <option value="minh">Quả táo tàu</option>
+                               </select>
                            </div>
                         </div>
                         <div class="form-group">
@@ -155,7 +159,7 @@
             headContent = headContent + "title: " + '"' + titleValue + '"' + "\n";
          }
          if (authorValue) {
-            headContent = headContent + "author: " + '"' + authorValue + '"' + "\n";
+            headContent = headContent + "author: "  + authorValue + "\n";
          }
          if (descriptionValue) {
             headContent = headContent + "description: " + '"' + descriptionValue + '"' + "\n";
