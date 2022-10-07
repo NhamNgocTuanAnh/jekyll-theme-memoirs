@@ -34,7 +34,7 @@
                                  <option value="john">Nhâm Ngọc Tần</option>
                                  <option value="sal">Anh Hàng Xóm</option>
                                  <option value="minh">Quả táo tàu</option>
-                               </select>
+                              </select>
                            </div>
                         </div>
                         <div class="form-group">
@@ -156,13 +156,18 @@
          checkChangeForm();
          headContent = "---\n"
          if (titleValue) {
-            headContent = headContent + "title: " + '"' + titleValue + '"' + "\n";
+            headContent = [headContent, "title: ", '"', titleValue, '"', "\n"].join('');
+            // headContent = headContent + "title: " + '"' + titleValue + '"' + "\n";
          }
          if (authorValue) {
-            headContent = headContent + "author: "  + authorValue + "\n";
+            headContent = [headContent, "author: ", authorValue, "\n"].join('');
+            // headContent = headContent + "author: " + authorValue + "\n";
          }
          if (descriptionValue) {
-            headContent = headContent + "description: " + '"' + descriptionValue + '"' + "\n";
+            headContent = [headContent, "description: ", '"', descriptionValue, '"', "\n"].join('');
+            headContent = [headContent, "excerpt: ", '"', descriptionValue, '"', "\n"].join('');
+            // headContent = headContent + "description: " + '"' + descriptionValue + '"' + "\n";
+            // excerpt
          }
          if (categoryValue) {
             headContent = headContent + 'categories: ' + '[' + categoryValue + ' ]\n';
@@ -173,13 +178,13 @@
          if (dateValue) {
             headContent = headContent + 'date: ' + '"' + dateValue + '"' + '\n';
          }
-         headContent = headContent + "lazyimages: " + '"' + "enabled" + '"' + "\n";
-
-         headContent = headContent + "layout: " + "post" + "\n";
-         headContent = headContent + "isGithubComments: " + isComment + "\n";
-         headContent = headContent + "---\n\n";
+         // headContent = headContent + "lazyimages: " + '"' + "enabled" + '"' + "\n";
+         headContent = [headContent, "lazyimages: ", '"', "enabled", '"', "\n", "layout: post\n", "isGithubComments: ", isComment, "\n", "---\n\n"].join('')
+         // headContent = headContent + "layout: " + "post" + "\n";
+         // headContent = headContent + "isGithubComments: " + isComment + "\n";
+         // headContent = headContent + "---\n\n";
          if (headContent) {
-            document.getElementById('myText').innerHTML = "<pre>" + headContent + theEditor + "</pre>";
+            document.getElementById('myText').innerHTML = ["<pre>", headContent, theEditor, "</pre>"].join('');
          }
       } else {
          console.log("no change event for me");
@@ -189,7 +194,6 @@
    function checkInputCategoryIds(obj) {
       if (obj && obj.value) {
          categoryValue = obj.value;
-         console.log("categoryValue: ", categoryValue);
          checkChangeForm();
       }
    }
@@ -202,7 +206,6 @@
    function checkInputAuthorId(obj) {
       if (obj && obj.value) {
          authorValue = obj.value;
-         console.log("authorId: ", authorValue);
          checkChangeForm();
       }
    }
@@ -232,7 +235,7 @@
    async function saveDynamicDataToFile() {
       if (headContent) {
          let nameFile = ""
-         var blob = new Blob([headContent], { type: "text/plain;charset=utf-8" });
+         let blob = new Blob([[headContent, theEditor].join('')], { type: "text/plain;charset=utf-8" });
 
          if (!dateValue) {
             const d = new Date()
@@ -246,8 +249,6 @@
          titleValue = titleValue.replace(/\s/g, '-')
          titleValue = titleValue.toLowerCase()
          nameFile = dateValue + "-" + titleValue + ".md"
-
-         alert(nameFile)
          saveAs(blob, nameFile);
       } else {
          alert('Rỗng');
