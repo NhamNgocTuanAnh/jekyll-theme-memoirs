@@ -35,8 +35,7 @@
                            </div>
                         </div>
                         <h4>Nội dung</h4>
-                        <textarea class="form-control" id="editor" rows="10" placeholder="Nội dung"
-                           required></textarea>
+                        <textarea class="form-control" id="editor" rows="10" placeholder="Nội dung" required></textarea>
                         <div class="form-group">
                            <div class="col-sm-12">
                               <h4>Chủ đề</h4>
@@ -139,7 +138,7 @@
          console.error(error);
       });
 
-   function saveDynamicDataToFile() {
+   async function saveDynamicDataToFile() {
       var userInput = document.getElementById("myText").value;
 
       // ---
@@ -156,15 +155,15 @@
       let bodyContent;
 
       let headContent = "---\n"
-      if (document.getElementById('titleId')&&document.getElementById('titleId').value) {
-         console.log("document.getElementById",document.getElementById('titleId').value);
+      if (document.getElementById('titleId') && document.getElementById('titleId').value) {
+         console.log("document.getElementById", document.getElementById('titleId').value);
          headContent = headContent + "title: \"" + document.getElementById('titleId').value + "\"\n"
       }
-      if (document.getElementById('authorId')&&document.getElementById('authorId').value) {
+      if (document.getElementById('authorId') && document.getElementById('authorId').value) {
          console.log("document.getElementById");
          headContent = headContent + "author: \"" + document.getElementById('authorId').value + "\"\n"
       }
-      if (document.getElementById('categorieIds')&&document.getElementById('categorieIds').value) {
+      if (document.getElementById('categorieIds') && document.getElementById('categorieIds').value) {
          console.log("document.getElementById");
          headContent = "categories: [ " + document.getElementById('categorieIds').value + " ]\n"
       }
