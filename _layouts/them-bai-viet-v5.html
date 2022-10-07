@@ -17,14 +17,35 @@
             <div class="row row-sm-sm sample-row">
                <div class="col-xs-12 col-md-8 gutter-sm-sm gutter-margin-xs-sm">
                   <div class="inner">
-                     <h2>Viết tại đây</h2>
-                     <hr>
-                     <hr>
-                     <form action="" method="post">
-                        <div id="editor">
-                           <p>This is some sample content.</p>
+                     <form id="contact-form" class="form-horizontal" role="form">
+
+                        <div class="form-group">
+                           <div class="col-sm-12">
+                              <input type="text" class="form-control" id="titleId" placeholder="Tiêu đề" name="Tiêu đề" value=""
+                                 onkeydown="checkInputTitleId(this);" required>
+                           </div>
                         </div>
+
+                        <div class="form-group">
+                           <div class="col-sm-12">
+                              <input type="text" class="form-control" id="authorId"
+                                 onkeydown="checkInputAuthorId(this);" placeholder="Tác giả" name="author-name" value=""
+                                 required>
+                           </div>
+                        </div>
+
+                        <textarea class="form-control"  id="editor" rows="10" placeholder="Nội dung" name="content" required></textarea>
+
+                        <button onclick="saveDynamicDataToFile();" class="btn btn-primary send-button" id="submit" type="submit" value="SEND">
+                           <div class="alt-send-button">
+                              <i class="fa fa-paper-plane"></i><span class="send-text">SEND</span>
+                           </div>
+
+                        </button>
+                        <!-- <center><button type="button" onclick="saveDynamicDataToFile();">Click to Save</button></center> -->
                      </form>
+
+                     <center><button type="button" onclick="saveDynamicDataToFile();">Click to Save</button></center>
                   </div>
                </div>
                <div class="col-xs-6 col-md-4 gutter-sm-sm gutter-margin-xs-sm">
@@ -46,16 +67,25 @@
       </section>
    </div>
 
-
-
-
-   <button type="button" onclick="saveDynamicDataToFile();">Click to Save</button>
 </body>
 
 <script src="../ckeditor5/build/ckeditor.js"></script>
-<script type="module" src="https://md-block.verou.me/md-block.js"></script>
 <script src="../assets/js/FileSaver.js"></script>
 <script>
+   let titleId = "";
+   function checkInputTitleId(obj) {
+      if (obj && obj.value) {
+         titleId = obj.value;
+         console.log("title: ", titleId);
+      }
+   }
+   let authorId = "";
+   function checkInputAuthorId(obj) {
+      if (obj && obj.value) {
+         authorId = obj.value;
+         console.log("authorId: ", authorId);
+      }
+   }
 
    let theEditor;
    ClassicEditor
