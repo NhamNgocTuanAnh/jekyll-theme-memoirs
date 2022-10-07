@@ -35,7 +35,7 @@
                            </div>
                         </div>
                         <h4>Nội dung</h4>
-                        <textarea class="form-control" id="editor" rows="10" placeholder="Nội dung" name="content"
+                        <textarea class="form-control" id="editor" rows="10" placeholder="Nội dung"
                            required></textarea>
                         <div class="form-group">
                            <div class="col-sm-12">
@@ -155,13 +155,23 @@
       // ---
       let bodyContent;
 
-      let headContent = "---"
-      let titleContent =  "title: \"" + titleValue +"\""
-      let authorContent =  "title: \"" + authorValue +"\""
-      let categoriesContent = "categories: [ " + categoryValue +" ]"
-      let footerContent="---"
+      let headContent = "---\n"
+      if (document.getElementById('titleId')&&document.getElementById('titleId').value) {
+         console.log("document.getElementById",document.getElementById('titleId').value);
+         headContent = headContent + "title: \"" + document.getElementById('titleId').value + "\"\n"
+      }
+      if (document.getElementById('authorId')&&document.getElementById('authorId').value) {
+         console.log("document.getElementById");
+         headContent = headContent + "author: \"" + document.getElementById('authorId').value + "\"\n"
+      }
+      if (document.getElementById('categorieIds')&&document.getElementById('categorieIds').value) {
+         console.log("document.getElementById");
+         headContent = "categories: [ " + document.getElementById('categorieIds').value + " ]\n"
+      }
 
-      bodyContent = headContent + titleContent + authorContent + categoriesContent + footerContent + theEditor
+      headContent = headContent + "---\n\n\n"
+
+      bodyContent = headContent + theEditor
       console.log(bodyContent);
       var blob = new Blob([theEditor], { type: "text/plain;charset=utf-8" });
       saveAs(blob, "dynamic.md");
