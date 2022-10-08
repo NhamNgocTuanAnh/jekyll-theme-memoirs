@@ -1,16 +1,18 @@
-<script src="{{site.baseurl}}/assets/js/lunr.js"></script>
+<!-- <script src="{{site.baseurl}}/assets/js/lunr.js"></script> -->
 
 <div class="wrap-search">
     <div class="d-flex align-items-center ml-auto">
-        <i class="fas fa-search show-search"></i>
-        <form class="bd-search ml-3" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+        <a href="{{ site.baseurl }}/categories"><i class="fas fa-search show-search"></i></a>
+
+        <!-- <form class="bd-search ml-3" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
             <input type="text" class="form-control bigradius text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Tìm kiếm ..."/>
-        </form>
+        </form> -->
     </div>
 </div>
-
-<div id="lunrsearchresults">
+<script async src="https://cse.google.com/cse.js?cx=d589faf0c21ff43ae">
+</script>
+<!-- <div id="lunrsearchresults">
     <ul></ul>
 </div>
 
-<script src="{{site.baseurl}}/assets/js/lunrsearchengine.js"></script>
+<script src="{{site.baseurl}}/assets/js/lunrsearchengine.js"></script> -->

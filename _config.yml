@@ -9,8 +9,8 @@ url: "https://nhamngoctuananh.github.io/"
 #baseurl: /
 encoding: UTF-8
 google_analytics: 'UA-192636660-1'
-algolia:
-  application_id: 'QIZHTILUXM'
+
+# d589faf0c21ff43ae
 
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
@@ -62,17 +62,6 @@ toc:
   list_class: section-nav
   sublist_class: ''
   item_class: toc-entry
-  #item_prefix: toc-
-
-jekyll_admin:
-  hidden_links:
-    # - posts
-    # - pages
-    # - staticfiles
-    # - datafiles
-    # - configuration
-  homepage: "pages"
-
 # Archives
 jekyll-archives:
   enabled:
