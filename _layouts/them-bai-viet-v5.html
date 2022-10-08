@@ -5,7 +5,122 @@
    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css'>
    <meta charset="utf-8">
    <title>Thêm bài viết mới v2</title>
+   <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.webp">
+   <style>
+      * {
+         box-sizing: border-box;
+      }
 
+      body {
+         background: #fff;
+         margin: 0;
+         padding: 0;
+      }
+
+      .image-wrap {
+         background-image: url('../assets/images/nhiepanh/introduce/IMG_5756.webp');
+         background-position: center;
+         background-size: cover;
+         height: 40rem;
+         margin: 5rem auto;
+         max-width: 60rem;
+         position: relative;
+         width: 100%;
+      }
+
+      .image-wrap .title {
+         bottom: 0;
+         color: #fff;
+         left: 0;
+         margin: 0;
+         padding: 0;
+         position: absolute;
+      }
+
+      .image-wrap .title::before {
+         content: "";
+         background-color: #fff;
+         bottom: calc(100% + 2rem);
+         height: 40rem;
+         left: 0;
+         position: absolute;
+         width: 0.25rem;
+      }
+
+      .image-wrap .title::after {
+         content: "";
+         background-color: #fff;
+         bottom: 0;
+         height: 0.25rem;
+         left: calc(100% + 2rem);
+         position: absolute;
+         width: 60rem;
+      }
+
+      .image-wrap h2 {
+         color: #fff;
+         display: block;
+         font-family: Arial, sans-serif;
+         font-size: calc(1.5rem + 1.5vw);
+         font-weight: 800;
+         letter-spacing: -0.15rem;
+         line-height: 0.90;
+         margin: 0;
+         text-indent: -0.07em;
+         text-transform: uppercase;
+         white-space: nowrap;
+      }
+
+      .image-wrap .borders {
+         bottom: 2rem;
+         left: 2rem;
+         overflow: hidden;
+         position: absolute;
+         right: 2rem;
+         top: 2rem;
+      }
+
+      .image-wrap .borders::before {
+         content: "";
+         background-color: #fff;
+         height: 0.25rem;
+         left: 0;
+         position: absolute;
+         right: 0;
+         top: 0;
+      }
+
+      .image-wrap .borders::after {
+         content: "";
+         background-color: #fff;
+         bottom: 0;
+         position: absolute;
+         right: 0;
+         top: 0;
+         width: 0.25rem;
+      }
+
+      .image-wrap::before,
+      .image-wrap::after {
+         content: "";
+         background: #777;
+         bottom: 32px;
+         box-shadow: 0 30px 20px rgba(0, 0, 0, 0.45);
+         left: 8px;
+         position: absolute;
+         top: 80%;
+         transform: rotate(-7deg);
+         width: 50%;
+         z-index: -1;
+      }
+
+      .image-wrap::after {
+         left: auto;
+         right: 8px;
+         transform: rotate(7deg);
+      }
+
+   </style>
 </head>
 
 <body>
@@ -64,23 +179,19 @@
                                  name="description-name" id="descriptionId" required>
                            </div>
                         </div>
+                        <div class="form-group">
+                           <div class="col-sm-12">
+                              <label for="myCheck">Cho phép bình luận:</label>
+                              <input type="checkbox" id="myCheck" onclick="myFunction()">
+                           </div>
+                        </div>
                         <br>
                      </form>
 
+                     <h4>Nội dung</h4>
+                     <input id="editor" class="form-control" value="" rows="10" placeholder="Nội dung" name="ck-name"
+                        required>
 
-                     <div class="form-group">
-                        <div class="col-sm-12">
-                           <h4>Nội dung</h4>
-                           <input id="editor" class="form-control" value="" rows="10" placeholder="Nội dung"
-                              name="ck-name" required>
-                        </div>
-                     </div>
-                     <div class="form-group">
-                        <div class="col-sm-12">
-                           <label for="myCheck">Cho phép bình luận:</label>
-                           <input type="checkbox" id="myCheck" onclick="myFunction()">
-                        </div>
-                     </div>
 
                      <button onclick="saveDynamicDataToFile();" class="btn btn-primary send-button" id="submit"
                         type="submit" value="SEND">
@@ -95,10 +206,30 @@
 
                      <h2>Mã code markdown</h2>
                      <hr>
-                     <div id="myText"></div>
-                     <p>Ctrl+A và Ctrl+S để lưu code markdown. Bạn thử dùng Ctrl+V để dán nội dung đã copy vào file md
+                     <div class="js-copytextarea" id="myText"></div>
+                     <button onclick="myFunctionCopy()">Copy text</button>
+                     <p>Bấm Copy text để lưu code markdown. Bạn thử dùng Ctrl+V để dán nội dung đã copy vào file md
                         của bạn.</p>
                      <hr>
+                     <b>Lưu ý:</b> Hiện tại upload ảnh chưa hoạt động, bạn có thể chèn ảnh theo hình mẫu
+                     này vào nội dung<br>
+                     <script src="https://gist.github.com/NhamNgocTuanAnh/a3f249a8e318f92cd8a13ccd5bd4a3c5.js"></script>
+
+                     <div class="image-wrap">
+                        <div class="borders">
+                           <div class="title">
+                              <h2>Đây là<br>sample😁</h2>
+                           </div>
+                        </div>
+                     </div>
+
+
+                     Trong đó:
+                     <ul>
+                        <li>image_src: đường dẫn của ảnh</li>
+                        <li>image_alt: Nội dung ảnh</li>
+                        <li>image_title: Tiêu đề của ảnh</li>
+                     </ul>
                   </div>
                </div>
             </div>
@@ -121,13 +252,25 @@
    let headContent = "";
    let dateValue = "";
    let descriptionValue = "";
-   function checkInputTitleId(obj) {
-      if (obj && obj.value) {
-         titleValue = obj.value;
-         console.log("title: ", titleValue);
-         checkChangeForm();
-      }
-   }
+
+   let dataResult = "";
+
+   ClassicEditor
+      .create(document.querySelector('#editor')).then(editor => {
+
+         editor.model.document.on('change:data', () => {
+            theEditor = editor.getData();
+            if (headContent) {
+               document.getElementById('myText').innerHTML = ["<pre>", headContent, editor.getData(), "</pre>"].join('');
+            } else {
+               document.getElementById('myText').innerHTML = ["<pre>", editor.getData(), "</pre>"].join('');
+            }
+         });
+      })
+      .catch(error => {
+         console.error(error);
+      });
+
 
    function checkChangeForm() {
       if (document.getElementById('titleId') && document.getElementById('titleId').value) {
@@ -162,36 +305,27 @@
          headContent = "---\n"
          if (titleValue) {
             headContent = [headContent, "title: ", '"', titleValue, '"', "\n"].join('');
-            // headContent = headContent + "title: " + '"' + titleValue + '"' + "\n";
          }
          if (authorValue) {
             headContent = [headContent, "author: ", authorValue, "\n"].join('');
-            // headContent = headContent + "author: " + authorValue + "\n";
          }
          if (descriptionValue) {
             headContent = [headContent, "description: ", '"', descriptionValue, '"', "\n", "excerpt: ", '"', descriptionValue, '"', "\n"].join('');
-            // headContent = headContent + "description: " + '"' + descriptionValue + '"' + "\n";
             // excerpt
          }
          if (categoryValue) {
-            // headContent = headContent + 'categories: ' + '[' + categoryValue + ' ]\n';
             headContent = [headContent, 'categories: ', '[ ', categoryValue, ' ]\n'].join('');
          }
          if (tagValue) {
-            // headContent = headContent + 'tags: ' + '[' + tagValue + ' ]\n';
             headContent = [headContent, 'tags: ', '[ ', tagValue, ' ]\n'].join('');
          }
          if (dateValue) {
             headContent = [headContent, 'date: ', '"', dateValue, '"', '\n'].join('');
-            // headContent = headContent + 'date: ' + '"' + dateValue + '"' + '\n';
          }
-         // headContent = headContent + "lazyimages: " + '"' + "enabled" + '"' + "\n";
          headContent = [headContent, "lazyimages: ", '"', "enabled", '"', "\n", "layout: post\n", "isGithubComments: ", isComment, "\n", "---\n\n"].join('')
-         // headContent = headContent + "layout: " + "post" + "\n";
-         // headContent = headContent + "isGithubComments: " + isComment + "\n";
-         // headContent = headContent + "---\n\n";
          if (headContent) {
-            document.getElementById('myText').innerHTML = ["<pre>", headContent, theEditor, "</pre>"].join('');
+            dataResult = ["<pre>", headContent, theEditor, "</pre>"].join('');
+            document.getElementById('myText').innerHTML = dataResult;
          }
       } else {
          console.log("no change event for me");
@@ -216,28 +350,14 @@
          checkChangeForm();
       }
    }
+   function checkInputTitleId(obj) {
+      if (obj && obj.value) {
+         titleValue = obj.value;
+         checkChangeForm();
+      }
+   }
 
 
-   ClassicEditor
-      .create(document.querySelector('#editor')).then(editor => {
-         console.log('Editor was initialized', editor);
-         editor.model.document.on('change:data', () => {
-            console.log(editor.getData());
-            theEditor = editor.getData();
-
-            if (headContent) {
-               document.getElementById('myText').innerHTML = "<pre>" + headContent + editor.getData() + "</pre>";
-            } else {
-               document.getElementById('myText').innerHTML = "<pre>" + editor.getData() + "</pre>";
-            }
-
-            // marked.parse(editor.getData());
-
-         });
-      })
-      .catch(error => {
-         console.error(error);
-      });
 
    async function saveDynamicDataToFile() {
       if (headContent) {
@@ -262,6 +382,22 @@
       }
 
    }
+
+
+   function myFunction() {
+      var checkBox = document.getElementById("myCheck");
+      if (checkBox.checked == true) {
+         isComment = true;
+      } else {
+         isComment = false;
+      }
+   }
+
+   function myFunctionCopy() {
+      if (headContent && theEditor) {
+         navigator.clipboard.writeText([headContent, theEditor].join(''));
+      }
+   }
    function removeAccents(str) {
       var AccentsMap = [
          "aàảãáạăằẳẵắặâầẩẫấậ",
@@ -285,16 +421,6 @@
       }
       return str;
    }
-
-   function myFunction() {
-      var checkBox = document.getElementById("myCheck");
-      if (checkBox.checked == true) {
-         isComment = true;
-      } else {
-         isComment = false;
-      }
-   }
-
 </script>
 
 
