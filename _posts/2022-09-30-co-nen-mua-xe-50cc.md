@@ -5,7 +5,7 @@ author: sal
 categories: [ Suy ngẫm ]
 tags: [ phản biện ]
 image: assets/images/xe-50cc-nguy-hiem.webp
-rating: 4.5
+rating: 0.5
 lazyimages: "enabled"
 isGithubComments: false
 description: Đánh giá Kém Giá 50cc triệu dưới 15 triệu cho hàng mới(giá năm 2022) Đối tượng người có nhu cầu cực thấp, sinh viên Phù hợp không ai
