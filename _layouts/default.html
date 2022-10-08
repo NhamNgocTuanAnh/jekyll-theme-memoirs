@@ -4,23 +4,23 @@
 <head><meta http-equiv="content-type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><link rel="icon" href="{{ site.baseurl }}/assets/images/logo.webp"><title>{{ page.title }} | {{site.name}}</title>{% seo %} <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet"><link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet"><script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script><script src="{{ site.baseurl }}/assets/js/lazysizes.min.js" async=""></script><meta name="google-site-verification" content="d_QhcFO6jYixKuqHeimC-fB9HoL2oOxFPBBr1Dm-3nE" /><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8920573839255504" crossorigin="anonymous"></script><link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style-image.css">
 </head>
 
-{% if jekyll.environment == 'production' %}
+<!-- {% if jekyll.environment == 'production' %} -->
 <!-- change your GA id in _config.yml -->
-<!-- <script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics}}"></script> -->
-<!-- <script>
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_analytics}}"></script>
+<script>
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
 
     gtag('config', '{{site.google_analytics}}');
-</script> -->
-{% endif %}
+</script>
+{% endif %} -->
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 
 <body onload="detectAdBlock()">
 
-    <button id="scrollToTop"class="glow-on-hover" type="button"><span>✈️</span></button>
+    <button id="scrollToTop"class="glow-on-hover" type="button" style='display: none;'><span>✈️</span></button>
 
     <!-- defer loading of font and font awesome -->
     <noscript id="deferred-styles">
@@ -135,8 +135,12 @@
         $(window).on('scroll',function() {
         if (window.scrollY > window.outerHeight) {
         $('#scrollToTop').addClass('active')
+
+        document.getElementById("scrollToTop").style.display = "block";
+
         } else {
-        $('#scrollToTop').removeClass('active')
+        $('#scrollToTop').removeClass('active');
+        document.getElementById("scrollToTop").style.display = "none";
         }
         })
 
@@ -145,62 +149,7 @@
         })</script>
 
 <!-- Hiệu ứng kéo trang lên trên -->
-    <style>
-        #scrollToTop {
-            position: fixed;
-            bottom: 3rem;
-            right: 3rem;
-            box-shadow: 0 0 14px -5px rgba(0, 0, 0, 0.5);
-            display: flex;
-            font-family: "Arial";
-            align-items: center;
-            justify-content: center;
-            margin-bottom: -12rem;
-            transition: margin-bottom 0.2s;
-        }
-        #scrollToTop.active {
-            margin-bottom: 0;
-        }
-        #scrollToTop:before {
-            content: '';
-            background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
-            position: absolute;
-            top: -2px;
-            left:-2px;
-            background-size: 400%;
-            z-index: -1;
-            filter: blur(5px);
-            width: calc(100% + 4px);
-            height: calc(100% + 4px);
-            animation: glowing 20s linear infinite;
-            opacity: 0;
-            transition: opacity .3s ease-in-out;
-
-        }
-
-        #scrollToTop:active:after {
-            background: transparent;
-        }
-
-        #scrollToTop:hover:before {
-            opacity: 1;
-        }
-
-        #scrollToTop:after {
-            z-index: -1;
-            content: '';
-            position: absolute;
-            left: 0;
-            top: 0;
-
-        }
-
-        @keyframes glowing {
-            0% { background-position: 0 0; }
-            50% { background-position: 400% 0; }
-            100% { background-position: 0 0; }
-        }
-        </style>
+    <style>#scrollToTop{position:fixed;bottom:3rem;right:3rem;box-shadow:0 0 14px -5px rgba(0,0,0,0.5);display:flex;font-family:"Arial";align-items:center;justify-content:center;margin-bottom:-12rem;transition:margin-bottom .2s}#scrollToTop.active{margin-bottom:0}#scrollToTop:before{content:'';background:linear-gradient(45deg,red,#ff7300,#fffb00,#48ff00,#00ffd5,#002bff,#7a00ff,#ff00c8,red);position:absolute;top:-2px;left:-2px;background-size:400%;z-index:-1;filter:blur(5px);width:calc(100% + 4px);height:calc(100% + 4px);animation:glowing 20s linear infinite;opacity:0;transition:opacity .3s ease-in-out}#scrollToTop:active:after{background:transparent}#scrollToTop:hover:before{opacity:1}#scrollToTop:after{z-index:-1;content:'';position:absolute;left:0;top:0}@keyframes glowing{0%{background-position:0 0}50%{background-position:400% 0}100%{background-position:0 0}}</style>
         <!--Chặn quảng cáo-->
         <style>.ch-popup-box { box-sizing: unset; position: fixed; max-width: 420px; top: 50%; left: 50%; width: 100%; padding: 40px 50px; background: var(--white) url(https://1.bp.blogspot.com/-HPi2I8LwSUo/YdMn8q1iRhI/AAAAAAAAUC8/xI-42zFw-14IfeSMvYlIrrrCHs_fZTtLwCNcBGAsYHQ/s150/kitten-ink.webp) no-repeat right bottom; background-size: 100px; border-radius: 4px; opacity: 0; z-index: 2147483647; pointer-events: none; transform: translate(-50%, -50%) scale(1.2); box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.06); transition: opacity 0.2s 0s ease-in-out, transform 0.2s 0s ease-in-out; } .ch-popup-box.show { opacity: 1; pointer-events: auto; transform: translate(-50%, -50%) scale(1); } @media screen and (max-width: 600px) { .ch-popup-box { transform: translate(-50%, -50%) scale(0.7); } .ch-popup-box.show { transform: translate(-50%, -50%) scale(0.9); } .ch-popup-box h2 { text-align: center; } } .ch-bg-effect { backdrop-filter: blur(2px) sepia() brightness(0.5) grayscale(1); position: fixed; left: 0; top: 0; z-index: 2147484000; height: 100%; width: 100%; background: rgba(0, 0, 0, .2); opacity: 0; pointer-events: none; transition: opacity 0.3s ease; } .ch-bg-effect.show { opacity: 1; pointer-events: auto; } .ch-popup-box .content, .ch-popup-box .content .warn-icon, .ch-popup-box .warn-icon .icon { display: flex; align-items: center; justify-content: center; } .ch-popup-box .content { flex-direction: column; } .ch-popup-box .content .warn-icon { height: 115px; width: 115px; border-radius: 50%; background: #66689c } .ch-popup-box .warn-icon .icon { height: 100px; width: 100px; background: #fff; border-radius: inherit } .ch-popup-box .content h2 { margin: 0; margin-top: 40px; font-size: 32px; font-weight: 600; letter-spacing: 1px } .ch-popup-box .content p { margin: 0; font-size: 19px; text-align: center; margin-top: 23px; line-height: 30px } .ch-popup-box .content p a { color: #7577a9 } .ch-popup-box .content p a:hover { text-decoration: underline; } .ch-popup-box .content .dismiss-btn { margin-top: 30px; padding: 15px 27px; font-size: 18px; border: none; outline: none; color: #fff; cursor: pointer; border-radius: 50px; background: #7577a9; transition: background 0.3s ease; } .ch-popup-box .content .dismiss-btn:hover { background: #66689c; } .icon-exclamation:before { background-image: url("data:image/svg+xml,%3Csvg width='24' height='24' fill='%2366689c' viewBox='0 0 1000 1000' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d=' M 526 150C 576 150 602 175 601 224C 600 300 600 350 575 525C 570 560 560 575 525 575C 525 575 475 575 475 575C 440 575 430 560 425 525C 400 355 400 300 400 226C 400 175 425 150 475 150M 500 650C 527 650 552 661 571 679C 589 698 600 723 600 750C 600 805 555 850 500 850C 445 850 400 805 400 750C 400 723 411 698 429 679C 448 661 473 650 500 650C 500 650 500 650 500 650'/%3E%3C/svg%3E"); width: 80px; height: 80px; background-size: 100%; content: ""; display: inline-block; vertical-align: middle } </style>
 </body>

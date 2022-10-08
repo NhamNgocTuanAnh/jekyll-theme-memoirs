@@ -9,149 +9,11 @@
    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8920573839255504"
      crossorigin="anonymous"></script>
    <style>
-      * {
-         box-sizing: border-box;
-      }
-
-      body {
-         background: #fff;
-         margin: 0;
-         padding: 0;
-      }
-
-      .image-wrap {
-         background-image: url('../assets/images/nhiepanh/introduce/IMG_5756.webp');
-         background-position: center;
-         background-size: cover;
-         height: 40rem;
-         margin: 5rem auto;
-         max-width: 60rem;
-         position: relative;
-         width: 100%;
-      }
-
-      .image-wrap .title {
-         bottom: 0;
-         color: #fff;
-         left: 0;
-         margin: 0;
-         padding: 0;
-         position: absolute;
-      }
-
-      .image-wrap .title::before {
-         content: "";
-         background-color: #fff;
-         bottom: calc(100% + 2rem);
-         height: 40rem;
-         left: 0;
-         position: absolute;
-         width: 0.25rem;
-      }
-
-      .image-wrap .title::after {
-         content: "";
-         background-color: #fff;
-         bottom: 0;
-         height: 0.25rem;
-         left: calc(100% + 2rem);
-         position: absolute;
-         width: 60rem;
-      }
-
-      .image-wrap h2 {
-         color: #fff;
-         display: block;
-         font-family: Arial, sans-serif;
-         font-size: calc(1.5rem + 1.5vw);
-         font-weight: 800;
-         letter-spacing: -0.15rem;
-         line-height: 0.90;
-         margin: 0;
-         text-indent: -0.07em;
-         text-transform: uppercase;
-         white-space: nowrap;
-      }
-
-      .image-wrap .borders {
-         bottom: 2rem;
-         left: 2rem;
-         overflow: hidden;
-         position: absolute;
-         right: 2rem;
-         top: 2rem;
-      }
-
-      .image-wrap .borders::before {
-         content: "";
-         background-color: #fff;
-         height: 0.25rem;
-         left: 0;
-         position: absolute;
-         right: 0;
-         top: 0;
-      }
-
-      .image-wrap .borders::after {
-         content: "";
-         background-color: #fff;
-         bottom: 0;
-         position: absolute;
-         right: 0;
-         top: 0;
-         width: 0.25rem;
-      }
-
-      .image-wrap::before,
-      .image-wrap::after {
-         content: "";
-         background: #777;
-         bottom: 32px;
-         box-shadow: 0 30px 20px rgba(0, 0, 0, 0.45);
-         left: 8px;
-         position: absolute;
-         top: 80%;
-         transform: rotate(-7deg);
-         width: 50%;
-         z-index: -1;
-      }
-
-      .image-wrap::after {
-         left: auto;
-         right: 8px;
-         transform: rotate(7deg);
-      }
-
+ *{box-sizing:border-box}body{background:#fff;margin:0;padding:0}.image-wrap{background-image:url(../assets/images/nhiepanh/introduce/IMG_5756.webp);background-position:center;background-size:cover;height:40rem;margin:5rem auto;max-width:60rem;position:relative;width:100%}.image-wrap .title{bottom:0;color:#fff;left:0;margin:0;padding:0;position:absolute}.image-wrap .title::before{content:"";background-color:#fff;bottom:calc(100% + 2rem);height:40rem;left:0;position:absolute;width:.25rem}.image-wrap .title::after{content:"";background-color:#fff;bottom:0;height:.25rem;left:calc(100% + 2rem);position:absolute;width:60rem}.image-wrap h2{color:#fff;display:block;font-family:Arial,sans-serif;font-size:calc(1.5rem + 1.5vw);font-weight:800;letter-spacing:-.15rem;line-height:.9;margin:0;text-indent:-.07em;text-transform:uppercase;white-space:nowrap}.image-wrap .borders{bottom:2rem;left:2rem;overflow:hidden;position:absolute;right:2rem;top:2rem}.image-wrap .borders::before{content:"";background-color:#fff;height:.25rem;left:0;position:absolute;right:0;top:0}.image-wrap .borders::after{content:"";background-color:#fff;bottom:0;position:absolute;right:0;top:0;width:.25rem}.image-wrap::before,.image-wrap::after{content:"";background:#777;bottom:32px;box-shadow:0 30px 20px rgba(0,0,0,0.45);left:8px;position:absolute;top:80%;transform:rotate(-7deg);width:50%;z-index:-1}.image-wrap::after{left:auto;right:8px;transform:rotate(7deg)}
    </style>
    <!-- Hướng dẫn viết bài -->
-   <style>
-      /* Định dạng các button mô tả cho nội dung*/
-      button.accordion {
-         background-color: #eee;
-         color: #444;
-         cursor: pointer;
-         padding: 18px;
-         width: 100%;
-         text-align: left;
-         border: none;
-         outline: none;
-         transition: 0.4s;
-      }
-
-      /* Thêm màu nền cho button được active hoặc được hover*/
-      button.accordion.active,
-      button.accordion:hover {
-         background-color: #ddd;
-      }
-
-      /* Thiết lập cho phần nội dung, mặc định sẽ được ẩn đi */
-      div.panel {
-         padding: 0 18px;
-         background-color: white;
-         display: none;
-      }
-
-   </style> <!-- Hướng dẫn viết bài -->
+   <style>button.accordion{background-color:#eee;color:#444;cursor:pointer;padding:18px;width:100%;text-align:left;border:none;outline:none;transition:.4s}button.accordion.active,button.accordion:hover{background-color:#ddd}div.panel{padding:0 18px;background-color:#fff;display:none}</style>
+   <!-- Hướng dẫn viết bài -->
 </head>
 
 <body>
@@ -261,6 +123,7 @@
 
                      <h2>Mã code markdown</h2>
                      <hr>
+
                      <div class="js-copytextarea" id="myText"></div>
                      <button onclick="myFunctionCopy()">Copy text</button>
                      <p>Bấm Copy text để lưu code markdown. Bạn thử dùng Ctrl+V để dán nội dung đã copy vào file md

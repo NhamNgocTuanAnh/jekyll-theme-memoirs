@@ -14,7 +14,6 @@
 {% endif %}
 
 <style>
-
 .button1 {
 	 position: relative;
 	 display: inline-block;
@@ -99,30 +98,7 @@
 		 align-self: center;
 		 justify-self: center;
 	}
-}
-
-</style>
+}</style>
 
 <script>
-    var downloadButton = document.getElementById("download");
-    var counter = 15;
-    var newElement = document.createElement("p");
-    newElement.innerHTML = "";
-    var id;
-    downloadButton.parentNode.replaceChild(newElement, downloadButton);
-
-    function startDownload() {
-        this.style.display = 'none';
-        id = setInterval(function() {
-            counter--;
-            if (counter < 0) {
-                newElement.parentNode.replaceChild(downloadButton, newElement);
-                clearInterval(id)
-            } else {
-                newElement.innerHTML = "<astext>Please wait <ascolor>" + counter.toString() + " </ascolor>second.</astext>"
-            }
-        }, 1000)
-    };
-    var clickbtn = document.getElementById("btn");
-    clickbtn.onclick = startDownload;
-</script>
+var id,downloadButton=document.getElementById("download"),counter=15,newElement=document.createElement("p");function startDownload(){this.style.display="none",id=setInterval(function(){--counter<0?(newElement.parentNode.replaceChild(downloadButton,newElement),clearInterval(id)):newElement.innerHTML="<astext>Please wait <ascolor>"+counter.toString()+" </ascolor>second.</astext>"},1e3)}newElement.innerHTML="",downloadButton.parentNode.replaceChild(newElement,downloadButton);var clickbtn=document.getElementById("btn");clickbtn.onclick=startDownload;</script>

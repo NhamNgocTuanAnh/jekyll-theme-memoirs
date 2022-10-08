@@ -14,15 +14,7 @@ toc: true
 ---
 
 <style>
-    ascolor {
-        color: #214ECF;
-        font-size: 1.5em
-    }
-
-    astext {
-        font-weight: bold;
-        font-family: var(--font-body-alt)
-    }
+ascolor{color:#214ecf;font-size:1.5em}astext{font-weight:700;font-family:var(--font-body-alt)}
 </style>
 
 <h3>Phần 3: Cài đặt Liferay Portal</h3>
@@ -33,29 +25,24 @@ toc: true
 {% include lazyload.html image_src="../../assets/images/laptrinh/lifray/setup/jdkseting36.jpg" image_alt="Cài đặt JDK" image_title="Cài đặt JDK" %}
 
 Tạo file portal-ext.properties trong thư mục liferay-ce-portal trong đường dẫn:
-<textarea disabled>
- \liferay-ce-portal-tomcat-7.3.7-ga8-20210610183559721\liferay-ce-portal-7.3.7-ga8
-</textarea>
-
+<p style="text-align:center; "><textarea disabled>
+ \liferay-ce-portal-tomcat-7.3.7-ga8-20210610183559721\liferay-ce-portal-7.3.7-ga8</textarea></p>
 {% include lazyload.html image_src="../../assets/images/laptrinh/lifray/setup/jdkseting37.jpg" image_alt="Cài đặt JDK" image_title="Cài đặt JDK" %}
-
 -	Mở file portal-ext.properties: thêm cấu hình kết nối CSDL<br>
 <script src="https://gist.github.com/NhamNgocTuanAnh/39aef9731ae7edee74b322e9b0eda06a.js"></script>
 <b>Chú ý:</b> Nên sử dụng một schemas mới tránh việc xung đột dữ liệu vì liferay tự sinh ra rất nhiều bảng.
 <h4>3.2. Thêm đường dẫn liferay home</h4>
-- Đường dẫn chứa file cài đặt liferay: thêm liferay.home=C:/Users/Administrator/Downloads/liferay-ce-portal-tomcat-7.3.7-ga8-20210610183559721/liferay-ce-portal-7.3.7-ga8 vào file portal-ext.properties( thay đổi \ thành /)
+Đường dẫn chứa file cài đặt liferay: thêm
+<p style="text-align:center; "><textarea disabled>
+ liferay.home=C:/Users/Administrator/Downloads/liferay-ce-portal-tomcat-7.3.7-ga8-20210610183559721/liferay-ce-portal-7.3.7-ga8</textarea></p>
+vào file portal-ext.properties( thay đổi \ thành /)
 <h4>3.3. Thêm thư viện</h4>
--	Add thư viện ojdbc8.jar vào đường dẫn: … \liferay-ce-portal-tomcat-7.3.7-ga8-20210610183559721\liferay-ce-portal-7.3.7-ga8\tomcat-9.0.43\lib\ext
-<p style="text-align:center; ">
-  <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting38.jpg" alt="Cài đặt JDK"><br>
-</p>
--	Add thư viện liferay-portal-database-all-in-one-support-1.2.1 vào đường dẫn:
-<textarea disabled>
- …\liferay-ce-portal-tomcat-7.3.7-ga8-20210610183559721\liferay-ce-portal-7.3.7-ga8\tomcat-9.0.43\webapps\ROOT\WEB-INF\lib
-</textarea>
-
-
-<p style="text-align:center; "><img  src="../../assets/images/laptrinh/lifray/setup/jdkseting39.jpg" alt="Cài đặt JDK"><br></p>
+Add thư viện ojdbc8.jar vào đường dẫn:
+<p style="text-align:center; "><textarea disabled>… \liferay-ce-portal-tomcat-7.3.7-ga8-20210610183559721\liferay-ce-portal-7.3.7-ga8\tomcat-9.0.43\lib\ext</textarea></p>
+{% include lazyload.html image_src="../../assets/images/laptrinh/lifray/setup/jdkseting38.jpg" %}
+Add thư viện liferay-portal-database-all-in-one-support-1.2.1 vào đường dẫn:
+<p style="text-align:center; "><textarea disabled>…\liferay-ce-portal-tomcat-7.3.7-ga8-20210610183559721\liferay-ce-portal-7.3.7-ga8\tomcat-9.0.43\webapps\ROOT\WEB-INF\lib</textarea></p>
+<p style="text-align:center; "><img src="../../assets/images/laptrinh/lifray/setup/jdkseting39.jpg" alt="Cài đặt JDK"><br></p>
 <h4>3.4. Chạy server</h4>
 Có hai cách chạy server
 -	Sử dụng file startup.bat
@@ -63,13 +50,10 @@ Có hai cách chạy server
   <img  src="../../assets/images/laptrinh/lifray/setup/jdkseting40.jpg" alt="Cài đặt JDK"><br>
 </p>
 Chuyển đến thư mục
-<textarea disabled>
+<p style="text-align:center; "><textarea disabled>
     …/liferay-ce-portal-tomcat-7.3.7-ga8-20210610183559721/liferay-ce-portal-7.3.7-ga8/tomcat-9.0.43/ tomcat-9.0.43/bin/.
-</textarea>
-
-
-
-<ul>	<li>	<p><span style="display:none">&nbsp;</span><span style="font-size:14pt"><span style="background-color:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#222222">Hệ điều h&agrave;nh Windows: Bạn double click v&agrave;o tệp tin&nbsp;<em>startup.bat</em></span></span></span></span></p>	</li></ul><ul>	<li>	<p><span style="font-size:14pt"><span style="background-color:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#222222">Hệ điều h&agrave;nh Linux:&nbsp;</span></span></span></span></p>	<ul>		<li>		<p><strong>Bước 1</strong>.&nbsp;<span style="font-size:14pt"><span style="background-color:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#222222">Bạn mở cửa sổ&nbsp;<em>Terminal</em>&nbsp;<em>&nbsp;(Ctri+Alt+T)</em></span></span></span></span></p>		</li>		<li>		<p><span style="font-size:14pt"><span style="background-color:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#222222"><strong>Bước 2</strong><em>.&nbsp;</em>Chuyển sang quyền root: g&otilde; lệnh&nbsp;sudo su&nbsp;v&agrave; nhập mật khẩu.Th&ecirc;m quyền thực thi cho tệp tin&nbsp;<em>catalina.sh</em>: g&otilde; lệnh&nbsp;chmod +x&nbsp;catalina.sh</span></span></span></span></p>		</li>		<li>		<p><span style="font-size:14pt"><span style="background-color:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#222222"><strong>Bước 3</strong>.&nbsp;G&otilde; lệnh chạy chương tr&igrave;nh:&nbsp;./catalina.sh run</span></span></span></span>.&nbsp;<span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#222222">Khi m&aacute;y chủ đưa ra th&ocirc;ng b&aacute;o: &quot;</span></span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:red">INFO: Server startup in xxxx ms&quot;&nbsp;</span><span style="color:#222222">nghĩa l&agrave; m&aacute;y chủ đ&atilde; khởi động xong.</span></span></span><span style="display:none">&nbsp;</span></p>		</li>	</ul>	</li></ul>
+</textarea></p>
+<ul><li><p><span style="display:none">&nbsp;</span><span style="font-size:14pt"><span style="background-color:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#222222">Hệ điều h&agrave;nh Windows: Bạn double click v&agrave;o tệp tin&nbsp;<em>startup.bat</em></span></span></span></span></p>	</li></ul><ul>	<li>	<p><span style="font-size:14pt"><span style="background-color:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#222222">Hệ điều h&agrave;nh Linux:&nbsp;</span></span></span></span></p>	<ul>		<li>		<p><strong>Bước 1</strong>.&nbsp;<span style="font-size:14pt"><span style="background-color:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#222222">Bạn mở cửa sổ&nbsp;<em>Terminal</em>&nbsp;<em>&nbsp;(Ctri+Alt+T)</em></span></span></span></span></p>		</li>		<li>		<p><span style="font-size:14pt"><span style="background-color:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#222222"><strong>Bước 2</strong><em>.&nbsp;</em>Chuyển sang quyền root: g&otilde; lệnh&nbsp;sudo su&nbsp;v&agrave; nhập mật khẩu.Th&ecirc;m quyền thực thi cho tệp tin&nbsp;<em>catalina.sh</em>: g&otilde; lệnh&nbsp;chmod +x&nbsp;catalina.sh</span></span></span></span></p>		</li>		<li>		<p><span style="font-size:14pt"><span style="background-color:white"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#222222"><strong>Bước 3</strong>.&nbsp;G&otilde; lệnh chạy chương tr&igrave;nh:&nbsp;./catalina.sh run</span></span></span></span>.&nbsp;<span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:#222222">Khi m&aacute;y chủ đưa ra th&ocirc;ng b&aacute;o: &quot;</span></span></span><span style="font-size:14.0pt"><span style="font-family:&quot;Times New Roman&quot;,serif"><span style="color:red">INFO: Server startup in xxxx ms&quot;&nbsp;</span><span style="color:#222222">nghĩa l&agrave; m&aacute;y chủ đ&atilde; khởi động xong.</span></span></span><span style="display:none">&nbsp;</span></p>		</li></ul></li></ul>
 - Sử dụng liferay developer chạy server
 
 {% include lazyload.html image_src="../../assets/images/laptrinh/lifray/setup/jdkseting41.jpg" image_alt="Cài đặt JDK" image_title="Cài đặt JDK" %}
@@ -92,9 +76,9 @@ Thêm server liferay
 {% include lazyload.html image_src="../../assets/images/laptrinh/lifray/setup/jdkseting46.jpg" image_alt="Cài đặt JDK" image_title="Cài đặt JDK" %}
 
 - Thêm đường dẫn liferay:
-<textarea disabled>
+<p style="text-align:center; "><textarea disabled>
     C:\Users\Administrator\Downloads\liferay-ce-portal-tomcat-7.3.7-ga8-20210610183559721\liferay-ce-portal-7.3.7-ga8
-</textarea>
+</textarea></p>
 
 {% include lazyload.html image_src="../../assets/images/laptrinh/lifray/setup/jdkseting47.jpg" image_alt="Cài đặt JDK" image_title="Cài đặt JDK" %}
 
