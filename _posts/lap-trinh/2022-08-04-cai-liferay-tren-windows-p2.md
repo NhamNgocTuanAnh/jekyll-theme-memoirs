@@ -28,7 +28,7 @@ Tạo file portal-ext.properties trong thư mục liferay-ce-portal trong đư�
 <p style="text-align:center; "><textarea disabled>
  \liferay-ce-portal-tomcat-7.3.7-ga8-20210610183559721\liferay-ce-portal-7.3.7-ga8</textarea></p>
 {% include lazyload.html image_src="../../assets/images/laptrinh/lifray/setup/jdkseting37.jpg" image_alt="Cài đặt JDK" image_title="Cài đặt JDK" %}
--	Mở file portal-ext.properties: thêm cấu hình kết nối CSDL<br>
+Mở file portal-ext.properties: thêm cấu hình kết nối CSDL<br>
 <script src="https://gist.github.com/NhamNgocTuanAnh/39aef9731ae7edee74b322e9b0eda06a.js"></script>
 <b>Chú ý:</b> Nên sử dụng một schemas mới tránh việc xung đột dữ liệu vì liferay tự sinh ra rất nhiều bảng.
 <h4>3.2. Thêm đường dẫn liferay home</h4>
