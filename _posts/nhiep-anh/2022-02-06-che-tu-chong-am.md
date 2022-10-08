@@ -90,82 +90,8 @@ Vì mạch Arduino UNO R3 rất hạn chế về cổng GND và 5v. Bạn có th
 </p>
 
 <style>
-.box {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: #aaa;
-  margin: 20px 0;
-  width: 100%;
-  min-height: 200px;
-  border: 2px #ccc solid;
-  color: #fff;
-}
-
-.row {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0 4px;
-}
-
-/* Create four equal columns that sits next to each other */
-.column {
-  flex: 25%;
-  max-width: 25%;
-  padding: 0 4px;
-}
-
-.column img {
-  margin-top: 8px;
-  vertical-align: middle;
-  width: 100%;
-}
-
-/* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 800px) {
-  .column {
-
-    flex: 50%;
-    max-width: 50%;
-
-  }
-}
-
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-
-    flex: 100%;
-    max-width: 100%;
-
-  }
-}
-video {
-  max-width: 100%;
-  height: auto;
-}
+.box{display:flex;align-items:center;justify-content:center;background:#aaa;margin:20px 0;width:100%;min-height:200px;border:2px #ccc solid;color:#fff}.row{display:flex;flex-wrap:wrap;padding:0 4px}.column{flex:25%;max-width:25%;padding:0 4px}.column img{margin-top:8px;vertical-align:middle;width:100%}@media screen and (max-width: 800px){.column{flex:50%;max-width:50%}}@media screen and (max-width: 600px){.column{flex:100%;max-width:100%}}video{max-width:100%;height:auto}
 </style>
 <script>
-let myVideo = document.getElementById("video1");
-if(myVideo){
-  myVideo.play();
-  function playPause() {
-    if (myVideo.paused)
-      myVideo.play();
-    else
-      myVideo.pause();
-  }
-
-  function makeBig() {
-      myVideo.width = 560;
-  }
-
-  function makeSmall() {
-      myVideo.width = 228;
-  }
-
-  function makeNormal() {
-      myVideo.width = 320;
-  }
-}
+let myVideo=document.getElementById("video1");if(myVideo){function i(){myVideo.paused?myVideo.play():myVideo.pause()}function e(){myVideo.width=560}function d(){myVideo.width=228}function o(){myVideo.width=320}myVideo.play()}
 </script>

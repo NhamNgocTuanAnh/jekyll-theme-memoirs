@@ -144,15 +144,10 @@ Bản thân màu sắc bức ảnh có tươi tắn hay không phụ thuộc ph�
 
   <span style="color:red;font-weight:bold">Lưu ý về lens tamron 17-50 f2.8</span>: Nguyên nhân cơ bản bản ống kính tamron này chụp hơi ám vàng, nếu bạn chụp ngoài trời nên để dayligth hoặc cố định K5200 - WB shift dương + blue tí còn chụp trong nhà thì từ K4200 đến k4500.
 
-  <p style="text-align:center; ">
-    <picture>
-
+  <p style="text-align:center; "><picture>
       <source type="image/webp" srcset="../../assets/images/nhiepanh/anhsang/cai-white-balance-nikon-am-vang.webp">
       <source type="image/jpeg" srcset="../../assets/images/nhiepanh/anhsang/cai-white-balance-nikon-am-vang.jpg">
-      <img src="../../assets/images/nhiepanh/anhsang/cai-white-balance-nikon-am-vang.jpg" alt="Hướng ánh sáng" >
-
-    </picture><br>
-  </p>
+      <img src="../../assets/images/nhiepanh/anhsang/cai-white-balance-nikon-am-vang.jpg" alt="Hướng ánh sáng" ></picture><br> </p>
 
   <span style="color:red;font-weight:bold">Cách tốt nhất</span> để có được cân bằng trắng chính xác là cài đặt thông qua Preset (PRE) nhưng bạn sẽ cần một thẻ Cân bằng trắng còn được gọi là thẻ xám hoặc thẻ xám 18%. Quá trình này bao gồm việc giữ thẻ Cân bằng trắng trước ống kính để máy ảnh đọc nhiệt độ màu chính xác của ánh sáng được phản chiếu từ thẻ.<br>
   Bên cạnh đó, một số máy ảnh có thể yêu cầu bạn chụp ảnh thẻ cân bằng trắng(GRAY CARD) trước, sau đó đọc màu của thẻ để xác định cân bằng trắng chính xác. Hãy nhớ rằng đây không phải là cài đặt vĩnh viễn của máy ảnh mà mỗi điều kiện ánh sáng thay đổi Cân bằng trắng sẽ thay đổi theo.<br>
