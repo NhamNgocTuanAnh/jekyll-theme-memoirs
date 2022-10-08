@@ -175,7 +175,6 @@
 
    ClassicEditor
       .create(document.querySelector('#editor')).then(editor => {
-
          editor.model.document.on('change:data', () => {
             theEditor = editor.getData();
             if (headContent) {
@@ -188,7 +187,6 @@
       .catch(error => {
          console.error(error);
       });
-
 
    function checkChangeForm() {
       if (document.getElementById('titleId') && document.getElementById('titleId').value) {
