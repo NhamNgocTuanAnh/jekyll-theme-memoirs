@@ -26,7 +26,7 @@ toc: false
 ---
 
 <a name="tip1"></a>
-<h2>1. Quản lý bản thân</h2>
+<h3>1. Quản lý bản thân</h3>
 Quản trị bản thân hay còn có một cách gọi khác là quản lý bản thân có nghĩa là việc kiểm soát, quản lý về tất cả mọi thứ của bản thân như: cảm xúc, suy nghĩ, hành động, lời nói,… Quản trị bản thân giúp việc định hướng rõ ràng và đảm bảo nổ lực để tìm kiếm cơ hội đạt được mục tiêu của mình.
 <div style="max-width: 100%">
 <div class="row">
@@ -111,3 +111,5 @@ Mình cũng vẫn đang trên con đường học hỏi để vượt qua chặn
   }
 }
 </style>
+
+
