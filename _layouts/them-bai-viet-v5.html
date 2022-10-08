@@ -121,6 +121,35 @@
       }
 
    </style>
+   <!-- Hướng dẫn viết bài -->
+   <style>
+      /* Định dạng các button mô tả cho nội dung*/
+      button.accordion {
+         background-color: #eee;
+         color: #444;
+         cursor: pointer;
+         padding: 18px;
+         width: 100%;
+         text-align: left;
+         border: none;
+         outline: none;
+         transition: 0.4s;
+      }
+
+      /* Thêm màu nền cho button được active hoặc được hover*/
+      button.accordion.active,
+      button.accordion:hover {
+         background-color: #ddd;
+      }
+
+      /* Thiết lập cho phần nội dung, mặc định sẽ được ẩn đi */
+      div.panel {
+         padding: 0 18px;
+         background-color: white;
+         display: none;
+      }
+
+   </style> <!-- Hướng dẫn viết bài -->
 </head>
 
 <body>
@@ -129,6 +158,35 @@
       <section class="grid extended-grid-18">
          <div class="container clearfix">
             <div class="row row-sm-sm sample-row">
+               <div class="container">
+
+                  <h2>Hướng dẫn viết bài</h2>
+
+                  <button class="accordion">Thứ tự thao tác 👍</button>
+                  <div class="panel">
+                     <ul>
+                        <li>Điền đầy đủ thông tin của một bài viết: Tiêu đề, nội dung, ...</li>
+                        <li>Đọc về lưu ý chèn ảnh</li>
+                        <li>Bấm save bài viết .md, để cùng thư mục ảnh bài viết</li>
+                        <li>Nén tất cả vài zip gửi admin</li>
+                     </ul>
+                  </div>
+
+                  <button class="accordion">Lưu ý phụ 😒</button>
+                  <div class="panel">
+                     <p>
+                        Đang phát triển😘
+                     </p>
+                  </div>
+
+                  <button class="accordion">Thông cáo chung🤞</button>
+                  <div class="panel">
+                     <p>
+                        Đang phát triển👌
+                     </p>
+                  </div>
+               </div>
+
                <div class="col-xs-12 col-md-8 gutter-sm-sm gutter-margin-xs-sm">
                   <div class="inner">
                      <form id="contact-form" class="form-horizontal" role="form">
@@ -185,14 +243,10 @@
                               <input type="checkbox" id="myCheck" onclick="myFunction()">
                            </div>
                         </div>
-                        <br>
                      </form>
-
                      <h4>Nội dung</h4>
                      <input id="editor" class="form-control" value="" rows="10" placeholder="Nội dung" name="ck-name"
                         required>
-
-
                      <button onclick="saveDynamicDataToFile();" class="btn btn-primary send-button" id="submit"
                         type="submit" value="SEND">
                         <div class="alt-send-button">
@@ -423,5 +477,27 @@
    }
 </script>
 
+<!-- Hướng dẫn viết bài -->
+<script>
+   //Lấy các button mô tả nội dung
+   var acc = document.getElementsByClassName("accordion");
+   var i;
+   //lặp qua các button để gán sự kiện
+   for (i = 0; i < acc.length; i++) {
+      acc[i].onclick = function () {
+         /* Thêm/xóa class active để đánh dấu các button đã được click */
+         this.classList.toggle("active");
+
+         /* Hiển thị hoặc ẩn nội dung khi button được click */
+         var panel = this.nextElementSibling;
+         if (panel.style.display === "block") {
+            panel.style.display = "none";
+         } else {
+            panel.style.display = "block";
+         }
+      }
+   }
+</script>
+<!-- Hướng dẫn viết bài -->
 
 </html>
