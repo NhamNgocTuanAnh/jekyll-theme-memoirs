@@ -160,18 +160,7 @@
 <script src="../ckeditor5/build/ckeditor.js"></script>
 <script src="../assets/js/FileSaver.js"></script>
 <script>
-
-   let isComment = false;
-   let titleValue = "";
-   let authorValue = "";
-   let categoryValue = "";
-   let tagValue = "";
-   let theEditor = "";
-   let headContent = "";
-   let dateValue = "";
-   let descriptionValue = "";
-
-   let dataResult = "";
+let isComment=!1,titleValue="",authorValue="",categoryValue="",tagValue="",theEditor="",headContent="",dateValue="",descriptionValue="",dataResult="";
 
    ClassicEditor
       .create(document.querySelector('#editor')).then(editor => {
@@ -248,33 +237,6 @@
       }
    });
 
-   function checkInputCategoryIds(obj) {
-      if (obj && obj.value) {
-         categoryValue = obj.value;
-         checkChangeForm();
-      }
-   }
-   function checkInputTagIds(obj) {
-      if (obj && obj.value) {
-         tagValue = obj.value;
-         checkChangeForm();
-      }
-   }
-   function checkInputAuthorId(obj) {
-      if (obj && obj.value) {
-         authorValue = obj.value;
-         checkChangeForm();
-      }
-   }
-   function checkInputTitleId(obj) {
-      if (obj && obj.value) {
-         titleValue = obj.value;
-         checkChangeForm();
-      }
-   }
-
-
-
    async function saveDynamicDataToFile() {
       if (headContent) {
          let nameFile = ""
@@ -299,22 +261,7 @@
 
    }
 
-
-   function myFunction() {
-      var checkBox = document.getElementById("myCheck");
-      if (checkBox.checked == true) {
-         isComment = true;
-      } else {
-         isComment = false;
-      }
-   }
-
-   function myFunctionCopy() {
-      if (headContent && theEditor) {
-         navigator.clipboard.writeText([headContent, theEditor].join(''));
-      }
-   }
-   function removeAccents(e){for(var r=["a\xe0ả\xe3\xe1ạăằẳẵắặ\xe2ầẩẫấậ","A\xc0Ả\xc3\xc1ẠĂẰẲẴẮẶ\xc2ẦẨẪẤẬ","dđ","DĐ","e\xe8ẻẽ\xe9ẹ\xeaềểễếệ","E\xc8ẺẼ\xc9Ẹ\xcaỀỂỄẾỆ","i\xecỉĩ\xedị","I\xccỈĨ\xcdỊ","o\xf2ỏ\xf5\xf3ọ\xf4ồổỗốộơờởỡớợ","O\xd2Ỏ\xd5\xd3Ọ\xd4ỒỔỖỐỘƠỜỞỠỚỢ","u\xf9ủũ\xfaụưừửữứự","U\xd9ỦŨ\xdaỤƯỪỬỮỨỰ","yỳỷỹ\xfdỵ","YỲỶỸ\xddỴ"],n=0;n<r.length;n++){var t=RegExp("["+r[n].substr(1)+"]","g"),a=r[n][0];e=e.replace(t,a)}return e}
+   function myFunction(){isComment=!0==document.getElementById("myCheck").checked}function myFunctionCopy(){headContent&&theEditor&&navigator.clipboard.writeText([headContent,theEditor].join(""))}function removeAccents(x){for(var e=["a\xe0ả\xe3\xe1ạăằẳẵắặ\xe2ầẩẫấậ","A\xc0Ả\xc3\xc1ẠĂẰẲẴẮẶ\xc2ẦẨẪẤẬ","dđ","DĐ","e\xe8ẻẽ\xe9ẹ\xeaềểễếệ","E\xc8ẺẼ\xc9Ẹ\xcaỀỂỄẾỆ","i\xecỉĩ\xedị","I\xccỈĨ\xcdỊ","o\xf2ỏ\xf5\xf3ọ\xf4ồổỗốộơờởỡớợ","O\xd2Ỏ\xd5\xd3Ọ\xd4ỒỔỖỐỘƠỜỞỠỚỢ","u\xf9ủũ\xfaụưừửữứự","U\xd9ỦŨ\xdaỤƯỪỬỮỨỰ","yỳỷỹ\xfdỵ","YỲỶỸ\xddỴ"],c=0;c<e.length;c++){var d=RegExp("["+e[c].substr(1)+"]","g"),n=e[c][0];x=x.replace(d,n)}return x}
 </script>
 
 <!-- Hướng dẫn viết bài -->
