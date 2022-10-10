@@ -1,8 +1,8 @@
 # Site
 lang: "vi"
-name: "AnhnnT Blogs"
-title: "AnhnnT Blogs"
-description: "Welcome to AnhnnT Blogs!<br />(－ω－) zzZ<br /> Công việc, Sức khỏe và Du lịch!"
+name: "Anh hàng xóm Blogs"
+title: "Anh hàng xóm"
+description: "Welcome to AnhHX Blogs!<br />(－ω－) zzZ<br /> Công việc, Sức khỏe và Du lịch!"
 logo: 'assets/images/logo.webp'
 favicon: 'assets/images/logo.webp'
 url: "https://nhamngoctuananh.github.io/"
@@ -10,9 +10,6 @@ url: "https://nhamngoctuananh.github.io/"
 encoding: UTF-8
 google_analytics: 'UA-192636660-1'
 
-# d589faf0c21ff43ae
-
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 email: tuananhtlu9366@gmail.com
@@ -132,35 +129,12 @@ webp:
   append_ext: false
 ############################################################
 comments: false
-#sitemap
-# sitemap:
-#   filename: "/sitemap.xml"
-#   exclude:
-#       - "/atom.xml"
-#       - "/feed.xml"
-#       - "/feed/index.xml"
-#   include_posts:
-#       - "/index.html"
-#   change_frequency_name: "change_frequency"
-#   priority_name: "priority"
-
 authorbox: "enabled"
 
 # Sass
 sass:
   sass_dir: _sass
   style: compressed
-
-google_search_console:
-  verification_file_code: 8d05216cbc02eb63
-
-defaults:
-  -
-    scope:
-      path: "photography"
-    values:
-      permalink: /:path/:basename:output_ext
-      toc: true
 
 # HTML Compression
 compress_html:
