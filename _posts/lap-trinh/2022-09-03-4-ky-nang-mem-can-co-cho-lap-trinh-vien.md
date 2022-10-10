@@ -28,30 +28,17 @@ toc: false
 <a name="tip1"></a>
 <h3>1. Quản lý bản thân</h3>
 Quản trị bản thân hay còn có một cách gọi khác là quản lý bản thân có nghĩa là việc kiểm soát, quản lý về tất cả mọi thứ của bản thân như: cảm xúc, suy nghĩ, hành động, lời nói,… Quản trị bản thân giúp việc định hướng rõ ràng và đảm bảo nổ lực để tìm kiếm cơ hội đạt được mục tiêu của mình.
-<div style="max-width: 100%">
-<div class="row">
-  <div class="column" style="background-color:#aaa;">
-    <h2>Quản lý cảm xúc	</h2>
-    <p>Hãy tìm điểm cân bằng trước khi hành động. Tìm kiếm cho mình một động lực, một tinh thần kỷ luật và một lòng kiên trì vì bất kỳ công việc nào cũng tốn nhiều công sức và áp lực trước khi đạt được kết quả. Cùng với đó hãy cởi mở tiếp thu cái mới, điều đó sẽ giúp bạn nhạy bén phát hiện điều bất thường của những điều nhỏ nhặt nhất từ đó có thể linh hoạt thay đổi với từng môi trường, từng hoàn cảnh diễn ra.</p>
-  </div>
-  <div class="column" style="background-color:#bbb;">
-    <h2>Quản lý thời gian</h2>
-    <p>Thời gian là tiền bạc. Hãy nghĩ xem điều gì đáng để bạn dành trọn cả cuộc đời? Từ đó bạn sẽ có cách quản lý thời gian hiệu quả hơn.<br>
+<div style="max-width: 100%"><div class="row"><div class="column" style="background-color:#aaa;"><h2>Quản lý cảm xúc	</h2><p>Hãy tìm điểm cân bằng trước khi hành động. Tìm kiếm cho mình một động lực, một tinh thần kỷ luật và một lòng kiên trì vì bất kỳ công việc nào cũng tốn nhiều công sức và áp lực trước khi đạt được kết quả. Cùng với đó hãy cởi mở tiếp thu cái mới, điều đó sẽ giúp bạn nhạy bén phát hiện điều bất thường của những điều nhỏ nhặt nhất từ đó có thể linh hoạt thay đổi với từng môi trường, từng hoàn cảnh diễn ra.</p></div><div class="column" style="background-color:#bbb;"><h2>Quản lý thời gian</h2><p>Thời gian là tiền bạc. Hãy nghĩ xem điều gì đáng để bạn dành trọn cả cuộc đời? Từ đó bạn sẽ có cách quản lý thời gian hiệu quả hơn.<br>
 80% thời gian – làm những việc bạn giỏi nhất.<br>
 15% thời gian – làm những việc bạn đang học hỏi.<br>
-5% thời gian – làm những việc cần thiết khác.</p>
-  </div>
-</div>
-</div>
+5% thời gian – làm những việc cần thiết khác.</p></div></div></div>
 Chỉ khi hiểu rõ bản thân mình, điểm mạnh, điểm yếu, thấy được nhu cầu và mục tiêu rõ ràng, bạn mới chuẩn bị được một kế hoạch hợp lý. Quản trị bản thânlà một con đường khó nhằn, dài vô cùng và gian nan. Cố gằng lên nhé.
-<p style="text-align:center; ">
-  <img id="imagesblog-01" src="../../assets/images/suy-nghi-nhieu.webp" alt="Gánh nặng lớn nhất của một con người là những suy nghĩ trong đầu"><br>
-</p>
+
+{% include lazyload.html image_src="../../assets/images/suy-nghi-nhieu.webp" image_alt="Gánh nặng lớn nhất của một con người là những suy nghĩ trong đầu" image_title="Gánh nặng lớn nhất của một con người là những suy nghĩ trong đầu" %}
+
 <h2>2. Tập trung cao độ</h2>
 Thuật toán đề xuất “kỳ diệu” của TikTok khiến người xem không thể ngừng xem các nội dung, thậm chí nó còn có khả năng “huấn luyện” bộ não người dùng và gây mất tập trung. Bạn nghĩ mình tự chủ khi xem video. Đúng, những video đầu là theo từ khóa search của bạn, nhưng những video sau, là do thuật toán gợi ý bạn xem.
-<p style="text-align:center; ">
-  <img id="imagesblog-02" src="../../assets/images/tiktok-gay-xao-nhang.webp" alt="tiktop gây xao nhãng"><br>
-</p>
+{% include lazyload.html image_src="../../assets/images/tiktok-gay-xao-nhang.webp" image_alt="tiktop gây xao nhãng" image_title="tiktop gây xao nhãng" %}
 Việc tạm thời ngắt kết nối khỏi mạng xã hội, smartphone và tập trung làm việc, học hành đang trở thành điều khá khó khăn với nhiều người.<br><br>
 Notification rất ồn ào, thường làm mình mất tập trung, mình cũng là con nghiện instagram, eo ôi mình lướt cả ngày với các album ảnh flim film nè, facebook lên đọc phốt. Lướt qua lướt lại mất 15p nhưng thoát được thì trong đầu vẫn nhún nhảy theo điệu nhạc của tiktok (눈_눈).<br><br>
 Mình đã <b>tắt toàn bộ Notification</b> bằng cách để chế độ im lặng gầy như 24/24. Mình thường check tin nhắn rất muộn, hoặc xem xong quên không rep luôn. Nhiều người ghét mình lắm lắm ψ( ` ∇ ´ )ψ . Nhưng biết sao được bây giờ. Nếu việc quan trọng, vẫn có thể liên lạc ngay cho mình bằng zalo, sdt mà. Mình chỉ check mail vào 11h và 14h.<br><br>
