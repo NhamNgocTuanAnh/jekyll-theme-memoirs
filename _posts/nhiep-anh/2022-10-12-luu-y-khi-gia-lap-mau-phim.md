@@ -6,7 +6,6 @@ lazyimages: "enabled"
 categories: [Nhiếp ảnh]
 tags: [đánh giá, nhiếp ảnh]
 image: assets/images/nhiepanh/gia-lap-mau-phim-avt.webp
-rating: 5
 isGithubComments: false
 permalink: nhiep-anh/luu-y-khi-gia-lap-mau-phim
 excerpt: Trong một vài năm trở lại đây, rộ lên trong giới trẻ một trào lưu “đốt film” có lẽ vì nhiều lí do nhưng phần đông chắc hẳn vì yêu thích cái “màu film”, hay cái “nước ảnh film”. Vậy đối với một người mới bắt đầu chụp film, làm thế nào để lựa cho mình một cuộn film ưng ý? Trong bài viết này, mình sẽ giới thiệu tới các bạn một vài cách phân loại film dựa theo kích cỡ, chủng loại, và mục đích sử dụng cơ bản.
