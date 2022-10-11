@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Note nhanh khi sử dụng Film Simulation'
-author: minh
+author: sal
 lazyimages: "enabled"
 categories: [Nhiếp ảnh]
 tags: [đánh giá, nhiếp ảnh]
