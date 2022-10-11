@@ -6,7 +6,7 @@ lazyimages: "enabled"
 categories: [Nhiếp ảnh]
 tags: [đánh giá, nhiếp ảnh]
 image: assets/images/nhiepanh/reviews/danh-gia-canon-800d-1.jpg
-rating: 4.1
+rating: 4
 isGithubComments: false
 permalink: nhiep-anh/danh-gia-canon-800d
 excerpt: Đánh giá Tốt. Phù hợp với người chơi nghiệp dư không có nhu cầu về độ sắc nét hoặc chụp tối cao
@@ -15,7 +15,7 @@ toc: true
 ---
 
 <!-- wp:paragraph -->
-<p><strong>Đánh giá:</strong> Khá tốt (4.1/5)</p>
+<p><strong>Đánh giá:</strong> Khá tốt (4/5)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
