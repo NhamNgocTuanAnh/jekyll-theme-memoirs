@@ -15,10 +15,20 @@ $enable-rounded: false;
 @import 'bootstrap/bootstrap';
 @import 'stars';
 
-
+@font-face {
+    font-family: 'Playfair';
+    src:  url('../assets/fonts/Playfair_Display/PlayfairDisplay-Bold.ttf') format('ttf');
+  }
+  @font-face {
+    font-family: 'Montserrat-Regular';
+    src:  url('../assets/fonts/Montserrat/Montserrat-Regular.ttf') format('ttf');
+  }
 // general
 body, input, button, select, optgroup, textarea {
-    font-family: "Times New Roman", Times, serif;
+    font-family: "Playfair", "Times New Roman", Times, serif;
+}
+h1 {
+    font-family: "Playfair", "Times New Roman", Times, serif;
 }
 body {
     line-height:1.7;
@@ -32,9 +42,14 @@ img {
     height:auto;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h2,h3,h4,h5,h6 {
     font-weight:700;
+    font-family:"Montserrat-Regular"
 }
+// h1,h2,h3,h4,h5,h6 {
+//     font-weight:700;
+//     font-family:"Montserrat-Regular"
+// }
 .site-content {
     padding-top:50px;
 }
