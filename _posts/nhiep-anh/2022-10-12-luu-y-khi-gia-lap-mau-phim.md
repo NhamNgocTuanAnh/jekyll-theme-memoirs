@@ -48,7 +48,7 @@ Mình đặc biệt thích chụp mẫu outdoor với thằng này, cho nước 
 Các bạn sẽ có quả màu tệ hại & bệt không thể nào bệt hơn. Chụp ở điều kiện ánh sáng mạnh thì perfect.
 
 Fujicolor C200: hơi hướng xanh lá đặc biệt trong điều kiện thiếu sáng. Em này có độ tương phản không quá gắt, white balance vừa đủ, thích hợp hơn chụp chân dung.
-Màu sắc nổi baajtL màu đỏ, màu xanh dương, và xanh lá - hạn chế chụp màu vàng
+Màu sắc nổi bật màu đỏ, màu xanh dương, và xanh lá - hạn chế chụp màu vàng
 
 Fujicolor Superia Xtra: ngả xanh, màu sắc hài hòa, thích hợp chụp ảnh ma mị, kiến trúc bắt mắt như viện bảo tàng, triển lãm tranh. hoặc nơi có khí hậu mát mẻ, cảnh đẹp như đà lạt, sapa
 
