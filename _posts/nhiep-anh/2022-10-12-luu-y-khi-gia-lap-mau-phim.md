@@ -14,8 +14,16 @@ adsense: "false"
 toc: true
 ---
 
-Một vài năm trở lại đây, trong giới trẻ một trào lưu “retro” với phong cách chụp ảnh phim. Họ yêu thích cái “màu film”, hay cái “nước ảnh film”. Nhưng trái ngược với việc sở hữu một chiếc máy film giá rất tốt, thì quá trình tạo chụp hình, tráng rửa lại là một rào cản lớn về tính bất tiện của nó so với xã hội ngày nay. Nên nhiều người đã dùng xu hướng chụp ảnh về rồi thêm giả lập màu phim vào(
-Film Simulation). Nhưng việc lựa chọn một màu phim phù hợp với tông ảnh là không hề dễ dàng? Trong bài viết này, mình sẽ giới thiệu tới các bạn một vài sử dụng cũng như giới thiệu một số giả lập màu phim cơ bản bằng chính cách cách phân loại film thực dựa theo kích cỡ, chủng loại, và mục đích sử dụng cơ bản.
+#filmphotolifestyle
+Một vài năm trở lại đây, trong giới trẻ một trào lưu “retro” với phong cách chụp ảnh phim. Họ yêu thích cái “màu film”, hay cái “nước ảnh film”.
+
+Nhưng trái ngược với việc sở hữu một chiếc máy film giá rất tốt, thì quá trình tạo chụp hình, tráng rửa lại là một rào cản lớn về tính bất tiện của nó so với xã hội ngày nay. //
+
+Không chỉ vì bị giới hạn bởi 24, 36 tấm mà còn vì giá tiền của các cuộn đang tăng lên. Giá trung bình của một cuộn phim phổ thông dao động trên thị trường từ 180.000 đồng - 220.000 đồng, chưa kể còn phải thêm chi phí tráng phim ở lab.
+
+Vậy làm thế nào để vừa có thể chục nhanh trong một xã hội vội, lại vừa có thể ở hữu những bức ảnh mang gam màu không – đụng - hàng?.
+
+Nên nhiều người đã dùng xu hướng chụp ảnh về rồi thêm giả lập màu phim vào(Film Simulation). Nhưng việc lựa chọn một màu phim phù hợp với tông ảnh phù hợp cũng chẳng phải dễ dàng? Trong bài viết này, mình sẽ giới thiệu tới các bạn một vài sử dụng cũng như giới thiệu một số giả lập màu phim cơ bản bằng chính cách cách phân loại film thực dựa theo kích cỡ, chủng loại, và mục đích sử dụng cơ bản.
 
 {% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/mau_phim_Fuji_super_400_expired.webp" image_alt="Fuji super 400 expired" image_title="Fuji super 400 expired" %}
 
