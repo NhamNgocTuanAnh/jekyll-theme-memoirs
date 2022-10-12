@@ -21,16 +21,7 @@ toc: false
 #filmphotolifestyle <br>
 Một vài năm trở lại đây, trong giới trẻ một trào lưu «retro» với phong cách chụp ảnh phim. Giá trung bình của một cuộn phim phổ thông dao động trên thị trường từ 180.000 đồng - 220.000 đồng, chưa kể còn phải thêm chi phí tráng phim ở lab. Nên nhiều người đã dùng xu hướng chụp ảnh về rồi thêm giả lập màu phim vào. Trong bài viết này, mình sẽ giới thiệu tới các bạn một vài cách sử dụng cũng như giới thiệu một số giả lập màu phim cơ bản.
 
-### Chụp chân dung
 
-Vì chụp chân dung nên đa số các bạn sẽ chụp ở dải iso thấp 50-1600, khẩu lớn, tốc chậm để có ảnh noise thấp nhất.
-{% include lazyload.html image_src="../../assets/images/nhiepanh/introduce/IMG_4246.webp" image_alt="Portra 400" image_title="Portra 400" %}
-Các loại film ad recommend là: portra160/400, proimage100, ektar100, pro400h,.. đây là các dòng film cao cấp chuyên để chụp chân dung <br>
-Vì mình giả lập nên film gì đắt nhất xịnh nhất cứ lấy ra mà sài thôi 😁
-{% include lazyload.html image_src="../../assets/images/nhiepanh/introduce/IMG_5756.webp" image_alt="Vista 200" image_title="Vista 200" %}
-Hoặc nếu muốn màu phổ thông như các đồng nhiệp trên group thì chơi giả lập màu colorplus200, nội địa 100, vista200/400.<br>
-Mình không thực sự recommend c200 lắm vì thực sự màu film này nó hơi khó chiều, nếu chụp các bạn nên chụp dư sáng ra, set iso tầm thấp để có thể dư sáng vì film này màu rất dễ bị  xỉn và xám nhiều và Nếu chụp người thiếu sáng thì sẽ  nhìn như người sao hỏa vậy :v<br>
-Mẹo nhỏ nữa là chụp dư sáng để da mẫu trắng hơn tý. Nhớ là dùng đúng lúc nhé. Không váy trắng của mẫu mất chi tiết hết 🤣
 
 ### Chụp streetlife
 {% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/mau_phim_Fuji_C200.webp" image_alt="Fujifilm C200" image_title="Fujifilm C200" %}
@@ -44,6 +35,16 @@ Vì ngày trời mưa trời xám xịt nói thật đến mắt người nhìn 
 {% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/gia-lap-mau-phim.webp" image_alt="Quên công thức rồi, huhu" image_title="Quên công thức rồi, huhu" %}
 Chụp cảnh thì các bạn cũng nên để máy ảnh iso từ 100-400 để ít noise.<br>
 Các loại giả lập film mà mình recommend là: ektar100, vista200, fujic200, lomo100/400,…
+### Chụp chân dung
+
+Vì chụp chân dung nên đa số các bạn sẽ chụp ở dải iso thấp 50-1600, khẩu lớn, tốc chậm để có ảnh noise thấp nhất.
+{% include lazyload.html image_src="../../assets/images/nhiepanh/introduce/IMG_4246.webp" image_alt="Portra 400" image_title="Portra 400" %}
+Các loại film ad recommend là: portra160/400, proimage100, ektar100, pro400h,.. đây là các dòng film cao cấp chuyên để chụp chân dung <br>
+Vì mình giả lập nên film gì đắt nhất xịnh nhất cứ lấy ra mà sài thôi 😁
+{% include lazyload.html image_src="../../assets/images/nhiepanh/introduce/IMG_5756.webp" image_alt="Vista 200" image_title="Vista 200" %}
+Hoặc nếu muốn màu phổ thông như các đồng nhiệp trên group thì chơi giả lập màu colorplus200, nội địa 100, vista200/400.<br>
+Mình không thực sự recommend c200 lắm vì thực sự màu film này nó hơi khó chiều, nếu chụp các bạn nên chụp dư sáng ra, set iso tầm thấp để có thể dư sáng vì film này màu rất dễ bị  xỉn và xám nhiều và Nếu chụp người thiếu sáng thì sẽ  nhìn như người sao hỏa vậy :v<br>
+Mẹo nhỏ nữa là chụp dư sáng để da mẫu trắng hơn tý. Nhớ là dùng đúng lúc nhé. Không váy trắng của mẫu mất chi tiết hết 🤣
 
 ### Chụp trắng đen
 {% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/mau-phim-Pan-F-50.webp" image_alt="Pan F 50" image_title="Pan F 50" %}
