@@ -27,6 +27,8 @@ Nên nhiều người đã dùng xu hướng chụp ảnh về rồi thê
 
 {% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/mau_phim_Fuji_super_400_expired.webp" image_alt="Fujifilm super 400" image_title="Fujifilm super 400" %}
 
+{% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/mau_phim_Fuji_C200.webp" image_alt="FujiC200" image_title="FujiC200" %}
+
 Fuji color 100: Ám xanh lá: nơi trong lành mát mẻ, khắc phục chọn những nơi có tông màu nóng haowjc mẫu có quần áo rực rỡ,ám vàng đặc biệt nặng.Chụp trong nhà hay chỗ râm mát ánh sáng yếu thì bệt khá nặng, grain cũng siêu nhiều
 
 Kodak Gold 100: Màu ảnh của Kodak gold rất hịn, tông màu xanh lá cây rất sâu, nhìn thích mắt, không bị pha tẹo yellow.
