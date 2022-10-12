@@ -7,7 +7,7 @@ categories: [Nhiếp ảnh]
 tags: [đánh giá, nhiếp ảnh]
 image: assets/images/nhiepanh/gia-lap-mau-phim-avt.webp
 isGithubComments: false
-permalink: nhiep-anh/luu-y-khi-gia-lap-mau-phim
+permalink: nhiep-anh/chon-cuon-phim-dau-tien
 excerpt: Trái ngược với việc sở hữu một chiếc máy film giá rất tốt, thì quá trình tạo chụp hình, tráng rửa lại là một rào cản lớn về tính bất tiện của nó so với xã hội ngày nay. Trong bài viết này, mình sẽ giới thiệu tới các bạn một vài sử dụng cũng như giới thiệu một số giả lập màu phim cơ bản bằng chính cách cách phân loại film thực dựa theo kích cỡ, chủng loại, và mục đích sử dụng cơ bản.
 description: Trái ngược với việc sở hữu một chiếc máy film giá rất tốt, thì quá trình tạo chụp hình, tráng rửa lại là một rào cản lớn về tính bất tiện của nó so với xã hội ngày nay. Trong bài viết này, mình sẽ giới thiệu tới các bạn một vài sử dụng cũng như giới thiệu một số giả lập màu phim cơ bản bằng chính cách cách phân loại film thực dựa theo kích cỡ, chủng loại, và mục đích sử dụng cơ bản.
 adsense: "false"
