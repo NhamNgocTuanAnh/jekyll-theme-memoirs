@@ -38,10 +38,8 @@ Thường hình thức này thì chụp ở tốc cao, khẩu nhỏ đê
 Với thể loại này thì mình không recommend loại nào cả vì giả lập film nào cũng có thể đem ra dùng được bằng hết.
 
 ### Chụp cảnh
-
-Recommend: Ngày nắng đẹp
-
-{% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/mau_phim_Fuji_super_400_expired.webp" image_alt="Fujifilm super 400" image_title="Fujifilm super 400" %}
+{% include lazyload.html image_src="../../assets/images/IMG_4009_resize-1024x729.webp" image_alt="Kodak colorplus" image_title="Kodak colorplus" %}
+Recommend: Ngày nắng đẹp<br>
 Vì ngày trời mưa trời xám xịt nói thật đến mắt người nhìn còn chán, huống hồ cái máy :D.<br>
 {% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/gia-lap-mau-phim.webp" image_alt="Quên công thức rồi, huhu" image_title="Quên công thức rồi, huhu" %}
 Chụp cảnh thì các bạn cũng nên để máy ảnh iso từ 100-400 để ít noise.<br>
@@ -53,7 +51,7 @@ Loại này phải để nói riêng, khá khó chụp, mình chưa có ki
 
 > Các bạn lưu ý là giả lập film chỉ ảnh hưởng khoảng 50% đến chất ảnh, còn lại 50% là do ống kính & máy ảnh bạn đang dùng + điều kiện white balance nữa nhé, nên là ốp mầu film xông ảnh lên xanh lè hoặc vàng khè thì đừng chửi mình. =))
 
-Mình có viết một bài về cách chọn film mà mình sưu tầm được. Bạn có thể đón đọc tại đây.
-
+Mình có viết một bài về cách chọn film mà mình sưu tầm được. Bạn có thể đón đọc tại đây. Khó hiểu nhỉ.( ఠ ͟ʖ ఠ) Tại sao chơi giả lập rồi đọc chi vậy???
+{% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/mau_phim_Fuji_super_400_expired.webp" image_alt="Fujifilm super 400" image_title="Fujifilm super 400" %}
 **Vì sao ư???** Khi bạn hiểu được cách hoạt động của các cuộn film. Bạn sẽ không cần **lục tung** lightroom để thử từng màu film nữa mà đã **có sẵn** mindset **trong đầu** cho kế hoạch chụp ngày hôm đó cùng **mình** rồi.
 (¬‿¬ ) Phải không nào.
