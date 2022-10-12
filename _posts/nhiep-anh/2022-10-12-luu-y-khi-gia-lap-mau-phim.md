@@ -56,5 +56,4 @@ Loại này phải để nói riêng, khá khó chụp, mình chưa có ki
 Mình có viết một bài về cách chọn film mà mình sưu tầm được. Bạn có thể đón đọc tại đây.
 
 **Vì sao ư???** Khi bạn hiểu được cách hoạt động của các cuộn film. Bạn sẽ không cần **lục tung** lightroom để thử từng màu film nữa mà đã **có sẵn** mindset **trong đầu** cho kế hoạch chụp ngày hôm đó cùng **mình** rồi.
-
 (¬‿¬ ) Phải không nào.
