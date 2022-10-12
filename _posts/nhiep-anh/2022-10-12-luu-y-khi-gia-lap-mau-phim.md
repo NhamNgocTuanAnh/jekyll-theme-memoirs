@@ -25,7 +25,7 @@ Vậy làm thế nào để vừa có thể chục nhanh trong một xa
 
 Nên nhiều người đã dùng xu hướng chụp ảnh về rồi thêm giả lập màu phim vào(Film Simulation). Nhưng việc lựa chọn một màu phim phù hợp với tông ảnh phù hợp cũng chẳng phải dễ dàng? Trong bài viết này, mình sẽ giới thiệu tới các bạn một vài sử dụng cũng như giới thiệu một số giả lập màu phim cơ bản bằng chính cách cách phân loại film thực dựa theo kích cỡ, chủng loại, và mục đích sử dụng cơ bản.
 
-{% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/mau_phim_Fuji_super_400_expired.webp" image_alt="Fuji super 400 expired" image_title="Fuji super 400 expired" %}
+{% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/mau_phim_Fuji_super_400_expired.webp" image_alt="Fujifilm super 400" image_title="Fujifilm super 400" %}
 
 Fuji color 100: Ám xanh lá: nơi trong lành mát mẻ, khắc phục chọn những nơi có tông màu nóng haowjc mẫu có quần áo rực rỡ,ám vàng đặc biệt nặng.Chụp trong nhà hay chỗ râm mát ánh sáng yếu thì bệt khá nặng, grain cũng siêu nhiều
 
@@ -81,3 +81,31 @@ https://www.facebook.com/BackToTheFutureCamera/posts/622175474805056/
 https://www.facebook.com/pspanel/posts/467713180315067/
 https://nhamnhi.info/chup-anh-dao/moi-tap-chup-thi-dung-loai-film-nao.html
 https://www.borntoride.vn/life-style/chup-film-cho-nguoi-moi-bat-dau-phan-loai-film/
+
+
+Chụp chân dung:
+Vì chụp chân dung nên đa số các bạn sẽ chụp ở dải iso thấp 50-1600, khẩu lớn, tốc chậm để có ảnh noise thấp nhất.
+Các loại film ad recommend là: portra160/400, proimage100, ektar100, pro400h,.. đây là các dòng film cao cấp chuyên để chụp chân dung
+mà vẫn cho chất lượng khá tốt như: colorplus200, nội địa 100, vista200/400.
+Ad không thực sự recommend c200 lắm vì thực sự film này nó hơi khó chiều tí, nếu chụp các bạn nên chụp dư sáng ra, set iso tầm 100 để có thể dư sáng thì chụp sẽ ổn hơn vì film này màu khá là xỉn và xám nhiều và chụp thiếu sáng mà chụp người nhìn như người sao hỏa vậy :v
+
+Vì mình giả lập nên film gì đắt nhất xịnh nhất cứ lấy ra mà sài thôi 😁
+
+Mẹo nhỏ nữa là chụp dư sáng để da mẫu trắng hơn tý. Nhớ là dùng đúng lúc nhé. Không váy trắng của mẫu mất chi tiết hết 🤣
+
+Chụp streetlife:
+Thường hình thức này thì chụp ở tốc cao, khẩu nhỏ để bắt khoảnh khắc nên iso cao.
+các bạn nên chọn các dòng film iso 400-800 để có thể chụp ở tốc cao bắt khoảnh khắc,
+với thể loại này thì ad không recommend loại film nào cả vì film nào cũng có thể đem chụp hết miễn trong dải iso từ 400 - 800
+
+Chụp cảnh:
+Recommend: Ngày nắng đẹp
+
+chụp cảnh thì các bạn cũng nên dùng các loại iso thấp từ 100-400 để grain nó sẽ không bị nổi quá nhiều, ngoài ra cũng thích hợp cho các bạn thích chụp phơi sáng (long exposure).
+Các loại film mà ad recommend là: ektar100, vista200, fujic200, lomo100/400,...
+
+Chụp trắng đen:
+loại này phải để riên, khá khó chụp, mình chưa có kinh nghiệm nên mình sẽ chúc bạn may mắn thôi :D
+
+Các bạn lưu ý là giả lập film chỉ ảnh hưởng khoảng 50% đến chất ảnh, còn lại 50% là do ống kính & máy ảnh bạn đang dùng + điều kiện white balance nữa nhé,
+nên là ốp mầu film xông ảnh lên xanh lè hoặc vàng khè thì đừng chửi mình.
