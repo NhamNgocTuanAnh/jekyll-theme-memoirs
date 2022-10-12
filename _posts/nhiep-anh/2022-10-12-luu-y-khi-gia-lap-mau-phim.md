@@ -8,14 +8,14 @@ tags: [đánh giá, nhiếp ảnh]
 image: assets/images/nhiepanh/gia-lap-mau-phim-avt.webp
 isGithubComments: false
 permalink: nhiep-anh/luu-y-khi-gia-lap-mau-phim
-excerpt: Trong một vài năm trở lại đây, rộ lên trong giới trẻ một trào lưu “đốt film” có lẽ vì nhiều lí do nhưng phần đông chắc hẳn vì yêu thích cái “màu film”, hay cái “nước ảnh film”. Vậy đối với một người mới bắt đầu chụp film, làm thế nào để lựa cho mình một cuộn film ưng ý? Trong bài viết này, mình sẽ giới thiệu tới các bạn một vài cách phân loại film dựa theo kích cỡ, chủng loại, và mục đích sử dụng cơ bản.
+excerpt: Trái ngược với việc sở hữu một chiếc máy film giá rất tốt, thì quá trình tạo chụp hình, tráng rửa lại là một rào cản lớn về tính bất tiện của nó so với xã hội ngày nay. Trong bài viết này, mình sẽ giới thiệu tới các bạn một vài sử dụng cũng như giới thiệu một số giả lập màu phim cơ bản bằng chính cách cách phân loại film thực dựa theo kích cỡ, chủng loại, và mục đích sử dụng cơ bản.
+description: Trái ngược với việc sở hữu một chiếc máy film giá rất tốt, thì quá trình tạo chụp hình, tráng rửa lại là một rào cản lớn về tính bất tiện của nó so với xã hội ngày nay. Trong bài viết này, mình sẽ giới thiệu tới các bạn một vài sử dụng cũng như giới thiệu một số giả lập màu phim cơ bản bằng chính cách cách phân loại film thực dựa theo kích cỡ, chủng loại, và mục đích sử dụng cơ bản.
 adsense: "false"
 toc: true
 ---
 
-Trong một vài năm trở lại đây, rộ lên trong giới trẻ một trào lưu “đốt film” có lẽ vì nhiều lí do nhưng phần đông chắc hẳn vì yêu thích cái “màu film”, hay cái “nước ảnh film”.
-
-Vậy đối với một người mới bắt đầu chụp film, làm thế nào để lựa cho mình một cuộn film ưng ý? Trong bài viết này, mình sẽ giới thiệu tới các bạn một vài cách phân loại film dựa theo kích cỡ, chủng loại, và mục đích sử dụng cơ bản.
+Một vài năm trở lại đây, trong giới trẻ một trào lưu “retro” với phong cách chụp ảnh phim. Họ yêu thích cái “màu film”, hay cái “nước ảnh film”. Nhưng trái ngược với việc sở hữu một chiếc máy film giá rất tốt, thì quá trình tạo chụp hình, tráng rửa lại là một rào cản lớn về tính bất tiện của nó so với xã hội ngày nay. Nên nhiều người đã dùng xu hướng chụp ảnh về rồi thêm giả lập màu phim vào(
+Film Simulation). Nhưng việc lựa chọn một màu phim phù hợp với tông ảnh là không hề dễ dàng? Trong bài viết này, mình sẽ giới thiệu tới các bạn một vài sử dụng cũng như giới thiệu một số giả lập màu phim cơ bản bằng chính cách cách phân loại film thực dựa theo kích cỡ, chủng loại, và mục đích sử dụng cơ bản.
 
 {% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/mau_phim_Fuji_super_400_expired.webp" image_alt="Fuji super 400 expired" image_title="Fuji super 400 expired" %}
 
