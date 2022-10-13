@@ -37,7 +37,7 @@ Các loại giả lập film mà mình recommend là: **ektar100, vista200, fuji
 
 Vì chụp chân dung nên đa số các bạn sẽ chụp ở dải iso thấp 50-1600, khẩu lớn, tốc chậm để có ảnh noise thấp nhất.
 {% include lazyload.html image_src="../../assets/images/nhiepanh/introduce/IMG_4246.webp" image_alt="Portra 400" image_title="Portra 400" %}
-Các loại film ad recommend là: **portra160/400, proimage100, ektar100, pro400h**,.. đây là các dòng film cao cấp chuyên để chụp chân dung <br>
+Recommend là: **portra160/400, proimage100, ektar100, pro400h**,.. đây là các dòng film cao cấp chuyên để chụp chân dung <br>
 Vì mình giả lập nên film gì đắt nhất xịnh nhất cứ lấy ra mà sài thôi 😁
 {% include lazyload.html image_src="../../assets/images/nhiepanh/introduce/IMG_5756.webp" image_alt="Vista 200" image_title="Vista 200" %}
 Hoặc nếu muốn màu phổ thông như các đồng nhiệp trên group thì chơi giả lập màu **colorplus200, nội địa 100, vista200/400**.<br>
@@ -50,7 +50,7 @@ Loại này phải để nói riêng, khá khó chụp, mình chưa có ki
 
 > Các bạn lưu ý là giả lập film chỉ ảnh hưởng khoảng 50% đến chất ảnh, còn lại 50% là do ống kính & máy ảnh bạn đang dùng + điều kiện white balance nữa nhé, nên là ốp mầu film xông ảnh lên xanh lè hoặc vàng khè thì đừng chửi mình. =))
 
-Mình có viết một bài về cách chọn film mà mình sưu tầm được. Bạn có thể đón đọc tại đây. Khó hiểu nhỉ.( ఠ ͟ʖ ఠ) Tại sao chơi giả lập rồi đọc chi vậy???
+Mình có viết một bài về cách chọn film mà mình sưu tầm được. Bạn có thể đón đọc tại đây. **Khó hiểu nhỉ?**.( ఠ ͟ʖ ఠ) Tại sao chơi giả lập rồi đọc chi vậy???
 {% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/mau_phim_Fuji_super_400_expired.webp" image_alt="Fujifilm super 400" image_title="Fujifilm super 400" %}
 **Vì sao ư???** Khi bạn hiểu được cách hoạt động của các cuộn film. Bạn sẽ không cần **lục tung** lightroom để thử từng màu film nữa mà đã **có sẵn** mindset **trong đầu** cho kế hoạch chụp ngày hôm đó cùng **mình** rồi.
 (¬‿¬ ) Phải không nào.
