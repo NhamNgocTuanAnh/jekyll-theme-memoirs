@@ -121,7 +121,7 @@ permalink: "/categories.html"
             {% for post in pages_list %}
             {% if post.title != null %}
             {% if group == null or group == post.group %}
-            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}
+            <a href="{{ site.baseurl }}{{ post.url }}">👉{{ post.title }}
                 . || <small class="post-date">Ngày đăng: {{ post.date | date_to_string }}</small> </a>
             {% endif %}
             {% endif %}
