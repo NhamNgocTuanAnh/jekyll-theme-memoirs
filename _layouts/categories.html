@@ -15,8 +15,6 @@ permalink: "/categories.html"
     a {
         text-decoration: none;
     }
-
-
     .accordion {
         width: 100%;
         margin: 30px auto 20px;
@@ -107,22 +105,17 @@ permalink: "/categories.html"
 <hr>
 <h2><span>🎲 Thể loại:</span></h2>
 <ul id="accordion" class="accordion">
-
     <li>
         {% assign sorted_cats = site.categories | sort %}
 
         {% for category in sorted_cats %}
-        <div class="link">
-            <h3 id="{{ category[0] | replace: " "," -" }}"><span>{{ category[0] }}</span><span
-                    class="badge pull-right">({{ category[1].size }} post)</span></h3><i class="fa fa-chevron-down"></i>
-        </div>
+        <div class="link"><h3 id="{{ category[0] | replace: " "," -" }}"><span>{{ category[0] }}</span><span class="badge pull-right">({{ category[1].size }} post)</span></h3><i class="fa fa-chevron-down"></i></div>
         <ul class="submenu">
             {% assign pages_list = category[1] | sort: 'title' %}
             {% for post in pages_list %}
             {% if post.title != null %}
             {% if group == null or group == post.group %}
-            <a href="{{ site.baseurl }}{{ post.url }}">👉{{ post.title }}
-                . || <small class="post-date">Ngày đăng: {{ post.date | date_to_string }}</small> </a>
+            <a href="{{ site.baseurl }}{{ post.url }}">👉{{ post.title }}.</a>
             {% endif %}
             {% endif %}
             {% endfor %}
