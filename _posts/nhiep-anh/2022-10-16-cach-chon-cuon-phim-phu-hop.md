@@ -3,8 +3,8 @@ layout: post
 title: 'Note nhanh khi sử dụng Film Simulation'
 author: sal
 lazyimages: "enabled"
-categories: [Nhiếp ảnh]
-tags: [đánh giá, nhiếp ảnh]
+categories: [ Note, Nhiếp ảnh ]
+tags: [ Tra cứu nhanh, đánh giá, nhiếp ảnh]
 image: assets/images/nhiepanh/gia-lap-mau-phim-avt.webp
 isGithubComments: false
 permalink: nhiep-anh/chon-cuon-phim-dau-tien
