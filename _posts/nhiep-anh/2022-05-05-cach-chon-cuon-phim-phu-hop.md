@@ -67,4 +67,4 @@ Trời xanh lên đẹp, thiếu sáng thì shadow bị mất chi tiết nhiều
 *   Chụp người thì provia cho kinh tế. Chụp đúng sáng, xuôi sáng (chụp ngược sáng lên ảnh đẹp cực khó).
 *   Nên chụp ở những điều kiện ánh sáng chan hòa, không quá gắt cũng không quá tối. Ví dụ ngoài trời mây vừa, mây nhiều, bình minh, hoàng hôn, trong bóng cây hoặc trong nhà có nhiều cửa sổ, hạn chế chụp ngược sáng.
 *   Thiếu sáng hay thừa sáng ảnh đều xấu.
-{% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/cuon-phim/mau-phim-chan-dung-1.webp" image_alt="Xách máy lên và đi" image_title="@Khang anh. film outdate" %}
+{% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/cuon-phim/mau-phim-chan-dung-1.webp" image_alt="Xách máy lên và đi" image_title="Film outdate @Khang anh." %}
