@@ -34,7 +34,7 @@ Develop & Scan: Ella.bkk" %}
 #### 1.2. Kodak Gold 100
 {% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/cuon-phim/mau-phim-Kodak-Gold-100-phongcanh.webp" image_alt="@KodakGold100" image_title="@KodakGold100" %}
 Màu ảnh của Kodak gold rất hịn, Kodak gold cũng đã hạn chế(hạn chế thôi nhé, chưa chữa khỏi hẳn) được bệnh ám vàng thường thấy ở Kodak colorplus 200. Tông màu xanh lá cây rất sâu, nhìn thích mắt, không bị pha tẹo yellow.<br>
-Grain: rain của Kodak gold rất ít, ảnh chụp trong điều kiện đủ sáng rất mịn.
+Grain của Kodak gold rất ít, ảnh chụp trong điều kiện đủ sáng rất mịn.
 {% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/cuon-phim/mau-phim-Kodak-Gold-100-chandung.webp" image_alt="@KodakGold100" image_title="@KodakGold100" %}
 Đặc biệt thích hợp cho các bạn chụp mẫu, da lên mịn, nịnh như máy số canon. màu ảo diệu: vàng, đỏ, xanh dương và xanh lá.<br>
 Ám vàng khè: chụp ở nơi có ánh sáng vàng gắt thì vc :v. :D
