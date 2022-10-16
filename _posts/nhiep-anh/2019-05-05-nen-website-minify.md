@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Một số trang web phổ biến nén html,css, js'
+title: 'Tăng tốc website với Minify CSS, HTML'
 author: sal
 lazyimages: "enabled"
 categories: [ Note, Lập trình ]
@@ -8,13 +8,13 @@ tags: [ Tra cứu nhanh, Lập trình]
 image: assets/images/laptrinh/lap-tring-nen-html-css-Minify.webp
 isGithubComments: false
 permalink: lap-trinh/nen-website-minify
-excerpt: Một số trang web phổ biến nén html,css, js
-description: Một số trang web phổ biến nén html,css, js
+excerpt: Tăng tốc website, Một số trang web phổ biến nén html,css, js
+description: Tăng tốc website, Một số trang web phổ biến nén html,css, js
 adsense: "false"
 toc: false
 ---
 
-### Mục lục
+**Mục lục**
 * TOC
 {:toc}
 

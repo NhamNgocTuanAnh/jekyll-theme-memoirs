@@ -29,10 +29,7 @@ Street style đã len vào mọi ngóc ngách của làng thời trang hiện đ
 [5. Chụp chuyển động](#tip5)
 
 <a name="tip1"></a>
-
 <h3>1. Đừng đứng im</h3>
-
-<!-- 2 columns offset -->
 <div class="container">
   <div class="row">
     <div class="col-xs-12 col-sm-4">
