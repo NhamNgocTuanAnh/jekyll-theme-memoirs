@@ -100,14 +100,11 @@ adsense: "enabled"
 <!-- /wp:paragraph -->
 <a name="tip3"></a>
 <h2>3. Chất lượng hình ảnh </h2>
-  <img id="imagesblog-01" src="../../assets/images/nhiepanh/ef-50mm-f1.2l-viltrox-ef-eos-m2-na-canon-m50-vs-canon-50-2.webp" alt="Nikon D600 Dynamic Range"><br>
+{% include lazyload.html image_src="../../assets/images/nhiepanh/ef-50mm-f1.2l-viltrox-ef-eos-m2-na-canon-m50-vs-canon-50-2.webp" image_alt="viltrox-ef-eos-m2 tốt thế nào" image_title="Chất lượng ảnh Fullframe và viltrox-ef-eos-m2 + Crop" %}
 Nhìn tổng thể bức ảnh thì Viltrox-EF-EOSM2 có vẻ hẹp hơn một chút. độ nét vùng trung tâm khá tốt, nhưng cùng zoom phần rìa ảnh thì hình ảnh có xuất hiện viền tím. Phải khép khẩu rất sâu mới đỡ.
-  <img id="imagesblog-03" src="../../assets/images/nhiepanh/danh-gia-viltrox-ef-eos-m2-3-3.webp" alt="đánh giá viltrox-ef-eos-m2 với canon 6d và canon m3" class="lazy-bg lazyload"><br>
-
+{% include lazyload.html image_src="../../assets/images/nhiepanh/danh-gia-viltrox-ef-eos-m2-3-3.webp" image_alt="đánh giá viltrox-ef-eos-m2 với canon 6d và canon m3" image_title="canon 6d và viltrox-ef-eos-m2 + canon m3" %}
 Dù cấp cho bạn góc nhìn tiệm cận fullframe nhưng vì cảm biến nhỏ hơn, bạn vẫn có thể nhận thấy noise rõ rệt.
-
-  <img id="imagesblog-03" src="../../assets/images/nhiepanh/danh-gia-viltrox-ef-eos-m2-3-4.webp" alt="Viltrox EF-EOS M2 chụp đêm ra sao" class="lazy-bg lazyload"><br>
-
+{% include lazyload.html image_src="../../assets/images/nhiepanh/danh-gia-viltrox-ef-eos-m2-3-4.webp" image_alt="Viltrox EF-EOS M2 chụp đêm ra sao nhỉ" image_title="Viltrox EF-EOS M2 chụp đêm" %}
 <a name="tip4"></a>
 <h2>4. Tổng kết đánh giá chung và tư vấn</h2>
 Cả 2 ngàm này khi test với ống 50STM và máy canon M50 đều cho ra tốc độ bắt nét khá ổn định và nhanh. Ngàm Viltrox không để lại tốc độ bắt nét chậm hơn ngàm Canon.
@@ -137,11 +134,8 @@ Nhược điểm:
 
 Nếu bạn đã có sẵn một số lens canon EF, việc sử dụng Viltrox-EF-EOSM2 là cực kỳ tối ưu. Với những bạn đang giữ canon M50 và thích quay 4K, việc bị crop thêm vào là khá khó chịu, Viltrox-EF-EOSM2 cũng sẽ khiến cho góc nhìn của bạn rộng hơn. Bạn đang sử dụng crop miroless canon mà muốn có góc nhìn của fullframe, bạn đã có các lens cho full frame ví dụ canon 50mm F1.8 STM hoặc canon 85mm F1.8 USM.<br>
 Ngàm Canon được bán trên thị trường với giá khoảng hơn 2 triệu. Như vậy có thể thấy ngàm Canon gần ngang giá so với Ngàm chuyển viltrox EF to EOS M2.
-
-  <img id="imagesblog-03" src="../../assets/images/nhiepanh/Viltrox-EF-EOSM2-lens-mount-adapter-viltroxvn-05.webp" alt="ống kính phù hợp với Viltrox-EF-EOSM2" class="lazy-bg lazyload" ><br>
-
+{% include lazyload.html image_src="../../assets/images/nhiepanh/Viltrox-EF-EOSM2-lens-mount-adapter-viltroxvn-05.webp" image_alt="Ống kính tương thích Viltrox-EF-EOSM2" image_title="ống kính phù hợp với Viltrox-EF-EOSM2" %}
 Bạn sẽ không nên mua Viltrox-EF-EOSM2 trong các trường hợp dưới đây:
-
 <ul>
   <li>Yêu cầu khắt khe về chất lượng ảnh chân dung và có tài chính gấp đôi, gấp ba. Lúc đó bạn có thể lựa chọn dòng fullframe hoặc lens sigma art hoặc tamron hoặc viltrox để có được tốc độ bắt nét tốt nhất và tránh được hiện tượng viền tím.</li>
   <li>Chuyên chụp phong cảnh và cũng có tài chính gấp đôi.</li>
