@@ -74,17 +74,18 @@ permalink: "/categories.html"
         transform: rotate(180deg);
     }
 
-    .submenu {
+    .submenu-ca {
         display: none;
         /* background: #444359; */
         font-size: 14px;
     }
 
-    .submenu li {
+    .submenu-ca li {
         border-bottom: 1px solid #4b4a5e;
     }
 
-    .submenu a {
+    .submenu-ca a {
+        padding-left: 5px;
         display: block;
         text-decoration: none;
         font-size: 16px;
@@ -94,7 +95,7 @@ permalink: "/categories.html"
         transition: all 0.25s ease;
     }
 
-    .submenu a:hover {
+    .submenu-ca a:hover {
         background: #b63b4d;
         color: #FFF;
     }
@@ -110,12 +111,14 @@ permalink: "/categories.html"
 
         {% for category in sorted_cats %}
         <div class="link"><h3 id="{{ category[0] | replace: " "," -" }}"><span>{{ category[0] }}</span><span class="badge pull-right">({{ category[1].size }} post)</span></h3><i class="fa fa-chevron-down"></i></div>
-        <ul class="submenu">
+        <ul class="submenu-ca">
             {% assign pages_list = category[1] | sort: 'title' %}
             {% for post in pages_list %}
             {% if post.title != null %}
             {% if group == null or group == post.group %}
-            <a href="{{ site.baseurl }}{{ post.url }}">👉{{ post.title }}.</a>
+
+                <a style="padding-left: -5px;" href="{{ site.baseurl }}{{ post.url }}">👉{{ post.title }}.</a>
+
             {% endif %}
             {% endif %}
             {% endfor %}
@@ -128,5 +131,5 @@ permalink: "/categories.html"
 </ul>
 
 <script>
-$(function(){var e=function(e,t){this.el=e||{},this.multiple=t||!1,this.el.find(".link").on("click",{el:this.el,multiple:this.multiple},this.dropdown)};e.prototype.dropdown=function(e){var t=e.data.el;($next=($this=$(this)).next()).slideToggle(),$this.parent().toggleClass("open"),e.data.multiple||t.find(".submenu").not($next).slideUp().parent().removeClass("open")},new e($("#accordion"),!1)});
+$(function(){var e=function(e,t){this.el=e||{},this.multiple=t||!1,this.el.find(".link").on("click",{el:this.el,multiple:this.multiple},this.dropdown)};e.prototype.dropdown=function(e){var t=e.data.el;($next=($this=$(this)).next()).slideToggle(),$this.parent().toggleClass("open"),e.data.multiple||t.find(".submenu-ca").not($next).slideUp().parent().removeClass("open")},new e($("#accordion"),!1)});
 </script>
