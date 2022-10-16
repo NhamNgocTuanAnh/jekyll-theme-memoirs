@@ -19,7 +19,6 @@ Một vài năm trở lại đây, trong giới trẻ một trào lưu “retro�
 **Mục lục**
 * TOC
 {:toc}
-
 Trong bài viết này mình sẽ giới thiệu với các bạn những cuộn phim phổ biến với chi phí phù hợp với tiêu chí mới bắt đầu nhất nhé ;)<br>
 Mình sẽ phân loại chúng theo ISO nhé, iso càng thấp càng mì ăn liền nhé :D
 ### 1\. ISO 100
@@ -48,7 +47,7 @@ Các màu đều được thể hiện khá hài hoà, white balance khá ổn. 
 Hơi hướng xanh lá đặc biệt trong điều kiện thiếu sáng, thích hợp hơn chụp chân dung.<br>
 Màu sắc nổi bật màu đỏ, màu xanh dương, và xanh lá - hạn chế chụp màu vàng.
 {% include redirect-countdown.html redirect_src="https://colorme.vn/blog/cam-nang-chup-film-review-fuji-c200--khoi-dau-dang-nho-cua-moi-filmer" redirect_title="Đọc thêm về Fujicolor C200 ở" %}
-### 2.2. Agfacolor Vista 200
+#### 2.2. Agfacolor Vista 200
 Đã **discontinued**, tức là ngưng sản xuất, thế nên giá bây giờ khá đắt đỏ.
 {% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/cuon-phim/mau-phim-Vista-200.webp" image_alt="#rollei #vista200" image_title="#rollei #vista200" %}
 Do giá hiện tại tăng vì nguồn cung ít, nên bạn chọn C200. Vista 200 mua 1 cuộn chụp chơi thì ok.<br>
