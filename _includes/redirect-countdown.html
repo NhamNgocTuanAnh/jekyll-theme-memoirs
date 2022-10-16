@@ -31,16 +31,14 @@
         countDown();
     }
     function countDown() {
-        console.log("Đang chuyển hướng");
         document.getElementById('welcomeDiv').style.display = "block";
-
         if (isCountDown && countRedirect > 0) {
             countRedirect--;
             timerCountRedirect.innerHTML = "Chuyển hướng sau " + countRedirect + " giây."; // Timer Message
             setTimeout("countDown()", 1000);
 
         } else if (isCountDown&& countRedirect <1 && position) {
-            window.location.href = urls+redirect;
+            window.location.href = `${urls}${redirect}`;
         }else if (isCountDown&& countRedirect <1 && !position) {
             window.location.href = redirect;
         }
@@ -50,7 +48,6 @@
             document.getElementById('welcomeDiv').style.display = "none";
         }
         else {
-
         }
     }
 </script>
