@@ -6,7 +6,8 @@
         <button class="btn" onclick="countDownActive()">
             <span id="timer-count-redirect">👉{{include.redirect_title}}<b> đây.</b></span>
         </button>
-        <button class="btn ml-3" id="button-cancel-count-down" style="display:none;" onclick="cancelCountDown()">Hủy</button>
+        <button class="btn ml-3" id="button-cancel-count-down" style="display:none;"
+            onclick="cancelCountDown()">Hủy</button>
     </div>
 </body>
 {% endif %}
@@ -22,30 +23,37 @@
     console.log("{{site.baseurl}}/{{include.redirect_src}}");
     function cancelCountDown() {
         isCountDown = false;
-        console.log("Khóa chuyển hướng");
-        timerCountRedirect.innerHTML = "{{include.redirect_title}}";
-        document.getElementById('button-cancel-count-down').style.display = "none";
+        if (timerCountRedirect) {
+            timerCountRedirect.innerHTML = "{{include.redirect_title}}";
+        }
+        if (document.getElementById('button-cancel-count-down')) {
+            document.getElementById('button-cancel-count-down').style.display = "none";
+        }
     }
     function countDownActive() {
         isCountDown = true;
         countDown();
     }
     function countDown() {
-        document.getElementById('button-cancel-count-down').style.display = "block";
+        if (document.getElementById('button-cancel-count-down')) {
+            document.getElementById('button-cancel-count-down').style.display = "block";
+        }
         if (isCountDown && countRedirect > 0) {
             countRedirect--;
             timerCountRedirect.innerHTML = "Chuyển hướng sau " + countRedirect + " giây."; // Timer Message
             setTimeout("countDown()", 1000);
 
-        } else if (isCountDown&& countRedirect <1 && position) {
+        } else if (isCountDown && countRedirect < 1 && position) {
             window.location.href = `${urls}${redirect}`;
-        }else if (isCountDown&& countRedirect <1 && !position) {
+        } else if (isCountDown && countRedirect < 1 && !position) {
             window.location.href = redirect;
         }
         else if (!isCountDown) {
             countRedirect = 10;
             timerCountRedirect.innerHTML = "{{include.redirect_title}}";
-            document.getElementById('button-cancel-count-down').style.display = "none";
+            if (document.getElementById('button-cancel-count-down')) {
+                document.getElementById('button-cancel-count-down').style.display = "none";
+            }
         }
         else {
         }
