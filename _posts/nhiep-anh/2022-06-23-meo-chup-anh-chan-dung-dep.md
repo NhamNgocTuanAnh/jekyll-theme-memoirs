@@ -48,10 +48,9 @@ Ngồi nghiêng một cách nhàm chán, để thu hút ánh nhìn, bạn nên �
 {% include lazyload.html image_src="../../assets/images/nhiepanh/doituong/style-life/tao-dang-nu-p5.webp" image_alt="Cái tay tinh nghịch nào" image_title="Đừng đứng thẳng như trời trồng như vậy chứ" %}
 <a name="tip4"></a>
 <h3>4. Thêm phụ kiện, thêm tự tin</h3>
-  <p style="text-align:center; ">
-  <img  src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-07.jpeg" alt="Nghĩ đến những câu chuyện thú vị"><br>
-  Cầm một cành hoa, một chén trà và nghĩ đến những câu chuyện thú vị: Đây là cách giúp gương mặt và nụ cười của bạn trở nên tự nhiên hơn.
-  </p>
+
+{% include lazyload.html image_src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-07.jpeg" image_alt="Mẹo tự tin khi chụp ảnh" image_title="Cầm một cành hoa, một chén trà và nghĩ đến những câu chuyện thú vị: Đây là cách giúp gương mặt và nụ cười của bạn trở nên tự nhiên hơn." %}
+
 {% include lazyload.html image_src="../../assets/images/nhiepanh/doituong/style-life/tao-dang-nu-p8.webp" image_alt="Cầm tạm cái smartphone nào." image_title="Cầm tạm cái smartphone nào." %}
 <a name="tip5"></a>
 <h3>5. Chụp chuyển động</h3>
