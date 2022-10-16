@@ -64,13 +64,11 @@ Khó tập trung vừa mặt, vừa tay, vừa người nên mình chỉ nhón b
 <!--Lưu ý-->
 
 ### **Tổng kết**
-
-*   Nghĩ đến những câu chuyện thú vị: Đây là cách giúp gương mặt và nụ cười của bạn trở nên tự nhiên hơn. Nhà tạo hình thời trang Anna Naphtali đã từng chia sẻ kinh nghiệm: _" Giả vờ cười khi chụp ảnh chỉ khiến gương mặt của bạn bị đơ, cách tốt nhất là nghĩ đến chuyện cười, những tình huống vui vẻ, hài hước để nụ cười ấm áp và tự nhiên nhất" ._
+*   Giả vờ cười khi chụp ảnh chỉ khiến gương mặt của bạn bị đơ, cách tốt nhất là nghĩ đến chuyện cười, những tình huống vui vẻ, hài hước để nụ cười ấm áp và tự nhiên nhất .
 *   Thẳng lưng khi ngồi: Việc ngồi thẳng lưng, mở rộng cơ thể, duỗi chân tay sẽ giúp cho đường cong cơ thể của bạn hiện rõ hơn, vóc dá ng cũng trở nên mảnh mai hơn.
-*   Ánh sá ng rất cần thiết: Theo kinh nghiệm của nhiếp ảnh gia chuyên chụp châ n dung Aaron Gil là khi chụp hình phải tìm ra được điểm sáng nổi bật trê n gương mặt, tránh những góc chụp có vùng tối vì sẽ khiến gương mặt của bạn tối đi.
-*   Hãy đặt tay lên eo: Dù bạn có eo bánh mì hay eo thon thì cũng nên tạo điểm nhấn bằng cách đặt tay lên eo. Ngoà i ra tư thế này cà ng giúp bạn tự nhiên hơn thay vì để thõng hai tay trong tư thế chào cờ.
-*   Đừng bao giờ chụp ảnh lúc giữa trưa hoặc khi mặt trời đã tắt:  Ví dụ, hãy tận dụng thời gian ăn nhẹ để nghỉ ngơi (thời gian có bóng râ m từ lúc 1h chiều), tập trung chụp ảnh và o cuối bữa tiệc tầm 4-5 giờ chiều, khi mặt trời dần lặn là lúc bạn có thể chụp những tấm hì nh ưng ý nhất.
-*   Nhớ đừng chụp nheo mắt nhé
+*   Khi chụp hình phải tìm ra được điểm sáng nổi bật trên gương mặt, tránh những góc chụp có vùng tối vì sẽ khiến gương mặt của bạn tối đi.
+*   Đừng bao giờ chụp ảnh lúc giữa trưa hoặc khi mặt trời đã tắt: Ví dụ, hãy tận dụng thời gian ăn nhẹ để nghỉ ngơi (thời gian có bóng râ m từ lúc 1h chiều), tập trung chụp ảnh vào cuối bữa tiệc tầm 4-5 giờ chiều, khi mặt trời dần lặn là lúc bạn có thể chụp những tấm hì nh ưng ý nhất.
+*   Nhớ đừng chụp nheo mắt nhé ;)
 
 <p><strong>Lưu &yacute;:</strong> Mặc d&ugrave; những mẹo n&agrave;y sẽ cải thiện đ&aacute;ng kể ảnh ch&acirc;n dung ngo&agrave;i trời của bạn, nhưng bạn c&oacute; thể c&oacute; được những bức ảnh đẹp hơn nữa nếu bạn thực sự hiểu r&otilde; về m&aacute;y ảnh của m&igrave;nh. Đọc hướng dẫn sử dụng trước khi dùng. Kh&ocirc;ng d&ugrave;ng chế độ tự động &ldquo; Tự động&rdquo;.. H&atilde;y thử bắt đầu bằng &ldquo; P&rdquo; . Hơn hết, h&atilde;y đọc blog của m&igrave;nh mỗi ng&agrave;y để biết th&ecirc;m một số mẹo hoặc ngắm ảnh đẹp nh&eacute; :3</p>
 
