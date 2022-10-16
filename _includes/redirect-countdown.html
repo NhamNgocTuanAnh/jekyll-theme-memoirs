@@ -6,7 +6,7 @@
         <button class="btn" onclick="countDownActive()">
             <span id="timer-count-redirect">👉{{include.redirect_title}}<b> đây.</b></span>
         </button>
-        <button class="btn ml-3" id="welcomeDiv" style="display:none;" onclick="cancelCountDown()">Hủy</button>
+        <button class="btn ml-3" id="button-cancel-count-down" style="display:none;" onclick="cancelCountDown()">Hủy</button>
     </div>
 </body>
 {% endif %}
@@ -24,14 +24,14 @@
         isCountDown = false;
         console.log("Khóa chuyển hướng");
         timerCountRedirect.innerHTML = "{{include.redirect_title}}";
-        document.getElementById('welcomeDiv').style.display = "none";
+        document.getElementById('button-cancel-count-down').style.display = "none";
     }
     function countDownActive() {
         isCountDown = true;
         countDown();
     }
     function countDown() {
-        document.getElementById('welcomeDiv').style.display = "block";
+        document.getElementById('button-cancel-count-down').style.display = "block";
         if (isCountDown && countRedirect > 0) {
             countRedirect--;
             timerCountRedirect.innerHTML = "Chuyển hướng sau " + countRedirect + " giây."; // Timer Message
@@ -45,7 +45,7 @@
         else if (!isCountDown) {
             countRedirect = 10;
             timerCountRedirect.innerHTML = "{{include.redirect_title}}";
-            document.getElementById('welcomeDiv').style.display = "none";
+            document.getElementById('button-cancel-count-down').style.display = "none";
         }
         else {
         }
