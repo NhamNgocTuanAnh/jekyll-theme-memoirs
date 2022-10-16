@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Chọn phim cho người mới?'
+title: 'Mới dùng máy phim chọn cuộn phim gì?'
 author: sal
 lazyimages: "enabled"
 categories: [ Note, Nhiếp ảnh ]
