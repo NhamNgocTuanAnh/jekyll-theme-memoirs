@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Chọn phim cho người mới?'
+title: 'Một số trang web phổ biến nén html,css, js'
 author: sal
 lazyimages: "enabled"
 categories: [ Note, Lập trình ]
