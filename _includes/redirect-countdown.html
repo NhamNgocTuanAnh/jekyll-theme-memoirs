@@ -1,14 +1,5 @@
 {% if include.redirect_src %}
-
-<body class="preloading">
-    <div class="loader"><span class="fas fa-spinner xoay icon"></span></div>
-    <div class='row'>
-        <button class="btn" onclick="countDownActive()">
-            <span id="timer-count-redirect">👉{{include.redirect_title}}<b> đây.</b></span>
-        </button>
-        <button class="btn ml-3" id="button-cancel-count-down" style="display:none;"
-            onclick="cancelCountDown()">Hủy</button>
-    </div>
+<body class="preloading"><div class="loader"><span class="fas fa-spinner xoay icon"></span></div><div class='row'><button class="btn" onclick="countDownActive()"><span id="timer-count-redirect">👉{{include.redirect_title}}<b> đây.</b></span></button><button class="btn ml-3" id="button-cancel-count-down" style="display:none;" onclick="cancelCountDown()">Hủy</button></div>
 </body>
 {% endif %}
 

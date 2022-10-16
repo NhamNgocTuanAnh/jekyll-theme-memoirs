@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tạo dáng chụp hình street style cho nữ - [Cẩm nang nhiếp ảnh]'
+title: 'Tạo dáng chụp hình street style cho nữ'
 author: sal
 lazyimages: "enabled"
 categories: [Nhiếp ảnh]
@@ -25,49 +25,39 @@ Street style đã len vào mọi ngóc ngách của làng thời trang hiện đ
 
 <a name="tip1"></a>
 <h3>1. Đừng đứng im</h3>
-
 <p style="text-align:center; ">
   Nghiêm túc rồi, bây giờ bạn có thể lột xác với các động rác uyển chuyển của tay và chân như: tay chống eo, tay đưa lên làm như hất tóc để tạo và nhấn các đường cong.<br>Thay vì đứng giơ 2 ngón tay quá đơn giản và không có điểm nhấn, bạn hãy đưa một chân sang một cách tự nhiên, một tay ép vào thân mình, tay kia giơ thẳng lên và "Say hi".<br>
 </p>
-  <img  src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-02.jpg" alt="Đừng đứng thẳng như trời trồng như vậy chứ"><br>
-<p style="text-align:center; ">
-  <img  src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-01.jpg" alt="Đừng đứng im"><br>
-  Đừng chỉ đứng im, hãy bước đi thật tự nhiên để bức ảnh trông sống động hơn.
-</p>
+{% include lazyload.html image_src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-02.jpg" image_alt="Đừng chỉ đứng im" image_title="Đừng chỉ đứng im, hãy bước đi thật tự nhiên để bức ảnh trông sống động hơn." %}
+
+{% include lazyload.html image_src="../../assets/images/nhiepanh/doituong/style-life/tao-dang-nu-p1.webp" image_alt="Cái tay tinh nghịc nào" image_title="Đừng đứng thẳng như trời trồng như vậy chứ" %}
 <p>
 Hãy thoải mái nhất có thể, thả lỏng cơ thể, hai cánh tay và chân sẽ giúp bức hình của bạn đẹp hơn so với việc vòng tay trước bụng như một “thanh niên nghiêm túc” không đúng lúc vậy đó.
 </p>
 <a name="tip2"></a>
 <h3>2. Thả lỏng 2 tay</h3>
-  <p style="text-align:center; ">
-  <img  src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-03.jpg" alt="Nghĩ đến những câu chuyện thú vị"><br>
-  </p>
-  <p style="text-align:center; ">
-
-  <img  src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-04.jpg" alt="Nghĩ đến những câu chuyện thú vị"><br>
-     Ngồi nghiêng một cách nhàm chán, để thu hút ánh nhìn, bạn nên đưa một chân ra trước, đẩy hông sang một bên để trông "xì tai" hơn.<br>
-        Không cần phải ngồi thu người, khép nép, hãy tạo điểm nhấn bằng cách bắt chéo chân, tay đặt lên đầu gối, chống cằm
-  </p>
-
+{% include lazyload.html image_src="../../assets/images/nhiepanh/doituong/style-life/tao-dang-nu-p2.webp" image_alt="Cái tay tinh nghịc nào" image_title="Đừng đứng thẳng như trời trồng như vậy chứ" %}
+{% include lazyload.html image_src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-03.jpg" image_alt="Nghĩ đến những câu chuyện thú vị" image_title="Nghĩ đến những câu chuyện thú vị" %}
+{% include lazyload.html image_src="../../assets/images/nhiepanh/doituong/style-life/tao-dang-nu-p3.webp" image_alt="Cái tay tinh nghịc nào" image_title="Đừng đứng thẳng như trời trồng như vậy chứ" %}
+{% include lazyload.html image_src="../../assets/images/nhiepanh/doituong/style-life/tao-dang-nu-p4.webp" image_alt="Cái tay tinh nghịc nào" image_title="Đừng đứng thẳng như trời trồng như vậy chứ" %}
+Ngồi nghiêng một cách nhàm chán, để thu hút ánh nhìn, bạn nên đưa một chân ra trước, đẩy hông sang một bên để trông "xì tai" hơn.
+{% include lazyload.html image_src="./../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-04.jpg" image_alt="Cái tay tinh nghịch nào" image_title="Không cần phải ngồi thu người, khép nép, hãy tạo điểm nhấn bằng cách bắt chéo chân, tay đặt lên đầu gối, chống cằm" %}
 <a name="tip3"></a>
 <h3>3. (ʘ ͜ʖ ʘ) Ngực tấn công, mông phòng thủ</h3>
-<p style="text-align:center; ">
-  <img id=".imagesblog-05" src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-06.jpg" alt="Nikon D600 Dynamic Range"><br>
-  Chụp theo kiểu chữ S: Tay ôm đầu, cong hông.
-</p>
-
+{% include lazyload.html image_src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-06.jpg" image_alt="Chụp theo kiểu chữ S: Tay ôm đầu, cong hông." image_title="Chụp theo kiểu chữ S: Tay ôm đầu, cong hông." %}
+{% include lazyload.html image_src="../../assets/images/nhiepanh/doituong/style-life/tao-dang-nu-p5.webp" image_alt="Cái tay tinh nghịch nào" image_title="Đừng đứng thẳng như trời trồng như vậy chứ" %}
 <a name="tip4"></a>
 <h3>4. Thêm phụ kiện, thêm tự tin</h3>
   <p style="text-align:center; ">
   <img  src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-07.jpeg" alt="Nghĩ đến những câu chuyện thú vị"><br>
   Cầm một cành hoa, một chén trà và nghĩ đến những câu chuyện thú vị: Đây là cách giúp gương mặt và nụ cười của bạn trở nên tự nhiên hơn.
   </p>
-
+{% include lazyload.html image_src="../../assets/images/nhiepanh/doituong/style-life/tao-dang-nu-p8.webp" image_alt="Cầm tạm cái smartphone nào." image_title="Cầm tạm cái smartphone nào." %}
 <a name="tip5"></a>
 <h3>5. Chụp chuyển động</h3>
+{% include lazyload.html image_src="../../assets/images/nhiepanh/doituong/style-life/tao-dang-nu-p7.webp" image_alt="Cái tay tinh nghịc nào" image_title="Đừng đứng thẳng như trời trồng như vậy chứ" %}
 Nếu bạn chỉ đứng im một chỗ thì không giống ảnh đường phố lắm. Nhưng khi chuyển động thì sẽ khá khó cho bạn chụp. Vậy có bí quyết nào không?
 Khó tập trung vừa mặt, vừa tay, vừa người nên mình chỉ nhón bước thôi, đặc biệt là phải nhón cả hai chân. Kết hợp nhìn vào camera, nhìn trước nhìn sau<br>
-
 <p style="text-align:center; ">
   <img src="../../assets/images/nhiepanh/doituong/style-life/tao-dang-khi-chup-hinh-ngoai-canh.gif" alt="tạo dáng chụp hình ngoại cảnh street style"><br>
   <a href="https://www.youtube.com/watch?v=KYW6cbWfO7I">5 cách tạo dáng chụp hình ngoại cảnh street style cực dễ mà không phải ai cũng biết - Danny Nguyen</a>
