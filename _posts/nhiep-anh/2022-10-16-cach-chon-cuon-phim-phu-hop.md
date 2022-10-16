@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Những cuộn phim cho người bắt đầu, Những cuộn phim được yêu thích nhất.'
+title: 'Những cuộn phim cho người bắt đầu, những cuộn phim được yêu thích nhất.'
 author: sal
 lazyimages: "enabled"
 categories: [ Note, Nhiếp ảnh ]
