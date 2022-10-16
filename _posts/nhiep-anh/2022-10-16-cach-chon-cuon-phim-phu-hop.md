@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mới dùng máy phim chọn cuộn phim gì?'
+title: 'Những cuộn phim cho người bắt đầu, Những cuộn phim được yêu thích nhất.'
 author: sal
 lazyimages: "enabled"
 categories: [ Note, Nhiếp ảnh ]
