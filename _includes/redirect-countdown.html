@@ -1,12 +1,13 @@
 {% if include.redirect_src %}
 <body class="preloading"><div class="loader"><span class="fas fa-spinner xoay icon"></span></div><div class='row'><button class="btn" onclick="countDownActive()"><span id="timer-count-redirect">👉{{include.redirect_title}}<b> đây.</b></span></button><button class="btn ml-3" id="button-cancel-count-down" style="display:none;" onclick="cancelCountDown()">Hủy</button></div>
 </body>
-{% endif %}
-
 <script type="text/javascript">
-let countRedirect=10;let isCountDown=!0;var redirect="{{include.redirect_src}}";let position="{{include.local}}";let urls="{{site.url}}";var timerCountRedirect=document.getElementById("timer-count-redirect");console.log("{{site.baseurl}}/{{include.redirect_src}}");function cancelCountDown(){isCountDown=!1;if(timerCountRedirect){timerCountRedirect.innerHTML="{{include.redirect_title}}"}
+let countRedirect=10;let isCountDown=!0;let position="{{include.local}}";var timerCountRedirect=document.getElementById("timer-count-redirect");function cancelCountDown(){isCountDown=!1;if(timerCountRedirect){timerCountRedirect.innerHTML="{{include.redirect_title}}"}
 if(document.getElementById('button-cancel-count-down')){document.getElementById('button-cancel-count-down').style.display="none"}}
 function countDownActive(){isCountDown=!0;countDown()}
 function countDown(){if(document.getElementById('button-cancel-count-down')){document.getElementById('button-cancel-count-down').style.display="block"}
-if(isCountDown&&countRedirect>0){countRedirect--;timerCountRedirect.innerHTML="Chuyển hướng sau "+countRedirect+" giây.";setTimeout("countDown()",1000)}else if(isCountDown&&countRedirect<1&&position){window.location.href=`${urls}${redirect}`}else if(isCountDown&&countRedirect<1&&!position){window.location.href=redirect}else if(!isCountDown){countRedirect=10;timerCountRedirect.innerHTML="{{include.redirect_title}}";if(document.getElementById('button-cancel-count-down')){document.getElementById('button-cancel-count-down').style.display="none"}}else{}}
+if(isCountDown&&countRedirect>0){countRedirect--;timerCountRedirect.innerHTML="Chuyển hướng sau "+countRedirect+" giây.";setTimeout("countDown()",1000)}else if(isCountDown&&countRedirect<1&&position){var redirect="{{include.redirect_src}}";let urls="{{site.url}}";window.location.href=`${urls}${redirect}`}else if(isCountDown&&countRedirect<1&&!position){var redirect="{{include.redirect_src}}";window.location.href=redirect}else if(!isCountDown){countRedirect=10;timerCountRedirect.innerHTML="{{include.redirect_title}}";if(document.getElementById('button-cancel-count-down')){document.getElementById('button-cancel-count-down').style.display="none"}}else{}}
 </script>
+{% endif %}
+
+
