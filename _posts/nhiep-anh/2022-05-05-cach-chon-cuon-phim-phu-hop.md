@@ -46,9 +46,7 @@ Fujifilm C200 là recommend của mình cho những bạn mới chụp film. Là
 Các màu đều được thể hiện khá hài hoà, white balance khá ổn. C200 lên màu da người châu Á nhẹ nhàng, không quá đỏ & gắt, chụp cảnh thiên nhiên hay hoa lá cành thì càng ổn. <br>
 Hơi hướng xanh lá đặc biệt trong điều kiện thiếu sáng, thích hợp hơn chụp chân dung.<br>
 Màu sắc nổi bật màu đỏ, màu xanh dương, và xanh lá - hạn chế chụp màu vàng.
-
-<!-- {% include redirect-countdown.html redirect_src="https://colorme.vn/blog/cam-nang-chup-film-review-fuji-c200--khoi-dau-dang-nho-cua-moi-filmer" redirect_title="Đọc thêm về Fujicolor C200 ở" %} -->
-
+{% include redirect-countdown.html redirect_src="https://colorme.vn/blog/cam-nang-chup-film-review-fuji-c200--khoi-dau-dang-nho-cua-moi-filmer" redirect_title="Đọc thêm về Fujicolor C200 ở" %}
 #### 2.2. Agfacolor Vista 200
 Đã **discontinued**, tức là ngưng sản xuất, thế nên giá bây giờ khá đắt đỏ.
 {% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/cuon-phim/mau-phim-Vista-200.webp" image_alt="#rollei #vista200" image_title="#rollei #vista200" %}
