@@ -48,20 +48,14 @@ Ngồi nghiêng một cách nhàm chán, để thu hút ánh nhìn, bạn nên �
 {% include lazyload.html image_src="../../assets/images/nhiepanh/doituong/style-life/tao-dang-nu-p5.webp" image_alt="Cái tay tinh nghịch nào" image_title="Đừng đứng thẳng như trời trồng như vậy chứ" %}
 <a name="tip4"></a>
 <h3>4. Thêm phụ kiện, thêm tự tin</h3>
-
 {% include lazyload.html image_src="../../assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-07.jpeg" image_alt="Mẹo tự tin khi chụp ảnh" image_title="Cầm một cành hoa, một chén trà và nghĩ đến những câu chuyện thú vị: Đây là cách giúp gương mặt và nụ cười của bạn trở nên tự nhiên hơn." %}
-
 {% include lazyload.html image_src="../../assets/images/nhiepanh/doituong/style-life/tao-dang-nu-p8.webp" image_alt="Cầm tạm cái smartphone nào." image_title="Cầm tạm cái smartphone nào." %}
 <a name="tip5"></a>
 <h3>5. Chụp chuyển động</h3>
-{% include lazyload.html image_src="../../assets/images/nhiepanh/doituong/style-life/tao-dang-nu-p7.webp" image_alt="Cái tay tinh nghịc nào" image_title="Đừng đứng thẳng như trời trồng như vậy chứ" %}
+{% include lazyload.html image_src="../../assets/images/nhiepanh/doituong/style-life/tao-dang-khi-chup-hinh-ngoai-canh.gif" image_alt="5 cách tạo dáng chụp hình ngoại cảnh street style cực dễ mà không phải ai cũng biết - Danny Nguyen" image_title='5 cách tạo dáng chụp hình ngoại cảnh street style cực dễ mà không phải ai cũng biết - Danny Nguyen' %}
 Nếu bạn chỉ đứng im một chỗ thì không giống ảnh đường phố lắm. Nhưng khi chuyển động thì sẽ khá khó cho bạn chụp. Vậy có bí quyết nào không?
 Khó tập trung vừa mặt, vừa tay, vừa người nên mình chỉ nhón bước thôi, đặc biệt là phải nhón cả hai chân. Kết hợp nhìn vào camera, nhìn trước nhìn sau<br>
-<p style="text-align:center; ">
-  <img src="../../assets/images/nhiepanh/doituong/style-life/tao-dang-khi-chup-hinh-ngoai-canh.gif" alt="tạo dáng chụp hình ngoại cảnh street style"><br>
-  <a href="https://www.youtube.com/watch?v=KYW6cbWfO7I">5 cách tạo dáng chụp hình ngoại cảnh street style cực dễ mà không phải ai cũng biết - Danny Nguyen</a>
-</p>
-<!--Lưu ý-->
+{% include lazyload.html image_src="../../assets/images/nhiepanh/doituong/style-life/tao-dang-nu-p7.webp" image_alt="Tạo hành động trong ảnh" image_title="Tạo hành động trong ảnh" %}
 
 ### **Tổng kết**
 *   Giả vờ cười khi chụp ảnh chỉ khiến gương mặt của bạn bị đơ, cách tốt nhất là nghĩ đến chuyện cười, những tình huống vui vẻ, hài hước để nụ cười ấm áp và tự nhiên nhất .
