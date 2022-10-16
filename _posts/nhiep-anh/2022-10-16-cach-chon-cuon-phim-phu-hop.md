@@ -5,7 +5,7 @@ author: sal
 lazyimages: "enabled"
 categories: [ Note, Nhiếp ảnh ]
 tags: [ Tra cứu nhanh, nhiếp ảnh]
-image: assets/images/nhiepanh/reviews/cuon-phim/mau-phim-Kodak-Gold-100-phongcanh.webp
+image: assets/images/nhiepanh/reviews/cuon-phim/mau-phim-Fuji-color-100-chan-dung.webp
 isGithubComments: false
 permalink: nhiep-anh/chon-cuon-phim-dau-tien
 excerpt: color100,Gold100,vista200,colorplus200,...Người mới nên chọn cuộn Film gì?
