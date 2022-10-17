@@ -1,15 +1,181 @@
-<html lang="vi">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nhiếp ảnh trong tôi</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css">
-</head>
 <style>
+    /* -
+    -*-~*~-*-*-~*~-*-*-~*~* |
+    ●▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬●
+    Made by ~
+    Areal Alien ❥ 雷克斯
+    ●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
+    ──────▄▀▄─────▄▀▄
+    ─────▄█░░▀▀▀▀▀░░█▄
+    ─▄▄──█░░░░░░░░░░░█──▄▄
+    █▄▄█─█░░▀░░┬░░▀░░█─█▄▄█
+    -*-~*~-*-*-~*~-*-*-~*~* |
+    - */
+    :root {
+        --bc: #efeeee;
+        --white: #ffffff;
+        --black: #000000;
+        --dark-blue: #1f2029;
+        --extra-dark-blue: #13141a;
+        --dark-light: #424455;
+        --red: #da2c4d;
+        --dark-red: #6e1727;
+        --yellow: #f8ab37;
+        --grey: #ecedf3;
+        --blue: #007bff;
+        --indigo: #6610f2;
+        --purple: #6f42c1;
+        --pink: #e83e8c;
+        --orange: #fd7e14;
+        --green: #28a745;
+        --light-green: #24e33a;
+        --teal: #20c997;
+        --cyan: #17a2b8;
+        --gray: #6c757d;
+        --primary: #d1a9de;
+        --secondary: #7015b3;
+        --success: #28a745;
+        --info: #17a2b8;
+        --warning: #ffc107;
+        --danger: #dc3545;
+        --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+        --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    }
+
+    * {
+        box-sizing: border-box;
+    }
+
+    html,
+    body {
+        margin: 0;
+        width: 100%;
+        min-height: 100vh;
+        overflow-x: hidden;
+        font-family: var(--font-family-sans-serif);
+        scroll-behavior: smooth;
+        -webkit-font-smoothing: antialiased;
+        background-color: var(--light-mode-brig);
+    }
+
+    /* Classes */
+    .space {
+        margin: 1em 0;
+    }
+
+    /* User Header */
+    .user-header-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .user-header-inner {
+        width: 80%;
+        min-height: 15vh;
+        display: grid;
+        align-items: center;
+        grid-template-columns: auto 1fr;
+        grid-column-gap: 2em;
+        grid-row-gap: 2em;
+    }
+
+    .uh-left {
+        width: 100%;
+        height: 100%;
+        padding: 0 2em 0 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .uh-image {
+        width: 11rem;
+        height: 11rem;
+        border-radius: 50%;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+    }
+
+    .uh-image-inner {
+        width: 10.5rem;
+        height: 10.5rem;
+        border: .3em solid var(--grey);
+        object-fit: cover;
+        border-radius: 50%;
+        z-index: 2;
+    }
+
+    .gradient {
+        width: 100%;
+        height: 100%;
+        padding: .3em;
+        position: absolute;
+        border-radius: 50%;
+        background: linear-gradient(45deg, rgba(214, 41, 118, 1) 0%, rgba(250, 126, 30, 1) 100%);
+    }
+
+    .gradient-gray {
+        width: 100%;
+        height: 100%;
+        padding: .3em;
+        position: absolute;
+        border-radius: 50%;
+        background: linear-gradient(45deg, rgba(236, 237, 243, 1) 0%, rgba(228, 229, 233, 1) 100%);
+    }
+
+    .uh-right {
+        padding: 1em;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        jusify-content: flex-start;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .user-info {
+        font-size: 2em;
+        line-height: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .uname-verified {
+        height: 1.8rem;
+    }
+
+    .btn {
+        margin: 1em;
+        border-radius: 3px;
+        border: 1px solid var(--grey);
+        background-color: var(--light);
+        padding: .4em .6em;
+        cursor: pointer;
+        color: var(--black);
+    }
+
+    .user-links a {
+        margin: 0 1em 0 0;
+        cursor: pointer;
+    }
+
+    .user-links a span {
+        color: var(--black);
+        font-weight: bolder;
+    }
+
+    .user-bio-name {
+        font-weight: bold;
+        margin: 1.75em 0 0 0;
+        line-height: 0;
+    }
+
+    /* User stories */
     .user-stories {
         margin: 3em 0 1em 0;
         width: 100%;
@@ -19,7 +185,7 @@
     }
 
     .user-stories-inner {
-        width: 100%;
+        width: 80%;
         display: grid;
         align-items: center;
         grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
@@ -68,652 +234,615 @@
         z-index: 2;
     }
 
-</style>
-<style>
-    .uname-verified {
-        height: 1.8rem;
+    /* User Page */
+    .user-page-wrapper {
+        display: flex;
+        justify-content: center;
+        margin: 3em 0;
     }
 
-    .user-links a {
-        margin: 0 1em 0 0;
-        cursor: pointer;
+    .user-page-inner {
+        width: 80%;
+        display: grid;
+        align-items: center;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr;
+        grid-column-gap: 2em;
+        grid-row-gap: 2em;
     }
 
-    .user-links a span {
-        color: var(--black);
-        font-weight: bolder;
-    }
-
-</style>
-<style>
-    :root {
-        font-size: 10px;
-    }
-
-    *,
-    *::before,
-    *::after {
-        box-sizing: border-box;
-    }
-
-    body {
-        font-family: "Open Sans", Arial, sans-serif;
-        min-height: 100vh;
-        background-color: #fafafa;
-        color: #262626;
-        padding-bottom: 3rem;
-    }
-
-    img {
-        display: block;
-    }
-
-    .container {
-        max-width: 93.5rem;
-        margin: 0 auto;
-        padding: 0 2rem;
-    }
-
-    .btn {
-        display: inline-block;
-        font: inherit;
-        background: none;
-        border: none;
-        color: inherit;
-        padding: 0;
-        cursor: pointer;
-    }
-
-    .btn:focus {
-        outline: 0.5rem auto #4d90fe;
-    }
-
-    .visually-hidden {
-        position: absolute !important;
-        height: 1px;
-        width: 1px;
+    .image-wrapper {
+        width: 100%;
+        height: 100%;
         overflow: hidden;
-        clip: rect(1px, 1px, 1px, 1px);
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
     }
 
-    /* Profile Section */
-
-    .profile {
-        padding: 5rem 0;
-    }
-
-    .profile::after {
+    .image-wrapper:after {
         content: "";
         display: block;
-        clear: both;
+        padding-bottom: 100%;
     }
 
-    .profile-image {
-        float: left;
-        width: calc(33.333% - 1rem);
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin-right: 3rem;
-    }
-
-    .profile-image img {
-        border-radius: 50%;
-    }
-
-    .profile-user-settings,
-    .profile-stats,
-    .profile-bio {
-        float: left;
-        width: calc(66.666% - 2rem);
-    }
-
-    .profile-user-settings {
-        margin-top: 1.1rem;
-    }
-
-    .profile-user-name {
-        display: inline-block;
-        font-size: 3.2rem;
-        font-weight: 300;
-    }
-
-    .profile-edit-btn {
-        font-size: 1.4rem;
-        line-height: 1.8;
-        border: 0.1rem solid #dbdbdb;
-        border-radius: 0.3rem;
-        padding: 0 2.4rem;
-        margin-left: 2rem;
-    }
-
-    .profile-settings-btn {
-        font-size: 2rem;
-        margin-left: 1rem;
-    }
-
-    .profile-stats {
-        margin-top: 2.3rem;
-    }
-
-    .profile-stats li {
-        display: inline-block;
-        font-size: 1.6rem;
-        line-height: 1.5;
-        margin-right: 4rem;
-        cursor: pointer;
-    }
-
-    .profile-stats li:last-of-type {
-        margin-right: 0;
-    }
-
-    .profile-bio {
-        font-size: 1.6rem;
-        font-weight: 400;
-        line-height: 1.5;
-        margin-top: 2.3rem;
-    }
-
-    .profile-real-name,
-    .profile-stat-count,
-    .profile-edit-btn {
-        font-weight: 600;
-    }
-
-    /* Gallery Section */
-
-    .gallery {
-        display: flex;
-        flex-wrap: wrap;
-        margin: -1rem -1rem;
-        padding-bottom: 3rem;
-    }
-
-    .gallery-item {
-        position: relative;
-        flex: 1 0 22rem;
-        margin: 1rem;
-        color: #fff;
-        cursor: pointer;
-    }
-
-    .gallery-item:hover .gallery-item-info,
-    .gallery-item:focus .gallery-item-info {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        position: absolute;
-        top: 0;
+    .image {
         width: 100%;
         height: 100%;
-        background-color: rgba(0, 0, 0, 0.3);
-    }
-
-    .gallery-item-info {
-        display: none;
-    }
-
-    .gallery-item-info li {
-        display: inline-block;
-        font-size: 1.7rem;
-        font-weight: 600;
-    }
-
-    .gallery-item-likes {
-        margin-right: 2.2rem;
-    }
-
-    .gallery-item-type {
         position: absolute;
-        top: 1rem;
-        right: 1rem;
-        font-size: 2.5rem;
-        text-shadow: 0.2rem 0.2rem 0.2rem rgba(0, 0, 0, 0.1);
-    }
-
-    .fa-clone,
-    .fa-comment {
-        transform: rotateY(180deg);
-    }
-
-    .gallery-image {
-        width: 100%;
-        height: 100%;
         object-fit: cover;
     }
 
-    /* Loader */
+    .img-overlay-wrapper {
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        position: absolute;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 10;
+        transition: opacity .15s ease-in-out;
+    }
+
+    .img-btns {
+        font-size: 1.3em;
+        color: var(--white);
+        z-index: 10;
+    }
+
+    .img-overlay {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        background-color: rgba(0, 0, 0, .4);
+        z-index: 9;
+    }
+
+    .image-block {
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+        display: none;
+        justify-content: center;
+        align-items: center;
+        z-index: 20;
+    }
+
+    .block {
+        width: 60%;
+        height: 50%;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: var(--light-mode-brig);
+        z-index: 20;
+    }
+
+    .block-background {
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        background-color: rgba(0, 0, 0, .4);
+        z-index: 19;
+    }
+
+    /* User Loader */
+    .user-loader {
+        min-height: 25vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 
     .loader {
-        width: 5rem;
-        height: 5rem;
-        border: 0.6rem solid #999;
-        border-bottom-color: transparent;
-        border-radius: 50%;
-        margin: 0 auto;
-        animation: loader 500ms linear infinite;
+        position: relative;
+        width: 75px;
     }
 
-    /* Media Query */
-
-    @media screen and (max-width: 40rem) {
-        .profile {
-            display: flex;
-            flex-wrap: wrap;
-            padding: 4rem 0;
-        }
-
-        .profile::after {
-            display: none;
-        }
-
-        .profile-image{
-            float: none;
-            width: auto;
-        }
-        .profile-user-settings,
-        .profile-bio,
-        .profile-stats {
-            float: none;
-            width: auto;
-        }
-
-        .profile-image img {
-            width: 7.7rem;
-        }
-
-        .profile-user-settings {
-            flex-basis: calc(100% - 10.7rem);
-            display: flex;
-            flex-wrap: wrap;
-            margin-top: 1rem;
-        }
-
-        .profile-user-name {
-            font-size: 2.2rem;
-        }
-
-        .profile-edit-btn {
-            order: 1;
-            padding: 0;
-            text-align: center;
-            margin-top: 1rem;
-        }
-
-        .profile-edit-btn {
-            margin-left: 0;
-        }
-
-        .profile-bio {
-            font-size: 1.4rem;
-            margin-top: 1.5rem;
-        }
-
-        .profile-edit-btn,
-        .profile-bio,
-        .profile-stats {
-            flex-basis: 100%;
-        }
-
-        .profile-stats {
-            order: 1;
-            margin-top: 1.5rem;
-        }
-
-        .profile-stats ul {
-            display: flex;
-            text-align: center;
-            padding: 1.2rem 0;
-            border-top: 0.1rem solid #dadada;
-            border-bottom: 0.1rem solid #dadada;
-        }
-
-        .profile-stats li {
-            font-size: 1.4rem;
-            flex: 1;
-            margin: 0;
-        }
-
-        .profile-stat-count {
-            display: block;
-        }
+    .circular {
+        animation: rotate 2s linear infinite;
+        height: 100%;
+        width: 100%;
     }
 
-    /* Spinner Animation */
+    .path {
+        stroke-dasharray: 1, 200;
+        stroke-dashoffset: 0;
+        animation: dash 1.5s ease-in-out infinite, color 6s ease-in-out infinite;
+        stroke-linecap: round;
+    }
 
-    @keyframes loader {
-        to {
+    /* Keyframes */
+    @keyframes rotate {
+        100% {
             transform: rotate(360deg);
         }
     }
 
-    /*
-
-The following code will only run if your browser supports CSS grid.
-
-Remove or comment-out the code block below to see how the browser will fall-back to flexbox & floated styling.
-
-*/
-
-    @supports (display: grid) {
-        .profile {
-            display: grid;
-            grid-template-columns: 1fr 2fr;
-            grid-template-rows: repeat(3, auto);
-            grid-column-gap: 3rem;
-            align-items: center;
+    @keyframes dash {
+        0% {
+            stroke-dasharray: 1, 200;
+            stroke-dashoffset: 0;
         }
 
-        .profile-image {
-            grid-row: 1 / -1;
+        50% {
+            stroke-dasharray: 89, 200;
+            stroke-dashoffset: -35px;
         }
 
-        .gallery {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(22rem, 1fr));
-            grid-gap: 2rem;
+        100% {
+            stroke-dasharray: 89, 200;
+            stroke-dashoffset: -124px;
+        }
+    }
+
+    @keyframes color {
+
+        100%,
+        0% {
+            stroke: var(--red);
         }
 
-        .profile-image,
-        .profile-user-settings,
-        .profile-stats,
-        .profile-bio,
-        .gallery-item,
-        .gallery {
-            width: auto;
-            margin: 0;
+        40% {
+            stroke: var(--blue);
         }
 
-        @media (max-width: 40rem) {
-            .profile {
-                grid-template-columns: auto 1fr;
-                grid-row-gap: 1.5rem;
-            }
+        66% {
+            stroke: var(--green);
+        }
 
-            .profile-image {
-                grid-row: 1 / 3;
-            }
+        80%,
+        90% {
+            stroke: var(--yellow);
+        }
+    }
 
-            .profile-user-settings {
-                display: grid;
-                grid-template-columns: auto 1fr;
-                grid-gap: 1rem;
-            }
+    @media (max-width: 1024px) {
+        .user-header-inner {
+            width: 85%;
+        }
 
-            .profile-edit-btn,
-            .profile-stats,
-            .profile-bio {
-                grid-column: 1 / -1;
-            }
+        .uh-image {
+            width: 10rem;
+            height: 10rem;
+        }
 
-            .profile-user-settings,
-            .profile-edit-btn,
-            .profile-settings-btn,
-            .profile-bio,
-            .profile-stats {
-                margin: 0;
-            }
+        .uh-image-inner {
+            width: 9.5rem;
+            height: 9.5rem;
+        }
+
+        .user-stories-inner {
+            width: 85%;
+            grid-column-gap: 2em;
+        }
+
+        .story-wrapper {
+            margin: 0 1em;
+        }
+
+        .user-page-inner {
+            width: 85%;
+            grid-column-gap: 1.5em;
+            grid-row-gap: 1.5em;
+        }
+
+        .img-btns {
+            font-size: 1.1em;
+        }
+    }
+
+    @media (max-width: 936px) {
+        .user-header-inner {
+            width: 90%;
+        }
+
+        .uh-left {
+            padding: 0 1em 0 0;
+        }
+
+        .uh-image {
+            width: 9rem;
+            height: 9rem;
+        }
+
+        .uh-image-inner {
+            width: 8.5rem;
+            height: 8.5rem;
+        }
+
+        .user-stories-inner {
+            width: 90%;
+            grid-column-gap: .75em;
+        }
+
+        .story-wrapper {
+            margin: 0 .5em;
+        }
+
+        .user-page-inner {
+            width: 90%;
+            grid-column-gap: 1.25em;
+            grid-row-gap: 1.25em;
+        }
+
+        .img-btns {
+            font-size: 1em;
+        }
+    }
+
+    @media (max-width: 767px) {
+        .uh-left {
+            padding: 0;
+        }
+
+        .uh-image {
+            width: 8.5rem;
+            height: 8.5rem;
+        }
+
+        .uh-image-inner {
+            width: 8rem;
+            height: 8rem;
+        }
+
+        .story-wrapper {
+            margin: 0 .25em;
+        }
+
+        .user-page-inner {
+            grid-column-gap: 1em;
+            grid-row-gap: 1em;
+        }
+
+        .img-btns {
+            font-size: .8em;
         }
     }
 
 </style>
 
-<body>
-    <header>
 
-        <div class="container">
-
-            <div class="profile">
-
-                <div class="profile-image">
-
-                    <img src="../assets/images/mrduck.jpg" alt="">
-
-                </div>
-
-                <div class="profile-user-settings">
-
-                    <h2 class="profile-user-name">Xóm nghiện <svg class="uname-verified"
-                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1350.03 1326.16">
-                            <defs>
-                                <style>
-                                    .cls-11 {
-                                        fill: var(--blue);
-                                    }
-
-                                    .cls-12 {
-                                        fill: #ffffff;
-                                    }
-
-                                </style>
-                            </defs>
-                            <title>verified</title>
-                            <g id="Layer_3" data-name="Layer 3">
-                                <polygon class="cls-11"
-                                    points="0 747.37 120.83 569.85 70.11 355.04 283.43 292.38 307.3 107.41 554.93 107.41 693.66 0 862.23 120.83 1072.57 126.8 1112.84 319.23 1293.35 399.79 1256.05 614.6 1350.03 793.61 1197.87 941.29 1202.35 1147.15 969.64 1178.48 868.2 1326.16 675.02 1235.17 493.77 1315.72 354.99 1133.73 165.58 1123.29 152.16 878.64 0 747.37" />
-                            </g>
-                            <g id="Layer_2" data-name="Layer 2">
-                                <path class="cls-12"
-                                    d="M755.33,979.23s125.85,78.43,165.06,114c34.93-36,234.37-277.22,308.24-331.94,54.71,21.89,85,73.4,93,80.25-3.64,21.89-321.91,418.58-368.42,445.94-32.74-3.84-259-195.16-275.4-217C689.67,1049.45,725.24,1003.85,755.33,979.23Z"
-                                    transform="translate(-322.83 -335.95)" />
-                            </g>
-                        </svg></h2>
-
-                    <!-- <button class="btn profile-edit-btn">Edit Profile</button>
-
-                    <button class="btn profile-settings-btn" aria-label="profile settings"><i class="fas fa-cog"
-                            aria-hidden="true"></i></button> -->
-
-                </div>
-
-                <div class=user-links>
-                    <a><span>2.1k</span> Posts</a>
-                    <a><span>421k</span> Followers</a>
-                    <a>Following <span>388</span></a>
-                </div>
-
-                <div class="profile-bio">
-
-                    <p><span class="profile-real-name">Nghiện</span> công việc, chụp hình và sức khỏe 📷✈️🏕️</p>
-
-                </div>
-
+<div class="user-header-wrapper">
+    <div class="user-header-inner">
+        <div class="uh-left">
+            <div class="uh-image">
+                <img class="uh-image-inner" src="../assets/images/avatar-sal.webp" alt="">
+                <div class="gradient"></div>
             </div>
-            <!-- End of profile section -->
-
         </div>
-        <!-- End of container -->
+        <div class="uh-right">
+            <div class="user-info">
+                <h3>
+                    anhhangxom
+                    <svg class="uname-verified" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1350.03 1326.16">
+                        <defs>
+                            <style>
+                                .cls-11 {
+                                    fill: var(--blue);
+                                }
 
-    </header>
+                                .cls-12 {
+                                    fill: #ffffff;
+                                }
 
-    <main>
-
-        <div class="container">
-
-            <div class="user-stories">
-                <div class="user-stories-inner">
-                    <div class="story-wrapper">
-                        <div class="story-inner">
-                            <img class="story-img"
-                                src="https://images.unsplash.com/photo-1588110679566-158c6dea107c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1990&q=80"
-                                alt="">
-                            <div class="gradient"></div>
-                        </div>
-                        <h2>Outfits ✌</h2>
-                    </div>
-                    <div class="story-wrapper">
-                        <div class="story-inner">
-                            <img class="story-img"
-                                src="https://images.unsplash.com/photo-1470472304068-4398a9daab00?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
-                                alt="">
-                            <div class="gradient"></div>
-                        </div>
-                        <h2>Travel 🛫</h2>
-                    </div>
-                    <!-- <div class="story-wrapper">
-                        <div class="story-inner">
-                            <img class="story-img"
-                                src="https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2134&q=80"
-                                alt="">
-                            <div class="gradient-gray"></div>
-                        </div>
-                        <h2>Food 🍕</h2>
-                    </div> -->
-                    <div class="story-wrapper">
-                        <div class="story-inner">
-                            <img class="story-img"
-                                src="https://images.unsplash.com/photo-1586462175816-c0e709898f01?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&auto=format&fit=crop&w=1950&q=80"
-                                alt="">
-                            <div class="gradient-gray"></div>
-                        </div>
-                        <h2>Windlife 🌲</h2>
-                    </div>
-                    <!-- <div class="story-wrapper">
-                        <div class="story-inner">
-                            <img class="story-img"
-                                src="https://images.unsplash.com/photo-1583314580204-efe0bcd18bc6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
-                                alt="">
-                            <div class="gradient-gray"></div>
-                        </div>
-                        <h2>Relax 📚</h2>
-                    </div> -->
-                </div>
+                            </style>
+                        </defs>
+                        <title>verified</title>
+                        <g id="Layer_3" data-name="Layer 3">
+                            <polygon class="cls-11"
+                                points="0 747.37 120.83 569.85 70.11 355.04 283.43 292.38 307.3 107.41 554.93 107.41 693.66 0 862.23 120.83 1072.57 126.8 1112.84 319.23 1293.35 399.79 1256.05 614.6 1350.03 793.61 1197.87 941.29 1202.35 1147.15 969.64 1178.48 868.2 1326.16 675.02 1235.17 493.77 1315.72 354.99 1133.73 165.58 1123.29 152.16 878.64 0 747.37" />
+                        </g>
+                        <g id="Layer_2" data-name="Layer 2">
+                            <path class="cls-12"
+                                d="M755.33,979.23s125.85,78.43,165.06,114c34.93-36,234.37-277.22,308.24-331.94,54.71,21.89,85,73.4,93,80.25-3.64,21.89-321.91,418.58-368.42,445.94-32.74-3.84-259-195.16-275.4-217C689.67,1049.45,725.24,1003.85,755.33,979.23Z"
+                                transform="translate(-322.83 -335.95)" />
+                        </g>
+                    </svg>
+                </h3>
+                <button class="btn">Edit Profile</button>
             </div>
-
-            <div class="gallery">
-
-                {% assign nhiepanhs = site.categories['Nhiếp ảnh'] %}
-                {% for post in nhiepanhs | sort %}
-
-
-                <div class="gallery-item square content_img box" tabindex="0">
-
-                    <img src="../{{post.image}}" class="gallery-image" style="       position: absolute;
-                    max-width: 100%;
-                    width: 100%;height: auto;top: 50%;left: 50%;transform: translate( -50%, -50%);" alt="">
-
-                    <div class="overbox">
-                        <div class="title overtext"> <a style="color: #262626;"
-                                href="{{ site.baseurl }}{{ post.url }}">"{{post.title}}"</a> </div>
-                        <div class="tagline overtext"> {{ post.date | date: "%B %e, %Y" }} </div>
-                    </div>'
-
-
-                </div>
-
-
-                {% endfor %}
-
-
+            <div class=user-links>
+                <a><span>2.1k</span> Posts</a>
+                <a><span>421k</span> Followers</a>
+                <a>Following <span>388</span></a>
             </div>
-            <!-- End of gallery -->
-
-            <div class="loader"></div>
-
+            <div class="user-bio">
+                <p class="user-bio-name">Nhâm Ngọc Tuấn Anh</p>
+                <p>Một lập trình viên với đam mê chụp ảnh và đi chơi. ٩(◕‿◕｡)۶<br /> 😄</p>
+            </div>
         </div>
-        <!-- End of container -->
+    </div>
+</div>
 
-    </main>
-</body>
+<div class="user-stories">
+    <div class="user-stories-inner">
+        <div class="story-wrapper">
+            <div class="story-inner">
+                <img class="story-img"
+                    src="https://images.unsplash.com/photo-1588110679566-158c6dea107c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1990&q=80"
+                    alt="">
+                <div class="gradient"></div>
+            </div>
+            <h2>Outfits ✌</h2>
+        </div>
+        <div class="story-wrapper">
+            <div class="story-inner">
+                <img class="story-img"
+                    src="https://images.unsplash.com/photo-1470472304068-4398a9daab00?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
+                    alt="">
+                <div class="gradient"></div>
+            </div>
+            <h2>Travel 🛫</h2>
+        </div>
+        <div class="story-wrapper">
+            <div class="story-inner">
+                <img class="story-img"
+                    src="https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2134&q=80"
+                    alt="">
+                <div class="gradient-gray"></div>
+            </div>
+            <h2>Food 🍕</h2>
+        </div>
+        <div class="story-wrapper">
+            <div class="story-inner">
+                <img class="story-img"
+                    src="https://images.unsplash.com/photo-1586462175816-c0e709898f01?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&auto=format&fit=crop&w=1950&q=80"
+                    alt="">
+                <div class="gradient-gray"></div>
+            </div>
+            <h2>Windlife 🌲</h2>
+        </div>
+        <div class="story-wrapper">
+            <div class="story-inner">
+                <img class="story-img"
+                    src="https://images.unsplash.com/photo-1583314580204-efe0bcd18bc6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
+                    alt="">
+                <div class="gradient-gray"></div>
+            </div>
+            <h2>Relax 📚</h2>
+        </div>
+    </div>
+</div>
+
+<div class="user-page-wrapper">
+    <div class="user-page-inner">
+        {% assign nhiepanhs = site.categories['Nhiếp ảnh'] %}
+        {% for post in nhiepanhs | sort %}
+        {% assign position = forloop.index0 %}
+        <div id="img{{position}}" class="image-wrapper">
+            <div id="iov{{position}}" class="img-overlay-wrapper">
+                <div class="img-btns">
+                    <p class="img__title img__description"><a
+                            href="{{ site.baseurl }}{{ post.url }}">"{{post.title}}"</a></p>
+                    <p class="img__subtxt">{{ post.date | date: "%B %e, %Y" }}</p>
+                </div>
+                <div class="img-overlay"></div>
+            </div>
+            <img class="image" src="../{{post.image}}" alt="" class="img__img">
+        </div>
+
+
+
+        {% endfor %}
+    </div>
+</div>
+
 <style>
-    .square {
+    .gallery-item:hover .gallery-item-info,
+.gallery-item:focus .gallery-item-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+    /* .header {
+      text-align: center;
+      text-transform: uppercase;
+      padding: 32px;
+      background-color: #0a0a23;
+      color: #fff;
+      border-bottom: 4px solid #fdb347;
+    }
+        .gallery {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+      gap: 16px;
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 20px 10px;
+
+    }
+
+    .gallery img {
+
+      width: 300px;
+      height: 300px;
+      object-fit: cover;
+      border-radius: 10px;
+    } */
+
+</style>
+<style>
+    .img__item {
         position: relative;
-        width: 300px;
-        height: 300px;
+        margin: 0;
         overflow: hidden;
     }
 
-    .box {
-        cursor: pointer;
-        width: 300px;
-        height: 300px;
-        position: relative;
-        overflow: hidden;
-
+    .img__item img {
+        height: 100%;
+        -o-object-fit: cover;
+        object-fit: cover;
     }
 
-    .box img {
-        position: absolute;
-        left: 0;
-        -webkit-transition: all 300ms ease-out;
-        -moz-transition: all 300ms ease-out;
-        -o-transition: all 300ms ease-out;
-        -ms-transition: all 300ms ease-out;
-        transition: all 300ms ease-out;
+    .img__item:hover .img__description {
+        -webkit-transform: translateY(0%);
+        transform: translateY(0%);
+        -webkit-transition: all ease-in-out 250ms;
+        transition: all ease-in-out 250ms;
     }
 
-    .box .overbox {
-        background-color: #ffffff;
+    .img__description {
         position: absolute;
-        top: 0;
-        left: 0;
-        color: #fff;
+        padding: 0.7em;
         z-index: 100;
-        -webkit-transition: all 300ms ease-out;
-        -moz-transition: all 300ms ease-out;
-        -o-transition: all 300ms ease-out;
-        -ms-transition: all 300ms ease-out;
-        transition: all 300ms ease-out;
-        opacity: 0;
-        width: 300px;
-        height: 300px;
-        padding: 130px 20px;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        color: #fff;
+        background: rgba(0, 0, 0, 0.6);
+        -webkit-transform: translateY(150%);
+        transform: translateY(150%);
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+        flex-direction: row;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
     }
 
-    .box:hover .overbox {
-        opacity: 1;
+    .img__title {
+        font-weight: 700;
+        font-size: 0.8rem;
     }
 
-    .box .overtext {
-        -webkit-transition: all 300ms ease-out;
-        -moz-transition: all 300ms ease-out;
-        -o-transition: all 300ms ease-out;
-        -ms-transition: all 300ms ease-out;
-        transition: all 300ms ease-out;
-        transform: translateY(40px);
-        -webkit-transform: translateY(40px);
+    .img__subtxt {
+        font-size: 0.7rem;
+        font-weight: 300;
     }
 
-    .box .title {
-        font-size: 1.6em;
-        text-transform: uppercase;
-        opacity: 0;
-        transition-delay: 0.1s;
-        transition-duration: 0.2s;
+    .fa-bookmark {
+        display: -ms-grid;
+        display: grid;
+        place-items: center;
     }
-
-    .box:hover .title,
-    .box:focus .title {
-        opacity: 1;
-        transform: translateY(0px);
-        -webkit-transform: translateY(0px);
-    }
-
-    .box .tagline {
-        font-size: 0.8em;
-        opacity: 0;
-        transition-delay: 0.2s;
-        transition-duration: 0.2s;
-    }
-
-    .box:hover .tagline,
-    .box:focus .tagline {
-        opacity: 1;
-        transform: translateX(0px);
-        -webkit-transform: translateX(0px);
-    }
-
-    /* .img-cover {
-       position: absolute;
-       max-width: 100%;
-       width: 100%;
-       height: auto;
-       top: 50%;
-       left: 50%;
-       transform: translate( -50%, -50%);
-   } */
 
 </style>
 
-</html>
+<style>
+    #gallery {
+        -webkit-column-count: 4;
+        -moz-column-count: 4;
+        column-count: 4;
+
+        -webkit-column-gap: 20px;
+        -moz-column-gap: 20px;
+        column-gap: 20px;
+    }
+
+    @media (max-width:1200px) {
+        #gallery {
+            -webkit-column-count: 3;
+            -moz-column-count: 3;
+            column-count: 3;
+
+            -webkit-column-gap: 20px;
+            -moz-column-gap: 20px;
+            column-gap: 20px;
+        }
+    }
+
+    @media (max-width:800px) {
+        #gallery {
+            -webkit-column-count: 2;
+            -moz-column-count: 2;
+            column-count: 2;
+
+            -webkit-column-gap: 20px;
+            -moz-column-gap: 20px;
+            column-gap: 20px;
+        }
+    }
+
+    @media (max-width:600px) {
+        #gallery {
+            -webkit-column-count: 1;
+            -moz-column-count: 1;
+            column-count: 1;
+        }
+    }
+
+    #gallery img,
+    #gallery video {
+        width: 100%;
+        height: auto;
+        margin: 4% auto;
+        box-shadow: -3px 5px 15px #000;
+        cursor: pointer;
+        -webkit-transition: all 0.2s;
+        transition: all 0.2s;
+    }
+
+    .modal-img,
+    .model-vid {
+        width: 100%;
+        height: auto;
+    }
+
+    .modal-body {
+        padding: 0px;
+    }
+
+</style>
+<script>
+    $(document).ready(function () {
+        $("img").click(function () {
+            var t = $(this).attr("src");
+            $(".modal-body").html("<img src='" + t + "' class='modal-img'>");
+            $("#myModal").modal();
+        });
+
+        $("video").click(function () {
+            var v = $("video > source");
+            var t = v.attr("src");
+            $(".modal-body").html("<video class='model-vid' controls><source src='" + t + "' type='video/mp4'></source></video>");
+            $("#myModal").modal();
+        });
+    });//EOF Document.ready
+</script>
+
+<script>
+
+$("#img1").on({
+    mouseenter: function () {
+        $("#iov1").css("opacity", "1");
+    },
+    mouseleave: function () {
+        $("#iov1").css("opacity", "0");
+    }
+});
+$('#img1').click(function(){
+
+    $('#imgblock1').css("display", "flex");
+
+});
+$('#imgblockbc1').click(function(){
+
+    $('#imgblock1').css("display", "none");
+
+});
+</script>
