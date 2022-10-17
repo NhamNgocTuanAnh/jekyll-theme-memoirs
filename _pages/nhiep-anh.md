@@ -4,9 +4,13 @@ permalink: /nhiep-anh/
 title: Nhiếp ảnh trong ta
 ---
 <header class="header">
-    <h1>Nhiếp ảnh trong ta</h1>
+    <h1 style=" font-family: Satisfy;
+  font-size:50px;
+  text-align:center;
+  color:black;
+  padding:1%;">Nhiếp ảnh trong ta</h1>
 </header>
-<div class="gallery">
+<div class="gallery" id="gallery">
 {% assign nhiepanhs = site.categories['Nhiếp ảnh'] %}
 {% for post in nhiepanhs | sort  %}
     <figure class="img__item">
@@ -22,7 +26,7 @@ title: Nhiếp ảnh trong ta
 {% endfor %}
 </div>
 <style>
-    .header {
+    /* .header {
   text-align: center;
   text-transform: uppercase;
   padding: 32px;
@@ -49,7 +53,7 @@ title: Nhiếp ảnh trong ta
   height: 300px;
   object-fit: cover;
   border-radius: 10px;
-}
+} */
 </style>
 <style>
     .img__item {
@@ -110,3 +114,76 @@ title: Nhiếp ảnh trong ta
   place-items: center;
 }
 </style>
+
+<style>
+    #gallery{
+  -webkit-column-count:4;
+  -moz-column-count:4;
+  column-count:4;
+
+  -webkit-column-gap:20px;
+  -moz-column-gap:20px;
+  column-gap:20px;
+}
+@media (max-width:1200px){
+  #gallery{
+  -webkit-column-count:3;
+  -moz-column-count:3;
+  column-count:3;
+
+  -webkit-column-gap:20px;
+  -moz-column-gap:20px;
+  column-gap:20px;
+}
+}
+@media (max-width:800px){
+  #gallery{
+  -webkit-column-count:2;
+  -moz-column-count:2;
+  column-count:2;
+
+  -webkit-column-gap:20px;
+  -moz-column-gap:20px;
+  column-gap:20px;
+}
+}
+@media (max-width:600px){
+  #gallery{
+  -webkit-column-count:1;
+  -moz-column-count:1;
+  column-count:1;
+}
+}
+#gallery img,#gallery video {
+  width:100%;
+  height:auto;
+  margin: 4% auto;
+  box-shadow:-3px 5px 15px #000;
+  cursor: pointer;
+  -webkit-transition: all 0.2s;
+  transition: all 0.2s;
+}
+.modal-img,.model-vid{
+  width:100%;
+  height:auto;
+}
+.modal-body{
+  padding:0px;
+}
+</style>
+<script>
+    $(document).ready(function(){
+  $("img").click(function(){
+  var t = $(this).attr("src");
+  $(".modal-body").html("<img src='"+t+"' class='modal-img'>");
+  $("#myModal").modal();
+});
+
+$("video").click(function(){
+  var v = $("video > source");
+  var t = v.attr("src");
+  $(".modal-body").html("<video class='model-vid' controls><source src='"+t+"' type='video/mp4'></source></video>");
+  $("#myModal").modal();
+});
+});//EOF Document.ready
+</script>
