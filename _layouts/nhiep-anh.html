@@ -73,6 +73,7 @@
     .uname-verified {
         height: 1.8rem;
     }
+
     .user-links a {
         margin: 0 1em 0 0;
         cursor: pointer;
@@ -583,32 +584,21 @@ Remove or comment-out the code block below to see how the browser will fall-back
                 {% for post in nhiepanhs | sort %}
 
 
-                <div class="gallery-item square" tabindex="0">
+                <div class="gallery-item square content_img box" tabindex="0">
 
                     <img src="../{{post.image}}" class="gallery-image" style="       position: absolute;
                     max-width: 100%;
                     width: 100%;height: auto;top: 50%;left: 50%;transform: translate( -50%, -50%);" alt="">
 
-                    <div class="gallery-item-info">
+                    <div class="overbox">
+                        <div class="title overtext"> <a style="color: #262626;"
+                                href="{{ site.baseurl }}{{ post.url }}">"{{post.title}}"</a> </div>
+                        <div class="tagline overtext"> {{ post.date | date: "%B %e, %Y" }} </div>
+                    </div>'
 
-                        <p class="img__title img__description"><a
-                                href="{{ site.baseurl }}{{ post.url }}">"{{post.title}}"</a></p>
-                        <p class="img__subtxt">{{ post.date | date: "%B %e, %Y" }}</p>
-
-                    </div>
 
                 </div>
 
-                <!-- <figure class="img__item">
-				<img src="../{{post.image}}" alt="img" class="img__img">
-				<figcaption class="img__description">
-					<div class="img__text">
-						<p class="img__title"><a href="{{ site.baseurl }}{{ post.url }}">"{{post.title}}"</a></p>
-						<p class="img__subtxt">{{ post.date | date: "%B %e, %Y" }}</p>
-					</div>
-					<i class="far fa-bookmark"></i>
-				</figcaption>
-			</figure> -->
 
                 {% endfor %}
 
@@ -629,6 +619,86 @@ Remove or comment-out the code block below to see how the browser will fall-back
         width: 300px;
         height: 300px;
         overflow: hidden;
+    }
+
+    .box {
+        cursor: pointer;
+        width: 300px;
+        height: 300px;
+        position: relative;
+        overflow: hidden;
+
+    }
+
+    .box img {
+        position: absolute;
+        left: 0;
+        -webkit-transition: all 300ms ease-out;
+        -moz-transition: all 300ms ease-out;
+        -o-transition: all 300ms ease-out;
+        -ms-transition: all 300ms ease-out;
+        transition: all 300ms ease-out;
+    }
+
+    .box .overbox {
+        background-color: #ffffff;
+        position: absolute;
+        top: 0;
+        left: 0;
+        color: #fff;
+        z-index: 100;
+        -webkit-transition: all 300ms ease-out;
+        -moz-transition: all 300ms ease-out;
+        -o-transition: all 300ms ease-out;
+        -ms-transition: all 300ms ease-out;
+        transition: all 300ms ease-out;
+        opacity: 0;
+        width: 300px;
+        height: 300px;
+        padding: 130px 20px;
+    }
+
+    .box:hover .overbox {
+        opacity: 1;
+    }
+
+    .box .overtext {
+        -webkit-transition: all 300ms ease-out;
+        -moz-transition: all 300ms ease-out;
+        -o-transition: all 300ms ease-out;
+        -ms-transition: all 300ms ease-out;
+        transition: all 300ms ease-out;
+        transform: translateY(40px);
+        -webkit-transform: translateY(40px);
+    }
+
+    .box .title {
+        font-size: 1.6em;
+        text-transform: uppercase;
+        opacity: 0;
+        transition-delay: 0.1s;
+        transition-duration: 0.2s;
+    }
+
+    .box:hover .title,
+    .box:focus .title {
+        opacity: 1;
+        transform: translateY(0px);
+        -webkit-transform: translateY(0px);
+    }
+
+    .box .tagline {
+        font-size: 0.8em;
+        opacity: 0;
+        transition-delay: 0.2s;
+        transition-duration: 0.2s;
+    }
+
+    .box:hover .tagline,
+    .box:focus .tagline {
+        opacity: 1;
+        transform: translateX(0px);
+        -webkit-transform: translateX(0px);
     }
 
     /* .img-cover {
