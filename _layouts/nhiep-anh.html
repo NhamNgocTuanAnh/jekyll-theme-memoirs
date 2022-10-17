@@ -805,7 +805,7 @@
 
 <body>
 
-
+<div class="container">
     <div class="user-header-wrapper">
         <div class="user-header-inner">
             <div class="uh-left">
@@ -918,7 +918,7 @@
                 <div id="img{{position}}" class="image-wrapper container-1">
                     <img class="image" src="../{{post.image}}" alt="" class="img__img">
                     <div class="overlay-1">
-                        <div class="text"><a href="{{ site.baseurl }}{{ post.url }}">"{{post.title}}"</a></div>
+                        <div class="text" style=" text-align: center;"><a href="{{ site.baseurl }}{{ post.url }}">"{{post.title}}"</a></div>
                     </div>
                 </div>
 
@@ -926,6 +926,8 @@
             </div>
         </div>
     </div>
+</div>
+
 
     <style>
         .img__item {
@@ -1053,24 +1055,15 @@
         }
 
     </style>
-    <script>
-        $(document).ready(function () {
-            $("img").click(function () {
-                var t = $(this).attr("src");
-                $(".modal-body").html("<img src='" + t + "' class='modal-img'>");
-                $("#myModal").modal();
-            });
 
-            $("video").click(function () {
-                var v = $("video > source");
-                var t = v.attr("src");
-                $(".modal-body").html("<video class='model-vid' controls><source src='" + t + "' type='video/mp4'></source></video>");
-                $("#myModal").modal();
-            });
-        });//EOF Document.ready
-
-    </script>
     <style>
+
+            .container {
+    max-width: 93.5rem;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
         .overlay-1 {
             position: absolute;
             bottom: 100%;
@@ -1089,15 +1082,14 @@
         }
 
         .text {
-            white-space: nowrap;
+            /* white-space: nowrap; */
             color: white;
             font-size: 20px;
+            /* position: absolute;
+            overflow: hidden; */
+            bottom: 0;
+            left: 0;
             position: absolute;
-            overflow: hidden;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            -ms-transform: translate(-50%, -50%);
         }
 
     </style>
