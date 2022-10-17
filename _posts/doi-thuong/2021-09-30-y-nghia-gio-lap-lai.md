@@ -5,7 +5,7 @@ author: sal
 categories: [ Note ]
 tags: [ Tra cứu nhanh ]
 image: assets/images/nhiepanh/reviews/gio-lap-lai.webp
-rating: 0.5
+rating: 5
 lazyimages: "enabled"
 isGithubComments: false
 description: Những con số 11:11, 12:12, 01:10 này chứa đựng nhiều ý nghĩa hơn bạn tưởng.
