@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Instagram Profile Page Layout UI Clone</title>
+    <title>Nhiếp ảnh trong tôi</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css">
@@ -69,7 +69,21 @@
     }
 
 </style>
+<style>
+    .uname-verified {
+        height: 1.8rem;
+    }
+    .user-links a {
+        margin: 0 1em 0 0;
+        cursor: pointer;
+    }
 
+    .user-links a span {
+        color: var(--black);
+        font-weight: bolder;
+    }
+
+</style>
 <style>
     :root {
         font-size: 10px;
@@ -450,14 +464,37 @@ Remove or comment-out the code block below to see how the browser will fall-back
 
                 <div class="profile-image">
 
-                    <img src="../assets/images/mrduck.jpg"
-                        alt="">
+                    <img src="../assets/images/mrduck.jpg" alt="">
 
                 </div>
 
                 <div class="profile-user-settings">
 
-                    <h1 class="profile-user-name">Xóm nghiện</h1>
+                    <h2 class="profile-user-name">Xóm nghiện <svg class="uname-verified"
+                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1350.03 1326.16">
+                            <defs>
+                                <style>
+                                    .cls-11 {
+                                        fill: var(--blue);
+                                    }
+
+                                    .cls-12 {
+                                        fill: #ffffff;
+                                    }
+
+                                </style>
+                            </defs>
+                            <title>verified</title>
+                            <g id="Layer_3" data-name="Layer 3">
+                                <polygon class="cls-11"
+                                    points="0 747.37 120.83 569.85 70.11 355.04 283.43 292.38 307.3 107.41 554.93 107.41 693.66 0 862.23 120.83 1072.57 126.8 1112.84 319.23 1293.35 399.79 1256.05 614.6 1350.03 793.61 1197.87 941.29 1202.35 1147.15 969.64 1178.48 868.2 1326.16 675.02 1235.17 493.77 1315.72 354.99 1133.73 165.58 1123.29 152.16 878.64 0 747.37" />
+                            </g>
+                            <g id="Layer_2" data-name="Layer 2">
+                                <path class="cls-12"
+                                    d="M755.33,979.23s125.85,78.43,165.06,114c34.93-36,234.37-277.22,308.24-331.94,54.71,21.89,85,73.4,93,80.25-3.64,21.89-321.91,418.58-368.42,445.94-32.74-3.84-259-195.16-275.4-217C689.67,1049.45,725.24,1003.85,755.33,979.23Z"
+                                    transform="translate(-322.83 -335.95)" />
+                            </g>
+                        </svg></h2>
 
                     <button class="btn profile-edit-btn">Edit Profile</button>
 
@@ -466,14 +503,10 @@ Remove or comment-out the code block below to see how the browser will fall-back
 
                 </div>
 
-                <div class="profile-stats">
-
-                    <ul>
-                        <li><span class="profile-stat-count">164</span> posts</li>
-                        <li><span class="profile-stat-count">188</span> followers</li>
-                        <li><span class="profile-stat-count">206</span> following</li>
-                    </ul>
-
+                <div class=user-links>
+                    <a><span>2.1k</span> Posts</a>
+                    <a><span>421k</span> Followers</a>
+                    <a>Following <span>388</span></a>
                 </div>
 
                 <div class="profile-bio">
@@ -514,7 +547,7 @@ Remove or comment-out the code block below to see how the browser will fall-back
                         </div>
                         <h2>Travel 🛫</h2>
                     </div>
-                    <div class="story-wrapper">
+                    <!-- <div class="story-wrapper">
                         <div class="story-inner">
                             <img class="story-img"
                                 src="https://images.unsplash.com/photo-1571997478779-2adcbbe9ab2f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2134&q=80"
@@ -522,7 +555,7 @@ Remove or comment-out the code block below to see how the browser will fall-back
                             <div class="gradient-gray"></div>
                         </div>
                         <h2>Food 🍕</h2>
-                    </div>
+                    </div> -->
                     <div class="story-wrapper">
                         <div class="story-inner">
                             <img class="story-img"
@@ -532,7 +565,7 @@ Remove or comment-out the code block below to see how the browser will fall-back
                         </div>
                         <h2>Windlife 🌲</h2>
                     </div>
-                    <div class="story-wrapper">
+                    <!-- <div class="story-wrapper">
                         <div class="story-inner">
                             <img class="story-img"
                                 src="https://images.unsplash.com/photo-1583314580204-efe0bcd18bc6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
@@ -540,7 +573,7 @@ Remove or comment-out the code block below to see how the browser will fall-back
                             <div class="gradient-gray"></div>
                         </div>
                         <h2>Relax 📚</h2>
-                    </div>
+                    </div> -->
                 </div>
             </div>
 
@@ -550,9 +583,11 @@ Remove or comment-out the code block below to see how the browser will fall-back
                 {% for post in nhiepanhs | sort %}
 
 
-                <div class="gallery-item" tabindex="0">
+                <div class="gallery-item square" tabindex="0">
 
-                    <img src="../{{post.image}}" class="gallery-image" alt="">
+                    <img src="../{{post.image}}" class="gallery-image" style="       position: absolute;
+                    max-width: 100%;
+                    width: 100%;height: auto;top: 50%;left: 50%;transform: translate( -50%, -50%);" alt="">
 
                     <div class="gallery-item-info">
 
@@ -588,5 +623,24 @@ Remove or comment-out the code block below to see how the browser will fall-back
 
     </main>
 </body>
+<style>
+    .square {
+        position: relative;
+        width: 300px;
+        height: 300px;
+        overflow: hidden;
+    }
+
+    /* .img-cover {
+       position: absolute;
+       max-width: 100%;
+       width: 100%;
+       height: auto;
+       top: 50%;
+       left: 50%;
+       transform: translate( -50%, -50%);
+   } */
+
+</style>
 
 </html>
