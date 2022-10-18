@@ -10,7 +10,7 @@
             --white: #ffffff;
             --black: #000000;
             --dark-blue: #1f2029;
-            --extra-dark-blue: #13141a;
+            --extra-dark-blue: #0d0f1a;
             --dark-light: #424455;
             --red: #da2c4d;
             --dark-red: #6e1727;
@@ -52,10 +52,20 @@
             background-color: var(--light-mode-brig);
         }
 
-        /* Classes */
-        .space {
-            margin: 1em 0;
+        body::-webkit-scrollbar {
+            width: 10px;
         }
+
+        body::-webkit-scrollbar-track {
+            background-color: #fafafa;
+        }
+
+        body::-webkit-scrollbar-thumb {
+            /* background-image: linear-gradient(-45deg, #6a5af9, #d66efd); */
+            border-radius: 50px;
+        }
+
+        /* Classes */
 
         /* User Header */
         .user-header-wrapper {
@@ -126,7 +136,7 @@
             width: 100%;
             height: 100%;
             display: flex;
-            jusify-content: flex-start;
+            justify-content: flex-start;
             flex-direction: column;
             align-items: flex-start;
         }
@@ -269,69 +279,6 @@
             object-fit: cover;
         }
 
-        .img-overlay-wrapper {
-            width: 100%;
-            height: 100%;
-            opacity: 0;
-            position: absolute;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            z-index: 10;
-            transition: opacity .15s ease-in-out;
-        }
-
-        .img-btns {
-            font-size: 1.3em;
-            color: var(--white);
-            z-index: 10;
-        }
-
-        .img-overlay {
-            width: 100%;
-            height: 100%;
-            position: absolute;
-            background-color: rgba(0, 0, 0, .4);
-            z-index: 9;
-        }
-
-        .image-block {
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            width: 100%;
-            height: 100%;
-            position: fixed;
-            display: none;
-            justify-content: center;
-            align-items: center;
-            z-index: 20;
-        }
-
-        .block {
-            width: 60%;
-            height: 50%;
-            position: relative;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            background-color: var(--light-mode-brig);
-            z-index: 20;
-        }
-
-        .block-background {
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            width: 100%;
-            height: 100%;
-            position: absolute;
-            background-color: rgba(0, 0, 0, .4);
-            z-index: 19;
-        }
-
         /* User Loader */
         .user-loader {
             min-height: 25vh;
@@ -359,49 +306,6 @@
         }
 
         /* Keyframes */
-        @keyframes rotate {
-            100% {
-                transform: rotate(360deg);
-            }
-        }
-
-        @keyframes dash {
-            0% {
-                stroke-dasharray: 1, 200;
-                stroke-dashoffset: 0;
-            }
-
-            50% {
-                stroke-dasharray: 89, 200;
-                stroke-dashoffset: -35px;
-            }
-
-            100% {
-                stroke-dasharray: 89, 200;
-                stroke-dashoffset: -124px;
-            }
-        }
-
-        @keyframes color {
-
-            100%,
-            0% {
-                stroke: var(--red);
-            }
-
-            40% {
-                stroke: var(--blue);
-            }
-
-            66% {
-                stroke: var(--green);
-            }
-
-            80%,
-            90% {
-                stroke: var(--yellow);
-            }
-        }
 
         @media (max-width: 1024px) {
             .user-header-inner {
@@ -433,9 +337,7 @@
                 grid-row-gap: 1.5em;
             }
 
-            .img-btns {
-                font-size: 1.1em;
-            }
+
         }
 
         @media (max-width: 936px) {
@@ -472,9 +374,7 @@
                 grid-row-gap: 1.25em;
             }
 
-            .img-btns {
-                font-size: 1em;
-            }
+
         }
 
         @media (max-width: 767px) {
@@ -501,9 +401,6 @@
                 grid-row-gap: 1em;
             }
 
-            .img-btns {
-                font-size: .8em;
-            }
         }
 
     </style>
@@ -550,68 +447,7 @@
             object-fit: cover;
         }
 
-        .img-overlay-wrapper {
-            width: 100%;
-            height: 100%;
-            opacity: 0;
-            position: absolute;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            z-index: 10;
-            transition: opacity .15s ease-in-out;
-        }
 
-        .img-btns {
-            font-size: 1.3em;
-            color: var(--white);
-            z-index: 10;
-        }
-
-        .img-overlay {
-            width: 100%;
-            height: 100%;
-            position: absolute;
-            background-color: rgba(0, 0, 0, .4);
-            z-index: 9;
-        }
-
-        .image-block {
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            width: 100%;
-            height: 100%;
-            position: fixed;
-            display: none;
-            justify-content: center;
-            align-items: center;
-            z-index: 20;
-        }
-
-        .block {
-            width: 60%;
-            height: 50%;
-            position: relative;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            background-color: var(--light-mode-brig);
-            z-index: 20;
-        }
-
-        .block-background {
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            width: 100%;
-            height: 100%;
-            position: absolute;
-            background-color: rgba(0, 0, 0, .4);
-            z-index: 19;
-        }
 
         /* User Loader */
         .user-loader {
@@ -714,9 +550,7 @@
                 grid-row-gap: 1.5em;
             }
 
-            .img-btns {
-                font-size: 1.1em;
-            }
+
         }
 
         @media (max-width: 936px) {
@@ -753,9 +587,7 @@
                 grid-row-gap: 1.25em;
             }
 
-            .img-btns {
-                font-size: 1em;
-            }
+
         }
 
         @media (max-width: 767px) {
@@ -782,72 +614,11 @@
                 grid-row-gap: 1em;
             }
 
-            .img-btns {
-                font-size: .8em;
-            }
+
         }
 
     </style>
-    <style>
-        .img__item {
-            position: relative;
-            margin: 0;
-            overflow: hidden;
-        }
 
-        .img__item img {
-            height: 100%;
-            -o-object-fit: cover;
-            object-fit: cover;
-        }
-
-        .img__item:hover .img__description {
-            -webkit-transform: translateY(0%);
-            transform: translateY(0%);
-            -webkit-transition: all ease-in-out 250ms;
-            transition: all ease-in-out 250ms;
-        }
-
-        .img__description {
-            position: absolute;
-            padding: 0.7em;
-            z-index: 100;
-            bottom: 0;
-            left: 0;
-            right: 0;
-            color: #fff;
-            background: rgba(0, 0, 0, 0.6);
-            -webkit-transform: translateY(150%);
-            transform: translateY(150%);
-            display: -webkit-box;
-            display: -ms-flexbox;
-            display: flex;
-            -webkit-box-orient: horizontal;
-            -webkit-box-direction: normal;
-            -ms-flex-direction: row;
-            flex-direction: row;
-            -webkit-box-pack: justify;
-            -ms-flex-pack: justify;
-            justify-content: space-between;
-        }
-
-        .img__title {
-            font-weight: 700;
-            font-size: 0.8rem;
-        }
-
-        .img__subtxt {
-            font-size: 0.7rem;
-            font-weight: 300;
-        }
-
-        .fa-bookmark {
-            display: -ms-grid;
-            display: grid;
-            place-items: center;
-        }
-
-    </style>
 
     <style>
         #gallery {
@@ -928,13 +699,16 @@
             }
         }
 
-        .container {
-            /* max-width: 80.5rem; */
+        ._aa_y {
+            box-sizing: content-box;
+            padding: 60px 20px 0;
+            width: calc(100% - 40px);
+
             max-width: 935px;
             margin: 0 auto 30px;
-            /* margin: 0 auto; */
             padding: 0 2rem;
         }
+
 
         .overlay-1 {
             position: absolute;
@@ -967,7 +741,7 @@
 
 <body>
 
-    <div class="container _aa_y">
+    <div class="_aa_y">
         <div class="user-header-wrapper">
             <div class="user-header-inner">
                 <div class="uh-left">
