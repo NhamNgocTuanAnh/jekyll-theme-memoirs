@@ -6,7 +6,7 @@
         <noscript><img src="{{include.image_src}}" alt="{{include.image_alt}}" title="{{include.image_title}}" /></noscript>
 
         <!-- If javascript is present. -->
-        <img data-src="{{include.image_src}}" alt="{{include.image_alt}}" title="{{include.image_title}}" class="blur-up lazyload img-thumb lazyimg" id="image-hover"/>
+        <img data-src="{{include.image_src}}" alt="{{include.image_alt}}" title="{{include.image_title}}" class="blur-up lazyload img-thumb lazyimg ten-lop-ban-tu-dat" id="image-hover"/>
         {% if include.image_title %}
             <br>
         <span class="image-caption">{{include.image_title}}</span>
@@ -14,3 +14,4 @@
    </div></body>
 {% endif %}
 <style>#image-hover:hover{transform:scale(1.4);transition: 0.5s cubic-bezier(0.6, 0.03, 0.28, 0.98);}#image-hover{display:flex;justify-content:center;align-items:center;margin:0 auto;transition: 0.5s cubic-bezier(0.6, 0.03, 0.28, 0.98);}</style>
+
