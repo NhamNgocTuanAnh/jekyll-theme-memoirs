@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Đánh giá Viltrox Canon EF-EOS M2 (0.71X)'
+title: 'Ngàm Viltrox EF-EOS M2 Speed Booster'
 author: sal
 lazyimages: "enabled"
 categories: [Nhiếp ảnh]
