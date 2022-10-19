@@ -30,7 +30,7 @@ Mình sẽ phân loại chúng theo ISO nhé, iso càng thấp càng mì ăn li�
 Film: Fujicolor 100
 Develop & Scan: Ella.bkk" %}
 Ảnh bị bệt khá nặng, grain cũng siêu nhiều khi cho vào môi trường thiếu sáng như trời âm u, trong nhà,...
-{% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/cuon-phim/mau-phim-Fuji-color-100-night.webp" image_alt=" @Fujicolor100" image_title="Chụp tối bệt khá nặng. @Fujicolor100" %}
+{% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/cuon-phim/mau-phim-Fuji-color-100-night.webp" image_alt="@Fujicolor100" image_title="Chụp tối bệt khá nặng. @Fujicolor100" %}
 #### 1.2. Kodak Gold 100
 {% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/cuon-phim/mau-phim-Kodak-Gold-100-phongcanh.webp" image_alt="@KodakGold100" image_title="@KodakGold100" %}
 Màu ảnh của Kodak gold rất hịn, Kodak gold cũng đã hạn chế(hạn chế thôi nhé, chưa chữa khỏi hẳn) được bệnh ám vàng thường thấy ở Kodak colorplus 200. Tông màu xanh lá cây rất sâu, nhìn thích mắt, không bị pha tẹo yellow.<br>
