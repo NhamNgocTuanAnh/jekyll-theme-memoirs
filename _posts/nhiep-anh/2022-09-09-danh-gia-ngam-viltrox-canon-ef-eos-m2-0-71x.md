@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Viltrox EF-EOS M2 Speed Booster'
+title: 'Viltrox EF-EOS M2 Speed Booster: Phù hợp với người chơi nghiệp dư không có nhu cầu về độ sắc nét hoặc chụp tối cao'
 author: sal
 lazyimages: "enabled"
 categories: [Nhiếp ảnh]
