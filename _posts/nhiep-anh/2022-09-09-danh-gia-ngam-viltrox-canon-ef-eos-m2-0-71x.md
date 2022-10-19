@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Đánh giá Viltrox Canon EF-EOS M2 (0.71X) - [Review]'
+title: 'Đánh giá Viltrox Canon EF-EOS M2 (0.71X)'
 author: sal
 lazyimages: "enabled"
 categories: [Nhiếp ảnh]
