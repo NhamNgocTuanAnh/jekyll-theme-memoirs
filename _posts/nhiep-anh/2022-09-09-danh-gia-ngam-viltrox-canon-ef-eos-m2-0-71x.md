@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ngàm Viltrox EF-EOS M2 Speed Booster'
+title: 'Viltrox EF-EOS M2 Speed Booster'
 author: sal
 lazyimages: "enabled"
 categories: [Nhiếp ảnh]
