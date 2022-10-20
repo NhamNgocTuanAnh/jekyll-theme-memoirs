@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sử dụng Preset màu sao cho đẹp? - Chọn Preset màu film'
+title: 'Sử dụng Preset màu film sao cho đẹp?'
 author: sal
 lazyimages: "enabled"
 categories: [Nhiếp ảnh]
