@@ -5,7 +5,7 @@ author: sal
 lazyimages: "enabled"
 categories: [Nhiếp ảnh]
 tags: [đánh giá, nhiếp ảnh]
-image: assets/images/nhiepanh/gia-lap-mau-phim-avt.webp
+image: assets/images/nhiepanh/gia-lap-mau-phim-avt01.webp
 isGithubComments: false
 permalink: nhiep-anh/luu-y-khi-gia-lap-mau-phim
 excerpt: Trái ngược với việc sở hữu một chiếc máy film giá rất tốt, thì quá trình tạo chụp hình, tráng rửa lại là một rào cản lớn về tính bất tiện của nó so với xã hội ngày nay. Trong bài viết này, mình sẽ giới thiệu tới các bạn một vài sử dụng cũng như giới thiệu một số giả lập màu phim cơ bản bằng chính cách cách phân loại film thực dựa theo kích cỡ, chủng loại, và mục đích sử dụng cơ bản.
@@ -23,6 +23,7 @@ Một vài năm trở lại đây, trong giới trẻ một trào lưu «retro»
 ### Chụp streetlife
 {% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/mau_phim_Fuji_C200.webp" image_alt="Fujifilm C200" image_title="#Fujifilm C200" %}
 Thường hình thức này thì chụp ở tốc cao, khẩu nhỏ để bắt khoảnh khắc nên iso cao.<br>
+{% include lazyload.html image_src="../../assets/images/nhiepanh/gia-lap-mau-phim-avt.webp" image_alt="Preset màu Fujifilm C200" image_title="Góc nhỏ Hồ Tây. Preset màu film" %}
 Với thể loại này thì mình không recommend loại nào cả vì giả lập film nào cũng có thể đem ra dùng được bằng hết.
 ### Chụp cảnh
 {% include lazyload.html image_src="../../assets/images/IMG_4009_resize-1024x729.webp" image_alt="Kodak colorplus" image_title="Giả lập Kodak colorplus" %}
