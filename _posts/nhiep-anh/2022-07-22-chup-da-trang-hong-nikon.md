@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Chụp da trắng hồng nikon  - [Cẩm nang nhiếp ảnh]'
+title: 'Chụp da trắng hồng nikon - [Cẩm nang nhiếp ảnh]'
 author: sal
 lazyimages: "enabled"
 categories: [Nhiếp ảnh]

@@ -14,25 +14,11 @@ adsense: "enabled"
 toc: true
 ---
 
-<!-- wp:paragraph -->
-<p><strong>Đánh giá:</strong> Khá tốt (4/5)</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>Giá:</strong> 12 triệu (máy cũ) - 14 15 triệu (máy mới), giá đã bao gồm Body + ống fix</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>Năm:</strong>&nbsp;2022</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>Đối tượng:</strong> Phù hợp với những người mới bắt đầu tham gia nhiếp ảnh, đôi khi nó cũng là 1 chiếc máy ảnh phụ đắc lực của nhiếp ảnh gia chuyên nghiệp.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>Phù hợp:</strong> chụp chân dung, phong cảnh, kiến trúc</p>
-<!-- /wp:paragraph -->
+**Đánh giá:** Khá tốt (4/5)<br>
+**Giá:** 12 triệu (máy cũ) - 14 15 triệu (máy mới), giá đã bao gồm Body + ống fix<br>
+**Năm:** 2022<br>
+**Đối tượng:** Phù hợp với những người mới bắt đầu tham gia nhiếp ảnh, đôi khi nó cũng là 1 chiếc máy ảnh phụ đắc lực của nhiếp ảnh gia chuyên nghiệp.<br>
+**Phù hợp:** chụp chân dung, phong cảnh, kiến trúc
 
 Chào các bạn, mình là Quả táo tàu. Nay mình sẽ chia sẻ với các bạn về chiếc máy đầu tiên của mình, chiếc Canon 800D. Bắt đầu thôi!<br>
 Chúng ta nói về tên tuổi của nó một chút nhé. Sinh ra vào ngày 14/02/2017, được đẻ cùng với Canon 77D và Canon M6. Tính ra đến nay thì Canon 800D cũng được 5 tuổi rồi -  sắp hết lớp mẫu giáo lớn rồi  , vì thế nên kích thước Body thì giống đến 99% của 77D, nhưng là dòng 3 số (xxxD) nên không được thừa hưởng  một số đặc điểm vốn đã là "đặc sản" của dòng 1 số (xD) và 2 số (xxD) là màn hình phụ, vòng xoay nhanh,...

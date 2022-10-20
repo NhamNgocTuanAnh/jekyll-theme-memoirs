@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trải nghiệm một ngày với xe cho người mới (50cc)'
+title: 'Xe 50cc - Một ngày trải nghiệm với xe cho người mới.'
 author: sal
 categories: [ Suy ngẫm ]
 tags: [ phản biện ]

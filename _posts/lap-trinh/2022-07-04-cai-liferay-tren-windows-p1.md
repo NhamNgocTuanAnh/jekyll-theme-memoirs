@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Liferay: Tài liệu cài đặt p1"
+title:  "Liferay - Tài liệu cài đặt p1"
 author: sal
 lazyimages: "enabled"
 categories: [ Lập trình, Liferay ]
