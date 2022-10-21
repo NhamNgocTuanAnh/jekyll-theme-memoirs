@@ -16,9 +16,11 @@ toc: false
 
 #filmphotolifestyle<br>
 Một vài năm trở lại đây, trong giới trẻ một trào lưu “retro” với phong cách chụp ảnh phim. Họ yêu thích cái “màu film”, hay cái “nước ảnh film”. Việc chọn chụp cuộn phim không khó nhưng cũng khá nhức đầu với người bắt đầu. Trong bài viết này, mình sẽ giới thiệu tới các bạn một vài cuộn phim được rất nhiều người recomment.<br>
-**Mục lục**
+
+<p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Mục lục</p>
 * TOC
 {:toc}
+
 Trong bài viết này mình sẽ giới thiệu với các bạn những cuộn phim phổ biến với chi phí phù hợp với tiêu chí mới bắt đầu nhất nhé ;)<br>
 Mình sẽ phân loại chúng theo ISO nhé, iso càng thấp càng mì ăn liền nhé :D
 ### 1\. ISO 100

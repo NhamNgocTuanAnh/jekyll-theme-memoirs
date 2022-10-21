@@ -20,7 +20,7 @@ toc: false
 **Đối tượng:** Phù hợp với những người mới bắt đầu tham gia nhiếp ảnh, đôi khi nó cũng là 1 chiếc máy ảnh phụ đắc lực của nhiếp ảnh gia chuyên nghiệp.<br>
 **Phù hợp:** chụp chân dung, phong cảnh, kiến trúc
 
-**Mục lục**
+<p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Mục lục</p>
 * TOC
 {:toc}
 

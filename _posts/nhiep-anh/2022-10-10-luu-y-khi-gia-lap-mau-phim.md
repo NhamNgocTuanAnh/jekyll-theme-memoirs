@@ -13,13 +13,13 @@ description: Trái ngược với việc sở hữu một chiếc máy 
 adsense: "false"
 toc: false
 ---
+#filmphotolifestyle <br>
+Một vài năm trở lại đây, trong giới trẻ một trào lưu «retro» với phong cách chụp ảnh phim. Giá trung bình của một cuộn phim phổ thông dao động trên thị trường từ 180.000 đồng - 220.000 đồng, chưa kể còn phải thêm chi phí tráng phim ở lab.<br>Nên nhiều người đã dùng xu hướng chụp ảnh về rồi thêm giả lập màu phim vào. Trong bài viết này, mình sẽ giới thiệu tới các bạn một vài cách sử dụng cũng như giới thiệu một số giả lập màu phim cơ bản.<br>
 
-**Mục lục**
+<p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Mục lục</p>
 * TOC
 {:toc}
 
-#filmphotolifestyle <br>
-Một vài năm trở lại đây, trong giới trẻ một trào lưu «retro» với phong cách chụp ảnh phim. Giá trung bình của một cuộn phim phổ thông dao động trên thị trường từ 180.000 đồng - 220.000 đồng, chưa kể còn phải thêm chi phí tráng phim ở lab.<br>Nên nhiều người đã dùng xu hướng chụp ảnh về rồi thêm giả lập màu phim vào. Trong bài viết này, mình sẽ giới thiệu tới các bạn một vài cách sử dụng cũng như giới thiệu một số giả lập màu phim cơ bản.
 ### Chụp streetlife
 {% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/mau_phim_Fuji_C200.webp" image_alt="Fujifilm C200" image_title="#Fujifilm C200" %}
 Thường hình thức này thì chụp ở tốc cao, khẩu nhỏ để bắt khoảnh khắc nên iso cao.<br>

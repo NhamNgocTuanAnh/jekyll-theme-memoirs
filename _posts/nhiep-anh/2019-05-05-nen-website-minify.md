@@ -14,7 +14,7 @@ adsense: "false"
 toc: false
 ---
 
-**Mục lục**
+<p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Mục lục</p>
 * TOC
 {:toc}
 
