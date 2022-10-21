@@ -13,6 +13,7 @@ description: color100, Gold100, vista200, colorplus200,...Người mới nên ch
 adsense: "false"
 toc: false
 tags: pinned
+rating: 4.5
 ---
 
 #filmphotolifestyle<br>
