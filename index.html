@@ -7,18 +7,19 @@ title: Trang chủ
 ================================================== -->
 <div class="blog-grid-container">
 
-    {% for post in site.tags.pinned %}
-     <!-- Renders all the pinned posts -->
-        {% include postbox.html %}
+
+    {% for post in paginator.posts %}
+        {% if post.pinned %}
+            <!-- Renders all the pinned posts -->
+            {% include postbox.html %}
+        {% endif %}
     {% endfor %}
 
     {% for post in paginator.posts %}
-        {% unless post.tags contains 'pinned' %}
-            <!-- Renders all the posts except pinned -->
+        {% unless post.pinned %}
             {% include postbox.html %}
         {% endunless %}
     {% endfor %}
-
 </div>
 <!-- Pagination
 ================================================== -->
