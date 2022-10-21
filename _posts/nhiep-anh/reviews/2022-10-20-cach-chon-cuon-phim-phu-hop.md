@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Những cuộn phim cho người bắt đầu, những cuộn phim được yêu thích nhất.'
+title: 'Nên lựa chọn loại film chụp ảnh nào cho người mới?.'
 author: sal
 lazyimages: "enabled"
 categories: [ Note, Nhiếp ảnh ]
@@ -12,6 +12,7 @@ excerpt: color100, Gold100, vista200, colorplus200,...Người mới nên chọn
 description: color100, Gold100, vista200, colorplus200,...Người mới nên chọn cuộn Film gì?
 adsense: "false"
 toc: false
+tags: pinned
 ---
 
 #filmphotolifestyle<br>
