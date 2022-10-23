@@ -12,25 +12,12 @@ permalink: nhiep-anh/canon-g1x-mark-1-nam-2023-hoac-forever-on-chu
 excerpt: Đánh giá Tốt. Phù hợp với người chơi nghiệp dư không có nhu cầu về độ sắc nét hoặc chụp tối cao
 ---
 
-<!-- wp:paragraph -->
-<p><strong>Đánh giá: Tốt</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>Giá Canon G1X:</strong><br>3tr5 - 4tr5 triệu hàng cũ(giá năm 2022)</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>Năm:</strong>&nbsp;2022</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>Đối tượng:</strong>&nbsp;nhiếp ảnh nghiệp dư, người chơi ảnh&nbsp;bình dân, học sinh, sinh viên</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>Phù hợp:</strong> chụp chân dung, phong cảnh, kiến trúc</p>
-<!-- /wp:paragraph -->
+**Đánh giá: Tốt** <br>
+**Giá Canon G1X:**
+3tr5 - 4tr5 triệu hàng cũ (giá năm 2022)<br>
+**Năm:** 2022<br>
+**Đối tượng:** nhiếp ảnh nghiệp dư, người chơi ảnh bình dân, học sinh, sinh viên<br>
+**Phù hợp:** chụp chân dung, phong cảnh, kiến trúc<br>
 
 >Chiếc máy ảnh tốt nhất là chiếc máy ảnh luôn trong túi của bạn.
 
