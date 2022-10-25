@@ -8,10 +8,9 @@ date: '2022-10-25'
 image: assets/images/nhiepanh/introduce/write-to-me-avt1.webp
 isGithubComments: false
 toc: false
-permalink: nhiep-anh/chon-cuon-phim-dau-tien
+permalink: loi-ngap-ngung-chua-noi
 adsense: "false"
 toc: false
-tags: pinned
 ---
 
 Băng qua một căn phòng chật ních người. Một tia điện, hai con người lạ lẫm nhìn thấy nhau. Có một sự cuốn hút ngay lập tức, trong khoảng khắc đó, đơn giản biết được họ thuộc về nhau.
