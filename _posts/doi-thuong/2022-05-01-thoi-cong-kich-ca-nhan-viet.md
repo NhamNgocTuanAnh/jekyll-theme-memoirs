@@ -2,7 +2,7 @@
 layout: post
 title: 'Thói quen công kích cá nhân của người Việt'
 author: sal
-categories: [ Suy ngẫm ]
+categories: [ Ngẫm ]
 tags: [ phản biện ]
 lazyimages: "enabled"
 image: assets/images/phan-bien-viet-avt.jpg
