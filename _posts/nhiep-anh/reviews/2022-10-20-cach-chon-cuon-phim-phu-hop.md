@@ -10,7 +10,7 @@ isGithubComments: false
 permalink: nhiep-anh/chon-cuon-phim-dau-tien
 excerpt: color100, Gold100, vista200, colorplus200,...Người mới nên chọn cuộn Film gì?
 description: color100, Gold100, vista200, colorplus200,...Người mới nên chọn cuộn Film gì?
-adsense: "false"
+adsense: "true"
 toc: false
 tags: pinned
 rating: 4.5
