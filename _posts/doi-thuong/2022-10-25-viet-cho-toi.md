@@ -1,5 +1,5 @@
 ---
-title: Chớm thu, chợt tắt
+title: Chợt thu, chớm tắt
 layout: post
 author: sal
 categories: [ Ngẫm ]

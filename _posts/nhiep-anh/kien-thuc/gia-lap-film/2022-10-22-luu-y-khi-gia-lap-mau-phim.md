@@ -39,17 +39,17 @@ Recommend là: **portra160/400, proimage100, ektar100, pro400h**,.. đây là c�
 Vì mình giả lập nên film gì đắt nhất xịnh nhất cứ lấy ra mà sài thôi 😁
 {% include lazyload.html image_src="../../assets/images/nhiepanh/introduce/IMG_5756.webp" image_alt="Vista 200" image_title="@Vista 200" %}
 Hoặc nếu muốn màu phổ thông như các đồng nhiệp trên group thì chơi giả lập màu **colorplus200, nội địa 100, vista200/400**.<br>
-Mình không thực sự recommend c200 lắm vì thực sự màu film này nó hơi khó chiều, nếu chụp các bạn nên chụp dư sáng ra, set iso tầm thấp để có thể dư sáng vì film này màu rất dễ bị  xỉn và xám nhiều và Nếu chụp người thiếu sáng thì sẽ  nhìn như người sao hỏa vậy :v<br>
-Mẹo nhỏ nữa là **chụp dư sáng** để da mẫu trắng hơn tý. Nhớ là dùng đúng lúc nhé. Không váy trắng của mẫu mất chi tiết hết 🤣
+Mình không thực sự recommend c200 lắm vì thực sự màu film này nó hơi khó chiều, nếu chụp các bạn nên chụp dư sáng ra, set iso tầm thấp để có thể dư sáng vì film này màu rất dễ bị  xỉn và xám nhiều và Nếu chụp người thiếu sáng thì sẽ  nhìn như người sao hỏa vậy :v<br><br>
+**Mẹo nhỏ*** nữa là **chụp dư sáng** để da mẫu trắng hơn tý. Nhớ là dùng đúng lúc nhé. Không váy trắng của mẫu mất chi tiết hết 🤣
 ### Chụp trắng đen
 {% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/mau-phim-Pan-F-50.webp" image_alt="Pan F 50" image_title="@Pan F 50" %}
 Loại này phải để nói riêng, khá khó chụp, mình chưa có kinh nghiệm nên mình sẽ chúc bạn may mắn thôi :D <br>
 
 > Các bạn lưu ý là giả lập film chỉ ảnh hưởng khoảng 50% đến chất ảnh, còn lại 50% là do ống kính & máy ảnh bạn đang dùng + điều kiện white balance nữa nhé, nên là ốp mầu film xông ảnh lên xanh lè hoặc vàng khè thì đừng chửi mình. =))
 
-Mình có viết một bài về cách chọn film mà mình sưu tầm được. **Khó hiểu nhỉ?**.( ఠ ͟ʖ ఠ) Tại sao chơi giả lập rồi đọc chi vậy???
+Mình có viết một bài về cách chọn film mà mình sưu tầm được.<br> **Khó hiểu nhỉ?**.( ఠ ͟ʖ ఠ) Tại sao chơi giả lập rồi đọc chi vậy???
 {% include redirect-countdown.html local="true" redirect_src="/nhiep-anh/chon-cuon-phim-dau-tien" redirect_title="Bạn có thể đón đọc tại" %}
 {% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/mau_phim_Fuji_super_400_expired.webp" image_alt="Fujifilm super 400" image_title="Fujifilm super 400" %}
-**Vì sao ư???** Khi bạn hiểu được cách hoạt động của các cuộn film. Bạn sẽ không cần **lục tung** lightroom để thử từng màu film nữa mà đã **có sẵn** mindset **trong đầu** cho kế hoạch chụp ngày hôm đó cùng **mình** rồi.
-(¬‿¬ ) Phải không nào.
+**Vì sao ư???** Khi bạn hiểu được cách hoạt động của các cuộn film. Bạn sẽ không cần **lục tung** lightroom để thử từng màu film nữa mà đã **có sẵn** mindset **trong đầu** cho kế hoạch chụp ngày hôm đó cùng **mình** rồi.<br>
+(¬‿¬ ) **Phải không nào?**.
 
