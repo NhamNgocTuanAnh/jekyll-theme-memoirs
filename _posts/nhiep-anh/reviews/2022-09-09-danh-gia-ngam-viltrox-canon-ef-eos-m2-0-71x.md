@@ -14,25 +14,16 @@ excerpt: Đánh giá Tốt. Phù hợp với người chơi nghiệp dư không
 adsense: "enabled"
 ---
 
-<!-- wp:paragraph -->
-<p><strong>Đánh giá: Tốt</strong></p>
-<!-- /wp:paragraph -->
+**Đánh giá: Tốt**
 
-<!-- wp:paragraph -->
-<p><strong>Giá Viltrox Canon EF-EOS M2:</strong><br>2tr5 - 2tr8 triệu hàng mới(giá năm 2022)</p>
-<!-- /wp:paragraph -->
+**Giá Viltrox Canon EF-EOS M2:**
+2tr5 - 2tr8 triệu hàng mới(giá năm 2022)
 
-<!-- wp:paragraph -->
-<p><strong>Năm:</strong>&nbsp;2019</p>
-<!-- /wp:paragraph -->
+**Năm:** 2019
 
-<!-- wp:paragraph -->
-<p><strong>Đối tượng:</strong>&nbsp;nhiếp ảnh nghiệp dư, người chơi ảnh&nbsp;bình dân, học sinh, sinh viên</p>
-<!-- /wp:paragraph -->
+**Đối tượng:** nhiếp ảnh nghiệp dư, người chơi ảnh bình dân, học sinh, sinh viên
 
-<!-- wp:paragraph -->
-<p><strong>Phù hợp:</strong> chụp chân dung, phong cảnh, kiến trúc</p>
-<!-- /wp:paragraph -->
+**Phù hợp:** chụp chân dung, phong cảnh, kiến trúc
 
 ### Mục lục
 
