@@ -50,6 +50,6 @@ Loại này phải để nói riêng, khá khó chụp, mình chưa có ki
 Mình có viết một bài về cách chọn film mà mình sưu tầm được.<br> **Khó hiểu nhỉ?**.( ఠ ͟ʖ ఠ) Tại sao chơi giả lập rồi đọc chi vậy???
 {% include redirect-countdown.html local="true" redirect_src="/nhiep-anh/chon-cuon-phim-dau-tien" redirect_title="Bạn có thể đón đọc tại" %}
 {% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/mau_phim_Fuji_super_400_expired.webp" image_alt="Fujifilm super 400" image_title="Fujifilm super 400" %}
-**Vì sao ư???** Khi bạn hiểu được cách hoạt động của các cuộn film. Bạn sẽ không cần **lục tung** lightroom để thử từng màu film nữa mà đã **có sẵn** mindset **trong đầu** cho kế hoạch chụp ngày hôm đó cùng **mình** rồi.
-(¬‿¬ ) Phải không nào.
+**Vì sao ư???** Khi bạn hiểu được cách hoạt động của các cuộn film. Bạn sẽ không cần **lục tung** lightroom để thử từng màu film nữa mà đã **có sẵn** mindset **trong đầu** cho kế hoạch chụp ngày hôm đó cùng **mình** rồi.<br>
+(¬‿¬ ) **Phải không nào?**.
 
