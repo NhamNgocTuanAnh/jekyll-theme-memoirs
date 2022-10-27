@@ -2,7 +2,7 @@
 layout: post
 title: 'Sử dụng Facebook cá nhân một cách hiệu quả?'
 author: sal
-categories: [ Ngẫm ]
+categories: [ Ngẫm, Note ]
 tags: [ phản biện ]
 image: assets/images/xe-50cc-nguy-hiem.webp
 rating: 0.5
