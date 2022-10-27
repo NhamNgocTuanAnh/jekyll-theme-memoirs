@@ -99,6 +99,14 @@ $(window).on("scroll",function(){window.scrollY>window.outerHeight?($("#scrollTo
 
     gtag('config', 'UA-192636660-1');
     </script>
+    <!-- Chặn tải ảnh -->
+<script type="text/javascript">
+function nocontext(t){if("IMG"==(null==t?event.srcElement.tagName:t.target.tagName))return!1}document.oncontextmenu=nocontext;
+</script>
+
+<style>
+img{-webkit-user-drag:none;user-drag:none;-webkit-touch-callout:none}
+</style>
 </body>
 </body>
 </html>
