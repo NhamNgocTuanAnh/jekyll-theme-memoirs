@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sử dụng Facebook cá nhân một cách hiệu quá'
+title: 'Sử dụng Facebook cá nhân một cách hiệu quả?'
 author: sal
 categories: [ Ngẫm ]
 tags: [ phản biện ]
