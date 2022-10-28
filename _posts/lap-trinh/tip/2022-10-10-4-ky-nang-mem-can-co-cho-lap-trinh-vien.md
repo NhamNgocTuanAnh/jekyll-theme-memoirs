@@ -5,7 +5,7 @@ lazyimages: "enabled"
 author: sal
 categories: [ Lập trình, Đời thường ]
 tags: [ Đời thường, Lập trình ]
-image: assets/images/ky-nang-lap-trinh-vien.webp
+image: assets/images/ky-nang-lap-trinh-vien-1.webp
 # rating: 4.5
 isGithubComments: false
 permalink: lap-trinh/4-ky-nang-mem-can-co-cho-lap-trinh-vien
