@@ -1,23 +1,275 @@
 <html>
 
 <head>
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css"><link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css'>
-   <meta charset="utf-8"><title>Thêm bài viết mới v2.3.7</title><link rel="icon" href="{{ site.baseurl }}/assets/images/logo.webp">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+   <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css'>
+   <meta charset="utf-8">
+   <title>Thêm bài viết mới v2.3.7</title>
+   <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.webp">
+   <script src="../ckeditor5/build/ckeditor.js"></script>
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <style>
- *{box-sizing:border-box}body{background:#fff;margin:0;padding:0}.image-wrap{background-image:url(../assets/images/nhiepanh/introduce/IMG_5756.webp);background-position:center;background-size:cover;height:40rem;margin:5rem auto;max-width:60rem;position:relative;width:100%}.image-wrap .title{bottom:0;color:#fff;left:0;margin:0;padding:0;position:absolute}.image-wrap .title::before{content:"";background-color:#fff;bottom:calc(100% + 2rem);height:40rem;left:0;position:absolute;width:.25rem}.image-wrap .title::after{content:"";background-color:#fff;bottom:0;height:.25rem;left:calc(100% + 2rem);position:absolute;width:60rem}.image-wrap h2{color:#fff;display:block;font-family:Arial,sans-serif;font-size:calc(1.5rem + 1.5vw);font-weight:800;letter-spacing:-.15rem;line-height:.9;margin:0;text-indent:-.07em;text-transform:uppercase;white-space:nowrap}.image-wrap .borders{bottom:2rem;left:2rem;overflow:hidden;position:absolute;right:2rem;top:2rem}.image-wrap .borders::before{content:"";background-color:#fff;height:.25rem;left:0;position:absolute;right:0;top:0}.image-wrap .borders::after{content:"";background-color:#fff;bottom:0;position:absolute;right:0;top:0;width:.25rem}.image-wrap::before,.image-wrap::after{content:"";background:#777;bottom:32px;box-shadow:0 30px 20px rgba(0,0,0,0.45);left:8px;position:absolute;top:80%;transform:rotate(-7deg);width:50%;z-index:-1}.image-wrap::after{left:auto;right:8px;transform:rotate(7deg)}
+      * {
+         box-sizing: border-box
+      }
+
+      body {
+         background: #fff;
+         margin: 0;
+         padding: 0
+      }
+
+      .image-wrap {
+         background-image: url(../assets/images/nhiepanh/introduce/IMG_5756.webp);
+         background-position: center;
+         background-size: cover;
+         height: 40rem;
+         margin: 5rem auto;
+         max-width: 60rem;
+         position: relative;
+         width: 100%
+      }
+
+      .image-wrap .title {
+         bottom: 0;
+         color: #fff;
+         left: 0;
+         margin: 0;
+         padding: 0;
+         position: absolute
+      }
+
+      .image-wrap .title::before {
+         content: "";
+         background-color: #fff;
+         bottom: calc(100% + 2rem);
+         height: 40rem;
+         left: 0;
+         position: absolute;
+         width: .25rem
+      }
+
+      .image-wrap .title::after {
+         content: "";
+         background-color: #fff;
+         bottom: 0;
+         height: .25rem;
+         left: calc(100% + 2rem);
+         position: absolute;
+         width: 60rem
+      }
+
+      .image-wrap h2 {
+         color: #fff;
+         display: block;
+         font-family: Arial, sans-serif;
+         font-size: calc(1.5rem + 1.5vw);
+         font-weight: 800;
+         letter-spacing: -.15rem;
+         line-height: .9;
+         margin: 0;
+         text-indent: -.07em;
+         text-transform: uppercase;
+         white-space: nowrap
+      }
+
+      .image-wrap .borders {
+         bottom: 2rem;
+         left: 2rem;
+         overflow: hidden;
+         position: absolute;
+         right: 2rem;
+         top: 2rem
+      }
+
+      .image-wrap .borders::before {
+         content: "";
+         background-color: #fff;
+         height: .25rem;
+         left: 0;
+         position: absolute;
+         right: 0;
+         top: 0
+      }
+
+      .image-wrap .borders::after {
+         content: "";
+         background-color: #fff;
+         bottom: 0;
+         position: absolute;
+         right: 0;
+         top: 0;
+         width: .25rem
+      }
+
+      .image-wrap::before,
+      .image-wrap::after {
+         content: "";
+         background: #777;
+         bottom: 32px;
+         box-shadow: 0 30px 20px rgba(0, 0, 0, 0.45);
+         left: 8px;
+         position: absolute;
+         top: 80%;
+         transform: rotate(-7deg);
+         width: 50%;
+         z-index: -1
+      }
+
+      .image-wrap::after {
+         left: auto;
+         right: 8px;
+         transform: rotate(7deg)
+      }
+
    </style>
    <!-- Hướng dẫn viết bài -->
-   <style>button.accordion{background-color:#eee;color:#444;cursor:pointer;padding:18px;width:100%;text-align:left;border:none;outline:none;transition:.4s}button.accordion.active,button.accordion:hover{background-color:#ddd}div.panel{padding:0 18px;background-color:#fff;display:none}</style>
+   <style>
+      button.accordion {
+         background-color: #eee;
+         color: #444;
+         cursor: pointer;
+         padding: 18px;
+         width: 100%;
+         text-align: left;
+         border: none;
+         outline: none;
+         transition: .4s
+      }
+
+      button.accordion.active,
+      button.accordion:hover {
+         background-color: #ddd
+      }
+
+      div.panel {
+         padding: 0 18px;
+         background-color: #fff;
+         display: none
+      }
+
+   </style>
    <!-- Hướng dẫn viết bài -->
 </head>
 
-<body> <hr> <div> <section class="grid extended-grid-18"> <div class="container clearfix"> <div class="row row-sm-sm sample-row"> <div class="container"> <h2><a href="{{ site.baseurl }}/"><span>Về trang chủ </span></a>|| Hướng dẫn viết bài (─‿‿─)</h2> <button class="accordion">Thứ tự thao tác 👍</button> <div class="panel"> <ul> <li>Điền đầy đủ thông tin của một bài viết: Tiêu đề, nội dung, ...</li> <li>Đọc về lưu ý chèn ảnh</li> <li>Bấm save bài viết .md, để cùng thư mục ảnh bài viết</li> <li>Nén tất cả vài zip gửi admin</li> </ul> </div> <button class="accordion">Lưu ý phụ 😒</button> <div class="panel"> <p> Đang phát triển 😘 </p> </div> <button class="accordion">Thông cáo chung🤞</button> <div class="panel"> <p> Đang phát triển 👌 </p> </div> </div> <div class="col-xs-12 col-md-8 gutter-sm-sm gutter-margin-xs-sm"> <div class="inner"> <form id="contact-form" class="form-horizontal" role="form"> <div class="form-group"> <div class="col-sm-12"> <h4>Tiêu đề</h4> <input type="text" class="form-control" id="titleId" placeholder="Tiêu đề" name="Tiêu đề mới" value="" required> </div> </div> <div class="form-group"> <div class="col-sm-12"> <h4>Tác giả</h4> <select id="authorId" name="author-name" class="form-control" required> <option value="john">Nhâm Ngọc Tần</option> <option value="sal">Anh Hàng Xóm</option> <option value="minh">Quả táo tàu</option> </select> </div> </div> <div class="form-group"> <div class="col-sm-12"> <h4>Chủ đề</h4> <input type="text" class="form-control" id="categorieIds" placeholder="vd: nhiếp ảnh, lập trình" name="category-name" value="" required> </div> </div> <div class="form-group"> <div class="col-sm-12"> <h4>Thẻ tag</h4> <input type="text" class="form-control" id="tagIds" placeholder="vd: nhiếp ảnh, lập trình" name="tag-name" value="" required> </div> </div> <div class="form-group"> <div class="col-sm-12"> <h4>Ngày xuất bản</h4> <input type="date" class="form-control" id="dateId" name="date-name" required> </div> </div> <div class="form-group"> <div class="col-sm-12"> <h4>Tóm tắt</h4> <input type="text" class="form-control" value="" rows="10" placeholder="Tóm tắt" name="description-name" id="descriptionId" required> </div> </div> <div class="form-group"> <div class="col-sm-12"> <label for="myCheck">Cho phép bình luận:</label> <input type="checkbox" id="myCheck" onclick="myFunction()"> </div> </div> </form> <h4>Nội dung</h4> <input id="editor" class="form-control" value="" rows="10" placeholder="Nội dung" name="ck-name" required> <button onclick="saveDynamicDataToFile();" class="btn btn-primary send-button" id="submit" type="submit" value="SEND"> <div class="alt-send-button"> <i class="fa fa-paper-plane"></i><span class="send-text">Click to Save</span> </div> </button> </div> </div> <div class="col-xs-6 col-md-4 gutter-sm-sm gutter-margin-xs-sm"> <div class="inner"> <h2>Mã code markdown</h2> <hr> <div class="js-copytextarea" id="myText"></div> <button onclick="myFunctionCopy()">Copy text</button> <p>Bấm Copy text để lưu code markdown. Bạn thử dùng Ctrl+V để dán nội dung đã copy vào file md của bạn.</p> <hr> <b>Lưu ý:</b> Hiện tại upload ảnh chưa hoạt động, bạn có thể chèn ảnh theo hình mẫu này vào nội dung<br><script src="https://gist.github.com/NhamNgocTuanAnh/a3f249a8e318f92cd8a13ccd5bd4a3c5.js"></script> <div class="image-wrap"> <div class="borders"> <div class="title"> <h2>Đây là<br>sample😁</h2> </div> </div> </div> Trong đó: <ul> <li>image_src: đường dẫn của ảnh</li> <li>image_alt: Nội dung ảnh</li> <li>image_title: Tiêu đề của ảnh</li> </ul> </div> </div> </div> </div> </section> </div></body>
+<body>
+   <hr>
+   <div>
+      <section class="grid extended-grid-18">
+         <div class="container clearfix">
+            <div class="row row-sm-sm sample-row">
+               <div class="container">
+                  <h2><a href="{{ site.baseurl }}/"><span>Về trang chủ </span></a>|| Hướng dẫn viết bài (─‿‿─)</h2>
 
-<script src="../ckeditor5/build/ckeditor.js"></script>
+               </div>
+               <div class="col-xs-12 col-md-8 gutter-sm-sm gutter-margin-xs-sm">
+                  <div class="inner">
+                     <form id="contact-form" class="form-horizontal" role="form">
+                        <div class="form-group">
+                           <div class="col-sm-12">
+                              <h4>Tiêu đề</h4> <input type="text" class="form-control" id="titleId"
+                                 placeholder="Tiêu đề" name="Tiêu đề mới" value="" required>
+                           </div>
+                        </div>
+                        <div class="form-group">
+                           <div class="col-sm-12">
+                              <h4>Tác giả</h4> <select id="authorId" name="author-name" class="form-control" required>
+                                 <option value="john">Nhâm Ngọc Tần</option>
+                                 <option value="sal">Anh Hàng Xóm</option>
+                                 <option value="minh">Quả táo tàu</option>
+                              </select>
+                           </div>
+                        </div>
+                        <div class="form-group">
+                           <div class="col-sm-12">
+                              <h4>Chủ đề</h4> <input type="text" class="form-control" id="categorieIds"
+                                 placeholder="vd: nhiếp ảnh, lập trình" name="category-name" value="" required>
+                           </div>
+                        </div>
+                        <div class="form-group">
+                           <div class="col-sm-12">
+                              <h4>Thẻ tag</h4> <input type="text" class="form-control" id="tagIds"
+                                 placeholder="vd: nhiếp ảnh, lập trình" name="tag-name" value="" required>
+                           </div>
+                        </div>
+                        <div class="form-group">
+                           <div class="col-sm-12">
+                              <h4>Ngày xuất bản</h4> <input type="date" class="form-control" id="dateId"
+                                 name="date-name" required>
+                           </div>
+                        </div>
+                        <div class="form-group">
+                           <div class="col-sm-12">
+                              <h4>Tóm tắt</h4> <input type="text" class="form-control" value="" rows="10"
+                                 placeholder="Tóm tắt" name="description-name" id="descriptionId" required>
+                           </div>
+                        </div>
+                        <div class="form-group">
+                           <div class="col-sm-12"> <label for="myCheck">Cho phép bình luận:</label> <input
+                                 type="checkbox" id="myCheck" onclick="myFunction()"> </div>
+                        </div>
+                     </form>
+                     <h4>Nội dung</h4> <input id="editor" class="form-control" value="" rows="10"
+                        placeholder="Nội dung" name="ck-name" required> <br><button onclick="saveDynamicDataToFile();"
+                        class="btn btn-primary send-button" id="submit" type="submit" value="SEND">
+                        <div class="alt-send-button"> <i class="fa fa-paper-plane"></i><span class="send-text">Click to
+                              Save</span> </div>
+                     </button>
+                  </div>
+               </div>
+               <div class="col-xs-6 col-md-4 gutter-sm-sm gutter-margin-xs-sm">
+                  <div class="inner">
+                     <h2>Mã code markdown</h2>
+                     <hr>
+                     <div class="js-copytextarea" id="myText"></div> <button onclick="myFunctionCopy()">Copy
+                        text</button>
+                     <p>Bấm Copy text để lưu code markdown. Bạn thử dùng Ctrl+V để dán nội dung đã copy vào file md của
+                        bạn.</p>
+                     <hr>
+                     <button class="accordion">Thứ tự thao tác 👍</button>
+                     <div class="panel">
+                        <ul>
+                           <li>Điền đầy đủ thông tin của một bài viết: Tiêu đề, nội dung, ...</li>
+                           <li>Đọc về lưu ý chèn ảnh</li>
+                           <li>Bấm save bài viết .md, để cùng thư mục ảnh bài viết</li>
+                           <li>Nén tất cả vài zip gửi admin</li>
+                        </ul>
+                     </div> <button class="accordion">Lưu ý phụ 😒</button>
+                     <div class="panel">
+                        <p> Đang phát triển 😘 </p>
+                     </div> <button class="accordion">Thông cáo chung🤞</button>
+                     <div class="panel">
+                        <p> Đang phát triển 👌 </p>
+                     </div>
+                     <button class="accordion">Cách chèn ảnh📷 </button>
+                     <div class="panel"> <b>Lưu ý:</b> Hiện tại upload ảnh chưa hoạt động, bạn có thể chèn
+                        ảnh theo hình mẫu này vào nội dung<br>
+                        <script
+                           src="https://gist.github.com/NhamNgocTuanAnh/a3f249a8e318f92cd8a13ccd5bd4a3c5.js"></script>
+                        <div class="image-wrap">
+                           <div class="borders">
+                              <div class="title">
+                                 <h2>Đây là<br>sample😁</h2>
+                              </div>
+                           </div>
+                        </div> Trong đó: <ul>
+                           <li>image_src: đường dẫn của ảnh</li>
+                           <li>image_alt: Nội dung ảnh</li>
+                           <li>image_title: Tiêu đề của ảnh</li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+   </div>
+</body>
+
+
 <script src="../assets/js/FileSaver.js"></script>
 <script>
-let isComment=!1,titleValue="",authorValue="",categoryValue="",tagValue="",theEditor="",headContent="",dateValue="",descriptionValue="",dataResult="";
+   let isComment = !1, titleValue = "", authorValue = "", categoryValue = "", tagValue = "", theEditor = "", headContent = "", dateValue = "", descriptionValue = "", dataResult = "";
 
    ClassicEditor
       .create(document.querySelector('#editor')).then(editor => {
@@ -118,14 +370,15 @@ let isComment=!1,titleValue="",authorValue="",categoryValue="",tagValue="",theEd
 
    }
 
-   function myFunction(){isComment=!0==document.getElementById("myCheck").checked}function myFunctionCopy(){headContent&&theEditor&&navigator.clipboard.writeText([headContent,theEditor].join(""))}function removeAccents(x){for(var e=["a\xe0ả\xe3\xe1ạăằẳẵắặ\xe2ầẩẫấậ","A\xc0Ả\xc3\xc1ẠĂẰẲẴẮẶ\xc2ẦẨẪẤẬ","dđ","DĐ","e\xe8ẻẽ\xe9ẹ\xeaềểễếệ","E\xc8ẺẼ\xc9Ẹ\xcaỀỂỄẾỆ","i\xecỉĩ\xedị","I\xccỈĨ\xcdỊ","o\xf2ỏ\xf5\xf3ọ\xf4ồổỗốộơờởỡớợ","O\xd2Ỏ\xd5\xd3Ọ\xd4ỒỔỖỐỘƠỜỞỠỚỢ","u\xf9ủũ\xfaụưừửữứự","U\xd9ỦŨ\xdaỤƯỪỬỮỨỰ","yỳỷỹ\xfdỵ","YỲỶỸ\xddỴ"],c=0;c<e.length;c++){var d=RegExp("["+e[c].substr(1)+"]","g"),n=e[c][0];x=x.replace(d,n)}return x}
+   function myFunction() { isComment = !0 == document.getElementById("myCheck").checked } function myFunctionCopy() { headContent && theEditor && navigator.clipboard.writeText([headContent, theEditor].join("")) } function removeAccents(x) { for (var e = ["a\xe0ả\xe3\xe1ạăằẳẵắặ\xe2ầẩẫấậ", "A\xc0Ả\xc3\xc1ẠĂẰẲẴẮẶ\xc2ẦẨẪẤẬ", "dđ", "DĐ", "e\xe8ẻẽ\xe9ẹ\xeaềểễếệ", "E\xc8ẺẼ\xc9Ẹ\xcaỀỂỄẾỆ", "i\xecỉĩ\xedị", "I\xccỈĨ\xcdỊ", "o\xf2ỏ\xf5\xf3ọ\xf4ồổỗốộơờởỡớợ", "O\xd2Ỏ\xd5\xd3Ọ\xd4ỒỔỖỐỘƠỜỞỠỚỢ", "u\xf9ủũ\xfaụưừửữứự", "U\xd9ỦŨ\xdaỤƯỪỬỮỨỰ", "yỳỷỹ\xfdỵ", "YỲỶỸ\xddỴ"], c = 0; c < e.length; c++) { var d = RegExp("[" + e[c].substr(1) + "]", "g"), n = e[c][0]; x = x.replace(d, n) } return x }
 </script>
 
 <!-- Hướng dẫn viết bài -->
 <script>
-var i,acc=document.getElementsByClassName("accordion");for(i=0;i<acc.length;i++)acc[i].onclick=function(){this.classList.toggle("active");var l=this.nextElementSibling;"block"===l.style.display?l.style.display="none":l.style.display="block"};
+   var i, acc = document.getElementsByClassName("accordion"); for (i = 0; i < acc.length; i++)acc[i].onclick = function () { this.classList.toggle("active"); var l = this.nextElementSibling; "block" === l.style.display ? l.style.display = "none" : l.style.display = "block" };
 </script>
 <!-- Hướng dẫn viết bài -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8920573839255504"
-crossorigin="anonymous"></script>
+   crossorigin="anonymous"></script>
+
 </html>
