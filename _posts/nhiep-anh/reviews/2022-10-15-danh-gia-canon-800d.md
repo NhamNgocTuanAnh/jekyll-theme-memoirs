@@ -12,6 +12,10 @@ permalink: nhiep-anh/danh-gia-canon-800d
 excerpt: Đánh giá Tốt. Phù hợp với người chơi nghiệp dư không có nhu cầu về độ sắc nét hoặc chụp tối cao
 adsense: "enabled"
 toc: false
+keywords:
+  - canon 800d
+  - máy ảnh cho người mới
+  - canon 800d đánh giá
 ---
 
 **Đánh giá:** Khá tốt (4/5)<br>

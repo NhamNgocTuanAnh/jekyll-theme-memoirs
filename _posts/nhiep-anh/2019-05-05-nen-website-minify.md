@@ -10,8 +10,12 @@ isGithubComments: false
 permalink: lap-trinh/nen-website-minify
 excerpt: Tăng tốc website, Một số trang web phổ biến nén html,css, js
 description: Tăng tốc website, Một số trang web phổ biến nén html,css, js
-adsense: "false"
+adsense: "enabled"
 toc: false
+keywords:
+  - nén html
+  - nén css
+  - tăng tốc website
 ---
 
 <p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Mục lục</p>

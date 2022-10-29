@@ -12,6 +12,10 @@ isGithubComments: false
 permalink: nhiep-anh/danh-gia-ngam-viltrox-canon-ef-eos-m2-0-71x
 excerpt: Đánh giá Tốt. Phù hợp với người chơi nghiệp dư không có nhu cầu về độ sắc nét hoặc chụp tối cao
 adsense: "enabled"
+keywords:
+  - viltrox Canon EF-EOS M2
+  - viltrox Canon EF-EOS M2 đánh giá
+  - Ngàm Viltrox M2
 ---
 
 **Đánh giá: Tốt**

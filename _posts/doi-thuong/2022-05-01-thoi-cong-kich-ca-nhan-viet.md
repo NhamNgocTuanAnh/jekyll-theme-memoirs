@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Thói quen công kích cá nhân của người Việt'
+title: 'Công kích cá nhân của người Việt'
 author: sal
 categories: [ Ngẫm ]
 tags: [ phản biện ]
@@ -9,6 +9,11 @@ image: assets/images/phan-bien-viet-avt.jpg
 rating: 4.5
 isGithubComments: false
 description: Mày biết gì mà nói?! hay Ăn cơm mèo nói leo các cụ là những câu nói phổ biến ta thường nghe khi muốn góp ý cho một người khác. Đó là những câu hạ nhục đối phương và đó là công kích cá nhân hay ad hominem
+adsense: "enabled"
+keywords:
+  - thói quen công kích
+  - công kích cá nhân
+  - chửi bới trên mạng
 ---
 
 Lập luận công kích cá nhân (tiếng Anh và tiếng La tinh: Argumentum ad hominem ([1](https://vi.wikipedia.org/wiki/L%E1%BA%ADp_lu%E1%BA%ADn_c%C3%B4ng_k%C3%ADch_c%C3%A1_nh%C3%A2n)) là một lập luận, trong đó một vị trí, hay luận điểm của một đối thủ tranh cãi bị bác bỏ bằng cách tấn công các đặc tính hay động cơ, hoàn cảnh cá nhân của người đó thay vì tấn công lý luận của đối thủ.Điều này xảy ra chủ yếu với mục đích để cho đối thủ phải mang tiếng xấu trước công chúng. Nó có thể xảy ra cố ý với tính luận chiến và có thể là chiến lược cãi bướng.

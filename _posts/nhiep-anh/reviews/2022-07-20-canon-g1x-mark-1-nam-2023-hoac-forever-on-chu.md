@@ -10,6 +10,10 @@ rating: 5
 isGithubComments: false
 permalink: nhiep-anh/canon-g1x-mark-1-nam-2023-hoac-forever-on-chu
 excerpt: Đánh giá Tốt. Phù hợp với người chơi nghiệp dư không có nhu cầu về độ sắc nét hoặc chụp tối cao
+keywords:
+  - Canon G1X
+  - Canon G1X cũ
+  - Canon G1X đánh giá
 ---
 
 **Đánh giá: Tốt** <br>

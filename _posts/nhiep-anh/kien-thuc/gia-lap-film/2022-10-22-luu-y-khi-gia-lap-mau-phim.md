@@ -10,8 +10,11 @@ isGithubComments: false
 permalink: nhiep-anh/luu-y-khi-gia-lap-mau-phim
 excerpt: Trái ngược với việc sở hữu một chiếc máy film giá rất tốt, thì quá trình tạo chụp hình, tráng rửa lại là một rào cản lớn về tính bất tiện của nó so với xã hội ngày nay. Trong bài viết này, mình sẽ giới thiệu tới các bạn một vài sử dụng cũng như giới thiệu một số giả lập màu phim cơ bản bằng chính cách cách phân loại film thực dựa theo kích cỡ, chủng loại, và mục đích sử dụng cơ bản.
 description: Trái ngược với việc sở hữu một chiếc máy film giá rất tốt, thì quá trình tạo chụp hình, tráng rửa lại là một rào cản lớn về tính bất tiện của nó so với xã hội ngày nay. Trong bài viết này, mình sẽ giới thiệu tới các bạn một vài sử dụng cũng như giới thiệu một số giả lập màu phim cơ bản bằng chính cách cách phân loại film thực dựa theo kích cỡ, chủng loại, và mục đích sử dụng cơ bản.
-adsense: "false"
+adsense: "enabled"
 toc: false
+keywords:
+  - Preset màu phim
+  - Chọn preset màu
 ---
 #filmphotolifestyle <br>
 Một vài năm trở lại đây, trong giới trẻ một trào lưu «retro» với phong cách chụp ảnh phim. Giá trung bình của một cuộn phim phổ thông dao động trên thị trường từ 180.000 đồng - 220.000 đồng, chưa kể còn phải thêm chi phí tráng phim ở lab.<br>Nên nhiều người đã dùng xu hướng chụp ảnh về rồi thêm giả lập màu phim vào. Trong bài viết này, mình sẽ giới thiệu tới các bạn một vài cách sử dụng cũng như giới thiệu một số giả lập màu phim cơ bản.<br>

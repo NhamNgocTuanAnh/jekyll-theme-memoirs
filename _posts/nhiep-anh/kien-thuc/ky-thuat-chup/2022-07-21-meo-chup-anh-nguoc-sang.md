@@ -12,6 +12,11 @@ permalink: nhiep-anh/chup-nguoc-sang
 excerpt: Cách chụp ngược nắng đẹp
 description: Những bức ảnh để lại một trong trí tưởng tượng của người xem một khung cảnh huyền ảo.
 comments_id: 1
+adsense: "enabled"
+keywords:
+  - Chụp ngược nắng
+  - Cách chụp ngược sáng bằng máy ảnh
+  - Kỹ thuật chụp ảnh ngược nắng
 ---
 
 Thời điểm chụp ảnh ngược nắng đẹp nhất là giờ vàng, lúc bình minh cũng như sẩm tối. Từ 7 đến 11 giờ thường là thời điểm có nắng xiên, nhưng nếu muốn săn ảnh đẹp, khi đường phố còn vắng vẻ, tinh khôi, chắc chắn bạn nên đi sớm. Dậy sớm hơn thường lệ và mang đồ nghề lên đường, dù là máy phim, máy cơ hay máy số thì hình ảnh của ánh nắng xiên được ghi lại qua ống kính đều mang một nét đẹp riêng có. Còn với những bạn cú đêm khó dậy sớm, thì có lẽ khung giờ từ 17 giờ vào mùa hè có lẽ là sự lựa chọn tối ưu nhất. (~‾▽‾)~<br>

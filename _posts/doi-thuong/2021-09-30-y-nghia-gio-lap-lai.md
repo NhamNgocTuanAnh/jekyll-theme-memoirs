@@ -9,6 +9,10 @@ rating: 5
 lazyimages: "enabled"
 isGithubComments: false
 description: Những con số 11:11, 12:12, 01:10 này chứa đựng nhiều ý nghĩa hơn bạn tưởng.
+adsense: "enabled"
+keywords:
+  - ý nghĩa con số trên đồng hồ
+  - ý nghĩa những con số lặp lại
 ---
 
 Những con số 11:11, 12:12, 01:10 này chứa đựng nhiều ý nghĩa hơn bạn tưởng. Và sau đây là ghi chú nhanh giải nghĩa về chúng

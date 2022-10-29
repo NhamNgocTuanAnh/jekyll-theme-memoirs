@@ -11,6 +11,10 @@ permalink: lap-trinh/cai-liferay-tren-windows-p2
 excerpt: Ổ cứng còn trống ít nhất 5Gb, Để chạy tốt RAM tối thiểu nên >= 4Gb,...
 description: Để chạy tốt RAM tối thiểu nên >= 4Gb, Ổ cứng còn trống ít nhất 5Gb,...
 toc: true
+adsense: "enabled"
+keywords:
+  - tài liệu cài đặt liferay
+  - liferay
 ---
 
 <style>

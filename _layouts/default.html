@@ -2,6 +2,9 @@
 <html lang="vi" >
 
 <head><meta http-equiv="content-type" content="text/html; charset=utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><link rel="icon" href="{{ site.baseurl }}/assets/images/logo.webp"><title>{{ page.title }} | {{site.name}}</title>{% seo %} <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet"><link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet"><script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script><script src="{{ site.baseurl }}/assets/js/lazysizes.min.js" async=""></script><meta name="google-site-verification" content="d_QhcFO6jYixKuqHeimC-fB9HoL2oOxFPBBr1Dm-3nE" /><link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style-image.css">
+{% if page.keywords %}
+    <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
+{% endif %}
 </head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}

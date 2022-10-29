@@ -11,6 +11,10 @@ permalink: lap-trinh/cai-liferay-tren-windows-p1
 excerpt: Yêu cầu máy chủ Ram tối thiểu 4GB, JDK > 1.8,...
 description: Yêu cầu máy chủ Ram tối thiểu 4GB, JDK > 1.8,...
 toc: true
+adsense: "enabled"
+keywords:
+  - tài liệu cài đặt liferay
+  - liferay
 ---
 
 <style>

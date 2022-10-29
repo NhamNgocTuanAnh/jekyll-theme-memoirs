@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nên lựa chọn loại film chụp ảnh nào cho người mới?.'
+title: 'Film chụp ảnh nào cho người mới?.'
 author: sal
 lazyimages: "enabled"
 categories: [ Note, Nhiếp ảnh ]
@@ -9,11 +9,15 @@ image: assets/images/nhiepanh/reviews/cuon-phim/mau-phim-Fuji-color-100-chan-dun
 isGithubComments: false
 permalink: nhiep-anh/chon-cuon-phim-dau-tien
 excerpt: color100, Gold100, vista200, colorplus200,...Người mới nên chọn cuộn Film gì?
-description: color100, Gold100, vista200, colorplus200,...Người mới nên chọn cuộn Film gì?
-adsense: "true"
+description: color100, gold100, vista200, colorplus200,...Người mới nên chọn cuộn Film gì?
+adsense: "enabled"
 toc: false
 tags: pinned
 rating: 4.5
+keywords:
+  - Những cuộn film màu đẹp
+  - Cuộn film Fuji
+  - chống ẩm máy ảnh
 ---
 
 #filmphotolifestyle<br>

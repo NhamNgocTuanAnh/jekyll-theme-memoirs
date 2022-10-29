@@ -12,6 +12,10 @@ permalink: nhiep-anh/bo-cuc-trong-nhiep-anh
 excerpt: Bố cục - một điều tối quan trọng trong nhiếp ảnh
 description: Bố cục là một trong những yếu tố quan trọng để tạo nên bức ảnh đẹp, có chiều sâu. Việc áp dụng một số quy tắc trong các tình huống có thể mang đến những bức ảnh đẹp, cân đối và hài hòa, thu hút ánh nhìn của người xem.
 pinned: true
+adsense: "enabled"
+keywords:
+  - bố cục 1/3
+  - bố cục trong nhiếp ảnh
 ---
 
 Quy tắc về bố cục được đặt ra giúp chúng ta định hình chính xác đối tượng, sắp xếp và bố trí các yếu tố khác nhau cho phù hợp.  Nếu là người mới bắt đầu tìm hiểu về nhiếp ảnh, bạn nên nắm rõ những quy tắc cơ bản về bố cục trong nhiếp ảnh để có thể sáng tạo những bức ảnh mang phong cách riêng.

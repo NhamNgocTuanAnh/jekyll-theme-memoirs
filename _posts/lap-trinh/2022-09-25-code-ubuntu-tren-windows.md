@@ -12,6 +12,11 @@ permalink: lap-trinh/code-ubuntu-tren-windows
 excerpt: Tại sao lại dùng WSL, Nó có lợi ích gì tới bát cơm của bạn
 description: Tại sao lại dùng WSL, Nó có lợi ích gì tới bát cơm của bạn
 toc: true
+adsense: "enabled"
+keywords:
+  - code linux window
+  - wsl2 đánh giá
+  - WSL2 la gì
 ---
 
 <p>Việc c&oacute; thể tận dụng sức mạnh của Windows v&agrave; Linux thật sự l&agrave; tuyệt vời, ko g&igrave; b&agrave;n c&atilde;i về việc n&agrave;y cả. Như việc Microsoft hứa sẽ support m&igrave;nh sử dụng GPU tr&ecirc;n WSL thật sự đối với với m&igrave;nh l&agrave; một điều tuyệt vời v&igrave; n&oacute; cho ph&eacute;p m&igrave;nh chạy được Tensorflow với docker v&agrave; windows lu&ocirc;n. Qu&aacute; sướng!</p><p>L&agrave; một fullstack, bạn phải đảm bảo rằng m&igrave;nh được trang bị tận răng, đụng đ&acirc;u chơi đ&oacute; đều được. H&atilde;y tưởng tượng bạn c&oacute; một ng&agrave;y buổi s&aacute;ng th&igrave; code python, build docker ầm ầm, gặp task design th&igrave; mở photoshop l&ecirc;n quất, chiều ch&eacute;m gi&oacute; kh&aacute;ch h&agrave;ng th&igrave; c&oacute; Office, tối về đi code kiếm cơm hay c&agrave;y game th&igrave; cũng ch&iacute;nh l&agrave; một con m&aacute;y đ&oacute;.</p><h3><strong>WSL rất nhanh v&agrave; nhanh hơn m&aacute;y ảo&nbsp;</strong></h3><div style="max-width: 100%">
