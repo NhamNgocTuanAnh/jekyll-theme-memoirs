@@ -11,6 +11,10 @@ isGithubComments: true
 permalink: lap-trinh/emotion-recognition-main-reason
 excerpt: Tổng quan bài toán nhận dạng khuôn mặt
 description: Xây dựng mô hình nhận dạng cảm xúc gương mặt với Python, Keras và TensorFlow
+adsense: "enabled"
+keywords:
+  - Nhận diện cảm xúc khuôn mặt
+  - Công nghệ nhận diện cảm xúc
 ---
 
 <!-- > Chúng ta là những gì mà chúng ta ăn vào.  -->

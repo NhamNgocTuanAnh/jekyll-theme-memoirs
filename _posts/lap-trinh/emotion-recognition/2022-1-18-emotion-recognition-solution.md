@@ -11,6 +11,10 @@ isGithubComments: true
 permalink: lap-trinh/emotion-recognition-solution
 excerpt: Giải quyết bài toán nhận dạng khuôn mặt
 description: Trong phần này chúng ta sẽ tìm cách giải quyết bài toán làm thế nào để tạo ra một ứng dụng
+adsense: "enabled"
+keywords:
+  - Nhận diện cảm xúc khuôn mặt
+  - Công nghệ nhận diện cảm xúc
 ---
 
 <!-- > Chúng ta là những gì mà chúng ta ăn vào.  -->

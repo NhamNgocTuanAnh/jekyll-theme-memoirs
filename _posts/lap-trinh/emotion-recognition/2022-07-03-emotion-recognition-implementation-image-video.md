@@ -11,6 +11,10 @@ isGithubComments: true
 permalink: lap-trinh/emotion-recognition-implementation-image-video
 excerpt: Nhận dạng khuôn mặt với Python và Cython
 description: Trong các phần trước, vấn đề siêu chậm của python đã được tôi nhắc đến. Vậy làm thế nào để giữ được code dễ hiểu python nhưng lại có tốc độ cao gần như C++?
+adsense: "enabled"
+keywords:
+  - Nhận diện cảm xúc khuôn mặt
+  - Công nghệ nhận diện cảm xúc
 ---
 
 Làm thế nào để giữ được code dễ hiểu của python nhưng lại có tốc độ cao gần như C++? Xử lý một khuôn mặt đã khó, rồi phải đưa khuôn mặt ấy vào để xác định cảm xúc. Làm sao với phần cứng chỉ dùng cpu có thể xử lý nhiều khuôn mặt trong cùng một lúc?
