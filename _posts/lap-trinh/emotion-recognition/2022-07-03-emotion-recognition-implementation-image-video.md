@@ -33,6 +33,7 @@ Bạn có nhìn thấy cái gì sai ở đây không?
 ---
 
 <a name="gioithieu"></a>
+
 ### 1. Giới thiệu và cài đặt Cython
 
 Nếu bạn muốn code cú pháp dễ dàng như Python và hiệu suất cao như C thì Cython là lựa chọn của bạn. Bạn có thể sử dụng Cython để viết các extention C cho Python. Code Python của bạn sẽ được dịch sang code C/C++ và được tối ưu hóa. Nó sẽ cung cấp cho bạn hiệu suất cao và bạn có thể sử dụng nó trong các dự án Python của mình.
@@ -48,6 +49,7 @@ Vì đã có rất nhiều bên mô tả và code Cython rồi, bạn có thể 
 * [Hướng dẫn Cython cơ bản cách chuyển code python thành code c/c++](https://codelearn.io/sharing/cython-cach-de-code-python-chay-nhanh)
 
 <a name="lythuyetvecode"></a>
+
 ### 2. Lý thuyết về Hàng đợi - Queue
 
 ![image](/assets/images/emotion-detection/Queue-Illustration.webp){:class="img-responsive"}
@@ -104,6 +106,7 @@ deque([])
 Chúng ta sẽ ứng dụng queue bằng cách sẽ cắt tất cả khuôn mặt trong từng frame hình vào queue để xử lý.
 
 <a name="lythuyetvemultithreading"></a>
+
 ### 3. Lý thuyết về đa luồng - multithreading
 
 ![image](/assets/images/emotion-detection/python-multithreading.webp){:class="img-responsive"}
@@ -114,10 +117,12 @@ Nói về cấu trúc máy tính : Thread là một đơn vị cơ bản trong C
 
 
 <a name="malaptrinhvagiaithich"></a>
+
 ### 4. Mã lập trình và giải thích
 <script src="https://gist.github.com/NhamNgocTuanAnh/09381efa2f2d911ad8f3140f00427e33.js"></script>
 
 <a name="ketluan"></a>
+
 ### 5. Kết luận
 Tạo một ứng dụng không khó, nhưng để đáp ứng được tốc độ xử lý, độ chính xác và mức độ sử dụng resource thì cần phải tối ưu nhiều thứ:
 
@@ -127,5 +132,10 @@ Tạo một ứng dụng không khó, nhưng để đáp ứng được tốc đ
 - Allocate lại tài nguyên như CPU, Memory.
 - Đặc biệt là các ứng dụng trên python thì tối ưu tốc độ xử lý là một challenge bởi python bị ràng buộc bởi cơ chế GIL (Global Interpreter Lock). Tức là nó chỉ cho phép một thread hoạt động truy suất và chỉnh sửa bộ nhớ tại một thời điểm. Do đó python không tận dụng được các tính toán đa luồng. Tuy nhiên ở python 3.2 trở đi thì python đã bắt đầu hỗ trợ đa luồng.
 
-Về mặt thời gian phát triển phần mềm thì Python luôn trong top 5 các ngôn ngữ nhanh nhất. Nhưng vì tránh cho người dùng phải đối mặt với con trỏ hay quản lý bộ nhớ động,... đã làm tốc độ thực thi của python giảm đi đáng kể. Nhưng Cython đã là một vị cứu cánh. Bạn chỉ cần thay đổi 20% đoạn mã code của bạn để nâng 80% hiệu suất tổng thể. Vì có khá ít blog Việt nam nói chuyên sâu về Cython. Nên mình ít để ví dụ hoặc tutorial cho các bạn được. \\
-(〜￣▽￣)〜Trong tương lai mình sẽ viết thêm về Cython. Các bạn chú ý đón xem nhé!! 〜(￣▽￣〜)
+Về mặt **thời gian phát triển** phần mềm thì **Python** luôn trong **top 5 các ngôn ngữ nhanh nhất**.
+
+Nhưng vì tránh cho người dùng phải đối mặt với con trỏ hay quản lý bộ nhớ động,… đã làm tốc độ thực thi của python **giảm đi đáng kể**.
+
+**Cython** đã là một vị cứu cánh. Bạn chỉ cần thay đổi 20% đoạn mã code của bạn để nâng 80% hiệu suất tổng thể. Vì có khá ít blog Việt nam nói chuyên sâu về Cython. Nên mình ít để ví dụ hoặc tutorial cho các bạn được.
+
+> (〜￣▽￣)〜Trong tương lai mình sẽ viết thêm về **Cython**. Các bạn chú ý đón xem nhé!! 〜(￣▽￣〜)

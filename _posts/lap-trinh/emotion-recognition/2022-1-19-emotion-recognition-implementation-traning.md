@@ -36,11 +36,13 @@ restricted BM, DBN, autoencoder,…
 ---
 
 <a name="mohinhmangcnn"></a>
+
 ### 1. Mô hình CNN mạng
 
 <script src="https://gist.github.com/NhamNgocTuanAnh/f77f69224e16a79cb83eda66c741c9ad.js"></script>
 
 <a name="giaithichmohinh"></a>
+
 ### 2. Giải thích mô hình
 Kiến trúc gồm 8 khối chính , trong đó có 7 khối CNN và khối
 cuối là đầu ra softmax.
@@ -64,11 +66,13 @@ chuyển vào một global average pooling (chuyển kết quả 2D thành vecto
 để trả về xác suất của từng loại cảm xúc.
 
 <a name="ketqua"></a>
+
 ### 3. Kết quả
 
 ![image](/assets/images/emotion-detection/thongkehieuqua.png){:class="img-responsive"}
-Kết quả thử nghiệm trên dữ liệu kiểm tra đạt mức độ chính xác khoảng 65% (trung bình 300 lần huấn luyện).
-Trong quá trình huấn luyện độ chính xác thường xuyên cao hơn kết quả kiểm nghiệm trên bộ kiểm tra, nhưng không
-quá sai khác.
 
-(〜￣▽￣)〜 Đây là mô hình cơ bản trong CNN. Để tối ưu chúng ta còn phải áp dụng khi tiền xử lý ảnh, craw dữ liệu, custom loss, cắt tỉa mô hình(Compression model),... 〜(￣▽￣〜)
+Kết quả thử nghiệm trên dữ liệu kiểm tra đạt mức độ chính xác khoảng **65%** (trung bình 300 lần huấn luyện). Trong quá trình huấn luyện độ chính xác thường xuyên cao hơn kết quả kiểm nghiệm trên bộ kiểm tra, nhưng không quá sai khác.
+
+(〜￣▽￣)〜 Đây là **mô hình cơ bản** trong **CNN**.
+
+> Để tối ưu chúng ta còn phải áp dụng khi tiền xử lý ảnh, craw dữ liệu, custom loss, cắt tỉa mô hình(Compression model),… 〜(￣▽￣〜)
