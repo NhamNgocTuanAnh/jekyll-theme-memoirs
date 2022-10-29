@@ -95,7 +95,12 @@ Pháp luật nước Cộng hòa Xã hội Chủ nghĩa Việt Nam hay Pháp lu�
 
 Hiện nay, những hành vi xúc phạm danh dự nhân phẩm người khác còn được truy tố trách nhiệm Hình sự, Dân sự hoặc Hành chính tùy vào mức độ nghiêm trọng của vụ việc. Quyền tự do ngôn luận không đồng nghĩa với việc được quyền xúc phạm danh dự nhân phẩm người khác!
 
-Nhưng chính xác hành vi thế nào mới là **công kích cá nhân**?
+Nhưng chính xác thế nào là **"Tự do ngôn luận"** thế nào là **"Công kích cá nhân"**?
+{% include lazyload.html image_src="../../assets/images/ngam/cat-banh.webp" image_alt="Tự do ngôn luận hay công kích cá nhân" image_title="Tự do ngôn luận hay công kích cá nhân"%}
+Cái bánh này là một ví dụ dễ hiểu về quyền tự do.
+Người này đã lấy đi đủ phần bánh của họ nhưng đồng thời cũng gây ảnh hưởng tiêu cực đến những người còn lại. Họ đã thực hiện quyền tự do của mình theo cách thiếu công bằng với người khác.
+Tự do không phải là thích làm gì cũng được mà chẳng cần biết có gây bất công với ai không. Ngay khi bạn tổn hại đến các cá nhân khác, sự công bằng sẽ biến mất.
+Miếng bánh kì cục này là ví dụ rõ nhất cho việc sử dụng quyền tự do sai cách.
 
 #### Trích nguồn
 * [Các ví dụ về ngụy biện](http://nguyennhutchithao.blogspot.com/).
