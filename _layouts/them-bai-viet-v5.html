@@ -2,7 +2,8 @@
 
 <head>
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
-   <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css'><meta charset="utf-8">
+   <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css'>
+   <meta charset="utf-8">
    <title>Thêm bài viết mới v2.3.7</title>
    <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.webp">
    <script src="../ckeditor5/build/ckeditor.js"></script>
@@ -154,8 +155,8 @@
 <body>
    <hr>
    <div>
-      <section class="grid extended-grid-18">
-         <div class="container clearfix">
+      <section class="grid">
+         <div class="clearfix" style="margin: auto;width: 95%;border: 2px solid green;padding: 10px;">
             <div class="row row-sm-sm sample-row">
                <div class="container">
                   <h2><a href="{{ site.baseurl }}/"><span>Về trang chủ </span></a>|| Hướng dẫn viết bài (─‿‿─)</h2>
@@ -164,7 +165,7 @@
                <div class="col-xs-12 col-md-8 gutter-sm-sm gutter-margin-xs-sm">
                   <div class="inner">
                      <h4>Nội dung</h4> <input id="editor" class="form-control" value="" rows="10"
-                     placeholder="Nội dung" name="ck-name" required>
+                        placeholder="Nội dung" name="ck-name" required>
                      <form id="contact-form" class="form-horizontal" role="form">
                         <div class="form-group">
                            <div class="col-sm-12">
@@ -210,14 +211,14 @@
                                  type="checkbox" id="myCheck" onclick="myFunction()"> </div>
                         </div>
                      </form>
-<br><button onclick="saveDynamicDataToFile();"
-                        class="btn btn-primary send-button" id="submit" type="submit" value="SEND">
+                     <br><button onclick="saveDynamicDataToFile();" class="btn btn-primary send-button" id="submit"
+                        type="submit" value="SEND">
                         <div class="alt-send-button"> <i class="fa fa-paper-plane"></i><span class="send-text">Click to
                               Save</span> </div>
                      </button>
                   </div>
                </div>
-               <div class="col-xs-6 col-md-4 gutter-sm-sm gutter-margin-xs-sm">
+               <div class="col-xs-12 col-md-4 gutter-sm-sm gutter-margin-xs-sm">
                   <div class="inner">
                      <h2>Mã code markdown</h2>
                      <hr>
