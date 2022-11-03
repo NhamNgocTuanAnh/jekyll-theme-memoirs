@@ -7,6 +7,8 @@
    <title>Thêm bài viết mới v2.3.7</title>
    <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.webp">
    <script src="../ckeditor5/build/ckeditor.js"></script>
+   <script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
+   <script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js?skin=sunburst"></script>
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <style>
       * {
@@ -222,8 +224,8 @@
                   <div class="inner">
                      <h2>Mã code markdown</h2>
                      <hr>
-                     <div class="js-copytextarea" id="myText"></div> <button onclick="myFunctionCopy()">Copy
-                        text</button>
+                     <div class="js-copytextarea" id="myText"></div>
+                     <!-- <button onclick="myFunctionCopy()">Copy text</button> -->
                      <p>Bấm Copy text để lưu code markdown. Bạn thử dùng Ctrl+V để dán nội dung đã copy vào file md của
                         bạn.</p>
                      <hr>
@@ -276,17 +278,47 @@
       .create(document.querySelector('#editor')).then(editor => {
          editor.model.document.on('change:data', () => {
             theEditor = editor.getData();
+            const copyButtonLabel = "Copy Code";
             if (headContent) {
-               document.getElementById('myText').innerHTML = ["<pre>", headContent, editor.getData(), "</pre>"].join('');
+               document.getElementById('myText').innerHTML = [`<pre><code class="language-markdown"> `, headContent, editor.getData(), " </code></pre>"].join('');
             } else {
-               document.getElementById('myText').innerHTML = ["<pre>", editor.getData(), "</pre>"].join('');
+               document.getElementById('myText').innerHTML = [`<pre><code class="language-markdown"> `, editor.getData(), " </code></pre>"].join('');
             }
+            // use a class selector if available
+            let blocks = document.querySelectorAll("pre");
+
+            blocks.forEach((block) => {
+               // only add button if browser supports Clipboard API
+               if (navigator.clipboard) {
+                  let button = document.createElement("button");
+
+                  button.innerText = copyButtonLabel;
+                  block.appendChild(button);
+
+                  button.addEventListener("click", async () => {
+                     await copyCode(block, button);
+                  });
+               }
+            });
          });
       })
       .catch(error => {
          console.error(error);
       });
 
+   async function copyCode(block, button) {
+      let code = block.querySelector("code");
+      let text = code.innerText;
+
+      await navigator.clipboard.writeText(text);
+
+      // visual feedback that task is completed
+      button.innerText = "Code Copied";
+
+      setTimeout(() => {
+         button.innerText = copyButtonLabel;
+      }, 700);
+   }
    function checkChangeForm() {
       if (document.getElementById('titleId') && document.getElementById('titleId').value) {
          titleValue = document.getElementById('titleId').value
@@ -339,8 +371,24 @@
          }
          headContent = [headContent, "lazyimages: ", '"', "enabled", '"', "\n", "layout: post\n", "isGithubComments: ", isComment, "\n", "---\n\n"].join('')
          if (headContent) {
-            dataResult = ["<pre>", headContent, theEditor, "</pre>"].join('');
+            dataResult = ["<pre><code> ", headContent, theEditor, " </code></pre>"].join('');
             document.getElementById('myText').innerHTML = dataResult;
+
+            let codeBlock = document.getElementById('myText');
+
+            var button = document.createElement('button');
+            button.className = 'copy-code-button';
+            button.type = 'button';
+            var s = codeBlock.innerText;
+            button.setAttribute('data-clipboard-text', s);
+            button.innerText = 'Copiar';
+            // button.setAttribute('title', 'Copiar para a área de transferência');
+
+            // var pre = codeBlock.parentNode;
+            codeBlock.classList.add('prettyprint');
+            // pre.parentNode.insertBefore(button, pre);
+            codeBlock.appendChild(button);
+
          }
       } else {
          console.log("no change event for me");
@@ -381,5 +429,73 @@
 <!-- Hướng dẫn viết bài -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8920573839255504"
    crossorigin="anonymous"></script>
+
+<script>
+   const copyButtonLabel = "Copy Code";
+
+   // use a class selector if available
+   let blocks = document.querySelectorAll("pre");
+
+   blocks.forEach((block) => {
+      // only add button if browser supports Clipboard API
+      if (navigator.clipboard) {
+         let button = document.createElement("button");
+
+         button.innerText = copyButtonLabel;
+         block.appendChild(button);
+
+         button.addEventListener("click", async () => {
+            await copyCode(block, button);
+         });
+      }
+   });
+
+   async function copyCode(block, button) {
+      let code = block.querySelector("code");
+      let text = code.innerText;
+
+      await navigator.clipboard.writeText(text);
+
+      // visual feedback that task is completed
+      button.innerText = "Code Copied";
+
+      setTimeout(() => {
+         button.innerText = copyButtonLabel;
+      }, 700);
+   }
+
+</script>
+
+<style>
+   pre[class*="language-"] {
+      position: relative;
+      overflow: auto;
+
+      /* make space  */
+      margin: 5px 0;
+      padding: 1.75rem 0 1.75rem 1rem;
+      border-radius: 10px;
+   }
+
+   pre[class*="language-"] button {
+      position: absolute;
+      top: 5px;
+      right: 5px;
+
+      font-size: 0.9rem;
+      padding: 0.15rem;
+      background-color: #828282;
+
+      border: ridge 1px #7b7b7c;
+      border-radius: 5px;
+      text-shadow: #c4c4c4 0 0 2px;
+   }
+
+   pre[class*="language-"] button:hover {
+      cursor: pointer;
+      background-color: #bcbabb;
+   }
+
+</style>
 
 </html>
