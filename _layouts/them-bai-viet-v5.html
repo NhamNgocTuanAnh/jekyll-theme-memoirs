@@ -279,6 +279,10 @@
          codeBlock: {
             languages: [
                // Do not render the CSS class for the plain text code blocks.
+               { language: 'html', label: 'html', class: 'html' },
+               // Do not render the CSS class for the plain text code blocks.
+               { language: 'css', label: 'css', class: 'css-code' },
+               // Do not render the CSS class for the plain text code blocks.
                { language: 'plaintext', label: 'Plain text', class: '' },
 
                // Use the "php-code" class for PHP code blocks.
@@ -297,9 +301,9 @@
             theEditor = editor.getData();
             const copyButtonLabel = "Copy Code";
             if (headContent) {
-               document.getElementById('myText').innerHTML = [`<pre><code class="language-markdown"> `, headContent, editor.getData(), " </code></pre>"].join('');
+               document.getElementById('myText').innerHTML = [`<pre class="demo"><code class="language-markdown"> `, headContent, editor.getData(), " </code></pre>"].join('');
             } else {
-               document.getElementById('myText').innerHTML = [`<pre><code class="language-markdown"> `, editor.getData(), " </code></pre>"].join('');
+               document.getElementById('myText').innerHTML = [`<pre class="demo"><code class="language-markdown"> `, editor.getData(), " </code></pre>"].join('');
             }
             createMutilButtonDownLoad();
          });
@@ -310,7 +314,7 @@
 
    function createMutilButtonDownLoad() {
       // use a class selector if available
-      let blocks = document.querySelectorAll("pre");
+      let blocks = document.querySelectorAll(".demo");
 
       blocks.forEach((block) => {
          // only add button if browser supports Clipboard API
@@ -390,7 +394,7 @@
          }
          headContent = [headContent, "lazyimages: ", '"', "enabled", '"', "\n", "layout: post\n", "isGithubComments: ", isComment, "\n", "---\n\n"].join('')
          if (headContent) {
-            dataResult = ["<pre><code> ", headContent, theEditor, " </code></pre>"].join('');
+            dataResult = [`<pre class="demo"><code> `, headContent, theEditor, " </code></pre>"].join('');
             document.getElementById('myText').innerHTML = dataResult;
             createMutilButtonDownLoad();
          }
