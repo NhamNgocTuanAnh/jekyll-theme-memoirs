@@ -4,12 +4,12 @@
  */
 import ClassicEditor from '@ckeditor/ckeditor5-editor-classic/src/classiceditor.js';
 import Autoformat from '@ckeditor/ckeditor5-autoformat/src/autoformat.js';
-import AutoImage from '@ckeditor/ckeditor5-image/src/autoimage.js';
 import BlockQuote from '@ckeditor/ckeditor5-block-quote/src/blockquote.js';
 import Bold from '@ckeditor/ckeditor5-basic-styles/src/bold.js';
-import CKFinder from '@ckeditor/ckeditor5-ckfinder/src/ckfinder.js';
-import CKFinderUploadAdapter from '@ckeditor/ckeditor5-adapter-ckfinder/src/uploadadapter.js';
+import CKBox from '@ckeditor/ckeditor5-ckbox/src/ckbox.js';
 import CloudServices from '@ckeditor/ckeditor5-cloud-services/src/cloudservices.js';
+import Code from '@ckeditor/ckeditor5-basic-styles/src/code.js';
+import CodeBlock from '@ckeditor/ckeditor5-code-block/src/codeblock.js';
 import Essentials from '@ckeditor/ckeditor5-essentials/src/essentials.js';
 import Heading from '@ckeditor/ckeditor5-heading/src/heading.js';
 import Image from '@ckeditor/ckeditor5-image/src/image.js';
@@ -26,7 +26,12 @@ import MathType from '@wiris/mathtype-ckeditor5';
 import MediaEmbed from '@ckeditor/ckeditor5-media-embed/src/mediaembed.js';
 import Paragraph from '@ckeditor/ckeditor5-paragraph/src/paragraph.js';
 import PasteFromOffice from '@ckeditor/ckeditor5-paste-from-office/src/pastefromoffice.js';
+import PictureEditing from '@ckeditor/ckeditor5-image/src/pictureediting.js';
 import Table from '@ckeditor/ckeditor5-table/src/table.js';
+import TableCaption from '@ckeditor/ckeditor5-table/src/tablecaption.js';
+import TableCellProperties from '@ckeditor/ckeditor5-table/src/tablecellproperties';
+import TableColumnResize from '@ckeditor/ckeditor5-table/src/tablecolumnresize.js';
+import TableProperties from '@ckeditor/ckeditor5-table/src/tableproperties';
 import TableToolbar from '@ckeditor/ckeditor5-table/src/tabletoolbar.js';
 import TextTransformation from '@ckeditor/ckeditor5-typing/src/texttransformation.js';
 
@@ -35,12 +40,12 @@ class Editor extends ClassicEditor {}
 // Plugins to include in the build.
 Editor.builtinPlugins = [
 	Autoformat,
-	AutoImage,
 	BlockQuote,
 	Bold,
-	CKFinder,
-	CKFinderUploadAdapter,
+	CKBox,
 	CloudServices,
+	Code,
+	CodeBlock,
 	Essentials,
 	Heading,
 	Image,
@@ -57,7 +62,12 @@ Editor.builtinPlugins = [
 	MediaEmbed,
 	Paragraph,
 	PasteFromOffice,
+	PictureEditing,
 	Table,
+	TableCaption,
+	TableCellProperties,
+	TableColumnResize,
+	TableProperties,
 	TableToolbar,
 	TextTransformation
 ];
@@ -79,7 +89,11 @@ Editor.defaultConfig = {
 			'|',
 			'imageUpload',
 			'blockQuote',
+			'code',
+			'codeBlock',
 			'insertTable',
+			'MathType',
+			'ChemType',
 			'mediaEmbed',
 			'undo',
 			'redo'
@@ -89,6 +103,7 @@ Editor.defaultConfig = {
 	image: {
 		toolbar: [
 			'imageTextAlternative',
+			'toggleImageCaption',
 			'imageStyle:inline',
 			'imageStyle:block',
 			'imageStyle:side'
@@ -98,7 +113,9 @@ Editor.defaultConfig = {
 		contentToolbar: [
 			'tableColumn',
 			'tableRow',
-			'mergeTableCells'
+			'mergeTableCells',
+			'tableCellProperties',
+			'tableProperties'
 		]
 	}
 };
