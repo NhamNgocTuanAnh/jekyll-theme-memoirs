@@ -11,6 +11,7 @@ toc: false
 permalink: nhung-loi-ngap-ngung-chua-noi
 adsense: "false"
 toc: false
+pinned: true
 ---
 
 Băng qua một căn phòng chật ních người. Một tia điện, hai con người lạ lẫm nhìn thấy nhau. Một sự cuốn hút ngay lập tức, trong khoảng khắc đó, đơn giản biết tôi biết được em thuộc về tôi.
