@@ -16,7 +16,17 @@ keywords:
   - Tại sao chúng ta lại ngủ
   - dậy sớm để làm gì
 ---
+Vừa mới thoát khỏi ghế lớp 12, bị bắt ngủ sớm. Mình bắt đầu lên đại học. Mình đã từng thức tới 1-2h sáng. Thức để làm gì ư, để chơi game, để nghịch ngợm vì đêm rất yên tĩnh, chỉ một mình mình với chiếc máy tính. Không ai làm phiền, không áp lực sáng mai phải mua gì, ăn gì, đi làm lúc mấy giờ. 😎. Cuộc sống về đêm dường như rất cuốn hút, nhiều bạn sv còn đi chơi xuyên đêm cơ, ôi nhớ 🥲
 
+Nhưng hồi đó mình hay bị bóng đè 🥲 các bạn ạ, cứ thức quá 12h đêm là bắt đầu. Mình không biết tại sao. Đến năm 3 - 4, Mình còn tăng cân, vài cân thôi (60->80kg). Mình sẽ viết một bài viết về hành trình giảm cân của mình sau.
+
+{% include lazyload.html image_src="../../assets/images/2022/doi-thuong/giac_ngu_cua_meo_0.webp" image_alt="ngủ sớm quan trọng" image_title="Ngủ sớm đi chứ" %}
+
+Nay mình hay dậy lúc 4h30 sáng. Rồi sau đó đợi 5h chạy bộ, rồi về mua đồ nấu ăn và lên công ty. Mình thấy buổi sáng như vậy rất có thời gian thong thả nấu ăn, nghe nhạc các thứ. Vì thể trạng lúc sáng sẽ rất nhiều năng lượng, hơn là buổi tối khi mà mệt chỉ muốn ngủ luôn thôi 😶‍🌫️.
+
+> ## Tại sao ư?
+
+```
 Trước đây tại buổi đón tân sinh viên của đại học Bắc Kinh, giáo sư Bạch đã đưa ra đề nghị làm dậy sóng mạng xã hội. Ông đã đưa ra cho các sinh viên của mình 3 đề nghị:
 
 - Ngủ sớm
@@ -26,7 +36,6 @@ Trước đây tại buổi đón tân sinh viên của đại học Bắc Kinh,
 Một nghiên cứu đăng trên tạp chí Journal of Psychiatric Research mới đây phát hiện những người ngủ sớm và dậy trước 6 giờ sáng hoặc sớm hơn có nguy cơ bị trầm cảm thấp hơn đến 25% so với những người thức khuya, theo Daily Mail. Không những vậy, việc ngủ sớm còn được chứng minh là những người có tính cách phối hợp đồng đội cao hơn.
 
 Ngủ sớm dậy sớm, có lợi nhất cho cơ thể của bạn, nguy hại của thức khuya không nhắc tới nữa vì nó có quá nhiều, chỉ muốn bảo mọi người cân nhắc, cuộc sống của chúng ta thường đi làm rất bận rộn, nhìn các ông bà tập thể dục, ai cũng có tinh thần hăng hái.
+```
 
-{% include lazyload.html image_src="../../assets/images/2022/doi-thuong/giac_ngu_cua_meo_0.webp" image_alt="ngủ sớm quan trọng" image_title="Ngủ sớm đi chứ" %}
-
-Với mình, người đã đi làm vài năm. Mình cũng từng thức tới 1-2h sáng - hồi đó mình còn hay bị bóng đè 🥲. Nay mình hay dậy lúc 4h30 sáng. Rồi sau đó đợi 5h chạy bộ, rồi về mua đồ nấu ăn và lên công ty. Mình thấy buổi sáng như vậy rất có thời gian thong thả nấu ăn, nghe nhạc các thứ. Vì thể trạng lúc sáng sẽ rất nhiều năng lượng, hơn là buổi tối khi mà mệt chỉ muốn ngủ luôn thôi 😶‍🌫️.
+Những thứ này bạn sẽ tìm được rất nhiều trên mạng. Và nó là sự thật các bạn ạ!!!(Chí ít là với mình) . Nhưng việc bạn làm được lại là việc khác😎. Bạn không làm được thì kệ bạn😁.
