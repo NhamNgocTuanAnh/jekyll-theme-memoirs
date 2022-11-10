@@ -45,20 +45,18 @@ Những thứ này bạn sẽ tìm được rất nhiều trên mạng. Và nó 
 > ## Nhưng có thực sự thế không???
 
 Thế còn nhiều bạn sinh viên làm thêm về muộn. Những người hàng xóm cứ đợi bạn về là hát cho bạn nghe đến 22h đêm thì sao😒.
-
-<iframe width="480" height="360" src="https://www.youtube.com/embed/cMnWYSfIwAA" title="SỰ THẬT VỀ PHONG TRÀO DẬY SỚM ĐỂ THÀNH CÔNG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div class="video-container">
+<iframe class="video" width="480" height="360" src="https://www.youtube.com/embed/cMnWYSfIwAA" title="SỰ THẬT VỀ PHONG TRÀO DẬY SỚM ĐỂ THÀNH CÔNG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 Dậy sớm để thành công. Cú lừa.
 
-<iframe width="480" height="360" src="https://www.youtube.com/embed/uKjF-cykMZ4" title="Đừng nghĩ cứ DẬY SỚM là sẽ THÀNH CÔNG! | Huỳnh Duy Khương" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div class="video-container">
+<iframe class="video" src="https://www.youtube.com/embed/uKjF-cykMZ4" title="Đừng nghĩ cứ DẬY SỚM là sẽ THÀNH CÔNG! | Huỳnh Duy Khương" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 Nói ít hiểu nhiều. Anh em thức khuya thường là những người sáng tạo. Mình là coder, nhiều hôm trằn trọc code vẫn thức như thường. Mình ăn uống điều độ, hạn chế( Hạn chế thôi nhé) việc thức sau 11h. Mình còn đi chơi tưng bừng nữa chứ. Nếu dậy sớm không để làm gì hoặc i ngủ sớm trong khi còn cả núi việc thì không nên. Nên bạn hãy biết cân bằng nhé.
 
 {% include lazyload.html image_src="../../assets/images/2022/doi-thuong/giac_ngu_cua_meo_0.webp" image_alt="ngủ sớm quan trọng" image_title="Mình đăng bài muộn nên ba bích đánh trước, chúc ngủ ngon :3" %}
 
 <style>
-  iframe {
-    margin:auto;
-    display:block;
-}
+iframe{margin:auto;display:block}.video-container{position:relative;padding-bottom:56.25%}.video-container iframe{position:absolute;top:0;left:0;width:100%;height:100%}.video{aspect-ratio:16/9;width:100%}
 </style>
