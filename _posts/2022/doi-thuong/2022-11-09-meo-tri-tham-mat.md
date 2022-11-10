@@ -26,17 +26,17 @@ Nay mình hay dậy lúc 4h30 sáng. Rồi sau đó đợi 5h chạy bộ, rồi
 
 > ## Tại sao ư?
 
-```
-Trước đây tại buổi đón tân sinh viên của đại học Bắc Kinh, giáo sư Bạch đã đưa ra đề nghị làm dậy sóng mạng xã hội. Ông đã đưa ra cho các sinh viên của mình 3 đề nghị:
-
-- Ngủ sớm
-- Hạn chế bạn bè trên mạng xã hội khoảng 10 người
-- Từ chối việc giải thích mục đích.
-
-Một nghiên cứu đăng trên tạp chí Journal of Psychiatric Research mới đây phát hiện những người ngủ sớm và dậy trước 6 giờ sáng hoặc sớm hơn có nguy cơ bị trầm cảm thấp hơn đến 25% so với những người thức khuya, theo Daily Mail. Không những vậy, việc ngủ sớm còn được chứng minh là những người có tính cách phối hợp đồng đội cao hơn.
-
-Ngủ sớm dậy sớm, có lợi nhất cho cơ thể của bạn, nguy hại của thức khuya không nhắc tới nữa vì nó có quá nhiều, chỉ muốn bảo mọi người cân nhắc, cuộc sống của chúng ta thường đi làm rất bận rộn, nhìn các ông bà tập thể dục, ai cũng có tinh thần hăng hái.
-```
+ > Trước đây tại buổi đón tân sinh viên của đại học Bắc Kinh, giáo sư Bạch đã đưa ra đề nghị làm dậy sóng mạng xã hội. Ông đã đưa ra cho các sinh viên của mình 3 đề nghị:
+>
+> \- Ngủ sớm
+>
+> \- Hạn chế bạn bè trên mạng xã hội khoảng 10 người
+>
+> \- Từ chối việc giải thích mục đích.
+>
+> Một nghiên cứu đăng trên tạp chí Journal of Psychiatric Research mới đây phát hiện những người ngủ sớm và dậy trước 6 giờ sáng hoặc sớm hơn có nguy cơ bị trầm cảm thấp hơn đến 25% so với những người thức khuya, theo Daily Mail. Không những vậy, việc ngủ sớm còn được chứng minh là những người có tính cách phối hợp đồng đội cao hơn.
+>
+> Ngủ sớm dậy sớm, có lợi nhất cho cơ thể của bạn, nguy hại của thức khuya không nhắc tới nữa vì nó có quá nhiều, chỉ muốn bảo mọi người cân nhắc, cuộc sống của chúng ta thường đi làm rất bận rộn, nhìn các ông bà tập thể dục, ai cũng có tinh thần hăng hái.
 
 Những thứ này bạn sẽ tìm được rất nhiều trên mạng. Và nó là sự thật các bạn ạ!!!(Chí ít là với mình) . Nhưng việc bạn làm được lại là việc khác😎. Bạn không làm được thì kệ bạn😁.
 
