@@ -18,7 +18,7 @@ keywords:
 ---
 Vừa mới thoát khỏi ghế lớp 12, bị bắt ngủ sớm. Mình bắt đầu lên đại học. Mình đã từng thức tới 1-2h sáng. Thức để làm gì ư, để chơi game, để nghịch ngợm vì đêm rất yên tĩnh, chỉ một mình mình với chiếc máy tính. Không ai làm phiền, không áp lực sáng mai phải mua gì, ăn gì, đi làm lúc mấy giờ. 😎. Cuộc sống về đêm dường như rất cuốn hút, nhiều bạn sv còn đi chơi xuyên đêm cơ, ôi nhớ 🥲
 
-Nhưng hồi đó mình hay bị bóng đè 🥲 các bạn ạ, cứ thức quá 12h đêm là bắt đầu. Mình không biết tại sao. Đến năm 3 - 4, Mình còn tăng cân, vài cân thôi (60->`80kg`). Mình sẽ viết một bài viết về hành trình giảm cân của mình sau.
+Nhưng hồi đó mình hay bị bóng đè 🥲 các bạn ạ, cứ thức quá 12h đêm là bắt đầu. Mình không biết tại sao. Đến năm 3 - 4, Mình còn tăng cân, vài cân thôi (60->**80kg**). Mình sẽ viết một bài viết về hành trình giảm cân của mình sau.
 
 {% include lazyload.html image_src="../../assets/images/2022/doi-thuong/giac_ngu_cua_meo_0.webp" image_alt="ngủ sớm quan trọng" image_title="Ngủ sớm đi chứ" %}
 
