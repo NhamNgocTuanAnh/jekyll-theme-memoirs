@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '8 kinh nghiệm chụp hình cho phụ nữ (bằng điện thoại) - [Cẩm nang nhiếp ảnh]'
+title: '10 kinh nghiệm xương máu khi chụp hình cho phụ nữ (bằng điện thoại) - [Cẩm nang nhiếp ảnh]'
 author: sal
 lazyimages: "enabled"
 categories: [Nhiếp ảnh]
@@ -18,9 +18,6 @@ keywords:
   - Chụp hình dùm là công việc cần tịnh tâm, sẽ có nhiều người vừa coi hình là chê liền xấu quá chụp lại đi
 ---
 
-<p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Mục lục</p>
-* TOC
-{:toc}
 
 ### Luôn xoay camera xuống dưới, như vậy cảm giác đối tượng cao hơn
 
@@ -37,3 +34,10 @@ keywords:
 ### Luôn xem lại hình đã chụp trước khi trả máy cho họ, nếu nó chưa ổn, hãy tự giác xin chụp lại, phụ nữ luôn thoải mái với việc đó, bạn có thể xin năm bảy lần cũng không sao đâu
 
 ### Nếu phụ nữ nói tấm hình chưa đẹp, luôn nhận là lỗi của bạn, không phải của mặt trời, của bóng đèn hay của ai cả...
+
+<p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Tổng kết</p>
+* TOC
+{:toc}
+
+Các bạn lưu ý, ngoài góc chụp ra, thì còn cần **bố cục** chụp nhé. **Bố cục** được đặt ra giúp chúng ta định hình chính xác đối tượng, sắp xếp và bố trí các yếu tố khác nhau cho phù hợp.
+{% include redirect-countdown.html local="true" redirect_src="/nhiep-anh/bo-cuc-trong-nhiep-anh" redirect_title="Bạn có thể tham khảo thêm ở đây!" %}
