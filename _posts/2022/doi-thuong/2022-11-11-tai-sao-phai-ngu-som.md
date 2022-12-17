@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nào, ngủ rồi đấy à?'
+title: 'Ngủ sớm dậy sớm = Thành công? Ngủ sớm dậy sớm có thật sự thành công như người ta nói?'
 author: sal
 lazyimages: "enabled"
 categories: [Đời thường]
