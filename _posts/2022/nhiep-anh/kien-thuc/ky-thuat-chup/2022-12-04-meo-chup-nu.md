@@ -20,7 +20,8 @@ keywords:
 
 
 ### Luôn xoay camera xuống dưới, như vậy cảm giác đối tượng cao hơn
-
+{% include lazyload.html image_src="../../assets/images/2022/nhiepanh/meo-chup-hinh-chup-cao.webp" image_alt="Pan F 50" image_title="cảm giác đối tượng cao hơn" %}
+📝Luôn xoay camera xuống dưới, như vậy cảm giác đối tượng cao hơn
 ### Hạ thấp máy dưới trọng tâm, nhưng không quá thấp để thấy phần da dưới cằm
 
 ### Nếu có 3 người nữ nhờ bạn chụp hình
@@ -32,7 +33,7 @@ keywords:
 ### Nếu người phụ nữ mặc áo hở vai
 {% include lazyload.html image_src="../../assets/images/2022/nhiepanh/ao-tre-vai.webp" image_alt="Pan F 50" image_title="hãy chắc rằng phần vai ấy phải thật gầy, nếu nó không gầy thì là lỗi của bạn" %}
 📝hãy chắc rằng phần vai ấy phải thật gầy, nếu nó không gầy thì là lỗi của bạn
-### Thay vì nhắc họ cười, hãy nhắc họ hóp bụng
+### Thay vì nhắc họ cười
 {% include lazyload.html image_src="../../assets/images/2022/nhiepanh/hop-bung.webp" image_alt="Pan F 50" image_title="@Emily Skye" %}
 📝Thay vì nhắc họ cười, hãy nhắc họ hóp bụng
 
@@ -51,6 +52,7 @@ Ngoài ra, để tăng cường khả năng tiêu hao mỡ thừa trong cơ th�
 Hãy nỗ lực không ngừng trong việc thay đổi chế độ ăn, xây dựng thói quen tập luyện để nhanh chóng lấy lại phong độ vóc dáng.
 
 ### Xem lại hình đã chụp trước khi trả máy
+{% include lazyload.html image_src="../../assets/images/2022/nhiepanh/meo-chup-nu.webp" image_alt="Pan F 50" image_title="nếu nó chưa ổn, hãy tự giác xin chụp lại" %}
 
 📝Luôn xem lại hình đã chụp trước khi trả máy cho họ, nếu nó chưa ổn, hãy tự giác xin chụp lại, phụ nữ luôn thoải mái với việc đó, bạn có thể xin năm bảy lần cũng không sao đâu
 
@@ -61,4 +63,4 @@ Hãy nỗ lực không ngừng trong việc thay đổi chế độ ăn, xây d�
 {:toc}
 
 Các bạn lưu ý, ngoài góc chụp ra, thì còn cần **bố cục** chụp nhé. **Bố cục** được đặt ra giúp chúng ta định hình chính xác đối tượng, sắp xếp và bố trí các yếu tố khác nhau cho phù hợp.
-{% include redirect-countdown.html local="true" redirect_src="/nhiep-anh/bo-cuc-trong-nhiep-anh" redirect_title="Bạn có thể tham khảo thêm ở đây!" %}
+{% include redirect-countdown.html local="true" redirect_src="/nhiep-anh/bo-cuc-trong-nhiep-anh" redirect_title="Bạn có thể tham khảo thêm ở " %}
