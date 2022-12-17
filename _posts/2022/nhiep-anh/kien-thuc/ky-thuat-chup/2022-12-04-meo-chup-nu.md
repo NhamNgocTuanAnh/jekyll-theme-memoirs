@@ -20,10 +20,11 @@ keywords:
 
 
 ### Luôn xoay camera xuống dưới, như vậy cảm giác đối tượng cao hơn
-{% include lazyload.html image_src="../../assets/images/2022/nhiepanh/meo-chup-hinh-chup-cao.webp" image_alt="Pan F 50" image_title="cảm giác đối tượng cao hơn" %}
+{% include lazyload.html image_src="../../assets/images/2022/nhiepanh/meo-chup-hinh-chup-cao.webp" image_alt="Pan F 50" image_title="Người chụp sẽ đứng cách xa 2m, ngồi xuống, hướng điện thoại góc 30 độ.,cảm giác đối tượng cao hơn" %}
 📝Luôn xoay camera xuống dưới, như vậy cảm giác đối tượng cao hơn
-### Hạ thấp máy dưới trọng tâm, nhưng không quá thấp để thấy phần da dưới cằm
-
+### Hạ thấp máy dưới trọng tâm
+{% include lazyload.html image_src="../../assets/images/2022/nhiepanh/meo-chup-nu-ha-thap-goc-may.webp" image_alt="Pan F 50" image_title="Người chụp sẽ đứng cách xa 2m, ngồi xuống, hướng điện thoại góc 30 độ.,cảm giác đối tượng cao hơn" %}
+📝 Hạ thấp máy dưới trọng tâm, nhưng không quá thấp để thấy phần da dưới cằm
 ### Nếu có 3 người nữ nhờ bạn chụp hình
 
 {% include lazyload.html image_src="../../assets/images/2022/nhiepanh/chup-nhom-nu-3.webp" image_alt="Pan F 50" image_title="bạn hãy quan sát xem đt đó của ai, và canh cho người đó đẹp nhứt" %}
