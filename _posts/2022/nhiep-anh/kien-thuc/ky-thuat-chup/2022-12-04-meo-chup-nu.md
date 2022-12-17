@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '10 kinh nghiệm xương máu khi chụp hình cho phụ nữ (bằng điện thoại) - [Cẩm nang nhiếp ảnh]'
+title: '10 kinh nghiệm xương máu khi chụp hình cho phụ nữ - [Cẩm nang nhiếp ảnh]'
 author: sal
 lazyimages: "enabled"
 categories: [Nhiếp ảnh]
