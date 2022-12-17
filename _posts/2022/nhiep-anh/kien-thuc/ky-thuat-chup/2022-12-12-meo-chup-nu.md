@@ -8,7 +8,7 @@ tags: [tips chụp ảnh]
 image: assets/images/nhiepanh/dam-me-nhiep-anh-avt.webp
 rating: 5
 isGithubComments: false
-permalink: nhiep-anh/chup-anh-nu-dep
+permalink: nhiep-anh/10-kinh-niem-xuong-mau-khi-chup-anh-nu
 excerpt: Điều góp phần có tình yêu hạnh phúc là biết chụp ảnh cho phụ nữ
 description: Điều góp phần có tình yêu hạnh phúc là biết chụp ảnh cho phụ nữ
 comments_id: 12
