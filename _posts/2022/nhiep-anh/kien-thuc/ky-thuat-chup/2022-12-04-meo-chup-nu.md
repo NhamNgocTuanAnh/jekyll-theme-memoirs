@@ -14,21 +14,26 @@ description: Điều góp phần có tình yêu hạnh phúc là biết chụp �
 comments_id: 1
 adsense: "enabled"
 keywords:
-  - tay nghề kém cứ đổ lỗi cho mẫu xấu là sao?
+  - Tay nghề kém cứ đổ lỗi cho mẫu xấu là sao?
   - Chụp hình dùm là công việc cần tịnh tâm, sẽ có nhiều người vừa coi hình là chê liền xấu quá chụp lại đi
 ---
+Điều góp phần có tình yêu hạnh phúc là biết chụp ảnh cho phụ nữ. Tay nghề kém cứ đổ lỗi cho mẫu xấu là sao?🤣
 
-
-### Luôn xoay camera xuống dưới, như vậy cảm giác đối tượng cao hơn
-{% include lazyload.html image_src="../../assets/images/2022/nhiepanh/meo-chup-hinh-chup-cao.webp" image_alt="Pan F 50" image_title="Người chụp sẽ đứng cách xa 2m, ngồi xuống, hướng điện thoại góc 30 độ.,cảm giác đối tượng cao hơn" %}
-📝Luôn xoay camera xuống dưới, như vậy cảm giác đối tượng cao hơn
+### Luôn xoay camera xuống dưới
+{% include lazyload.html image_src="../../assets/images/2022/nhiepanh/meo-chup-hinh-chup-cao.webp" image_alt="Để máy ảnh chếch lên cao" image_title="Người chụp sẽ đứng cách xa 2m, ngồi xuống, hướng điện thoại góc 30 độ.,cảm giác đối tượng cao hơn" %}
+📝Luôn xoay camera xuống dưới, như vậy cảm giác đối tượng cao hơn.
 ### Hạ thấp máy dưới trọng tâm
 {% include lazyload.html image_src="../../assets/images/2022/nhiepanh/meo-chup-nu-ha-thap-goc-may.webp" image_alt="Pan F 50" image_title="Người chụp sẽ đứng cách xa 2m, ngồi xuống, hướng điện thoại góc 30 độ.,cảm giác đối tượng cao hơn" %}
 📝 Hạ thấp máy dưới trọng tâm, nhưng không quá thấp để thấy phần da dưới cằm
+### Chụp đẹp khi chụp cả người cả chân
+
+{% include lazyload.html image_src="../../assets/images/2022/nhiepanh/meo-chup-hinh-chup-ngang.webp" image_alt="Pan F 50" image_title="Điện thoại và mũi song song." %}
+
 ### Nếu có 3 người nữ nhờ bạn chụp hình
 
 {% include lazyload.html image_src="../../assets/images/2022/nhiepanh/chup-nhom-nu-3.webp" image_alt="Pan F 50" image_title="bạn hãy quan sát xem đt đó của ai, và canh cho người đó đẹp nhứt" %}
 📝Bạn hãy quan sát xem đt đó của ai, và canh cho người đó đẹp nhứt, như vậy tránh việc bạn phải chụp lại 888 tấm (hoặc bị chê là hem biết chụp)
+
 ### Nếu người phụ nữ (chủ máy đt) ngồi đầu bàn ăn
 {% include lazyload.html image_src="../../assets/images/2022/nhiepanh/chup-don-ban.webp" image_alt="Pan F 50" image_title="hãy chụp từ đầu bên kia nhưng vẫn lấy nét vào cô ấy" %}
 ### Nếu người phụ nữ mặc áo hở vai
@@ -42,7 +47,7 @@ keywords:
 
 Thay vì phải thực hiện bất cứ chế độ ăn uống hay tập luyện **quá khắc nghiệt**. Bạn chỉ áp dụng phương pháp cải thiện vóc dáng **an toàn**, **chậm mà chắc**, bao gồm **thay đổi chế độ ăn** và **chăm chỉ vận động**, **tập luyện nhẹ nhàng** trong thời gian đầu và tăng dần theo khả năng thích ứng của cơ thể.
 
-Trong đó, với chế độ ăn, bạn hãy **hạn chế** tinh bột và **tăng cường** uống nhiều nước để tránh ăn khi không đói, đồng thời đào thải độc tố, giúp **đẹp d**a.
+Trong đó, với chế độ ăn, bạn hãy **hạn chế** tinh bột và **tăng cường** uống nhiều nước để tránh ăn khi không đói, đồng thời đào thải độc tố, giúp **đẹp da**.
 
 Với việc tập luyện, việc lựa chọn kết hợp nhiều bộ môn tập luyện như gym, yoga để đốt mỡ, cải thiện hình thể. Với nhiều bài tập với các mức độ từ dễ đến khó, nhẹ đến nặng:
 
@@ -58,6 +63,8 @@ Hãy nỗ lực không ngừng trong việc thay đổi chế độ ăn, xây d�
 📝Luôn xem lại hình đã chụp trước khi trả máy cho họ, nếu nó chưa ổn, hãy tự giác xin chụp lại, phụ nữ luôn thoải mái với việc đó, bạn có thể xin năm bảy lần cũng không sao đâu
 
 ### Nếu phụ nữ nói tấm hình chưa đẹp, luôn nhận là lỗi của bạn, không phải của mặt trời, của bóng đèn hay của ai cả...
+
+{% include lazyload.html image_src="../../assets/images/2022/nhiepanh/meo-chup-n4.webp" image_alt="Pan F 50" image_title="lỗi của bạn" %}
 
 <p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Tổng kết</p>
 * TOC
