@@ -43,7 +43,7 @@ keywords:
 {% include lazyload.html image_src="../../assets/images/2022/nhiepanh/hop-bung.webp" image_alt="Pan F 50" image_title="@Emily Skye" %}
 📝Thay vì nhắc họ cười, hãy nhắc họ hóp bụng
 
- Việc dùng tip chỉ che đi phần nào khuyết điểm. Muốn đẹp nhất định phải tập luyện! Bạn có thể tham khảo thêm ở: <a href="/suc-khoe/Kinh-nghiem-giam-mo-bung-6-thang">Đây!</a>
+Việc dùng tip chỉ che đi phần nào khuyết điểm. Muốn đẹp nhất định phải tập luyện! Bạn có thể tham khảo thêm ở <a href="/suc-khoe/Kinh-nghiem-giam-mo-bung-6-thang" style="color:red" target="_blank">đây!</a>
 
 ### 📷 Xem lại hình đã chụp trước khi trả máy
 {% include lazyload.html image_src="../../assets/images/2022/nhiepanh/meo-chup-nu.webp" image_alt="Pan F 50" image_title="Nếu nó chưa ổn, hãy tự giác xin chụp lại" %}
