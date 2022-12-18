@@ -30,3 +30,8 @@ Với việc tập luyện, việc lựa chọn kết hợp nhiều bộ môn t�
 
 Ngoài ra, để tăng cường khả năng tiêu hao mỡ thừa trong cơ thể, nhất là ở vùng bụng, tay, chân,…,  còn áp dụng tập các bài tập cardio.
 Hãy nỗ lực không ngừng trong việc thay đổi chế độ ăn, xây dựng thói quen tập luyện để nhanh chóng lấy lại phong độ vóc dáng.
+
+Tham khảo
+*   [Hướng dẫn các bài tập hóp bụng để giảm cân, eo thon cực kỳ hiệu quả
+](https://www.bachhoaxanh.com/kinh-nghiem-hay/huong-dan-cac-bai-tap-hop-bung-de-giam-can-eo-thon-cuc-ky-hieu-qua-1272727)
+*   [Xa dần "đùi to, chân voi" bằng list bài tập chỉ tốn có 10 phút mỗi ngày](https://kenh14.vn/xa-dan-dui-to-chan-voi-bang-list-bai-tap-chi-ton-co-10-phut-moi-ngay-2020071317321914.chn)
