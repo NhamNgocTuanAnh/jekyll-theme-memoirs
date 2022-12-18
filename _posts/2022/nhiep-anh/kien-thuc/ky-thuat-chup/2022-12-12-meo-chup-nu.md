@@ -43,19 +43,7 @@ keywords:
 {% include lazyload.html image_src="../../assets/images/2022/nhiepanh/hop-bung.webp" image_alt="Pan F 50" image_title="@Emily Skye" %}
 📝Thay vì nhắc họ cười, hãy nhắc họ hóp bụng
 
- Việc dùng tip chỉ che đi phần nào khuyết điểm. Muốn đẹp nhất định phải tập luyện!
-
-Thay vì phải thực hiện bất cứ chế độ ăn uống hay tập luyện **quá khắc nghiệt**. Bạn chỉ áp dụng phương pháp cải thiện vóc dáng **an toàn**, **chậm mà chắc**, bao gồm **thay đổi chế độ ăn** và **chăm chỉ vận động**, **tập luyện nhẹ nhàng** trong thời gian đầu và tăng dần theo khả năng thích ứng của cơ thể.
-
-Trong đó, với chế độ ăn, bạn hãy **hạn chế** tinh bột và **tăng cường** uống nhiều nước để tránh ăn khi không đói, đồng thời đào thải độc tố, giúp **đẹp da**.
-
-Với việc tập luyện, việc lựa chọn kết hợp nhiều bộ môn tập luyện như gym, yoga để đốt mỡ, cải thiện hình thể. Với nhiều bài tập với các mức độ từ dễ đến khó, nhẹ đến nặng:
-
-*   Gym là bộ môn phù hợp nhất với nhu cầu tập luyện của phái đẹp. 
-*   Còn yoga với tác dụng giúp đốt mỡ hiệu quả, tăng cường độ dẻo dai cho cơ thể, cải thiện sức khoẻ,… cũng là bộ môn được rất nhiều chị em ưa chuộng. 
-
-Ngoài ra, để tăng cường khả năng tiêu hao mỡ thừa trong cơ thể, nhất là ở vùng bụng, tay, chân,…,  còn áp dụng tập các bài tập cardio.
-Hãy nỗ lực không ngừng trong việc thay đổi chế độ ăn, xây dựng thói quen tập luyện để nhanh chóng lấy lại phong độ vóc dáng.
+ Việc dùng tip chỉ che đi phần nào khuyết điểm. Muốn đẹp nhất định phải tập luyện! Bạn có thể tham khảo thêm ở: <a href="/suc-khoe/Kinh-nghiem-giam-mo-bung-6-thang">Đây!</a>
 
 ### 📷 Xem lại hình đã chụp trước khi trả máy
 {% include lazyload.html image_src="../../assets/images/2022/nhiepanh/meo-chup-nu.webp" image_alt="Pan F 50" image_title="Nếu nó chưa ổn, hãy tự giác xin chụp lại" %}
