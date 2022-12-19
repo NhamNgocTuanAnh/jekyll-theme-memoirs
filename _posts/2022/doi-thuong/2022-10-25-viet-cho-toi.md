@@ -24,3 +24,4 @@ Câu chuyện còn đang được viết tiếp ...
 
 <!-- Tôi muốn chia sẻ. Tôi lại có quá nhiều nỗi niềm riêng, lại không biết làm thế nào để thổ lộ điều đó tới em. Thế là họ dần xa nhau, vũ trụ cũng không còn gửi tín hiệu nào nữa. Trong cái tôi nhung nhớ, trong những cái nhìn nay chỉ còn hờn ghen, mưa phùn đông. -->
 
+
