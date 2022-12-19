@@ -1,5 +1,5 @@
 ---
-layout: them-bai-viet-v5
-title: Thêm bài viết
-permalink: /them-bai-viet
+layout: them-bai-viet-v4
+title: Thêm bài viết v4
+permalink: /them-bai-viet-old
 ---
