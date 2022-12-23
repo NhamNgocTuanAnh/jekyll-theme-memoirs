@@ -11,6 +11,7 @@ adsense: "enabled"
 keywords:
   - nhóm máu o nên ăn gì
   - tính cách nhóm máu O
+date: 2022-04-29 11:04 +0200
 ---
 
 Nhóm máu O được miêu tả là rakkanshugi (楽観主義) – người tích cực. Họ khá là dễ tính, có khả năng lãnh đạo và có thể tạo nên bầu không khí cho một nhóm người. Họ không quan tâm nhiều đến những chi tiết vụn vặt, vì thế họ có những hành vi đôi khi khiến người nhóm A nhạy cảm. Mặc dù đôi lúc họ không tuân thủ giờ giấc, nhóm máu O cực kỳ linh hoạt để có thể ứng phó với những tình huống bất ngờ xảy ra.
