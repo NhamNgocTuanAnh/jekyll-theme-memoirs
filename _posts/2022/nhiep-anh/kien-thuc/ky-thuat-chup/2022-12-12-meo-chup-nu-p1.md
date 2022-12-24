@@ -5,7 +5,7 @@ author: sal
 lazyimages: "enabled"
 categories: [Nhiếp ảnh]
 tags: [tips chụp ảnh]
-image: assets/images/nhiepanh/dam-me-nhiep-anh-avt.webp
+image: assets/images/nhiepanh/dam-me-nhiep-anh-avt-1.webp
 rating: 5
 isGithubComments: false
 permalink: nhiep-anh/10-kinh-niem-xuong-mau-khi-chup-anh-nu-p1
@@ -16,7 +16,7 @@ adsense: "enabled"
 keywords:
   - Tay nghề kém cứ đổ lỗi cho mẫu xấu là sao?
   - Chụp hình dùm là công việc cần tịnh tâm, sẽ có nhiều người vừa coi hình là chê liền xấu quá chụp lại đi
-date: 2022-09-20 11:04 +0200
+date: 2022-10-11 11:04 +0200
 ---
 Điều góp phần có tình yêu hạnh phúc là biết chụp ảnh cho phụ nữ. Tay nghề kém cứ đổ lỗi cho mẫu xấu là sao?🤣
 
