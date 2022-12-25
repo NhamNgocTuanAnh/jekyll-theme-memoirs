@@ -19,11 +19,29 @@ keywords:
 date: '2019-11-30'
 ---
 
-Vì vậy, sao bạn không thử hoàn thiện bản thân. Giảm 15kg, dậy sớm 5h sáng, ngủ trước 11h, mỗi tuần một cuốn sách, ... vvv Nghe khó thế😗. Vậy hãy bắt đầu từ những điều đơn giản, dễ dàng và quen thuộc nhé
+Sao bạn không thử hoàn thiện bản thân. Giảm 15kg, dậy sớm 5h sáng, ngủ trước 11h, mỗi tuần một cuốn sách, ... vvv Nghe khó thế😗. Vậy hãy bắt đầu từ những điều đơn giản, dễ dàng và quen thuộc nhé
 
 1. Xác lập vị trí hiện tại và nơi bạn muốn đến
 
 => một lối sống phù hợp với bản thân
+
+Nguồn tin tức tiêu cực trên mạng xã hội ngày càng nhiều, khi các ông bắt đầu một ngày với những điều tiêu cực như thế, cả ngày đầu óc tâm trí của các ông sẽ không nạp được những thứ khác nữa.
+
+Nó như chuyện, các ông lấp đầy chiếc bụng đói của mình bằng những miếng thịt mỡ và cả ngày hôm đó các ông không còn muốn ăn gì nữa.
+
+Thay vào đó:
+
+Vẫn là cách làm như trên, để điện thoại xa nơi mình ngủ.
+
+=>  Buộc bản thân phải đưa ra quá nhiều quyết định
+
+Không nhất thiết đó phải là những quyết định lớn đâu, đôi khi chỉ là:
+Không biết nên mặc gì
+Không biết nên ăn sáng gì
+Không biết có nên tập thể dục hay không
+Không biết nên đi giày hay đi sandal vì không biết hôm nay trời sẽ mưa hay không.
+
+=>>
 
 Đầu tiên và quan trọng nhất, nếu bạn muốn có một cuộc sống tuyệt vời, cần xác định được mục đích sống của bạn là gì? Cần phải làm gì để đạt được cuộc sống trong mơ đó? Biết được mục tiêu cuộc sống nằm ở đâu sẽ là mũi tên dẫn lối cho mọi hành động của bạn và điều chỉnh lại mỗi khi đi sai đường. Đừng để sự mơ hồ và người khác ảnh hưởng đến cuộc sống của bạn vì chỉ có bạn mới có quyền quyết định mà thôi.
 
@@ -55,6 +73,23 @@ Dành thời gian cho những sở thích của bản thân là một trong nh�
 
 
 “Khi chúng ta đọc sách thì thần thái của chúng ta tự nhiên có một sức thu hút rất đặc biệt. thu hút bởi sự hiểu biết, bởi độ chín chắn trong nhận thức cũng như tâm hồn của chúng ta. Nguời đọc sách dù có xấu nhìn vẫn sáng. Kiến thức sâu rộng là lực hút rất mạnh”, chị Thúy nhấn mạnh.
+
+6. Tập biết ơn
+
+Tất cả những gì bạn cần làm là chuẩn bị một cuốn sổ nhỏ và viết ra những điều bạn biết ơn như một phần của thói quen buổi sáng.
+
+- Tôi biết ơn vì đã khỏe mạnh.
+- Tôi biết ơn vì có một ngôi nhà để ở.
+- Tôi biết ơn vì gia đình mình.
+- Tôi biết ơn vì có điều kiện ăn uống đầy đủ
+- Tôi rất biết ơn vì đã được học.
+- Tôi biết ơn vì được sống ở một đất nước an toàn.
+
+7. Những câu nói
+- Quên đi
+- Không đáng
+- Không sao
+- Rồi mọi chuyện sẽ qua
 
 Tham khảo
 *   [Hướng dẫn các bài tập hóp bụng để giảm cân, eo thon cực kỳ hiệu quả
