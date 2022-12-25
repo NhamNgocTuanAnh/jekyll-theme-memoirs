@@ -8,7 +8,7 @@ tags: [tips chụp ảnh]
 image: assets/images/nhiepanh/dam-me-nhiep-anh-avt.webp
 rating: 5
 isGithubComments: false
-permalink: suc-khoe/Kinh-nghiem-giam-mo-bung-6-thang
+permalink: suc-khoe/kinh-nghiem-giam-mo-bung-6-thang
 excerpt: Điều góp phần có tình yêu hạnh phúc là biết chụp ảnh cho phụ nữ
 description: Điều góp phần có tình yêu hạnh phúc là biết chụp ảnh cho phụ nữ
 comments_id: 12

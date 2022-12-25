@@ -34,11 +34,18 @@ date: 2022-12-21 11:04 +0200
 
 {% include lazyload.html image_src="../../assets/images/2022/nhiepanh/chup-nhom-nu-3.webp" image_alt="Chụp cho 3 bạn nữ thì sao nhở 🤔" image_title="Quan sát xem đt đó của ai, và canh cho người đó đẹp nhứt" %}
 📝Bạn hãy quan sát xem đt đó của ai, và canh cho người đó đẹp nhứt, như vậy tránh việc bạn phải chụp lại 888 tấm (hoặc bị chê là hem biết chụp) 🤣🤣😂
+### 📷 Chụp góc nghiêng bên trái
+Phần lớn khuôn mặt chúng ta đều có 1 bên đẹp hơn bên còn lại. Do đó, việc “khoe” bên đẹp nhất hoàn toàn hợp lý so với việc chụp thẳng mặt. Phía bên trái khuôn mặt người có xu hướng phô bày cảm xúc mạnh mẽ hơn, khiến những người quan sát cảm thấy thỏa mãn hơn về mặt thẩm mỹ.
+
+
 ### 📷 Sao anh chụp xấu thế?!!😣
 
 {% include lazyload.html image_src="../../assets/images/2022/nhiepanh/meo-chup-n4.webp" image_alt="Chụp film" image_title="@La La Lens. Lỗi của bạn" %}
 
 📝Nếu phụ nữ nói tấm hình chưa đẹp, luôn nhận là lỗi của bạn, không phải của mặt trời, của bóng đèn hay của ai cả...😎
+
+
+<div class="container"> <div class="row"> <div class="col-xs-12 col-sm-3"></div> <div class="col-xs-12 col-sm-6 quotebox"> <div class="row"> <div class="col-xs-12"> <blockquote><i class="fa fa-quote-left quotemark"></i>Khi chúng ta muốn chụp đứng thì hãy nên đặt góc máy thấp, điều này sẽ khiến bạn trông cao và thon thả hơn. Và ngược lại, bạn nên đặt góc máy nhìn từ dưới lên khi bạn đang trong tư thế ngồi. Đây là cách để cơ thể bạn không bị bè ngang.<footer class="footer-tem" >Theo fashion pa Chriselle Lim</footer> </blockquote> </div> </div> <div class="row"> <div class="col-xs-12 col-sm-12"></div> </div> </div> </div> <div class="col-xs-12 col-sm-3"></div></div>
 
 
 📝Đọc <b>phần 1</b> tại <a href="/nhiep-anh/10-kinh-niem-xuong-mau-khi-chup-anh-nu-p1" style="color:red" target="_blank">👉đây!</a>
@@ -50,4 +57,5 @@ date: 2022-12-21 11:04 +0200
 > Bài chia sẻ của Đàm Hà Phú
 
 Các bạn lưu ý, ngoài góc chụp ra, thì còn cần **bố cục** chụp nhé. **Bố cục** được đặt ra giúp chúng ta định hình chính xác đối tượng, sắp xếp và bố trí các yếu tố khác nhau cho phù hợp. Đọc thêm về **Bố cục** ở <a href="/nhiep-anh/bo-cuc-trong-nhiep-anh" style="color:red" target="_blank">👉đây!</a>
+
 

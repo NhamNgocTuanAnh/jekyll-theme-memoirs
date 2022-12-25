@@ -28,7 +28,7 @@ date: 2022-10-11 11:04 +0200
 ### 📷 Thay vì nhắc họ cười
 {% include lazyload.html image_src="../../assets/images/2022/nhiepanh/hop-bung.webp" image_alt="Nhớ hóp bụng nhé😉" image_title="@Emily Skye" %}
 📝Thay vì nhắc họ cười, hãy nhắc họ hóp bụng<br>
-📝Việc dùng tip chỉ che đi phần nào khuyết điểm. Muốn đẹp nhất định phải tập luyện! Bạn có thể tham khảo thêm ở <a href="/suc-khoe/Kinh-nghiem-giam-mo-bung-6-thang" style="color:red" target="_blank">👉đây!</a>
+📝Việc dùng tip chỉ che đi phần nào khuyết điểm. Muốn đẹp nhất định phải tập luyện! Bạn có thể tham khảo thêm ở <a href="/suc-khoe/kinh-nghiem-giam-mo-bung-6-thang" style="color:red" target="_blank">👉đây!</a>
 
 ### 📷 Xem lại hình đã chụp trước khi trả máy
 {% include lazyload.html image_src="../../assets/images/2022/nhiepanh/meo-chup-nu.webp" image_alt="Nhớ xem lại ảnh trước khi trả" image_title="Nếu nó chưa ổn, hãy tự giác xin chụp lại" %}
