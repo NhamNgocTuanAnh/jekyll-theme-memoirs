@@ -145,6 +145,11 @@ Tuy rằng ta có thể dùng một cái thủ thuật để che đi khuyết đ
 * [Tại sao chụp ảnh camera sau mặt bị lệch? Một số mẹo khắc phục hiệu quả - ghiencongnghe.info](https://ghiencongnghe.info/tai-sao-chup-anh-camera-sau-mat-bi-lech.html).
 * [Sao Kbiz mặt bị lệch nhưng vẫn thành cực phẩm nhan sắc - kenh14.vn](https://kenh14.vn/sao-kbiz-mat-bi-lech-nhung-van-thanh-cuc-pham-nhan-sac-jennie-irene-tzuyu-thanh-luon-nu-than-kim-soo-hyun-hot-thay-la-20201215121007454.chn).
 * [NHỮNG THÓI QUEN XẤU LÀM GƯƠNG MẶT BỊ LỆCH VÀ CÁCH KHẮC PHỤC HIỆU QUẢ - nhakhoavinhan.com](https://nhakhoavinhan.com/mat-bi-lech/).
+* [TIP ĐƠN GIẢN ĐỂ CÓ KHUÔN MIỆNG CƯỜI ĐẸP NHƯ TIẾP VIÊN HÀNG KHÔNG](https://oritoeicdreamjob.com/tin-tuc/tip-don-gian-de-co-khuon-mieng-cuoi-dep-nhu-tiep-vien-hang-khong.htm)
+* [Tập ngậm đũa 15 phút mỗi ngày để có nụ cười đẹp](https://www.saostar.vn/dep/tap-ngam-dua-15-phut-moi-ngay-de-co-nu-cuoi-dep-132830.html)
+* [Cắn đũa mỗi ngày để có nụ cười đẹp như tiếp viên hàng không, bạn đã thử chưa?](https://www.bachhoaxanh.com/kinh-nghiem-hay/can-dua-moi-ngay-de-co-nu-cuoi-dep-nhu-tiep-vien-hang-khong-ban-da-thu-chua-1318786)
+* [Bí quyết sở hữu nụ cười đẹp và tự nhiên giúp bạn ‘đốn tim vạn người’ trong nháy mắt](https://voh.com.vn/dep/cach-luyen-nu-cuoi-dep-418110.html)
+* []()
 
 > Bạn là chính bạn, là một ngôi sao. Đừng vì gương mặt bất đối xứng mà mặc cảnh, tự ti.
 
