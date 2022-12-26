@@ -55,8 +55,10 @@ post_class: post-template
 {% if page.rating %}
 
 <div class="rating mt-4 mb-4 d-flex align-items-center">
-    <div style="float: left;"> <strong class="mr-1">Rating:</strong> {% include star_rating.html %}</div>
-    <div style="float: right;"><span id="busuanzi_container_site_pv">Total visits to this site: <span id="busuanzi_value_site_pv"></span></div>
+    <span id="busuanzi_container_site_pv">Total visits to this site: <span id="busuanzi_value_site_pv"></span>
+
+    <div style="float: left;display: none;"> <strong class="mr-1">Rating:</strong> {% include star_rating.html %}</div>
+
 </div>
 
 
