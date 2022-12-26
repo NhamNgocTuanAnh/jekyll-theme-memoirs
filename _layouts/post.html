@@ -44,7 +44,6 @@ post_class: post-template
 <!-- Content -->
 {% include article.html %}
 
-<span id="busuanzi_container_site_pv">Total visits to this site: <span id="busuanzi_value_site_pv"></span></span>
 
 <!-- Quote -->
 {% include quote.html %}
@@ -56,6 +55,7 @@ post_class: post-template
 {% if page.rating %}
 <div class="rating mt-4 mb-4 d-flex align-items-center">
     <strong class="mr-1">Rating:</strong> {% include star_rating.html %}
+    <br><span id="busuanzi_container_site_pv">Total visits to this site: <span id="busuanzi_value_site_pv"></span>
 </div>
 {% endif %}
 
