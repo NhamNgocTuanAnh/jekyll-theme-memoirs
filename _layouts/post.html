@@ -52,18 +52,17 @@ post_class: post-template
 {% include comments.html %}
 
 <!-- Rating -->
-{% if page.rating %}
 
 <div class="rating mt-4 mb-4 d-flex align-items-center">
     <span id="busuanzi_container_site_pv">Total visits to this site: <span id="busuanzi_value_site_pv"></span>
+
+{% if page.rating %}
     <div style="float: left;display: none;"> <strong class="mr-1">Rating:</strong> {% include star_rating.html %}</div>
 </div>
-
-
-
+{% endif %}
 
 </div>
-{% endif %}
+
 
 <!-- Author Box if enabled from _config.yml -->
 {% include author-box.html %}
