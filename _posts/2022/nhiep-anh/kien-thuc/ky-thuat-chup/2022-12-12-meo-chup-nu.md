@@ -44,11 +44,12 @@ Phần lớn khuôn mặt chúng ta đều có 1 bên đẹp hơn bên còn lạ
 
 📝Nếu phụ nữ nói tấm hình chưa đẹp, luôn nhận là lỗi của bạn, không phải của mặt trời, của bóng đèn hay của ai cả...😎
 
-
-<div class="container"> <div class="row"> <div class="col-xs-12 col-sm-3"></div> <div class="col-xs-12 col-sm-6 quotebox"> <div class="row"> <div class="col-xs-12"> <blockquote><i class="fa fa-quote-left quotemark"></i>Khi chúng ta muốn chụp đứng thì hãy nên đặt góc máy thấp, điều này sẽ khiến bạn trông cao và thon thả hơn. Và ngược lại, bạn nên đặt góc máy nhìn từ dưới lên khi bạn đang trong tư thế ngồi. Đây là cách để cơ thể bạn không bị bè ngang.<footer class="footer-tem" >Theo fashion pa Chriselle Lim</footer> </blockquote> </div> </div> <div class="row"> <div class="col-xs-12 col-sm-12"></div> </div> </div> </div> <div class="col-xs-12 col-sm-3"></div></div>
-
+<blockquote><i class="fa fa-quote-left quotemark"></i>Khi chúng ta muốn chụp đứng thì hãy nên đặt góc máy thấp, điều này sẽ khiến bạn trông cao và thon thả hơn. Và ngược lại, bạn nên đặt góc máy nhìn từ dưới lên khi bạn đang trong tư thế ngồi. Đây là cách để cơ thể bạn không bị bè ngang.
+<cite>Theo fashion pa Chriselle Lim</cite></blockquote>
 
 📝Đọc <b>phần 1</b> tại <a href="/nhiep-anh/10-kinh-niem-xuong-mau-khi-chup-anh-nu-p1" style="color:red" target="_blank">👉đây!</a>
+
+{% include post-by-url.html post_src="nhiep-anh/10-kinh-niem-xuong-mau-khi-chup-anh-nu-p1" %}
 
 <p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Tổng kết</p>
 * TOC
