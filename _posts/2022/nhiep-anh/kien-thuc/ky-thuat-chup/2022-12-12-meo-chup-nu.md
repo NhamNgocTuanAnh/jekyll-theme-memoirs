@@ -59,4 +59,4 @@ Phần lớn khuôn mặt chúng ta đều có 1 bên đẹp hơn bên còn lạ
 
 Các bạn lưu ý, ngoài góc chụp ra, thì còn cần **bố cục** chụp nhé. **Bố cục** được đặt ra giúp chúng ta định hình chính xác đối tượng, sắp xếp và bố trí các yếu tố khác nhau cho phù hợp. Đọc thêm về **Bố cục** ở <a href="/nhiep-anh/bo-cuc-trong-nhiep-anh" style="color:red" target="_blank">👉đây!</a>
 
-
+{% include post-by-url.html post_src="nhiep-anh/bo-cuc-trong-nhiep-anh" %}

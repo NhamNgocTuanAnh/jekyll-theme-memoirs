@@ -1,19 +1,22 @@
 {% assign maxRelated = 1 %}
-{% assign minCommonTags =  1 %}
+{% assign minCommonTags = 1 %}
 {% assign maxRelatedCounter = 0 %}
-{% for post in site.posts %}
+
+<div id="outer"><div id="inner">
+
+        {% for post in site.posts %}
 
         {% assign sameTagCount = 0 %}
         {% assign commonTags = '' %}
 
         {% for category in post.categories %}
-                {% if post.permalink == include.post_src %}
-                {% if page.categories contains category %}
-                {% assign sameTagCount = sameTagCount | plus: 1 %}
-                {% capture tagmarkup %} {{ category }} {% endcapture %}
-                {% assign commonTags = commonTags | append: tagmarkup %}
-                {% endif %}
-                {% endif %}
+        {% if post.permalink == include.post_src %}
+        {% if page.categories contains category %}
+        {% assign sameTagCount = sameTagCount | plus: 1 %}
+        {% capture tagmarkup %} {{ category }} {% endcapture %}
+        {% assign commonTags = commonTags | append: tagmarkup %}
+        {% endif %}
+        {% endif %}
         {% endfor %}
 
         {% if sameTagCount >= minCommonTags %}
@@ -24,6 +27,9 @@
         {% endif %}
         {% endif %}
 
-{% endfor %}
+        {% endfor %}
 
-
+</div></div>
+<style>
+#inner{display:table;margin:0 auto}#outer{width:100%}
+</style>
