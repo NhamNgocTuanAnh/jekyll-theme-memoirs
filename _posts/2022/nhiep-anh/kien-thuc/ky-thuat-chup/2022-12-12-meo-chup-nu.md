@@ -22,7 +22,9 @@ date: 2022-12-21 11:04 +0200
 
 ### 📷 Luôn xoay camera xuống dưới
 {% include lazyload.html image_src="../../assets/images/2022/nhiepanh/meo-chup-hinh-chup-cao.webp" image_alt="Để máy ảnh chếch lên cao" image_title="Người chụp sẽ đứng cách xa 2m, ngồi xuống, hướng điện thoại góc 30 độ." %}
-📝Luôn xoay camera xuống dưới, như vậy cảm giác đối tượng cao hơn.
+📝Luôn xoay camera xuống dưới, như vậy cảm giác đối tượng cao hơn.<br>
+📝Bạn bỏ lỡ <b>phần 1?</b><a href="/nhiep-anh/10-kinh-niem-xuong-mau-khi-chup-anh-nu-p1" style="color:red" target="_blank">👉Truy cập ở đây!</a>
+{% include post-by-url.html post_src="nhiep-anh/10-kinh-niem-xuong-mau-khi-chup-anh-nu-p1" %}
 ### 📷 Hạ thấp máy dưới trọng tâm
 {% include lazyload.html image_src="../../assets/images/2022/nhiepanh/meo-chup-nu-ha-thap-goc-may.webp" image_alt="Điện thoại hướng chìa vào đùi" image_title="Người chụp sẽ đứng cách xa 1.5m, điện thoại trên ngực." %}
 📝 Hạ thấp máy dưới trọng tâm, nhưng không quá thấp để thấy phần da dưới cằm
@@ -46,10 +48,6 @@ Phần lớn khuôn mặt chúng ta đều có 1 bên đẹp hơn bên còn lạ
 
 <blockquote><i class="fa fa-quote-left quotemark"></i>Khi chúng ta muốn chụp đứng thì hãy nên đặt góc máy thấp, điều này sẽ khiến bạn trông cao và thon thả hơn. Và ngược lại, bạn nên đặt góc máy nhìn từ dưới lên khi bạn đang trong tư thế ngồi. Đây là cách để cơ thể bạn không bị bè ngang.
 <cite>Theo fashion pa Chriselle Lim</cite></blockquote>
-
-📝Đọc <b>phần 1</b> tại <a href="/nhiep-anh/10-kinh-niem-xuong-mau-khi-chup-anh-nu-p1" style="color:red" target="_blank">👉đây!</a>
-
-{% include post-by-url.html post_src="nhiep-anh/10-kinh-niem-xuong-mau-khi-chup-anh-nu-p1" %}
 
 <p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Tổng kết</p>
 * TOC

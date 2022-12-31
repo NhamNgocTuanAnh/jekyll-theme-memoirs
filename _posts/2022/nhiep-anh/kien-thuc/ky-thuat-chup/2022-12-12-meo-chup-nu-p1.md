@@ -33,8 +33,9 @@ date: 2022-10-11 11:04 +0200
 ### 📷 Xem lại hình đã chụp trước khi trả máy
 {% include lazyload.html image_src="../../assets/images/2022/nhiepanh/meo-chup-nu.webp" image_alt="Nhớ xem lại ảnh trước khi trả" image_title="Nếu nó chưa ổn, hãy tự giác xin chụp lại" %}
 
-📝Luôn xem lại hình đã chụp trước khi trả máy cho họ, nếu nó chưa ổn, hãy tự giác xin chụp lại, phụ nữ luôn thoải mái với việc đó, bạn có thể xin bảy bảy bốn chín lần cũng không sao đâu 🦾🦾🦾
-
+📝Luôn xem lại hình đã chụp trước khi trả máy cho họ, nếu nó chưa ổn, hãy tự giác xin chụp lại, phụ nữ luôn thoải mái với việc đó, bạn có thể xin bảy bảy bốn chín lần cũng không sao đâu 🦾🦾🦾.<br>
+📝Bạn bỏ lỡ <b>phần 2?</b><a href="/nhiep-anh/10-kinh-niem-xuong-mau-khi-chup-anh-nu" style="color:red" target="_blank">👉Truy cập ở đây!</a>
+{% include post-by-url.html post_src="nhiep-anh/10-kinh-niem-xuong-mau-khi-chup-anh-nu" %}
 ### 📷 Sao anh chụp xấu thế?!!😣
 
 {% include lazyload.html image_src="../../assets/images/2022/nhiepanh/meo-chup-n4.webp" image_alt="Chụp film" image_title="@La La Lens. Lỗi của bạn" %}
@@ -49,3 +50,4 @@ date: 2022-10-11 11:04 +0200
 
 Các bạn lưu ý, ngoài góc chụp ra, thì còn cần **bố cục** chụp nhé. **Bố cục** được đặt ra giúp chúng ta định hình chính xác đối tượng, sắp xếp và bố trí các yếu tố khác nhau cho phù hợp.
 {% include redirect-countdown.html local="true" redirect_src="/nhiep-anh/bo-cuc-trong-nhiep-anh" redirect_title="Bạn có thể tham khảo thêm ở " %}
+{% include post-by-url.html post_src="nhiep-anh/bo-cuc-trong-nhiep-anh" %}
