@@ -1,12 +1,13 @@
 ---
 layout: page
-# title: Ủng hộ - Anh Hàng Xóm
 permalink: /ung-ho
 comments: false
-# image: assets/images/screenshot.jpg
 imageshadow: true
 ---
-_**AnhHangXom.XYZ**_ được lập ra từ tháng 6 năm 2020 với mục đích trao đổi sở thích thông qua các bài review về nhiếp ảnh, văn học và âm nhạc, đồng thời chia sẻ những câu chuyện và kinh nghiệm trong cuộc sống với các bạn trẻ. Blog được thiết kế đảm bảo giao diện tối giản cho người đọc.
+<div class="center-image">
+<img data-src="../../assets/images/ngam/cat_doantion.webp" alt="Ủng hộ Anh hàng xóm" title="Ủng hộ tôi" class="blur-up lazyload img-thumb lazyimg ten-lop-ban-tu-dat" id="image-hover"/>
+</div>
+_**AnhHangXom.XYZ**_ được lập ra từ tháng 6 năm 2020 với mục đích trao đổi sở thích thông qua các bài review về nhiếp ảnh, Tip&Trick trong công việc lập trình, đồng thời chia sẻ những câu chuyện và kinh nghiệm trong cuộc sống với các bạn trẻ. Blog được thiết kế đảm bảo giao diện tối giản cho người đọc.
 
 Nếu yêu thích các bài viết của mình, cảm thấy blog mang lại những lợi ích tích cực và truyền cảm hứng đến bạn, **hãy ủng hộ để** _**Anh hàng xóm**_ **có thể tiếp tục tồn tại và phát triển mạnh mẽ hơn nhé!**
 
