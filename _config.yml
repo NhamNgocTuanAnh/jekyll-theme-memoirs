@@ -87,9 +87,6 @@ adsense-data-ad-slot: "8350440762"
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "enabled"
 
-# set timezone
-timezone: Asia/Singapore
-
 ############################################################
 # Site configuration for the WebP Generator Plugin
 # The values here represent the defaults if nothing is set
