@@ -9,7 +9,7 @@ url: "https://nhamngoctuananh.github.io/"
 #baseurl: /
 encoding: UTF-8
 google_analytics: 'UA-192636660-1'
-
+timezone: Asia/Ho_Chi_Minh
 include: ["_pages"]
 permalink: /:title/
 email: tuananhtlu9366@gmail.com
