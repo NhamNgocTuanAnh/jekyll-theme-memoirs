@@ -39,7 +39,6 @@ authors:
     facebook: https://www.facebook.com/minhtron.6998
     description: "Đơn giản là Minh, nhưng Minh không đơn giản"
 
-
 # Plugins
 plugins:
   - jekyll-paginate
