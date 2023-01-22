@@ -5,6 +5,8 @@
 {% if page.keywords %}
     <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
 {% endif %}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8920573839255504"
+     crossorigin="anonymous"></script>
 </head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
@@ -112,24 +114,6 @@ $(window).on("scroll",function(){window.scrollY>window.outerHeight?($("#scrollTo
 <script type="text/javascript">
 function nocontext(t){if("IMG"==(null==t?event.srcElement.tagName:t.target.tagName))return!1}document.oncontextmenu=nocontext;
 </script>
-
-<script type="text/javascript">
-    function downloadJsAtOnload() {
-        setTimeout(function downloadJs() {
-            var element = document.createElement("script");
-            element.setAttribute("data-ad-client", "ca-pub-8920573839255504");
-            element.async = true;
-            element.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js";
-            document.body.appendChild(element);
-        }, 5000);
-    };
-    if (window.addEventListener)
-        window.addEventListener("load", downloadJsAtOnload, false);
-    else if (window.attachEvent)
-        window.attachEvent("onload", downloadJsAtOnload);
-    else window.onload = downloadJsAtOnload;
-</script>
-
 <style>
 img{-webkit-user-drag:none;user-drag:none;-webkit-touch-callout:none}
 </style>
