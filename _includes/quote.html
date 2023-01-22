@@ -3,6 +3,7 @@
 </style>
 <script>
 const colors=["#490A3D","#BD1550","#E97F02","#F8CA00","#8A9B0F","#69D2E7","#FA6900","#16a085","#27ae60","#2c3e50","#f39c12","#e74c3c","#9b59b6","#FB6964","#342224","#472E32","#77B1A9","#73A857"];
+
 let quotes = {{site.data.quotes | jsonify}};
 let total = 0;
 {% assign totalYaml = 0 %}
@@ -10,7 +11,6 @@ let total = 0;
     {% assign totalYaml = totalYaml | plus: 1 %}
     total = {{totalYaml}};
 {% endfor %}
-console.log("total: ",total);
 
 let quotesLength=total||0,currentQuote="",currentAuthor="",randomquote=100,randomcolor="";function createQuotesStore(){quotes||((quotes=new Map).set(1,["Chúc bạn quyết tâm tập không bám chấp vào bất kì điều gì vì cứ bó buộc mình trong tư tưởng nào là nô lệ trong suy nghĩ đó. Ví dụ như năm mới phải làm cái này tránh cái kia... Cơ bản tính từ 'mới' cũng là tự con người qui đinh và áp đặt nhau thôi. Không bám chấp vào cả mối quan hệ, cha mẹ, người yêu, bạn bè đều bên nhau được 1 quãng đường. Có duyên thì trân trọng, trả hết nợ rồi thôi.","Mae West"]),quotes.set(2,["I am so clever that sometimes I don't understand a single word of what I am saying.","Oscar Wilde"]),quotes.set(3,["Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.","Albert Einstein"]),quotes.set(4,["The most beautiful experience we can have is the mysterious. It is the fundamental emotion that stands at the cradle of true art and true science.","Albert Einstein"]),quotes.set(5,["It is our choices, Harry, that show what we truly are, far more than our abilities.","J.K. Rowling, Harry Potter and the Chamber of Secrets"]),quotes.set(6,["All men who have turned out worth anything have had the chief hand in their own education.","Walter Scott"]),quotes.set(7,["Trust yourself. You know more than you think you do.","Benjamin Spock"]),quotes.set(8,["No one can make you feel inferior without your consent.","Eleanor Roosevelt, This is My Story"]),quotes.set(9,["To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.","Ralph Waldo Emerson"]),quotes.set(10,["Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.","H. Jackson Brown Jr., P.S. I Love You"]),quotes.set(0,["You only live once, but if you do it right, once is enough.","Mae West"]),quotesLength=quotes.count()||0)}createQuotesStore();
 </script>
