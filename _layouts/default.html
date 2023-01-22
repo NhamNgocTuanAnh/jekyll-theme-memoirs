@@ -5,8 +5,6 @@
 {% if page.keywords %}
     <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
 {% endif %}
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8920573839255504"
-     crossorigin="anonymous"></script>
 </head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
@@ -114,6 +112,11 @@ $(window).on("scroll",function(){window.scrollY>window.outerHeight?($("#scrollTo
 <script type="text/javascript">
 function nocontext(t){if("IMG"==(null==t?event.srcElement.tagName:t.target.tagName))return!1}document.oncontextmenu=nocontext;
 </script>
+
+<script type="text/javascript">
+function downloadJsAtOnload(){setTimeout(function(){var o=document.createElement("script");o.setAttribute("data-ad-client","ca-pub-8920573839255504"),o.async=!0,o.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",document.body.appendChild(o)},5e3)}window.addEventListener?window.addEventListener("load",downloadJsAtOnload,!1):window.attachEvent?window.attachEvent("onload",downloadJsAtOnload):window.onload=downloadJsAtOnload,window.addEventListener("load",()=>{var o=document.querySelectorAll("ins.ADSENSE");Array.from(o).forEach(o=>{var d=o.parentElement;"none"===window.getComputedStyle(d).getPropertyValue("display")?o.remove():(o.classList.remove("ADSENSE"),o.classList.add("adsbygoogle"),(adsbygoogle=window.adsbygoogle||[]).push({}))})});
+</script>
+
 <style>
 img{-webkit-user-drag:none;user-drag:none;-webkit-touch-callout:none}
 </style>
