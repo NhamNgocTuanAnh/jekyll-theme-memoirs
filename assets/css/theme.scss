@@ -3,7 +3,8 @@
 ---
 
 $brown: #B59F62;
-$teal: #40FFDC;
+// $teal: #40FFDC;
+$teal: #007bff;
 $black: #111;
 $primary: $teal;
 $dark:    $black;
@@ -274,7 +275,7 @@ img, img:hover {
         font-size:22px;
         line-height:1.4;
         a {
-            background-image: linear-gradient(180deg, transparent 89%, #55cc71 0);
+            background-image: linear-gradient(180deg, transparent 89%, #007bff 0);
             background-repeat: no-repeat;
             background-size: 0 100%;
             transition: background-size .6s ease;
