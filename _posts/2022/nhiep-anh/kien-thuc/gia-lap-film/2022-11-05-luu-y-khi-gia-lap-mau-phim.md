@@ -15,6 +15,7 @@ toc: false
 keywords:
   - Preset màu phim
   - Chọn preset màu
+date: 2023-01-30 08:08:08 +0700
 ---
 #filmphotolifestyle <br>
 Một vài năm trở lại đây, trong giới trẻ một trào lưu «retro» với phong cách chụp ảnh phim. Giá trung bình của một cuộn phim phổ thông dao động trên thị trường từ 180.000 đồng - 220.000 đồng, chưa kể còn phải thêm chi phí tráng phim ở lab.<br>Nên nhiều người đã dùng xu hướng chụp ảnh về rồi thêm giả lập màu phim vào. Trong bài viết này, mình sẽ giới thiệu tới các bạn một vài cách sử dụng cũng như giới thiệu một số giả lập màu phim cơ bản.<br>

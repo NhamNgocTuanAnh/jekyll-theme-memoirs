@@ -15,6 +15,7 @@ adsense: "enabled"
 keywords:
   - Tại sao chúng ta lại ngủ
   - dậy sớm để làm gì
+date: 2023-01-07 08:08:08 +0700
 ---
 Vừa mới thoát khỏi ghế lớp 12, bị bắt ngủ sớm. Mình bắt đầu lên đại học. Mình đã từng thức tới 1-2h sáng. Thức để làm gì ư, để chơi game, để nghịch ngợm vì đêm rất yên tĩnh, chỉ một mình mình với chiếc máy tính. Không ai làm phiền, không áp lực sáng mai phải mua gì, ăn gì, đi làm lúc mấy giờ. 😎. Cuộc sống về đêm dường như rất cuốn hút, nhiều bạn sv còn đi chơi xuyên đêm cơ, ôi nhớ 🥲
 
