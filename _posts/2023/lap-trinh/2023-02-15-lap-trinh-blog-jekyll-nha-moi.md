@@ -31,7 +31,6 @@ Mình mua 1 orangepi zero + 1 thẻ nhớ + 1 vỏ tầm 700k, nguồn điện t
 
 {% include lazyload.html image_src="../../assets/images/2023/lap-trinh/orage-pi-zero-by-sever.webp" image_alt="websever với orange pi zero" image_title="sever đầu đời - orangepi zero" %}
 
-
 ```javascript
 sudo apt-get install apache2 -y # cài apache
 
