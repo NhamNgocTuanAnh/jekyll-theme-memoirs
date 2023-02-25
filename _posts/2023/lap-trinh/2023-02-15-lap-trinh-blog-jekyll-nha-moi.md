@@ -15,7 +15,7 @@ keywords:
   - chuyển từ wordpress sang jekyll
   - Tối ưu jekyll
 date: 2023-02-15 10:01:10 +0700
-permalink: lap-trinh/tip-trick/dang-anh-facebook-bi-mo
+permalink: lap-trinh/viet-blog-voi-jekyll
 ---
 **_Lưu ý_**: Bài viết này mình muốn hướng đến các bạn đã có hiểu biết về phát triển web. Jekyll thật tuyệt vời để tạo các website cá nhân, nhưng bông hồng nào mà chả có **gai**!.
 
@@ -87,7 +87,7 @@ Nhưng rồi mình vẫn thấy Con web nhanh chết, chậm load(xuống 5s)-**
 ✔ Hỗ trợ hiển thị các embeded (nội dung của bên thứ ba, vd Youtube, Slideshare, Draw.io...) trực tiếp trong bài viết. - cái viết không khó.\\
 ✔ Bình luận dưới mỗi bài viết. - lười nên nhúng facebook comment😎.\\
 ✔ Hiển thị các bài viết liên quan đến bài đang đọc. - chưa hoàn thiện, đang để bài viết cùng chủ đề.\\
-✔ Hỗ trợ SEO mạnh để làm tăng view, cái này 1 website chuẩn cần phải có, site không chỉ là làm cho vui mà nó thực sự hoạt động hiệu quả. Ví dụ có hỗ trợ sitemap, robot, quản lý được meta tags, có url chuẩn SEO google. - Tìm hiểu google nhá bạn!!!\\
+✔ Hỗ trợ SEO mạnh để làm tăng view, cái này 1 website chuẩn cần phải có, site không chỉ là làm cho vui mà nó thực sự hoạt động hiệu quả. Ví dụ: sitemap, robot, meta tags, có url chuẩn SEO google. - Tìm hiểu google nhá bạn!!!\\
 ✔ Cần có Google Analytic để xem người xem đến từ đâu và làm SEO cho chuẩn.\\
 ❌ Có RSS (kiểu feedly, google news) để với các trình đọc tin tức. \\
 ✔ Chia sẻ được bài viết sang mạng xã hội(facebook,linked,...).
