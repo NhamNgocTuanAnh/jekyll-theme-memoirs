@@ -82,7 +82,7 @@ Nhưng rồi mình vẫn thấy Con web nhanh chết, chậm load(xuống 5s)-**
 
 <hr>
 
-❌ Hiển thị bài viết (post) theo ngày mới nhất.\\
+✔ Hiển thị bài viết (post) theo ngày mới nhất.\\
 ❌ Lọc được theo ngày tháng.\\
 ✔ Hiển thị nhóm bài viết theo thẻ (tags), hoặc một danh mục (category) để gom được các bài viết liên quan lại với nhau.\\
 ✔ Tìm kiếm được bài viết theo tiêu đề hoặc nội dung bên trong của toàn bộ Blog. - dùng google search custom nhanh, hiệu quả.\\
@@ -91,7 +91,7 @@ Nhưng rồi mình vẫn thấy Con web nhanh chết, chậm load(xuống 5s)-**
 ✔ Hiển thị các bài viết liên quan đến bài đang đọc. - chưa hoàn thiện, đang để bài viết cùng chủ đề.\\
 ✔ Hỗ trợ SEO mạnh để làm tăng view, cái này 1 website chuẩn cần phải có, site không chỉ là làm cho vui mà nó thực sự hoạt động hiệu quả. Ví dụ: sitemap, robot, meta tags, có url chuẩn SEO google. - Tìm hiểu google nhá bạn!!!\\
 ✔ Cần có Google Analytic để xem người xem đến từ đâu và làm SEO cho chuẩn.\\
-❌ Có RSS (kiểu feedly, google news) để với các trình đọc tin tức. \\
+❌ Có RSS (kiểu feedly, google news) để với các trình đọc tin tức. \\ - chưa biết tích hợp kiểu gì😫.
 ✔ Chia sẻ được bài viết sang mạng xã hội(facebook,linked,...).
 
 <hr>
