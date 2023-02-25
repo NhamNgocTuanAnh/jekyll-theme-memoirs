@@ -407,7 +407,7 @@
     </script>
     <!--Chạy next post-->
     <script>
-        $(document).ready(function () { toastr.options = { closeButton: !0, debug: !1, newestOnTop: !1, progressBar: !1, positionClass: "toast-bottom-right", preventDuplicates: !1, showDuration: "300", hideDuration: "1000", timeOut: "10000", extendedTimeOut: "1000", showEasing: "swing", hideEasing: "linear", showMethod: "fadeIn", hideMethod: "fadeOut" }, toastr.options.onclick = function () { window.location.replace(next_post_url || "{{ site.baseurl }}") }, setTimeout(function () { toastr.info(linkToRandomBlogPost(), "Next post:") }, 2e3), $("#linkButton").click(function () { toastr.success(linkToRandomBlogPost()) }) });
+        $(document).ready(function () { toastr.options = { closeButton: !0, debug: !1, newestOnTop: !1, progressBar: !1, positionClass: "toast-bottom-right", preventDuplicates: !1, showDuration: "300", hideDuration: "1000", timeOut: "10000", extendedTimeOut: "1000", showEasing: "swing", hideEasing: "linear", showMethod: "fadeIn", hideMethod: "fadeOut" }, toastr.options.onclick = function () { window.location.replace(next_post_url || "{{ site.baseurl }}") }, setTimeout(function () { toastr.info(linkToRandomBlogPost(), "Next post:") }, 6000), $("#linkButton").click(function () { toastr.success(linkToRandomBlogPost()) }) });
     </script>
 
     <style>
