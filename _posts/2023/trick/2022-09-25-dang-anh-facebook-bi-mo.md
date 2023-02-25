@@ -28,6 +28,8 @@ Vì kích cỡ ảnh cho phép đăng trên facebook:
 Bạn chưa hiểu gì đúng không? Giờ chiếc điện thoại của bạn có 48 MP. Ảnh 48 MP đạt tới mật độ điểm ảnh rất cao lên đến 48 triệu pixel và kích cỡ 6000 x 8000.
 > Và
 
+Instagram sẽ tự động resize ảnh của bạn về max 1080 pixels chiều dàu. Twitter: 1200 x 675. Nếu bạn không rủng rỉnh tiền mua một chiếc tivi 8K và chiếc nhwuxng ảnh bạn chụp hằng ngày trên đó, và độ phân dải 8K là 7680 x 4320 pixels. Nó thậm chí còn nhỏ hơn 8000 x 6000 pixels.
+
 **Bùm** bạn hiểu ra là 6000 nó gấp gần 3 lần 2048. Ảnh của bạn mặc định sẽ bị nén bởi thuật toán của fb, và thường nó nén không nhân từ, ảnh bạn chỉnh suốt 3 tiếng, zoom từng lỗ chân lông sẽ bị vỡ toác khi đăng.
 
 > ༼ つ ◕_◕ ༽つ Vậy phải làm gì?
@@ -47,3 +49,6 @@ Mật độ 72 pixel 2048png. 8bit màu up = trình duyệt
 * Trên smartphone Android bạn có thể tham khảo như:  [Photo Editor](https://play.google.com/store/apps/details?id=com.iudesk.android.photo.editor&hl=vi&gl=US),...
 * Trên Web: trang web iloveimg.com, squoosh.app,..
 * Trên máy tính có thể dùng Lightroom, Photoshop,...
+
+### Bài viết tham khảo
+* [How Many Megapixels Do You Really Need?](https://www.tomsguide.com/us/how-many-megapixels-you-need,review-1974.html)
