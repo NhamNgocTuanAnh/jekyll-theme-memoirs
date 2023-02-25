@@ -52,3 +52,13 @@ Mật độ 72 pixel 2048png. 8bit màu up = trình duyệt
 
 ### Bài viết tham khảo
 * [How Many Megapixels Do You Really Need?](https://www.tomsguide.com/us/how-many-megapixels-you-need,review-1974.html)
+
+Và đó là cách đăng ảnh nét và chú giải tại sao lại vậy? Nhưng điều quan trọng nhất là tay nghề của bạn. Mình có viết một số bài viết. Bạn có thể tham khảo tại đây...
+
+{% include post-by-url.html post_src="nhiep-anh/10-kinh-niem-xuong-mau-khi-chup-anh-nu-p1" %}
+
+Và đây...
+
+{% include post-by-url.html post_src="nhiep-anh/10-kinh-niem-xuong-mau-khi-chup-anh-nu" %}
+
+
