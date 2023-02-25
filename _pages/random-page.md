@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thêm bài viết v4
+title: Chuyển trang
 permalink: /blog/random
 ---
 
