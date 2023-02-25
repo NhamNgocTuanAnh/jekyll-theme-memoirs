@@ -4,7 +4,7 @@ title: 'Ống kính giả rẻ cho Mirrorless aps-c Meike 25mm F1.8/ Góc rộng
 author: sal
 categories: [ Nhiếp ảnh ]
 tags: [ reviews ]
-image: assets/images/ngam/unwanted-facebook-hero.webp
+image: assets/images/2023/reviews/avt/meike-25mm-f18-canon-m.webp
 rating: 5
 lazyimages: "enabled"
 isGithubComments: false
@@ -30,9 +30,7 @@ permalink: nhiep-anh/reviews/danh-gia-meike-25mm-f18-ong-kinh-mirrorless-apsc-gi
 
 Hôm nay mình xin chia sẻ đôi điều trải nghiệm chiếc ống kính Meike 25 mm f1.8. Meike 25 mm f1.8 là ống kính Homemade Focus( lấy nét tay) do hãng Meike của Hongkong sản xuất. Có 4 phiên bản cho 4 hệ máy là Canon, Sony, Nikon và Fuji. Giá của len này là1.700.000 đồng cho hàng mới, phù hợp với các canoner ít tiền như mình 😁.
 
-Nhìn chung là len này khá nét, ngay cả khi ở khẩu1.8 vẫn nét chấp nhận được, và bokeh khá đẹp, mình chỉ là newbie, thấy trên diễn đàn chưa có đánh giá về lens này nên muốn chia sẻ lại một vài hình ảnh với nó chứ không phải chuyên gia nên các bác chém nhẹ tay D
-
-Khi lắp trên Body Canon M3, Meike 25 mm F/1.8 cho một ngoại hình khá bắt mắt mà vẫn nhỏ gọn, ở đây mình gắn thêm hood kiểu Leica cho lens chứ lens mua mới sẽ không có hood này.
+Nhìn chung là len này khá nét, ngay cả khi ở khẩu1.8 vẫn nét chấp nhận được, và bokeh khá đẹp, mình chỉ là newbie, thấy trên diễn đàn chưa có đánh giá về lens này nên muốn chia sẻ lại một vài hình ảnh với nó chứ không phải chuyên gia nên các bác chém nhẹ tay.😚
 
 #### 1\. CẤU TẠO VÀ THIẾT KẾ
 
@@ -143,5 +141,14 @@ Trích nguồn
 *   [**Meike 1.8 / 25 Multi Coated Review**](https://radojuva.com/en/2021/06/meike-f-1-8-25mm-lens-review/)
 *   [**Meike 25mm F1.8 - A £65 Lens Review**](https://www.derekclarkphotography.com/blog/meike-25mm-f18-a-65-lens-review)
 *   [**Meike 25mm f1.8 (APS-C) Lens Review**](https://dpture.com/meike-25mm-f1-8-lens-review/)
+
+<p style="text-align:center; ">
+<picture>
+  <source data-srcset="../../assets/images/2023/reviews/avt/meike-25mm-f18-canon-m.webp" />
+  <img class="responsive" data-lowsrc="../../assets/images/2023/reviews/avt/meike-25mm-f18-canon-m.webp" alt="Chụp cận cảnh lens Meike 25mm" data-sizes="auto" loading="lazy"/>
+  Khi lắp trên Body Canon M3, Meike 25 mm F/1.8 cho một ngoại hình khá bắt mắt mà vẫn nhỏ gọn.
+</picture>
+</p>
+Bạn có thể gắn thêm hood kiểu Leica - sẽ trông cổ điển hơn nữa.♥♥♥
 
 Vì lens không có EXIF, mình không thể nhớ rõ thông số chính xác khi chụp những bức ảnh. Nếu bạn có những thắc mắc về các bức ảnh, hoặc muốn hỏi mình thêm về chi tiết, vui lòng để lại lời nhắn!.
