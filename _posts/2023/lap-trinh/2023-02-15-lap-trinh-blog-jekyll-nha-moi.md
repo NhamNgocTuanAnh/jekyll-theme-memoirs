@@ -37,10 +37,7 @@ sudo apt-get install php libapache2-mod-php -y # cài php
 sudo apt-get install mysql-server php-mysql -y
  # cài mysql
 
-
 ...
-
-
 ```
 
 Mọi chuyện thật nhanh dễ dàng. http://localhost - _**Dễ**_
@@ -97,7 +94,7 @@ Nhưng rồi mình vẫn thấy Con web nhanh chết, chậm load(xuống 5s)-**
 
 <hr>
 
-Khách hàng sẽ thích thú có một cái trang admin, đăng nhập vào và được chủ động cập nhập theo ý thích hơn, một editor đầy đủ tính năng chỉnh màu chữ, chèn hình, xử lý hình, thay đổi font chữ to nhỏ, đổi kiểu chữ lung tung ben lên. Static site sẽ không có những thứ đó cho bạn. Mình đã phát triển một công cụ để bạn soạn thảo markdown nhanh. Bạn có thể tham khảo ở [đây](https://anhhangxom.xyz/them-bai-viet)!.
+Một người dùng luôn muốn có một trang web với giao diện admin chuyên nghiệp: biểu đồ cpu,ram chạy nhanh chuyên nghiệp, notify nhảy loạn xạ khi có người comment hay thống kê nhanh lượng người dùng trong vòng một ngày, giao diện kéo thả, viết ở mọi nơi chỉ cần có Internet, và cũng có khi - đó chỉ đơn giản là một editor tính năng tràn trề như chỉnh màu chữ, chèn hình, xử lý hình, font chữ to nhỏ, đổi kiểu chữ bay bướm loạn xạ. Static site sẽ không có những thứ đó cho bạn. Mình đã phát triển một công cụ để bạn soạn thảo markdown nhanh. Bạn có thể tham khảo ở [đây](https://anhhangxom.xyz/them-bai-viet)!.
 
 Hơn nữa có rất ít plugin Jekyll hỗ trợ chính thức trên Github pages. Những tính năng căn bản như contact form, bình luận sẽ phải nhùng từ một bên thứ 3. Tính năng comment mình đã từng dùng diqus - một thời gian trược bị chặn ở VN (khá cay, mình tưởng mình setting nhầm ở đâu), và giờ mình dùng của fb, dù khá hạn chế, và không có thông báo khi có một người nào đó bình luận.
 
