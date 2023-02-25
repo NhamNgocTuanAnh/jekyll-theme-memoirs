@@ -36,12 +36,29 @@ Khi lắp trên Body Canon M3, Meike 25 mm F/1.8 cho một ngoại hình khá b�
 
 #### 1\. CẤU TẠO VÀ THIẾT KẾ
 
-*   Meike 25mm f/1.8 dải tiêu cự ‘Fixed’ 25mm quy đổi 37.5mm trên FullFrame. Sẽ là đa dụng khi bạn có thể chụp ảnh trung cảnh phong cảnh và kiến trúc, nếu muốn chụp toàn cảnh thì bạn phải đi khá xa. Có thể bao quát chủ đề đời thường và chân dung góc rộng hoặc chụp nhóm người. Có thể chụp cận cảnh phong cảnh và kiến trúc hoặc chân dung bán thân do có khẩu độ lớn. Cùng với đó với khoảng cách lấy nét gần nhất 0.25m cũng có thể lấn sang thể lọai ‘Close-up’ .
+*   Meike 25mm f/1.8 dải tiêu cự ‘Fixed’ 25mm quy đổi 37.5mm trên FullFrame. Sẽ là đa dụng khi bạn có thể chụp ảnh trung cảnh phong cảnh và kiến trúc, nếu muốn chụp toàn cảnh thì bạn phải đi khá xa. Có thể bao quát chủ đề đời thường và chân dung góc rộng hoặc chụp nhóm người. Có thể chụp cận cảnh phong cảnh và kiến trúc hoặc chân dung bán thân do có khẩu độ lớn. Cùng với đó với khoảng cách lấy nét gần nhất 0.25m cũng có thể lấn sang thể lọai ‘Close-up’.
+
+<p style="text-align:center; ">
+<picture>
+  <source data-srcset="../../assets/images/2023/reviews/close-up-meike-25mm-f18.webp" />
+  <img class="responsive" data-lowsrc="../../assets/images/2023/reviews/close-up-meike-25mm-f18.webp" alt="Chụp cận cảnh lens Meike 25mm" data-sizes="auto" loading="lazy"/>
+  Close-up với meike 25mm f1.8
+</picture>
+</p>
+
 *   Đó là một ống kính được sản xuất tại Hongkong nặng 192g. Kích thước ‘tiny’ nên chỉ có thể phù hợp nhất trên các dòng canon M, Fuji X-A và X-T 2,3 số và các máy a6x của sony.
 *   Các nhà máy gia công đã rất phát triển. Meike 25mm f.18 được gia công chính xác trên vật liệu thân kết cấu toàn bộ kim loại và học hỏi từ dòng super Takumar lừng danh với cấu trúc bố trí rất khoa học. Lens nguyên khối đẹp và chắc chắn, cho cảm giác cực bền bỉ chứ không cảm giá nhựa rẻ tiền như các dòng lens khác.
 *   Các vòng xoay lấy nét thủ công mượt mà, vòng zoom mượt và hơi mút nên sẽ không bao giờ bị tuột zoom, và đặc biệt là vòng xoay khẩu độ cũng siêu mượt thích hợp cho quay phim.
 
 #### 2\. TÍNH NĂNG & HOẠT ĐỘNG
+
+<p style="text-align:center; ">
+<picture>
+  <source data-srcset="../../assets/images/2023/reviews/phong-canh-meike-25mm-f18.webp" />
+  <img class="responsive" data-lowsrc="../../assets/images/2023/reviews/phong-canh-meike-25mm-f18.webp" alt="Chụp cận cảnh lens Meike 25mm" data-sizes="auto" loading="lazy"/>
+  Hoàng hôn. meike 25mm f1.8
+</picture>
+</p>
 
 *   Ống kính ngàm _Canon M, Nikon 1, m4/3, Fujifilm XF, và Sony E_ / Định dạng APS-C
 *   Lens Meike 25f1.8 có vòng khẩu tròn với hệ thống 9 lá khẩu siêu nhỏ
