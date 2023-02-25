@@ -27,7 +27,10 @@ permalink: lap-trinh/viet-blog-voi-jekyll
 
 Từ một bài viết blogs [Xây dựng websever chỉ với 700k](https://blogkinhnghiem.net/xay-dung-webserver-tu-a-z-su-dung-may-tinh-nhung/) - **phong vũ**, đã nuôi dưỡng trong mình một ước mơ hồi nhỏ là viết, viết những gì mình thích và chia sẽ cho mọi người. Hồi đó mình đã từng tìm hiểu về Wix, bloger hay wordpress.org. Đặc điểm chung của chúng là trả phí hoặc không đc custom giao diện, ít plugin và không đổi được tên miền.
 
-Mình mua 1 orangepi + 1 thẻ nhớ+ 1 vỏ tầm 700k, nguồn điện thoại có sẵn. Do đã biết về linux từ đâu. Việc setup không khó khăn với mình. Lamp - _**My first love**_.
+Mình mua 1 orangepi zero + 1 thẻ nhớ + 1 vỏ tầm 700k, nguồn điện thoại có sẵn. Do đã biết về linux từ đâu. Việc setup không khó khăn với mình. Lamp - _**My first love**_.
+
+{% include lazyload.html image_src="../../assets/images/2023/lap-trinh/orage-pi-zero-by-sever.webp" image_alt="websever với orange pi zero" image_title="sever đầu đời - orangepi zero" %}
+
 
 ```javascript
 sudo apt-get install apache2 -y # cài apache
