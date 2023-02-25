@@ -3,8 +3,8 @@ layout: post
 title: 'Film chụp ảnh nào cho người mới?.'
 author: sal
 lazyimages: "enabled"
-categories: [ Note, Nhiếp ảnh ]
-tags: [ Tra cứu nhanh, nhiếp ảnh]
+categories: [  Nhiếp ảnh ]
+tags: [ tips]
 image: assets/images/nhiepanh/reviews/cuon-phim/mau-phim-Fuji-color-100-chan-dung.webp
 isGithubComments: false
 permalink: nhiep-anh/chon-cuon-phim-dau-tien

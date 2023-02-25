@@ -2,8 +2,8 @@
 layout: post
 title: 'Sử dụng Facebook cá nhân một cách hiệu quả?'
 author: sal
-categories: [ Ngẫm, Note ]
-tags: [ phản biện ]
+categories: [ Tản mạn ]
+tags: [ tips ]
 image: assets/images/ngam/unwanted-facebook-hero.webp
 rating: 5
 lazyimages: "enabled"
