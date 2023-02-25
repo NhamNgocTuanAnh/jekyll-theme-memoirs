@@ -40,7 +40,6 @@ Export ra ảnh đuổi png. Xong đăng thôi😚
 <picture>
   <source data-srcset="../../assets/images/2023/tips/tip-chinh-anh-resize-anh.webp" />
   <img class="responsive" data-lowsrc="../../assets/images/2023/tips/tip-chinh-anh-resize-anh.webp" alt="Chụp cận cảnh lens Meike 25mm" data-sizes="auto" loading="lazy"/><br>
-
 </picture>
 Resize ảnh với Pts. @Hoàng Phúc Foto
 </p>
