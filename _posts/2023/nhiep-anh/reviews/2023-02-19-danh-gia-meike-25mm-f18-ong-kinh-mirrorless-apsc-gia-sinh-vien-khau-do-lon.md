@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ống kính giả rẻ cho Mirrorless aps-c Meike 25mm F1.8/ Góc rộng, khẩu độ lớn, nhỏ, nhẹ'
+title: 'Ống kính giả rẻ cho Mirrorless aps-c Meike 25mm F1.8/Góc rộng, khẩu độ lớn, nhỏ, nhẹ'
 author: sal
 categories: [ Nhiếp ảnh ]
 tags: [ reviews ]
