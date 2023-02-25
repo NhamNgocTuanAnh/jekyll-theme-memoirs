@@ -5,12 +5,50 @@
 {% if page.keywords %}
     <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
 {% endif %}
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/toastr.min.css">
+<script src="{{ site.baseurl }}/assets/js/toastr.min.js"></script>
+<script>
+    var comingFromPost = document.referrer;
+
+    let next_post_url = "";
+    function linkToRandomBlogPost() {
+
+        var allPosts = [
+            {% for post in site.posts %}
+                "{{ post.url }}"{% unless post.previous == nil %},{% endunless %}
+            {% endfor %}
+            ];
+                var allTitlePosts = [
+            {% for post in site.posts %}
+                "{{ post.title }}"{% unless post.previous == nil %},{% endunless %}
+            {% endfor %}
+            ];
+    var i = 0;
+    do {
+        let indexRandomPost = Math.floor(Math.random() * allPosts.length);
+        var randomPostTitle = allTitlePosts[indexRandomPost];
+        var randomPostLink = allPosts[indexRandomPost];
+        i++;}
+
+    while (comingFromPost.includes(randomPostLink) || i > 10)
+    let default_url
+    if (i > 10 && comingFromPost !== '/about-meabout-me') {
+        randomPostLink = '/about-me';}
+
+    if (i > 10 && comingFromPost === '/about-me') {
+        randomPostLink = '/2022-nhin-lai-mot-nam-da-qua'
+        }
+        next_post_url = randomPostLink;
+
+    return randomPostTitle;
+    };
+    </script>
 </head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 
 <body>
-
+    <button id="next-post-active" style="display: none;"></button>
     <button id="scrollToTop"class="glow-on-hover" type="button" style='display: none;'><span>✈️</span></button>
 
     <!-- defer loading of font and font awesome -->
@@ -89,7 +127,7 @@
 
     <script>$(window).on("load",function(a){$("body").removeClass("preloading"),$(".loader").delay(1e3).fadeOut("fast")});</script>
 <script>
-$(window).on("scroll",function(){window.scrollY>window.outerHeight?($("#scrollToTop").addClass("active"),document.getElementById("scrollToTop").style.display="block"):($("#scrollToTop").removeClass("active"),document.getElementById("scrollToTop").style.display="none")}),$("#scrollToTop").on("click",function(){$("html, body").animate({scrollTop:0},500)});
+$(window).on("scroll",function(){window.scrollY>window.outerHeight?($("#scrollToTop").addClass("active"),document.getElementById('next-post-active').onclick= function(){window.location.replace(g || "{{ site.baseurl }}");},document.getElementById("scrollToTop").style.display="block"):($("#scrollToTop").removeClass("active"),document.getElementById("scrollToTop").style.display="none")}),$("#scrollToTop").on("click",function(){$("html, body").animate({scrollTop:0},500)});
 </script>
 <!-- Hiệu ứng kéo trang lên trên -->
     <style>#scrollToTop{position:fixed;bottom:3rem;right:3rem;box-shadow:0 0 14px -5px rgba(0,0,0,0.5);display:flex;font-family:"Arial";align-items:center;justify-content:center;margin-bottom:-12rem;transition:margin-bottom .2s}#scrollToTop.active{margin-bottom:0}#scrollToTop:before{content:'';background:linear-gradient(45deg,red,#ff7300,#fffb00,#48ff00,#00ffd5,#002bff,#7a00ff,#ff00c8,red);position:absolute;top:-2px;left:-2px;background-size:400%;z-index:-1;filter:blur(5px);width:calc(100% + 4px);height:calc(100% + 4px);animation:glowing 20s linear infinite;opacity:0;transition:opacity .3s ease-in-out}#scrollToTop:active:after{background:transparent}#scrollToTop:hover:before{opacity:1}#scrollToTop:after{z-index:-1;content:'';position:absolute;left:0;top:0}@keyframes glowing{0%{background-position:0 0}50%{background-position:400% 0}100%{background-position:0 0}}</style>
@@ -115,6 +153,10 @@ function nocontext(t){if("IMG"==(null==t?event.srcElement.tagName:t.target.tagNa
 
 <script type="text/javascript">
 function downloadJsAtOnload(){setTimeout(function(){var o=document.createElement("script");o.setAttribute("data-ad-client","ca-pub-8920573839255504"),o.async=!0,o.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",document.body.appendChild(o)},5e3)}window.addEventListener?window.addEventListener("load",downloadJsAtOnload,!1):window.attachEvent?window.attachEvent("onload",downloadJsAtOnload):window.onload=downloadJsAtOnload,window.addEventListener("load",()=>{var o=document.querySelectorAll("ins.ADSENSE");Array.from(o).forEach(o=>{var d=o.parentElement;"none"===window.getComputedStyle(d).getPropertyValue("display")?o.remove():(o.classList.remove("ADSENSE"),o.classList.add("adsbygoogle"),(adsbygoogle=window.adsbygoogle||[]).push({}))})});
+</script>
+<!--Chạy next post-->
+<script>
+$(document).ready(function(){toastr.options={closeButton:!0,debug:!1,newestOnTop:!1,progressBar:!1,positionClass:"toast-bottom-right",preventDuplicates:!1,showDuration:"300",hideDuration:"1000",timeOut:"10000",extendedTimeOut:"1000",showEasing:"swing",hideEasing:"linear",showMethod:"fadeIn",hideMethod:"fadeOut"},toastr.options.onclick=function(){window.location.replace(next_post_url||"{{ site.baseurl }}")},setTimeout(function(){toastr.info(linkToRandomBlogPost(),"Next post:")},2e3),$("#linkButton").click(function(){toastr.success(linkToRandomBlogPost())})});
 </script>
 
 <style>

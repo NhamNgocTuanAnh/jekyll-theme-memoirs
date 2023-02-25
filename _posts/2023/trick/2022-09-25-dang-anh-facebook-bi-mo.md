@@ -18,7 +18,7 @@ date: 2023-02-19 10:01:10 +0700
 permalink: nhiep-anh/tip-trick/dang-anh-facebook-bi-mo
 ---
 
-Bật HD trên iphone, đăng ảnh trên máy tính mà ảnh vẫn bị mờ là sao?
+Bật HD trên iphone, hay edit xong up từ máy tính nét căng, đường truyền mạng ổn định mà ảnh vẫn bị mờ là vì sao?
 
 Vì kích cỡ ảnh cho phép đăng trên facebook:
 * Kích thước max: 2048px x 2048px
