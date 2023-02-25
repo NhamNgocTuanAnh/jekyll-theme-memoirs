@@ -25,7 +25,10 @@ Vì kích cỡ ảnh cho phép đăng trên facebook:
 * Kích thước min: 168px x 168px
 * Tỷ lệ khung hình: 1:1
 
-Bạn chưa hiểu gì đúng không? Giờ chiếc điện thoại của bạn có 48 MP. Ảnh 48 MP phải đạt mật độ điểm ảnh lên đến 48 triệu pixel và kích cỡ 6000 x 8000. Và bùm bạn hiểu ra là 6000 nó gấp gần 3 lần 2048. Ảnh của bạn mặc định sẽ bị nén bởi thuật toán của fb, và thường nó nén không nhân từ, ảnh bạn chỉnh suốt 3 tiếng, zoom từng lỗ chân lông sẽ bị vỡ toác khi đăng.
+Bạn chưa hiểu gì đúng không? Giờ chiếc điện thoại của bạn có 48 MP. Ảnh 48 MP đạt tới mật độ điểm ảnh rất cao lên đến 48 triệu pixel và kích cỡ 6000 x 8000.
+> Và
+
+**Bùm** bạn hiểu ra là 6000 nó gấp gần 3 lần 2048. Ảnh của bạn mặc định sẽ bị nén bởi thuật toán của fb, và thường nó nén không nhân từ, ảnh bạn chỉnh suốt 3 tiếng, zoom từng lỗ chân lông sẽ bị vỡ toác khi đăng.
 
 > ༼ つ ◕_◕ ༽つ Vậy phải làm gì?
 
