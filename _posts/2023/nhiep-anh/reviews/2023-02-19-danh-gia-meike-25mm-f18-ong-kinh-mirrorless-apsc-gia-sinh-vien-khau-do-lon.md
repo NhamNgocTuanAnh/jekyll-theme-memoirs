@@ -19,13 +19,9 @@ permalink: nhiep-anh/reviews/danh-gia-meike-25mm-f18-ong-kinh-mirrorless-apsc-gi
 ---
 
 **Giá Meike 25mm F1.8:** 1 triệu 8 hàng mới(giá năm 2022)
-
 **Năm:** 2018
-
 **Đối tượng:** nhiếp ảnh nghiệp dư, người chơi ảnh bình dân, học sinh, sinh viên
-
 **Phù hợp:** chụp chân dung không chuyên, đường phố, phong cảnh
-
 **Pro nhất khi dùng**: Chụp chuyển động nhanh, chụp thể thao gần, nhưng nơi thiếu sáng hành động mạnh như (đám cưới, tiệc), Professional yêu cầu chất lượng ảnh siêu cao.😎
 
 Hôm nay mình xin chia sẻ đôi điều trải nghiệm chiếc ống kính Meike 25 mm f1.8. Meike 25 mm f1.8 là ống kính Homemade Focus( lấy nét tay) do hãng Meike của Hongkong sản xuất. Có 4 phiên bản cho 4 hệ máy là Canon, Sony, Nikon và Fuji. Giá của len này là1.700.000 đồng cho hàng mới, phù hợp với các canoner ít tiền như mình 😁.
