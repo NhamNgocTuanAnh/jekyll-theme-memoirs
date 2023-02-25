@@ -119,7 +119,7 @@ Meike 25 F1.8 có thể được gắn hàng ngáy trên máy ảnh của bạn.
 *   Độ nét cở rìa ảnh F1.8 kém
 *   Rìa và góc ảnh có quanh sai lớn
 *   Ánh sáng mạnh khuyến nghị có hood vì góc rộng dễ flare
-
+{% include lazyload.html image_src="../../assets/images/see-suny.webp" image_alt="meike 25mm f1.8 - hoàng hôn" image_title="Chiều hè. @Hồ Linh Đàm - Hà Nội" %}
 Khẩu độ lớn F/1.8 và tiêu cự 25mm mang lại cho bạn khả năng hầu như không bị rung tay kể cả khi bạn để tốc độ chụp từ 1/20-1/30s, điều này giúp bạn không phải bù sáng bằng Iso cao - ảnh ít noise hơn, phông boker đẹp hơn - pro hơn.
 
 Với tầm giá 1,7 triệu cho lens mới và không cần ngàm chuyển, một khẩu độ lớn, góc rộng 25mm phù hợp với nhiều thể loại ảnh trong cuộc sống hàng ngày, nhỏ gọn , chất lượng khá . Meike 25mm F/1.8 là một lens rất đáng tiền nếu bạn đang tìm kiếm một giải pháp giá rẻ mà vẫn thỏa mãn được những nhu cầu chụp của bản thân. Đây cũng là một lựa chọn tốt cho những bạn là người mới, một người du lịch, một người nào đó cổ điển📷.

@@ -1,0 +1,35 @@
+---
+layout: default
+title: Thêm bài viết v4
+permalink: /blog/random
+---
+
+<head>
+<script>
+var comingFromPost = document.referrer;
+
+function linkToRandomBlogPost() {
+	var allPosts = [{% for post in site.posts %}
+      "{{ post.url }}"{% unless post.previous == nil %},{% endunless %}
+
+    {% endfor %}];
+
+var i = 0;
+do {
+	var randomPostLink = allPosts[Math.floor(Math.random() * allPosts.length)]; i++;}
+while (comingFromPost.includes(randomPostLink) || i > 10)
+
+if (i > 10 && comingFromPost !== '/blog/Getting-Random-Post-in-Jekyll') {
+	randomPostLink = '/blog/Getting-Random-Post-in-Jekyll';}
+
+if (i > 10 && comingFromPost === '/blog/Getting-Random-Post-in-Jekyll') {
+	randomPostLink = '/blog/Creating-a-Tag-Page-with-Jekyll'
+	}
+
+return randomPostLink;
+}
+
+location.replace(linkToRandomBlogPost())
+
+</script>
+</head>
