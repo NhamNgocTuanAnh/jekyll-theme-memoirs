@@ -18,8 +18,6 @@ date: 2023-02-22 10:01:10 +0700
 permalink: nhiep-anh/reviews/danh-gia-meike-25mm-f18-ong-kinh-mirrorless-apsc-gia-sinh-vien-khau-do-lon
 ---
 
- **Đánh giá: Tốt**
-
 **Giá Meike 25mm F1.8:** 1 triệu 8 hàng mới(giá năm 2022)
 
 **Năm:** 2018
