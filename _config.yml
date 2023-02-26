@@ -14,7 +14,7 @@ timezone: Asia/Ho_Chi_Minh
 include: ["_pages"]
 permalink: /:title/
 email: tuananhtlu9366@gmail.com
-disqus: 'Anh Hàng Xóm'
+disqus: 'anhhangxom'
 # Authors
 authors:
   sal:
