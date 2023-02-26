@@ -16,6 +16,7 @@ group :jekyll_plugins do
     gem 'jekyll-redirect-from'
     gem 'jekyll-minifier'
     gem 'jekyll-toc'
+
 end
 
 gem "webrick", "~> 1.7"
