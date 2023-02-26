@@ -14,8 +14,7 @@ timezone: Asia/Ho_Chi_Minh
 include: ["_pages"]
 permalink: /:title/
 email: tuananhtlu9366@gmail.com
-disqus:
-  shortname: Anh Hàng Xóm
+disqus: 'Anh Hàng Xóm'
 # Authors
 authors:
   sal:
