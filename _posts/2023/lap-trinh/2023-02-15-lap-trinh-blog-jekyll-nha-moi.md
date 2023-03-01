@@ -8,7 +8,7 @@ image: assets/images/2023/lap-trinh/avts/jekyll-viet-blog-avt.webp
 rating: 5
 lazyimages: "enabled"
 isGithubComments: false
-description: Jekyll thật tuyệt vời để tạo các website cá nhân, nhưng bông hồng nào mà chả có gai!. Bài viết này mình muốn hướng đến các bạn đã có hiểu biết về phát triển web.
+description: Jekyll thật tuyệt vời để tạo các website cá nhân, nhưng bông hồng nào mà chả có gai!. Bài viết này mình muốn hướng đến các bạn đã có hiểu biết về phát triển web. Các bạn beginer hay các bạn có nhu cầu làm một blog cá nhân có thể tham khảo để hiểu rõ ưu nhược điểm của Wordpress cũng như Jekyll
 adsense: "enabled"
 keywords:
   - Viết blog cho lập trình viên
@@ -17,7 +17,10 @@ keywords:
 date: 2023-02-15 10:01:10 +0700
 permalink: lap-trinh/viet-blog-voi-jekyll
 ---
-**_Lưu ý_**: Bài viết này mình muốn hướng đến các bạn đã có hiểu biết về phát triển web. Jekyll thật tuyệt vời để tạo các website cá nhân, nhưng bông hồng nào mà chả có **gai**!.
+**_Lưu ý_**: Bài viết này mình muốn hướng đến các bạn đã có hiểu biết về phát triển web.
+Các bạn beginer hay các bạn có nhu cầu làm một blog cá nhân có thể tham khảo để hiểu rõ ưu nhược điểm của Wordpress cũng như Jekyll.
+
+>Jekyll thật tuyệt vời để tạo các website cá nhân, nhưng bông hồng nào mà chả có **gai**!.
 
 <p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Mục lục</p>
 * TOC
