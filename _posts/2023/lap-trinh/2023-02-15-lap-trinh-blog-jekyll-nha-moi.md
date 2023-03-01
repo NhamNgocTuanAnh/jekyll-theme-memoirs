@@ -8,7 +8,7 @@ image: assets/images/2023/lap-trinh/avts/jekyll-viet-blog-avt.webp
 rating: 5
 lazyimages: "enabled"
 isGithubComments: false
-description: Bài viết này mình muốn hướng đến các bạn đã có hiểu biết về phát triển web. Jekyll thật tuyệt vời để tạo các website cá nhân, nhưng bông hồng nào mà chả có gai!.
+description: Jekyll thật tuyệt vời để tạo các website cá nhân, nhưng bông hồng nào mà chả có gai!. Bài viết này mình muốn hướng đến các bạn đã có hiểu biết về phát triển web.
 adsense: "enabled"
 keywords:
   - Viết blog cho lập trình viên
