@@ -14,6 +14,8 @@ keywords:
 date: 2022-04-29 11:04 +0200
 ---
 
+> Bài viết đang trong quá trình phát triển, vui lòng quay lại sau!!!😅
+
 Nhóm máu O được miêu tả là rakkanshugi (楽観主義) – người tích cực. Họ khá là dễ tính, có khả năng lãnh đạo và có thể tạo nên bầu không khí cho một nhóm người. Họ không quan tâm nhiều đến những chi tiết vụn vặt, vì thế họ có những hành vi đôi khi khiến người nhóm A nhạy cảm. Mặc dù đôi lúc họ không tuân thủ giờ giấc, nhóm máu O cực kỳ linh hoạt để có thể ứng phó với những tình huống bất ngờ xảy ra.
 
 Người có nhóm máu O khi còn nhỏ thường là đứa trẻ ngoan hiền, biết nghe lời. Nhưng khi lớn lên, họ sẽ từ từ thể hiện bản thân, khẳng định cái tôi và ngày càng trở nên cứng cỏi, có phần ương bướng và cố chấp. Khao khát được tỏa sáng và lòng tự trọng của họ ngày càng cao.

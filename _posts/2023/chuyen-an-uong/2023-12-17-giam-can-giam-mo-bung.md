@@ -19,6 +19,8 @@ keywords:
 date: '2019-11-30'
 ---
 
+> Bài viết đang trong quá trình phát triển, vui lòng quay lại sau!!!😅
+
 Thay vì phải thực hiện bất cứ chế độ ăn uống hay tập luyện **quá khắc nghiệt**. Bạn chỉ áp dụng phương pháp cải thiện vóc dáng **an toàn**, **chậm mà chắc**, bao gồm **thay đổi chế độ ăn** và **chăm chỉ vận động**, **tập luyện nhẹ nhàng** trong thời gian đầu và tăng dần theo khả năng thích ứng của cơ thể.
 
 Trong đó, với chế độ ăn, bạn hãy **hạn chế** tinh bột và **tăng cường** uống nhiều nước để tránh ăn khi không đói, đồng thời đào thải độc tố, giúp **đẹp da**.

@@ -19,6 +19,8 @@ keywords:
 date: '2019-11-30'
 ---
 
+> Bài viết đang trong quá trình phát triển, vui lòng quay lại sau!!!😅
+
 Sao bạn không thử hoàn thiện bản thân. Giảm 15kg, dậy sớm 5h sáng, ngủ trước 11h, mỗi tuần một cuốn sách, ... vvv Nghe khó thế😗. Vậy hãy bắt đầu từ những điều đơn giản, dễ dàng và quen thuộc nhé
 
 1. Xác lập vị trí hiện tại và nơi bạn muốn đến

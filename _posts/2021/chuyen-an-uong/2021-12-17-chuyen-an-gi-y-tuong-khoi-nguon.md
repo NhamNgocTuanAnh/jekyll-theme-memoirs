@@ -10,6 +10,8 @@ rating: 4.5
 comments: true
 ---
 
+> Bài viết đang trong quá trình phát triển, vui lòng quay lại sau!!!😅
+
 2019, năm 2 đại học. Tôi bị stress rất nặng, tôi đã ăn ăn và ăn không ngừng nghỉ. Thành quả là tôi đã tăng gần 20 kg. Từ 60kg trước khi học đại học tời gần 80 kg.
 ## Cột mốc
 > Ngày 11 tháng 3 năm 2020, Tổ chức Y tế Thế giới (WHO) ra tuyên bố gọi "COVID-19" là "Đại dịch toàn cầu"
