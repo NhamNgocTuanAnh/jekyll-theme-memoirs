@@ -1,0 +1,49 @@
+<!-- begin post -->
+
+
+{% assign author = site.authors[post.author] %}
+
+<article class="card1 border curve">
+    <div>
+        {% if post.image %}
+
+        {% if site.lazyimages == "enabled" %}
+        <img class="img-thumb lazyimg"
+            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII="
+            data-src="{% if post.image contains " ://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{%
+            endif %}" alt="{{ post.title }}">
+        {% else %}
+        <img class="img-thumb" src="{% if post.image contains " ://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{
+            post.image }}{% endif %}" alt="{{ post.title }}">
+        {% endif %}
+
+        {% endif %}
+    </div>
+
+    <div>
+        <p><strong><a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong></p>
+        <span><b>Author</b>: {{ author.display_name }} - <time>{{ post.date | date: "%-d %B" }}</time></span>
+    </div>
+</article>
+
+<!--
+<link type="text/css" href="{{ site.baseurl }}/assets/css/postbox-embed.css" rel="stylesheet">
+-->
+
+
+
+<!-- end post -->
+
+<script>
+    var cssId = 'postBoxEmbed';  // you could encode the css path itself to generate id..
+    if (!document.getElementById(cssId)) {
+        var head = document.getElementsByTagName('head')[0];
+        var link = document.createElement('link');
+        link.id = cssId;
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = '{{ site.baseurl }}/assets/css/postbox-embed.css';
+        link.media = 'all';
+        head.appendChild(link);
+    }
+</script>

@@ -20,7 +20,11 @@
         {% endfor %}
 
         {% if sameTagCount >= minCommonTags %}
-        {% include postbox.html %}
+        {% if include.is_main =="true" %}
+                {% include postbox.html %}
+        {% else %}
+                {% include postbox-embed.html %}
+        {% endif %}
         {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
         {% if maxRelatedCounter >= maxRelated %}
         {% break %}
@@ -30,6 +34,6 @@
         {% endfor %}
 
 </div></div>
-<style>
+<!-- <style>
 #inner{display:table;margin:0 auto}#outer{width:100%}
-</style>
+</style> -->

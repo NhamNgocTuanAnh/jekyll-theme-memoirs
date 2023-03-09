@@ -121,7 +121,6 @@ Nhược điểm:
   <li>Lỗi viền tím, viền xanh khá nặng – đặc biệt là phần dìa ảnh</li>
   <li>Chỉ hoạt động với lens canon EF</li>
   <li>Hình ảnh không sắc nét như lắp trên một máy fullframe</li>
-  <li>Hình ảnh không sắc nét như lắp trên một máy fullframe</li>
   <li>Bán khó</li>
 </ul>
 
