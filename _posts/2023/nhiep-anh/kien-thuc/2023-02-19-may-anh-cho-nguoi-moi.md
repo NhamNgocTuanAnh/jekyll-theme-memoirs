@@ -14,7 +14,7 @@ keywords:
   - Máy ảnh Entry-level là gì?
   - Tại sao mua máy ảnh cũ
   - Định hướng nhiếp ảnh là gì?
-date: 2023-03-10 10:01:10 +0700
+date: 2021-03-10 10:01:10 +0700
 permalink: nhiep-anh/kien-thuc/tai-sao-khong-nen-mua-may-anh-entry-level
 ---
 
