@@ -67,14 +67,21 @@ Scn, landscape, portrait,...Làm cách nào mà máy chụp được thế nhỉ
 </p>
 
 Có vẻ chấp nhận được mà? Có những sự thật mà hãng không muốn nói với bạn về  dòng máy gắn mác **Entry Level**:
-* Bắt đầu cùng với lens kit: zoom lens - rẻ - 2 khẩu - chụp gì cũng được!!!
-* Báng cầm sẽ nông hơn, thao tác tay lâu sẽ đau.
-* Khó thanh khoản - giá 600d, 40d, 50d nhan nhản, nhưng rất kén người mua.
-* Build kém - tiết kiệm chi phí - nhựa rẻ tiền. Ọp ẹp, đi chụp toàn mấy anh to cao hầm hố(nay mình đỡ khoản tự ti 1 tỵ rùi😎)
-* Không có weather sealing - mà thôi - mình cũng chưa cần(vì đi tà xùa với sapa mình dùng điện thoại😫)
-* Công nghệ bị giới hạn: tốc độ màn trập nhiều dòng chỉ 1/4000s, dòng senior và pro là 1/8000s(Bạn không hiểu gì??? - Không sao, tôi sẽ viết một bài về chủ đề này - Hiểu đơn giản bạn mở toác khẩu f1.8 giữa trời nắng, iso 100 rồi mà vẫn cháy sáng, tay bạn không cầm ND filter - đó là khi bạn thấy 1/8000s quan trọng thế nào)
-* Nút bấm, tiếng màn trập - tin tôi đi - hãy thử mượn ai đó một con máy pro(cũ cũng được) và so sánh với con máy mà hãng nói là entry lever.
-* Máy Entry chỉ nhận được 95% hoặc nhỏ hơn trong viewfinder ảnh mà chúng ta thật sự chụp được. Cùng với đó thấu kính cũng không giống thấu kính làm cho dòng pro. Trong máy mirrorless thì sự chênh lệch còn đến ở độ phủ màu và FPS nữa.
+* Chất lượng hình ảnh:
+  * Bắt đầu cùng với lens kit: zoom lens - rẻ - 2 khẩu - chụp gì cũng được!!!
+* Chất lượng thân vỏ:
+  * Báng cầm sẽ nông hơn, thao tác tay lâu sẽ đau.
+  * Cao su dễ bong, dính vân tay.
+  * [1/4000s](#tocdomanchapgioihan) Tốc độ màn trập nhiều dòng chỉ .
+  * Nút bấm, tiếng màn trập kêu rát.
+  * Không có weather sealing - mà thôi - mình cũng chưa cần(vì đi tà xùa với sapa mình dùng điện thoại😫)
+  * Build kém - tiết kiệm chi phí - nhựa rẻ tiền. Ọp ẹp, đi chụp toàn mấy anh to cao hầm hố(nay mình đỡ khoản tự ti 1 tỵ rùi😎)
+* Khả năng nâng cấp:
+  * Khó thanh khoản - giá 600d, 40d, 50d nhan nhản, nhưng rất kén người mua.
+* Độ tiện dụng khi sử dụng:
+  * Bị cắt giảm ống ngắm gây khó khăn khi chụp trời nắng gắt
+  * Nếu có ống ngắm thì với DSLR thì chỉ nhận đc 95% kích cỡ ảnh thật sự nhận được, cùng với đó thấu kính kèm đó không cao cấp
+  * Nếu là ống ngắm điện tử thì màu sắc có sai lệch, FPS không cao\
 
 {% include post-by-url.html post_src="nhiep-anh/reviews/tam-biet-canon-5d2" %}
 
@@ -121,6 +128,55 @@ Và **cuối cùng**, hầu như đều quay trở về với sự đơn giản,
 
 {% include post-by-url.html post_src="nhiep-anh/canon-g1x-mark-1-nam-2023-hoac-forever-on-chu" %}
 
+Bài viết tham khảo
+
+<ul>
+  <li>
+    <a href="https://www.godandwanderlust.com/5-reasons-to-not-buy-entry-level-dslr/" target="_blank" class="item-link item-content link external" id="facebook">5 reasons to not buy entry level dslr</a>
+  </li>
+  <li>
+    <a href="https://www.quora.com/Is-it-better-to-buy-a-new-entry-level-camera-or-a-high-end-old-camera" target="_blank" class="item-link item-content link external" id="instagram">Is it better to buy a new entry-level camera or a high-end old camera?</a>
+  </li>
+</ul>
+
+
+* [5-reasons-to-not-buy-entry-level-dslr]()
+* [Is it better to buy a new entry-level camera or a high-end old camera?](https://www.quora.com/Is-it-better-to-buy-a-new-entry-level-camera-or-a-high-end-old-camera)
+* [Why We Don’t Recommend Buying a New DSLR Camera](https://www.nytimes.com/wirecutter/blog/we-dont-recommend-buying-a-new-dslr-camera/)
+
+Chú thích trong bài viết:
+<ul>
+  <li>
+<a name="tocdomanchapgioihan"></a>
+Công nghệ bị giới hạn: tốc độ màn trập nhiều dòng chỉ 1/4000s, dòng senior và pro là 1/8000s(Bạn không hiểu gì??? - Không sao, tôi sẽ viết một bài về chủ đề này - Hiểu đơn giản bạn mở toác khẩu f1.8 giữa trời nắng, iso 100 rồi mà vẫn cháy sáng, tay bạn không cầm ND filter - đó là khi bạn thấy 1/8000s quan trọng thế nào)
+</li>
+</ul>
+
 <style>
 iframe{margin:auto;display:block}.video-container{position:relative;padding-bottom:56.25%}.video-container iframe{position:absolute;top:0;left:0;width:100%;height:100%}.video{aspect-ratio:16/9;width:100%}
 </style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js"></script>
+
+<script>
+var root_url = window.location.origin;
+$('body').on('click', (event) => {
+  event.preventDefault();
+  granny = event.target.parentNode.parentNode;
+  target = event.target;
+  if (granny.id) {
+    console.log("granny's id: " + granny.id + "\nhref property: " + granny.href + "\nhref attribute: " + granny.getAttribute("href"));
+  }
+  if (target.id) {
+    console.log("target id: " + target.id + "\nhref property: " + target.href + "\nhref attribute: " + target.getAttribute("href"));
+
+    var encrypted = CryptoJS.AES.encrypt(
+           (target.getAttribute("href")).toString(), "1234"
+        );
+  window.location.href =[root_url,"/redirect?url=",encrypted].join('');
+
+  }
+  if (target.id === "clear"){
+    console.clear();
+  }
+});
+</script>
