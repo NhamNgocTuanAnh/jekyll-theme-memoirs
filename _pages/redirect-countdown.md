@@ -7,27 +7,14 @@ permalink: /redirect
 
 <!-- Redirection Counter -->
 <script type="text/javascript">
-
-  var count = 26; // Timer
-    const queryString = window.location.search;
-    const urlParams = new URLSearchParams(queryString);
-    var redirect = (urlParams.get('url')).toString();
-  function countDown() {
-    var timer = document.getElementById("timer"); // Timer ID
-    if (count > 0) {
-      count--;
-      timer.innerHTML = "This page will redirect in " + count + " seconds."; // Timer Message
-      setTimeout("countDown()", 1000);
-    } else {
-      window.location.href = redirect;
-    }
-  }
+var count=26;const queryString=window.location.search,urlParams=new URLSearchParams(queryString);var redirect=urlParams.get("url").toString();function countDown(){var n=document.getElementById("timer");0<count?(count--,n.innerHTML="This page will redirect in "+count+" seconds.",setTimeout("countDown()",1e3)):window.location.href=redirect}
 </script>
+
+<link rel="icon" href="{{ site.baseurl }}/assets/images/logo.webp">
 
 <div id="master-wrap">
   <div id="logo-box">
     <div class="animated fast fadeInUp">
-      <div class="icon"></div>
       <h1>Trang điều hướng</h1>
     </div>
     <div class="notice animated fadeInUp">
@@ -43,22 +30,11 @@ permalink: /redirect
       <p class="copyright">&copy; {{ site.time | date: "%Y" }} {{ site.name }}</p>
     </div>
   </div>
-
 </div>
 
 
 <style>
-    /*! Reset: normalize.css v3.0.2 | MIT License | git.io/normalize */
 
-html {
-  font-family: sans-serif;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%
-}
-
-body {
-  margin: 0
-}
 
 article,
 aside,
@@ -471,10 +447,14 @@ h1 {
   }
 }
 
-.icon {
-  background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA4NDEuOSAxMTkwLjYiPjxwYXRoIGQ9Ik01NzMuMiAzNzMuNmwtMTguOS0xOC45TDM5Ni41IDUxNGwtODItODJMMjk3LjIgNDUxbDk5LjQgOTkuM0w1NzMuMiAzNzMuNnpNNzA1LjcgNDU1LjdWMTgyLjdIMTM3Ljh2MjcyLjlMOC40IDUwOS4zdjQ5OC41aDgyNS4xVjUwOS4zTDcwNS43IDQ1NS43ek03OTQuMSA1MjAuM2wtODguMyA1NS4ydi05MS41TDc5NC4xIDUyMC4zek02ODAuNCAyMDkuNnYzODMuM0w0MjEuNyA3NTMuOCAxNjMgNTkyLjlWMjA5LjZINjgwLjR6TTEzNy44IDU3NS42bC04OC40LTU1LjIgODguMy0zNi4zTDEzNy44IDU3NS42IDEzNy44IDU3NS42ek0zNS4zIDk4Mi41VjU0MC45bDM4Ni41IDI0NC41IDM4Ni40LTI0M3Y0NDEuN0gzNS4zVjk4Mi41ek0xMy40IDk5OC42bDQwOC40LTIxMi4yTTQyMi42IDc4Ni41TDgzMSA5OTguNyIgc3R5bGU9InN0cm9rZS13aWR0aDoyMDtzdHJva2U6IzAwMCIvPjwvc3ZnPg==) no-repeat center center;
-  height: 128px;
-  margin: auto;
-  width: 90px;
-}
 </style>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-192636660-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-192636660-1');
+</script>

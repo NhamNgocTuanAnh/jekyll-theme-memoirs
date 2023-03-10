@@ -54,7 +54,7 @@ Thường thì những người mới tập chơi thì không bao giờ dám - h
 <p style="text-align:center; ">
 <picture>
   <source data-srcset="../../assets/images/2023/reviews/canon-700d-vong-xoay.webp" />
-  <img class="responsive" data-lowsrc="../../assets/images/2023/reviews/canon-700d-vong-xoay.webp" alt="Chụp cận cảnh lens Meike 25mm" data-sizes="auto" loading="lazy"/><br>
+  <img class="responsive" data-lowsrc="../../assets/images/2023/reviews/canon-700d-vong-xoay.webp" alt="vòng chế độ cano 700d" data-sizes="auto" loading="lazy"/><br>
   Mình đã từng bị mê hoặc bởi magic từ vòng xoay này
 </picture>
 </p>
@@ -64,7 +64,7 @@ _Scn, landscape, portrait,..._ Làm cách nào mà máy chụp được thế nh
 <p style="text-align:center; ">
 <picture>
   <source data-srcset="../../assets/images/2023/reviews/canon-m10.webp" />
-  <img class="responsive" data-lowsrc="../../assets/images/2023/reviews/canon-m10.webp" alt="Chụp cận cảnh lens Meike 25mm" data-sizes="auto" loading="lazy"/>
+  <img class="responsive" data-lowsrc="../../assets/images/2023/reviews/canon-m10.webp" alt="Lược bỏ nút bấm canon m10" data-sizes="auto" loading="lazy"/>
   Canon M10 - lược bỏ gần như toàn bộ nút bấm - bỏ cả Jack tai nghe luôn🤷‍♂️
 </picture>
 </p>
@@ -98,11 +98,11 @@ Mong bài viết đã cho bạn cái nhìn về thị trường nhiếp ảnh. �
 <picture>
   <source data-srcset="../../assets/images/2023/reviews/may-anh-nguoi-moi.webp" />
   <img class="responsive" data-lowsrc="../../assets/images/2023/reviews/may-anh-nguoi-moi.webp" alt="mua bán máy ảnh cũ trên mạng" data-sizes="auto" loading="lazy"/>
-  Hình bóng của mình vài năm trước.
+  <br><br>Hình bóng của mình vài năm trước.
 </picture>
 </p>
 
-Mình không hề nói xấu về những chiếc máy entry lever. Mình bắt đầu với canon 700d. Mình rất muốn chia sẻ với các bạn cái gọi là "Định hướng nhiếp ảnh". Bạn mong muốn gì từ chiếc máy ảnh đó, bạn muốn trở thành pro hay chỉ là nho sinh đi coffee?. Mong các bạn sẽ không bị phí tiền như mình. 🤟🤟 <br><br>
+Mình không hề nói xấu về những chiếc máy entry lever. Mình bắt đầu với canon 700d. Mình rất muốn chia sẻ với các bạn cái gọi là "Định hướng nhiếp ảnh". Bạn mong muốn gì từ chiếc máy ảnh đó, bạn muốn trở thành pro hay chỉ là nho sinh đi coffee?. Thường thì máy dòng Entry Level hay đi với lens kit, và thường là crop. Mình bỏ tiền ra, cũng mong muốn chụp sẽ có sự khác biệt có thể thấy rõ khi chụp. Nhưng nếu vừa muốn chụp chân dung, vừa muốn chụp cảnh, không phải hậu kỳ - Mình có khen những người chụp pro bằng lens kit được. Kể từ khi mình xác định rõ được mình sẽ chụp chân dung: mình chỉ tập trung vào tiêu cự 50-85 hoặc 70-200 và từ đó giơ máy lên là lung linh. Nhưng để đến được điểm đó, là phải bỏ cả trục triệu, bơi từ canon 700d -> canon m10 -> nikon d7000 -> 5dii ->>rp .Mong các bạn sẽ xác định rõ được nhu cầu chụp, để không bị phí tiền như mình. 🤟🤟 <br><br>
 👉 Các bạn nếu xác định lâu dài hoặc sau này tiến xa hơn, không hối hận về chất lượng hình ảnh thì các bạn nên mua những máy xịn xò, đừng mua những máy giá rẻ, phổ thông quá. <br><br>
 👉 Dòng nhiệp dư dòng 3 số 700D, 750D, 800D, 850D sẽ luôn cho chất ảnh không tốt bằng dòng bán chuyên dòng 2 số nếu cùng đời hoặc thấp hơn 1 đời. <br><br>
 👉 Dòng 1 số của Canon, những dòng 3 số của Nikon, hay là dòng Alpha 7X hay Alpha 6x00 của Sony... Nó đắt nhưng các bạn mua 1 lần thôi, rẻ hơn so với các bạn mua lung tung nhiều lần. (cuộc đời thăng trầm của mình ca 700d - ca m10 - ni d7000 - ca 5dii- ca rp + ca g1x - chưa có dấu hiệu dừng😗
@@ -165,24 +165,8 @@ iframe{margin:auto;display:block}.video-container{position:relative;padding-bott
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js"></script>
 
+<!--redirect-->
+
 <script>
-var root_url = window.location.origin;
-$('body').on('click', (event) => {
-  event.preventDefault();
-  granny = event.target.parentNode.parentNode;
-  target = event.target;
-  if (granny.id) {
-    console.log("granny's id: " + granny.id + "\nhref property: " + granny.href + "\nhref attribute: " + granny.getAttribute("href"));
-  }
-  if (target.id) {
-    console.log("target id: " + target.id + "\nhref property: " + target.href + "\nhref attribute: " + target.getAttribute("href"));
-
-    var encrypted = encodeURIComponent((target.getAttribute("href")).toString());
-  window.location.href =[root_url,"/redirect?url=",encrypted].join('');
-
-  }
-  if (target.id === "clear"){
-    console.clear();
-  }
-});
+var root_url=window.location.origin;$("body").on("click",t=>{t.preventDefault(),granny=t.target.parentNode.parentNode,target=t.target,granny.id&&console.log("granny's id: "+granny.id+"\nhref property: "+granny.href+"\nhref attribute: "+granny.getAttribute("href")),target.id&&(console.log("target id: "+target.id+"\nhref property: "+target.href+"\nhref attribute: "+target.getAttribute("href")),t=encodeURIComponent(target.getAttribute("href").toString()),window.location.href=[root_url,"/redirect?url=",t].join("")),"clear"===target.id&&console.clear()});
 </script>
