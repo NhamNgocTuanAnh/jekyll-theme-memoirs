@@ -1,10 +1,11 @@
+
 .container {
     width: 96%;
     margin: 1rem auto;
 }
 
 .card1 {
-
+    height: 120px;
     display: flex;
     align-items: center;
     margin-bottom: 1rem;
@@ -59,4 +60,5 @@
         flex-basis: 70%;
     }
 }
+
 

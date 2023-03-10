@@ -34,7 +34,15 @@ var count=26;const queryString=window.location.search,urlParams=new URLSearchPar
 
 
 <style>
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%
+}
 
+body {
+  margin: 0
+}
 
 article,
 aside,
