@@ -8,9 +8,8 @@ image: assets/images/2023/reviews/avt/avt-dslr.webp
 rating: 5
 lazyimages: "enabled"
 isGithubComments: false
-excerpt: chụp
-description: Len này khá nét, ngay cả khi ở khẩu1.8 vẫn nét chấp nhận được, và bokeh khá đẹp. Vòng khẩu, vòng lấy nét siêu mượt
-adsense: "enabled"
+excerpt: Bạn thi thoảng đi quán cà phê, đi phượt chơi bời và muốn chụp ảnh để lưu trữ cũng như chia sẻ kỷ niệm non nước, bạn bè upload lên trên mạng các xã hội. Liệu chiếc DSLR có phù hợp với bạn không? Cùng trả lời câu hỏi nhé!
+description: Bạn thi thoảng đi quán cà phê, đi phượt chơi bời và muốn chụp ảnh để lưu trữ cũng như chia sẻ kỷ niệm non nước, bạn bè upload lên trên mạng các xã hội. Liệu chiếc DSLR có phù hợp với bạn không? Cùng trả lời câu hỏi nhé!
 keywords:
   - DSLR đã chết
   - Mirrorless hay DSLR
@@ -58,7 +57,7 @@ Mình đã đề cập ở trên - máy to nên nặng, vì phải mất thêm m
 </picture>
 </p>
 
-✔ Nếu bạn là một nhiếp ảnh gia chuyên nghiệp hoặc một người với đam mê mãnh liệt với nhiếp ảnh, một máy ảnh DSLR luôn là một trong số các lựa chọn tốt với rất nhiều ưu điểm: Chắc chắn bền bỉ, pin trâu, đi vũ trường hoặc sự kiện do gương lật nên tránh được lazer, hệ ống kính lâu đời nên rẻ.
+✔ Nếu bạn là một nhiếp ảnh gia chuyên nghiệp hoặc một người với đam mê mãnh liệt với nhiếp ảnh, một máy ảnh DSLR luôn là một trong số các lựa chọn tốt với rất nhiều ưu điểm: Chắc chắn bền bỉ, pin trâu, đi vũ trường hoặc sự kiện do gương lật nên tránh được lazer, hệ ống kính lâu đời nên rẻ.\\
 ❌ Nhưng nếu bạn chỉ là một người dùng bình thường, thi thoảng đi quán cà phê, đi phượt chơi bời và muốn chụp ảnh để lưu trữ cũng như chia sẻ kỷ niệm non nước, bạn bè upload lên trên mạng các xã hội, một máy ảnh du lịch PNS hoặc máy ảnh mirrorless sẽ có ưu thế hơn và phù hợp hơn với nhu cầu của bạn.
 Khi mới bắt đầu mọi người hay bị máy móc nghe theo 1 ai đó, mình cũng vậy. Nhưng then chốt là cố gắng cầm máy lên và chụp thật nhiều nhé!
 
@@ -71,4 +70,4 @@ Còn mình,  những tiêu chuẩn về một chiếc máy ảnh bắt buộc ph
 * Càng nhỏ càng tốt, càng tiện càng tốt
 * Có tiền mua thêm phụ kiện
 
-Bạn có thể bắt đầu với FujiFilm, giống như chiếc điện thoại của bạn chụp bằng app VSCO vậy!!😚. Đẹp hơn 100 lần😎
+Bạn có thể bắt đầu với FujiFilm😚, giống như chiếc điện thoại của bạn chụp bằng app VSCO vậy!!. **Đẹp hơn 100 lần😎**
