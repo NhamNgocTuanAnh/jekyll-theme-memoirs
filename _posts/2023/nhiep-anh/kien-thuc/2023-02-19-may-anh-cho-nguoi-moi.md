@@ -28,8 +28,13 @@ permalink: nhiep-anh/kien-thuc/tai-sao-khong-nen-mua-may-anh-entry-level
 
 > Bạn tôi viết bài này, và đã bán máy đi thật nhanh chóng!! **Tại sao vậy???**
 
+<p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Mục lục</p>
+* TOC
+{:toc}
+
 <hr>
 
+### Mở đầu
 Không biết cô gái mới quen có là đối tượng tiềm năng không, nên bạn chỉ đầu tư thi thoảng trà đá, nhắn tin vẩn vơ🤦‍♀️. Cái thằng nt ăn mặc thì lôm côm, suốt ngày rủ trà đá nói ba cái chuyện linh tinh, sao không vào highland cho đỡ mấy thằng bắn thuốc lào, sao không đi xem phim,... Chỉ thế thôi à???🤷‍♀️
 
 Không biết cái thằng nhân sự mới vào, làm thế nào, có pay sớm không? Thôi cấp cho nó cái máy PC cùi cùi thôi. Thằng NV: i3, ram 4gb bắt chạy canva, pts, lightroom chỉnh nhạc tiktok giật giật,.. thôi dẹp đi chỉ thế thôi!!!🤷‍♂️
@@ -64,9 +69,11 @@ _Scn, landscape, portrait,..._ Làm cách nào mà máy chụp được thế nh
 </picture>
 </p>
 
+### Những sự thật mà hãng không muốn nói với bạn
 Có vẻ chấp nhận được mà? Có những sự thật mà hãng không muốn nói với bạn về  dòng máy gắn mác **Entry Level**:
 * Chất lượng hình ảnh:
-  * Bắt đầu cùng với lens kit: zoom lens - rẻ - 2 khẩu - chụp gì cũng được!!!
+  * Bắt đầu cùng với lens kit: zoom lens - rẻ - 2 khẩu - chụp gì cũng [được](../reviews/2023-02-19-tai-sao-toi-khong-con-dung-dslr-nua-2023.md)!!!
+  * Cảm biến không tốt như dòng bán chuyên: độ sắc nét, khử noi, cân bằng trắng,... đều không cho được như kỳ vọng.
 * Chất lượng thân vỏ:
   * Cao su dễ bong, dính vân tay.
   * [1/4000s](#tocdomanchapgioihan) Tốc độ màn trập nhiều dòng chỉ .
@@ -84,13 +91,11 @@ Có vẻ chấp nhận được mà? Có những sự thật mà hãng không mu
 
 {% include post-by-url.html post_src="nhiep-anh/reviews/tam-biet-canon-5d2" %}
 
-Mong bài viết đã cho bạn cái nhìn về thị trường nhiếp ảnh. Để tạo ra chiếc ảnh đẹp, giờ máy ảnh đã có thể làm được điều đó từ rất lâu rồi. Mình không hề nói xấu về những chiếc máy entry lever. Mình bắt đầu với canon 700d. Nhưng mong các bạn sẽ không bị phí tiền như mình. 🤟🤟 \\
-
-👉 Các bạn nếu xác định lâu dài hoặc sau này tiến xa hơn, không hối hận về chất lượng hình ảnh thì các bạn nên mua những máy xịn xò, đừng mua những máy giá rẻ, phổ thông quá. \\
-
-👉 Dòng nhiệp dư dòng 3 số 700D, 750D, 800D, 850D sẽ luôn cho chất ảnh không tốt bằng dòng bán chuyên dòng 2 số nếu cùng đời hoặc thấp hơn 1 đời.\\
-
-👉 Dòng 1 số của Canon, những dòng 3 số của Nikon, hay là dòng Alpha 7X hay Alpha 6x00 của Sony... Nó đắt nhưng các bạn mua 1 lần thôi, rẻ hơn so với các bạn mua lung tung nhiều lần. (cuộc đời thăng trầm của mình ca 700d - ca m10 - ni d7000 - ca 5dii- ca rp + ca g1x - chưa có dấu hiệu dừng😗)\\
+### Tiêu chí chọn lựa máy ảnh
+Mong bài viết đã cho bạn cái nhìn về thị trường nhiếp ảnh. Để tạo ra chiếc ảnh đẹp, giờ máy ảnh đã có thể làm được điều đó từ rất lâu rồi. Mình không hề nói xấu về những chiếc máy entry lever. Mình bắt đầu với canon 700d. Nhưng mong các bạn sẽ không bị phí tiền như mình. 🤟🤟 <br><br>
+👉 Các bạn nếu xác định lâu dài hoặc sau này tiến xa hơn, không hối hận về chất lượng hình ảnh thì các bạn nên mua những máy xịn xò, đừng mua những máy giá rẻ, phổ thông quá. <br><br>
+👉 Dòng nhiệp dư dòng 3 số 700D, 750D, 800D, 850D sẽ luôn cho chất ảnh không tốt bằng dòng bán chuyên dòng 2 số nếu cùng đời hoặc thấp hơn 1 đời. <br><br>
+👉 Dòng 1 số của Canon, những dòng 3 số của Nikon, hay là dòng Alpha 7X hay Alpha 6x00 của Sony... Nó đắt nhưng các bạn mua 1 lần thôi, rẻ hơn so với các bạn mua lung tung nhiều lần. (cuộc đời thăng trầm của mình ca 700d - ca m10 - ni d7000 - ca 5dii- ca rp + ca g1x - chưa có dấu hiệu dừng😗
 
 👉 Nếu có thể, hãy mua máy cũ để có được cấu hình cao hơn.
 
@@ -108,6 +113,7 @@ Trong nhiếp ảnh quan trọng nhất là ánh sáng, bố cục,... mình có
 
 {% include post-by-url.html post_src="nhiep-anh/10-kinh-niem-xuong-mau-khi-chup-anh-nu" %}
 
+### Khẩu khuyết điều khiển máy ảnh
 Giải mã ma thuật - khẩu khuyết:
 
 * Muốn chụp phong cảnh: Khẩu f8 → f11, preset landscape.
@@ -121,7 +127,7 @@ Và **cuối cùng**, hầu như đều quay trở về với sự đơn giản,
 
 {% include post-by-url.html post_src="nhiep-anh/canon-g1x-mark-1-nam-2023-hoac-forever-on-chu" %}
 
-Bài viết tham khảo
+### Bài viết tham khảo
 
 <ul>
   <li>
@@ -135,7 +141,8 @@ Bài viết tham khảo
   </li>
 </ul>
 
-Chú thích trong bài viết:
+### Chú thích trong bài viết
+
 <ul>
   <li>
 <a name="tocdomanchapgioihan"></a>
