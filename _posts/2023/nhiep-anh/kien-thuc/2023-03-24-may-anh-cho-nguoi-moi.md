@@ -141,6 +141,9 @@ Và **cuối cùng**, hầu như đều quay trở về với sự đơn giản,
 
 <ul>
   <li>
+    <a href="https://petapixel.com/mirrorless-vs-dslr/" target="_blank" class="item-link item-content link external" id="facebook">Mirrorless vs DSLR: Which Camera is Best For You?</a>
+  </li>
+  <li>
     <a href="https://lesdeuxpiedsdehors.com/en/which-camera-to-choose-and-how/" target="_blank" class="item-link item-content link external" id="facebook">Which camera to choose, and how to choose it?</a>
   </li>
   <li>
