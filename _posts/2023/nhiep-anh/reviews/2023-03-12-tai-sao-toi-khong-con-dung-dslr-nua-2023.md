@@ -7,7 +7,6 @@ tags: [ reviews ]
 image: assets/images/2023/reviews/avt/avt-dslr.webp
 rating: 5
 lazyimages: "enabled"
-isGithubComments: false
 excerpt: Bạn thi thoảng đi quán cà phê, đi phượt chơi bời và muốn chụp ảnh để lưu trữ cũng như chia sẻ kỷ niệm non nước, bạn bè upload lên trên mạng các xã hội. Liệu chiếc DSLR có phù hợp với bạn không? Cùng trả lời câu hỏi nhé!
 description: Bạn thi thoảng đi quán cà phê, đi phượt chơi bời và muốn chụp ảnh để lưu trữ cũng như chia sẻ kỷ niệm non nước, bạn bè upload lên trên mạng các xã hội. Liệu chiếc DSLR có phù hợp với bạn không? Cùng trả lời câu hỏi nhé!
 keywords:
