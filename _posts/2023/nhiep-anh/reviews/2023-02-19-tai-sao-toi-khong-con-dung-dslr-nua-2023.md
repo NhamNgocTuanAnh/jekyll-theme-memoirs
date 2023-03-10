@@ -31,3 +31,16 @@ Thao tác không tiện, dù trang bị cảm ứng, nhưng thiết bị quá to
 * Hệ lens kồng kềnh:
   * do 1 khoảng chứa gương lật
 * Optical viewfinder (OVF) thật, nhưng không thật: chụp M xong đẹp sì. hơn nữa, nhưng máy Entry chỉ nhận được 95% hoặc nhỏ hơn ảnh mà chúng ta thật sự chụp được. Cùng với đó thấu kính cũng không giống thấu kính làm cho dòng pro
+
+các bạn có điều kiện thì cứ mua hẳn máy mới. Nhưng các bạn sinh viên và các bạn nghiệp dư hoặc bất kỳ ai, bây giờ cũng có rất nhiều cửa hàng lớn bán máy cũ bảo hành đầy đủ và uy tín. Khi mua máy cũ bạn sẽ tiết kiệm chi phí - mình rất thích mua máy cũ - **_cũ người mới ta_**, những chiến binh đã trải qua trinh chiến - cầm vào thôi cũng thấy hào hùng. (Đen có lần mua canon 85mm f1.8 nguyên một cục rễ tre không để ý - **fine**)\\
+
+👉 Mình mới nói lời tạm biệt với chiến binh bất khuất canon 5dii - mình rất buồn - thế nhưng mình tại sao vẫn phải chia tay, mặc dù bạn ấy vẫn cho chất ảnh rất tốt. [Nhưng 2023, hãy chia tay DSLR, nhất là những người chụp chơi.](../reviews/tam-biet-canon-5d2)...
+
+Năm 2023 bạn nên có tiêu chuẩn gì về một chiếc máy ảnh:
+* Màn hình lật: Tiện lắm ý, trước mình dùng 5d2 cũng nhiều ca khó, nhất quyết chụp mù, không lăn lê như rắn hổ mang🐍
+* Màn hình cảm ứng được: ấn focus chọc chọc như smartphone.
+* Độ phân giải trên 20mpx: crop dễ dàng hơn.
+* Jack cắm 3.5mm: cho bạn nào làm vlog ngoài trời.
+* Quay được ít nhất 60fps FullHD
+* Càng nhỏ càng tốt, càng tiện càng tốt
+* Có tiền mua thêm phụ kiện

@@ -42,8 +42,6 @@ Thường thì những người mới tập chơi thì không bao giờ dám - h
 
 <hr>
 
-Nhưng tại sao lại gọi là máy cho người mới??? "Entry Level"
-
 > "Entry-level means the cheapest camera any manufacturer currently offers" - **Pragamatically speaking**
 
 * Điều đầu tiên: giá cả đã được cắt giảm. Tức là bạn sẽ nhận được chất lượng nhiều hơn số tiền bạn bỏ ra.
@@ -56,7 +54,7 @@ Nhưng tại sao lại gọi là máy cho người mới??? "Entry Level"
 </picture>
 </p>
 
-Scn, landscape, portrait,...Làm cách nào mà máy chụp được thế nhỉ. Có những gì đã được tùy chỉnh khi mình xoay vòng xoay đó.😗
+_Scn, landscape, portrait,..._ Làm cách nào mà máy chụp được thế nhỉ. Có những gì đã được tùy chỉnh khi mình xoay vòng xoay đó.😗
 
 <p style="text-align:center; ">
 <picture>
@@ -70,42 +68,37 @@ Có vẻ chấp nhận được mà? Có những sự thật mà hãng không mu
 * Chất lượng hình ảnh:
   * Bắt đầu cùng với lens kit: zoom lens - rẻ - 2 khẩu - chụp gì cũng được!!!
 * Chất lượng thân vỏ:
-  * Báng cầm sẽ nông hơn, thao tác tay lâu sẽ đau.
   * Cao su dễ bong, dính vân tay.
   * [1/4000s](#tocdomanchapgioihan) Tốc độ màn trập nhiều dòng chỉ .
   * Nút bấm, tiếng màn trập kêu rát.
   * Không có weather sealing - mà thôi - mình cũng chưa cần(vì đi tà xùa với sapa mình dùng điện thoại😫)
-  * Build kém - tiết kiệm chi phí - nhựa rẻ tiền. Ọp ẹp, đi chụp toàn mấy anh to cao hầm hố(nay mình đỡ khoản tự ti 1 tỵ rùi😎)
 * Khả năng nâng cấp:
-  * Khó thanh khoản - giá 600d, 40d, 50d nhan nhản, nhưng rất kén người mua.
+  * Build kém - tiết kiệm chi phí - nhựa rẻ tiền. Ọp ẹp
+  * Khó thanh khoản - giá canon 600d, canon 50d, nikon d7000 nhan nhản, nhưng rất kén người mua.
+  * Ống kính đầu tư đắt nếu muốn làm chuyên nghiệp. Thường là dòng Crop nên rất khó để lên chuyên nghiệp.
 * Độ tiện dụng khi sử dụng:
+  * Báng cầm sẽ nông hơn, thao tác tay lâu sẽ đau.
   * Bị cắt giảm ống ngắm gây khó khăn khi chụp trời nắng gắt
   * Nếu có ống ngắm thì với DSLR thì chỉ nhận đc 95% kích cỡ ảnh thật sự nhận được, cùng với đó thấu kính kèm đó không cao cấp
-  * Nếu là ống ngắm điện tử thì màu sắc có sai lệch, FPS không cao\
+  * Nếu là ống ngắm điện tử thì màu sắc có sai lệch, FPS không cao
 
 {% include post-by-url.html post_src="nhiep-anh/reviews/tam-biet-canon-5d2" %}
 
 Mong bài viết đã cho bạn cái nhìn về thị trường nhiếp ảnh. Để tạo ra chiếc ảnh đẹp, giờ máy ảnh đã có thể làm được điều đó từ rất lâu rồi. Mình không hề nói xấu về những chiếc máy entry lever. Mình bắt đầu với canon 700d. Nhưng mong các bạn sẽ không bị phí tiền như mình. 🤟🤟 \\
+
 👉 Các bạn nếu xác định lâu dài hoặc sau này tiến xa hơn, không hối hận về chất lượng hình ảnh thì các bạn nên mua những máy xịn xò, đừng mua những máy giá rẻ, phổ thông quá. \\
-👉 Dòng nhiệp dư dòng 3 số 700D, 750D, 800D, 850D sẽ luôn cho chất ảnh không tốt bằng dòng bán chuyên dòng 2 số nếu cùng đời hoặc thấp hơn 1 đời.
+
+👉 Dòng nhiệp dư dòng 3 số 700D, 750D, 800D, 850D sẽ luôn cho chất ảnh không tốt bằng dòng bán chuyên dòng 2 số nếu cùng đời hoặc thấp hơn 1 đời.\\
+
 👉 Dòng 1 số của Canon, những dòng 3 số của Nikon, hay là dòng Alpha 7X hay Alpha 6x00 của Sony... Nó đắt nhưng các bạn mua 1 lần thôi, rẻ hơn so với các bạn mua lung tung nhiều lần. (cuộc đời thăng trầm của mình ca 700d - ca m10 - ni d7000 - ca 5dii- ca rp + ca g1x - chưa có dấu hiệu dừng😗)\\
-👉 Nếu các bạn có điều kiện thì cứ mua hẳn máy mới. Nhưng các bạn sinh viên và các bạn nghiệp dư hoặc bất kỳ ai, bây giờ cũng có rất nhiều cửa hàng lớn bán máy cũ bảo hành đầy đủ và uy tín. Khi mua máy cũ bạn sẽ tiết kiệm chi phí - mình rất thích mua máy cũ - **_cũ người mới ta_**, những chiến binh đã trải qua trinh chiến - cầm vào thôi cũng thấy hào hùng. (Đen có lần mua canon 85mm f1.8 nguyên một cục rễ tre không để ý - **fine**)\\
-👉 Mình mới nói lời tạm biệt với chiến binh bất khuất canon 5dii - mình rất buồn - thế nhưng mình tại sao vẫn phải chia tay, mặc dù bạn ấy vẫn cho chất ảnh rất tốt. [Nhưng 2023, hãy chia tay DSLR, nhất là những người chụp chơi.](../reviews/tam-biet-canon-5d2)...
+
+👉 Nếu có thể, hãy mua máy cũ để có được cấu hình cao hơn.
 
 <div class="video-container">
 <iframe width="1520" height="594" src="https://www.youtube.com/embed/OBee9rhamJ8" title="So sánh hình ảnh chụp từ Máy ảnh 3Tr và điện thoại 20Tr kết quả k bất ngờ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 > Hãy luôn nhớ, chiếc máy ảnh tốt nhất là chiếc máy ảnh trong túi của bạn
-
-Năm 2023 bạn nên có tiêu chuẩn gì về một chiếc máy ảnh:
-* Màn hình lật: Tiện lắm ý, trước mình dùng 5d2 cũng nhiều ca khó, nhất quyết chụp mù, không lăn lê😎 - tạch cũng nhiều
-* Màn hình cảm ứng được: ấn focus chọc chọc như smartphone.
-* Độ phân giải trên 20mpx: crop dễ
-* Jack cắm 3.5mm: cho bạn nào làm vlog ngoài trời
-* Quay được ít nhất 60fps FullHD
-* Càng nhỏ càng tốt, càng tiện càng tốt
-* Có tiền mua thêm phụ kiện
 
 Trong nhiếp ảnh quan trọng nhất là ánh sáng, bố cục,... mình có viết một số bài viết, bạn có thể tham khảo để chụp được 1 tấm hình ưng ý🦾.
 
@@ -137,12 +130,10 @@ Bài viết tham khảo
   <li>
     <a href="https://www.quora.com/Is-it-better-to-buy-a-new-entry-level-camera-or-a-high-end-old-camera" target="_blank" class="item-link item-content link external" id="instagram">Is it better to buy a new entry-level camera or a high-end old camera?</a>
   </li>
+    <li>
+    <a href="https://www.nytimes.com/wirecutter/blog/we-dont-recommend-buying-a-new-dslr-camera/" target="_blank" class="item-link item-content link external" id="instagram">Why We Don’t Recommend Buying a New DSLR Camera</a>
+  </li>
 </ul>
-
-
-* [5-reasons-to-not-buy-entry-level-dslr]()
-* [Is it better to buy a new entry-level camera or a high-end old camera?](https://www.quora.com/Is-it-better-to-buy-a-new-entry-level-camera-or-a-high-end-old-camera)
-* [Why We Don’t Recommend Buying a New DSLR Camera](https://www.nytimes.com/wirecutter/blog/we-dont-recommend-buying-a-new-dslr-camera/)
 
 Chú thích trong bài viết:
 <ul>
@@ -169,9 +160,7 @@ $('body').on('click', (event) => {
   if (target.id) {
     console.log("target id: " + target.id + "\nhref property: " + target.href + "\nhref attribute: " + target.getAttribute("href"));
 
-    var encrypted = CryptoJS.AES.encrypt(
-           (target.getAttribute("href")).toString(), "1234"
-        );
+    var encrypted = encodeURIComponent((target.getAttribute("href")).toString());
   window.location.href =[root_url,"/redirect?url=",encrypted].join('');
 
   }

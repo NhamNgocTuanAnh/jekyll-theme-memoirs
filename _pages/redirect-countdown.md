@@ -11,7 +11,7 @@ permalink: /redirect
   var count = 26; // Timer
     const queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
-const redirect =  CryptoJS.AES.decrypt((urlParams.get('url')).toString(),"1234").toString(CryptoJS.enc.Utf8) ; // Target URL
+    var redirect = (urlParams.get('url')).toString();
   function countDown() {
     var timer = document.getElementById("timer"); // Timer ID
     if (count > 0) {
