@@ -4,17 +4,17 @@ title: 'Tại sao người mới không nên mua máy ảnh cho người mới?'
 author: sal
 categories: [ Nhiếp ảnh ]
 tags: [ reviews ]
-image: assets/images/2023/reviews/avt/meike-25mm-f18-canon-m.webp
+image: assets/images/2023/reviews/avt/avt-entry-level.webp
 rating: 5
 lazyimages: "enabled"
-excerpt: Xây dựng mô hình CNN cho nhận dạng khuôn mặt
-description: Len này khá nét, ngay cả khi ở khẩu1.8 vẫn nét chấp nhận được, và bokeh khá đẹp. Vòng khẩu, vòng lấy nét siêu mượt
+excerpt: Các bạn nếu xác định lâu dài hoặc sau này tiến xa hơn, không hối hận về chất lượng hình ảnh thì các bạn nên mua những máy xịn xò, đừng mua những máy giá rẻ, phổ thông quá.
+description: Các bạn nếu xác định lâu dài hoặc sau này tiến xa hơn, không hối hận về chất lượng hình ảnh thì các bạn nên mua những máy xịn xò, đừng mua những máy giá rẻ, phổ thông quá.
 adsense: "enabled"
 keywords:
   - Máy ảnh Entry-level là gì?
   - Tại sao mua máy ảnh cũ
   - Định hướng nhiếp ảnh là gì?
-date: 2021-03-10 10:01:10 +0700
+date: 2023-03-24 10:01:10 +0700
 permalink: nhiep-anh/kien-thuc/tai-sao-khong-nen-mua-may-anh-entry-level
 ---
 
@@ -92,7 +92,17 @@ Có vẻ chấp nhận được mà? Có những sự thật mà hãng không mu
 {% include post-by-url.html post_src="nhiep-anh/reviews/tam-biet-canon-5d2" %}
 
 ### Tiêu chí chọn lựa máy ảnh
-Mong bài viết đã cho bạn cái nhìn về thị trường nhiếp ảnh. Để tạo ra chiếc ảnh đẹp, giờ máy ảnh đã có thể làm được điều đó từ rất lâu rồi. Mình không hề nói xấu về những chiếc máy entry lever. Mình bắt đầu với canon 700d. Nhưng mong các bạn sẽ không bị phí tiền như mình. 🤟🤟 <br><br>
+Mong bài viết đã cho bạn cái nhìn về thị trường nhiếp ảnh. Để tạo ra chiếc ảnh đẹp, giờ máy ảnh đã có thể làm được điều đó từ rất lâu rồi.
+
+<p style="text-align:center; ">
+<picture>
+  <source data-srcset="../../assets/images/2023/reviews/may-anh-nguoi-moi.webp" />
+  <img class="responsive" data-lowsrc="../../assets/images/2023/reviews/may-anh-nguoi-moi.webp" alt="mua bán máy ảnh cũ trên mạng" data-sizes="auto" loading="lazy"/>
+  Hình bóng của mình vài năm trước.
+</picture>
+</p>
+
+Mình không hề nói xấu về những chiếc máy entry lever. Mình bắt đầu với canon 700d. Mình rất muốn chia sẻ với các bạn cái gọi là "Định hướng nhiếp ảnh". Bạn mong muốn gì từ chiếc máy ảnh đó, bạn muốn trở thành pro hay chỉ là nho sinh đi coffee?. Mong các bạn sẽ không bị phí tiền như mình. 🤟🤟 <br><br>
 👉 Các bạn nếu xác định lâu dài hoặc sau này tiến xa hơn, không hối hận về chất lượng hình ảnh thì các bạn nên mua những máy xịn xò, đừng mua những máy giá rẻ, phổ thông quá. <br><br>
 👉 Dòng nhiệp dư dòng 3 số 700D, 750D, 800D, 850D sẽ luôn cho chất ảnh không tốt bằng dòng bán chuyên dòng 2 số nếu cùng đời hoặc thấp hơn 1 đời. <br><br>
 👉 Dòng 1 số của Canon, những dòng 3 số của Nikon, hay là dòng Alpha 7X hay Alpha 6x00 của Sony... Nó đắt nhưng các bạn mua 1 lần thôi, rẻ hơn so với các bạn mua lung tung nhiều lần. (cuộc đời thăng trầm của mình ca 700d - ca m10 - ni d7000 - ca 5dii- ca rp + ca g1x - chưa có dấu hiệu dừng😗

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Vi sao tôi nói kit lens không dành cho bạn???.'
+title: 'Kit lens không dành cho bạn???.'
 author: sal
 categories: [ Nhiếp ảnh ]
 tags: [ reviews ]
