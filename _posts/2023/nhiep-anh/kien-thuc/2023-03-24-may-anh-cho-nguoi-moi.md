@@ -141,28 +141,28 @@ Và **cuối cùng**, hầu như đều quay trở về với sự đơn giản,
 
 <ul>
   <li>
-    <a href="https://petapixel.com/mirrorless-vs-dslr/" target="_blank" class="item-link item-content link external" id="facebook">Mirrorless vs DSLR: Which Camera is Best For You?</a>
+    <a href="https://petapixel.com/mirrorless-vs-dslr/" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>Mirrorless vs DSLR: Which Camera is Best For You?</a>
   </li>
   <li>
-    <a href="https://lesdeuxpiedsdehors.com/en/which-camera-to-choose-and-how/" target="_blank" class="item-link item-content link external" id="facebook">Which camera to choose, and how to choose it?</a>
+    <a href="https://lesdeuxpiedsdehors.com/en/which-camera-to-choose-and-how/" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>Which camera to choose, and how to choose it?</a>
   </li>
   <li>
-    <a href="https://www.nytimes.com/wirecutter/blog/we-dont-recommend-buying-a-new-dslr-camera/" target="_blank" class="item-link item-content link external" id="facebook">Why We Don’t Recommend Buying a New DSLR Camera</a>
+    <a href="https://www.nytimes.com/wirecutter/blog/we-dont-recommend-buying-a-new-dslr-camera/" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>Why We Don’t Recommend Buying a New DSLR Camera</a>
   </li>
   <li>
-    <a href="https://www.space.com/should-you-buy-a-dslr-camera" target="_blank" class="item-link item-content link external" id="facebook">Should you buy a DSLR camera?</a>
+    <a href="https://www.space.com/should-you-buy-a-dslr-camera" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>Should you buy a DSLR camera?</a>
   </li>
   <li>
-    <a href="https://www.capturelandscapes.com/you-dont-need-a-professional-camera/" target="_blank" class="item-link item-content link external" id="facebook">No. You Don’t Need a Professional Camera</a>
+    <a href="https://www.capturelandscapes.com/you-dont-need-a-professional-camera/" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>No. You Don’t Need a Professional Camera</a>
   </li>
   <li>
-    <a href="https://www.godandwanderlust.com/5-reasons-to-not-buy-entry-level-dslr/" target="_blank" class="item-link item-content link external" id="facebook">5 reasons to not buy entry level dslr</a>
+    <a href="https://www.godandwanderlust.com/5-reasons-to-not-buy-entry-level-dslr/" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>5 reasons to not buy entry level dslr</a>
   </li>
   <li>
-    <a href="https://www.quora.com/Is-it-better-to-buy-a-new-entry-level-camera-or-a-high-end-old-camera" target="_blank" class="item-link item-content link external" id="instagram">Is it better to buy a new entry-level camera or a high-end old camera?</a>
+    <a href="https://www.quora.com/Is-it-better-to-buy-a-new-entry-level-camera-or-a-high-end-old-camera" target="_blank" class="item-link item-content link external" id="instagram" onclick='getHrefOnclickAndRedirectWithLink(event)'>Is it better to buy a new entry-level camera or a high-end old camera?</a>
   </li>
     <li>
-    <a href="https://www.nytimes.com/wirecutter/blog/we-dont-recommend-buying-a-new-dslr-camera/" target="_blank" class="item-link item-content link external" id="instagram">Why We Don’t Recommend Buying a New DSLR Camera</a>
+    <a href="https://www.nytimes.com/wirecutter/blog/we-dont-recommend-buying-a-new-dslr-camera/" target="_blank" class="item-link item-content link external" id="instagram" onclick='getHrefOnclickAndRedirectWithLink(event)'>Why We Don’t Recommend Buying a New DSLR Camera</a>
   </li>
 </ul>
 
@@ -183,5 +183,5 @@ iframe{margin:auto;display:block}.video-container{position:relative;padding-bott
 <!--redirect-->
 
 <script>
-var root_url=window.location.origin;$("body").on("click",t=>{t.preventDefault(),granny=t.target.parentNode.parentNode,target=t.target,granny.id&&console.log("granny's id: "+granny.id+"\nhref property: "+granny.href+"\nhref attribute: "+granny.getAttribute("href")),target.id&&(console.log("target id: "+target.id+"\nhref property: "+target.href+"\nhref attribute: "+target.getAttribute("href")),t=encodeURIComponent(target.getAttribute("href").toString()),window.location.href=[root_url,"/redirect?url=",t].join("")),"clear"===target.id&&console.clear()});
+var root_url=window.location.origin;function getHrefOnclickAndRedirectWithLink(t){t.preventDefault();t=t.currentTarget.getAttribute("href");window.location=[root_url,"/redirect?url=",encodeURIComponent(t)].join("")}
 </script>
