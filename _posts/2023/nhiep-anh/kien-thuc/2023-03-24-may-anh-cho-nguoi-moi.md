@@ -141,6 +141,18 @@ Và **cuối cùng**, hầu như đều quay trở về với sự đơn giản,
 
 <ul>
   <li>
+    <a href="https://lesdeuxpiedsdehors.com/en/which-camera-to-choose-and-how/" target="_blank" class="item-link item-content link external" id="facebook">Which camera to choose, and how to choose it?</a>
+  </li>
+  <li>
+    <a href="https://www.nytimes.com/wirecutter/blog/we-dont-recommend-buying-a-new-dslr-camera/" target="_blank" class="item-link item-content link external" id="facebook">Why We Don’t Recommend Buying a New DSLR Camera</a>
+  </li>
+  <li>
+    <a href="https://www.space.com/should-you-buy-a-dslr-camera" target="_blank" class="item-link item-content link external" id="facebook">Should you buy a DSLR camera?</a>
+  </li>
+  <li>
+    <a href="https://www.capturelandscapes.com/you-dont-need-a-professional-camera/" target="_blank" class="item-link item-content link external" id="facebook">No. You Don’t Need a Professional Camera</a>
+  </li>
+  <li>
     <a href="https://www.godandwanderlust.com/5-reasons-to-not-buy-entry-level-dslr/" target="_blank" class="item-link item-content link external" id="facebook">5 reasons to not buy entry level dslr</a>
   </li>
   <li>
