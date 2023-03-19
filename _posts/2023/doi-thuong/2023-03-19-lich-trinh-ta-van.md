@@ -51,10 +51,13 @@ Ban đầu mình đã rất lo khi plan kế hoạch đi Tả Van - một địa
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-6.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Các bạn có thể đi dạo, khám phá quanh bản, đâu đâu cũng tràn ngập những bông hoa khoe sắc</span></div>
 
-
-Nhưng nếu đã “đưa nhau đi trốn” tại một nơi xinh đẹp như thế này, sao không tự tay nấu cho nhau một bữa ăn có phải thích thú hơn không nhỉ. Những homestay ở đây có sẵn bếp và các vật dụng cần thiết để các bạn có thể tự nấu cho mình một bữa ra trò
+Ăn cùng người dân bản, tuy hơi nhiều thịt, nhưng rất dân dã, nhẹ nhà. Khi họ nói chuyện với nhau, dùng tiếng bản địa làm mình có cảm giác như đang ở nước khác vậy😌
 
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-7.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Các bạn có thể đi dạo, khám phá quanh bản, đâu đâu cũng tràn ngập những bông hoa khoe sắc</span></div>
 
-Những ngôi nhà nghỉ mộc mạc, bình dị nhưng đầy đủ sự đầm ấm và thoải mái. Mình rất ngạc nhiên vì nơi này có sẵn máy sưởi trong khi mình ở Homestay thị trấn thì không có!
+Bản có thể vào <a href="https://www.facebook.com/media/set/?vanity=nntatlu&set=a.2574616576014311" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>đây</a> để xem kẻ dại khờ này đi tìm những nơi vắng vẻ! Một buổi tối vui vẻ!!👨‍🚀
+
+<script>
+var root_url=window.location.origin;function getHrefOnclickAndRedirectWithLink(t){t.preventDefault();t=t.currentTarget.getAttribute("href");window.location=[root_url,"/redirect?url=",encodeURIComponent(t)].join("")}
+</script>
