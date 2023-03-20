@@ -16,7 +16,7 @@ keywords:
   - du lịch tả van
   - tả van có gì
   - bản tả van
-date: 2023-03-19 05:05:05 +0700
+date: 2023-03-19 22:22:22 +0700
 ---
 
 Sau một lần “hoảng hốt” khi thấy Sapa ngổn ngang những tòa nhà cao tầng, những bạn nữ mặc áo dân tộc chìa đồ bán rồi cứ ê ê trước mặt mình,... đứng đợi cáp treo 1 tiếng để checkin Fansipan. Mình đã quyết định đi tới một nơi khá lạ...
@@ -51,12 +51,12 @@ Ban đầu mình đã rất lo khi plan kế hoạch đi Tả Van - một địa
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-6.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Các bạn có thể đi dạo, khám phá quanh bản, đâu đâu cũng tràn ngập những bông hoa khoe sắc</span></div>
 
-Ăn cùng người dân bản, tuy hơi nhiều thịt, nhưng rất dân dã, nhẹ nhà. Khi họ nói chuyện với nhau, dùng tiếng bản địa làm mình có cảm giác như đang ở nước khác vậy😌
+Ăn cùng người dân bản, tuy hơi nhiều thịt, nhưng rất dân dã, nhẹ nhà. Khi họ nói chuyện với nhau, dùng tiếng bản địa làm mình có cảm giác như đang ở một hành tinh khác vậy😌
 
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-7.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Các bạn có thể đi dạo, khám phá quanh bản, đâu đâu cũng tràn ngập những bông hoa khoe sắc</span></div>
 
-Bản có thể vào <a href="https://www.facebook.com/media/set/?vanity=nntatlu&set=a.2574616576014311" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>đây</a> để xem kẻ dại khờ này đi tìm những nơi vắng vẻ! Một buổi tối vui vẻ!!👨‍🚀
+Bạn có thể vào <a href="https://www.facebook.com/media/set/?vanity=nntatlu&set=a.2574616576014311" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>đây</a> để xem "kẻ dại khờ" này đi tìm những nơi vắng vẻ! Chúc một buổi tối vui vẻ!!👨‍🚀
 
 <script>
 var root_url=window.location.origin;function getHrefOnclickAndRedirectWithLink(t){t.preventDefault();t=t.currentTarget.getAttribute("href");window.location=[root_url,"/redirect?url=",encodeURIComponent(t)].join("")}

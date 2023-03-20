@@ -15,7 +15,7 @@ keywords:
   - chuyển từ wordpress sang jekyll
   - Tối ưu jekyll
 date: 2021-01-15 10:01:10 +0700
-permalink: lap-trinh/viet-blog-voi-jekyll
+permalink: lap-trinh/lenh-linux-quen-thuoc
 ---
 **_Lưu ý_**: Bài viết này mình muốn hướng đến các bạn đã có hiểu biết về phát triển web.
 Các bạn beginer hay các bạn có nhu cầu làm một blog cá nhân có thể tham khảo để hiểu rõ ưu nhược điểm của Wordpress cũng như Jekyll.
