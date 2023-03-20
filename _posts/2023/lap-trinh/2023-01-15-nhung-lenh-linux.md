@@ -14,7 +14,7 @@ keywords:
   - Viết blog cho lập trình viên
   - chuyển từ wordpress sang jekyll
   - Tối ưu jekyll
-date: 2023-01-15 10:01:10 +0700
+date: 2021-01-15 10:01:10 +0700
 permalink: lap-trinh/viet-blog-voi-jekyll
 ---
 **_Lưu ý_**: Bài viết này mình muốn hướng đến các bạn đã có hiểu biết về phát triển web.
