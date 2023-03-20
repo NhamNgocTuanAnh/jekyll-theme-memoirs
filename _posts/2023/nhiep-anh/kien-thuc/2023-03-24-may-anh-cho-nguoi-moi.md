@@ -7,8 +7,8 @@ tags: [ reviews ]
 image: assets/images/2023/reviews/avt/avt-entry-level.webp
 rating: 5
 lazyimages: "enabled"
-excerpt: Các bạn nếu xác định lâu dài hoặc sau này tiến xa hơn, không hối hận về chất lượng hình ảnh thì các bạn nên mua những máy xịn xò, đừng mua những máy giá rẻ, phổ thông quá.
-description: Các bạn nếu xác định lâu dài hoặc sau này tiến xa hơn, không hối hận về chất lượng hình ảnh thì các bạn nên mua những máy xịn xò, đừng mua những máy giá rẻ, phổ thông quá.
+excerpt: Bạn tính toán chi li, đắn đo từng chút một như 700d hay d3400 chụp nét hơn, thì bài viết này là của bạn. Những chiếc máy entry-level rẻ những cũng là đắt. Tại sao vậy?
+description: Bạn tính toán chi li, đắn đo từng chút một như 700d hay d3400 chụp nét hơn, thì bài viết này là của bạn. Những chiếc máy entry-level rẻ những cũng là đắt. Tại sao vậy?
 adsense: "enabled"
 keywords:
   - Máy ảnh Entry-level là gì?
@@ -103,9 +103,8 @@ Mong bài viết đã cho bạn cái nhìn về thị trường nhiếp ảnh. �
 </p>
 
 Mình không hề nói xấu về những chiếc máy entry lever. Mình bắt đầu với canon 700d. Mình rất muốn chia sẻ với các bạn cái gọi là "Định hướng nhiếp ảnh". Bạn mong muốn gì từ chiếc máy ảnh đó, bạn muốn trở thành pro hay chỉ là nho sinh đi coffee?. Thường thì máy dòng Entry Level hay đi với lens kit, và thường là crop. Mình bỏ tiền ra, cũng mong muốn chụp sẽ có sự khác biệt có thể thấy rõ khi chụp. Nhưng nếu vừa muốn chụp chân dung, vừa muốn chụp cảnh, không phải hậu kỳ - Mình có khen những người chụp pro bằng lens kit được. Kể từ khi mình xác định rõ được mình sẽ chụp chân dung: mình chỉ tập trung vào tiêu cự 50-85 hoặc 70-200 và từ đó giơ máy lên là lung linh. Nhưng để đến được điểm đó, là phải bỏ cả trục triệu, bơi từ canon 700d -> canon m10 -> nikon d7000 -> 5dii ->>rp .Mong các bạn sẽ xác định rõ được nhu cầu chụp, để không bị phí tiền như mình. 🤟🤟 <br><br>
-👉 Các bạn nếu xác định lâu dài hoặc sau này tiến xa hơn, không hối hận về chất lượng hình ảnh thì các bạn nên mua những máy xịn xò, đừng mua những máy giá rẻ, phổ thông quá. <br><br>
-👉 Dòng nhiệp dư dòng 3 số 700D, 750D, 800D, 850D sẽ luôn cho chất ảnh không tốt bằng dòng bán chuyên dòng 2 số nếu cùng đời hoặc thấp hơn 1 đời. <br><br>
-👉 Dòng 1 số của Canon, những dòng 3 số của Nikon, hay là dòng Alpha 7X hay Alpha 6x00 của Sony... Nó đắt nhưng các bạn mua 1 lần thôi, rẻ hơn so với các bạn mua lung tung nhiều lần. (cuộc đời thăng trầm của mình ca 700d - ca m10 - ni d7000 - ca 5dii- ca rp + ca g1x - chưa có dấu hiệu dừng😗
+👉 Những máy giá rẻ, phổ thông quá cũng giống như điều gì đó đến với bạn quá dễ dàng. bạn chụp đẹp, kỹ thuật bao nhiêu đi chăng nữa, nhưng khả năng cân bằng trắng, ống kính, iso của thiết bị không đảm bảo - thì bạn sẽ thấy xấu -> nản. Vì vậy nếu xác định lâu dài hoặc sau này tiến xa hơn, không hối hận về chất lượng hình ảnh thì các bạn nên cân đối khi mua<br><br>
+👉 Dòng số 1 của các hãng(5d,6d, d7,d9,...)Sony... Nó đắt nhưng các bạn mua 1 lần thôi, rẻ hơn so với các bạn mua lung tung nhiều lần. (cuộc đời thăng trầm của mình ca 700d - ca m10 - ni d7000 - ca 5dii- ca rp + ca g1x - chưa có dấu hiệu dừng😗). Riêng cú nhảy từ 700d - ca m10 - ni d7000 - ca 5dii, tin mình đi, đừng dùng fullframe, vì nghiện đó.
 
 👉 Nếu có thể, hãy mua máy cũ để có được cấu hình cao hơn.
 
