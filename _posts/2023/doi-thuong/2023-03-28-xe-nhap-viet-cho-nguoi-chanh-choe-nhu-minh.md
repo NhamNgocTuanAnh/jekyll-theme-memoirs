@@ -19,9 +19,9 @@ keywords:
 date: 2023-03-28 08:08:08 +0700
 ---
 
-> Các quốc gia phải liên kết chặt chẽ hơn và phải tìm cách hợp tác để giải quyết các vấn đề toàn cầu. - Một thế giới hướng ngoại.Thật đã làm khó cho những người còn lại (người hướng nội, như mình)
+Các quốc gia phải liên kết chặt chẽ hơn và phải tìm cách hợp tác để giải quyết các vấn đề toàn cầu. - Một thế giới hướng ngoại.Thật đã làm khó cho những người còn lại (người hướng nội, như mình)
 
-Mình là một người chảnh chọe, mình là một người khó gần - Mình một mình.
+> Mình là một người chảnh chọe, mình là một người khó gần - Mình một mình.
 
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/ngam/meo-chanh-choe.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">suốt ngày đeo tai nghe chẳng màng ai nói gì!!!</span></div>
