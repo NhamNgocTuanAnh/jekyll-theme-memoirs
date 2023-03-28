@@ -5,17 +5,17 @@ author: sal
 lazyimages: "enabled"
 categories: [Tản Mản]
 tags: [ngẫm]
-image: assets/images/2023/ngam/nhin-lai-2022-avt.webp
+image: assets/images/2023/ngam/avt/sinh-nhat-25-avt.webp
 rating: 5
 isGithubComments: false
 permalink: hanh-trinh-tuoi-25
-excerpt: Bao lâu rồi mới có một buổi sáng yên bình đến vậy. Lướt instagram rồi uống từng ngụm cà phê nhỏ. Nhìn bầu trời trong xanh, hạt nắng vươn qua ô cửa sổ, bật laptop và bắt đầu viết.
+excerpt: Bài viết này chưa dành cho bạn, bài viết này dành cho mình😚
 description: Chầm chậm nhìn lại chặng đường mình đã đi qua
 comments_id: 12
 adsense: "enabled"
 keywords:
-  - Tạm biệt 2022
-  - 2022 Một năm nhìn lại
+  - áp lực đồng trang lứa
+  - viết cho tuổi 25
 date: 2023-03-28 08:08:08 +0700
 ---
 
@@ -60,7 +60,7 @@ Vì không biết thứ mình thích và cũng chằng biết sở trường c�
 
 
 <div class="content" style="text-align:center; ">
-<img data-src="../../assets/images/2023/ngam/lop-dai-hoc.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">suốt ngày đeo tai nghe chẳng màng ai nói gì!!!</span></div>
+<img data-src="../../assets/images/2023/ngam/lop-dai-hoc.webp" class=" lazyload img-thumb lazyimg " /><br></div>
 
 Cuộc sống bắt đầu tốt đẹp hơn sau câu nói của mẹ mình "Bụng mày sắp to bằng bác rồi đấy." Thế là mình vào một đợt điên cuồng tập thể giục, ăn kiêng kem, tính calo giảm cân. Mình sắp ra một series về ăn uống, dinh dưỡng và chạy bộ, lấy cảm hứng từ "Enzym diệu kỳ" và "Tôi nói gì khi tôi chạy bộ". Các bạn nhớ đón đọc nhé. Đại thể là một chân trời mới về lý do tại sao mình hồi xưa uống sữa milo rất hay đi ngoài, da mình già rất nhanh hơn bạn bè đồng trang lứa,... Rồi quá trình đi hiến máu, về chỉ ăn một mớ rau, một khoai tây và 1 xúc sích mỗi ngày.
 
@@ -72,22 +72,22 @@ Từ đó mình tự tin thể hiện hơn trong cái không gian nhỏ đấy v
 
 Có lẽ lên cái tuổi 25 này, áp lực đồng trang lứa thật quá nặng. Mình chỉ mới chập chững đi trên chính đôi chân của mình.
 
-{% include post-by-url.html post_src="_posts/2023/doi-thuong/2023-01-21-tam-biet-2022" %}
+{% include post-by-url.html post_src="2022-nhin-lai-mot-nam-da-qua" %}
 
-Thật sự mình rất muốn cám ơn một người bạn, thật sự bạn ấy đến giống như một món quà gửi đến vũ trụ này vậy. Từ việc bạn ấy thúc mình - trước mình không tin với cái đam mê chụp choejp linh tinh của mình, có thể kiếm ra tiền được. Thế mà mình kiếm ra tiền được :D. Bạn ấy đến giống như mình ôn lại một lần những gì mình đã học. Trước kiến thức của mình về cách đối nhân xử thế, suy nghĩ cho người khác, nghĩ tích cực,... đều là trên sách vở - giờ đều được đem ra áp dụng.
+Thật sự mình rất muốn cám ơn một người bạn, thật sự bạn ấy đến giống như một món quà gửi đến vũ trụ này vậy. Từ việc bạn ấy thúc mình - trước mình không tin với cái đam mê chụp choejp linh tinh của mình, có thể kiếm ra tiền được. Thế mà mình kiếm ra tiền được :D. Bạn ấy đến giống như mình ôn lại một lần những gì mình đã học. Trước kiến thức của mình về cách đối nhân xử thế, suy nghĩ cho người khác, nghĩ tích cực,... đều là trên sách vở - giờ đều được đem ra áp dụng. Lại một lần nữa, ẩn nấp sau sự lười của mình, vì bài viết đã quá dài, mình sẽ chia nhỏ thành nhiều câu chuyện với những bài học mà mình rút ra được.
 
+Mình tin là các bạn đọc đến tận bây giờ thấy ôi sao lại trẻ con thế, phải nghĩ lớn lao này nọ kia. Nhưng mình xin lỗi, mình không làm được. Giờ mình đã nhớ nhớ quên quên, ký ức nhạt nhòa trong mình. Mình cũng thấy nó khá là ấu trĩ. Nhưng tôi và bạn của ngày đó, biết gì???
 
-Gần đây mình có xem một bộ phim là "Everything Everywhere All At Once". Và một lần nữa, nó lại ấn vào trong mình tư tưởng
+Gần đây mình có xem một bộ phim là "Everything Everywhere All At Once". Và một lần nữa, nó lại ấn vào trong mình ký ức về thời thơ ấu - những câu nói khác gì bạo hành con trẻ. Kiệm lời yêu thương của nhân dân Á đông. Mình viết lại, bộc bạch lại những gì đã xảy ra với mình xưa kia, vốn dĩ chẳng phải than phiền, trách móc ai cả. Mình viết để nhắc lại những sai lầm đó, phân tích nguyên dân kết quả để sau này mình và bạn sẽ không gặp phải sai lầm. Mỗi một câu nói trách móc của bạn, liệu có tạo ra hiệu ứng cánh bướm gây sục đổ cả một khu rừng. Mỗi một lời khen ngời, một tiếng cười bạn trao cho một cô hàng đang thu rác trước cổng nhà bạn, liệu hôm đó 40 độ C, "Có mát hơn không??"
 
-
-Mong muốn được khen ngợi.
-
+<div class="content" style="text-align:center; ">
+<img data-src="../../assets/images/2023/ngam/tu-te-voi-nguoi-khac.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">“HÃY TỬ TẾ VỚI NGƯỜI KHÁC, DÙ CHO ĐANG Ở TRONG HOÀN CẢNH NÀO” – WAYMOND WANG</span></div>
 
 <div>
 <div class="video-container">
 <iframe width="1451" height="613" src="https://www.youtube.com/embed/GMKryjazGO8" title="Origin | CGI Animated Short Film | The One Academy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 </div>
-<p style="text-align:center; ">Cùng xem, và nếu có tâm tư gì, hãy inbox cho mình nhé!</p>
+<p style="text-align:center; ">Cùng xem video với mình, và nếu có tâm tư gì, hãy inbox cho mình nhé!</p>
 </div>
 
 
