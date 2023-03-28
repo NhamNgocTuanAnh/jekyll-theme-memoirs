@@ -78,6 +78,9 @@ Thật sự mình rất muốn cám ơn một người bạn, thật sự bạn 
 
 Mình tin là các bạn đọc đến tận bây giờ thấy ôi sao lại trẻ con thế, phải nghĩ lớn lao này nọ kia. Nhưng mình xin lỗi, mình không làm được. Giờ mình đã nhớ nhớ quên quên, ký ức nhạt nhòa trong mình. Mình cũng thấy nó khá là ấu trĩ. Nhưng tôi và bạn của ngày đó, biết gì???
 
+<div class="content" style="text-align:center; ">
+<img data-src="../../assets/images/2023/ngam/sinh-nhat-25-san-sang.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Tuy mình giờ vẫn run, nhưng mình tin mình đã không còn một mình</span></div>
+
 Gần đây mình có xem một bộ phim là "Everything Everywhere All At Once". Và một lần nữa, nó lại ấn vào trong mình ký ức về thời thơ ấu - những câu nói khác gì bạo hành con trẻ. Kiệm lời yêu thương của nhân dân Á đông. Mình viết lại, bộc bạch lại những gì đã xảy ra với mình xưa kia, vốn dĩ chẳng phải than phiền, trách móc ai cả. Mình viết để nhắc lại những sai lầm đó, phân tích nguyên dân kết quả để sau này mình và bạn sẽ không gặp phải sai lầm. Mỗi một câu nói trách móc của bạn, liệu có tạo ra hiệu ứng cánh bướm gây sục đổ cả một khu rừng. Mỗi một lời khen ngời, một tiếng cười bạn trao cho một cô hàng đang thu rác trước cổng nhà bạn, liệu hôm đó 40 độ C, "Có mát hơn không??"
 
 <div class="content" style="text-align:center; ">

@@ -8,7 +8,7 @@ tags: [ngẫm]
 image: assets/images/2023/ngam/nhin-lai-2022-avt.webp
 rating: 5
 isGithubComments: false
-permalink: hanh-trinh-tuoi-25
+permalink: Everything-Everywhere-All-At-Once-lan-nao-xem-cung-khoc
 excerpt: Bao lâu rồi mới có một buổi sáng yên bình đến vậy. Lướt instagram rồi uống từng ngụm cà phê nhỏ. Nhìn bầu trời trong xanh, hạt nắng vươn qua ô cửa sổ, bật laptop và bắt đầu viết.
 description: Chầm chậm nhìn lại chặng đường mình đã đi qua
 comments_id: 12
@@ -19,6 +19,7 @@ keywords:
 date: 2021-03-28 08:08:08 +0700
 ---
 
+> Bài viết đang phát triể, mời bạn đọc lui tới sau nha 😌
 
 Phim rất ý nghĩa và cảm động. Mình nghĩ mỗi người xem phim sẽ nhìn ra mỗi ý nghĩa khác nhau đấy. Mình rất thích câu chuyện của Evelyn Kungfu, ở vũ trụ đó cô đã không cưới Wang và cả hai đều đã có một cuộc sống thật tuyệt vời. Khi Evelyn bày tỏ việc đó với Wang, anh đã nói xin lỗi vì làm Evelyn rất tệ như vậy, nhưng cho dù Wang có phải làm giặt là suốt đời và lo toan nhựng chuyện thuế má lung tung với Evelyn thì anh ấy cũng muốn làm với cô. Đó chính là tình yêu thật sự.
 Mình không chắc là đã hiểu hết mọi tầng nghĩa của nó chưa, khi Wang nói mọi chuyện tồi tệ như vậy dường như đều là lỗi của anh, mình thật sự đã suýt khóc vì cảm được tâm trạng của Wang. Vì mình đã luôn nghĩ cuộc đời của mình tệ hại như thế này đều là vì quyết định sai lầm năm 15 tuổi, nhưng năm đó khi đưa ra quyết định, mình đã cảm thấy ổn với nó cơ mà?
