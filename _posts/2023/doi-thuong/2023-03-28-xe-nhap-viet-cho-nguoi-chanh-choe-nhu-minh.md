@@ -62,7 +62,7 @@ Vì không biết thứ mình thích và cũng chằng biết sở trường c�
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/ngam/lop-dai-hoc.webp" class=" lazyload img-thumb lazyimg " /><br></div>
 
-Cuộc sống bắt đầu tốt đẹp hơn sau câu nói của mẹ mình "Bụng mày sắp to bằng bác rồi đấy." Thế là mình vào một đợt điên cuồng tập thể giục, ăn kiêng kem, tính calo giảm cân. Mình sắp ra một series về ăn uống, dinh dưỡng và chạy bộ, lấy cảm hứng từ "Enzym diệu kỳ" và "Tôi nói gì khi tôi chạy bộ". Các bạn nhớ đón đọc nhé. Đại thể là một chân trời mới về lý do tại sao mình hồi xưa uống sữa milo rất hay đi ngoài, da mình già rất nhanh hơn bạn bè đồng trang lứa,... Rồi quá trình đi hiến máu, về chỉ ăn một mớ rau, một khoai tây và 1 xúc sích mỗi ngày.
+Cuộc sống bắt đầu tốt đẹp hơn sau câu nói của mẹ mình "Bụng mày sắp to bằng bác rồi đấy." Thế là mình vào một đợt điên cuồng tập thể giục, ăn kiêng kem, tính calo giảm cân. Mình sắp ra một series về ăn uống, dinh dưỡng và chạy bộ, lấy cảm hứng từ "Enzym diệu kỳ" và "Tôi nói gì khi tôi chạy bộ". Các bạn nhớ đón đọc nhé. Đại thể là một chân trời mới về lý do tại sao mình hồi xưa uống sữa milo rất hay đi ngoài, da mình già rất nhanh hơn bạn bè đồng trang lứa,... Rồi quá trình đi hiến máu, về chỉ ăn một mớ rau, một khoai tây và 1 xúc xích mỗi ngày.
 
 Lan man chiến tích quá :D. Mình tiếp tục vì cuộc sống nào đã tha cho mình, Từ một ông bạn học xung khắc với mình từ đầu tới chân. Mình theo chủ nghĩa hoàn hảo, làm việc nghiêm túc, vớ đúng ông động tý là dỗi , làm việc theo mình là không nguyên tắc (giống mình). Nên mình rất khó chịu. Ào, thật may là bay khỏi gã đấy sớm. Nhưng khổng, đợt mình đi thực tập, lại gặp thằng tính y hệt. Hồi đó, mình mới giác ngộ triết lý đạo phật, ăn nói sặc mùi đạo lý như ông già, suốt ngày bị thằng kia bẻ ý nghĩa lời nói nghiêm túc của mình như trò đùa. Nhưng hồi đó mình nín nhịn vì đã chịu được một phần từ ổng đại học. Nên mình đã thả lỏng mình hơn, không còn như ông già nữa.
 
@@ -82,7 +82,7 @@ Gần đây mình có xem một bộ phim là "Everything Everywhere All At Once
 
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/ngam/tu-te-voi-nguoi-khac.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">“HÃY TỬ TẾ VỚI NGƯỜI KHÁC, DÙ CHO ĐANG Ở TRONG HOÀN CẢNH NÀO” – WAYMOND WANG</span></div>
-
+<br>
 <div>
 <div class="video-container">
 <iframe width="1451" height="613" src="https://www.youtube.com/embed/GMKryjazGO8" title="Origin | CGI Animated Short Film | The One Academy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
