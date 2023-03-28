@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Viết cho những người chảnh chọe!(như mình)]'
+title: '[Viết cho những người chảnh chọe!! (như mình)]'
 author: sal
 lazyimages: "enabled"
 categories: [Tản Mản]
@@ -62,7 +62,7 @@ Vì không biết thứ mình thích và cũng chằng biết sở trường c�
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/ngam/lop-dai-hoc.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">suốt ngày đeo tai nghe chẳng màng ai nói gì!!!</span></div>
 
-Cuộc sống bắt đầu tốt đẹp hơn sau câu nói của mẹ mình "Bụng mày sắp to bằng bác rồi đấy." Thế là mình vào một đợt điên cuồng tập thể giục, ăn kiêng kem, tính calo giảm cân.
+Cuộc sống bắt đầu tốt đẹp hơn sau câu nói của mẹ mình "Bụng mày sắp to bằng bác rồi đấy." Thế là mình vào một đợt điên cuồng tập thể giục, ăn kiêng kem, tính calo giảm cân. Mình sắp ra một series về ăn uống, dinh dưỡng và chạy bộ, lấy cảm hứng từ "Enzym diệu kỳ" và "Tôi nói gì khi tôi chạy bộ". Các bạn nhớ đón đọc nhé. Đại thể là một chân trời mới về lý do tại sao mình hồi xưa uống sữa milo rất hay đi ngoài, da mình già rất nhanh hơn bạn bè đồng trang lứa,... Rồi quá trình đi hiến máu, về chỉ ăn một mớ rau, một khoai tây và 1 xúc sích mỗi ngày.
 
 
 Mong muốn được khen ngợi.
