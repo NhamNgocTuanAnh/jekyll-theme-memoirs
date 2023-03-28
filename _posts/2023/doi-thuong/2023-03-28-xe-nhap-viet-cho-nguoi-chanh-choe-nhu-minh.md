@@ -8,7 +8,7 @@ tags: [ngẫm]
 image: assets/images/2023/ngam/avt/sinh-nhat-25-avt.webp
 rating: 5
 isGithubComments: false
-permalink: hanh-trinh-tuoi-25
+permalink: welcome-tuoi-25
 excerpt: Bài viết này chưa dành cho bạn, bài viết này dành cho mình😚
 description: Chầm chậm nhìn lại chặng đường mình đã đi qua
 comments_id: 12
