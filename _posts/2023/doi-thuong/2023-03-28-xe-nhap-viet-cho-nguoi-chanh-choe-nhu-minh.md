@@ -64,6 +64,21 @@ Vì không biết thứ mình thích và cũng chằng biết sở trường c�
 
 Cuộc sống bắt đầu tốt đẹp hơn sau câu nói của mẹ mình "Bụng mày sắp to bằng bác rồi đấy." Thế là mình vào một đợt điên cuồng tập thể giục, ăn kiêng kem, tính calo giảm cân. Mình sắp ra một series về ăn uống, dinh dưỡng và chạy bộ, lấy cảm hứng từ "Enzym diệu kỳ" và "Tôi nói gì khi tôi chạy bộ". Các bạn nhớ đón đọc nhé. Đại thể là một chân trời mới về lý do tại sao mình hồi xưa uống sữa milo rất hay đi ngoài, da mình già rất nhanh hơn bạn bè đồng trang lứa,... Rồi quá trình đi hiến máu, về chỉ ăn một mớ rau, một khoai tây và 1 xúc sích mỗi ngày.
 
+Lan man chiến tích quá :D. Mình tiếp tục vì cuộc sống nào đã tha cho mình, Từ một ông bạn học xung khắc với mình từ đầu tới chân. Mình theo chủ nghĩa hoàn hảo, làm việc nghiêm túc, vớ đúng ông động tý là dỗi , làm việc theo mình là không nguyên tắc (giống mình). Nên mình rất khó chịu. Ào, thật may là bay khỏi gã đấy sớm. Nhưng khổng, đợt mình đi thực tập, lại gặp thằng tính y hệt. Hồi đó, mình mới giác ngộ triết lý đạo phật, ăn nói sặc mùi đạo lý như ông già, suốt ngày bị thằng kia bẻ ý nghĩa lời nói nghiêm túc của mình như trò đùa. Nhưng hồi đó mình nín nhịn vì đã chịu được một phần từ ổng đại học. Nên mình đã thả lỏng mình hơn, không còn như ông già nữa.
+
+Nhưng chưa hết đâu, lại đến ông lead nữa ಠ﹏ಠ. Mình là đứa cần đưa rõ một đầu vào, hỏi rất nhiều để giải quyết được công việc. Va ngay ông giao việc cho mình, nói hai câu xong thôi. Kết qua hồi đó mình vẫn giữu cả cái thói quen giấu dốt, ngại hỏi muốn tự làm, nên tạch tạch, deadline đến và không làm kịp. Nhưng ổng bảo mình về, và ổng ở đó làm. Đó là điểm tựa thay đổi mindset lần đầu tiên của mình, và là điểm neo giữa 2 người, tưởng thế thôi, chứ người ta cũng có tinh thần trách nhiệm rất cao, lỗi cũng có về mình và cách thể hiện của mọi người là khác nhau.
+
+Từ đó mình tự tin thể hiện hơn trong cái không gian nhỏ đấy với đội của mình, mình nói nhiều hơn, triết lý ít đi và phiếm nhiều hơn. Mình rất kém mấy môn đối kháng, đá bóng mình rất gà, đá cầu cũng thế. Thế được hai đứa rủ đi chơi, mình chơi như thằng đần vậy, :D đến giờ vẫn ngại và mình phát hiện ra bọn kia tuy trong công việc mình hay rầy la bọn nó, nhưng những cái này bọn nó lại rất tài :D. Thế đố các bạn biết, mình đã nghĩ gì :3
+
+Có lẽ lên cái tuổi 25 này, áp lực đồng trang lứa thật quá nặng. Mình chỉ mới chập chững đi trên chính đôi chân của mình.
+
+{% include post-by-url.html post_src="_posts/2023/doi-thuong/2023-01-21-tam-biet-2022" %}
+
+Thật sự mình rất muốn cám ơn một người bạn, thật sự bạn ấy đến giống như một món quà gửi đến vũ trụ này vậy. Từ việc bạn ấy thúc mình - trước mình không tin với cái đam mê chụp choejp linh tinh của mình, có thể kiếm ra tiền được. Thế mà mình kiếm ra tiền được :D. Bạn ấy đến giống như mình ôn lại một lần những gì mình đã học. Trước kiến thức của mình về cách đối nhân xử thế, suy nghĩ cho người khác, nghĩ tích cực,... đều là trên sách vở - giờ đều được đem ra áp dụng.
+
+
+Gần đây mình có xem một bộ phim là "Everything Everywhere All At Once". Và một lần nữa, nó lại ấn vào trong mình tư tưởng
+
 
 Mong muốn được khen ngợi.
 
