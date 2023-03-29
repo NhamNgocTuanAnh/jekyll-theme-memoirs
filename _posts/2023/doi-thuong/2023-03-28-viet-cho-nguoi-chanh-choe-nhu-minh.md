@@ -54,7 +54,7 @@ Có lẽ vì trải qua thời cấp 3 như vậy, từ một người hoạt ng
 
 Vì không biết thứ mình thích và cũng chằng biết sở trường của mình là gì, nên dù cố thế nào đi chăng nữa, mình luôn thua. Mình đã trải qua 3 năm cấp 3 trong hàng loạt những nỗi sợ. Ngoài đi học và đi bộ về, chắc chả làm gì khác, bạn bè không, bóng đá không,...
 
-Đại học, có lẽ vớt vát vào đại học Thăng Long, một con gà công nghiệp, hồi đó có một ông anh họ thi cùng mình, ông ấy cấp 2 -> cấp 3 thì thua mình, nhưng ổng thi đỗ đại học Bách Khoa. Cái tôi trẻ con của mình lại rỉ máu. Lại vào trường có người nhà, thoạt đầu nó đi đúng mẫu số, mô típ thời cấp 3 của mình. Mình cũng lại 1 lần nghe theo bố đi theo chuyên ngành mà mình chả quan tâm. Vô định, mình tăng cân lần gần 80kg, da đen, sù xì ngồi một góc chơi game. Nhưng thật may mắn, khi vào ngôi trường này, mình đã có những người bạn nhạt toẹt mà mình chơi tới tận bây giờ :3
+Đại học, có lẽ vớt vát vào đại học Thăng Long, một con gà công nghiệp, hồi đó có một ông anh họ thi cùng mình, ông ấy cấp 2 -> cấp 3 thì thua mình, nhưng ổng thi đỗ đại học Bách Khoa. Cái tôi trẻ con của mình lại rỉ máu. Lại vào trường có người nhà, thoạt đầu nó đi đúng mẫu số, mô típ thời cấp 3 của mình. Mình cũng lại 1 lần nghe theo bố đi theo chuyên ngành mà mình chả quan tâm. Vô định, mình tăng cân lần gần 80kg, da đen, xù sì ngồi một góc chơi game. Nhưng thật may mắn, khi vào ngôi trường này, mình đã có những người bạn nhạt toẹt mà mình chơi tới tận bây giờ :3
 
 
 <div class="content" style="text-align:center; ">
