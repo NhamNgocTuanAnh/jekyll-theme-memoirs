@@ -26,7 +26,7 @@ Các quốc gia phải liên kết chặt chẽ hơn và phải tìm cách hợp
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/ngam/meo-chanh-choe.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">suốt ngày đeo tai nghe chẳng màng ai nói gì!!!</span></div>
 
-Mình chậm nhiệt - Người khác cười, phải qua một lớp filter logic mình mới biết sao cười và bắt chước họ. Người khác khóc, phải qua filter logic mình mới phân tích sao họ khóc làm mặt lạnh tanh kiểu vô cảm.
+Mình chậm nhiệt - làm bạn với một ồng Mr. Logic từ bé. Khi người khác cười, mình phải hỏi Mr. Logic mãi ổng mới cho mình mới biết sao cười và lý do tại sao mình nên bắt chước họ. Người khác khóc, lại cũng phải qua ổng mình mới phân tích sao họ khóc và mình hay làm mặt lạnh tanh kiểu vô cảm - "Sao mà yếu đuối thế".
 
 Người ta hỏi gì thì mình đáp nấy, đối phương không hỏi mình cũng im luôn. Đơn giản vì mình không có nhu cầu săm soi hay đàm tiếu về kẻ nọ người kia, càng không sẵn lòng chia sẻ những sở thích và chuyện cá nhân cho những người chỉ đơn thuần là tò mò về đời tư của mình.
 
