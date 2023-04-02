@@ -69,6 +69,32 @@ chuyển vào một global average pooling (chuyển kết quả 2D thành vecto
 
 ### 3. Kết quả
 
+Với kịch bản kiểm thử:
+
+1️⃣ Thử nghiệm trên bộ dataset FER 2013
+
+Đầu vào: Tập dữ liệu đã được traning từ trước
+
+Đầu ra: phần trăm độ chính xác trên toàn bộ tập dữ liệu
+
+Sử dụng CNN
+
+2️⃣ Thử nghiệm trên 1 ảnh bất kỳ trong bộ dataset FER 2013
+
+Đầu vào: là ảnh đã được gán nhã bất kỳ, kích thước 48x48
+
+Đầu ra: Cảm xúc gương mặt(độ %)+giới tính
+
+Sử dụng CNN
+
+3️⃣ Thử nghiệm chạy trên webcam thực tế
+
+Đầu vào: Hình ảnh chuyển động trên Webcam
+
+Đầu ra: Cảm xúc gương mặt(độ %)+giới tính
+
+Sử dụng CNN
+
 ![image](/assets/images/emotion-detection/thongkehieuqua.png){:class="img-responsive"}
 
 Kết quả thử nghiệm trên dữ liệu kiểm tra đạt mức độ chính xác khoảng **65%** (trung bình 300 lần huấn luyện). Trong quá trình huấn luyện độ chính xác thường xuyên cao hơn kết quả kiểm nghiệm trên bộ kiểm tra, nhưng không quá sai khác.
