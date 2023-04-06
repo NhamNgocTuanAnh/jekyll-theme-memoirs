@@ -8,6 +8,7 @@ lazyimages: "enabled"
 image: assets/images/math/anh-xa-tuyen-tinh-chuong-7.jpg
 # rating: 4.5
 comments: false
+excerpt: Giải thích ánh xạ tuyến tính
 permalink: toan-hoc/anh-xa-tuyen-tinh
 header-includes:
   - \usepackage{boxed}

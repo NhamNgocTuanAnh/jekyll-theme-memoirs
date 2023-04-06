@@ -8,6 +8,7 @@ image: assets/images/thay-tan.webp
 # rating: 4.5
 lazyimages: "enabled"
 comments: false
+excerpt: Danh sách bài giảng
 permalink: toan-hoc/khao-sat-bien-thien-ve-do-thi-ham-so
 header-includes:
   - \usepackage{boxed}
