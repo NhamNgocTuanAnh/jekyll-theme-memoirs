@@ -2,7 +2,7 @@
 layout: post
 title: 'Những con số lặp lại'
 author: sal
-categories: [ Công cụ nhanh ]
+categories: [ Công cụ nhanh ⚒]
 tags: [ Tra cứu nhanh ]
 image: assets/images/nhiepanh/reviews/gio-lap-lai.webp
 rating: 5

@@ -3,7 +3,7 @@ layout: post
 title: 'Mày phải có năng khiếu mới học được tiếng anh!!! - [Chúng ta xứng đáng có một cuộc sống tốt hơn!]'
 author: sal
 lazyimages: "enabled"
-categories: [Sức khỏe]
+categories: [ Sức khỏe 💪]
 tags: [tips chụp ảnh]
 image: assets/images/nhiepanh/dam-me-nhiep-anh-avt.webp
 rating: 5

@@ -2,7 +2,7 @@
 layout: post
 title:  "Chuyên đề 5. Khảo sát sự biến thiên và vẽ đồ thị hàm số - [Toán cao cấp]"
 author: john
-categories: [ Toán học ]
+categories: [ Toán học ➕ ]
 tags: [ Toán cao cấp ]
 image: assets/images/thay-tan.webp
 # rating: 4.5

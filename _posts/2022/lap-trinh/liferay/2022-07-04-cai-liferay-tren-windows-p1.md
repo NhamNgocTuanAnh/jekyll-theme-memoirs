@@ -3,7 +3,7 @@ layout: post
 title:  "Liferay - Tài liệu cài đặt p1"
 author: sal
 lazyimages: "enabled"
-categories: [ Lập trình ]
+categories: [ Coding 💻 ]
 tags: [ lập trình, liferay ]
 image: assets/images/laptrinh/lifray/setup/liferay-avt.webp
 isGithubComments: true

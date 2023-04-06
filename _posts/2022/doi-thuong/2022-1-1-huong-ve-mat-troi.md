@@ -3,7 +3,7 @@ layout: post
 title:  "Hướng về phía Mặt trời, bạn sẽ không còn thấy bóng tối"
 author: sal
 lazyimages: "enabled"
-categories: [ Du hí]
+categories: [ Du hí 🛫 ]
 tags: [  ]
 image: assets/images/see-suny.webp
 comments: false

@@ -3,7 +3,7 @@ layout: post
 title: 'Sử dụng Preset màu film sao cho đẹp?'
 author: sal
 lazyimages: "enabled"
-categories: [Nhiếp ảnh]
+categories: [ Nhiếp ảnh 📸 ]
 tags: [đánh giá, nhiếp ảnh]
 image: assets/images/nhiepanh/gia-lap-mau-phim-avt01.webp
 isGithubComments: false

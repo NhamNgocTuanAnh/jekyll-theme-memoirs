@@ -3,7 +3,7 @@ layout: post
 lazyimages: "enabled"
 title:  "Nhận Diện Cảm Xúc Khuôn Mặt Với Python, Keras, Cython và OpenCV.(Part 3) Tiến hành Training model - [Học máy]"
 author: sal
-categories: [ Lập trình ]
+categories: [ Coding 💻 ]
 tags: [ python, lập trình, học máy ]
 image: assets/images/emotion-detection/happy-ex-p3.webp
 # rating: 4.5

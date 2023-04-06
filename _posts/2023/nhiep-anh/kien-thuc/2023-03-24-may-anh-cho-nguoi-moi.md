@@ -2,7 +2,7 @@
 layout: post
 title: 'Tại sao người mới không nên mua máy ảnh cho người mới?'
 author: sal
-categories: [ Nhiếp ảnh ]
+categories: [ Nhiếp ảnh 📸 ]
 tags: [ reviews ]
 image: assets/images/2023/reviews/avt/avt-entry-level.webp
 rating: 5

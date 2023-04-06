@@ -3,7 +3,7 @@ layout: post
 title:  "4 kỹ năng mềm cần có cho lập trình viên"
 lazyimages: "enabled"
 author: sal
-categories: [ Tản mạn ]
+categories: [ Tản mạn 📓 ]
 tags: [ tản mạn, lập trình ]
 image: assets/images/ky-nang-lap-trinh-vien-1.webp
 # rating: 4.5

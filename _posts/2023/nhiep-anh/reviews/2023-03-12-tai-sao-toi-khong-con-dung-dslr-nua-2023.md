@@ -2,7 +2,7 @@
 layout: post
 title: '2023 rồi mà còn dùng DSLR!!'
 author: sal
-categories: [ Nhiếp ảnh ]
+categories: [ Nhiếp ảnh 📸 ]
 tags: [ reviews ]
 image: assets/images/2023/reviews/avt/avt-dslr.webp
 rating: 5

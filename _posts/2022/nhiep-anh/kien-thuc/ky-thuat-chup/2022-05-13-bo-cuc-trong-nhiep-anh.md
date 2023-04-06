@@ -3,7 +3,7 @@ layout: post
 title: 'Một số nguyên tắc trong bố cục - [Cẩm nang nhiếp ảnh]'
 author: sal
 lazyimages: "enabled"
-categories: [Nhiếp ảnh]
+categories: [ Nhiếp ảnh 📸 ]
 tags: [bố cục]
 image: assets/images/nhiepanh/anhsang/bocuc_1.jpg
 rating: 5

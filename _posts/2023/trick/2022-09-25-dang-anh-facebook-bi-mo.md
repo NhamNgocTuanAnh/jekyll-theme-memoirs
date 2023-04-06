@@ -2,7 +2,7 @@
 layout: post
 title: 'Cách đăng ảnh không bị mờ facebook'
 author: sal
-categories: [ Nhiếp ảnh ]
+categories: [ Nhiếp ảnh 📸 ]
 tags: [ tips ]
 image: assets/images/2023/tips/avts/upload-anh-fb-dung-cach.webp
 rating: 5

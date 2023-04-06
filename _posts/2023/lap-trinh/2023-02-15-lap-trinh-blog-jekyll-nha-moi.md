@@ -2,7 +2,7 @@
 layout: post
 title: 'Jekyll - chân ái đời tôi. Nền tảng viết blog cơ động nhất, mệt nhất sever Việt Nam!!!'
 author: sal
-categories: [ Lập trình ]
+categories: [ Coding 💻 ]
 tags: [ tips ]
 image: assets/images/2023/lap-trinh/avts/jekyll-viet-blog-avt.webp
 rating: 5

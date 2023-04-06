@@ -3,8 +3,8 @@ layout: post
 title: 'Tăng tốc website với Minify CSS, HTML'
 author: sal
 lazyimages: "enabled"
-categories: [ Công cụ nhanh ]
-tags: [ Tra cứu nhanh, Lập trình]
+categories: [ Công cụ nhanh ⚒]
+tags: [ tra cứu nhanh, lập trình]
 image: assets/images/laptrinh/lap-tring-nen-html-css-Minify.webp
 isGithubComments: false
 permalink: lap-trinh/nen-website-minify

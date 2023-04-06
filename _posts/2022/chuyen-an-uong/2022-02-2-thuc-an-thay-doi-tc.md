@@ -3,7 +3,7 @@ layout: post
 title:  "Thức ăn thay đổi tính cách"
 author: sal
 lazyimages: "enabled"
-categories: [ Sức khỏe ]
+categories: [ Sức khỏe 💪 ]
 tags: [ ăn uống, dinh dưỡng ]
 image: assets/images/odFocus_FoodGuide.webp
 rating: 4.5

@@ -3,7 +3,7 @@ layout: post
 title: 'Tạo dáng chụp hình street style cho nữ'
 author: sal
 lazyimages: "enabled"
-categories: [Nhiếp ảnh]
+categories: [ Nhiếp ảnh 📸 ]
 tags: [tips chụp ảnh]
 image: assets/images/nhiepanh/doituong/style-life/chup-style-life-dang-005.jpg
 rating: 5

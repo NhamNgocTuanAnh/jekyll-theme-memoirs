@@ -3,7 +3,7 @@ layout: post
 title: 'Tạo dáng chụp hình street style cho nam- [Cẩm nang nhiếp ảnh]'
 author: sal
 lazyimages: "enabled"
-categories: [Nhiếp ảnh]
+categories: [ Nhiếp ảnh 📸 ]
 tags: [tips chụp ảnh]
 image: assets/images/nhiepanh/doituong/tao-dang-street-style-2_14.webp
 rating: 5

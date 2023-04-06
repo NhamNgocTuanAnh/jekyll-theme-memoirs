@@ -2,7 +2,7 @@
 layout: post
 title: 'Kit lens không dành cho bạn???.'
 author: sal
-categories: [ Nhiếp ảnh ]
+categories: [ Nhiếp ảnh 📸 ]
 tags: [ reviews ]
 image: assets/images/2023/reviews/avt/meike-25mm-f18-canon-m.webp
 rating: 5

@@ -3,7 +3,7 @@ layout: post
 title: 'Ngủ sớm dậy sớm = Thành công? Ngủ sớm dậy sớm có thật sự thành công như người ta nói?'
 author: sal
 lazyimages: "enabled"
-categories: [Tản mạn]
+categories: [ Tản mạn 📓 ]
 tags: [mẹo]
 image: assets/images/nhiepanh/chup-anh-tham-mat.webp
 isGithubComments: false

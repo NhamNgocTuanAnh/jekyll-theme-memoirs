@@ -3,7 +3,7 @@ layout: post
 title:  "Chuyện ăn gì"
 author: sal
 lazyimages: "enabled"
-categories: [ Sức khỏe ]
+categories: [ Sức khỏe 💪 ]
 tags: [ Ăn, Đồ ăn, Dinh dưỡng ]
 image: assets/images/thuc-pham-tot.webp
 rating: 4.5

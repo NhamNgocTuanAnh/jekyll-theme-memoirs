@@ -2,7 +2,7 @@
 layout: post
 title:  "Chương 7. Ánh xạ tuyến tính - [Toán cao cấp]"
 author: john
-categories: [ Toán học ]
+categories: [ Toán học ➕ ]
 tags: [ Toán cao cấp ]
 lazyimages: "enabled"
 image: assets/images/math/anh-xa-tuyen-tinh-chuong-7.jpg

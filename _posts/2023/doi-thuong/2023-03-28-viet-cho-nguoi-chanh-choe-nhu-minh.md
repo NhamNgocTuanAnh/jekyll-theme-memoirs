@@ -3,7 +3,7 @@ layout: post
 title: '[Viết cho những người chảnh chọe!! (như mình)]'
 author: sal
 lazyimages: "enabled"
-categories: [Tản mạn]
+categories: [ Tản mạn 📓 ]
 tags: [ngẫm]
 image: assets/images/2023/ngam/avt/sinh-nhat-25-avt.webp
 rating: 5

@@ -2,7 +2,7 @@
 layout: post
 title: 'Ống kính giá rẻ cho Mirrorless Aps-C Meike 25mm F1.8/Góc rộng, khẩu độ lớn, nhỏ, nhẹ.'
 author: sal
-categories: [ Nhiếp ảnh ]
+categories: [ Nhiếp ảnh 📸 ]
 tags: [ reviews ]
 image: assets/images/2023/reviews/avt/meike-25mm-f18-canon-m.webp
 rating: 5

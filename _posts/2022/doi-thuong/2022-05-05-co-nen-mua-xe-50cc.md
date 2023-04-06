@@ -2,7 +2,7 @@
 layout: post
 title: 'Xe 50cc - Một ngày trải nghiệm với xe cho người mớiii.'
 author: sal
-categories: [ Tản mạn ]
+categories: [ Tản mạn 📓 ]
 tags: [ phản biện ]
 image: assets/images/xe-50cc-nguy-hiem.webp
 rating: 0.5

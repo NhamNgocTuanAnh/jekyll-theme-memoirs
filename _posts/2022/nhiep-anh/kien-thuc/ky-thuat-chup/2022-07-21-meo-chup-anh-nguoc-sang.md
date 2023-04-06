@@ -3,7 +3,7 @@ layout: post
 title: 'Chụp ảnh ngược nắng - [Cẩm nang nhiếp ảnh]'
 author: sal
 lazyimages: "enabled"
-categories: [Nhiếp ảnh]
+categories: [ Nhiếp ảnh 📸 ]
 tags: [tips chụp ảnh]
 image: assets/images/chup-nguoc-nang-avt-1.webp
 rating: 5

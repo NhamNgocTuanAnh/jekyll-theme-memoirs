@@ -3,7 +3,7 @@ layout: post
 title: 'Chế hộp chống ẩm với arduino, relay, dht11  - [Cẩm nang nhiếp ảnh]'
 author: sal
 lazyimages: "enabled"
-categories: [Nhiếp ảnh, Lập trình]
+categories: [Nhiếp ảnh 📸, Coding 💻]
 tags: [lập trình nhúng, arduino]
 image: assets/images/nhiepanh/hop-chong-am-avt.jpg
 rating: 4.5

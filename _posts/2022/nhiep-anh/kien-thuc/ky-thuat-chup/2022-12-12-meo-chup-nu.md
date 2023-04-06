@@ -3,7 +3,7 @@ layout: post
 title: '10 kinh nghiệm xương máu khi chụp hình cho phụ nữ (p2)- [Cẩm nang nhiếp ảnh]'
 author: sal
 lazyimages: "enabled"
-categories: [Nhiếp ảnh]
+categories: [ Nhiếp ảnh 📸 ]
 tags: [tips chụp ảnh]
 image: assets/images/nhiepanh/dam-me-nhiep-anh-avt.webp
 rating: 5

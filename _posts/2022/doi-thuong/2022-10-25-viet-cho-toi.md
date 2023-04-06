@@ -2,7 +2,7 @@
 title: Chợt thu, chớm tắt
 layout: post
 author: sal
-categories: [ Tản mạn ]
+categories: [ Tản mạn 📓 ]
 lazyimages: "enabled"
 date: '2022-10-25'
 image: assets/images/nhiepanh/introduce/write-to-me-avt1.webp
