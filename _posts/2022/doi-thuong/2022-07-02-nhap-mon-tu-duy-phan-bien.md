@@ -2,7 +2,7 @@
 title: Nhập môn tư duy phản biện ✺◟( • ω • )◞✺
 layout: post
 author: sal
-categories: [ Ngẫm ]
+categories: [Tản mạn]
 tags: [ phản biện ]
 lazyimages: "enabled"
 date: '2022-06-01'

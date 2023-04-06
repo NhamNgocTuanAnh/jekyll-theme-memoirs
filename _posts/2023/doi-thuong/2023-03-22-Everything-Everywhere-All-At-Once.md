@@ -3,7 +3,7 @@ layout: post
 title: '[Tôi xem Everything Everywhere All At Once - Lần nào cũng khóc!]'
 author: sal
 lazyimages: "enabled"
-categories: [Tản Mản]
+categories: [Tản mạn]
 tags: [ngẫm]
 image: assets/images/2023/ngam/nhin-lai-2022-avt.webp
 rating: 5

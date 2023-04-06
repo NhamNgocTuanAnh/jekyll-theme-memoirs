@@ -3,8 +3,8 @@ layout: post
 lazyimages: "enabled"
 title:  "Nhận Diện Cảm Xúc Khuôn Mặt Với Python, Keras, Cython và OpenCV.(Part 4) Tối ưu với Cython - [Học máy]"
 author: sal
-categories: [ Machine learning ]
-tags: [ Python, Lập trình ]
+categories: [ Lập trình ]
+tags: [ python, lập trình ]
 image: assets/images/emotion-detection/happy-ex-p4.webp
 # rating: 4.5
 isGithubComments: true

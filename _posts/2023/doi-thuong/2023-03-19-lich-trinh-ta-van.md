@@ -3,7 +3,7 @@ layout: post
 title: 'Lịch trình Tả Van! - 1 SaPa lặng lẽ!'
 author: sal
 lazyimages: "enabled"
-categories: [Du lịch]
+categories: [ Du hí ]
 tags: [du ký]
 image: assets/images/2023/du-lich/avt/du-lich-ta-van-avt.webp
 rating: 5

@@ -2,7 +2,7 @@
 layout: post
 title: 'Công kích cá nhân của người Việt'
 author: sal
-categories: [ Ngẫm ]
+categories: [Tản mạn]
 tags: [ phản biện ]
 lazyimages: "enabled"
 image: assets/images/phan-bien-viet-avt.jpg

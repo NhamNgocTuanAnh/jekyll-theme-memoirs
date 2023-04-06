@@ -13,7 +13,7 @@ permalink: "/categories.html"
 <h2><span>🎲 Thể loại:</span></h2>
 <ul id="accordion" class="accordion">
     <li>
-
+        {% assign category_id = 1 %}
         {% for tag in site.categories  %}
             {% assign tag_size = tag[1].size %}
             {% assign tag_name = tag[0] %}
@@ -27,7 +27,7 @@ permalink: "/categories.html"
         {% assign sorted_cats =  taglist | split: "@" |sort|reverse  %}
         {% for  category_list in sorted_cats %}
         {% assign category = category_list | split: "," %}
-        <div class="link"><h3 id="{{ category[0] | replace: " "," -" }}"><span>{{ category[1] }}</span><span class="badge pull-right">({{ category[0]}} post)</span></h3><i class="fa fa-chevron-down"></i></div>
+        <div class="link" id="{{ category_id }}"><h3 id=" {{ category[0] | replace: " "," -" }}"><span>{{ category[1] }}</span><span class="badge pull-right">({{ category[0]}} post)</span></h3><i class="fa fa-chevron-down"></i></div>
         <ul class="submenu-ca">
             {% assign pages_list = site.posts | sort: 'date' | reverse %}
             {% for post in pages_list %}
@@ -46,6 +46,7 @@ permalink: "/categories.html"
             {% assign pages_list = nil %}
             {% assign group = nil %}
         </ul>
+        {% assign category_id = category_id | plus: 1 %}
         {% endfor %}
     </li>
 </ul>
@@ -53,3 +54,19 @@ permalink: "/categories.html"
 <script>
 $(function(){var e=function(e,t){this.el=e||{},this.multiple=t||!1,this.el.find(".link").on("click",{el:this.el,multiple:this.multiple},this.dropdown)};e.prototype.dropdown=function(e){var t=e.data.el;($next=($this=$(this)).next()).slideToggle(),$this.parent().toggleClass("open"),e.data.multiple||t.find(".submenu-ca").not($next).slideUp().parent().removeClass("open")},new e($("#accordion"),!1)});
 </script>
+
+<script>
+let theCategoryFlat;
+
+const queryString = window.location.search, urlParams = new URLSearchParams(queryString);
+if(urlParams.get("category")){
+    var categoryFlat = (urlParams.get("category").toString()).trim();
+    theCategoryFlat = document.getElementById(categoryFlat);
+    if(theCategoryFlat){
+        theCategoryFlat.style.backgroundColor = "#0089e0";
+    }
+}
+
+</script>
+
+

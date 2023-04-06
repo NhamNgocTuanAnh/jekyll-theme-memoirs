@@ -3,7 +3,7 @@ layout: post
 title:  "Nhóm máu O - nhóm máu lãnh đạo"
 author: sal
 lazyimages: "enabled"
-categories: [ Note ]
+categories: [ Công cụ nhanh ]
 tags: [ Tra cứu nhanh ]
 image: assets/images/2022/doi-thuong/tinh-cach-nguoi-nhom-mau-o-4.webp
 rating: 4.5
