@@ -8,7 +8,7 @@ image: assets/images/nhiepanh/reviews/gio-lap-lai.webp
 rating: 5
 lazyimages: "enabled"
 isGithubComments: false
-description: Những con số 11:11, 12:12, 01:10 này chứa đựng nhiều ý nghĩa hơn bạn tưởng.
+excerpt: Những con số 11:11, 12:12, 01:10 này chứa đựng nhiều ý nghĩa hơn bạn tưởng.
 adsense: "enabled"
 keywords:
   - ý nghĩa con số trên đồng hồ

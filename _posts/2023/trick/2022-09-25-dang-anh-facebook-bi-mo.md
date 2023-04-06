@@ -8,7 +8,7 @@ image: assets/images/2023/tips/avts/upload-anh-fb-dung-cach.webp
 rating: 5
 lazyimages: "enabled"
 isGithubComments: false
-description: Bật HD trên iphone, đăng ảnh trên máy tính mà ảnh vẫn bị mờ là sao?
+excerpt: Bật HD trên iphone, đăng ảnh trên máy tính mà ảnh vẫn bị mờ là sao?
 adsense: "enabled"
 keywords:
   - Đăng ảnh facebook không mờ, vỡ

@@ -8,6 +8,7 @@ image: assets/images/2023/reviews/avt/meike-25mm-f18-canon-m.webp
 rating: 5
 lazyimages: "enabled"
 isGithubComments: false
+excerpt: Len này khá nét, ngay cả khi ở khẩu1.8 vẫn nét chấp nhận được, và bokeh khá đẹp. Vòng khẩu, vòng lấy nét siêu mượt
 description: Len này khá nét, ngay cả khi ở khẩu1.8 vẫn nét chấp nhận được, và bokeh khá đẹp. Vòng khẩu, vòng lấy nét siêu mượt
 adsense: "enabled"
 keywords:

@@ -8,7 +8,7 @@ image: assets/images/ngam/unwanted-facebook-hero.webp
 rating: 5
 lazyimages: "enabled"
 isGithubComments: false
-description: Đánh giá Kém Giá 50cc triệu dưới 15 triệu cho hàng mới(giá năm 2022) Đối tượng người có nhu cầu cực thấp, sinh viên Phù hợp không ai
+excerpt: Đánh giá Kém Giá 50cc triệu dưới 15 triệu cho hàng mới(giá năm 2022) Đối tượng người có nhu cầu cực thấp, sinh viên Phù hợp không ai
 date: '2022-09-29'
 adsense: "enabled"
 keywords:

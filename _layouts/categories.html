@@ -5,7 +5,99 @@ permalink: "/categories.html"
 ---
 <script async src="https://cse.google.com/cse.js?cx=d589faf0c21ff43ae">
 </script>
-<style>.submenu-ca a,a{text-decoration:none}ul{list-style-type:none}.accordion{width:100%;margin:30px auto 20px;background:#fff;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px}.accordion .link{cursor:pointer;display:block;padding:15px 5px 0 0;color:#4d4d4d;font-size:14px;font-weight:700;border-bottom:1px solid #ccc;position:relative;-webkit-transition:.4s;-o-transition:.4s;transition:.4s}.accordion li:last-child .link{border-bottom:0}.accordion li i{position:absolute;top:16px;left:12px;font-size:18px;-webkit-transition:.4s;-o-transition:.4s;transition:.4s}.accordion li i.fa-chevron-down{right:12px;left:auto;font-size:16px}.accordion li.open .link,.accordion li.open i{color:#b63b4d}.accordion li.open i.fa-chevron-down{-webkit-transform:rotate(180deg);-ms-transform:rotate(180deg);-o-transform:rotate(180deg);transform:rotate(180deg)}.submenu-ca{display:none;font-size:14px}.submenu-ca li{border-bottom:1px solid #4b4a5e}.submenu-ca a{padding-left:5px;display:block;font-size:17px;color:#000;-webkit-transition:.25s;-o-transition:.25s;transition:.25s}.submenu-ca a:hover{background-image:linear-gradient(180deg,transparent 89%,#55cc71 0);-webkit-transition:.3s ease-in-out;-moz-transition:.3s ease-in-out;-ms-transition:.3s ease-in-out;-o-transition:.3s ease-in-out;transition:.3s ease-in-out}
+<style>
+    .submenu-ca a,
+    a {
+        text-decoration: none
+    }
+
+    ul {
+        list-style-type: none
+    }
+
+    .accordion {
+        width: 100%;
+        margin: 30px auto 20px;
+        background: #fff;
+        -webkit-border-radius: 4px;
+        -moz-border-radius: 4px;
+        border-radius: 4px
+    }
+
+    .accordion .link {
+        cursor: pointer;
+        display: block;
+        padding: 15px 5px 0 0;
+        color: #4d4d4d;
+        font-size: 14px;
+        font-weight: 700;
+        border-bottom: 1px solid #ccc;
+        position: relative;
+        -webkit-transition: .4s;
+        -o-transition: .4s;
+        transition: .4s
+    }
+
+    .accordion li:last-child .link {
+        border-bottom: 0
+    }
+
+    .accordion li i {
+        position: absolute;
+        top: 16px;
+        left: 12px;
+        font-size: 18px;
+        -webkit-transition: .4s;
+        -o-transition: .4s;
+        transition: .4s
+    }
+
+    .accordion li i.fa-chevron-down {
+        right: 12px;
+        left: auto;
+        font-size: 16px
+    }
+
+    .accordion li.open .link,
+    .accordion li.open i {
+        color: #b63b4d
+    }
+
+    .accordion li.open i.fa-chevron-down {
+        -webkit-transform: rotate(180deg);
+        -ms-transform: rotate(180deg);
+        -o-transform: rotate(180deg);
+        transform: rotate(180deg)
+    }
+
+    .submenu-ca {
+        display: none;
+        font-size: 14px
+    }
+
+    .submenu-ca li {
+        border-bottom: 1px solid #4b4a5e
+    }
+
+    .submenu-ca a {
+        padding-left: 5px;
+        display: block;
+        font-size: 17px;
+        color: #000;
+        -webkit-transition: .25s;
+        -o-transition: .25s;
+        transition: .25s
+    }
+
+    .submenu-ca a:hover {
+        background-image: linear-gradient(180deg, transparent 89%, #55cc71 0);
+        -webkit-transition: .3s ease-in-out;
+        -moz-transition: .3s ease-in-out;
+        -ms-transition: .3s ease-in-out;
+        -o-transition: .3s ease-in-out;
+        transition: .3s ease-in-out
+    }
+
 </style>
 <h2>🔎Tìm kiếm:</h2><br>
 <div class="gcse-search"></div><br>
@@ -14,59 +106,85 @@ permalink: "/categories.html"
 <ul id="accordion" class="accordion">
     <li>
         {% assign category_id = 1 %}
-        {% for tag in site.categories  %}
-            {% assign tag_size = tag[1].size %}
-            {% assign tag_name = tag[0] %}
-            {% if tag_size < 10 %} {% comment %} Add a '0' to the size section if size < 10. {% endcomment %}
-            {% assign taglist = taglist | append: "0"|append: tag_size|append: ","|append: tag_name |append: "@" %}
-            {% else %}
-            {% assign taglist = taglist | append: tag_size|append: ","|append: tag_name |append: "@" %}
-            {% endif %}
-        {% endfor %}
+        {% for tag in site.categories %}
+        {% assign tag_size = tag[1].size %}
+        {% assign tag_name = tag[0] %}
+        {% if tag_size < 10 %} {% comment %} Add a '0' to the size section if size < 10. {% endcomment %} {% assign
+            taglist=taglist | append: "0" |append: tag_size|append: "," |append: tag_name |append: "@" %} {% else %} {%
+            assign taglist=taglist | append: tag_size|append: "," |append: tag_name |append: "@" %} {% endif %} {%
+            endfor %} {% assign sorted_cats=taglist | split: "@" |sort|reverse %} {% for category_list in sorted_cats %}
+            {% assign category=category_list | split: "," %} <div class="link" id="{{ category_id }}">
+            <h3 id=" {{ category[0] | replace: " "," -" }}"><span>{{ category[1] }}</span><span
+                    class="badge pull-right">({{ category[0]}} post)</span></h3><i class="fa fa-chevron-down"></i></div>
+            <ul class="submenu-ca">
+                {% assign pages_list = site.posts | sort: 'date' | reverse %}
+                {% for post in pages_list %}
+                {% if post.title != null %}
+                {% if post.categories contains category[1] %}
+                {% if group == null or group == post.group %}
 
-        {% assign sorted_cats =  taglist | split: "@" |sort|reverse  %}
-        {% for  category_list in sorted_cats %}
-        {% assign category = category_list | split: "," %}
-        <div class="link" id="{{ category_id }}"><h3 id=" {{ category[0] | replace: " "," -" }}"><span>{{ category[1] }}</span><span class="badge pull-right">({{ category[0]}} post)</span></h3><i class="fa fa-chevron-down"></i></div>
-        <ul class="submenu-ca">
-            {% assign pages_list = site.posts | sort: 'date' | reverse %}
-            {% for post in pages_list %}
-            {% if post.title != null %}
-            {% if post.categories contains category[1] %}
-            {% if group == null or group == post.group %}
+                <span
+                class="hovertext" data-hover="{{ post.excerpt }}"> <a style="    padding-top: 2px;
+                padding-bottom: 2px;" href="{{ site.baseurl }}{{ post.url }}">👉{{ post.title }}.</a></span>
 
-                <a style="    padding-top: 2px;
-                padding-bottom: 2px;"
-                 href="{{ site.baseurl }}{{ post.url }}">👉{{ post.title }}.</a>
-
-            {% endif %}
-            {% endif %}
-            {% endif %}
+                {% endif %}
+                {% endif %}
+                {% endif %}
+                {% endfor %}
+                {% assign pages_list = nil %}
+                {% assign group = nil %}
+            </ul>
+            {% assign category_id = category_id | plus: 1 %}
             {% endfor %}
-            {% assign pages_list = nil %}
-            {% assign group = nil %}
-        </ul>
-        {% assign category_id = category_id | plus: 1 %}
-        {% endfor %}
     </li>
 </ul>
 
 <script>
-$(function(){var e=function(e,t){this.el=e||{},this.multiple=t||!1,this.el.find(".link").on("click",{el:this.el,multiple:this.multiple},this.dropdown)};e.prototype.dropdown=function(e){var t=e.data.el;($next=($this=$(this)).next()).slideToggle(),$this.parent().toggleClass("open"),e.data.multiple||t.find(".submenu-ca").not($next).slideUp().parent().removeClass("open")},new e($("#accordion"),!1)});
+    $(function () { var e = function (e, t) { this.el = e || {}, this.multiple = t || !1, this.el.find(".link").on("click", { el: this.el, multiple: this.multiple }, this.dropdown) }; e.prototype.dropdown = function (e) { var t = e.data.el; ($next = ($this = $(this)).next()).slideToggle(), $this.parent().toggleClass("open"), e.data.multiple || t.find(".submenu-ca").not($next).slideUp().parent().removeClass("open") }, new e($("#accordion"), !1) });
 </script>
 
 <script>
-let theCategoryFlat;
+    let theCategoryFlat;
 
-const queryString = window.location.search, urlParams = new URLSearchParams(queryString);
-if(urlParams.get("category")){
-    var categoryFlat = (urlParams.get("category").toString()).trim();
-    theCategoryFlat = document.getElementById(categoryFlat);
-    if(theCategoryFlat){
-        theCategoryFlat.style.backgroundColor = "#0089e0";
+    const queryString = window.location.search, urlParams = new URLSearchParams(queryString);
+    if (urlParams.get("category")) {
+        var categoryFlat = (urlParams.get("category").toString()).trim();
+        theCategoryFlat = document.getElementById(categoryFlat);
+        if (theCategoryFlat) {
+            theCategoryFlat.style.backgroundColor = "#0089e0";
+        }
     }
-}
 
 </script>
 
 
+<style>
+.hovertext {
+  position: relative;
+  border-bottom: 1px dotted black;
+}
+
+.hovertext:before {
+  content: attr(data-hover);
+  visibility: hidden;
+  opacity: 0;
+  width: 140px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  border-radius: 5px;
+  padding: 5px 0;
+  transition: opacity 1s ease-in-out;
+
+  position: absolute;
+  z-index: 1;
+  left: 0;
+  top: 110%;
+}
+
+.hovertext:hover:before {
+  opacity: 1;
+  visibility: visible;
+}
+
+</style>
