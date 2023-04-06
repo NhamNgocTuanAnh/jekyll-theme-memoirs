@@ -73,7 +73,7 @@
 .tags a:hover:before{border-color:transparent #555 transparent transparent;}
 </style>
 
-<br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <div class="post">
       <ul class="tags">
         <li>
@@ -91,7 +91,7 @@
             {% assign sorted_cats =  taglist | split: "@" |sort|reverse  %}
             {% for  category_list in sorted_cats %}
             {% assign category = category_list | split: "," %}
-            <li><a href="{{ category_id }}" target="_blank" class="item-link item-content link external" id="instagram" onclick='getHrefOnclickAndRedirectWithLink(event)'>{{ category[1] }}({{ category[0]}} post)</a></li>
+            <li><a href="{{ category_id }}" target="_blank" class="item-link item-content link external" id="instagram" onclick='getHrefOnclickAndRedirectWithLink(event)'>{{ category[1] }} ({{ category[0]}} post)</a></li>
 			{% assign category_id = category_id | plus: 1 %}
             {% endfor %}
         </li>

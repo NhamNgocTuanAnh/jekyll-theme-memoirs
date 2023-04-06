@@ -13,7 +13,6 @@ title: Trang chủ
             {% include postbox.html %}
         {% endif %}
     {% endfor %}
-
     {% for post in paginator.posts %}
         {% unless post.pinned %}
             {% include postbox.html %}
