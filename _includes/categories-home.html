@@ -9,8 +9,8 @@
 		assign taglist=taglist | append: tag_size|append: "," |append: tag_name |append: "@" %} {% endif %} {% endfor %}
 		{% assign sorted_cats=taglist | split: "@" |sort|reverse %} {% for category_list in sorted_cats %} {% assign
 		category=category_list | split: "," %} <span class="post-name font-weight-bold" style="font-size: 20px;"><a
-			href="{{ category_id }}" target="_blank" onclick='getHrefOnclickAndRedirectWithLink(event)'>{{ category[1]
-			}} ({{category[0]}} post) ||</a></span>
+			href="{{ category_id }}" target="_blank" onclick='getHrefOnclickAndRedirectWithLink(event)'>  {{ category[1]
+			}} ({{category[0]}} post) ||</a></span>&nbsp;&nbsp;&nbsp;&nbsp;
 		{% assign category_id = category_id | plus: 1 %}
 		{% endfor %}
 </div>
