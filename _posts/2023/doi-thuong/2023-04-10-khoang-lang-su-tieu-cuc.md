@@ -36,6 +36,8 @@ Trên công ty hay những người mà các ông gặp, đã bao giờ khiến 
 
 Nhưng tin tôi đi, ai trên cuộc đời này đến với các ông đều mang cho các ông một bài học nào đó, không có những người này, các ông không thể hoàn thiện được bản thân cũng như chưa tìm được mình đang thiếu và sai sót ở những chỗ nào. Những người mà người ta mang đến cho các ông vật cản là đang thách thức giới hạn của các ông đấy, đang dạy cho các ông cách kiềm chế bản thân, sự tức giận và học được cả tính kiên nhẫn nữa. Vì vậy những người đó đều là một người thầy của mình, vậy khi gặp những người thế này, đừng lấy nó làm quy chuẩn để mình không cố gắng nữa, mà hãy từ đó tìm lại chính bản thân mình các ông ạ, lỗ lực, cố gắng hơn để hoàn thiện bản thân mình mỗi ngày các ông nhé!.
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/00iwQgjIgoGO94BRBDyClo?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 Đôi khi chúng ta không muốn tiêu cực, nhưng cảm xúc lại không để yên cho ta như vậy, nó khiến cho chúng ta nhiều lúc phải nghe theo nó, và nhiều lần nghe theo nó các ông sẽ tìm ra được sự thoải mái cũng như sự tĩnh lặng trong tâm hồn mình. Khi mà các ông tìm được sự thoải mái trong tâm hồn, đạt được đến mức tĩnh lặng trong muôn vàn trạng thái cảm xúc trái chiều thì lúc đó các ông sẽ không còn cảm xúc tiêu cực nữa. Những thứ là cho ta đau thì lại càng nhớ lâu hơn mà. Đừng để sự tiêu cực ảnh hưởng đến các mối quan hệ và sự ra quyết định của các ông nhé!.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/00iwQgjIgoGO94BRBDyClo?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
