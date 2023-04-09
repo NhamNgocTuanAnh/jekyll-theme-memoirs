@@ -18,7 +18,7 @@ keywords:
 date: 2023-04-12 02:08:28 +0700
 ---
 
-Cho mignh hỏi nhé, các bạn đã từng có cảm xúc day dứt rồi giằng xé trong lòng khi mình đã làm sai điều gì đó làm ảnh hưởng đến cảm xúc của đối phương hoặc mình đã không làm được một việc gì đó trước khi mà người thân của mình vĩnh viễn không còn trên thế gian này chưa?.....
+Cho mình hỏi nhé, các bạn đã từng có cảm xúc day dứt rồi giằng xé trong lòng khi mình đã làm sai điều gì đó làm ảnh hưởng đến cảm xúc của đối phương hoặc mình đã không làm được một việc gì đó trước khi mà người thân của mình vĩnh viễn không còn trên thế gian này chưa?.....
 
 > Vậy nỗi buồn lớn nhất mà bạn từng trải qua là gì?
 
