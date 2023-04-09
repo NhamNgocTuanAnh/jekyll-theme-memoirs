@@ -1,20 +1,17 @@
-name: Deploy my website
-on: push
-
+name: Clear CloudFlare cache
+on: [deployment]
 jobs:
-  deploy:
+  run:
     runs-on: ubuntu-latest
     steps:
-
-    # Put steps here to build your site, deploy it to a service, etc.
-
-    - name: Purge cache
-      uses: NhamNgocTuanAnh/nhamngoctuananh.github.io@anhnnt-master
+    - name: Call CloudFlare API
       env:
-        # Zone is required by both authentication methods
-        CLOUDFLARE_ZONE: ${{ secrets.CLOUDFLARE_ZONE }}
-
         CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
-        # ...or:
-        CLOUDFLARE_EMAIL: ${{ secrets.CLOUDFLARE_EMAIL }}
-        CLOUDFLARE_KEY: ${{ secrets.CLOUDFLARE_KEY }}
+      run: |
+        [[ -n "$CLOUDFLARE_TOKEN" ]] || \
+          ( echo "Error: Must set CLOUDFLARE_TOKEN secret"; exit 1 )
+        curl -sS -X POST \
+          "https://api.cloudflare.com/client/v4/zones/<ZONE_ID>/purge_cache" \
+          -H "Authorization: Bearer $CLOUDFLARE_TOKEN" \
+          -H "Content-Type: application/json" \
+          --data '{"purge_everything": true}'
