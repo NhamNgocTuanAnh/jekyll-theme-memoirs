@@ -15,7 +15,7 @@ keywords:
   - áp lực đồng trang lứa
   - viết cho tuổi 25
   - người mà chúng ta gặp
-date: 2023-04-12 02:08:28 +0700
+date: 2023-04-14 02:08:28 +0700
 ---
 
 Cho mignh hỏi nhé, các bạn đã từng có cảm xúc day dứt rồi giằng xé trong lòng khi mình đã làm sai điều gì đó làm ảnh hưởng đến cảm xúc của đối phương hoặc mình đã không làm được một việc gì đó trước khi mà người thân của mình vĩnh viễn không còn trên thế gian này chưa?.....
