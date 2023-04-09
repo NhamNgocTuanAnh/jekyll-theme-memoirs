@@ -15,7 +15,7 @@ keywords:
   - Meike 25mm F1.8
   - Ống kính giả rẻ cho Mirrorless aps-c
   - Đánh giá lens Meike 25mm
-date: 2023-02-22 10:01:10 +0700
+date: 2023-04-08 10:01:10 +0700
 permalink: nhiep-anh/reviews/danh-gia-meike-25mm-f18-ong-kinh-mirrorless-apsc-gia-sinh-vien-khau-do-lon
 ---
 
