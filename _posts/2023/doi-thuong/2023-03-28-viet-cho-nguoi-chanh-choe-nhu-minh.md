@@ -84,7 +84,7 @@ Gần đây mình có xem một bộ phim là "Everything Everywhere All At Once
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/ngam/tu-te-voi-nguoi-khac.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">“Hãy tử tế với người khác, dù cho đang ở trong hoàn cảnh nào” – WAYMOND WANG</span></div>
 
-> Loài vịt có thể bơi, bay, đi bộ => giống loài ưu việt. Nhưng mỗi khi đi bộ, vịt có thể rất đau cũng chẳng có số má gì trong công cuộc bay lượn.
+> Loài vịt có thể bơi, bay, đi bộ => giống loài ưu việt. Nhưng mỗi khi đi bộ, vịt có thể rất đau. Và chúng cũng chẳng có số má gì trong công cuộc bay lượn.
 
 <div>
 <div class="video-container">
