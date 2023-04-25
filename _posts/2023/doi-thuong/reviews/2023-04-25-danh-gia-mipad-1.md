@@ -57,12 +57,14 @@ Sử dụng 1 thời gian thấy máy sụt pin nhanh do lâu năm thì không n
 - đi kèm với viên pin for mà shop đã thay - 7000 mah, onscreen tầm 5 tiếng.
 - sạc chậm 4 tiếng
 Thời gian chờ được 2 ngày, mặc dù mình bật tiết kiệm pin, tắt hết kết nối để một xó không làm gì. Pin khá yếu, không dùng dễ bị tự hết pin sập nguồn.
+
 ### Cách mình tối ưu Mipad 1
 * Root máy: gần như là bắt buộc rồi
 * Greenify: Tối ưu hóa tuổi thọ pin. đóng băng ứng dụng
 * Tasker: Tự động bật chế độ tiết kiệm pin và wifi sau khi tắt màn hình, bật chế độ im lặng sau khi úp máy,...Tasker giúp bạn tiết kiệm thời gian và pin bằng cách tự động hóa mọi tác vụ trên điện thoại của bạn.
 * Swapper: Ứng dụng Android cho phép bạn tạo ra một phân vùng swap trên thẻ nhớ của bạn để tăng dung lượng bộ nhớ đệm. Swapper ram có thể giúp bạn chạy các ứng dụng nặng hơn trên điện thoại của bạn, nhưng cũng có thể làm giảm tuổi thọ của thẻ nhớ và tốc độ của máy. Theo mình thấy không hiệu quả vì rất lag và chậm trong khi mình đã dùng thẻ class 10 U3
 * SD maid: một ứng dụng dọn dẹp rác cho điện thoại Android. Nó có thể giúp bạn loại bỏ những tập tin không cần thiết, giải phóng bộ nhớ và cải thiện hiệu suất của điện thoại.
+
 ### Tổng kết đánh giá chung và tư vấn
 
 Máy bán ra thường được cài sẵn một trong 2 bản rom Android là:
