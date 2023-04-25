@@ -83,6 +83,7 @@ Tuy nhiên, máy tính bảng này cũng có một số điểm yếu như:
 *   Thiết kế không quá đẹp mắt với nhựa bóng và xước dăm nhiều.
 Mình có gặp vấn đề không nhận thẻ sd, và mình tải ứng dụng về  thì nhiều ứng dụng k thể gỡ dk cài đặt .ib shop rất chậm và nhiều khi shop k rep tn nữa...
 > Sản phẩm tạm ổn so với giá tiền.
+
 ### Khuyên dùng
 
 Theo những gì mình tìm thấy, trải nghiệm sau một thời gian sử dụng xiaomi mipad 1 thì với cấu hình cũ, thỉnh thoảng lag, bạn nên xóa ram mỗi khi dùng 1 ứng dụng. Nên mua bản 16gb và lắp SD dùng là ok, không nên mua bản 64gb làm gì vì cài nhiều ứng dụng cũng lag máy mà bộ nhớ đã sử dụng lâu cũng không tốt.
