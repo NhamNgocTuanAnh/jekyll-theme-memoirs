@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mipad 1. Còn lại gì 2023?'
+title: 'Xiaomi MiPad 1. Còn lại gì 2023?'
 author: sal
 categories: [ Reviews 📝 ]
 tags: [ đồ dùng ]
