@@ -82,6 +82,7 @@ Tuy nhiên, máy tính bảng này cũng có một số điểm yếu như:
 *   Hệ điều hành Android đã ngưng cập nhật .
 *   Thiết kế không quá đẹp mắt với nhựa bóng và xước dăm nhiều.
 Mình có gặp vấn đề không nhận thẻ sd, và mình tải ứng dụng về  thì nhiều ứng dụng k thể gỡ dk cài đặt .ib shop rất chậm và nhiều khi shop k rep tn nữa...
+
 > Sản phẩm tạm ổn so với giá tiền.
 
 ### V. Khuyên dùng
