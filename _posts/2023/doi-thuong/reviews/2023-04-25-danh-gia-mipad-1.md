@@ -32,8 +32,8 @@ permalink: reviews/danh-gia-chi-tiet-mipad-1
 * Xiaomi mipad 1 là máy tính bảng đầu tiên của Xiaomi, có thiết kế nhỏ gọn, màn hình 7.9 inch, độ phân giải 2048 x 1536 pixel.
 * Máy tính bảng này có hiệu năng ấn tượng với vi xử lý Nvidia Tegra K1, RAM 2GB và bộ nhớ trong 16GB hoặc 64GB.
 * Chất lượng camera tốt với camera trước 5MP và camera sau 8MP.
-* Thời lượng sử dụng lên đến 11 giờ vif được trang bị viên pin có dung lượng khá cao với 6700 mAh
-* Máy tính bảng này thuộn phân khúc giá rẻ.
+* Thời lượng sử dụng lên đến 11 giờ vì được trang bị viên pin có dung lượng khá cao với 6700 mAh
+* Máy tính bảng này thuộc phân khúc giá rẻ.
 
 ### II. Tính năng và hoạt động
 #### a. Màn hình của Xiaomi MiPad
