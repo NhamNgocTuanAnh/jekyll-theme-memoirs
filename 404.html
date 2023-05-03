@@ -3,3 +3,15 @@ layout: default-404
 title: 404
 permalink: /404.html
 ---
+
+{% for post in paginator.posts %}
+{% if post.pinned %}
+    <!-- Renders all the pinned posts -->
+    {% include postbox.html %}
+{% endif %}
+{% endfor %}
+{% for post in paginator.posts %}
+{% unless post.pinned %}
+    {% include postbox.html %}
+{% endunless %}
+{% endfor %}
