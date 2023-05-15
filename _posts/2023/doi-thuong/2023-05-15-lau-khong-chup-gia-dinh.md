@@ -1,0 +1,78 @@
+---
+layout: post
+title: 'Mình rất ít ảnh chụp chung với gia đình?'
+author: sal
+lazyimages: "enabled"
+categories: [ Tản mạn 📓 ]
+tags: [ngẫm]
+image: assets/images/2023/ngam/avt/gia-dinh-nho-cua-toi-avt.webp
+rating: 5
+permalink: doi-thuong/chup-anh-cung-gia-dinh
+excerpt: Mình thích chụp hình. Chụp chân dung rất nhiều. Nhưng chụp gia đình lại khiêm tốn.
+description: Mình thích chụp hình. Chụp chân dung rất nhiều. Nhưng chụp gia đình lại khiêm tốn.
+adsense: "enabled"
+keywords:
+  - Giao tiếp gia đình kém
+  - Chụp hình dùm gia đình
+date: '2023-05-15'
+---
+
+> Tại sao chúng ta lại có rất ít ảnh chụp chung với gia đình?
+
+Hôm nọ mình có đọc một câu hỏi vu vơi trên mạng, nghe ai đó hỏi "Lần gần nhất bạn chụp với bố mẹ là khi nào?".
+
+Mình thích chụp hình. Chụp chân dung rất nhiều. Nhưng chụp gia đình lại khiêm tốn. Mình luôn tỏ ra mình mạnh mẽ điều đó dường như khiến mình trở nên ổn hơn, pro hơn. Gia đình cũng ít khi phải lo lắng cho mình. Có lẽ mình **quá ngại** để bộc bạch những cảm xúc **yêu thương**, ngại thể hiện **tình cảm** qua những bức ảnh chụp chung.
+
+
+<div class="content" style="text-align:center; ">
+<img data-src="../../assets/images/2023/ngam/gia-dinh-nho-cua-toi-5.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Nhìn nó cứ bị quê đấy các bạn. Kiểu bạn tôi chụp tôi ngầu lòi xong vào ống kính máy bố mẹ tôi nhìn vừa lùn vừa xấu ấy =)).</span></div>
+
+Mỗi khi mình giơ lên chụp là họ lại cảnh giác, nên bức ảnh không còn chân thực nữa.
+
+<div class="content" style="text-align:center; ">
+<img data-src="../../assets/images/2023/ngam/gia-dinh-nho-cua-toi-8.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Đây là khoảnh khắc năm nhất mấy thằng nam nhân vừa mới biết đi xe máy. Đèo nhau 200km mất 6 tiếng. Ngồi ăn tối tại Mai Châu.</span></div>
+
+
+Thực sự mình có phải ngại không?! Ôi những tấm hình chụp cốt để lưu lại kỉ niệm với bạn, với gia đình. Lâu lâu lôi ra làm kỷ niệm. Ôi, gia đình quá đỗi thân thuộc nó sẽ luôn bên cạnh tôi đến nỗi mình chẳng sợ mất, cũng chẳng cần vài ba tấm hình để lưu giữ chăng?
+
+<div class="content" style="text-align:center; ">
+<img data-src="../../assets/images/2023/ngam/gia-dinh-nho-cua-toi-3.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Đây là khoảnh khắc năm nhất mấy thằng nam nhân vừa mới biết đi xe máy. Đèo nhau 200km mất 6 tiếng. Ngồi ăn tối tại Mai Châu.</span></div>
+
+Bố mẹ ngày càng nhiều tuổi lại thêm ít tiếp xúc với công nghệ nên ngại chụp ảnh. Thậm chí có người vào dịp Tết cũng không có bức hình chụp chung nào. Nhiều lần như vậy thành lâu, lâu dần như vậy lại thành không quen. Nên càng ngày chúng ta càng ít có ảnh chung với bố mẹ.
+
+> “Khi tôi đến một triển lãm, một quán cà phê hay một nơi đẹp đẽ nào đó, tôi nhìn xung quanh…và thấy mọi người đang đăm chiêu điện thoại… nhưng họ không chụp hình, họ chỉ cầm như đang chụp mà thôi.”
+
+Hiện tại, mình đang cố không để chiếc máy ảnh xen vào ngay giữa những khoành khác quan trọng.
+
+> Chúng ta có thể có cả ngàn tấm hình, rồi vứt chúng vào xó xỉnh nào đó, và chẳng bao giờ xem lại, thậm trí chẳng có để tâm đến việc đánh dấu và sắp xếp những tấm hình đó, từ ấy không còn nhớ đến chúng.
+
+Vậy nên đừng từ bỏ một phần vai trò là người lưu giữ ký ức, học cách chia sẻ về những trải nghiệm của mình.
+
+<div class="content" style="text-align:center; ">
+<img data-src="../../assets/images/2023/ngam/gia-dinh-nho-cua-toi-1.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption"></span></div>
+
+### **Một vài cách setup máy để chụp:**
+
+**Về mặt thiết bị, ưu tiên lý tưởng**:
+
+*   Máy ảnh có tốc độ lấy nét nhanh
+*   Ưu tiên máy ảnh zoom linh hoạt: 18-150, 24-105mm,…
+*   Khẩu độ lớn là ưu thế trong các trường hợp tối: f1.8 hoặc f2.8
+*   Máy phải nhỏ nhẹ, trông to mọi người để ý tạo dáng ngay.
+*   Xử lý iso tốt, vì khi tăng tốc độ chụp thì ISO sẽ bị đẩy lên rất cao
+
+**Cách chụp:**
+
+*   Nếu chưa quen hoặc cần linh hoạt chụp nhanh, nên chọn chế độ chụp auto hoặc ưu tiên tốc độ.
+*   Đo sáng theo da mặt của trẻ, giữ nguyên một tốc độ hoặc một khẩu độ, không nên thay đổi liên tục, trừ phi thay đổi bối cảnh ánh sáng hoặc ý tưởng nào đó.
+*   Chụp đông người thì ưu tiên khép khẩu (thường là khẩu 8 hoặc 11, đừng 16 22 vì tán xạ)
+*   Chọn tốc độ màn trập nhanh 1/250 - 1/1000 giây để bắt dính cùng với đó là chế độ chụp liên tục.
+*   Có thể thử chụp tốc thấp, để có thể biểu diễn được hành động. thường là 1/30s
+*   Chụp điện thoại cho lành.
+
+### Bài viết tham khảo
+
+*   [Vì sao người trẻ ít nói lời yêu thương với cha mẹ?](https://dantri.com.vn/nhip-song-tre/vi-sao-nguoi-tre-it-noi-loi-yeu-thuong-voi-cha-me-20230411153041806.htm)
+*   [CHỤP HÌNH QUÁ NHIỀU ẢNH HƯỞNG NHƯ THẾ NÀO ĐẾN KÝ ỨC CỦA CHÚNG TA?](https://psychub.vn/kienthuc/chup-hinh-qua-nhieu-anh-huong-nhu-the-nao-den-ky-uc-cua-chung-ta/)
+
+**Người kia ngập ngừng khá lâu rồi nói "T không nhớ rõ, lâu lắm rồi t không chụp cùng bố mẹ và cũng hiếm khi".**
