@@ -38,9 +38,9 @@ Thực sự mình có phải ngại không?! Ôi những tấm hình chụp cố
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/ngam/gia-dinh-nho-cua-toi-3.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Đây là khoảnh khắc năm nhất mấy thằng nam nhân vừa mới biết đi xe máy. Đèo nhau 200km mất 6 tiếng. Ngồi ăn tối tại Mai Châu.</span></div>
 
-Bố mẹ ngày càng nhiều tuổi lại thêm ít tiếp xúc với công nghệ nên ngại chụp ảnh. Thậm chí có người vào dịp Tết cũng không có bức hình chụp chung nào. Nhiều lần như vậy thành lâu, lâu dần như vậy lại thành không quen. Nên càng ngày chúng ta càng ít có ảnh chung với bố mẹ.
+dòng chảy thời đại quá nhanh, từ xưa với chiếc máy ảnh film rồi tới thời điện thoại nhen nhóm rồi tới thời nay, bố mẹ lại ít tiếp xúc với công nghệ nên rất ngại chụp ảnh. Thậm chí đến cả dịp Tết có người cũng không có nổi một bức hình chụp chung nào với gia đình nhỏ của chính mình. Nhiều lần như vậy thành lâu, lâu dần như vậy lại thành không quen. Nên càng ngày chúng ta càng ít có ảnh chung với bố mẹ.
 
-> “Khi tôi đến một triển lãm, một quán cà phê hay một nơi đẹp đẽ nào đó, tôi nhìn xung quanh…và thấy mọi người đang đăm chiêu điện thoại… nhưng họ không chụp hình, họ chỉ cầm như đang chụp mà thôi.”
+> “Khi tôi đến một triển lãm, một quán cà phê hay một nơi đẹp đẽ nào đó, tôi nhìn xung quanh…và thấy mọi người đang đăm chiêu điện thoại… nhưng họ đâu có chụp hình, họ chỉ cầm như đang chụp hình mà thôi.”
 
 Hiện tại, mình đang cố không để chiếc máy ảnh xen vào ngay giữa những khoành khác quan trọng.
 
