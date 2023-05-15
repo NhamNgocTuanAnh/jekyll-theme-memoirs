@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mình rất ít ảnh chụp chung với gia đình?'
+title: 'Tôi từng không thích chụp ảnh với gia đình?'
 author: sal
 lazyimages: "enabled"
 categories: [ Tản mạn 📓 ]
@@ -17,12 +17,9 @@ keywords:
 date: '2023-05-15'
 ---
 
-> Tại sao chúng ta lại có rất ít ảnh chụp chung với gia đình?
-
-Hôm nọ mình có đọc một câu hỏi vu vơi trên mạng, nghe ai đó hỏi "Lần gần nhất bạn chụp với bố mẹ là khi nào?".
+Hôm nọ mình có đọc một câu hỏi vu vơ trên mạng, nghe ai đó hỏi "Lần gần nhất bạn chụp với bố mẹ là khi nào?".
 
 Mình thích chụp hình. Chụp chân dung rất nhiều. Nhưng chụp gia đình lại khiêm tốn. Mình luôn tỏ ra mình mạnh mẽ điều đó dường như khiến mình trở nên ổn hơn, pro hơn. Gia đình cũng ít khi phải lo lắng cho mình. Có lẽ mình **quá ngại** để bộc bạch những cảm xúc **yêu thương**, ngại thể hiện **tình cảm** qua những bức ảnh chụp chung.
-
 
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/ngam/gia-dinh-nho-cua-toi-5.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Nhìn nó cứ bị quê đấy các bạn. Kiểu bạn tôi chụp tôi ngầu lòi xong vào ống kính máy bố mẹ tôi nhìn vừa lùn vừa xấu ấy =)).</span></div>
@@ -38,11 +35,11 @@ Thực sự mình có phải ngại không?! Ôi những tấm hình chụp cố
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/ngam/gia-dinh-nho-cua-toi-3.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Đây là khoảnh khắc năm nhất mấy thằng nam nhân vừa mới biết đi xe máy. Đèo nhau 200km mất 6 tiếng. Ngồi ăn tối tại Mai Châu.</span></div>
 
-dòng chảy thời đại quá nhanh, từ xưa với chiếc máy ảnh film rồi tới thời điện thoại nhen nhóm rồi tới thời nay, bố mẹ lại ít tiếp xúc với công nghệ nên rất ngại chụp ảnh. Thậm chí đến cả dịp Tết có người cũng không có nổi một bức hình chụp chung nào với gia đình nhỏ của chính mình. Nhiều lần như vậy thành lâu, lâu dần như vậy lại thành không quen. Nên càng ngày chúng ta càng ít có ảnh chung với bố mẹ.
+dòng chảy thời đại quá nhanh, từ xưa với chiếc máy ảnh film rồi tới thời điện thoại nhen nhóm rồi tới thời nay, bố mẹ lại ít tiếp xúc với công nghệ nên rất ngại chụp ảnh. Thậm chí đến cả dịp Tết có người cũng không có nổi một bức hình chụp chung nào với gia đình nhỏ của chính mình. Nhiều lần như vậy thành lâu, lâu dần như vậy lại thành không quen. Càng ngày càng ngày, bố mẹ lại ít chụp hình với ta.
 
 > “Khi tôi đến một triển lãm, một quán cà phê hay một nơi đẹp đẽ nào đó, tôi nhìn xung quanh…và thấy mọi người đang đăm chiêu điện thoại… nhưng họ đâu có chụp hình, họ chỉ cầm như đang chụp hình mà thôi.”
 
-Hiện tại, mình đang cố không để chiếc máy ảnh xen vào ngay giữa những khoành khác quan trọng.
+Mình đang tập không để tư duy kỹ thuật vào những bức ảnh khoảnh khắc đó.
 
 > Chúng ta có thể có cả ngàn tấm hình, rồi vứt chúng vào xó xỉnh nào đó, và chẳng bao giờ xem lại, thậm trí chẳng có để tâm đến việc đánh dấu và sắp xếp những tấm hình đó, từ ấy không còn nhớ đến chúng.
 
