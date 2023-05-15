@@ -49,7 +49,7 @@ Hiện tại, mình đang cố không để chiếc máy ảnh xen vào ngay gi�
 Vậy nên đừng từ bỏ một phần vai trò là người lưu giữ ký ức, học cách chia sẻ về những trải nghiệm của mình.
 
 <div class="content" style="text-align:center; ">
-<img data-src="../../assets/images/2023/ngam/gia-dinh-nho-cua-toi-1.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption"></span></div>
+<img data-src="../../assets/images/2023/ngam/gia-dinh-nho-cua-toi-1.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption"></span></div><br>
 
 ### **Một vài cách setup máy để chụp:**
 
@@ -58,13 +58,13 @@ Vậy nên đừng từ bỏ một phần vai trò là người lưu giữ ký �
 *   Máy ảnh có tốc độ lấy nét nhanh
 *   Ưu tiên máy ảnh zoom linh hoạt: 18-150, 24-105mm,…
 *   Khẩu độ lớn là ưu thế trong các trường hợp tối: f1.8 hoặc f2.8
-*   Máy phải nhỏ nhẹ, trông to mọi người để ý tạo dáng ngay.
+*   Máy phải nhỏ nhẹ, trông to mọi người để ý tạo dáng ngay - mà toàn tạo fail ;(
 *   Xử lý iso tốt, vì khi tăng tốc độ chụp thì ISO sẽ bị đẩy lên rất cao
 
 **Cách chụp:**
 
 *   Nếu chưa quen hoặc cần linh hoạt chụp nhanh, nên chọn chế độ chụp auto hoặc ưu tiên tốc độ.
-*   Đo sáng theo da mặt của trẻ, giữ nguyên một tốc độ hoặc một khẩu độ, không nên thay đổi liên tục, trừ phi thay đổi bối cảnh ánh sáng hoặc ý tưởng nào đó.
+*   Đo sáng toàn cục là chủ yếu, nhưng lưu ý khi chụp ngược sáng nên có flash đi kèm hoặc đo sáng điểm vào một người nào đó tối. Đánh đỏi khung cảnh xung quanh hơi cháy.
 *   Chụp đông người thì ưu tiên khép khẩu (thường là khẩu 8 hoặc 11, đừng 16 22 vì tán xạ)
 *   Chọn tốc độ màn trập nhanh 1/250 - 1/1000 giây để bắt dính cùng với đó là chế độ chụp liên tục.
 *   Có thể thử chụp tốc thấp, để có thể biểu diễn được hành động. thường là 1/30s
@@ -75,4 +75,4 @@ Vậy nên đừng từ bỏ một phần vai trò là người lưu giữ ký �
 *   [Vì sao người trẻ ít nói lời yêu thương với cha mẹ?](https://dantri.com.vn/nhip-song-tre/vi-sao-nguoi-tre-it-noi-loi-yeu-thuong-voi-cha-me-20230411153041806.htm)
 *   [CHỤP HÌNH QUÁ NHIỀU ẢNH HƯỞNG NHƯ THẾ NÀO ĐẾN KÝ ỨC CỦA CHÚNG TA?](https://psychub.vn/kienthuc/chup-hinh-qua-nhieu-anh-huong-nhu-the-nao-den-ky-uc-cua-chung-ta/)
 
-**Người kia ngập ngừng khá lâu rồi nói "T không nhớ rõ, lâu lắm rồi t không chụp cùng bố mẹ và cũng hiếm khi".**
+**Cậu ngập ngừng khá lâu, rồi nói "Tớ không nhớ rõ, tớ không chụp cùng bố mẹ đã lâu lắm rồi, tớ cũng hiếm khi abc, xyz,... ".**
