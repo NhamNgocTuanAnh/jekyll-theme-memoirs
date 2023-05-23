@@ -58,6 +58,9 @@ Ban đầu mình đã rất lo khi plan kế hoạch đi Tả Van - một địa
 Ăn cùng người dân bản, tuy hơi nhiều thịt, nhưng rất dân dã, nhẹ nhà. Khi họ nói chuyện với nhau, dùng tiếng bản địa làm mình có cảm giác như đang ở một hành tinh khác vậy😌
 
 <div class="content" style="text-align:center; ">
+<a href="https://imgur.com/Bdy8Zwg"><img src="https://i.imgur.com/Bdy8Zwg.jpg" title="source: imgur.com" /></a>Yêu tổ quốc con người Việt Nam.</div>
+
+<div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-7.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Các bạn có thể đi dạo, khám phá quanh bản, đâu đâu cũng tràn ngập những bông hoa khoe sắc</span></div>
 
 Bạn có thể vào <a href="https://www.facebook.com/media/set/?vanity=nntatlu&set=a.2574616576014311" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>đây</a> để xem "kẻ dại khờ" này đi tìm những nơi vắng vẻ! Chúc một buổi tối vui vẻ!!👨‍🚀
