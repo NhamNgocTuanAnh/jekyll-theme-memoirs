@@ -79,7 +79,7 @@ Một mình leo lên cái cột điện này, khá mệt, nhưng khung cảnh đ
 <img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-5.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Thửa ruộng bậc thang, những dãy núi và những cậu bé ngồi nghe chim hót.</span></div>
 
 <div class="content" style="text-align:center; ">
-<img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-3.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Buổi sáng khi thức giấc, qua khung cửa sổ là cả một khung cảnh đã khiến mình có cảm giác như đang ở thiên đường vậy.</span></div>
+<a href="https://imgur.com/iMNDXOu"><img src="https://i.imgur.com/iMNDXOu.jpg" title="source: imgur.com" /></a><br><img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-3.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Buổi sáng khi thức giấc, qua khung cửa sổ là cả một khung cảnh đã khiến mình có cảm giác như đang ở thiên đường vậy.</span></div>
 
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-6.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Các bạn có thể đi dạo, khám phá quanh bản, đâu đâu cũng tràn ngập những bông hoa khoe sắc</span></div>
