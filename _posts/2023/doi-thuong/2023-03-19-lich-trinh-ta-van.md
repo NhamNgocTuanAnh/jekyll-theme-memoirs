@@ -73,8 +73,7 @@ Nào đi Tả Van...
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-4.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Mình cảm thấy thích thú và gần gũi hơn vì vật liệu gỗ và những đồ dùng dân tộc truyền thống.</span></div>
 <!-- Một minh leo lên -->
-Một mình leo lên cái cột điện này, khá mệt, nhưng khung cảnh đền đáp mình thật xứng đáng..<br>
-<a href="https://imgur.com/nBc9lVX"><img src="https://i.imgur.com/nBc9lVX.jpg" title="source: imgur.com" /></a><a href="https://imgur.com/SsyZnH6"><img src="https://i.imgur.com/SsyZnH6.jpg" title="source: imgur.com" /></a><a href="https://imgur.com/Qo1wy8D"><img src="https://i.imgur.com/Qo1wy8D.jpg" title="source: imgur.com" /></a><a href="https://imgur.com/Pdw9F01"><img src="https://i.imgur.com/Pdw9F01.jpg" title="source: imgur.com" /></a>
+Một mình leo lên cái cột điện này, khá mệt, nhưng khung cảnh đền đáp mình thật xứng đáng..<br><div class="content" style="text-align:center; "><a href="https://imgur.com/nBc9lVX"><img src="https://i.imgur.com/nBc9lVX.jpg" title="source: imgur.com" /></a><a href="https://imgur.com/SsyZnH6"><img src="https://i.imgur.com/SsyZnH6.jpg" title="source: imgur.com" /></a><a href="https://imgur.com/Qo1wy8D"><img src="https://i.imgur.com/Qo1wy8D.jpg" title="source: imgur.com" /></a><a href="https://imgur.com/Pdw9F01"><img src="https://i.imgur.com/Pdw9F01.jpg" title="source: imgur.com" /></a></div>
 
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-5.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Thửa ruộng bậc thang, những dãy núi và những cậu bé ngồi nghe chim hót.</span></div>
@@ -92,6 +91,11 @@ Một mình leo lên cái cột điện này, khá mệt, nhưng khung cảnh đ
 
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-7.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Các bạn có thể đi dạo, khám phá quanh bản, đâu đâu cũng tràn ngập những bông hoa khoe sắc</span></div>
+
+Về thôi,...
+<div class="content" style="text-align:center; ">
+<a href="https://imgur.com/fRKwN8q"><img src="https://i.imgur.com/fRKwN8q.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/nyNXqZb"><img src="https://i.imgur.com/nyNXqZb.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/coNUuWK"><img src="https://i.imgur.com/coNUuWK.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Cậu bé đứng hóng mìh</span>
+</div>
 
 Bạn có thể vào <a href="https://www.facebook.com/media/set/?vanity=nntatlu&set=a.2574616576014311" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>đây</a> để xem "kẻ dại khờ" này đi tìm những nơi vắng vẻ! Chúc một buổi tối vui vẻ!!👨‍🚀
 
