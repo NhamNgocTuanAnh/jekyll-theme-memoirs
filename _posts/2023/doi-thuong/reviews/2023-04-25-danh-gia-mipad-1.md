@@ -47,7 +47,7 @@ Do dùng phiên bản thuần google nên mình không biết nói gì thêm.
 <p style="text-align:center; ">
 <picture>
   <source data-srcset="../../assets/images/2023/reviews/danh-gia-mipad1.webp" />
-  <img class="responsive" data-lowsrc="../../assets/images/2023/reviews/danh-gia-mipad1.webp" alt="Chụp cận cảnh lens Meike 25mm" data-sizes="auto" loading="lazy"/>
+  <img class="responsive" data-lowsrc="../../assets/images/2023/reviews/danh-gia-mipad1.webp" alt="giao diện mipad 1" data-sizes="auto" loading="lazy"/>
   Không có gì đặc sắc, giao diện tùy chỉnh nghèo nàn
 </picture>
 </p>
