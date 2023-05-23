@@ -21,8 +21,21 @@ date: 2023-04-25 22:22:22 +0700
 
 Sau một lần “hoảng hốt” khi thấy Sapa ngổn ngang những tòa nhà cao tầng, những bạn nữ mặc áo dân tộc chìa đồ bán rồi cứ ê ê trước mặt mình,... đứng đợi cáp treo 1 tiếng để checkin Fansipan. Mình đã quyết định đi tới một nơi khá lạ...
 
-Ban đầu mình đã rất lo khi plan kế hoạch đi Tả Van - một địa điểm mình chưa nghe bao giờ. Vì ban đầu mình thích đi Hà Giang vì mình đã đi rồi, lại nổi tiếng nên là một địa điểm rất an tòan.Nhưng thôi, với mục tiêu đi khắp các tỉnh phía bắc - mình đã chọn Tả Van.
+<div style="text-align:center">
+<video id="video1" width="480" muted playsinline controls>
+  <source src="../../assets/images/2023/du-lich/ta-van/ta-van-time-lapse.mp4" type="video/mp4">
+  <source src="../../assets/images/2023/du-lich/ta-van/ta-van-time-lapse.webm" type="video/webm">
+  Your browser does not support HTML video.
+</video>
+  <br><br>
+    <button onclick="playPause()">Chạy/Tạm dừng</button>
+  <button onclick="makeBig()">Phóng lớn</button>
+  <button onclick="makeSmall()">Thu nhỏ</button>
+  <button onclick="makeNormal()">Bình thường</button>
 
+</div><p>
+Ban đầu mình đã rất lo khi plan kế hoạch đi Tả Van - một địa điểm mình chưa nghe bao giờ. Vì ban đầu mình thích đi Hà Giang vì mình đã đi rồi, lại nổi tiếng nên là một địa điểm rất an tòan.Nhưng thôi, với mục tiêu đi khắp các tỉnh phía bắc - mình đã chọn Tả Van.
+</p>
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-1.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Chập choạng tối</span></div>
 
@@ -105,4 +118,11 @@ Bạn có thể vào <a href="https://www.facebook.com/media/set/?vanity=nntatlu
 
 <script>
 var root_url=window.location.origin;function getHrefOnclickAndRedirectWithLink(t){t.preventDefault();t=t.currentTarget.getAttribute("href");window.location=[root_url,"/redirect?url=",encodeURIComponent(t)].join("")}
+</script>
+
+<style>
+.box{display:flex;align-items:center;justify-content:center;background:#aaa;margin:20px 0;width:100%;min-height:200px;border:2px #ccc solid;color:#fff}.row{display:flex;flex-wrap:wrap;padding:0 4px}.column{flex:25%;max-width:25%;padding:0 4px}.column img{margin-top:8px;vertical-align:middle;width:100%}@media screen and (max-width: 800px){.column{flex:50%;max-width:50%}}@media screen and (max-width: 600px){.column{flex:100%;max-width:100%}}video{max-width:100%;height:auto}
+</style>
+<script>
+let myVideo=document.getElementById("video1");if(myVideo){function i(){myVideo.paused?myVideo.play():myVideo.pause()}function e(){myVideo.width=560}function d(){myVideo.width=228}function o(){myVideo.width=320}myVideo.play()}
 </script>
