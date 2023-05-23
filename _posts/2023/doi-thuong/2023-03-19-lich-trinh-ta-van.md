@@ -26,7 +26,17 @@ Ban đầu mình đã rất lo khi plan kế hoạch đi Tả Van - một địa
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-1.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Chập choạng tối</span></div>
 
-Để đến bản Tả Van bọn mình xuất phát từ Hà Nội với tàu hỏa sp3(chuyến 10h30 đêm tới 5h30 sáng) đến Lào Cai, rồi đi xe khách 16 chỗ lên trung tâm Sapa. Để khám phá xung quanh một cách chủ động, mình thuê xe máy tại Sapa 130.000 đồng/ngày (trên này toàn honda RSX).
+Để đến bản Tả Van bọn mình xuất phát từ Hà Nội với tàu hỏa sp3(chuyến 10h30 đêm tới 5h30 sáng) đến Lào Cai, rồi đi xe khách 16 chỗ lên trung tâm Sapa.
+
+<div class="content" style="text-align:center; "><a href="https://imgur.com/Nl3tvQi"><img src="https://i.imgur.com/Nl3tvQi.jpg" title="source: imgur.com" /></a><br><span class="image-caption">SAPA đón mình bằng cơn mưa cùng với đó là sương mù. Phen này lại công cốc rồi.</span></div>
+
+<div class="content" style="text-align:center; "><a href="https://imgur.com/EYc5fSj"><img src="https://i.imgur.com/EYc5fSj.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Đường sá trơn trượt, nhưng bọn mình vẫn quyết thuê xe máy đi cho cơ động.</span></div>
+
+<div class="content" style="text-align:center; "><a href="https://imgur.com/hdmYRoU"><img src="https://i.imgur.com/hdmYRoU.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Nhưng ăn đã!!!</span></div>
+
+<div class="content" style="text-align:center; "><a href="https://imgur.com/iRRb0xk"><img src="https://i.imgur.com/iRRb0xk.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Ngon ngon</span></div>
+
+Để khám phá xung quanh một cách chủ động, mình thuê xe máy tại Sapa 130.000 đồng/ngày (trên này toàn honda RSX).
 
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-2.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Tả Van rất nổi tiếng với du khách nước ngoài.</span></div>
@@ -38,6 +48,10 @@ Ban đầu mình đã rất lo khi plan kế hoạch đi Tả Van - một địa
 
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/0lfkAX7"><img src="https://i.imgur.com/0lfkAX7.jpg" title="source: imgur.com" /></a> Xin chào!!
+</div>
+
+<div class="content" style="text-align:center; ">
+<a href="https://imgur.com/wHiDsfa"><img src="https://i.imgur.com/wHiDsfa.jpg" title="source: imgur.com" /></a><span class="image-caption">Cỏ lẽ là một cô bé dậy muộn. Mọi người lên rẫy hết rồi!!!</span>
 </div>
 
 <div class="content" style="text-align:center; ">
