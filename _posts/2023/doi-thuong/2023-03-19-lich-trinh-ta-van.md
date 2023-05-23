@@ -36,18 +36,16 @@ Ban đầu mình đã rất lo khi plan kế hoạch đi Tả Van - một địa
 
 <div class="content" style="text-align:center; "><a href="https://imgur.com/iRRb0xk"><img src="https://i.imgur.com/iRRb0xk.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Ngon ngon</span></div>
 
-<div class="content" style="text-align:center; "><a href="https://imgur.com/mdyZxeo"><img src="https://i.imgur.com/mdyZxeo.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Chợ </span></div>
+<div class="content" style="text-align:center; "><a href="https://imgur.com/mdyZxeo"><img src="https://i.imgur.com/mdyZxeo.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Ngoài trời mưa, chợ đông, toàn rsx, mình tý quên xe mình thế nào luôn.</span></div>
 
-<div class="content" style="text-align:center; "><a href="https://imgur.com/8u6fmQH"><img src="https://i.imgur.com/8u6fmQH.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Chợ </span></div>
 
-<div class="content" style="text-align:center; "><a href="https://imgur.com/cmqcrN1"><img src="https://i.imgur.com/cmqcrN1.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Chợ </span></div>
+<div class="content" style="text-align:center; "><a href="https://imgur.com/cmqcrN1"><img src="https://i.imgur.com/cmqcrN1.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Chợ rất to, hoành trang, tầng 2 gần như chưa mở</span></div>
 
-Thuê xe máy tại Sapa 130.000 đồng/ngày (trên này toàn honda RSX).
-
+Thuê xe máy tại Sapa 130.000 đồng/ngày (trên này toàn honda RSX). Và điểm đầu tiên mình qua là bảo tàng.
 
 <div class="content" style="text-align:center; "><a href="https://imgur.com/OgC1ZIr"><img src="https://i.imgur.com/OgC1ZIr.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Bảo tàng Sapa</span></div>
 <div class="content" style="text-align:center; "><a href="https://imgur.com/waxce72"><img src="https://i.imgur.com/waxce72.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Ánh sáng vàng, rất ít người, có lẽ họ đi bản Cát Cát rồi.</span><br>
-<a href="https://imgur.com/xALZVuU"><img src="https://i.imgur.com/xALZVuU.jpg" title="source: imgur.com" /></a><a href="https://imgur.com/Cjm0t1I"><img src="https://i.imgur.com/Cjm0t1I.jpg" title="source: imgur.com" /></a><br><span class="image-caption">May quá, trời ngớt mưa, sương mù cũng tan rồi.</span></div>
+<a href="https://imgur.com/xALZVuU"><img src="https://i.imgur.com/xALZVuU.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Có lẽ vì nằm khuất sau những ngôi nhà nên rất ít người lưu tới bảo tàng.</span><a href="https://imgur.com/Cjm0t1I"><img src="https://i.imgur.com/Cjm0t1I.jpg" title="source: imgur.com" /></a><br><span class="image-caption">May quá, trời ngớt mưa, sương mù cũng tan rồi.</span></div>
 
 Nào, đi Tả Van...
 
@@ -83,7 +81,7 @@ Nào, đi Tả Van...
 <img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-5.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Thửa ruộng bậc thang, những dãy núi và những cậu bé ngồi nghe chim hót.</span></div>
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/iMNDXOu"><img src="https://i.imgur.com/iMNDXOu.jpg" title="source: imgur.com" /></a><br><img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-3.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Buổi sáng khi thức giấc, qua khung cửa sổ là cả một khung cảnh đã khiến mình có cảm giác như đang ở thiên đường vậy.</span></div>
+<a href="https://imgur.com/iMNDXOu"><img src="https://i.imgur.com/iMNDXOu.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Bình minh sau một chiều mệt gần chết để tới nơi đây.</span><img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-3.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Buổi sáng khi thức giấc, qua khung cửa sổ là cả một khung cảnh đã khiến mình có cảm giác như đang ở thiên đường vậy.</span></div>
 
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-6.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Các bạn có thể đi dạo, khám phá quanh bản, đâu đâu cũng tràn ngập những bông hoa khoe sắc</span></div>
