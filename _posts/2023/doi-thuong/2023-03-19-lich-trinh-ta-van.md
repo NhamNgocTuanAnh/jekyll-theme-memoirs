@@ -47,9 +47,9 @@ Thuê xe máy tại Sapa 130.000 đồng/ngày (trên này toàn honda RSX).
 
 <div class="content" style="text-align:center; "><a href="https://imgur.com/OgC1ZIr"><img src="https://i.imgur.com/OgC1ZIr.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Bảo tàng Sapa</span></div>
 <div class="content" style="text-align:center; "><a href="https://imgur.com/waxce72"><img src="https://i.imgur.com/waxce72.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Ánh sáng vàng, rất ít người, có lẽ họ đi bản Cát Cát rồi.</span><br>
-<a href="https://imgur.com/xALZVuU"><img src="https://i.imgur.com/xALZVuU.jpg" title="source: imgur.com" /></a></div>
+<a href="https://imgur.com/xALZVuU"><img src="https://i.imgur.com/xALZVuU.jpg" title="source: imgur.com" /></a><a href="https://imgur.com/Cjm0t1I"><img src="https://i.imgur.com/Cjm0t1I.jpg" title="source: imgur.com" /></a><br><span class="image-caption">May quá, trời ngớt mưa, sương mù cũng tan rồi.</span></div>
 
-Nào đi Tả Van...
+Nào, đi Tả Van...
 
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-2.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Tả Van rất nổi tiếng với du khách nước ngoài.</span></div>
@@ -90,7 +90,7 @@ Một mình leo lên cái cột điện này, khá mệt, nhưng khung cảnh đ
 <a href="https://imgur.com/Bdy8Zwg"><img src="https://i.imgur.com/Bdy8Zwg.jpg" title="source: imgur.com" /></a>Yêu tổ quốc con người Việt Nam.</div>
 
 <div class="content" style="text-align:center; ">
-<img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-7.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Các bạn có thể đi dạo, khám phá quanh bản, đâu đâu cũng tràn ngập những bông hoa khoe sắc</span></div>
+<a href="https://imgur.com/q99lF3f"><img src="https://i.imgur.com/q99lF3f.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Các bạn có thể đi dạo, khám phá quanh bản, đâu đâu cũng tràn ngập những bông hoa khoe sắc</span></div>
 
 Về thôi,...
 <div class="content" style="text-align:center; ">
