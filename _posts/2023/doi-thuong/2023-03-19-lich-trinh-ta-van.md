@@ -36,7 +36,11 @@ Ban đầu mình đã rất lo khi plan kế hoạch đi Tả Van - một địa
 
 <div class="content" style="text-align:center; "><a href="https://imgur.com/iRRb0xk"><img src="https://i.imgur.com/iRRb0xk.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Ngon ngon</span></div>
 
-Để khám phá xung quanh một cách chủ động, mình thuê xe máy tại Sapa 130.000 đồng/ngày (trên này toàn honda RSX).
+<div class="content" style="text-align:center; "><a href="https://imgur.com/8u6fmQH"><img src="https://i.imgur.com/8u6fmQH.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Chợ </span></div>
+
+<div class="content" style="text-align:center; "><a href="https://imgur.com/cmqcrN1"><img src="https://i.imgur.com/cmqcrN1.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Chợ </span></div>
+
+Thuê xe máy tại Sapa 130.000 đồng/ngày (trên này toàn honda RSX).
 
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-2.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Tả Van rất nổi tiếng với du khách nước ngoài.</span></div>
