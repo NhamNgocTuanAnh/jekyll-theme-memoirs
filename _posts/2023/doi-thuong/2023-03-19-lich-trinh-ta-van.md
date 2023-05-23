@@ -75,11 +75,10 @@ Nào, đi Tả Van...
 <!-- Một minh leo lên -->
 <p>Một mình leo lên cái cột điện này, khá mệt, nhưng khung cảnh đền đáp mình thật xứng đáng..</p><br>
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/nBc9lVX"><img src="https://i.imgur.com/nBc9lVX.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Nhìn ngắn thế thôi mà thở gần chết.</span><a href="https://imgur.com/SsyZnH6"><img src="https://i.imgur.com/SsyZnH6.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Ánh sáng giữa trưa.</span><a href="https://imgur.com/Qo1wy8D"><img src="https://i.imgur.com/Qo1wy8D.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Dù mệt nhưng ôi sao nó lại mê hoặc như vậy!!!</span><a href="https://imgur.com/Pdw9F01"><img src="https://i.imgur.com/Pdw9F01.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/nBc9lVX"><img src="https://i.imgur.com/nBc9lVX.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Nhìn ngắn thế thôi mà thở gần chết.</span><a href="https://imgur.com/SsyZnH6"><img src="https://i.imgur.com/SsyZnH6.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Ánh sáng giữa trưa.</span><a href="https://imgur.com/Qo1wy8D"><img src="https://i.imgur.com/Qo1wy8D.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Dù mệt nhưng ôi sao nó lại mê hoặc như vậy!!!</span><a href="https://imgur.com/Pdw9F01"><img src="https://i.imgur.com/Pdw9F01.jpg" title="source: imgur.com" /></a><span class="image-caption">Thật sự muốn đứung đây mãi thôi, không muốn xuống. Sợ :v</span>
 </div>
-
 <!-- Một minh leo lên -->
-
+<p>Đi ngang đường lác đác nhà dân.</p><br>
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-5.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Thửa ruộng bậc thang, những dãy núi và những cậu bé ngồi nghe chim hót.</span></div>
 
