@@ -94,6 +94,7 @@ Nào, đi Tả Van...
 <a href="https://imgur.com/Bdy8Zwg"><img src="https://i.imgur.com/Bdy8Zwg.jpg" title="source: imgur.com" /></a>Yêu tổ quốc con người Việt Nam.</div>
 
 <div class="content" style="text-align:center; ">
+<a href="https://imgur.com/VS17Vzl"><img src="https://i.imgur.com/VS17Vzl.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Chiều đi dạo tại đập nước. Ánh sáng.</span>
 <a href="https://imgur.com/q99lF3f"><img src="https://i.imgur.com/q99lF3f.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Các bạn có thể đi dạo, khám phá quanh bản, đâu đâu cũng tràn ngập những bông hoa khoe sắc</span></div>
 
 Về thôi,...
