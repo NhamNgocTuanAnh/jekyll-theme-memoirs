@@ -37,6 +37,10 @@ Ban đầu mình đã rất lo khi plan kế hoạch đi Tả Van - một địa
 <img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-8.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Ở đây không có khách sạn, nhà nghỉ nhưng có rất nhiều homestay đẹp cho các bạn lựa chọn. Giá 500.000 đồng/đêm Ta Sua Homestay.</span></div>
 
 <div class="content" style="text-align:center; ">
+<a href="https://imgur.com/0lfkAX7"><img src="https://i.imgur.com/0lfkAX7.jpg" title="source: imgur.com" /></a> Xin chào!!
+</div>
+
+<div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-9.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Khung cảnh cỏ cây và hoa lá thật bình yên!</span></div>
 
 <div class="content" style="text-align:center; ">
