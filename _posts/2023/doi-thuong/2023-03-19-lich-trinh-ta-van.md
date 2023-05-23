@@ -46,7 +46,7 @@ Thuê xe máy tại Sapa 130.000 đồng/ngày (trên này toàn honda RSX).
 
 
 <div class="content" style="text-align:center; "><a href="https://imgur.com/OgC1ZIr"><img src="https://i.imgur.com/OgC1ZIr.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Bảo tàng Sapa</span></div>
-<div class="content" style="text-align:center; "><a href="https://imgur.com/waxce72"><img src="https://i.imgur.com/waxce72.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Bảo tàng Sapa</span><br>
+<div class="content" style="text-align:center; "><a href="https://imgur.com/waxce72"><img src="https://i.imgur.com/waxce72.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Ánh sáng vàng, rất ít người, có lẽ họ đi bản Cát Cát rồi.</span><br>
 <a href="https://imgur.com/xALZVuU"><img src="https://i.imgur.com/xALZVuU.jpg" title="source: imgur.com" /></a></div>
 
 Nào đi Tả Van...
@@ -68,7 +68,7 @@ Nào đi Tả Van...
 </div>
 
 <div class="content" style="text-align:center; ">
-<img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-9.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Khung cảnh cỏ cây và hoa lá thật bình yên!</span></div>
+<a href="https://imgur.com/jTkGnBA"><img src="https://i.imgur.com/jTkGnBA.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Khung cảnh cỏ cây và hoa lá thật bình yên!</span></div>
 
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-4.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Mình cảm thấy thích thú và gần gũi hơn vì vật liệu gỗ và những đồ dùng dân tộc truyền thống.</span></div>
