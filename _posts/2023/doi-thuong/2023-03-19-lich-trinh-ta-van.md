@@ -32,8 +32,8 @@ Sau một lần “hoảng hốt” khi thấy Sapa ngổn ngang những tòa nh
   <button onclick="makeBig()">Phóng lớn</button>
   <button onclick="makeSmall()">Thu nhỏ</button>
   <button onclick="makeNormal()">Bình thường</button>
-
-</div><p>
+</div>
+<p>
 Ban đầu mình đã rất lo khi plan kế hoạch đi Tả Van - một địa điểm mình chưa nghe bao giờ. Vì ban đầu mình thích đi Hà Giang vì mình đã đi rồi, lại nổi tiếng nên là một địa điểm rất an tòan.Nhưng thôi, với mục tiêu đi khắp các tỉnh phía bắc - mình đã chọn Tả Van.
 </p>
 <div class="content" style="text-align:center; ">
