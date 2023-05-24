@@ -111,7 +111,7 @@ Nào, đi Tả Van...
 Về thôi,...
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/nyNXqZb"><img src="https://i.imgur.com/nyNXqZb.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Bọn mình đặt vé về sớm nên ngồi đợi tại đây. Ga khá nhỏ và rất đông người ngoại quốc</span>
-<a href="https://imgur.com/fRKwN8q"><img src="https://i.imgur.com/fRKwN8q.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Đi thasng4 mà nóng, thời tiết dạo này khắc nhiệt quá!</span><a href="https://imgur.com/coNUuWK"><img src="https://i.imgur.com/coNUuWK.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Cậu bé đứng hóng mìh</span>
+<a href="https://imgur.com/fRKwN8q"><img src="https://i.imgur.com/fRKwN8q.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Đi tháng 4 mà nóng, thời tiết dạo này khắc nhiệt quá!</span><a href="https://imgur.com/coNUuWK"><img src="https://i.imgur.com/coNUuWK.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Cậu bé đứng hóng mình</span>
 </div>
 
 Bạn có thể vào <a href="https://www.facebook.com/media/set/?vanity=nntatlu&set=a.2574616576014311" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>đây</a> để xem "kẻ dại khờ" này đi tìm những nơi vắng vẻ! Chúc một buổi tối vui vẻ!!👨‍🚀
