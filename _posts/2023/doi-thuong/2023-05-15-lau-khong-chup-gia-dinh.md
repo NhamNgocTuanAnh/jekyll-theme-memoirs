@@ -33,7 +33,7 @@ Mỗi khi mình giơ lên chụp là họ lại cảnh giác, nên bức ảnh k
 Thực sự mình có phải ngại không?! Ôi những tấm hình chụp cốt để lưu lại kỉ niệm với bạn, với gia đình. Lâu lâu lôi ra làm kỷ niệm. Ôi, gia đình quá đỗi thân thuộc nó sẽ luôn bên cạnh tôi đến nỗi mình chẳng sợ mất, cũng chẳng cần vài ba tấm hình để lưu giữ chăng?
 
 <div class="content" style="text-align:center; ">
-<img data-src="../../assets/images/2023/ngam/gia-dinh-nho-cua-toi-3.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Đây là khoảnh khắc năm nhất mấy thằng nam nhân vừa mới biết đi xe máy. Đèo nhau 200km mất 6 tiếng. Ngồi ăn tối tại Mai Châu.</span></div>
+<img data-src="../../assets/images/2023/ngam/gia-dinh-nho-cua-toi-3.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Gia đình chụp lúc tết.</span></div>
 
 dòng chảy thời đại quá nhanh, từ xưa với chiếc máy ảnh film rồi tới thời điện thoại nhen nhóm rồi tới thời nay, bố mẹ lại ít tiếp xúc với công nghệ nên rất ngại chụp ảnh. Thậm chí đến cả dịp Tết có người cũng không có nổi một bức hình chụp chung nào với gia đình nhỏ của chính mình. Nhiều lần như vậy thành lâu, lâu dần như vậy lại thành không quen. Càng ngày càng ngày, bố mẹ lại ít chụp hình với ta.
 
