@@ -21,19 +21,10 @@ date: 2023-04-25 22:22:22 +0700
 
 Sau một lần “hoảng hốt” khi thấy Sapa ngổn ngang những tòa nhà cao tầng, những bạn nữ mặc áo dân tộc chìa đồ bán rồi cứ ê ê trước mặt mình,... đứng đợi cáp treo 1 tiếng để checkin Fansipan. Mình đã quyết định đi tới một nơi khá lạ...
 
-<div style="text-align:center">
-<video id="video1" width="480" muted playsinline controls>
-  <source src="../../assets/images/2023/du-lich/ta-van/ta-van-time-lapse.mp4" type="video/mp4">
-  <source src="../../assets/images/2023/du-lich/ta-van/ta-van-time-lapse.webm" type="video/webm">
-  Your browser does not support HTML video.
-</video>
-  <br><br>
-    <button onclick="playPause()">Chạy/Tạm dừng</button>
-  <button onclick="makeBig()">Phóng lớn</button>
-  <button onclick="makeSmall()">Thu nhỏ</button>
-  <button onclick="makeNormal()">Bình thường</button>
+<div class="video-container">
+<iframe width="1255" height="706" src="https://www.youtube.com/embed/AJzleuswNPU" title="TIMELAPSE Tả Van - SaPa 2023 - Lịch trình Tả Van! - 1 SaPa lặng lẽ!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-<p>
+
 Ban đầu mình đã rất lo khi plan kế hoạch đi Tả Van - một địa điểm mình chưa nghe bao giờ. Vì ban đầu mình thích đi Hà Giang vì mình đã đi rồi, lại nổi tiếng nên là một địa điểm rất an tòan.Nhưng thôi, với mục tiêu đi khắp các tỉnh phía bắc - mình đã chọn Tả Van.
 </p>
 <div class="content" style="text-align:center; ">
@@ -126,3 +117,6 @@ var root_url=window.location.origin;function getHrefOnclickAndRedirectWithLink(t
 <script>
 let myVideo=document.getElementById("video1");if(myVideo){function i(){myVideo.paused?myVideo.play():myVideo.pause()}function e(){myVideo.width=560}function d(){myVideo.width=228}function o(){myVideo.width=320}myVideo.play()}
 </script>
+<style>
+iframe{margin:auto;display:block}.video-container{position:relative;padding-bottom:56.25%}.video-container iframe{position:absolute;top:0;left:0;width:100%;height:100%}.video{aspect-ratio:16/9;width:100%}
+</style>
