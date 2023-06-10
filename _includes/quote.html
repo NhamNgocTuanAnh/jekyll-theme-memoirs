@@ -15,10 +15,9 @@ let total = 0;
 
 let quotesLength=total||0,currentQuote="",currentAuthor="",randomquote=100,randomcolor="";
 </script>
-<div class="article-post"><blockquote><i class="fa fa-quote-left quotemark"></i> <h3 id="quotetext"></h3> <footer class="footer-tem" id="quotesource"></footer> </blockquote></div><br><div class="article-post"><p>'Anh hàng xóm' là blog phi lợi nhuận, miễn phí - Sự ủng hộ của bạn luôn là điều quan trọng giúp blog tồn tại cùng với đó là phát triển mạnh mẽ hơn nữa. Bạn có thể ủng hộ cho tại <a href="{{ site.baseurl }}/ung-ho"><span style="color:red">ĐÂY!</span></a> 🎇🎇🎇</p></div><div class="fb-column">
-  <iframe id="fbContent" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-
-  </div></div>
+<div class="article-post"><blockquote><i class="fa fa-quote-left quotemark"></i> <h3 id="quotetext"></h3> <footer class="footer-tem" id="quotesource"></footer> </blockquote></div><br><div class="article-post"><p>'Anh hàng xóm' là blog phi lợi nhuận, miễn phí - Sự ủng hộ của bạn luôn là điều quan trọng giúp blog tồn tại cùng với đó là phát triển mạnh mẽ hơn nữa. Bạn có thể ủng hộ cho tại <a href="{{ site.baseurl }}/ung-ho"><span style="color:red">ĐÂY!</span></a> 🎇🎇🎇</p></div>
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fxomnghienngap&tabs&width=340&height=70&small_header=true&adapt_container_width=false&hide_cover=true&show_facepile=false&appId=2086804534891096" width="340" height="70" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+</div>
 <script>
 function inIframe(){try{return window.self!==window.top}catch(t){return!0}}function getQuote(){if(quotes){randomquote=Math.floor(Math.random()*(quotesLength-1)),randomcolor=Math.floor(Math.random()*colors.length);
     console.log(quotes+" fix");
@@ -32,6 +31,12 @@ randomquote<quotesLength?(currentQuote= t && t.content ? t.content: "100",curren
 .fb-column {padding:0px;text-align:center;width:100%;}
 iframe {display:block;margin:0 auto;}
 </style>
-<script>
+
+<!--
+  <div class="fb-column">
+  <iframe id="fbContent" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+</div>
+  <script>
 jQuery(document).ready(function(t){function e(){var e=(Number(t(".fb-column").width())-Number(t(".fb-column").css("padding-left").replace("px",""))).toFixed(0);500<e&&(e=500),document.getElementById("fbContent").src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fxomnghienngap&tabs=timeline&width="+e+"&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId",document.getElementById("fbContent").width=e}t(window).on("resize",function(){setTimeout(function(){e()},500)}),t(window).on("load",function(){setTimeout(function(){e()},1500)}),e()});
-</script>
+</script> -->
+
