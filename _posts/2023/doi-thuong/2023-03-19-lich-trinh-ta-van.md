@@ -25,6 +25,7 @@ Sau một lần “hoảng hốt” khi thấy Sapa ngổn ngang những tòa nh
 <iframe width="1255" height="706" src="https://www.youtube.com/embed/AJzleuswNPU" title="TIMELAPSE Tả Van - SaPa 2023 - Lịch trình Tả Van! - 1 SaPa lặng lẽ!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+<p>
 Ban đầu mình đã rất lo khi plan kế hoạch đi Tả Van - một địa điểm mình chưa nghe bao giờ. Vì ban đầu mình thích đi Hà Giang vì mình đã đi rồi, lại nổi tiếng nên là một địa điểm rất an tòan.Nhưng thôi, với mục tiêu đi khắp các tỉnh phía bắc - mình đã chọn Tả Van.
 </p>
 <div class="content" style="text-align:center; ">
