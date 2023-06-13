@@ -6,7 +6,6 @@ lazyimages: "enabled"
 categories: [ Nhiếp ảnh 📸 ]
 tags: [du ký,album]
 image: assets/images/2023/nhiep-anh/avt/sen-dau-mua-avt.webp
-rating: 5
 isGithubComments: false
 permalink: nhiep-anh/album/chup-sen-dau-mua-2023
 excerpt: Sen bắt đầu rộ bông vào những ngày cuối tháng 5 đầu tháng 6.  Bước vào mùa hè, thời tiết bắt đầu oi nóng, chính vì vậy những dịp đi xa khỏi thành phố để tận hưởng không khí trong lành, cùng với đó là sở hữu những tấm ảnh tuyệt vời quả là vui và thú vị phải không nào??. Và dưới đây mình sẽ đưa ra một số kinh nghiệm để các bạn có thể chụp ảnh với sen được tốt nhất nhé.
