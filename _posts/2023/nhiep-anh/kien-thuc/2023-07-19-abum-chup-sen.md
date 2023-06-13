@@ -28,7 +28,7 @@ Sen bắt đầu rộ bông vào những ngày cuối tháng 5 đầu tháng 6. 
 </div>
 
 + Tìm địa điểm: Đầm Sen Quán Gió Lập Loan - Thanh Oai Hà Nội
-+ Thời điểm để chụp : Vì mùa hè trời sẽ rất nắngbạn hãy chụp trước khi mặt trời lặn 30 phút, - điều mà mình luôn nhắc nhở trong mọi bài viết. -> ánh sáng dịu nhẹ khiến bạn trở nên mềm mại. Nhưng vẫn phải đi càng sớm càng tốt nhé :D.
++ Thời điểm để chụp : Vì mùa hè trời sẽ rất nắng bạn hãy chụp trước khi mặt trời lặn 30 phút, - điều mà mình luôn nhắc nhở trong mọi bài viết. -> ánh sáng dịu nhẹ khiến bạn trở nên mềm mại. Nhưng vẫn phải đi càng sớm càng tốt nhé :D.
 + Về Trang Phục : Trắng, hồng, xanh để trông nhẹ nhàng mát mẻ giữa không khí mùa hè oi bức đang đến. - lưu ý không mặc trang phục có họa tiết lòe loẹt hoặc chi tiết rườm rà.
 + Về phụ kiện : Do chụp với sen, nên nếu có thể hãy mua sen ngay ở đó, cầm quạt hoặc một thứ gì đó 🧐. Việc phải nơi nắng lâu trong quá trình chụp(mang nước và bôi kem chống nắng đầy đủ)
 + Về Tạo Dáng :  Một số dáng gợi ý dành cho bạn khi chụp ảnh với sen đó là: Chụp góc nghiêng 90 độ với tóc xõa dài đồng thời hướng mặt theo hướng gió để gió thổi tóc bồng bềnh, hoặc vẫn là góc nghiêng 90 độ ấy và kết hợp cùng với việc cầm phụ kiện hoặc có phụ kiện xung quanh.
