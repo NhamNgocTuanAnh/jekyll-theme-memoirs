@@ -10,7 +10,6 @@ rating: 5
 isGithubComments: false
 permalink: nhiep-anh/album/chup-sen-dau-mua-2023
 excerpt: Sau một lần “hoảng hốt” khi thấy Sapa ngổn ngang những tòa nhà cao tầng, những bạn nữ mặc áo dân tộc chìa đồ bán rồi cứ ê ê trước mặt mình,... đứng đợi cáp treo 1 tiếng để checkin Fansipan. Mình đã quyết định đi tới một nơi khá lạ...
-description: Sau một lần “hoảng hốt” khi thấy Sapa ngổn ngang những tòa nhà cao tầng, những bạn nữ mặc áo dân tộc chìa đồ bán rồi cứ ê ê trước mặt mình,... đứng đợi cáp treo 1 tiếng để checkin Fansipan. Mình đã quyết định đi tới một nơi khá lạ...
 adsense: "enabled"
 keywords:
   - du lịch tả van
