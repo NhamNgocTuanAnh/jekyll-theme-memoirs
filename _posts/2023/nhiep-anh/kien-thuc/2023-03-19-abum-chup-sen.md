@@ -36,11 +36,11 @@ Buổi chụp thực sự bắt đầu chụp từ 5h chiều, có hoàng hôn n
 Các bạn có thể xem một số cách tạo dáng gợi ý ở dưới dây để có cho mình những bộ hình với sen ưng ý nhé.
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/44v9tze"><img src="https://i.imgur.com/44v9tze.jpg" title="source: imgur.com" /></a><br>
-<a href="https://imgur.com/7WDlKrk"><img src="https://i.imgur.com/7WDlKrk.jpg" title="source: imgur.com" /></a><br>
-<a href="https://imgur.com/UtwLIOi"><img src="https://i.imgur.com/UtwLIOi.jpg" title="source: imgur.com" /></a><br>
-<a href="https://imgur.com/S6Ma3LU"><img src="https://i.imgur.com/S6Ma3LU.jpg" title="source: imgur.com" /></a><br>
-<a href="https://imgur.com/dIuRELa"><img src="https://i.imgur.com/dIuRELa.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/VfC49iM"><img src="https://i.imgur.com/VfC49iM.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/G5bcYmv"><img src="https://i.imgur.com/G5bcYmv.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/44v9tze"><img src="https://i.imgur.com/44v9tze.jpg" title="source: imgur.com" /></a></div><br><div class="content" style="text-align:center; ">
+<a href="https://imgur.com/7WDlKrk"><img src="https://i.imgur.com/7WDlKrk.jpg" title="source: imgur.com" /></a></div><br><div class="content" style="text-align:center; ">
+<a href="https://imgur.com/UtwLIOi"><img src="https://i.imgur.com/UtwLIOi.jpg" title="source: imgur.com" /></a></div><br><div class="content" style="text-align:center; ">
+<a href="https://imgur.com/S6Ma3LU"><img src="https://i.imgur.com/S6Ma3LU.jpg" title="source: imgur.com" /></a></div><br><div class="content" style="text-align:center; ">
+<a href="https://imgur.com/dIuRELa"><img src="https://i.imgur.com/dIuRELa.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/VfC49iM"><img src="https://i.imgur.com/VfC49iM.jpg" title="source: imgur.com" /></a><br><div class="content" style="text-align:center; "><a href="https://imgur.com/G5bcYmv"><img src="https://i.imgur.com/G5bcYmv.jpg" title="source: imgur.com" /></a>
 </div>
 
 Nếu bạn yêu thích chụp hình với sen thì liên hệ với tụi mình để có được những bộ ảnh sen ưng ý nha.
