@@ -29,7 +29,7 @@ Sen bắt đầu rộ bông vào những ngày cuối tháng 5 đầu tháng 6. 
 + Thời điểm để chụp : Vì mùa hè trời sẽ rất nắngbạn hãy chụp trước khi mặt trời lặn 30 phút, - điều mà mình luôn nhắc nhở trong mọi bài viết. -> ánh sáng dịu nhẹ khiến bạn trở nên mềm mại.
 + Về Trang Phục : Trắng, hồng, xanh để trông nhẹ nhàng mát mẻ giữa không khí mùa hè oi bức đang đến.
 + Về phụ kiện : Do chụp với sen, nên nếu có thể hãy mua sen ngay ở đó, cầm quạt hoặc một thứ gì đó 🧐.
-+ Về Tạo Dáng :  Một số dáng gợi ý dành cho bạn khi chụp ảnh với sen đó là: Chụp góc nghiêng 90 độ tóc xõa dài ra hướng mặt theo hướng gió để gió thổi tóc bồng bềnh, hoặc vẫn là góc nghiêng 90 độ nhưng kết hợp cùng với phụ kiện.
++ Về Tạo Dáng :  Một số dáng gợi ý dành cho bạn khi chụp ảnh với sen đó là: Chụp góc nghiêng 90 độ với tóc xõa dài đồng thời hướng mặt theo hướng gió để gió thổi tóc bồng bềnh, hoặc vẫn là góc nghiêng 90 độ ấy và kết hợp cùng với việc cầm phụ kiện hoặc có phụ kiện xung quanh.
 
 ### Album Ảnh sen đầu mùa
 Buổi chụp thực sự bắt đầu chụp từ 5h chiều, có hoàng hôn nên ánh sáng khá đẹp.
@@ -40,7 +40,7 @@ Các bạn có thể xem một số cách tạo dáng gợi ý ở dưới dây 
 <a href="https://imgur.com/7WDlKrk"><img src="https://i.imgur.com/7WDlKrk.jpg" title="source: imgur.com" /></a><br>
 <a href="https://imgur.com/UtwLIOi"><img src="https://i.imgur.com/UtwLIOi.jpg" title="source: imgur.com" /></a><br>
 <a href="https://imgur.com/S6Ma3LU"><img src="https://i.imgur.com/S6Ma3LU.jpg" title="source: imgur.com" /></a><br>
-<a href="https://imgur.com/dIuRELa"><img src="https://i.imgur.com/dIuRELa.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/2GssHpl"><img src="https://i.imgur.com/2GssHpl.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/VfC49iM"><img src="https://i.imgur.com/VfC49iM.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/G5bcYmv"><img src="https://i.imgur.com/G5bcYmv.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/dIuRELa"><img src="https://i.imgur.com/dIuRELa.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/VfC49iM"><img src="https://i.imgur.com/VfC49iM.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/G5bcYmv"><img src="https://i.imgur.com/G5bcYmv.jpg" title="source: imgur.com" /></a>
 </div>
 
 Nếu bạn yêu thích chụp hình với sen thì liên hệ với tụi mình để có được những bộ ảnh sen ưng ý nha.
