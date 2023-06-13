@@ -3,25 +3,27 @@ layout: post
 title: 'Album sen đầu mùa!'
 author: sal
 lazyimages: "enabled"
-categories: [ Du hí 🛫 ]
-tags: [du ký]
+categories: [ Nhiếp ảnh 📸 ]
+tags: [du ký,album]
 image: assets/images/2023/nhiep-anh/avt/sen-dau-mua-avt.webp
 rating: 5
 isGithubComments: false
 permalink: nhiep-anh/album/chup-sen-dau-mua-2023
-excerpt: Sau một lần “hoảng hốt” khi thấy Sapa ngổn ngang những tòa nhà cao tầng, những bạn nữ mặc áo dân tộc chìa đồ bán rồi cứ ê ê trước mặt mình,... đứng đợi cáp treo 1 tiếng để checkin Fansipan. Mình đã quyết định đi tới một nơi khá lạ...
+excerpt: Sen bắt đầu rộ bông vào những ngày cuối tháng 5 đầu tháng 6.  Bước vào mùa hè, thời tiết bắt đầu oi nóng, chính vì vậy những dịp đi xa khỏi thành phố để tận hưởng không khí trong lành, cùng với đó là sở hữu những tấm ảnh tuyệt vời quả là vui và thú vị phải không nào??. Và dưới đây mình sẽ đưa ra một số kinh nghiệm để các bạn có thể chụp ảnh với sen được tốt nhất nhé.
 adsense: "enabled"
 keywords:
-  - du lịch tả van
-  - tả van có gì
-  - bản tả van
+  - chụp sen
+  - chụp chân dung sen
+  - tạo dáng chụp sen
+  - chụp sen ở đâu hà nội
 date: 2023-06-25 22:22:22 +0700
 ---
 
-
 ### Giới Thiệu
 
-Bước vào mùa hè, thời tiết bắt đầu oi nóng, chính vì vậy những dịp đi picnic cuối tuần rời khỏi thành phố để tận hưởng không khí trong lành là điều mà rất nhiều gia đình và các bạn trẻ yêu thích. Việc kết hợp chụp ảnh trong những chuyến đi picnic sẽ giúp các bạn có được những bức ảnh rất đẹp và vô cùng thú vị để sống ảo, dưới đây mình sẽ đưa ra một số kinh nghiệm để các bạn có thể chụp ảnh concept picnic được tốt nhất nhé :
+Sen bắt đầu rộ bông vào những ngày cuối tháng 5 đầu tháng 6.  Bước vào mùa hè, thời tiết bắt đầu oi nóng, chính vì vậy những dịp đi xa khỏi thành phố để tận hưởng không khí trong lành, cùng với đó là sở hữu những tấm ảnh tuyệt vời quả là vui và thú vị phải không nào??. Và dưới đây mình sẽ đưa ra một số kinh nghiệm để các bạn có thể chụp ảnh với sen được tốt nhất nhé :
+
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=610167449536697685" height="645" width="345" frameborder="0" scrolling="no" ></iframe>
 
 + Tìm địa điểm picnic : Lựa chọn địa điểm picnic thì tương tối đơn giản, nhưng để lên ảnh đẹp các bạn nên chọn những nơi có bãi cỏ xanh và dài, đặc biệt nên bên cạnh hồ nước hoặc con sông để để khi lên ảnh giúp bức ảnh có chiều sâu hơn rất nhiều.
 
@@ -36,7 +38,17 @@ Bước vào mùa hè, thời tiết bắt đầu oi nóng, chính vì vậy nh�
 Album Ảnh Dã Ngoại
 Bộ ảnh concept picnic dưới đây mình bắt đầu chụp từ 5h chiều, chụp được tầm 30 phút thì có hoàng hôn nên ánh sáng khá đẹp. Các bạn có thể xem một số cách tạo dáng gợi ý ở dưới dây để có cho mình những bộ hình picnic ưng ý nhé.
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=610167449536697685" height="645" width="345" frameborder="0" scrolling="no" ></iframe>
+<div class="content" style="text-align:center; ">
+<a href="https://imgur.com/44v9tze"><img src="https://i.imgur.com/44v9tze.jpg" title="source: imgur.com" /></a><br>
+<a href="https://imgur.com/7WDlKrk"><img src="https://i.imgur.com/7WDlKrk.jpg" title="source: imgur.com" /></a><br>
+<a href="https://imgur.com/UtwLIOi"><img src="https://i.imgur.com/UtwLIOi.jpg" title="source: imgur.com" /></a><br>
+<a href="https://imgur.com/S6Ma3LU"><img src="https://i.imgur.com/S6Ma3LU.jpg" title="source: imgur.com" /></a><br>
+<a href="https://imgur.com/dIuRELa"><img src="https://i.imgur.com/dIuRELa.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/2GssHpl"><img src="https://i.imgur.com/2GssHpl.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/VfC49iM"><img src="https://i.imgur.com/VfC49iM.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/G5bcYmv"><img src="https://i.imgur.com/G5bcYmv.jpg" title="source: imgur.com" /></a>
 
-Sen Tây Hồ bắt đầu rộ bông vào những ngày cuối tháng 5 đầu tháng 6. Đối với người Hà Nội, dù đã quen thuộc là thế, nhưng cứ đến mùa sen không khí lại khác hẳn. Chỉ cần vài phút chạy xe tới những đầm sen Tây Hồ là mọi mệt mỏi, ồn ào phố thị chẳng còn nữa. Dường như bức tường vô hình của hương hoa đã ngăn tất cả lại ở phía sau rồi. Còn đối với khách du lịch đến Hà Nội vào tháng 5 thì nhất định không bỏ qua việc tham quan và tận hưởng sự thư giãn tuyệt đối bên những bông sen hồng thơm mát.
+
+</div>
+
+
+
+
 
