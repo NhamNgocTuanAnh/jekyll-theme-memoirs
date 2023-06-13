@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 'Album sen làng ta!'
+title: 'Album sen đầu mùa!'
 author: sal
 lazyimages: "enabled"
 categories: [ Du hí 🛫 ]
 tags: [du ký]
-image: assets/images/2023/du-lich/avt/du-lich-ta-van-avt.webp
+image: assets/images/2023/nhiep-anh/avt/sen-dau-mua-avt.webp
 rating: 5
 isGithubComments: false
-permalink: nhiep-anh/album/chup-sen
+permalink: nhiep-anh/album/chup-sen-dau-mua-2023
 excerpt: Sau một lần “hoảng hốt” khi thấy Sapa ngổn ngang những tòa nhà cao tầng, những bạn nữ mặc áo dân tộc chìa đồ bán rồi cứ ê ê trước mặt mình,... đứng đợi cáp treo 1 tiếng để checkin Fansipan. Mình đã quyết định đi tới một nơi khá lạ...
 description: Sau một lần “hoảng hốt” khi thấy Sapa ngổn ngang những tòa nhà cao tầng, những bạn nữ mặc áo dân tộc chìa đồ bán rồi cứ ê ê trước mặt mình,... đứng đợi cáp treo 1 tiếng để checkin Fansipan. Mình đã quyết định đi tới một nơi khá lạ...
 adsense: "enabled"
@@ -36,3 +36,8 @@ Bước vào mùa hè, thời tiết bắt đầu oi nóng, chính vì vậy nh�
 
 Album Ảnh Dã Ngoại
 Bộ ảnh concept picnic dưới đây mình bắt đầu chụp từ 5h chiều, chụp được tầm 30 phút thì có hoàng hôn nên ánh sáng khá đẹp. Các bạn có thể xem một số cách tạo dáng gợi ý ở dưới dây để có cho mình những bộ hình picnic ưng ý nhé.
+
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=610167449536697685" height="645" width="345" frameborder="0" scrolling="no" ></iframe>
+
+Sen Tây Hồ bắt đầu rộ bông vào những ngày cuối tháng 5 đầu tháng 6. Đối với người Hà Nội, dù đã quen thuộc là thế, nhưng cứ đến mùa sen không khí lại khác hẳn. Chỉ cần vài phút chạy xe tới những đầm sen Tây Hồ là mọi mệt mỏi, ồn ào phố thị chẳng còn nữa. Dường như bức tường vô hình của hương hoa đã ngăn tất cả lại ở phía sau rồi. Còn đối với khách du lịch đến Hà Nội vào tháng 5 thì nhất định không bỏ qua việc tham quan và tận hưởng sự thư giãn tuyệt đối bên những bông sen hồng thơm mát.
+
