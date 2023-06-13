@@ -48,7 +48,8 @@ Các bạn có thể xem một số cách tạo dáng gợi ý ở dưới dây 
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/S6Ma3LU"><img alt="Chụp sen đầu mùa 3"  src="https://i.imgur.com/S6Ma3LU.jpg" title="source: imgur.com" /></a></div><br>
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/dIuRELa"><img alt="Chụp sen đầu mùa 4"  src="https://i.imgur.com/dIuRELa.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/VfC49iM"><img alt="Chụp sen đầu mùa"  src="https://i.imgur.com/VfC49iM.jpg" title="source: imgur.com" /></a></div>
+<a href="https://imgur.com/dIuRELa"><img alt="Chụp sen đầu mùa 4"  src="https://i.imgur.com/dIuRELa.jpg" title="source: imgur.com" /></a><br><div class="content" style="text-align:center; ">
+<a href="https://imgur.com/VfC49iM"><img alt="Chụp sen đầu mùa"  src="https://i.imgur.com/VfC49iM.jpg" title="source: imgur.com" /></a></div>
 <br>
 <div class="content" style="text-align:center; "><a href="https://imgur.com/G5bcYmv"><img src="https://i.imgur.com/G5bcYmv.jpg" title="source: imgur.com" alt="Chụp sen đầu mùa 5"/></a>
 </div>
