@@ -36,7 +36,7 @@ permalink: lap-trinh/cach-toi-uu-tasker-android
 6. Giảm âm lượng về 0 khi lướt Facebook
 ..
 
-Còn cách import và export profile để chia sẻ, mình sẽ hướng dẫn sau, nếu ai quan tâm có thể rep, mình sẽ hướng dẫn cụ thể. Ai có profile gì hay vào chia sẻ nhé!!
+Mình sẽ lên loạt bài hướng dẫn sau, AE có profile gì hay ho, nhớ chia sẻ cho mọi người cùng vui nhé!!
 
 ### ví dụ:
 
