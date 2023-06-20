@@ -17,6 +17,7 @@ keywords:
   - chụp sen ở đâu hà nội
   - chụp ảnh hoa sen
 date: 2023-06-25 22:22:22 +0700
+pinned: true
 ---
 
 ### Giới Thiệu
