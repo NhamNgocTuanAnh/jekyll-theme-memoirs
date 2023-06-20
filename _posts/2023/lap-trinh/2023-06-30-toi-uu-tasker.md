@@ -1,24 +1,23 @@
 ---
 layout: post
-title: 'Tasker - A Complete Automation Tool (explained for Noobs)'
+title: 'Tasker - Giới thiệu một ứng dụng Automation Tool cho Android 2023'
 author: sal
 categories: [ Coding 💻 ]
-tags: [ tips ]
+tags: [ tips,tool ]
 image: assets/images/2023/lap-trinh/avts/jekyll-viet-blog-avt.webp
 rating: 5
 lazyimages: "enabled"
 isGithubComments: false
-excerpt: Jekyll thật tuyệt vời để tạo các website cá nhân, nhưng bông hồng nào mà chả có gai!. Bài viết này mình muốn hướng đến các bạn đã có hiểu biết về phát triển web. Các bạn beginer hay các bạn có nhu cầu làm một blog cá nhân có thể tham khảo để hiểu rõ ưu nhược điểm của Wordpress cũng như Jekyll
+excerpt: Cộng đồng Tasker VN có vẻ hơi yếu. Mình đã rất chật vật khi tìm hiểu về ứng dụng này. và nay mình viết những hiểu biết của mình về nó.
 adsense: "enabled"
 keywords:
-  - Viết blog cho lập trình viên
+  - Tasker
   - chuyển từ wordpress sang jekyll
   - Tối ưu jekyll
 date: 2023-06-30 10:01:10 +0700
 permalink: lap-trinh/cach-toi-uu-tasker-android
 ---
-**_Lưu ý_**: Bài viết này mình muốn hướng đến các bạn đã có hiểu biết về phát triển web.
-Các bạn beginer hay các bạn có nhu cầu làm một blog cá nhân có thể tham khảo để hiểu rõ ưu nhược điểm của Wordpress cũng như Jekyll.
+**_Lưu ý_**: Bài viết này mình muốn hướng đến các bạn đã có hiểu biết về tasker. Cộng đồng Tasker VN có vẻ hơi yếu. Mình đã rất chật vật khi tìm hiểu về ứng dụng này. và nay mình viết những hiểu biết của mình về nó.
 
 tối ưu GPS khi rời khỏi nhà
 
@@ -43,7 +42,21 @@ Giảm âm lượng về 0 khi lướt Facebook
 ..
 Còn cách import và export profile để chia sẻ, mình sẽ hướng dẫn sau, nếu ai quan tâm có thể rep, mình sẽ hướng dẫn cụ thể. Ai có profile gì hay vào chia sẻ nhé!!
 
-<a href="https://imgur.com/trdpaEJ"><img src="https://i.imgur.com/trdpaEJ.png" title="source: imgur.com" /></a>
+### ví dụ:
+
+<div class="content" style="text-align:center; ">
+<a href="https://imgur.com/trdpaEJ"><img src="https://i.imgur.com/trdpaEJ.png" title="source: imgur.com" /></a></div>
+
+#### A. Khi ở nhà:
+
+<div class="content" style="text-align:center; ">
+<a href="https://imgur.com/wXo2Lh0"><img src="https://i.imgur.com/wXo2Lh0.jpg" title="source: imgur.com" /></a></div>
+
+#### B. Khi ở đi ra ngoài:
+
+<div class="content" style="text-align:center; ">
+<a href="https://imgur.com/AUtOJJV"><img src="https://i.imgur.com/AUtOJJV.jpg" title="source: imgur.com" /></a></div>
+
 
 ### Bài viết tham khảo
 
