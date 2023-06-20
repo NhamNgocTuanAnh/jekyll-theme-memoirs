@@ -22,6 +22,8 @@ permalink: lap-trinh/cach-toi-uu-tasker-android
 ---
 **_Lưu ý_**: Bài viết này mình muốn hướng đến các bạn đã có hiểu biết về tasker. Cộng đồng Tasker VN có vẻ hơi yếu. Mình đã rất chật vật khi tìm hiểu về ứng dụng này. và nay mình viết những hiểu biết của mình về nó.
 
+### Một số ý tưởng
+
 Đây là một số profile của mình
 1. Khi vào bản đồ, tự bật gps ở chế độ chính xác cao, thoát ra về chế độ tiết kiệm pin nhất
 2. Vào một vài app sẽ giữ màn hình luôn bật
