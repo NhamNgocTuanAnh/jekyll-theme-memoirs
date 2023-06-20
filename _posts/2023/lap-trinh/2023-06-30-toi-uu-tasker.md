@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tasker - Giới thiệu một ứng dụng Automation Tool cho Android 2023'
+title: 'Tasker 2023 - Con Thú bị lãng quên - Một ứng dụng Automation Tool cho Android'
 author: sal
 categories: [ Coding 💻 ]
 tags: [ tips,tool ]
