@@ -33,8 +33,6 @@ permalink: lap-trinh/cach-toi-uu-tasker-android
 6. Giảm âm lượng về 0 khi lướt Facebook
 ..
 
-Mình sẽ lên loạt bài hướng dẫn sau, AE có profile gì hay ho, nhớ chia sẻ cho mọi người cùng vui nhé!!
-
 ### ví dụ:
 
 Đánh dấu các điểm wifi ở nhà thay vì dùng GPS để xác định.
@@ -56,6 +54,7 @@ Khi không còn kết nối với những điểm wifi và chế độ trên má
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/AUtOJJV"><img src="https://i.imgur.com/AUtOJJV.jpg" title="source: imgur.com" /></a></div>
 
+> Mình sẽ lên loạt bài hướng dẫn sau, AE có profile gì hay ho, nhớ chia sẻ cho mọi người cùng vui nhé!!
 
 ### Bài viết tham khảo
 
