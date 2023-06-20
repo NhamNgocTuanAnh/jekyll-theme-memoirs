@@ -5,7 +5,6 @@ author: sal
 categories: [ Coding 💻 ]
 tags: [ tips,tool ]
 image: assets/images/2023/lap-trinh/avts/tasker-avt.webp
-rating: 5
 lazyimages: "enabled"
 isGithubComments: false
 excerpt: Cộng đồng Tasker VN có vẻ hơi yếu. Mình đã rất chật vật khi tìm hiểu về ứng dụng này. và nay mình viết những hiểu biết của mình về nó.
