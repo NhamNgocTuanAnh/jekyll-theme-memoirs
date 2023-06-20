@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tasker 2023 - Con Thú bị lãng quên - Một ứng dụng Automation Tool cho Android'
+title: 'Tasker 2023 - Con Thú bị lãng quên - Một ứng dụng Shortcuts(Iphone) cho Android'
 author: sal
 categories: [ Coding 💻 ]
 tags: [ tips,tool ]
@@ -15,6 +15,8 @@ keywords:
   - Chia sẻ profile tasker
   - Tối ưu Tasker
   - Tasker là gì?
+  - Android Automation
+  - Shortcuts android
 date: 2023-06-30 10:01:10 +0700
 permalink: lap-trinh/cach-toi-uu-tasker-android
 ---
