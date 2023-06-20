@@ -4,7 +4,7 @@ title: 'Tasker - Giới thiệu một ứng dụng Automation Tool cho Android 2
 author: sal
 categories: [ Coding 💻 ]
 tags: [ tips,tool ]
-image: assets/images/2023/lap-trinh/avts/jekyll-viet-blog-avt.webp
+image: assets/images/2023/lap-trinh/avts/tasker-avt.webp
 rating: 5
 lazyimages: "enabled"
 isGithubComments: false
@@ -12,34 +12,30 @@ excerpt: Cộng đồng Tasker VN có vẻ hơi yếu. Mình đã rất chật v
 adsense: "enabled"
 keywords:
   - Tasker
-  - chuyển từ wordpress sang jekyll
-  - Tối ưu jekyll
+  - Chia sẻ profile tasker
+  - Tối ưu Tasker
+  - Tasker là gì?
 date: 2023-06-30 10:01:10 +0700
 permalink: lap-trinh/cach-toi-uu-tasker-android
 ---
 **_Lưu ý_**: Bài viết này mình muốn hướng đến các bạn đã có hiểu biết về tasker. Cộng đồng Tasker VN có vẻ hơi yếu. Mình đã rất chật vật khi tìm hiểu về ứng dụng này. và nay mình viết những hiểu biết của mình về nó.
 
-tối ưu GPS khi rời khỏi nhà
-
-Tự động bật tắt GPS khi rời khỏi nhà
-Tự động kết nối tai nghe bluetooth khi mở app
-Tự động bật airplane mode theo thời gian
-Tự động bật tắt đồng bộ sau mỗi 1 tiếng
-Úp máy tắt âm
-Tăng độ sáng và tắt tự động điều chỉnh độ sáng khi vào game hoặc đọc sách báo
-Chạy ứng dụng dọn dẹp vào đêm
-Tự động bật chế độ tiết kiệm điện sau khi khóa máy xx phút
-Giảm âm lượng về 0 khi lướt Facebook
-
-
 Đây là một số profile của mình
 1. Khi vào bản đồ, tự bật gps, thoát ra tự tắt
 2. Vào một số app tự giữ màn hình luôn bật
-3. Khi wifi bật, nếu quá một phút ko kết nối được với mạng nào sẽ tự động tắt
-4. Tự động xoay màn hình khi vào một số ứng dụng
 5. Tự tăng giảm âm lượng vào một thời điểm hoặc khi vào một app nào đó
 6. Khi cắm tai nghe, tự động bật ra một menu gồm các ứng dụng chơi nhạc để mình lựa chọn
+6. Tự động bật tắt GPS khi rời khỏi nhà
+6. Tự động kết nối tai nghe bluetooth khi mở app
+6. Tự động bật airplane mode theo thời gian
+6. Tự động bật tắt đồng bộ sau mỗi 1 tiếng
+6. Úp máy tắt âm
+6. Tăng độ sáng và tắt tự động điều chỉnh độ sáng khi vào game hoặc đọc sách báo
+6. Chạy ứng dụng dọn dẹp vào đêm
+6. Tự động bật chế độ tiết kiệm điện sau khi khóa máy xx phút
+6. Giảm âm lượng về 0 khi lướt Facebook
 ..
+
 Còn cách import và export profile để chia sẻ, mình sẽ hướng dẫn sau, nếu ai quan tâm có thể rep, mình sẽ hướng dẫn cụ thể. Ai có profile gì hay vào chia sẻ nhé!!
 
 ### ví dụ:
@@ -60,9 +56,6 @@ Còn cách import và export profile để chia sẻ, mình sẽ hướng dẫn 
 
 ### Bài viết tham khảo
 
-*   [**Kinh nghiệm tạo website cá nhân với Jekyll**](https://aicurious.io/blog/2016-09-16-xay-dung-website-voi-jekyll)
-*   [**Kinh nghiệm tạo website cá nhân với Jekyll (tiếp)**](https://aicurious.io/blog/2016-09-26-xay-dung-website-voi-jekyll-lv2)
-*   [**Chuyển soạn thảo blog từ WordPress sang Markdown Github**](https://dothanhlong.org/chuyen-soan-thao-blog-tu-wordpress-sang-markdown-github/)
-*   [**Cách Tạo 1 Blog Nhỏ Với Jekyll**](https://caodem.com/cach-tao-1-blog-nho-voi-jekyll/)
-*   [**GIÃ TỪ ... WORDPRESS**](http://acegik.net/blog/jekyll/migration/gia-tu-wordpress.html)
-*   [**So sánh lợi hại giữa WordPress vs Static site**](https://topdev.vn/blog/so-sanh-loi-hai-giua-wordpress-vs-static-site/)
+*   [**Chia sẻ profile, kinh nghiệm sử dụng tasker - lý do tôi ở lại với Android - tinh tế**](https://tinhte.vn/thread/chia-se-profile-kinh-nghiem-su-dung-tasker-ly-do-toi-o-lai-voi-android.2665644/)
+*   [**Sử dụng Tasker để tự động hóa điện thoại Android**](https://quantrimang.com/cong-nghe/cash-su-dung-tasker-de-tu-dong-hoa-dien-thoai-android-154111)
+
