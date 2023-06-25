@@ -26,7 +26,7 @@ Bộ Ảnh dưới đây mình chụp vào những ngày đầu hè, nắng còn
 Bộ này mình blend tone màu lạnh, hơi ám green mục đích chủ yếu để tạo cảm giác mát mẻ cho mùa hè đầy oi bức. Nếu bạn nào yêu thích màu này thì có thể vào link dưới đây để xem chi tiết hơn và mua nha (trọn bộ là 10 màu, ko phải chỉ mình màu bộ đồng phục này)
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/RFk0r5o"><img src="https://i.imgur.com/RFk0r5o.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/UaP5BJi"><img src="https://i.imgur.com/UaP5BJi.jpg" title="source: imgur.com" /></a>
 </div><br>
 
 + Tìm địa điểm: Đầm Sen Quán Gió Lập Loan - Thanh Oai Hà Nội
@@ -40,19 +40,19 @@ Buổi chụp thực sự bắt đầu chụp từ 5h chiều, có hoàng hôn n
 Các bạn có thể xem một số cách tạo dáng gợi ý ở dưới dây để có cho mình những bộ hình với sen ưng ý nhé.
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/SpKvBJa"><img src="https://i.imgur.com/SpKvBJa.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/XpNo87K"><img src="https://i.imgur.com/XpNo87K.jpg" title="source: imgur.com" /></a>
 </div><br>
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/D5l0B2X"><img src="https://i.imgur.com/D5l0B2X.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/7VnZq4J"><img src="https://i.imgur.com/7VnZq4J.jpg" title="source: imgur.com" /></a>
 </div><br>
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/YsGqwaz"><img src="https://i.imgur.com/YsGqwaz.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/XpNo87K"><img src="https://i.imgur.com/XpNo87K.jpg" title="source: imgur.com" /></a>
 </div><br>
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/XjDxbXU"><img src="https://i.imgur.com/XjDxbXU.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/YKJ3w87"><img src="https://i.imgur.com/YKJ3w87.jpg" title="source: imgur.com" /></a>
 </div><br>
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/YsGqwaz"><img src="https://i.imgur.com/YsGqwaz.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/aNLUrmu"><img src="https://i.imgur.com/aNLUrmu.jpg" title="source: imgur.com" /></a>
 </div><br>
 
 Nếu bạn yêu thích chụp hình với đồng phục học sinh nhật bản thì liên hệ với tụi mình để có được những bộ ảnh ưng ý nha.
