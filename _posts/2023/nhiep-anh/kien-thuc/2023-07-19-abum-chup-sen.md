@@ -61,10 +61,3 @@ Nếu bạn yêu thích chụp hình với sen thì liên hệ với tụi mình
 
 Ngoài ra Xóm nghiện ngập và anhhangxom còn có rất nhiều dịch vụ khác như chụp ảnh kỷ yếu,chụp ảnh áo dài, chụp ảnh cúc họa mi,chụp ảnh ngoại cảnh, chụp ảnh tết, chụp ảnh gia đình … các bạn liên hệ để biết thêm các thông tin chi tiết nha.
 
-<style>
-.flickr
-{
-  margin-left: auto!important;
-  margin-right: auto!important;
-}
-</style>
