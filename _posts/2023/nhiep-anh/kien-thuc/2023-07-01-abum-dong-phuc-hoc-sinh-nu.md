@@ -1,21 +1,21 @@
 ---
 layout: post
-title: 'Bộ Ảnh Đồng Phục Học Sinh!'
+title: 'Bộ Ảnh đồng phục học sinh Nhật Bản! - Công viên Thống Nhất'
 author: sal
 lazyimages: "enabled"
 categories: [ Nhiếp ảnh 📸 ]
-tags: [du ký,album]
+tags: [album]
 image: assets/images/2023/nhiep-anh/avt/sen-dau-mua-avt.webp
 isGithubComments: false
 permalink: nhiep-anh/album/abum-dong-phuc-hoc-sinh-nu
 excerpt: Sen bắt đầu rộ bông vào những ngày cuối tháng 5 đầu tháng 6.  Bước vào mùa hè, thời tiết bắt đầu oi nóng, chính vì vậy những dịp đi xa khỏi thành phố để tận hưởng không khí trong lành, cùng với đó là sở hữu những tấm ảnh tuyệt vời quả là vui và thú vị phải không nào??. Và dưới đây mình sẽ đưa ra một số kinh nghiệm để các bạn có thể chụp ảnh với sen được tốt nhất nhé.
 adsense: "enabled"
 keywords:
-  - chụp sen
-  - chụp chân dung sen
-  - tạo dáng chụp sen
-  - chụp sen ở đâu hà nội
-  - chụp ảnh hoa sen
+  - chụp đồng phục nữ sinh nhật bản
+  - chụp chân dung nữ
+  - tạo dáng chụp
+  - chụp đồng phục nữ sinh
+  - chụp công viên thống nhất
 date: 2023-07-01 22:22:22 +0700
 ---
 

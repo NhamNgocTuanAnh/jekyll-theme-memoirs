@@ -4,7 +4,7 @@ title: 'Album sen đầu mùa!'
 author: sal
 lazyimages: "enabled"
 categories: [ Nhiếp ảnh 📸 ]
-tags: [du ký,album]
+tags: [album]
 image: assets/images/2023/nhiep-anh/avt/sen-dau-mua-avt.webp
 isGithubComments: false
 permalink: nhiep-anh/album/chup-sen-dau-mua-2023
