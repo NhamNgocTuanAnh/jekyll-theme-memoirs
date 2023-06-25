@@ -40,16 +40,16 @@ Buổi chụp thực sự bắt đầu chụp từ 5h chiều, có hoàng hôn n
 Các bạn có thể xem một số cách tạo dáng gợi ý ở dưới dây để có cho mình những bộ hình với đồng phục ưng ý nhé.
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/XpNo87K"><img src="https://i.imgur.com/XpNo87K.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/XpNo87K"><img src="https://i.imgur.com/XpNo87K.jpg" title="source: imgur.com" /></a><br>Cứ vờ như không nhìn người ta, thực ra là lúc nào cũng nhìn trộm
 </div><br>
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/7VnZq4J"><img src="https://i.imgur.com/7VnZq4J.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/7VnZq4J"><img src="https://i.imgur.com/7VnZq4J.jpg" title="source: imgur.com" /></a><br>Chúng ta sẽ vì một câu nói vu vơ của người ấy mà vui mừng không ngớt.
 </div><br>
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/YKJ3w87"><img src="https://i.imgur.com/YKJ3w87.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/YKJ3w87"><img src="https://i.imgur.com/YKJ3w87.jpg" title="source: imgur.com" /></a><br>Kí ức tuổi thanh xuân là kho báu quý giá nhất và mãi được lưu giữ trong mỗi chúng ta.
 </div><br>
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/aNLUrmu"><img src="https://i.imgur.com/aNLUrmu.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/aNLUrmu"><img src="https://i.imgur.com/aNLUrmu.jpg" title="source: imgur.com" /></a><br>Chúng ta sẽ vì một câu nói vu vơ của người ấy mà vui mừng không ngớt.
 </div><br>
 
 Nếu bạn yêu thích chụp hình với đồng phục học sinh nhật bản thì liên hệ với tụi mình để có được những bộ ảnh ưng ý nha.
