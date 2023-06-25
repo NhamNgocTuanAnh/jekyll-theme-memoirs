@@ -8,7 +8,7 @@ tags: [album]
 image: assets/images/2023/nhiep-anh/avt/album-hoc-sinh-nhat-ban-avt.webp
 isGithubComments: false
 permalink: nhiep-anh/album/abum-dong-phuc-hoc-sinh-nu
-excerpt: Bộ Ảnh dưới đây mình chụp vào những ngày đầu tháng 5, nắng gay nắng gắt, địa điểm mình chụp là công viên thống nhất-nơi rộng rãi và có nhiều cây xanh.Không gian chung, các bạn đừng vứt rác bừa bãi, để xe gọn gàng nha.
+excerpt: Bộ Ảnh dưới đây mình chụp vào những ngày đầu tháng 5, nắng gay nắng gắt, địa điểm mình chụp là công viên thống nhất - một nơi rộng rãi và có nhiều cây xanh. Không gian sử dụng chung, các bạn đừng vứt rác bừa bãi, để xe gọn gàng nha.
 adsense: "enabled"
 keywords:
   - chụp đồng phục nữ sinh nhật bản
@@ -21,7 +21,7 @@ date: 2023-07-01 22:22:22 +0700
 
 ### Giới Thiệu
 
-Bộ Ảnh dưới đây mình chụp vào những ngày đầu tháng 5, nắng gay nắng gắt, địa điểm mình chụp là công viên thống nhất-nơi rộng rãi và có nhiều cây xanh.Không gian chung, các bạn đừng vứt rác bừa bãi, để xe gọn gàng nha.
+Bộ Ảnh dưới đây mình chụp vào những ngày đầu tháng 5, nắng gay nắng gắt, địa điểm mình chụp là công viên thống nhất - một nơi rộng rãi và có nhiều cây xanh. Không gian sử dụng chung, các bạn đừng vứt rác bừa bãi, để xe gọn gàng nha.
 
 Bộ này mình blend tạo cảm giác mát mẻ cho mùa hè đầy oi bức.
 
