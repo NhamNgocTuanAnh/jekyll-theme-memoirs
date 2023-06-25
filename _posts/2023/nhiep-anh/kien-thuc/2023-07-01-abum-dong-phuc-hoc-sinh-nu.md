@@ -51,7 +51,9 @@ Các bạn có thể xem một số cách tạo dáng gợi ý ở dưới dây 
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/XjDxbXU"><img src="https://i.imgur.com/XjDxbXU.jpg" title="source: imgur.com" /></a>
 </div><br>
-
+<div class="content" style="text-align:center; ">
+<a href="https://imgur.com/YsGqwaz"><img src="https://i.imgur.com/YsGqwaz.jpg" title="source: imgur.com" /></a>
+</div><br>
 
 Nếu bạn yêu thích chụp hình với đồng phục học sinh nhật bản thì liên hệ với tụi mình để có được những bộ ảnh ưng ý nha.
 
