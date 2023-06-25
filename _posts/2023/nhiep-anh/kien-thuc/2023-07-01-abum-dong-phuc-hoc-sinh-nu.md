@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Album sen đầu mùa!'
+title: 'Bộ Ảnh Đồng Phục Học Sinh!'
 author: sal
 lazyimages: "enabled"
 categories: [ Nhiếp ảnh 📸 ]
@@ -22,10 +22,12 @@ pinned: true
 
 ### Giới Thiệu
 
-Sen bắt đầu rộ bông vào những ngày cuối tháng 5 đầu tháng 6.  Bước vào mùa hè, thời tiết bắt đầu oi nóng, chính vì vậy những dịp đi xa khỏi thành phố để tận hưởng không khí trong lành, cùng với đó là sở hữu những tấm ảnh tuyệt vời quả là vui và thú vị phải không nào??. Và dưới đây mình sẽ đưa ra một số kinh nghiệm để các bạn có thể chụp ảnh với sen được tốt nhất nhé :
+Bộ Ảnh dưới đây mình chụp vào những ngày đầu hè, nắng còn chưa gay gắt lắm, địa điểm mình chụp là con phố Từ Hoa ở hồ Tây. Các con ngõ ở đây khá đẹp nếu rảnh các bạn có thể ghé qua đây chụp ảnh nhé, nhưng nhớ đừng vứt rác bừa bãi, không làm ồn và để xe thật gọn gàng nha.
+
+Bộ này mình blend tone màu lạnh, hơi ám green mục đích chủ yếu để tạo cảm giác mát mẻ cho mùa hè đầy oi bức. Nếu bạn nào yêu thích màu này thì có thể vào link dưới đây để xem chi tiết hơn và mua nha (trọn bộ là 10 màu, ko phải chỉ mình màu bộ đồng phục này)
 
 <div class="content" style="text-align:center; ">
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=691513717810421790" height="454" width="236" frameborder="0" scrolling="no" ></iframe>
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=691513717810524590" height="1048" width="600" frameborder="0" scrolling="no" ></iframe>
 </div>
 
 + Tìm địa điểm: Đầm Sen Quán Gió Lập Loan - Thanh Oai Hà Nội
