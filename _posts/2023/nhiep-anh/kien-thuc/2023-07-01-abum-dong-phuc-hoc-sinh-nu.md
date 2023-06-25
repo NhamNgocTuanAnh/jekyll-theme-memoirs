@@ -21,15 +21,15 @@ date: 2023-07-01 22:22:22 +0700
 
 ### Giới Thiệu
 
-Bộ Ảnh dưới đây mình chụp vào những ngày đầu hè, nắng còn chưa gay gắt lắm, địa điểm mình chụp là con phố Từ Hoa ở hồ Tây. Các con ngõ ở đây khá đẹp nếu rảnh các bạn có thể ghé qua đây chụp ảnh nhé, nhưng nhớ đừng vứt rác bừa bãi, không làm ồn và để xe thật gọn gàng nha.
+Bộ Ảnh dưới đây mình chụp vào những ngày đầu tháng 5, nắng gay nắng gắt, địa điểm mình chụp là công viên thống nhất-nơi rộng rãi và có nhiều cây xanh.Không gian chung, các bạn đừng vứt rác bừa bãi, để xe gọn gàng nha.
 
-Bộ này mình blend tone màu lạnh, hơi ám green mục đích chủ yếu để tạo cảm giác mát mẻ cho mùa hè đầy oi bức. Nếu bạn nào yêu thích màu này thì có thể vào link dưới đây để xem chi tiết hơn và mua nha (trọn bộ là 10 màu, ko phải chỉ mình màu bộ đồng phục này)
+Bộ này mình blend tạo cảm giác mát mẻ cho mùa hè đầy oi bức.
 
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/UaP5BJi"><img src="https://i.imgur.com/UaP5BJi.jpg" title="source: imgur.com" /></a>
 </div><br>
 
-+ Tìm địa điểm: Đầm Sen Quán Gió Lập Loan - Thanh Oai Hà Nội
++ Tìm địa điểm: Công viên thống nhất
 + Thời điểm để chụp : Vì mùa hè trời sẽ rất nắng bạn hãy chụp trước khi mặt trời lặn 30 phút, - điều mà mình luôn nhắc nhở trong mọi bài viết. -> ánh sáng dịu nhẹ khiến bạn trở nên mềm mại. Nhưng vẫn phải đi càng sớm càng tốt nhé :D.
 + Về Trang Phục : Trắng, hồng, xanh để trông nhẹ nhàng mát mẻ giữa không khí mùa hè oi bức đang đến. - lưu ý không mặc trang phục có họa tiết lòe loẹt hoặc chi tiết rườm rà.
 + Về phụ kiện : Do chụp với sen, nên nếu có thể hãy mua sen ngay ở đó, cầm quạt hoặc một thứ gì đó 🧐. Việc phải nơi nắng lâu trong quá trình chụp(mang nước và bôi kem chống nắng đầy đủ)
