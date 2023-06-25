@@ -49,7 +49,7 @@ Các bạn có thể xem một số cách tạo dáng gợi ý ở dưới dây 
 <a href="https://imgur.com/YKJ3w87"><img src="https://i.imgur.com/YKJ3w87.jpg" title="source: imgur.com" /></a><br>Kí ức tuổi thanh xuân là kho báu quý giá nhất và mãi được lưu giữ trong mỗi chúng ta.
 </div><br>
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/aNLUrmu"><img src="https://i.imgur.com/aNLUrmu.jpg" title="source: imgur.com" /></a><br>Chúng ta sẽ vì một câu nói vu vơ của người ấy mà vui mừng không ngớt.
+<a href="https://imgur.com/aNLUrmu"><img src="https://i.imgur.com/aNLUrmu.jpg" title="source: imgur.com" /></a><br>Nếu có bản án dành cho Tớ vì đã yêu cậu thì tớ xin đứng trước toà và nhận bản án chung thân được bên cậu suốt đời.
 </div><br>
 
 Nếu bạn yêu thích chụp hình với đồng phục học sinh nhật bản thì liên hệ với tụi mình để có được những bộ ảnh ưng ý nha.
