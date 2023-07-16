@@ -121,3 +121,13 @@ https://search.google.com/structured-data/testing-tool/u/0/
 {% endif %}
 -->
 <!-- Chặn bấm chuột phải -->
+
+<script type = "text/JavaScript">
+  function AutoRefresh(e){setTimeout("location.reload(true);",e)};
+  const siteBaseUrl = "https://anhhangxom.xyz/";
+  if(window.location.href !=siteBaseUrl){
+      AutoRefresh(3e4);
+  }else{
+      location.reload();
+  }
+</script>
