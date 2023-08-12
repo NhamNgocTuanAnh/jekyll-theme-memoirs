@@ -45,3 +45,18 @@ iframe {display:block;margin:0 auto;}
 jQuery(document).ready(function(t){function e(){var e=(Number(t(".fb-column").width())-Number(t(".fb-column").css("padding-left").replace("px",""))).toFixed(0);500<e&&(e=500),document.getElementById("fbContent").src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fxomnghienngap&tabs=timeline&width="+e+"&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId",document.getElementById("fbContent").width=e}t(window).on("resize",function(){setTimeout(function(){e()},500)}),t(window).on("load",function(){setTimeout(function(){e()},1500)}),e()});
 </script> -->
 
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      xfbml            : true,
+      version          : 'v3.2'
+    });
+  };
+
+  (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
