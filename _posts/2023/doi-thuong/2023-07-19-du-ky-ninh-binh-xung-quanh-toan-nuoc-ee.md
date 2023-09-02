@@ -79,7 +79,9 @@ Thực ra mình câu view tẹo thôi :P. Mình đã tới chùa Bái đi
       title="source: imgur.com" /></a><br><br><a href="https://imgur.com/1hWaal9"><img src="https://i.imgur.com/1hWaal9.jpg"
       title="source: imgur.com" /></a><br><br><a href="https://imgur.com/JpsawWn"><img src="https://i.imgur.com/JpsawWn.jpg"
       title="source: imgur.com" /></a>
-</div><br><p>Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó rất khác lạ. Mình đi khá là nhiều chùa, nhưng chưa có cái chùa nào để lại ấn tượng như BĐ.</p>
+</div><br>
+
+Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó rất khác lạ. Mình đi khá là nhiều chùa, nhưng chưa có cái chùa nào để lại ấn tượng như BĐ.
 
 ### Quần thể di tích Cố đô Hoa Lư.
 
