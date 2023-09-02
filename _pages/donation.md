@@ -13,11 +13,11 @@ Nếu yêu thích các bài viết của mình, cảm thấy blog mang lại nh�
 
 Bạn có thể ủng hộ qua một trong những hình thức sau:
 
-**(1) Ủng hộ qua ví điện tử Momo**
+**(1) Ủng hộ qua ví điện tử VPBank**
 
-Các bạn dùng ví Momo để quét mã QR dưới đây và ủng hộ tuỳ lòng hảo tâm nhé:
+Các bạn dùng VPBank để quét mã QR dưới đây và ủng hộ tuỳ lòng hảo tâm nhé:
 <div class="center-image">
-<img data-src="../../assets/images/ngam/donaintion-anhnnt.webp" alt="Ủng hộ" title="Ủng hộ tôi" class="blur-up lazyload img-thumb lazyimg ten-lop-ban-tu-dat" id="image-hover"/>
+<img data-src="../../assets/images/2023/ngam/donation-vp.webp" alt="Ủng hộ" title="Ủng hộ tôi" class="blur-up lazyload img-thumb lazyimg ten-lop-ban-tu-dat" id="image-hover"/>
 </div>
 <!-- [![Đô Đô has a lot of ideas.](/assets/images/mine-introdu.webp)](https://www.facebook.com/nntatlu/){:class="img-responsive"} -->
 **(2) Chuyển khoản**
@@ -29,7 +29,7 @@ Bạn cũng có thể chuyển khoản thông thường ở Việt Nam với th�
 *   _Chủ tài khoản: Nham Ngoc Tuan Anh_
 
 <div class="center-image">
-<img data-src="../../assets/images/ngam/donation-anhnnt-mbbank.webp" alt="Ủng hộ Anh hàng xóm" title="Ủng hộ tôi" class="blur-up lazyload img-thumb lazyimg ten-lop-ban-tu-dat" id="image-hover"/>
+<img data-src="../../assets/images/2023/ngam/donation-mb.webp" alt="Ủng hộ Anh hàng xóm" title="Ủng hộ tôi" class="blur-up lazyload img-thumb lazyimg ten-lop-ban-tu-dat" id="image-hover"/>
 </div>
 
 Cảm ơn các bạn đã quan tâm và ủng hộ mình.
