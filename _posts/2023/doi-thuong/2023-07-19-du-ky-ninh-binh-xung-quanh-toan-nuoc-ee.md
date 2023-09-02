@@ -50,8 +50,10 @@ Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó
 
 cố đô Hoa Lư.
 
+
+
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/GliVusm"><img src="https://i.imgur.com/GliVusm.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Bọn nhóc cùng đoàn khá phấn khích</span>
+<a href="https://imgur.com/GliVusm"><img src="https://i.imgur.com/GliVusm.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Bọn nhóc cùng đoàn khá phấn khích</span><br><a href="https://imgur.com/vtMnMri"><img src="https://i.imgur.com/vtMnMri.jpg" title="source: imgur.com" /></a><span class="image-caption">Cố đô đã chìm với đất rất nhiều</span>
 </div>
 
 <div class="content" style="text-align:center; ">
@@ -65,7 +67,7 @@ Chụp gia đình nào :D
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/tk2ND9I"><img src="https://i.imgur.com/tk2ND9I.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/vUr5Q9U"><img src="https://i.imgur.com/vUr5Q9U.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/pJAY231"><img src="https://i.imgur.com/pJAY231.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/LDSX9lZ"><img src="https://i.imgur.com/LDSX9lZ.png" title="source: imgur.com" /></a></div>
 
-Cuối cùng ban tổ chức có hỏi xem ai thích đi vào hang múa chơi không, Nhưng lúc đó ba mẹ mình đã rất mệt rồi nên đợi mai vậy.
+Cuối cùng ban tổ chức có hỏi xem ai thích đi vào hang múa chơi không, nhưng lúc đó ba mẹ mình đã rất mệt rồi nên đợi mai vậy.
 
 
 Trong tờ hướng dẫn có nói khách sạn gì gì đó, nhưng mà lạ lém :~
