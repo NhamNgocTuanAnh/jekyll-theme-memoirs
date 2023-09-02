@@ -40,9 +40,19 @@ Và cuối cùng thì ngày này đã đến. Điểm đầu tiên mình
 
 Ngồi thuyền hơn 3 tiếng đồng hồ bạn sẽ được người chèo đò đưa đi du ngoạn 10km trên sông, tận gần 10km lận nhé các bạn.
 
+<div class="content" style="text-align:center; "><a href="https://imgur.com/OOxHXDp"><img src="https://i.imgur.com/OOxHXDp.jpg" title="source: imgur.com" /></a><span class="image-caption">Núi non trùng điệp</span></div>
+
 Đây là lần thứ 2 kể từ lần đi Tam Chúc, mình ngồi lênh đênh lâu tới vậy.
 
-Lần đầu tiên mình được đi kiểu như như vậy, rất là vui. Ở đây đẹp nhất vẫn là cái đền nổi giữa sông (quên tên mất rồi ^^), đừng bỏ lỡ nơi này để checkin nhé các bạn. Du khách sẽ được ngồi thuyền trôi theo dòng nước để khám khám phá cảnh sắc không khác gì thiên nhiên hoang sơ thời tiền sử. Tại đây có tổng cộng 3 tuyến hành trình khác nhau tùy vào nhu cầu của du khách với điểm bắt đầu và điểm kết thúc là bến thuyền Tràng An.
+<div class="content" style="text-align:center; "><a href="https://imgur.com/Gp3zjfd"><img src="https://i.imgur.com/Gp3zjfd.jpg" title="source: imgur.com" /></a><span class="image-caption">Ở đây đẹp nhất vẫn là cái đền nổi giữa sông (quên tên mất rồi ^^)</span></div><div class="content" style="text-align:center; "><a href="https://imgur.com/F8GJhGA"><img src="https://i.imgur.com/F8GJhGA.jpg" title="source: imgur.com" /></a><span class="image-caption">đừng bỏ lỡ nơi này để checkin nhé các bạn.</span></div>
+
+
+
+Du khách sẽ được ngồi thuyền trôi theo dòng nước để khám khám phá cảnh sắc không khác gì thiên nhiên hoang sơ thời tiền sử.
+
+<div class="content" style="text-align:center; "><a href="https://imgur.com/wZtNeRj"><img src="https://i.imgur.com/wZtNeRj.jpg" title="source: imgur.com" /></a><span class="image-caption">Trong động rất mát, mùa mưa, nước lên cao sẽ không thể vào được.</span><br><a href="https://imgur.com/bSR4FUI"><img src="https://i.imgur.com/bSR4FUI.jpg" title="source: imgur.com" /></a></div>
+
+Tại đây có tổng cộng 3 tuyến hành trình khác nhau tùy vào nhu cầu của du khách với điểm bắt đầu và điểm kết thúc là bến thuyền Tràng An.
 
 ### Bái đính
 
