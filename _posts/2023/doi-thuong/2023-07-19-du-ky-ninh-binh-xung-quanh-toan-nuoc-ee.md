@@ -26,7 +26,7 @@ Nghỉ hè rồi bạn ơi. Đã lâu rồi không đi cùng gia đình. T
 
 Nhà mình xuất phát từ Hà Nội với xe khách đón tại nhà hát. Mình có chút lo lắng vì 6-7h sáng xe mới bắt đầu xuất phát - mà đi ninh bình mất 5-6 tiếng chứ ít gì.
 
-<div class="content" style="text-align:center; "><a href="https://imgur.com/MH0EzXM"><img src="https://i.imgur.com/MH0EzXM.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Kệ!Chụp đã!</span><br><a href="https://imgur.com/fLZA24Y"><img src="https://i.imgur.com/fLZA24Y.jpg" title="source: imgur.com" /></a><br><span class="image-caption">mẹ</span><br><a href="https://imgur.com/uDMlPt0"><img src="https://i.imgur.com/uDMlPt0.jpg" title="source: imgur.com" /></a><br><span class="image-caption">View từ đường vành đai 3 trên cao</span></div>
+<div class="content" style="text-align:center; "><a href="https://imgur.com/MH0EzXM"><img src="https://i.imgur.com/MH0EzXM.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Kệ!Chụp đã!</span><br><a href="https://imgur.com/fLZA24Y"><img src="https://i.imgur.com/fLZA24Y.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/uDMlPt0"><img src="https://i.imgur.com/uDMlPt0.jpg" title="source: imgur.com" /></a><br><span class="image-caption">View từ đường vành đai 3 trên cao</span></div>
 
 <hr style="border: 1px solid #000000;">
 <p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Mục lục</p>
@@ -67,17 +67,15 @@ Thực ra mình câu view tẹo thôi :P. Mình đã tới chùa Bái đi
 Để lại kỉ niệm cho mình nhiều nhất vẫn là toà tháp 12 tầng, nhìn toà này mình lại liên tưởng đến bộ phim Thanh Xà Bạch Xà ấy.
 
 <div class="content" style="text-align:center; ">
-  <a href="https://imgur.com/5Ju0uwx"><img src="https://i.imgur.com/5Ju0uwx.jpg" title="source: imgur.com" /></a><br><a
-    href="https://imgur.com/PjXUnZo"><img src="https://i.imgur.com/PjXUnZo.jpg" title="source: imgur.com" /></a><br><a
+  <a href="https://imgur.com/5Ju0uwx"><img src="https://i.imgur.com/5Ju0uwx.jpg" title="source: imgur.com" /></a><br><br><a
+    href="https://imgur.com/PjXUnZo"><img src="https://i.imgur.com/PjXUnZo.jpg" title="source: imgur.com" /></a><br><br><a
     href="https://imgur.com/963jK4u"><img src="https://i.imgur.com/963jK4u.jpg"
-      title="source: imgur.com" /></a><br><span class="image-caption">Vì có người nước ngoài nên anh hướng dẫn
-    viên nói hơi lâu :'</span><br><a href="https://imgur.com/ioo8ixD"><img src="https://i.imgur.com/ioo8ixD.jpg"
-      title="source: imgur.com" /></a><br><a href="https://imgur.com/0qvd0z9"><img src="https://i.imgur.com/0qvd0z9.jpg"
-      title="source: imgur.com" /></a><br><a href="https://imgur.com/1hWaal9"><img src="https://i.imgur.com/1hWaal9.jpg"
-      title="source: imgur.com" /></a><br><a href="https://imgur.com/JpsawWn"><img src="https://i.imgur.com/JpsawWn.jpg"
+      title="source: imgur.com" /></a><br><br><span class="image-caption">Vì có người nước ngoài nên anh hướng dẫn viên nói hơi lâu :'</span><br><br><a href="https://imgur.com/ioo8ixD"><img src="https://i.imgur.com/ioo8ixD.jpg"
+      title="source: imgur.com" /></a><br><br><a href="https://imgur.com/0qvd0z9"><img src="https://i.imgur.com/0qvd0z9.jpg"
+      title="source: imgur.com" /></a><br><br><a href="https://imgur.com/1hWaal9"><img src="https://i.imgur.com/1hWaal9.jpg"
+      title="source: imgur.com" /></a><br><br><a href="https://imgur.com/JpsawWn"><img src="https://i.imgur.com/JpsawWn.jpg"
       title="source: imgur.com" /></a>
-</div><br><p>
-Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó rất khác lạ. Mình đi khá là nhiều chùa, nhưng chưa có cái chùa nào để lại ấn tượng như BĐ.</p>
+</div><br><p>Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó rất khác lạ. Mình đi khá là nhiều chùa, nhưng chưa có cái chùa nào để lại ấn tượng như BĐ.</p>
 
 ### Quần thể di tích Cố đô Hoa Lư.
 
