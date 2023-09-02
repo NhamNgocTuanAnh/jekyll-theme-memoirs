@@ -169,9 +169,4 @@ var root_url=window.location.origin;function getHrefOnclickAndRedirectWithLink(t
 <style>
 .box{display:flex;align-items:center;justify-content:center;background:#aaa;margin:20px 0;width:100%;min-height:200px;border:2px #ccc solid;color:#fff}.row{display:flex;flex-wrap:wrap;padding:0 4px}.column{flex:25%;max-width:25%;padding:0 4px}.column img{margin-top:8px;vertical-align:middle;width:100%}@media screen and (max-width: 800px){.column{flex:50%;max-width:50%}}@media screen and (max-width: 600px){.column{flex:100%;max-width:100%}}video{max-width:100%;height:auto}
 </style>
-<script>
-let myVideo=document.getElementById("video1");if(myVideo){function i(){myVideo.paused?myVideo.play():myVideo.pause()}function e(){myVideo.width=560}function d(){myVideo.width=228}function o(){myVideo.width=320}myVideo.play()}
-</script>
-<style>
-iframe{margin:auto;display:block}.video-container{position:relative;padding-bottom:56.25%}.video-container iframe{position:absolute;top:0;left:0;width:100%;height:100%}.video{aspect-ratio:16/9;width:100%}
-</style>
+
