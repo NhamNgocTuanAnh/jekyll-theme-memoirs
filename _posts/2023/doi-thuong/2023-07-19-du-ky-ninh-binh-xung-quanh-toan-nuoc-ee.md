@@ -48,6 +48,10 @@ Thực ra mình câu view tẹo thôi :P. Mình đã tới chùa Bái đi
 
 Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó rất khác lạ. Mình đi khá là nhiều chùa, nhưng chưa có cái chùa nào để lại ấn tượng như BĐ. Vì nó quá rộng, nếu ko có trợ giúp của xe điện. Bạn phải lết bộ hơn 6km để đi hết đc chùa, wow ... ấn tượng đúng ko nào. Để lại kỉ niệm cho mình nhiều nhất vẫn là toà tháp 12 tầng, nhìn toà này mình lại liên tưởng đến bộ phim Thanh Xà Bạch Xà ấy. (Một lưu ý nhỏ là nhớ đi xe điện nhé các bạn, 60k thôi nhưng tiết kiệm cho các bạn khá nhiều thời gian đấy ^^).
 
+<div class="content" style="text-align:center; ">
+<a href="https://imgur.com/5Ju0uwx"><img src="https://i.imgur.com/5Ju0uwx.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/963jK4u"><img src="https://i.imgur.com/963jK4u.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Vì có người nước ngoài nên anh hướng dẫn viên nói hơi lâu :'</span><br><a href="https://imgur.com/ioo8ixD"><img src="https://i.imgur.com/ioo8ixD.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/0qvd0z9"><img src="https://i.imgur.com/0qvd0z9.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/1hWaal9"><img src="https://i.imgur.com/1hWaal9.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/JpsawWn"><img src="https://i.imgur.com/JpsawWn.jpg" title="source: imgur.com" /></a></div>
+
+
 Quần thể di tích Cố đô Hoa Lư.
 
 > Hoa Lư là kinh đô đầu tiên của nhà nước phong kiến Trung ương tập quyền ở Việt Nam với các dấu ấn lịch sử: thống nhất giang sơn, đánh Tống - dẹp Chiêm... - Wikipedia tiếng Việt
