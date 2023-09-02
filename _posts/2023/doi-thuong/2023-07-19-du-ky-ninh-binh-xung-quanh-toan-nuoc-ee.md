@@ -40,7 +40,7 @@ Bọn mình xuất phát từ Hà Nội với xe khách đón tại nhà há
 
 Và cuối cùng thì điều mình lo lắng đã xảy ra. Điểm đầu tiên mình qua là khu sinh thái Tràng An - Lúc 14h.
 
-Ngồi thuyền hơn 3 tiếng đồng hồ bạn sẽ được người chèo đò đưa đi du ngoạn 10km trên sông, tận gần 10km lận nhé các bạn. Lần đầu tiên mình được đi kiểu như như vậy, rất là vui. Ở đây đẹp nhất vẫn là cái đền nổi giữa sông (quên tên mất rồi ^^), đừng bỏ lỡ nơi này để checkin nhé các bạn.
+Ngồi thuyền hơn 3 tiếng đồng hồ bạn sẽ được người chèo đò đưa đi du ngoạn 10km trên sông, tận gần 10km lận nhé các bạn. Lần đầu tiên mình được đi kiểu như như vậy, rất là vui. Ở đây đẹp nhất vẫn là cái đền nổi giữa sông (quên tên mất rồi ^^), đừng bỏ lỡ nơi này để checkin nhé các bạn. Du khách sẽ được ngồi thuyền trôi theo dòng nước để khám khám phá cảnh sắc không khác gì thiên nhiên hoang sơ thời tiền sử. Tại đây có tổng cộng 3 tuyến hành trình khác nhau tùy vào nhu cầu của du khách với điểm bắt đầu và điểm kết thúc là bến thuyền Tràng An.
 
 
 Thực ra mình câu view tẹo thôi :P. Mình đã tới chùa Bái đính trước tiên. Đúng là ban tổ chức có tâm. Bái đính - 1 Tam Chúc lặng lẽ
@@ -49,6 +49,8 @@ Thực ra mình câu view tẹo thôi :P. Mình đã tới chùa Bái đi
 Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó rất khác lạ. Mình đi khá là nhiều chùa, nhưng chưa có cái chùa nào để lại ấn tượng như BĐ. Vì nó quá rộng, nếu ko có trợ giúp của xe điện. Bạn phải lết bộ hơn 6km để đi hết đc chùa, wow ... ấn tượng đúng ko nào. Để lại kỉ niệm cho mình nhiều nhất vẫn là toà tháp 12 tầng, nhìn toà này mình lại liên tưởng đến bộ phim Thanh Xà Bạch Xà ấy. (Một lưu ý nhỏ là nhớ đi xe điện nhé các bạn, 60k thôi nhưng tiết kiệm cho các bạn khá nhiều thời gian đấy ^^).
 
 Quần thể di tích Cố đô Hoa Lư.
+
+> Hoa Lư là kinh đô đầu tiên của nhà nước phong kiến Trung ương tập quyền ở Việt Nam với các dấu ấn lịch sử: thống nhất giang sơn, đánh Tống - dẹp Chiêm... - Wikipedia tiếng Việt
 
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/GliVusm"><img src="https://i.imgur.com/GliVusm.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Bọn nhóc cùng đoàn khá phấn khích</span><br><a href="https://imgur.com/vtMnMri"><img src="https://i.imgur.com/vtMnMri.jpg" title="source: imgur.com" /></a><span class="image-caption">Cố đô đã chìm với đất rất nhiều</span>
