@@ -36,9 +36,9 @@ Bọn mình xuất phát từ Hà Nội với xe khách đón tại nhà há
 
 <div class="content" style="text-align:center; "><a href="https://imgur.com/MH0EzXM"><img src="https://i.imgur.com/MH0EzXM.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Kệ!Chụp đã!</span><br><a href="https://imgur.com/YUmPrhD"><img src="https://i.imgur.com/YUmPrhD.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/fLZA24Y"><img src="https://i.imgur.com/fLZA24Y.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/uDMlPt0"><img src="https://i.imgur.com/uDMlPt0.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Mình rất thích chụp cột điện :D</span></div>
 
-
-
 Và cuối cùng thì ngày này đã đến. Điểm đầu tiên mình qua là khu sinh thái **Tràng An** - Lúc **14h**.
+
+
 
 Ngồi thuyền hơn 3 tiếng đồng hồ bạn sẽ được người chèo đò đưa đi du ngoạn 10km trên sông, tận gần 10km lận nhé các bạn. Lần đầu tiên mình được đi kiểu như như vậy, rất là vui. Ở đây đẹp nhất vẫn là cái đền nổi giữa sông (quên tên mất rồi ^^), đừng bỏ lỡ nơi này để checkin nhé các bạn. Du khách sẽ được ngồi thuyền trôi theo dòng nước để khám khám phá cảnh sắc không khác gì thiên nhiên hoang sơ thời tiền sử. Tại đây có tổng cộng 3 tuyến hành trình khác nhau tùy vào nhu cầu của du khách với điểm bắt đầu và điểm kết thúc là bến thuyền Tràng An.
 
@@ -46,10 +46,16 @@ Ngồi thuyền hơn 3 tiếng đồng hồ bạn sẽ được người chèo �
 Thực ra mình câu view tẹo thôi :P. Mình đã tới chùa Bái đính trước tiên. Đúng là ban tổ chức có tâm. Bái đính - 1 Tam Chúc lặng lẽ
 
 
-Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó rất khác lạ. Mình đi khá là nhiều chùa, nhưng chưa có cái chùa nào để lại ấn tượng như BĐ. Vì nó quá rộng, nếu ko có trợ giúp của xe điện. Bạn phải lết bộ hơn 6km để đi hết đc chùa, wow ... ấn tượng đúng ko nào. Để lại kỉ niệm cho mình nhiều nhất vẫn là toà tháp 12 tầng, nhìn toà này mình lại liên tưởng đến bộ phim Thanh Xà Bạch Xà ấy. (Một lưu ý nhỏ là nhớ đi xe điện nhé các bạn, 60k thôi nhưng tiết kiệm cho các bạn khá nhiều thời gian đấy ^^).
+Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó rất khác lạ. Mình đi khá là nhiều chùa, nhưng chưa có cái chùa nào để lại ấn tượng như BĐ.
+
+
+
+<div class="content" style="text-align:center; "><a href="https://imgur.com/rAQn7Rq"><img src="https://i.imgur.com/rAQn7Rq.jpg" title="source: imgur.com" /></a><span class="image-caption">Vì nó quá rộng, nếu ko có trợ giúp của xe điện. Bạn phải lết bộ hơn 6km để đi hết đc chùa, wow ... ấn tượng đúng ko nào. (Một lưu ý nhỏ là nhớ đi xe điện nhé các bạn, 60k thôi nhưng tiết kiệm cho các bạn khá nhiều thời gian đấy ^^).</span></div>
+
+Để lại kỉ niệm cho mình nhiều nhất vẫn là toà tháp 12 tầng, nhìn toà này mình lại liên tưởng đến bộ phim Thanh Xà Bạch Xà ấy.
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/5Ju0uwx"><img src="https://i.imgur.com/5Ju0uwx.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/963jK4u"><img src="https://i.imgur.com/963jK4u.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Vì có người nước ngoài nên anh hướng dẫn viên nói hơi lâu :'</span><br><a href="https://imgur.com/ioo8ixD"><img src="https://i.imgur.com/ioo8ixD.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/0qvd0z9"><img src="https://i.imgur.com/0qvd0z9.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/1hWaal9"><img src="https://i.imgur.com/1hWaal9.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/JpsawWn"><img src="https://i.imgur.com/JpsawWn.jpg" title="source: imgur.com" /></a></div>
+<a href="https://imgur.com/5Ju0uwx"><img src="https://i.imgur.com/5Ju0uwx.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/963jK4u"><img src="https://i.imgur.com/963jK4u.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Vì có người nước ngoài nên anh hướng dẫn viên nói hơi lâu :'</span><br><a href="https://imgur.com/ioo8ixD"><img src="https://i.imgur.com/ioo8ixD.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/0qvd0z9"><img src="https://i.imgur.com/0qvd0z9.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/1hWaal9"><img src="https://i.imgur.com/1hWaal9.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/JpsawWn"><img src="https://i.imgur.com/JpsawWn.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/PjXUnZo"><img src="https://i.imgur.com/PjXUnZo.jpg" title="source: imgur.com" /></a></div>
 
 
 Quần thể di tích Cố đô Hoa Lư.
