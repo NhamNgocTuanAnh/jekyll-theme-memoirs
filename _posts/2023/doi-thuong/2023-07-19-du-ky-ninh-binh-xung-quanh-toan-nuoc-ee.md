@@ -9,8 +9,8 @@ image: assets/images/2023/du-lich/avt/ninh-binh-gia-dinh-2023-avt.webp
 rating: 5
 isGithubComments: false
 permalink: du-lich/Quay-lai-ninh-binh-xung-quanh-toan-nuoc-ee
-excerpt: Và cuối cùng thì điều mình lo lắng đã xảy ra. Điểm đầu tiên mình qua là khu sinh thái Tràng An - Lúc 14h.
-description: Và cuối cùng thì điều mình lo lắng đã xảy ra. Điểm đầu tiên mình qua là khu sinh thái Tràng An - Lúc 14h.
+excerpt: Cuối cùng thì ngày này đã đến. Điểm đầu tiên mình qua là khu sinh thái Tràng An - Lúc 14h.
+description: Cuối cùng thì ngày này đã đến. Điểm đầu tiên mình qua là khu sinh thái Tràng An - Lúc 14h.
 adsense: "enabled"
 keywords:
   - du lịch ninh bình
