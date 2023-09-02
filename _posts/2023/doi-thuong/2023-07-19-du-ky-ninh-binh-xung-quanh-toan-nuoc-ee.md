@@ -22,15 +22,19 @@ date: 2023-07-17 22:22:22 +0700
 
 Nghỉ hè rồi bạn ơi. Đã lâu rồi không đi cùng gia đình. Thật tình cờ Ninh bình ngay gần bạn.
 
-{% include post-by-url.html post_src="../../_posts/2022/nhiep-anh/reviews/2022-07-20-canon-g1x-mark-1-nam-2023-hoac-forever-on-chu.md" %}
-
-Sau nhiều ngày đắn đo, gia đình mình đã quyết định đi tour.
-
 ### Xuất phát
 
 Bọn mình xuất phát từ Hà Nội với xe khách đón tại nhà hát. Mình có chút lo lắng vì 6-7h sáng xe mới bắt đầu xuất phát - mà đi ninh bình mất 5-6 tiếng chứ ít gì.
 
 <div class="content" style="text-align:center; "><a href="https://imgur.com/MH0EzXM"><img src="https://i.imgur.com/MH0EzXM.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Kệ!Chụp đã!</span><br><a href="https://imgur.com/fLZA24Y"><img src="https://i.imgur.com/fLZA24Y.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/uDMlPt0"><img src="https://i.imgur.com/uDMlPt0.jpg" title="source: imgur.com" /></a><br><span class="image-caption">View từ đường vành đai 3 trên cao</span></div>
+
+<hr style="border: 1px solid #000000;">
+<p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Mục lục</p>
+* TOC
+{:toc}
+
+<hr style="border: 1px solid #000000;">
+
 
 ### Tràng an
 
@@ -67,13 +71,79 @@ Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó
 Để lại kỉ niệm cho mình nhiều nhất vẫn là toà tháp 12 tầng, nhìn toà này mình lại liên tưởng đến bộ phim Thanh Xà Bạch Xà ấy.
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/5Ju0uwx"><img src="https://i.imgur.com/5Ju0uwx.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/PjXUnZo"><img src="https://i.imgur.com/PjXUnZo.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/963jK4u"><img src="https://i.imgur.com/963jK4u.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Vì có người nước ngoài nên anh hướng dẫn viên nói hơi lâu :'</span><br><a href="https://imgur.com/ioo8ixD"><img src="https://i.imgur.com/ioo8ixD.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/0qvd0z9"><img src="https://i.imgur.com/0qvd0z9.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/1hWaal9"><img src="https://i.imgur.com/1hWaal9.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/JpsawWn"><img src="https://i.imgur.com/JpsawWn.jpg" title="source: imgur.com" /></a></div><h3>Quần thể di tích Cố đô Hoa Lư.</h3>
-<blockquote>Hoa Lư là kinh đô đầu tiên của nhà nước phong kiến Trung ương tập quyền ở Việt Nam với các dấu ấn lịch sử: thống nhất giang sơn, đánh Tống - dẹp Chiêm... - Wikipedia tiếng Việt
+  <a href="https://imgur.com/5Ju0uwx"><img src="https://i.imgur.com/5Ju0uwx.jpg" title="source: imgur.com" /></a><br><a
+    href="https://imgur.com/PjXUnZo"><img src="https://i.imgur.com/PjXUnZo.jpg" title="source: imgur.com" /></a><br><a
+    href="https://imgur.com/963jK4u"><img src="https://i.imgur.com/963jK4u.jpg"
+      title="source: imgur.com" /></a><br><span class="image-caption">Vì có người nước ngoài nên anh hướng dẫn
+    viên nói hơi lâu :'</span><br><a href="https://imgur.com/ioo8ixD"><img src="https://i.imgur.com/ioo8ixD.jpg"
+      title="source: imgur.com" /></a><br><a href="https://imgur.com/0qvd0z9"><img src="https://i.imgur.com/0qvd0z9.jpg"
+      title="source: imgur.com" /></a><br><a href="https://imgur.com/1hWaal9"><img src="https://i.imgur.com/1hWaal9.jpg"
+      title="source: imgur.com" /></a><br><a href="https://imgur.com/JpsawWn"><img src="https://i.imgur.com/JpsawWn.jpg"
+      title="source: imgur.com" /></a>
+</div>
+<h3>Quần thể di tích Cố đô Hoa Lư.</h3>
+<blockquote>Hoa Lư là kinh đô đầu tiên của nhà nước phong kiến Trung ương tập quyền ở Việt Nam với các dấu ấn lịch sử:
+  thống nhất giang sơn, đánh Tống - dẹp Chiêm... - Wikipedia tiếng Việt
 </blockquote>
-<div class="content" style="text-align:center; "><a href="https://imgur.com/GliVusm"><img src="https://i.imgur.com/GliVusm.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Bọn nhóc cùng đoàn khá phấn khích</span><br><a href="https://imgur.com/vtMnMri"><img src="https://i.imgur.com/vtMnMri.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Cố đô đã chìm với đất rất nhiều</span><br><a href="https://imgur.com/GliVusm"><a href="https://imgur.com/LMqQWov"><img src="https://i.imgur.com/LMqQWov.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/GliVusm"><a href="https://imgur.com/stWQx3s"><img src="https://i.imgur.com/stWQx3s.jpg" title="source: imgur.com" /></a><br><br><a href="https://imgur.com/ZQ5u8nn"><img src="https://i.imgur.com/ZQ5u8nn.jpg" title="source: imgur.com" /></a><br><br><a href="https://imgur.com/oOWRsDZ"><img src="https://i.imgur.com/oOWRsDZ.jpg" title="source: imgur.com" /></a><br><br><a href="https://imgur.com/4o1ngDW"><img src="https://i.imgur.com/4o1ngDW.jpg" title="source: imgur.com" /></a><br><br><a href="https://imgur.com/sKBJi5E"><img src="https://i.imgur.com/sKBJi5E.jpg" title="source: imgur.com" /></a><span class="image-caption">Vẻ cổ kính nơi đây khiến mình thấy nhớ về thời xưa, chân trọng lịch sử</span><br>Chụp gia đình nào :D<br><a href="https://imgur.com/tk2ND9I"><img src="https://i.imgur.com/tk2ND9I.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/vUr5Q9U"><img src="https://i.imgur.com/vUr5Q9U.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/pJAY231"><img src="https://i.imgur.com/pJAY231.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/LDSX9lZ"><img src="https://i.imgur.com/LDSX9lZ.png" title="source: imgur.com" /></a><br><p>Cuối cùng ban tổ chức có hỏi xem ai thích đi vào hang múa chơi không, nhưng lúc đó ba mẹ mình đã rất mệt rồi nên đợi mai vậy.</p><br><a href="https://imgur.com/YG1j6jb"><img src="https://i.imgur.com/YG1j6jb.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Trong tờ hướng dẫn có nói khách sạn gì gì đó, nhưng mà lạ lém :~</span><a href="https://imgur.com/czcjS4h"><img src="https://i.imgur.com/czcjS4h.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/xG4HUUg"><img src="https://i.imgur.com/xG4HUUg.jpg" title="source: imgur.com" /></a><a href="https://imgur.com/xG4HUUg"><img src="https://i.imgur.com/xG4HUUg.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Thôi cũng đẹp</span><br><p>Bể bơi nay nuôi cá. :></p><br><p>Buổi tối mình có rẽ lên thành phố chơi, khuyên các bạn đi tour nhớ hỏi trc chỗ ngủ hoặc khách sạn. Mình không hỏi nên giờ mới biết chỗ mình ở khá xa so với thành phố.</p><a href="https://imgur.com/UBlUOnL"><img src="https://i.imgur.com/UBlUOnL.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/GbDosiD"><img src="https://i.imgur.com/GbDosiD.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/GbDosiD"><img src="https://i.imgur.com/GbDosiD.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/COVmJuZ"><img src="https://i.imgur.com/COVmJuZ.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/IzEaq9G"><img src="https://i.imgur.com/IzEaq9G.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/K94IvOx"><img src="https://i.imgur.com/K94IvOx.jpg" title="source: imgur.com" /></a></div>
+<div class="content" style="text-align:center; "><a href="https://imgur.com/GliVusm"><img
+      src="https://i.imgur.com/GliVusm.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Bọn nhóc
+    cùng đoàn khá phấn khích</span><br><a href="https://imgur.com/vtMnMri"><img
+      src="https://i.imgur.com/vtMnMri.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Cố đô đã
+    chìm với đất rất nhiều</span><br><a href="https://imgur.com/LMqQWov"><img src="https://i.imgur.com/LMqQWov.jpg"
+      title="source: imgur.com" /></a><br>
+  <a href="https://imgur.com/stWQx3s"><img src="https://i.imgur.com/stWQx3s.jpg"
+      title="source: imgur.com" /></a><br><br><a href="https://imgur.com/ZQ5u8nn"><img
+      src="https://i.imgur.com/ZQ5u8nn.jpg" title="source: imgur.com" /></a><br><br><a
+    href="https://imgur.com/oOWRsDZ"><img src="https://i.imgur.com/oOWRsDZ.jpg"
+      title="source: imgur.com" /></a><br><br><a href="https://imgur.com/4o1ngDW"><img
+      src="https://i.imgur.com/4o1ngDW.jpg" title="source: imgur.com" /></a><br><br><a
+    href="https://imgur.com/sKBJi5E"><img src="https://i.imgur.com/sKBJi5E.jpg" title="source: imgur.com" /></a><span
+    class="image-caption">Vẻ cổ kính nơi đây khiến mình thấy nhớ về
+    thời xưa, chân trọng lịch sử</span><br>Chụp gia đình nào :D<br><a href="https://imgur.com/tk2ND9I"><img
+      src="https://i.imgur.com/tk2ND9I.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/vUr5Q9U"><img
+      src="https://i.imgur.com/vUr5Q9U.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/pJAY231"><img
+      src="https://i.imgur.com/pJAY231.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/LDSX9lZ"><img
+      src="https://i.imgur.com/LDSX9lZ.png" title="source: imgur.com" /></a><br>
+  <p>Cuối cùng ban tổ chức có hỏi xem ai thích đi vào hang múa chơi không, nhưng lúc đó ba mẹ mình đã
+    rất mệt rồi nên đợi mai vậy.</p><br><a href="https://imgur.com/YG1j6jb"><img
+      src="https://i.imgur.com/YG1j6jb.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Trong
+    tờ hướng dẫn có nói khách sạn gì gì đó, nhưng mà lạ lém :~</span><a
+    href="https://imgur.com/czcjS4h"><img src="https://i.imgur.com/czcjS4h.jpg" title="source: imgur.com" /></a><br><a
+    href="https://imgur.com/xG4HUUg"><img src="https://i.imgur.com/xG4HUUg.jpg" title="source: imgur.com" /></a><a
+    href="https://imgur.com/xG4HUUg"><img src="https://i.imgur.com/xG4HUUg.jpg"
+      title="source: imgur.com" /></a><br><span class="image-caption">Thôi
+    cũng đẹp</span><br>
+  <p>Bể bơi nay nuôi cá. :></p><br>
+  <p>Buổi tối mình có rẽ lên thành phố chơi, khuyên các bạn đi tour nhớ hỏi trc chỗ ngủ hoặc khách
+    sạn. Mình không hỏi nên giờ mới biết chỗ mình ở khá xa so với thành phố.</p>
+  <a href="https://imgur.com/UBlUOnL"><img src="https://i.imgur.com/UBlUOnL.jpg" title="source: imgur.com" /></a>
+  <br>
+  <a href="https://imgur.com/GbDosiD">
+
+    <img src="https://i.imgur.com/GbDosiD.jpg" title="source: imgur.com" /></a>
+
+  <br>
+  <a href="https://imgur.com/GbDosiD"><img src="https://i.imgur.com/GbDosiD.jpg" title="source: imgur.com" /></a><br><a
+    href="https://imgur.com/COVmJuZ">
+    <img src="https://i.imgur.com/COVmJuZ.jpg" title="source: imgur.com" /></a>
+  <br>
+
+  <a href="https://imgur.com/IzEaq9G"><img src="https://i.imgur.com/IzEaq9G.jpg" title="source: imgur.com" /></a><br><a
+    href="https://imgur.com/K94IvOx">
+
+    <img src="https://i.imgur.com/K94IvOx.jpg" title="source: imgur.com" /></a>
+</div>
 <h3>Chùa Bích động</h3>
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/PVrPtBp"><img src="https://i.imgur.com/PVrPtBp.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/SAbfdaG"><img src="https://i.imgur.com/SAbfdaG.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/OUlhfar"><img src="https://i.imgur.com/OUlhfar.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/qGC98vx"><img src="https://i.imgur.com/qGC98vx.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/8bKdOgv"><img src="https://i.imgur.com/8bKdOgv.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/PVrPtBp"><img src="https://i.imgur.com/PVrPtBp.jpg" title="source: imgur.com" /></a><span class="image-caption">Ngồi thuyền, à mà thôi, hì :D</span><br><p></p></div>
+  <a href="https://imgur.com/PVrPtBp"><img src="https://i.imgur.com/PVrPtBp.jpg" title="source: imgur.com" /></a><br><a
+    href="https://imgur.com/SAbfdaG"><img src="https://i.imgur.com/SAbfdaG.jpg" title="source: imgur.com" /></a><br><a
+    href="https://imgur.com/OUlhfar"><img src="https://i.imgur.com/OUlhfar.jpg" title="source: imgur.com" /></a><br><a
+    href="https://imgur.com/qGC98vx"><img src="https://i.imgur.com/qGC98vx.jpg" title="source: imgur.com" /></a><br><a
+    href="https://imgur.com/8bKdOgv"><img src="https://i.imgur.com/8bKdOgv.jpg" title="source: imgur.com" /></a><br><a
+    href="https://imgur.com/PVrPtBp"><img src="https://i.imgur.com/PVrPtBp.jpg" title="source: imgur.com" /></a><span
+    class="image-caption">Ngồi thuyền, à mà thôi, hì :D</span><br>
+  <p></p>
+</div>
 <h3>Hang múa</h3>
 
 Lần đầu nhìn ảnh trên instagram khá ấn tượng với cái hang này, cũng chính hang Múa mình mới quyết định đến NB. Cách trung tâm gần 5km, không quá xa cho một nơi tuyệt vời để sống ảo. Mình nghĩ đã đi đến NB rồi thì khó ai có thể bỏ lỡ địa điểm này. Hang múa đây người ta xây bậc thang, nhìn bề ngoài mình có cảm giác như Vạn Lý Trường Thành thu nhỏ vậy, rất đẹp. Một lưu ý nhỏ các bạn nhớ mang theo nước để đi nhé, ban đầu mình rất tự tin. Lên đến tận đỉnh thì khát nước gần chết ^^.
