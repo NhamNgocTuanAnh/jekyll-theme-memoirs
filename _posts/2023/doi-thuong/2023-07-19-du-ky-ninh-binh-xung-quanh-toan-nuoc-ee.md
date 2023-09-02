@@ -17,7 +17,7 @@ keywords:
   - ninh bình có gì
   - chùa yên bái
   - Khu du lịch sinh thái Tràng An
-date: 2023-07-17 22:22:22 +0700
+date: 2023-07-07 07:07:07 +0700
 ---
 
 Nghỉ hè rồi bạn ơi. Đã lâu rồi không đi cùng gia đình. Thật tình cờ Ninh bình ngay gần bạn.
@@ -126,7 +126,6 @@ Thực ra mình câu view tẹo thôi :P. Mình đã tới chùa Bái đi
 
 <div class="content" style="text-align:center; ">
   <a href="https://imgur.com/PVrPtBp"><img src="https://i.imgur.com/PVrPtBp.jpg" title="source: imgur.com" /></a><br><p></p><br><a
-    href="https://imgur.com/SAbfdaG"><img src="https://i.imgur.com/SAbfdaG.jpg" title="source: imgur.com" /></a><br><p></p><br><a
     href="https://imgur.com/OUlhfar"><img src="https://i.imgur.com/OUlhfar.jpg" title="source: imgur.com" /></a><br><p></p><br><a
     href="https://imgur.com/qGC98vx"><img src="https://i.imgur.com/qGC98vx.jpg" title="source: imgur.com" /></a><br><p></p><br><a
     href="https://imgur.com/8bKdOgv"><img src="https://i.imgur.com/8bKdOgv.jpg" title="source: imgur.com" /></a><br><p></p><br><a
@@ -147,8 +146,8 @@ Nhớ là **"Tịnh"** chứ ko phải là "Tình" nhé các bạn. Lúc đến 
 Tranh thủ trước khi hoàng hôn thì bon chen vô tuyệt tình cốc chụp. Và đạp xe ở đây rất chill nha.
 
 <div class="content" style="text-align:center; "><a href="https://imgur.com/3bsccP1"><img src="https://i.imgur.com/3bsccP1.jpg" title="source: imgur.com" /></a><span
-    class="image-caption">Xây trên núi, view triệu đô</span><br>
-<a href="https://imgur.com/swoh4H9"><img src="https://i.imgur.com/swoh4H9.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/m6xEF63"><img src="https://i.imgur.com/m6xEF63.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/gYeyMsJ"><img src="https://i.imgur.com/gYeyMsJ.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/lFl8JIV"><img src="https://i.imgur.com/lFl8JIV.jpg" title="source: imgur.com" /></a><br><span
+    class="image-caption">Xây trên núi, view triệu đô</span><br><p></p><br>
+<a href="https://imgur.com/swoh4H9"><img src="https://i.imgur.com/swoh4H9.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/m6xEF63"><img src="https://i.imgur.com/m6xEF63.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/gYeyMsJ"><img src="https://i.imgur.com/gYeyMsJ.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/lFl8JIV"><img src="https://i.imgur.com/lFl8JIV.jpg" title="source: imgur.com" /></a><br><span
     class="image-caption">Cá đâu ra nhiều thế, thịt cá :></span>
 </div>
 
