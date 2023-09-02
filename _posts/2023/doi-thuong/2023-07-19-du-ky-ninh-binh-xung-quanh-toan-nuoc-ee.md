@@ -22,7 +22,7 @@ date: 2023-07-17 22:22:22 +0700
 
 Nghỉ hè rồi bạn ơi. Đã lâu rồi không đi cùng gia đình. Thật tình cờ Ninh bình ngay gần bạn.
 
-{% include post-by-url.html post_src="../../_posts/2022/nhiep-anh/reviews/2022-07-20-canon-g1x-mark-1-nam-2023-hoac-forever-on-chu" %}
+{% include post-by-url.html post_src="./../_posts/2022/nhiep-anh/reviews/2022-07-20-canon-g1x-mark-1-nam-2023-hoac-forever-on-chu" %}
 
 Sau nhiều ngày đắn đo, gia đình mình đã quyết định đi tour.
 
@@ -53,7 +53,7 @@ Quần thể di tích Cố đô Hoa Lư.
 > Hoa Lư là kinh đô đầu tiên của nhà nước phong kiến Trung ương tập quyền ở Việt Nam với các dấu ấn lịch sử: thống nhất giang sơn, đánh Tống - dẹp Chiêm... - Wikipedia tiếng Việt
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/GliVusm"><img src="https://i.imgur.com/GliVusm.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Bọn nhóc cùng đoàn khá phấn khích</span><br><a href="https://imgur.com/vtMnMri"><img src="https://i.imgur.com/vtMnMri.jpg" title="source: imgur.com" /></a><span class="image-caption">Cố đô đã chìm với đất rất nhiều</span></div>
+<a href="https://imgur.com/GliVusm"><img src="https://i.imgur.com/GliVusm.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Bọn nhóc cùng đoàn khá phấn khích</span><br><a href="https://imgur.com/vtMnMri"><img src="https://i.imgur.com/vtMnMri.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Cố đô đã chìm với đất rất nhiều</span></div>
 
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/GliVusm"><a href="https://imgur.com/LMqQWov"><img src="https://i.imgur.com/LMqQWov.jpg" title="source: imgur.com" /></a></div>
