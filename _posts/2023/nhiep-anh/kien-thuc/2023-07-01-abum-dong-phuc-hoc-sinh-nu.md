@@ -17,6 +17,7 @@ keywords:
   - chụp đồng phục nữ sinh
   - chụp công viên thống nhất
 date: 2023-07-01 22:22:22 +0700
+pinned: true
 ---
 
 ### Giới Thiệu
