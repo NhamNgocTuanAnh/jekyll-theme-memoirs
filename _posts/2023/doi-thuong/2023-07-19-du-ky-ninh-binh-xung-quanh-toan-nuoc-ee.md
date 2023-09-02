@@ -60,7 +60,7 @@ cố đô Hoa Lư.
 </div>
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/GliVusm"><a href="https://imgur.com/stWQx3s"><img src="https://i.imgur.com/stWQx3s.jpg" title="source: imgur.com" /></a><br><br><a href="https://imgur.com/ZQ5u8nn"><img src="https://i.imgur.com/ZQ5u8nn.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/GliVusm"><a href="https://imgur.com/stWQx3s"><img src="https://i.imgur.com/stWQx3s.jpg" title="source: imgur.com" /></a><br><br><a href="https://imgur.com/ZQ5u8nn"><img src="https://i.imgur.com/ZQ5u8nn.jpg" title="source: imgur.com" /></a><br><br><a href="https://imgur.com/oOWRsDZ"><img src="https://i.imgur.com/oOWRsDZ.jpg" title="source: imgur.com" /></a><br><br><a href="https://imgur.com/4o1ngDW"><img src="https://i.imgur.com/4o1ngDW.jpg" title="source: imgur.com" /></a><br><br><a href="https://imgur.com/sKBJi5E"><img src="https://i.imgur.com/sKBJi5E.jpg" title="source: imgur.com" /></a><span class="image-caption">Vẻ cổ kính nơi đây khiến mình thấy nhớ về thời xưa, chân trọng lịch sử</span><br><br>
 </div>
 
 Cuối cùng ban tổ chức có hỏi xem ai thích đi vào hang múa chơi không, Nhưng lúc đó ba mẹ mình đã rất mệt rồi nên đợi mai vậy.
