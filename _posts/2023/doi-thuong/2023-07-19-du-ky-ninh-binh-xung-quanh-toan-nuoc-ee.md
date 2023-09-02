@@ -5,7 +5,7 @@ author: sal
 lazyimages: "enabled"
 categories: [ Du hí 🛫 ]
 tags: [du ký]
-image: assets/images/2023/du-lich/avt/du-lich-ta-van-avt.webp
+image: assets/images/2023/du-lich/avt/ninh-binh-gia-dinh-2023-avt.webp
 rating: 5
 isGithubComments: false
 permalink: du-lich/Quay-lai-ninh-binh-xung-quanh-toan-nuoc-ee
@@ -53,8 +53,7 @@ Quần thể di tích Cố đô Hoa Lư.
 > Hoa Lư là kinh đô đầu tiên của nhà nước phong kiến Trung ương tập quyền ở Việt Nam với các dấu ấn lịch sử: thống nhất giang sơn, đánh Tống - dẹp Chiêm... - Wikipedia tiếng Việt
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/GliVusm"><img src="https://i.imgur.com/GliVusm.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Bọn nhóc cùng đoàn khá phấn khích</span><br><a href="https://imgur.com/vtMnMri"><img src="https://i.imgur.com/vtMnMri.jpg" title="source: imgur.com" /></a><span class="image-caption">Cố đô đã chìm với đất rất nhiều</span>
-</div>
+<a href="https://imgur.com/GliVusm"><img src="https://i.imgur.com/GliVusm.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Bọn nhóc cùng đoàn khá phấn khích</span><br><a href="https://imgur.com/vtMnMri"><img src="https://i.imgur.com/vtMnMri.jpg" title="source: imgur.com" /></a><span class="image-caption">Cố đô đã chìm với đất rất nhiều</span></div>
 
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/GliVusm"><a href="https://imgur.com/LMqQWov"><img src="https://i.imgur.com/LMqQWov.jpg" title="source: imgur.com" /></a></div>
