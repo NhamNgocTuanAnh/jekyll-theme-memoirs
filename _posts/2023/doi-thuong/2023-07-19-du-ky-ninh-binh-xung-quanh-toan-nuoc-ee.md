@@ -59,9 +59,7 @@ Mình đã ngồi thuyền trôi theo dòng nước để khám khám phá c�
 
 Tại đây có tổng cộng 3 tuyến hành trình khác nhau tùy vào nhu cầu của du khách với điểm bắt đầu và điểm kết thúc là bến thuyền Tràng An.
 
-<div class="content" style="text-align:center; "><a href="https://imgur.com/n0TO9By"><img src="https://i.imgur.com/n0TO9By.jpg" title="source: imgur.com" /></a></div>
-
-<div class="content" style="text-align:center; ">
+<div class="content" style="text-align:center; "><a href="https://imgur.com/n0TO9By"><img src="https://i.imgur.com/n0TO9By.jpg" title="source: imgur.com" /></a><br><p></p><br>
 <a href="https://imgur.com/DruIveP"><img src="https://i.imgur.com/DruIveP.jpg" title="source: imgur.com" /></a><span class="image-caption">Tổng cộng có 3 đền</span><a href="https://imgur.com/EjNjNyB"><img src="https://i.imgur.com/EjNjNyB.png" title="source: imgur.com" /></a><span class="image-caption">Vặn vẹo cái nào. Cô thuyền trưởng lại réo rồi</span><br><a href="https://imgur.com/8EcJ56Q"><img src="https://i.imgur.com/8EcJ56Q.jpg" title="source: imgur.com" /></a><span class="image-caption">Trời cb xế chiều, những con thuyền đi dưới nắng dát vàng và bạn đen sì</span></div>
 
 ### Bái đính
