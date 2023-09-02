@@ -125,11 +125,11 @@ Thực ra mình câu view tẹo thôi :P. Mình đã tới chùa Bái đi
 ### Chùa Bích động
 
 <div class="content" style="text-align:center; ">
-  <a href="https://imgur.com/PVrPtBp"><img src="https://i.imgur.com/PVrPtBp.jpg" title="source: imgur.com" /></a><br><a
-    href="https://imgur.com/SAbfdaG"><img src="https://i.imgur.com/SAbfdaG.jpg" title="source: imgur.com" /></a><br><a
-    href="https://imgur.com/OUlhfar"><img src="https://i.imgur.com/OUlhfar.jpg" title="source: imgur.com" /></a><br><a
-    href="https://imgur.com/qGC98vx"><img src="https://i.imgur.com/qGC98vx.jpg" title="source: imgur.com" /></a><br><a
-    href="https://imgur.com/8bKdOgv"><img src="https://i.imgur.com/8bKdOgv.jpg" title="source: imgur.com" /></a><br><a
+  <a href="https://imgur.com/PVrPtBp"><img src="https://i.imgur.com/PVrPtBp.jpg" title="source: imgur.com" /></a><br><p></p><br><a
+    href="https://imgur.com/SAbfdaG"><img src="https://i.imgur.com/SAbfdaG.jpg" title="source: imgur.com" /></a><br><p></p><br><a
+    href="https://imgur.com/OUlhfar"><img src="https://i.imgur.com/OUlhfar.jpg" title="source: imgur.com" /></a><br><p></p><br><a
+    href="https://imgur.com/qGC98vx"><img src="https://i.imgur.com/qGC98vx.jpg" title="source: imgur.com" /></a><br><p></p><br><a
+    href="https://imgur.com/8bKdOgv"><img src="https://i.imgur.com/8bKdOgv.jpg" title="source: imgur.com" /></a><br><p></p><br><a
     href="https://imgur.com/PVrPtBp"><img src="https://i.imgur.com/PVrPtBp.jpg" title="source: imgur.com" /></a><span
     class="image-caption">Ngồi thuyền, à mà thôi, hì :D</span><br>
   <p></p>
