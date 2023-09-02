@@ -22,7 +22,7 @@ date: 2023-07-17 22:22:22 +0700
 
 Nghỉ hè rồi bạn ơi. Đã lâu rồi không đi cùng gia đình. Thật tình cờ Ninh bình ngay gần bạn.
 
-{% include post-by-url.html post_src="./../_posts/2022/nhiep-anh/reviews/2022-07-20-canon-g1x-mark-1-nam-2023-hoac-forever-on-chu" %}
+{% include post-by-url.html post_src="../../_posts/2022/nhiep-anh/reviews/2022-07-20-canon-g1x-mark-1-nam-2023-hoac-forever-on-chu.md" %}
 
 Sau nhiều ngày đắn đo, gia đình mình đã quyết định đi tour.
 
@@ -37,6 +37,8 @@ Bọn mình xuất phát từ Hà Nội với xe khách đón tại nhà há
 Và cuối cùng thì ngày này đã đến. Điểm đầu tiên mình qua là khu sinh thái **Tràng An** - Lúc **14h**.
 
 Ngồi thuyền hơn 3 tiếng đồng hồ bạn sẽ được người chèo đò đưa đi du ngoạn 10km trên sông, tận gần 10km lận nhé các bạn. Lần đầu tiên mình được đi kiểu như như vậy, rất là vui. Ở đây đẹp nhất vẫn là cái đền nổi giữa sông (quên tên mất rồi ^^), đừng bỏ lỡ nơi này để checkin nhé các bạn. Du khách sẽ được ngồi thuyền trôi theo dòng nước để khám khám phá cảnh sắc không khác gì thiên nhiên hoang sơ thời tiền sử. Tại đây có tổng cộng 3 tuyến hành trình khác nhau tùy vào nhu cầu của du khách với điểm bắt đầu và điểm kết thúc là bến thuyền Tràng An.
+
+### Bái đính
 
 Thực ra mình câu view tẹo thôi :P. Mình đã tới chùa Bái đính trước tiên. Đúng là ban tổ chức có tâm. Bái đính - 1 Tam Chúc lặng lẽ
 
