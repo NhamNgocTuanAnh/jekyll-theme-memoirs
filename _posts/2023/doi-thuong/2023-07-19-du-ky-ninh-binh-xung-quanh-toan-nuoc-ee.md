@@ -87,19 +87,19 @@ Thực ra mình câu view tẹo thôi :P. Mình đã tới chùa Bái đi
     cùng đoàn khá phấn khích</span><br><a href="https://imgur.com/vtMnMri"><img
       src="https://i.imgur.com/vtMnMri.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Cố đô đã
     chìm với đất rất nhiều</span><br><a href="https://imgur.com/LMqQWov"><img src="https://i.imgur.com/LMqQWov.jpg"
-      title="source: imgur.com" /></a><br>
+      title="source: imgur.com" /></a><br><p></p><br>
   <a href="https://imgur.com/stWQx3s"><img src="https://i.imgur.com/stWQx3s.jpg"
-      title="source: imgur.com" /></a><br><br><a href="https://imgur.com/ZQ5u8nn"><img
+      title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/ZQ5u8nn"><img
       src="https://i.imgur.com/ZQ5u8nn.jpg" title="source: imgur.com" /></a><br><br><a
     href="https://imgur.com/oOWRsDZ"><img src="https://i.imgur.com/oOWRsDZ.jpg"
-      title="source: imgur.com" /></a><br><br><a href="https://imgur.com/4o1ngDW"><img
-      src="https://i.imgur.com/4o1ngDW.jpg" title="source: imgur.com" /></a><br><br><a
+      title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/4o1ngDW"><img
+      src="https://i.imgur.com/4o1ngDW.jpg" title="source: imgur.com" /></a><br><p></p><br><a
     href="https://imgur.com/sKBJi5E"><img src="https://i.imgur.com/sKBJi5E.jpg" title="source: imgur.com" /></a><span
     class="image-caption">Vẻ cổ kính nơi đây khiến mình thấy nhớ về
     thời xưa, chân trọng lịch sử</span><br>Chụp gia đình nào :D<br><a href="https://imgur.com/tk2ND9I"><img
-      src="https://i.imgur.com/tk2ND9I.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/vUr5Q9U"><img
-      src="https://i.imgur.com/vUr5Q9U.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/pJAY231"><img
-      src="https://i.imgur.com/pJAY231.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/LDSX9lZ"><img
+      src="https://i.imgur.com/tk2ND9I.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/vUr5Q9U"><img
+      src="https://i.imgur.com/vUr5Q9U.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/pJAY231"><img
+      src="https://i.imgur.com/pJAY231.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/LDSX9lZ"><img
       src="https://i.imgur.com/LDSX9lZ.png" title="source: imgur.com" /></a><br>
   <p>Cuối cùng ban tổ chức có hỏi xem ai thích đi vào hang múa chơi không, nhưng lúc đó ba mẹ mình đã
     rất mệt rồi nên đợi mai vậy.</p><br><a href="https://imgur.com/YG1j6jb"><img
