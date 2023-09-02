@@ -133,7 +133,9 @@ Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó
 
     <img src="https://i.imgur.com/K94IvOx.jpg" title="source: imgur.com" /></a>
 </div>
-<h3>Chùa Bích động</h3>
+
+### Chùa Bích động
+
 <div class="content" style="text-align:center; ">
   <a href="https://imgur.com/PVrPtBp"><img src="https://i.imgur.com/PVrPtBp.jpg" title="source: imgur.com" /></a><br><a
     href="https://imgur.com/SAbfdaG"><img src="https://i.imgur.com/SAbfdaG.jpg" title="source: imgur.com" /></a><br><a
@@ -144,11 +146,12 @@ Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó
     class="image-caption">Ngồi thuyền, à mà thôi, hì :D</span><br>
   <p></p>
 </div>
-<h3>Hang múa</h3>
+
+### Hang múa
 
 Lần đầu nhìn ảnh trên instagram khá ấn tượng với cái hang này, cũng chính hang Múa mình mới quyết định đến NB. Cách trung tâm gần 5km, không quá xa cho một nơi tuyệt vời để sống ảo. Mình nghĩ đã đi đến NB rồi thì khó ai có thể bỏ lỡ địa điểm này. Hang múa đây người ta xây bậc thang, nhìn bề ngoài mình có cảm giác như Vạn Lý Trường Thành thu nhỏ vậy, rất đẹp. Một lưu ý nhỏ các bạn nhớ mang theo nước để đi nhé, ban đầu mình rất tự tin. Lên đến tận đỉnh thì khát nước gần chết ^^.
 
-<h3>Tuyệt Tịnh Cốc</h3>
+### Tuyệt Tịnh Cốc
 
 Nhớ là **"Tịnh"** chứ ko phải là "Tình" nhé các bạn. Lúc đến nơi mình mới ngỡ ngàng cái tên sao nghe lạ quá, he he ... Nằm ở gần khu Tràng An, đường đi cũng khá gần và dễ. Khu này chỉ một cái hồ và bao quanh và nước trong rất xanh. Mình vẫn thích nhất dưới hồ toàn cá bơi, ... nhìn rất là thú vị.
 Tranh thủ trước khi hoàng hôn thì bon chen vô tuyệt tình cốc chụp. Và đạp xe ở đây rất chill nha.
