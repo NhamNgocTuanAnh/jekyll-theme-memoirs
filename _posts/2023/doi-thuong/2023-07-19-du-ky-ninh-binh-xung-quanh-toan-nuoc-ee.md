@@ -26,12 +26,6 @@ Nghỉ hè rồi bạn ơi. Đã lâu rồi không đi cùng gia đình. T
 
 Sau nhiều ngày đắn đo, gia đình mình đã quyết định đi tour.
 
-<p>
-Ban đầu mình đã rất lo khi plan kế hoạch đi Tả Van - một địa điểm mình chưa nghe bao giờ. Vì ban đầu mình thích đi Hà Giang vì mình đã đi rồi, lại nổi tiếng nên là một địa điểm rất an tòan.Nhưng thôi, với mục tiêu đi khắp các tỉnh phía bắc - mình đã chọn Tả Van.
-</p>
-<div class="content" style="text-align:center; ">
-<img data-src="../../assets/images/2023/du-lich/ta-van/du-lich-ta-van-sapa-1.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Chập choạng tối</span></div>
-
 ### Xuất phát
 
 Bọn mình xuất phát từ Hà Nội với xe khách đón tại nhà hát. Mình có chút lo lắng vì 6-7h sáng xe mới bắt đầu xuất phát - mà đi ninh bình mất 5-6 tiếng chứ ít gì.
@@ -90,11 +84,17 @@ Mình có đi sớm qua
 Ngồi thuyền, thôi, hì :D
 
 ### Hang múa
+
 Lần đầu nhìn ảnh trên instagram khá ấn tượng với cái hang này, cũng chính hang Múa mình mới quyết định đến NB. Cách trung tâm gần 5km, không quá xa cho một nơi tuyệt vời để sống ảo. Mình nghĩ đã đi đến NB rồi thì khó ai có thể bỏ lỡ địa điểm này. Hang múa đây người ta xây bậc thang, nhìn bề ngoài mình có cảm giác như Vạn Lý Trường Thành thu nhỏ vậy, rất đẹp. Một lưu ý nhỏ các bạn nhớ mang theo nước để đi nhé, ban đầu mình rất tự tin. Lên đến tận đỉnh thì khát nước gần chết ^^.
 
 ### Tuyệt Tịnh Cốc
+
 Nhớ là **"Tịnh"** chứ ko phải là "Tình" nhé các bạn. Lúc đến nơi mình mới ngỡ ngàng cái tên sao nghe lạ quá, he he ... Nằm ở gần khu Tràng An, đường đi cũng khá gần và dễ. Khu này chỉ một cái hồ và bao quanh và nước trong rất xanh. Mình vẫn thích nhất dưới hồ toàn cá bơi, ... nhìn rất là thú vị.
 Tranh thủ trước khi hoàng hôn thì bon chen vô tuyệt tình cốc chụp. Và đạp xe ở đây rất chill nha.
+
+<div class="content" style="text-align:center; ">
+<a href="https://imgur.com/swoh4H9"><img src="https://i.imgur.com/swoh4H9.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/m6xEF63"><img src="https://i.imgur.com/m6xEF63.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/gYeyMsJ"><img src="https://i.imgur.com/gYeyMsJ.jpg" title="source: imgur.com" /></a><br>
+</div>
 
 Về thôi,...
 
