@@ -55,11 +55,7 @@ Ngồi thuyền hơn 3 tiếng đồng hồ bạn sẽ được người chèo �
 
 Mình đã ngồi thuyền trôi theo dòng nước để khám khám phá cảnh sắc không khác gì thiên nhiên hoang sơ thời tiền sử.
 
-<div class="content" style="text-align:center; "><a href="https://imgur.com/wZtNeRj"><img src="https://i.imgur.com/wZtNeRj.jpg" title="source: imgur.com" /></a><span class="image-caption">Trong động rất mát, mùa mưa, nước lên cao sẽ không thể vào được.</span><br><a href="https://imgur.com/bSR4FUI"><img src="https://i.imgur.com/bSR4FUI.jpg" title="source: imgur.com" /></a></div>
-
-Tại đây có tổng cộng 3 tuyến hành trình khác nhau tùy vào nhu cầu của du khách với điểm bắt đầu và điểm kết thúc là bến thuyền Tràng An.
-
-<div class="content" style="text-align:center; "><a href="https://imgur.com/n0TO9By"><img src="https://i.imgur.com/n0TO9By.jpg" title="source: imgur.com" /></a><br><p></p><br>
+<div class="content" style="text-align:center; "><a href="https://imgur.com/wZtNeRj"><img src="https://i.imgur.com/wZtNeRj.jpg" title="source: imgur.com" /></a><span class="image-caption">Trong động rất mát, mùa mưa, nước lên cao sẽ không thể vào được.</span><br><a href="https://imgur.com/bSR4FUI"><img src="https://i.imgur.com/bSR4FUI.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/n0TO9By"><img src="https://i.imgur.com/n0TO9By.jpg" title="source: imgur.com" /></a><br><p></p><br>
 <a href="https://imgur.com/DruIveP"><img src="https://i.imgur.com/DruIveP.jpg" title="source: imgur.com" /></a><span class="image-caption">Tổng cộng có 3 đền</span><a href="https://imgur.com/EjNjNyB"><img src="https://i.imgur.com/EjNjNyB.png" title="source: imgur.com" /></a><span class="image-caption">Vặn vẹo cái nào. Cô thuyền trưởng lại réo rồi</span><br><a href="https://imgur.com/8EcJ56Q"><img src="https://i.imgur.com/8EcJ56Q.jpg" title="source: imgur.com" /></a><span class="image-caption">Trời cb xế chiều, những con thuyền đi dưới nắng dát vàng và bạn đen sì</span></div>
 
 ### Bái đính
@@ -81,7 +77,7 @@ Thực ra mình câu view tẹo thôi :P. Mình đã tới chùa Bái đi
       title="source: imgur.com" /></a>
 </div><br>
 
-Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó rất khác lạ. Mình đi khá là nhiều chùa, nhưng chưa có cái chùa nào để lại ấn tượng như BĐ.
+Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó rất khác lạ.
 
 ### Quần thể di tích Cố đô Hoa Lư.
 
@@ -141,7 +137,7 @@ Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó
 
 ### Hang múa
 
-Lần đầu nhìn ảnh trên instagram khá ấn tượng với cái hang này, cũng chính hang Múa mình mới quyết định đến NB. Cách trung tâm gần 5km, không quá xa cho một nơi tuyệt vời để sống ảo. Mình nghĩ đã đi đến NB rồi thì khó ai có thể bỏ lỡ địa điểm này. Hang múa đây người ta xây bậc thang, nhìn bề ngoài mình có cảm giác như Vạn Lý Trường Thành thu nhỏ vậy, rất đẹp. Một lưu ý nhỏ các bạn nhớ mang theo nước để đi nhé, ban đầu mình rất tự tin. Lên đến tận đỉnh thì khát nước gần chết ^^.
+Lần đầu nhìn ảnh trên instagram khá ấn tượng với cái hang này, cũng chính hang Múa mình mới quyết định đến NB. Mình nghĩ đã đi đến NB rồi thì khó ai có thể bỏ lỡ địa điểm này. Hang múa đây người ta xây bậc thang, nhìn bề ngoài mình có cảm giác như Vạn Lý Trường Thành thu nhỏ vậy, rất đẹp. Mình leo lên khát nước gần chết ^^ - các bạn nên mang bình nước 2l đi nhé.
 
 <div class="content" style="text-align:center; "><a href="https://imgur.com/kC8dN84"><img src="https://i.imgur.com/kC8dN84.jpg" title="source: imgur.com" /></a></div>
 
