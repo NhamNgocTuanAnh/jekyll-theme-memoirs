@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trở lại Ninh Bình! - 1 Tam Chúc lặng lẽ - Xung quanh toàn nước ê!'
+title: 'Trở lại Ninh Bình! - Xung quanh toàn nước ê!'
 author: sal
 lazyimages: "enabled"
 categories: [ Du hí 🛫 ]
@@ -43,7 +43,7 @@ Và cuối cùng thì điều mình lo lắng đã xảy ra. Điểm đ�
 Ngồi thuyền hơn 3 tiếng đồng hồ bạn sẽ được người chèo đò đưa đi du ngoạn 10km trên sông, tận gần 10km lận nhé các bạn. Lần đầu tiên mình được đi kiểu như như vậy, rất là vui. Ở đây đẹp nhất vẫn là cái đền nổi giữa sông (quên tên mất rồi ^^), đừng bỏ lỡ nơi này để checkin nhé các bạn.
 
 
-Thực ra mình câu view tẹo thôi :P. Mình đã tới chùa Bái đính trước tiên. Đúng là ban tổ chức có tâm.
+Thực ra mình câu view tẹo thôi :P. Mình đã tới chùa Bái đính trước tiên. Đúng là ban tổ chức có tâm. Bái đính - 1 Tam Chúc lặng lẽ
 
 
 Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó rất khác lạ. Mình đi khá là nhiều chùa, nhưng chưa có cái chùa nào để lại ấn tượng như BĐ. Vì nó quá rộng, nếu ko có trợ giúp của xe điện. Bạn phải lết bộ hơn 6km để đi hết đc chùa, wow ... ấn tượng đúng ko nào. Để lại kỉ niệm cho mình nhiều nhất vẫn là toà tháp 12 tầng, nhìn toà này mình lại liên tưởng đến bộ phim Thanh Xà Bạch Xà ấy. (Một lưu ý nhỏ là nhớ đi xe điện nhé các bạn, 60k thôi nhưng tiết kiệm cho các bạn khá nhiều thời gian đấy ^^).
@@ -59,6 +59,11 @@ cố đô Hoa Lư.
 
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/GliVusm"><a href="https://imgur.com/stWQx3s"><img src="https://i.imgur.com/stWQx3s.jpg" title="source: imgur.com" /></a><br><br><a href="https://imgur.com/ZQ5u8nn"><img src="https://i.imgur.com/ZQ5u8nn.jpg" title="source: imgur.com" /></a><br><br><a href="https://imgur.com/oOWRsDZ"><img src="https://i.imgur.com/oOWRsDZ.jpg" title="source: imgur.com" /></a><br><br><a href="https://imgur.com/4o1ngDW"><img src="https://i.imgur.com/4o1ngDW.jpg" title="source: imgur.com" /></a><br><br><a href="https://imgur.com/sKBJi5E"><img src="https://i.imgur.com/sKBJi5E.jpg" title="source: imgur.com" /></a><span class="image-caption">Vẻ cổ kính nơi đây khiến mình thấy nhớ về thời xưa, chân trọng lịch sử</span></div>
+
+Chụp gia đình nào :D
+
+<div class="content" style="text-align:center; ">
+<a href="https://imgur.com/tk2ND9I"><img src="https://i.imgur.com/tk2ND9I.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/vUr5Q9U"><img src="https://i.imgur.com/vUr5Q9U.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/pJAY231"><img src="https://i.imgur.com/pJAY231.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/LDSX9lZ"><img src="https://i.imgur.com/LDSX9lZ.png" title="source: imgur.com" /></a></div>
 
 Cuối cùng ban tổ chức có hỏi xem ai thích đi vào hang múa chơi không, Nhưng lúc đó ba mẹ mình đã rất mệt rồi nên đợi mai vậy.
 
