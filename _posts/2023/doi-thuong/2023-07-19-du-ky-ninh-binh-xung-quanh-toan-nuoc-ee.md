@@ -56,7 +56,7 @@ Mình đã ngồi thuyền trôi theo dòng nước để khám khám phá c�
 Tại đây có tổng cộng 3 tuyến hành trình khác nhau tùy vào nhu cầu của du khách với điểm bắt đầu và điểm kết thúc là bến thuyền Tràng An.
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/DruIveP"><img src="https://i.imgur.com/DruIveP.jpg" title="source: imgur.com" /></a><span class="image-caption">Tổng cộng có 3 đền</span><a href="https://imgur.com/EjNjNyB"><img src="https://i.imgur.com/EjNjNyB.png" title="source: imgur.com" /></a><span class="image-caption">Vặn vẹo cái nào. Cô thuyền trưởng lại réo rồi</span></div>
+<a href="https://imgur.com/DruIveP"><img src="https://i.imgur.com/DruIveP.jpg" title="source: imgur.com" /></a><span class="image-caption">Tổng cộng có 3 đền</span><a href="https://imgur.com/EjNjNyB"><img src="https://i.imgur.com/EjNjNyB.png" title="source: imgur.com" /></a><span class="image-caption">Vặn vẹo cái nào. Cô thuyền trưởng lại réo rồi</span><br><a href="https://imgur.com/8EcJ56Q"><img src="https://i.imgur.com/8EcJ56Q.jpg" title="source: imgur.com" /></a><span class="image-caption">Trời cb xế chiều, những con thuyền đi dưới nắng dát vàng và bạn đen sì</span></div>
 
 ### Bái đính
 
@@ -129,7 +129,6 @@ Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó
 
   <a href="https://imgur.com/IzEaq9G"><img src="https://i.imgur.com/IzEaq9G.jpg" title="source: imgur.com" /></a><br><a
     href="https://imgur.com/K94IvOx">
-
     <img src="https://i.imgur.com/K94IvOx.jpg" title="source: imgur.com" /></a>
 </div>
 
@@ -149,6 +148,8 @@ Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó
 ### Hang múa
 
 Lần đầu nhìn ảnh trên instagram khá ấn tượng với cái hang này, cũng chính hang Múa mình mới quyết định đến NB. Cách trung tâm gần 5km, không quá xa cho một nơi tuyệt vời để sống ảo. Mình nghĩ đã đi đến NB rồi thì khó ai có thể bỏ lỡ địa điểm này. Hang múa đây người ta xây bậc thang, nhìn bề ngoài mình có cảm giác như Vạn Lý Trường Thành thu nhỏ vậy, rất đẹp. Một lưu ý nhỏ các bạn nhớ mang theo nước để đi nhé, ban đầu mình rất tự tin. Lên đến tận đỉnh thì khát nước gần chết ^^.
+
+
 
 ### Tuyệt Tịnh Cốc
 
