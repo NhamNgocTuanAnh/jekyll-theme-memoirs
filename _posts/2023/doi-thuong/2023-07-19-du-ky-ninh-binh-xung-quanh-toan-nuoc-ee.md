@@ -80,11 +80,16 @@ Cuối cùng ban tổ chức có hỏi xem ai thích đi vào hang múa 
 
 
 Trong tờ hướng dẫn có nói khách sạn gì gì đó, nhưng mà lạ lém :~
+<div class="content" style="text-align:center; "><a href="https://imgur.com/YG1j6jb"><img src="https://i.imgur.com/YG1j6jb.jpg" title="source: imgur.com" /></a><br>
+<a href="https://imgur.com/czcjS4h"><img src="https://i.imgur.com/czcjS4h.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/xG4HUUg"><img src="https://i.imgur.com/xG4HUUg.jpg" title="source: imgur.com" /></a><a href="https://imgur.com/xG4HUUg"><img src="https://i.imgur.com/xG4HUUg.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Thôi cũng đẹp</span></div>
 
 Bể bơi nay nuôi cá.
 
 
-Buổi tố thì
+Buổi tối mình có rẽ lên thành phố chơi, khuyên các bạn đi tour nhớ hỏi trc chỗ ngủ hoặc khách sạn. Mình không hỏi nên giờ mới biết chỗ mình ở khá xa so với thành phố.
+
+<div class="content" style="text-align:center; ">
+
 
 Sáng rồi,
 
