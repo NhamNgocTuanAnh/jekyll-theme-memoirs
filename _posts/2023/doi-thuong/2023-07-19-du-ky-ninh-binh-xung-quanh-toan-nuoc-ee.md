@@ -15,8 +15,12 @@ adsense: "enabled"
 keywords:
   - du lịch ninh bình
   - ninh bình có gì
-  - chùa yên bái
-  - Khu du lịch sinh thái Tràng An
+  - chùa Bái đính
+  - khu du lịch sinh thái Tràng An
+  - Quần thể di tích Cố đô Hoa Lư.
+  - Chùa Bích động
+  - Hang múa
+  - Tuyệt Tịnh Cốc
 date: 2023-07-07 07:07:07 +0700
 ---
 
@@ -160,9 +164,6 @@ Tranh thủ trước khi hoàng hôn thì bon chen vô tuyệt tình cốc chụ
 <a href="https://imgur.com/swoh4H9"><img src="https://i.imgur.com/swoh4H9.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/m6xEF63"><img src="https://i.imgur.com/m6xEF63.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/gYeyMsJ"><img src="https://i.imgur.com/gYeyMsJ.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/lFl8JIV"><img src="https://i.imgur.com/lFl8JIV.jpg" title="source: imgur.com" /></a><br><span
     class="image-caption">Cá đâu ra nhiều thế, thịt cá :></span>
 </div>
-
-Về thôi,...
-
 
 Bạn có thể vào <a href="https://www.facebook.com/media/set/?vanity=nntatlu&set=a.2574616576014311" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>đây</a> để xem "kẻ dại khờ" này đi tìm những nơi vắng vẻ! Chúc một buổi tối vui vẻ!!👨‍🚀
 
