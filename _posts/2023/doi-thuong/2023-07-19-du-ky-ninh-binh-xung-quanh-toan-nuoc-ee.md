@@ -89,6 +89,8 @@ Bể bơi nay nuôi cá.
 Buổi tối mình có rẽ lên thành phố chơi, khuyên các bạn đi tour nhớ hỏi trc chỗ ngủ hoặc khách sạn. Mình không hỏi nên giờ mới biết chỗ mình ở khá xa so với thành phố.
 
 <div class="content" style="text-align:center; ">
+<a href="https://imgur.com/UBlUOnL"><img src="https://i.imgur.com/UBlUOnL.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/GbDosiD"><img src="https://i.imgur.com/GbDosiD.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/GbDosiD"><img src="https://i.imgur.com/GbDosiD.jpg" title="source: imgur.com" /></a><br>
+</div>
 
 
 Sáng rồi,
