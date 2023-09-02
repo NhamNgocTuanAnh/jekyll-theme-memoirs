@@ -30,7 +30,7 @@ Nghỉ hè rồi bạn ơi. Đã lâu rồi không đi cùng gia đình. T
 
 Nhà mình xuất phát từ Hà Nội với xe khách đón tại nhà hát. Mình có chút lo lắng vì 6-7h sáng xe mới bắt đầu xuất phát - mà đi ninh bình mất 5-6 tiếng chứ ít gì.
 
-<div class="content" style="text-align:center; "><a href="https://imgur.com/MH0EzXM"><img src="https://i.imgur.com/MH0EzXM.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Kệ!Chụp đã!</span><br><a href="https://imgur.com/fLZA24Y"><img src="https://i.imgur.com/fLZA24Y.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/uDMlPt0"><img src="https://i.imgur.com/uDMlPt0.jpg" title="source: imgur.com" /></a><br><span class="image-caption">View từ đường vành đai 3 trên cao</span></div>
+<div class="content" style="text-align:center; "><a href="https://imgur.com/MH0EzXM"><img src="https://i.imgur.com/MH0EzXM.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Kệ!Chụp đã!</span><br><p></p><br><a href="https://imgur.com/fLZA24Y"><img src="https://i.imgur.com/fLZA24Y.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/uDMlPt0"><img src="https://i.imgur.com/uDMlPt0.jpg" title="source: imgur.com" /></a><br><span class="image-caption">View từ đường vành đai 3 trên cao</span></div>
 
 <hr style="border: 1px solid #000000;">
 <p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Mục lục</p>
