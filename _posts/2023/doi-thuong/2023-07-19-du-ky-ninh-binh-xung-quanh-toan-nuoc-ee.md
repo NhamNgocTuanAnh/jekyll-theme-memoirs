@@ -34,7 +34,7 @@ Ban đầu mình đã rất lo khi plan kế hoạch đi Tả Van - một địa
 
 Bọn mình xuất phát từ Hà Nội với xe khách đón tại nhà hát. Mình có chút lo lắng vì 6-7h sáng xe mới bắt đầu xuất phát - mà đi ninh bình mất 5-6 tiếng chứ ít gì.
 
-<div class="content" style="text-align:center; "> ảnh<br><span class="image-caption">Kệ!Chụp đã!</span></div>
+<div class="content" style="text-align:center; "><a href="https://imgur.com/MH0EzXM"><img src="https://i.imgur.com/MH0EzXM.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Kệ!Chụp đã!</span><br><a href="https://imgur.com/YUmPrhD"><img src="https://i.imgur.com/YUmPrhD.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/fLZA24Y"><img src="https://i.imgur.com/fLZA24Y.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/uDMlPt0"><img src="https://i.imgur.com/uDMlPt0.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Mình rất thích chụp cột điện :D</span></div>
 
 
 
