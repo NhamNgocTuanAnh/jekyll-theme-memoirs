@@ -16,7 +16,7 @@ keywords:
   - du lịch ninh bình
   - ninh bình có gì
   - chùa yên bái
-  - Khu du lịch sinh thái TràngAn
+  - Khu du lịch sinh thái Tràng An
 date: 2023-07-17 22:22:22 +0700
 ---
 
@@ -39,13 +39,13 @@ Nhà mình xuất phát từ Hà Nội với xe khách đón tại nhà há
 
 Và cuối cùng thì ngày này đã đến. Điểm đầu tiên mình qua là khu sinh thái **Tràng An** - Lúc **14h**.
 
-<div class="content" style="text-align:center; "><a href="https://imgur.com/djVCTsQ"><img src="https://i.imgur.com/djVCTsQ.jpg" title="source: imgur.com" /></a></div>
+<div class="content" style="text-align:center; "><a href="https://imgur.com/djVCTsQ"><img src="https://i.imgur.com/djVCTsQ.jpg" title="source: imgur.com" /></a><span class="image-caption">Dân tổ, hơi tý gạ đua</span></div>
 
 Ngồi thuyền hơn 3 tiếng đồng hồ bạn sẽ được người chèo đò đưa đi du ngoạn 10km trên sông, tận gần 10km lận nhé các bạn.
 
 <div class="content" style="text-align:center; "><a href="https://imgur.com/OOxHXDp"><img src="https://i.imgur.com/OOxHXDp.jpg" title="source: imgur.com" /></a><span class="image-caption">Núi non trùng điệp</span></div>
 
-Đây là lần thứ 2 kể từ lần đi Tam Chúc, mình ngồi lênh đênh lâu tới vậy.
+Đây là lần thứ 2 kể từ lần đi Tam Cốc, mình ngồi lênh đênh lâu tới vậy.
 
 <div class="content" style="text-align:center; "><a href="https://imgur.com/Gp3zjfd"><img src="https://i.imgur.com/Gp3zjfd.jpg" title="source: imgur.com" /></a><span class="image-caption">Ở đây đẹp nhất vẫn là cái đền nổi giữa sông (quên tên mất rồi ^^)</span></div><div class="content" style="text-align:center; "><a href="https://imgur.com/F8GJhGA"><img src="https://i.imgur.com/F8GJhGA.jpg" title="source: imgur.com" /></a><span class="image-caption">đừng bỏ lỡ nơi này để checkin nhé các bạn.</span></div>
 
@@ -60,10 +60,7 @@ Tại đây có tổng cộng 3 tuyến hành trình khác nhau tùy vào nhu c�
 
 ### Bái đính
 
-Thực ra mình câu view tẹo thôi :P. Mình đã tới chùa Bái đính trước tiên. Đúng là ban tổ chức có tâm. Bái đính - 1 Tam Chúc lặng lẽ
-
-
-Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó rất khác lạ. Mình đi khá là nhiều chùa, nhưng chưa có cái chùa nào để lại ấn tượng như BĐ.
+Thực ra mình câu view tẹo thôi :P. Mình đã tới chùa Bái đính trước tiên. Đúng là ban tổ chức có tâm. Bái đính - 1 Tam Chúc lặng lẽ.
 
 <div class="content" style="text-align:center; "><a href="https://imgur.com/rAQn7Rq"><img src="https://i.imgur.com/rAQn7Rq.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Vì nó quá rộng, nếu ko có trợ giúp của xe điện. Bạn phải lết bộ hơn 6km để đi hết đc chùa, wow ... ấn tượng đúng ko nào. (Một lưu ý nhỏ là nhớ đi xe điện nhé các bạn, 60k thôi nhưng tiết kiệm cho các bạn khá nhiều thời gian đấy ^^).</span></div>
 
@@ -79,8 +76,11 @@ Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó
       title="source: imgur.com" /></a><br><a href="https://imgur.com/1hWaal9"><img src="https://i.imgur.com/1hWaal9.jpg"
       title="source: imgur.com" /></a><br><a href="https://imgur.com/JpsawWn"><img src="https://i.imgur.com/JpsawWn.jpg"
       title="source: imgur.com" /></a>
-</div>
-<h3>Quần thể di tích Cố đô Hoa Lư.</h3>
+</div><br><p>
+Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó rất khác lạ. Mình đi khá là nhiều chùa, nhưng chưa có cái chùa nào để lại ấn tượng như BĐ.</p>
+
+### Quần thể di tích Cố đô Hoa Lư.
+
 <blockquote>Hoa Lư là kinh đô đầu tiên của nhà nước phong kiến Trung ương tập quyền ở Việt Nam với các dấu ấn lịch sử:
   thống nhất giang sơn, đánh Tống - dẹp Chiêm... - Wikipedia tiếng Việt
 </blockquote>
