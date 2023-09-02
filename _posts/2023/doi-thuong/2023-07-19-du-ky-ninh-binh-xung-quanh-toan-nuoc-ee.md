@@ -68,12 +68,13 @@ Buổi tối mình có rẽ lên thành phố chơi, khuyên các bạn �
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/UBlUOnL"><img src="https://i.imgur.com/UBlUOnL.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/GbDosiD"><img src="https://i.imgur.com/GbDosiD.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/GbDosiD"><img src="https://i.imgur.com/GbDosiD.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/COVmJuZ"><img src="https://i.imgur.com/COVmJuZ.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/IzEaq9G"><img src="https://i.imgur.com/IzEaq9G.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/K94IvOx"><img src="https://i.imgur.com/K94IvOx.jpg" title="source: imgur.com" /></a></div>
 
-Sáng rồi,
 
-Mình có đi sớm qua
+### Chùa Bích động
 
-#Chùa:
-Ngồi thuyền, thôi, hì :D
+<div class="content" style="text-align:center; ">
+<a href="https://imgur.com/PVrPtBp"><img src="https://i.imgur.com/PVrPtBp.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/SAbfdaG"><img src="https://i.imgur.com/SAbfdaG.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/OUlhfar"><img src="https://i.imgur.com/OUlhfar.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/qGC98vx"><img src="https://i.imgur.com/qGC98vx.jpg" title="source: imgur.com" /></a><br><a href="https://imgur.com/8bKdOgv"><img src="https://i.imgur.com/8bKdOgv.jpg" title="source: imgur.com" /></a></div>
+
+Ngồi thuyền, à mà thôi, hì :D
 
 ### Hang múa
 
