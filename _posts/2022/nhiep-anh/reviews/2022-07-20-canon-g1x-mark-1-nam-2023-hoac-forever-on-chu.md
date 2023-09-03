@@ -54,7 +54,7 @@ Lại quay về với con canon G1X của tôi, săn trên shopee, 90%, dấu hi
 <p style="text-align:center; ">
 <picture>
   <source data-srcset="../../assets/images/nhiepanh/anh-chup-canon-g1x.jpg" />
-  <img class="responsive" data-lowsrc="../../assets/images/nhiepanh/anh-chup-canon-g1x.jpg" alt="Chiếc máy bạn tôi mới mua. Canon 800D" data-sizes="auto" loading="lazy"/>
+  <img class="responsive" data-lowsrc="../../assets/images/nhiepanh/anh-chup-canon-g1x.jpg" alt="Tam Cốc - Ninh Bình" data-sizes="auto" loading="lazy"/>
   @tuananh_tlu. Nhìn bức ảnh nè, bạn thấy nó ổn chứ?!
 Còn tôi thì thấy rất ổn.
 </picture>
