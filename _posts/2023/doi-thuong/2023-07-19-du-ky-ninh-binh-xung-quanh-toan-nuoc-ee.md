@@ -139,15 +139,15 @@ Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó
 
 Lần đầu nhìn ảnh trên instagram khá ấn tượng với cái hang này, cũng chính hang Múa mình mới quyết định đến NB. Mình nghĩ đã đi đến NB rồi thì khó ai có thể bỏ lỡ địa điểm này. Hang múa đây người ta xây bậc thang, nhìn bề ngoài mình có cảm giác như Vạn Lý Trường Thành thu nhỏ vậy, rất đẹp. Mình leo lên khát nước gần chết ^^ - các bạn nên mang bình nước 2l đi nhé.
 
-<div class="content" style="text-align:center; "><a href="https://imgur.com/kC8dN84"><img src="https://i.imgur.com/kC8dN84.jpg" title="source: imgur.com" /></a></div>
+<div class="content" style="text-align:center; "><a href="https://imgur.com/kC8dN84"><img src="https://i.imgur.com/kC8dN84.jpg" title="source: imgur.com" /></a><br><p><br></div>
 
-<div class="content" style="text-align:center; "><a href="https://imgur.com/8IxrEai"><img src="https://i.imgur.com/8IxrEai.jpg" title="source: imgur.com" /></a></div>
+<div class="content" style="text-align:center; "><a href="https://imgur.com/8IxrEai"><img src="https://i.imgur.com/8IxrEai.jpg" title="source: imgur.com" /></a><br><p><br></div>
 
-<div class="content" style="text-align:center; "><a href="https://imgur.com/kqHbI7k"><img src="https://i.imgur.com/kqHbI7k.jpg" title="source: imgur.com" /></a></div>
+<div class="content" style="text-align:center; "><a href="https://imgur.com/kqHbI7k"><img src="https://i.imgur.com/kqHbI7k.jpg" title="source: imgur.com" /></a><br><p><br></div>
 
-<div class="content" style="text-align:center; "><a href="https://imgur.com/8IxrEai"><img src="https://i.imgur.com/8IxrEai.jpg" title="source: imgur.com" /></a></div>
+<div class="content" style="text-align:center; "><a href="https://imgur.com/8IxrEai"><img src="https://i.imgur.com/8IxrEai.jpg" title="source: imgur.com" /></a><br><p><br></div>
 
-<div class="content" style="text-align:center; "><a href="https://imgur.com/ICT0reW"><img src="https://i.imgur.com/ICT0reW.jpg" title="source: imgur.com" /></a></div>
+<div class="content" style="text-align:center; "><a href="https://imgur.com/ICT0reW"><img src="https://i.imgur.com/ICT0reW.jpg" title="source: imgur.com" /></a><br><p><br></p></div>
 
 ### Tuyệt Tịnh Cốc
 
