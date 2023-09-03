@@ -53,8 +53,8 @@ Ngồi thuyền hơn 3 tiếng đồng hồ bạn sẽ được người chèo �
 
 Mình đã ngồi thuyền trôi theo dòng nước để khám khám phá cảnh sắc không khác gì thiên nhiên hoang sơ thời tiền sử.
 
-<div class="content" style="text-align:center; "><a href="https://imgur.com/wZtNeRj"><img src="https://i.imgur.com/wZtNeRj.jpg" title="source: imgur.com" /></a><span class="image-caption">Trong động rất mát, mùa mưa, nước lên cao sẽ không thể vào được.</span><br><a href="https://imgur.com/bSR4FUI"><img src="https://i.imgur.com/bSR4FUI.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/n0TO9By"><img src="https://i.imgur.com/n0TO9By.jpg" title="source: imgur.com" /></a><br><p></p><br>
-<a href="https://imgur.com/DruIveP"><img src="https://i.imgur.com/DruIveP.jpg" title="source: imgur.com" /></a><span class="image-caption">Tổng cộng có 3 đền</span><a href="https://imgur.com/EjNjNyB"><img src="https://i.imgur.com/EjNjNyB.png" title="source: imgur.com" /></a><span class="image-caption">Vặn vẹo cái nào. Cô thuyền trưởng lại réo rồi</span><br><a href="https://imgur.com/8EcJ56Q"><img src="https://i.imgur.com/8EcJ56Q.jpg" title="source: imgur.com" /></a><span class="image-caption">Trời cb xế chiều, những con thuyền đi dưới nắng dát vàng và bạn đen sì :D</span><br><a href="https://imgur.com/EPQ3CRe"><img src="https://i.imgur.com/EPQ3CRe.jpg" title="source: imgur.com" /></a><br><p></p><br></div>
+<div class="content" style="text-align:center; "><a href="https://imgur.com/wZtNeRj"><img src="https://i.imgur.com/wZtNeRj.jpg" title="source: imgur.com" /></a><span class="image-caption">Trong động rất mát, mùa mưa, nước lên cao sẽ không thể vào được.</span><br><a href="https://imgur.com/bSR4FUI"><img src="https://i.imgur.com/bSR4FUI.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/n0TO9By"><img src="https://i.imgur.com/n0TO9By.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/4z5VWyh"><img src="https://i.imgur.com/4z5VWyh.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Người cùng đoàn</span><br>
+<a href="https://imgur.com/DruIveP"><img src="https://i.imgur.com/DruIveP.jpg" title="source: imgur.com" /></a><span class="image-caption">Tổng cộng có 3 đền, nhưng do vấn đề thời gian, mình chỉ đi được có 2.</span><a href="https://imgur.com/EjNjNyB"><img src="https://i.imgur.com/EjNjNyB.png" title="source: imgur.com" /></a><span class="image-caption">Vặn vẹo cái nào. Cô thuyền trưởng lại réo rồi</span><br><a href="https://imgur.com/8EcJ56Q"><img src="https://i.imgur.com/8EcJ56Q.jpg" title="source: imgur.com" /></a><span class="image-caption">Trời cb xế chiều, những con thuyền đi dưới nắng dát vàng và bạn đen sì :D</span><br><a href="https://imgur.com/EPQ3CRe"><img src="https://i.imgur.com/EPQ3CRe.jpg" title="source: imgur.com" /></a><br><p></p><br></div>
 
 ### Bái đính
 
@@ -98,9 +98,9 @@ Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó
     class="image-caption">Vẻ cổ kính nơi đây khiến mình thấy nhớ về
     thời xưa, chân trọng lịch sử</span><br>Chụp gia đình nào :D<br><a href="https://imgur.com/tk2ND9I"><img
       src="https://i.imgur.com/tk2ND9I.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/vUr5Q9U"><img
-      src="https://i.imgur.com/vUr5Q9U.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/pJAY231"><img
-      src="https://i.imgur.com/pJAY231.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/LDSX9lZ"><img
-      src="https://i.imgur.com/LDSX9lZ.png" title="source: imgur.com" /></a><br>
+      src="https://i.imgur.com/vUr5Q9U.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/pJAY231"><a href="https://imgur.com/LDSX9lZ"><img
+      src="https://i.imgur.com/LDSX9lZ.png" title="source: imgur.com" /></a><br><p></p><br><img
+      src="https://i.imgur.com/pJAY231.jpg" title="source: imgur.com" /></a><span class="image-caption">Thôi mọi người vào hết đê :P</span><br>
   <p>Cuối cùng ban tổ chức có hỏi xem ai thích đi vào hang múa chơi không, nhưng lúc đó ba mẹ mình đã
     rất mệt rồi nên đợi mai vậy.</p><br><a href="https://imgur.com/YG1j6jb"><img
       src="https://i.imgur.com/YG1j6jb.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Trong
