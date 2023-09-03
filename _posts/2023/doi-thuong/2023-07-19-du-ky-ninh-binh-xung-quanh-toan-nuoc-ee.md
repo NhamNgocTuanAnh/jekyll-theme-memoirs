@@ -53,7 +53,7 @@ Ngồi thuyền hơn 3 tiếng đồng hồ bạn sẽ được người chèo �
 <picture>
   <source data-srcset="../../assets/images/nhiepanh/anh-chup-canon-g1x.jpg" />
   <img class="responsive" data-lowsrc="../../assets/images/nhiepanh/anh-chup-canon-g1x.jpg" alt="Chiếc máy bạn tôi mới mua. Canon 800D" data-sizes="auto" loading="lazy"/>
-  @2022. Tam Cốc
+  @2022. Tam Cốc - <a class="text-dark" href="{{ site.baseurl }}/nhiep-anh/canon-g1x-mark-1-nam-2023-hoac-forever-on-chu">Canon G1X (mark 1) năm 2023 hoặc forever – ổn chứ??</a>
 </picture>
 </p>
 
