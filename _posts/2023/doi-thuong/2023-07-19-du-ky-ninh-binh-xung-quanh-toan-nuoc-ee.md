@@ -142,8 +142,6 @@ Lần đầu nhìn ảnh trên instagram khá ấn tượng với cái hang này
 
 <div class="content" style="text-align:center; "><a href="https://imgur.com/kqHbI7k"><img src="https://i.imgur.com/kqHbI7k.jpg" title="source: imgur.com" /></a><br><p></p><br></div>
 
-<div class="content" style="text-align:center; "><a href="https://imgur.com/8IxrEai"><img src="https://i.imgur.com/8IxrEai.jpg" title="source: imgur.com" /></a><br><p></p><br></div>
-
 <div class="content" style="text-align:center; "><a href="https://imgur.com/ICT0reW"><img src="https://i.imgur.com/ICT0reW.jpg" title="source: imgur.com" /></a><br><p></p><br></div>
 
 ### Tuyệt Tịnh Cốc
