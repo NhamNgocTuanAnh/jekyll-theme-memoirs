@@ -165,7 +165,7 @@ Tranh thủ trước khi hoàng hôn thì bon chen vô tuyệt tình cốc chụ
 
 Về thôi,...
 
-<div class="center-image">
+<div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/ngam/cat_doantion.webp" alt="Ủng hộ Anh hàng xóm" title="Ủng hộ tôi" class="blur-up lazyload img-thumb lazyimg ten-lop-ban-tu-dat" id="image-hover"/>
 </div>
 
