@@ -45,10 +45,8 @@ Và cuối cùng thì ngày này đã đến. Điểm đầu tiên mình
 
 Ngồi thuyền hơn 3 tiếng đồng hồ bạn sẽ được người chèo đò đưa đi du ngoạn 10km trên sông, tận gần 10km lận nhé các bạn.
 
-<div class="content" style="text-align:center; "><a href="https://imgur.com/9c0ok0V"><img src="https://i.imgur.com/9c0ok0V.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/V5mbKzM"><img src="https://i.imgur.com/V5mbKzM.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/OOxHXDp"><img src="https://i.imgur.com/OOxHXDp.jpg" title="source: imgur.com" /></a><span class="image-caption">Núi non trùng điệp</span><br><p></p><br><a href="https://imgur.com/ZVFOpix"><img src="https://i.imgur.com/ZVFOpix.jpg" title="source: imgur.com" /></a><a href="https://imgur.com/gJrKiC9"><img src="https://i.imgur.com/gJrKiC9.jpg" title="source: imgur.com" /><br><p></p><br></a></div>
-
-Đây là lần thứ 2 kể từ lần đi Tam Cốc, mình ngồi lênh đênh lâu tới vậy.
-
+<div class="content" style="text-align:center; "><a href="https://imgur.com/9c0ok0V"><img src="https://i.imgur.com/9c0ok0V.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/V5mbKzM"><img src="https://i.imgur.com/V5mbKzM.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/OOxHXDp"><img src="https://i.imgur.com/OOxHXDp.jpg" title="source: imgur.com" /></a><span class="image-caption">Núi non trùng điệp</span><br><p></p><br><a href="https://imgur.com/ZVFOpix"><img src="https://i.imgur.com/ZVFOpix.jpg" title="source: imgur.com" /></a><a href="https://imgur.com/gJrKiC9"><img src="https://i.imgur.com/gJrKiC9.jpg" title="source: imgur.com" /></a></div>
+<p>Đây là lần thứ 2 kể từ lần đi Tam Cốc, mình ngồi lênh đênh lâu tới vậy.</p>
 <div class="content" style="text-align:center; "><a href="https://imgur.com/Gp3zjfd"><img src="https://i.imgur.com/Gp3zjfd.jpg" title="source: imgur.com" /></a><span class="image-caption">Ở đây đẹp nhất vẫn là cái đền nổi giữa sông (quên tên mất rồi ^^)</span></div><div class="content" style="text-align:center; "><a href="https://imgur.com/F8GJhGA"><img src="https://i.imgur.com/F8GJhGA.jpg" title="source: imgur.com" /></a><span class="image-caption">đừng bỏ lỡ nơi này để checkin nhé các bạn.</span></div>
 
 Mình đã ngồi thuyền trôi theo dòng nước để khám khám phá cảnh sắc không khác gì thiên nhiên hoang sơ thời tiền sử.
