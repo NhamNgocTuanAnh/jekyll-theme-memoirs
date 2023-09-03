@@ -90,10 +90,10 @@ Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó
 </blockquote>
 <div class="content" style="text-align:center; "><a href="https://imgur.com/GliVusm"><img
       src="https://i.imgur.com/GliVusm.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Bọn nhóc
-    cùng đoàn khá phấn khích</span><br><a href="https://imgur.com/vtMnMri"><img
+    cùng đoàn khá phấn khích</span><br><a href="https://imgur.com/LMqQWov"><img src="https://i.imgur.com/LMqQWov.jpg"
+      title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/vtMnMri"><img
       src="https://i.imgur.com/vtMnMri.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Cố đô đã
-    chìm với đất rất nhiều</span><br><a href="https://imgur.com/LMqQWov"><img src="https://i.imgur.com/LMqQWov.jpg"
-      title="source: imgur.com" /></a><br><p></p><br>
+    chìm với đất rất nhiều</span><br><a href="https://imgur.com/uhHkM68"><img src="https://i.imgur.com/uhHkM68.jpg" title="source: imgur.com" /></a><br><p></p><br>
   <a href="https://imgur.com/stWQx3s"><img src="https://i.imgur.com/stWQx3s.jpg"
       title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/ZQ5u8nn"><img
       src="https://i.imgur.com/ZQ5u8nn.jpg" title="source: imgur.com" /></a><br><br><a
