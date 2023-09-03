@@ -118,7 +118,7 @@ Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó
     <img src="https://i.imgur.com/COVmJuZ.jpg" title="source: imgur.com" /></a>
   <br><p></p><br><a href="https://imgur.com/IzEaq9G"><img src="https://i.imgur.com/IzEaq9G.jpg" title="source: imgur.com" /></a><br><p></p><br><a
     href="https://imgur.com/K94IvOx">
-    <img src="https://i.imgur.com/K94IvOx.jpg" title="source: imgur.com" /></a>
+    <img src="https://i.imgur.com/K94IvOx.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/OtJvSIX"><img src="https://i.imgur.com/OtJvSIX.jpg" title="source: imgur.com" /></a>
 </div>
 
 ### Chùa Bích động
