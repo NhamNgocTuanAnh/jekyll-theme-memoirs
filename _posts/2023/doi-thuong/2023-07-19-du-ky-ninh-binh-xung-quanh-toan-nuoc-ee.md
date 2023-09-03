@@ -49,6 +49,14 @@ Ngồi thuyền hơn 3 tiếng đồng hồ bạn sẽ được người chèo �
 <p>Đây là lần thứ 2 kể từ lần đi Tam Cốc, mình ngồi lênh đênh lâu tới vậy.</p>
 <div class="content" style="text-align:center; "><a href="https://imgur.com/Gp3zjfd"><img src="https://i.imgur.com/Gp3zjfd.jpg" title="source: imgur.com" /></a><span class="image-caption">Ở đây đẹp nhất vẫn là cái đền nổi giữa sông (quên tên mất rồi ^^)</span></div><div class="content" style="text-align:center; "><a href="https://imgur.com/F8GJhGA"><img src="https://i.imgur.com/F8GJhGA.jpg" title="source: imgur.com" /></a><span class="image-caption">đừng bỏ lỡ nơi này để checkin nhé các bạn.</span></div>
 
+<p style="text-align:center; ">
+<picture>
+  <source data-srcset="../../assets/images/nhiepanh/anh-chup-canon-g1x.jpg" />
+  <img class="responsive" data-lowsrc="../../assets/images/nhiepanh/anh-chup-canon-g1x.jpg" alt="Chiếc máy bạn tôi mới mua. Canon 800D" data-sizes="auto" loading="lazy"/>
+  @2022. Tam Cốc
+</picture>
+</p>
+
 Mình đã ngồi thuyền trôi theo dòng nước để khám khám phá cảnh sắc không khác gì thiên nhiên hoang sơ thời tiền sử.
 
 <div class="content" style="text-align:center; "><a href="https://imgur.com/wZtNeRj"><img src="https://i.imgur.com/wZtNeRj.jpg" title="source: imgur.com" /></a><span class="image-caption">Trong động rất mát, mùa mưa, nước lên cao sẽ không thể vào được.</span><br><a href="https://imgur.com/bSR4FUI"><img src="https://i.imgur.com/bSR4FUI.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/n0TO9By"><img src="https://i.imgur.com/n0TO9By.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/4z5VWyh"><img src="https://i.imgur.com/4z5VWyh.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Người cùng đoàn</span><br>
