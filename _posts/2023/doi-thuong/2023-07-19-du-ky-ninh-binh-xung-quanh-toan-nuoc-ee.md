@@ -28,7 +28,7 @@ Nghỉ hè rồi bạn ơi. Đã lâu rồi không đi cùng gia đình. T
 
 ### Xuất phát
 
-<div class="content" style="text-align:center; "><a href="https://imgur.com/MH0EzXM"><img src="https://i.imgur.com/MH0EzXM.jpg" title="source: imgur.com" /></a><br><span class="image-caption">mình xuất phát từ Hà Nội với xe khách đón tại Nhà hát lớn Hà Nội!</span><br><p></p><br><a href="https://imgur.com/fLZA24Y"><img src="https://i.imgur.com/fLZA24Y.jpg" title="source: imgur.com" /></a><br><p>Mình có chút lo lắng vì 6-7h sáng xe mới bắt đầu xuất phát - mà đi ninh bình mất 5-6 tiếng chứ ít gì.</p><br><a href="https://imgur.com/uDMlPt0"><img src="https://i.imgur.com/uDMlPt0.jpg" title="source: imgur.com" /></a><br><span class="image-caption">View từ đường vành đai 3 trên cao</span></div>
+<div class="content" style="text-align:center; "><a href="https://imgur.com/MH0EzXM"><img src="https://i.imgur.com/MH0EzXM.jpg" title="source: imgur.com" /></a><br><span class="image-caption">mình xuất phát từ Hà Nội với xe khách đón tại Nhà hát lớn Hà Nội!</span><br><p></p><br><a href="https://imgur.com/fLZA24Y"><img src="https://i.imgur.com/fLZA24Y.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Mình có chút lo lắng vì 6-7h sáng xe mới bắt đầu xuất phát - mà đi ninh bình mất 5-6 tiếng chứ ít gì.</span><br><a href="https://imgur.com/uDMlPt0"><img src="https://i.imgur.com/uDMlPt0.jpg" title="source: imgur.com" /></a><br><span class="image-caption">View từ đường vành đai 3 trên cao</span></div>
 
 <hr style="border: 1px solid #000000;">
 <p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Mục lục</p>
@@ -123,6 +123,8 @@ Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó
 
 ### Chùa Bích động
 
+<blockquote>Chùa Bích Động là một ngôi chùa cổ được xây dựng trên dãy núi đá vôi Trường Yên thuộc xã Ninh Hải, huyện Hoa Lư tỉnh Ninh Bình. Đây là một di tích lịch sử văn hóa thuộc Quần thể danh thắng Tràng An Tam Cốc - Bích Động đã được xếp hạng di tích quốc gia đặc biệt và UNESCO công nhận là di sản thế giới.- Wikipedia tiếng Việt.
+</blockquote>
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/A9aDZNh"><img src="https://i.imgur.com/A9aDZNh.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/nYz62g6"><img src="https://i.imgur.com/nYz62g6.jpg" title="source: imgur.com" /></a><br><span
     class="image-caption">Chùa rất gần homestay của mình, nên mình quyết định mượn luôn xe của họ.</span><br>
