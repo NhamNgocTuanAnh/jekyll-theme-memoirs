@@ -163,6 +163,12 @@ Tranh thủ trước khi hoàng hôn thì bon chen vô tuyệt tình cốc chụ
     class="image-caption">Cá đâu ra nhiều thế, thịt cá :></span>
 </div>
 
+Về thôi,...
+
+<div class="center-image">
+<img data-src="../../assets/images/ngam/cat_doantion.webp" alt="Ủng hộ Anh hàng xóm" title="Ủng hộ tôi" class="blur-up lazyload img-thumb lazyimg ten-lop-ban-tu-dat" id="image-hover"/>
+</div>
+
 Bạn có thể vào <a href="https://www.facebook.com/media/set/?vanity=nntatlu&set=a.2574616576014311" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>đây</a> để xem "kẻ dại khờ" này đi tìm những nơi vắng vẻ! Chúc một buổi sáng vui vẻ!!👨‍🚀
 
 <script>
