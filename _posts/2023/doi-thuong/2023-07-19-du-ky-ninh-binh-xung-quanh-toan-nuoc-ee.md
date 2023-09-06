@@ -123,7 +123,7 @@ Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó
   <a href="https://imgur.com/UBlUOnL"><img src="https://i.imgur.com/UBlUOnL.jpg" title="source: imgur.com" /></a><br><p></p><br><a
     href="https://imgur.com/COVmJuZ">
     <img src="https://i.imgur.com/COVmJuZ.jpg" title="source: imgur.com" /></a>
-  <br><p></p><br><a href="https://imgur.com/IzEaq9G"><img src="https://i.imgur.com/IzEaq9G.jpg" title="source: imgur.com" /></a><br><p></p><br>
+  <br><p></p><br><a href="https://imgur.com/IzEaq9G"><img src="https://i.imgur.com/IzEaq9G.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/GbDosiD"><img src="https://i.imgur.com/GbDosiD.jpg" title="source: imgur.com" /></a><br><p></p><br>
 </div>
 
 ### Chùa Bích động
@@ -136,7 +136,7 @@ Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó
   <a href="https://imgur.com/PVrPtBp"><img src="https://i.imgur.com/PVrPtBp.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/FH7XrmR"><img src="https://i.imgur.com/FH7XrmR.jpg" title="source: imgur.com" /></a><br><p></p><br><a
     href="https://imgur.com/OUlhfar"><img src="https://i.imgur.com/OUlhfar.jpg" title="source: imgur.com" /></a><br><p></p><br><a
     href="https://imgur.com/qGC98vx"><img src="https://i.imgur.com/qGC98vx.jpg" title="source: imgur.com" /></a><br><p></p><br><a
-    href="https://imgur.com/8bKdOgv"><img src="https://i.imgur.com/8bKdOgv.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/GbDosiD"><img src="https://i.imgur.com/GbDosiD.jpg" title="source: imgur.com" /></a><br><p></p><br>
+    href="https://imgur.com/8bKdOgv"><img src="https://i.imgur.com/8bKdOgv.jpg" title="source: imgur.com" /></a><br><p></p><br>
 </div>
 
 ### Hang múa
