@@ -80,7 +80,7 @@ Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó
       title="source: imgur.com" /></a><br><br><a href="https://imgur.com/1hWaal9"><img src="https://i.imgur.com/1hWaal9.jpg"
       title="source: imgur.com" /></a><br><p>Để lại kỉ niệm cho mình nhiều nhất vẫn là toà tháp 12 tầng, nhìn toà này mình lại liên tưởng đến bộ phim Thanh Xà Bạch Xà ấy.</p><br><a href="https://imgur.com/JpsawWn"><img src="https://i.imgur.com/JpsawWn.jpg"
       title="source: imgur.com" /></a>
-</div>
+</div><br><p></p>
 
 ### Quần thể di tích Cố đô Hoa Lư.
 
