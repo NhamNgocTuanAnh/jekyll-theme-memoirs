@@ -64,11 +64,12 @@ Mình đã ngồi thuyền trôi theo dòng nước để khám khám phá c�
 
 ### Bái đính
 
-Thực ra mình câu view tẹo thôi :P. Mình đã tới chùa Bái đính trước tiên. Đúng là ban tổ chức có tâm. Bái đính - 1 Tam Chúc lặng lẽ.
+Thực ra mình câu view tẹo thôi :P. Mình đã tới chùa Bái đính trước tiên. Đúng là ban tổ chức có tâm.
+Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó rất khác lạ.
+
+> Bái đính - 1 Tam Chúc lặng lẽ.
 
 <div class="content" style="text-align:center; "><a href="https://imgur.com/rAQn7Rq"><img src="https://i.imgur.com/rAQn7Rq.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Vì nó quá rộng, nếu ko có trợ giúp của xe điện. Bạn phải lết bộ hơn 6km để đi hết đc chùa, wow ... ấn tượng đúng ko nào. (Một lưu ý nhỏ là nhớ đi xe điện nhé các bạn, 60k thôi nhưng tiết kiệm cho các bạn khá nhiều thời gian đấy ^^).</span></div>
-
-Để lại kỉ niệm cho mình nhiều nhất vẫn là toà tháp 12 tầng, nhìn toà này mình lại liên tưởng đến bộ phim Thanh Xà Bạch Xà ấy.
 
 <div class="content" style="text-align:center; ">
   <a href="https://imgur.com/5Ju0uwx"><img src="https://i.imgur.com/5Ju0uwx.jpg" title="source: imgur.com" /></a><br><br><a
@@ -77,11 +78,9 @@ Thực ra mình câu view tẹo thôi :P. Mình đã tới chùa Bái đi
       title="source: imgur.com" /></a><br><br><span class="image-caption">Vì có người nước ngoài nên anh hướng dẫn viên nói hơi lâu :'</span><br><br><a href="https://imgur.com/ioo8ixD"><img src="https://i.imgur.com/ioo8ixD.jpg"
       title="source: imgur.com" /></a><br><br><a href="https://imgur.com/0qvd0z9"><img src="https://i.imgur.com/0qvd0z9.jpg"
       title="source: imgur.com" /></a><br><br><a href="https://imgur.com/1hWaal9"><img src="https://i.imgur.com/1hWaal9.jpg"
-      title="source: imgur.com" /></a><br><br><a href="https://imgur.com/JpsawWn"><img src="https://i.imgur.com/JpsawWn.jpg"
+      title="source: imgur.com" /></a><br><p>Để lại kỉ niệm cho mình nhiều nhất vẫn là toà tháp 12 tầng, nhìn toà này mình lại liên tưởng đến bộ phim Thanh Xà Bạch Xà ấy.</p><br><a href="https://imgur.com/JpsawWn"><img src="https://i.imgur.com/JpsawWn.jpg"
       title="source: imgur.com" /></a>
-</div><br>
-
-Cách trung tâm hơn 15km về phía Đông, chùa BĐ mang một cái gì đó rất khác lạ.
+</div>
 
 ### Quần thể di tích Cố đô Hoa Lư.
 
