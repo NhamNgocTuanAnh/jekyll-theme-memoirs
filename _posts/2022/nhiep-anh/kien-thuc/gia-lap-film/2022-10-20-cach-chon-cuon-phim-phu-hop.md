@@ -75,6 +75,12 @@ Kể cả màu xanh lá cây nhìn cũng thấy dư dư một tẹo vàng. Chụ
 Trời xanh lên đẹp, thiếu sáng thì shadow bị mất chi tiết nhiều, ngả vàng do đó hợp chụp ngoại cảnh hoặc nội thất.
 {% include lazyload.html image_src="../../assets/images/nhiepanh/reviews/cuon-phim/mau-phim-Kodak-colorplus-200.webp" image_alt="#colorplus200 #minoltasweetii" image_title="Chụp bởi #colorplus200 #minoltasweetii" %}
 **Lưu ý** không nên chụp trong nhà hoặc nơi có ánh sáng yếu. tone màu trầm ấm.là loại film máy ảnh có giá “hạt dẻ” nhất và cũng vô cùng phổ biến, minh chứng là bất kì lab bán film nào cũng có và đặc biệt là một số lab còn tặng kèm combo film + tráng scan với giá vô cùng ưu đãi.
+### 3\. ISO 400
+#### 3.1. Fujicolor Pro 400H
+- Đặc biệt phù hợp để chụp trong đám cưới, chân dung hoặc thời trang.
+- Có thể sử dụng tốt trong nhiều điều kiện ánh sáng khác nhau như trời nắng, âm u, trong nhà. Màu sắc khá tươi tắn và khá là trung tính khi ít bị ngả màu.
+> Và màu da người lên khá thật và mịn.
+
 ### Lưu ý khi chụp
 *   Chụp người thì provia cho kinh tế. Chụp đúng sáng, xuôi sáng (chụp ngược sáng lên ảnh đẹp cực khó).
 *   Nên chụp ở những điều kiện ánh sáng chan hòa, không quá gắt cũng không quá tối. Ví dụ ngoài trời mây vừa, mây nhiều, bình minh, hoàng hôn, trong bóng cây hoặc trong nhà có nhiều cửa sổ, hạn chế chụp ngược sáng.
