@@ -28,7 +28,7 @@ Nghỉ hè rồi bạn ơi. Đã lâu rồi không đi cùng gia đình. T
 
 ### Xuất phát
 
-<div class="content" style="text-align:center; "><blockquote class="imgur-embed-pub" lang="en" data-id="a/MH0EzXM"  ><a href="//imgur.com/a/MH0EzXM">Ngày nắng</a></blockquote><br><p></p><br><a href="https://imgur.com/MH0EzXM"><img src="https://i.imgur.com/MH0EzXM.jpg" title="source: imgur.com" /></a><br><span class="image-caption">mình xuất phát từ Hà Nội với xe khách đón tại Nhà hát lớn Hà Nội!</span><br><a href="https://imgur.com/fLZA24Y"><img src="https://i.imgur.com/fLZA24Y.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Mình có chút lo lắng vì 6-7h sáng xe mới bắt đầu xuất phát - mà đi ninh bình mất 5-6 tiếng chứ ít gì.</span><br><a href="https://imgur.com/uDMlPt0"><img src="https://i.imgur.com/uDMlPt0.jpg" title="source: imgur.com" /></a><br><span class="image-caption">View từ đường vành đai 3 trên cao</span></div>
+<div class="content" style="text-align:center; "><blockquote class="imgur-embed-pub" lang="en" data-id="a/MH0EzXM"  ><a href="//imgur.com/a/MH0EzXM">Ngày nắng</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script><br><p></p><br><a href="https://imgur.com/MH0EzXM"><img src="https://i.imgur.com/MH0EzXM.jpg" title="source: imgur.com" /></a><br><span class="image-caption">mình xuất phát từ Hà Nội với xe khách đón tại Nhà hát lớn Hà Nội!</span><br><a href="https://imgur.com/fLZA24Y"><img src="https://i.imgur.com/fLZA24Y.jpg" title="source: imgur.com" /></a><br><span class="image-caption">Mình có chút lo lắng vì 6-7h sáng xe mới bắt đầu xuất phát - mà đi ninh bình mất 5-6 tiếng chứ ít gì.</span><br><a href="https://imgur.com/uDMlPt0"><img src="https://i.imgur.com/uDMlPt0.jpg" title="source: imgur.com" /></a><br><span class="image-caption">View từ đường vành đai 3 trên cao</span></div>
 
 <hr style="border: 1px solid #000000;">
 <p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Mục lục</p>
@@ -172,8 +172,6 @@ Bạn có thể vào <a href="https://www.facebook.com/media/set/?vanity=nntatlu
 <script>
 var root_url=window.location.origin;function getHrefOnclickAndRedirectWithLink(t){t.preventDefault();t=t.currentTarget.getAttribute("href");window.location=[root_url,"/redirect?url=",encodeURIComponent(t)].join("")}
 </script>
-
-<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <style>
 .box{display:flex;align-items:center;justify-content:center;background:#aaa;margin:20px 0;width:100%;min-height:200px;border:2px #ccc solid;color:#fff}.row{display:flex;flex-wrap:wrap;padding:0 4px}.column{flex:25%;max-width:25%;padding:0 4px}.column img{margin-top:8px;vertical-align:middle;width:100%}@media screen and (max-width: 800px){.column{flex:50%;max-width:50%}}@media screen and (max-width: 600px){.column{flex:100%;max-width:100%}}video{max-width:100%;height:auto}
