@@ -17,13 +17,13 @@ keywords:
   - Nhà thờ Thám hoa Giang Văn Minh
   - Đình Mông Phụ
   - Cổng làng Mông Phụ
-date: 2023-10-10 07:07:07 +0700
+date: 2023-10-10 10:10:10 +0700
 ---
 
 Làng cổ Đường Lâm có lịch sử hơn 1.000 năm. Nhưng hiện đại hóa đã gây ra thách thức và ảnh hưởng tiêu cực đến làng. Một số ngôi nhà cổ đã bị phá bỏ để xây dựng nhà cao tầng và nét văn hóa truyền thống đang dần biến mất.
 
 <div class="content" style="text-align:center; ">
-<img data-src="../../assets/images/ngam/cat_doantion.webp" alt="Ủng hộ Anh hàng xóm" title="Ủng hộ tôi" class="blur-up lazyload img-thumb lazyimg ten-lop-ban-tu-dat" id="image-hover"/>
+
 </div>
 
 
