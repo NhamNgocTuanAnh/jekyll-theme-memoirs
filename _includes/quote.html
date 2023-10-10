@@ -21,7 +21,14 @@ let quotesLength=total||0,currentQuote="",currentAuthor="",randomquote=100,rando
 </style>
 
 <div class="article-post">
-	<hr style="border: 1px solid #000000;"><div class="ticket3" style="background-color: lightblue;"> <div class="ticket3__details"> <h3 class="ticket3__title">Anh hàng xóm</h3> 'Anh hàng xóm' là blog phi lợi nhuận, miễn phí - Sự ủng hộ của bạn luôn là điều quan trọng giúp blog tồn tại cùng với đó là phát triển mạnh mẽ hơn nữa. Bạn có thể ủng hộ cho blog<br>ヾ (⌐ ■ _ ■) ノ ♪</div> <div class="ticket3__rip"></div> <div class="ticket3__price"> <h1 class="heading" style="text-align:center;"><a href="{{ site.baseurl }}/ung-ho">👇<br>tại ĐÂY</a></h1> </div></div></div><br><br><iframe src="https://www.facebook.com/plugins/page.php?href=https://www.facebook.com/xomnghienngap&tabs&width=340&height=70&small_header=true&adapt_container_width=false&hide_cover=true&show_facepile=false&appId=2086804534891096" width="340" height="70" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+	<hr style="border: 1px solid #000000;">
+
+  <div class="content" style="text-align:center; ">
+    <img data-src="../../assets/images/ngam/cat_doantion.webp" alt="Ủng hộ Anh hàng xóm" title="Ủng hộ tôi" class="blur-up lazyload img-thumb lazyimg ten-lop-ban-tu-dat" id="image-hover"/>
+    </div>
+
+    Bạn có thể vào <a href="https://www.facebook.com/media/set/?vanity=nntatlu&set=a.2574616576014311" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>đây</a> để xem "kẻ dại khờ" này đi tìm những nơi vắng vẻ! <p className='element' id='replace-day'>Chúc một buổi sáng vui vẻ!!👨‍🚀</p>
+<hr style="border: 1px solid #000000;"><div class="ticket3" style="background-color: lightblue;"> <div class="ticket3__details"> <h3 class="ticket3__title">Anh hàng xóm</h3> 'Anh hàng xóm' là blog phi lợi nhuận, miễn phí - Sự ủng hộ của bạn luôn là điều quan trọng giúp blog tồn tại cùng với đó là phát triển mạnh mẽ hơn nữa. Bạn có thể ủng hộ cho blog<br>ヾ (⌐ ■ _ ■) ノ ♪</div> <div class="ticket3__rip"></div> <div class="ticket3__price"> <h1 class="heading" style="text-align:center;"><a href="{{ site.baseurl }}/ung-ho">👇<br>tại ĐÂY</a></h1> </div></div></div><br><br><iframe src="https://www.facebook.com/plugins/page.php?href=https://www.facebook.com/xomnghienngap&tabs&width=340&height=70&small_header=true&adapt_container_width=false&hide_cover=true&show_facepile=false&appId=2086804534891096" width="340" height="70" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
 <script>
 function inIframe(){try{return window.self!==window.top}catch(t){return!0}}function getQuote(){if(quotes){randomquote=Math.floor(Math.random()*(quotesLength-1)),randomcolor=Math.floor(Math.random()*colors.length);
@@ -60,3 +67,7 @@ jQuery(document).ready(function(t){function e(){var e=(Number(t(".fb-column").wi
   js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
+
+<script>
+function addDay(){let e=new Date,t=parseInt(e.getHours());t>=7&&t<12&&(document.getElementById("replace-day").innerText="Ch\xfac một buổi sáng vui vẻ!!\uD83D\uDC68‍\uD83D\uDE80"),t>=12&&t<19&&(document.getElementById("replace-day").innerText="Ch\xfac một buổi chi\xeàu vui vẻ!!\uD83D\uDC68‍\uD83D\uDE80"),t>=19&&t<23&&(document.getElementById("replace-day").innerText="Ch\xfac một buổi t\xf4́i vui vẻ!!\uD83D\uDC68‍\uD83D\uDE80"),t>=23&&t<5&&(document.getElementById("replace-day").innerText="Nhớ ngủ sớm nhé bạn t\xf4i!!\uD83D\uDC68‍\uD83D\uDE80")}window.setInterval(addDay,5e3);
+</script>

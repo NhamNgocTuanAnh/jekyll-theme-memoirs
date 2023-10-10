@@ -98,13 +98,6 @@ Mình không chắc sẽ quay trở lại đây nữa. Hy vọng trưởng 
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/Z1nm0Gj"><img src="https://i.imgur.com/Z1nm0Gj.jpg" title="source: imgur.com" /></a><br><p>Tạm biệt và hẹn gặp lại ;)</p><br></div>
 
-
-<div class="content" style="text-align:center; ">
-<img data-src="../../assets/images/ngam/cat_doantion.webp" alt="Ủng hộ Anh hàng xóm" title="Ủng hộ tôi" class="blur-up lazyload img-thumb lazyimg ten-lop-ban-tu-dat" id="image-hover"/>
-</div>
-
-Bạn có thể vào <a href="https://www.facebook.com/media/set/?vanity=nntatlu&set=a.2574616576014311" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>đây</a> để xem "kẻ dại khờ" này đi tìm những nơi vắng vẻ! Chúc một buổi sáng vui vẻ!!👨‍🚀
-
 <script>
 var root_url=window.location.origin;function getHrefOnclickAndRedirectWithLink(t){t.preventDefault();t=t.currentTarget.getAttribute("href");window.location=[root_url,"/redirect?url=",encodeURIComponent(t)].join("")}
 </script>
