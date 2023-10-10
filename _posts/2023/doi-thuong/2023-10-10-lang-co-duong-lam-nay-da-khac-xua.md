@@ -83,12 +83,12 @@ Khi bọn mình đến thì gần như các địa điểm đều đang �
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/kgK65Is"><img src="https://i.imgur.com/kgK65Is.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/590ZyXQ"><img src="https://i.imgur.com/590ZyXQ.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/Fsh9SUQ"><img src="https://i.imgur.com/Fsh9SUQ.jpg" title="source: imgur.com" /></a><br><p>Tá túc hết quán này đến quán nọ, mình thấy thứ mình cần nhất là nước :v</p><a href="https://imgur.com/rt8YiCa"><img src="https://i.imgur.com/rt8YiCa.jpg" title="source: imgur.com" /></a><br><p>Tá túc quán Cà phê, khá đẹp và đồ uống cũng rẻ nữa ☺️ </p></div>
 
-Thôi có gì chụp nấy vậy.
+Thôi có gì chụp nấy vậy. ***Lưu ý:*** Tận dụng ánh sáng tự nhiên vì ánh sáng tự nhiên là yếu tố quan trọng nhất. Ở đây cách xa khói đô thị, nắng vàng và nhà đỏ gạch: Vừa đủa nguyên liệu cho những bức ảnh đẹp :P.
 
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/KHFOn8b"><img src="https://i.imgur.com/KHFOn8b.jpg" title="source: imgur.com" /></a><br><p></p><br>
 <a href="https://imgur.com/glrfhiO"><img src="https://i.imgur.com/glrfhiO.jpg" title="source: imgur.com" /></a><br><p>Thích nhất là cái cảm giác xế chiều trước lúc chuẩn bị về, đã thấm mệt, dừng xe ở quán nước đầu làng - thưởng nốt cái hoàng hôn thật trọn.</p><a href="https://imgur.com/eTuYk81"><img src="https://i.imgur.com/eTuYk81.jpg" title="source: imgur.com" /></a><br><p></p>
-<a href="https://imgur.com/GRkGfb5"><img src="https://i.imgur.com/GRkGfb5.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/G20xjgK"><img src="https://i.imgur.com/G20xjgK.png" title="source: imgur.com" /></a><br><p></p>
+<a href="https://imgur.com/GRkGfb5"><img src="https://i.imgur.com/GRkGfb5.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/G20xjgK"><img src="https://i.imgur.com/G20xjgK.png" title="source: imgur.com" /></a><br><p>Này đu trend chạy chạy</p>
 <a href="https://imgur.com/eTuYk81"><img src="https://i.imgur.com/eTuYk81.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/eH17hQ5"><img src="https://i.imgur.com/eH17hQ5.jpg" title="source: imgur.com" /></a><br><p>Một số nhà có hòm thu phí, đa phần rất khang trang rộng rãi, có nhà đầu tư hẳn xích đu gỗ cùng với đó là  rất nhiều giàn hoa lan leo bên cạnh rất đẹp mắt, quanh nhà cũng rất nhiều góc để chụp và mình tự cảm thấy 5k phí tham quan và chụp hình rất đáng :))</p>
 <a href="https://imgur.com/M6Eroln"><img src="https://i.imgur.com/M6Eroln.jpg" title="source: imgur.com" /></a>
 </div>
