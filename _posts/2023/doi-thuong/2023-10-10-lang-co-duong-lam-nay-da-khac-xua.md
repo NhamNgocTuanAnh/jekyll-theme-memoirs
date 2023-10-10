@@ -5,7 +5,7 @@ author: sal
 lazyimages: "enabled"
 categories: [ Du hí 🛫 ]
 tags: [du ký]
-image: assets/images/2023/du-lich/avt/ninh-binh-gia-dinh-2023-avt.webp
+image: assets/images/2023/du-lich/avt/lang-co-duong-lam-avt.webp
 rating: 5
 isGithubComments: false
 permalink: du-lich/lang-co-duong-lam-nay-da-khac-xua
