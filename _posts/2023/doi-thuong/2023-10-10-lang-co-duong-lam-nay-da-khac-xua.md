@@ -34,7 +34,7 @@ date: 2023-10-10 10:10:10 +0700
 Làng cổ Đường Lâm là một làng cổ lâu đời mang rất nhiều nét văn hóa đặc sắc. Cho tới ngày nay, ngôi làng vẫn giữ được những đặc trưng cơ bản của một ngôi làng xưa với đình làng, cây đa, bến nước, chùa miếu...
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/dpuP5FM"><img src="https://i.imgur.com/dpuP5FM.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/dpuP5FM"><img src="https://i.imgur.com/dpuP5FM.jpg" title="source: imgur.com" /></a><br><p></p>
 </div>
 
 #### Lên kế hoạch chụp ảnh
