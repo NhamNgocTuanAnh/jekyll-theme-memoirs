@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Làng cổ Đường Lâm! - Nay đã khác xưa!'
+title: 'Làng cổ Đường Lâm - Nay đã khác xưa!'
 author: sal
 lazyimages: "enabled"
 categories: [ Du hí 🛫 ]
