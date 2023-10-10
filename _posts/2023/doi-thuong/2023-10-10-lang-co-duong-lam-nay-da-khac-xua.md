@@ -46,19 +46,19 @@ Làng cổ Đường Lâm là một làng cổ lâu đời mang rất nhiều n�
 
 #### Chuẩn bị:
 
-Thiết bị: Máy ảnh, ống kính, chân máy, đèn flash, bộ lọc, phụ kiện (ví dụ: hoa, lá,...)
-Trang phục: Cặp đôi nên chọn những trang phục phù hợp với phong cách chụp ảnh mong muốn.
-Phụ kiện: Cặp đôi có thể chuẩn bị thêm một số phụ kiện như mũ, nón, khăn,... để tạo điểm nhấn cho bức ảnh.
-Dự trù thời tiết: Thời tiết ở Hà Nội vào tháng 10 thường khá mát mẻ, tuy nhiên vẫn có khả năng mưa. Nên chuẩn bị áo mưa, ô để đề phòng trường hợp trời mưa.
+* Thiết bị: Máy ảnh, ống kính, chân máy, đèn flash, bộ lọc, phụ kiện (ví dụ: hoa, lá,...)
+* Trang phục: Cặp đôi nên chọn những trang phục phù hợp với phong cách chụp ảnh mong muốn.
+* Phụ kiện: Cặp đôi có thể chuẩn bị thêm một số phụ kiện như mũ, nón, khăn,... để tạo điểm nhấn cho bức ảnh.
+* Dự trù thời tiết: Thời tiết ở Hà Nội vào tháng 10 thường khá mát mẻ, tuy nhiên vẫn có khả năng mưa. Nên chuẩn bị áo mưa, ô để đề phòng trường hợp trời mưa.
 
 #### Kế hoạch chi tiết:
 
-8h00: Khởi hành từ Hà Nội đến làng cổ Đường Lâm.
-9h00: Đến làng cổ Đường Lâm, ăn sáng và nghỉ ngơi.
-10h00: Bắt đầu chụp ảnh tại các địa điểm nổi tiếng ở làng cổ Đường Lâm, chẳng hạn như: đình làng Mông Phụ, chùa Mía, chợ Mía, giếng cổ làng Cựu,...
-12h00: Ăn trưa và nghỉ ngơi.
-13h00: Tiếp tục chụp ảnh.
-16h00: Kết thúc buổi chụp ảnh và trở về Hà Nội.
+* 8h00: Khởi hành từ Hà Nội đến làng cổ Đường Lâm.
+* 9h00: Đến làng cổ Đường Lâm, ăn sáng và nghỉ ngơi.
+* 10h00: Bắt đầu chụp ảnh tại các địa điểm nổi tiếng ở làng cổ Đường Lâm, chẳng hạn như: đình làng Mông Phụ, chùa Mía, chợ Mía, giếng cổ làng Cựu,...
+* 12h00: Ăn trưa và nghỉ ngơi.
+* 13h00: Tiếp tục chụp ảnh.
+* 16h00: Kết thúc buổi chụp ảnh và trở về Hà Nội.
 
 **Việc đầu tiên** là gửi xe và mua vé vào làng. Hiện nay 10.000 VND / xe máy và vé tham quan là 20.000 VND / người. Khi vào làng bạn có thể sử dụng phương thức đi bộ hoặc đạp xe.
 
