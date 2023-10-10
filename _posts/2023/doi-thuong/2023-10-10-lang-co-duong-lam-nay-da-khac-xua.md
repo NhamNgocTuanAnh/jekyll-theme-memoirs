@@ -47,8 +47,8 @@ Làng cổ Đường Lâm là một làng cổ lâu đời mang rất nhiều n�
 #### Chuẩn bị:
 
 * Thiết bị: Máy ảnh, ống kính, chân máy, đèn flash, bộ lọc, phụ kiện (ví dụ: hoa, lá,...)
-* Trang phục: Cặp đôi nên chọn những trang phục phù hợp với phong cách chụp ảnh mong muốn.
-* Phụ kiện: Cặp đôi có thể chuẩn bị thêm một số phụ kiện như mũ, nón, khăn,... để tạo điểm nhấn cho bức ảnh.
+* Trang phục: Cặp đôi nên chọn những trang phục phù hợp với phong cách chụp ảnh mong muốn. Và đây mình chọn áo dài cách tân, họa tiết đơn giản cùng với đó là mầu trầm phù hợp với bối cảnh gạch nhà cũ.
+* Phụ kiện: hoa, sách
 * Dự trù thời tiết: Thời tiết ở Hà Nội vào tháng 10 thường khá mát mẻ, tuy nhiên vẫn có khả năng mưa. Nên chuẩn bị áo mưa, ô để đề phòng trường hợp trời mưa.
 
 #### Kế hoạch chi tiết:
