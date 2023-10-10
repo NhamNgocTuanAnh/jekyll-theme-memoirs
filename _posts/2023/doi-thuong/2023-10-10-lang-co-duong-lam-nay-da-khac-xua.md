@@ -54,8 +54,10 @@ Thôi có gì chụp nấy vậy.
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/KHFOn8b"><img src="https://i.imgur.com/KHFOn8b.jpg" title="source: imgur.com" /></a></div>
 
+<div class="content" style="text-align:center; ">
+<a href="https://imgur.com/glrfhiO"><img src="https://i.imgur.com/glrfhiO.jpg" title="source: imgur.com" /></a><br><p>Thích nhất là cái cảm giác xế chiều trước lúc chuẩn bị về, đã thấm mệt, dừng xe ở quán nước đầu làng - thưởng nốt cái hoàng hôn thật trọn.</p><br></div>
 
-Mình không chắc sẽ quay trở lại đây nữa. Hy vọng trưởng thôn và người dân sẽ lưu giữ những đường nét làng cổ 1000 năm tuổi này hơn
+Mình không chắc sẽ quay trở lại đây nữa. Hy vọng trưởng thôn và người dân sẽ lưu giữ những đường nét làng cổ 1000 năm tuổi này hơn!
 
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/Z1nm0Gj"><img src="https://i.imgur.com/Z1nm0Gj.jpg" title="source: imgur.com" /></a><br><p>Tạm biệt và hẹn gặp lại ;)</p><br></div>
