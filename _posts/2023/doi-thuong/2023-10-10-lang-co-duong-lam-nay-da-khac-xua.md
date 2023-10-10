@@ -49,6 +49,14 @@ Khi bọn mình đến thì gần như các địa điểm đều đang �
 <a href="https://imgur.com/kgK65Is"><img src="https://i.imgur.com/kgK65Is.jpg" title="source: imgur.com" /></a></div>
 
 
+Thôi có gì chụp nấy vậy.
+
+<div class="content" style="text-align:center; ">
+<a href="https://imgur.com/KHFOn8b"><img src="https://i.imgur.com/KHFOn8b.jpg" title="source: imgur.com" /></a></div>
+
+
+Mình không chắc sẽ quay trở lại đây nữa. Hy vọng trưởng thôn và người dân sẽ lưu giữ những đường nét làng cổ 1000 năm tuổi này hơn
+
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/Z1nm0Gj"><img src="https://i.imgur.com/Z1nm0Gj.jpg" title="source: imgur.com" /></a><br><p>Tạm biệt và hẹn gặp lại ;)</p><br></div>
 
