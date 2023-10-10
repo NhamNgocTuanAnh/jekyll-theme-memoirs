@@ -43,9 +43,15 @@ Dù đây là tháng 10 rồi nhưng trời nắng vẫn rất gắt. C
 <br><p></p><br><a href="https://imgur.com/wwsEWCs"><img src="https://i.imgur.com/wwsEWCs.png" title="source: imgur.com" /></a>
 </div>
 
+Khi bọn mình đến thì gần như các địa điểm đều đang đóng cửa. trời thì nóng và không được vào khiến mình rất buồn.
+
+<div class="content" style="text-align:center; ">
+<a href="https://imgur.com/kgK65Is"><img src="https://i.imgur.com/kgK65Is.jpg" title="source: imgur.com" /></a></div>
 
 
-Tạm biệt và hẹn gặp lại ;)
+<div class="content" style="text-align:center; ">
+<a href="https://imgur.com/Z1nm0Gj"><img src="https://i.imgur.com/Z1nm0Gj.jpg" title="source: imgur.com" /></a><br><p>Tạm biệt và hẹn gặp lại ;)</p><br></div>
+
 
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/ngam/cat_doantion.webp" alt="Ủng hộ Anh hàng xóm" title="Ủng hộ tôi" class="blur-up lazyload img-thumb lazyimg ten-lop-ban-tu-dat" id="image-hover"/>
