@@ -20,10 +20,12 @@ keywords:
 date: 2023-10-10 10:10:10 +0700
 ---
 
-Làng cổ Đường Lâm có lịch sử hơn 1.000 năm. Nhưng hiện đại hóa đã gây ra thách thức và ảnh hưởng tiêu cực đến làng. Một số ngôi nhà cổ đã bị phá bỏ để xây dựng nhà cao tầng và nét văn hóa truyền thống đang dần biến mất.
+Làng cổ Đường Lâm là một làng cổ lâu đời mang rất nhiều nét văn hóa đặc sắc. Cho tới ngày nay, ngôi làng vẫn giữ được những đặc trưng cơ bản của một ngôi làng xưa với đình làng, cây đa, bến nước, chùa miếu...
+
+Việc đầu tiên là chúng tớ gửi xe và mua vé vào làng. Hiện nay giá vé gửi xe máy là 10.000 VND / xe và vé tham quan là 20.000 VND / người. Phương tiện mình chọn là xe đạp - để chở thêm đồ vì minh mang khá nhiều đồ.
 
 <div class="content" style="text-align:center; ">
-
+<a href="https://imgur.com/AM5luCO"><img src="https://i.imgur.com/AM5luCO.jpg" title="source: imgur.com" /></a>
 </div>
 
 
