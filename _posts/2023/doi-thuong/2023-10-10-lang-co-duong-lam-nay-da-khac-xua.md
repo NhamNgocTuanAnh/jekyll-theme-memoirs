@@ -53,7 +53,7 @@ Thôi có gì chụp nấy vậy.
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/KHFOn8b"><img src="https://i.imgur.com/KHFOn8b.jpg" title="source: imgur.com" /></a><br><p></p><br>
 <a href="https://imgur.com/glrfhiO"><img src="https://i.imgur.com/glrfhiO.jpg" title="source: imgur.com" /></a><br><p>Thích nhất là cái cảm giác xế chiều trước lúc chuẩn bị về, đã thấm mệt, dừng xe ở quán nước đầu làng - thưởng nốt cái hoàng hôn thật trọn.</p><br><a href="https://imgur.com/eTuYk81"><img src="https://i.imgur.com/eTuYk81.jpg" title="source: imgur.com" /></a><br><p></p><br>
-<a href="https://imgur.com/GRkGfb5"><img src="https://i.imgur.com/GRkGfb5.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/G20xjgK"><img src="https://i.imgur.com/G20xjgK.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/GRkGfb5"><img src="https://i.imgur.com/GRkGfb5.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/G20xjgK"><img src="https://i.imgur.com/G20xjgK.png" title="source: imgur.com" /></a>
 </div>
 
 <div class="content" style="text-align:center; ">
