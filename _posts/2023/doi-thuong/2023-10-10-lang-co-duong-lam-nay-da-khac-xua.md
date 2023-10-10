@@ -42,7 +42,7 @@ Làng cổ Đường Lâm là một làng cổ lâu đời mang rất nhiều n�
 * Đối tượng: Một cặp đôi trẻ
 * Thời gian: 8h00 - 18h00, ngày 09/10/2023
 * Địa điểm: Làng cổ Đường Lâm, Hà Nội
-* Mục tiêu: Chụp ảnh cưới ngoại cảnh cho một cặp đôi trẻ
+* Mục tiêu: Chụp ảnh ngoại cảnh cùng với đó là du ngoạn một nơi mình đã rất muốn đi thời sinh viên
 
 #### Chuẩn bị:
 
