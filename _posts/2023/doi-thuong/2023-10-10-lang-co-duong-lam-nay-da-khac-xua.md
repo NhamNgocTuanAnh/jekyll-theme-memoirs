@@ -37,10 +37,10 @@ Làng cổ Đường Lâm là một làng cổ lâu đời mang rất nhiều n�
 <a href="https://imgur.com/dpuP5FM"><img src="https://i.imgur.com/dpuP5FM.jpg" title="source: imgur.com" /></a>
 </div>
 
-> Đối tượng: Một cặp đôi trẻ
-Thời gian: 8h00 - 16h00, ngày 20/10/2023
-Địa điểm: Làng cổ Đường Lâm, Hà Nội
-Mục tiêu: Chụp ảnh cưới ngoại cảnh cho một cặp đôi trẻ
+* Đối tượng: Một cặp đôi trẻ
+* Thời gian: 8h00 - 18h00, ngày 09/10/2023
+* Địa điểm: Làng cổ Đường Lâm, Hà Nội
+* Mục tiêu: Chụp ảnh cưới ngoại cảnh cho một cặp đôi trẻ
 
 Việc đầu tiên là gửi xe và mua vé vào làng. Hiện nay 10.000 VND / xe máy và vé tham quan là 20.000 VND / người. Khi vào làng bạn có thể sử dụng phương thức đi bộ hoặc đạp xe.
 
