@@ -26,7 +26,9 @@ Làng cổ Đường Lâm là một làng cổ lâu đời mang rất nhiều n�
 <a href="https://imgur.com/dpuP5FM"><img src="https://i.imgur.com/dpuP5FM.jpg" title="source: imgur.com" /></a>
 </div>
 
-Việc đầu tiên là chúng tớ gửi xe và mua vé vào làng. Hiện nay giá vé gửi xe máy là 10.000 VND / xe và vé tham quan là 20.000 VND / người. Phương tiện mình chọn là xe đạp - để chở thêm đồ vì minh mang khá nhiều đồ.
+Việc đầu tiên là gửi xe và mua vé vào làng. Hiện nay 10.000 VND / xe máy và vé tham quan là 20.000 VND / người. Khi vào làng bạn có thể sử dụng phương thức đi bộ hoặc đạp xe.
+
+Phương tiện mình chọn là xe đạp - để chở thêm đồ vì minh mang khá nhiều đồ 💼.
 
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/AM5luCO"><img src="https://i.imgur.com/AM5luCO.jpg" title="source: imgur.com" /></a>
@@ -38,15 +40,14 @@ Dù đây là tháng 10 rồi nhưng trời nắng vẫn rất gắt. C
 <a href="https://imgur.com/A0yjhma"><img src="https://i.imgur.com/A0yjhma.jpg" title="source: imgur.com" /></a><br><p></p><br>
 <a href="https://imgur.com/A6VRVMm"><img src="https://i.imgur.com/A6VRVMm.jpg" title="source: imgur.com" /></a><br><p></p><br>
 <a href="https://imgur.com/AYUL0Db"><img src="https://i.imgur.com/AYUL0Db.jpg" title="source: imgur.com" /></a><br><p>Nắng rất gắt, mồ hôi nhễ nhại. Chưa biết pose kiểu gì ;( </p><a href="https://imgur.com/BWVw46B"><img src="https://i.imgur.com/BWVw46B.jpg" title="source: imgur.com" /></a><br><p></p>
-<a href="https://imgur.com/1g0VE4C"><img src="https://i.imgur.com/1g0VE4C.jpg" title="source: imgur.com" /></a><br><p>Đây, lẹ đi</p>
+<a href="https://imgur.com/1g0VE4C"><img src="https://i.imgur.com/1g0VE4C.jpg" title="source: imgur.com" /></a><br><p>Đây, lẹ đi 😎</p>
 <a href="https://imgur.com/c4Ipfaq"><img src="https://i.imgur.com/c4Ipfaq.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/wwsEWCs"><img src="https://i.imgur.com/wwsEWCs.png" title="source: imgur.com" /></a>
 </div>
 
-Khi bọn mình đến thì gần như các địa điểm đều đang đóng cửa. trời thì nóng và không được vào khiến mình rất buồn.
+Khi bọn mình đến thì gần như các địa điểm đều đang đóng cửa. trời thì nóng và không được vào khiến mình rất buồn😳.
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/kgK65Is"><img src="https://i.imgur.com/kgK65Is.jpg" title="source: imgur.com" /></a></div>
-
+<a href="https://imgur.com/kgK65Is"><img src="https://i.imgur.com/kgK65Is.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/590ZyXQ"><img src="https://i.imgur.com/590ZyXQ.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/Fsh9SUQ"><img src="https://i.imgur.com/Fsh9SUQ.jpg" title="source: imgur.com" /></a><br><p>Tá túc hết quán này đến quán nọ, mình thấy thứ mình cần nhất là nước :v</p><a href="https://imgur.com/rt8YiCa"><img src="https://i.imgur.com/rt8YiCa.jpg" title="source: imgur.com" /></a><br><p>Tá túc quán Cà phê, khá đẹp và đồ uống cũng rẻ nữa ☺️ </p></div>
 
 Thôi có gì chụp nấy vậy.
 
