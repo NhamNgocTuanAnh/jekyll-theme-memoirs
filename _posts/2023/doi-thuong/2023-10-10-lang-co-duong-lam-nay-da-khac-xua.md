@@ -39,7 +39,7 @@ Làng cổ Đường Lâm là một làng cổ lâu đời mang rất nhiều n�
 
 #### Lên kế hoạch chụp ảnh
 
-* Đối tượng: Một cặp đôi trẻ
+* Đối tượng: Một bạn nữ rất xinh đẹp :P
 * Thời gian: 8h00 - 18h00, ngày 09/10/2023
 * Địa điểm: Làng cổ Đường Lâm, Hà Nội
 * Mục tiêu: Chụp ảnh ngoại cảnh cùng với đó là du ngoạn một nơi mình đã rất muốn đi thời sinh viên
