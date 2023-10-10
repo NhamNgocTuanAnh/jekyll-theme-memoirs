@@ -58,7 +58,7 @@ Làng cổ Đường Lâm là một làng cổ lâu đời mang rất nhiều n�
 * 10h00: Bắt đầu chụp ảnh tại các địa điểm nổi tiếng ở làng cổ Đường Lâm, chẳng hạn như: đình làng Mông Phụ, chùa Mía, chợ Mía, giếng cổ làng Cựu,...
 * 12h00: Ăn trưa và nghỉ ngơi.
 * 13h00: Tiếp tục chụp ảnh.
-* 16h00: Kết thúc buổi chụp ảnh và trở về Hà Nội.
+* 17h30: Kết thúc buổi chụp ảnh và trở về Hà Nội.
 
 **Việc đầu tiên** là gửi xe và mua vé vào làng. Hiện nay 10.000 VND / xe máy và vé tham quan là 20.000 VND / người. Khi vào làng bạn có thể sử dụng phương thức đi bộ hoặc đạp xe.
 
