@@ -57,7 +57,7 @@ Thôi có gì chụp nấy vậy.
 </div>
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/eTuYk81"><img src="https://i.imgur.com/eTuYk81.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/eTuYk81"><img src="https://i.imgur.com/eTuYk81.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/M6Eroln"><img src="https://i.imgur.com/M6Eroln.jpg" title="source: imgur.com" /></a>
 </div>
 
 Mình không chắc sẽ quay trở lại đây nữa. Hy vọng trưởng thôn và người dân sẽ lưu giữ những đường nét làng cổ 1000 năm tuổi này hơn!
