@@ -62,7 +62,7 @@ Dự trù thời tiết: Thời tiết ở Hà Nội vào tháng 10 thường kh
 
 **Việc đầu tiên** là gửi xe và mua vé vào làng. Hiện nay 10.000 VND / xe máy và vé tham quan là 20.000 VND / người. Khi vào làng bạn có thể sử dụng phương thức đi bộ hoặc đạp xe.
 
-Phương tiện mình chọn là xe đạp - để chở thêm đồ vì minh mang khá nhiều đồ 💼.
+Phương tiện mình chọn là xe đạp - để chở thêm đồ vì mình mang khá nhiều đồ 💼.
 
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/AM5luCO"><img src="https://i.imgur.com/AM5luCO.jpg" title="source: imgur.com" /></a>
