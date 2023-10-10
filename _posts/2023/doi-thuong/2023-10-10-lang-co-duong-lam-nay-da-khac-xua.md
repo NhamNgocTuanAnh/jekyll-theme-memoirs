@@ -38,7 +38,7 @@ Dù đây là tháng 10 rồi nhưng trời nắng vẫn rất gắt. C
 
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/A0yjhma"><img src="https://i.imgur.com/A0yjhma.jpg" title="source: imgur.com" /></a><br><p></p><br>
-<a href="https://imgur.com/A6VRVMm"><img src="https://i.imgur.com/A6VRVMm.jpg" title="source: imgur.com" /></a><br><p></p><br>
+<a href="https://imgur.com/A6VRVMm"><img src="https://i.imgur.com/A6VRVMm.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/UvMl0eo"><img src="https://i.imgur.com/UvMl0eo.jpg" title="source: imgur.com" /></a><br><p></p>
 <a href="https://imgur.com/AYUL0Db"><img src="https://i.imgur.com/AYUL0Db.jpg" title="source: imgur.com" /></a><br><p>Nắng rất gắt, mồ hôi nhễ nhại. Chưa biết pose kiểu gì ;( </p><a href="https://imgur.com/BWVw46B"><img src="https://i.imgur.com/BWVw46B.jpg" title="source: imgur.com" /></a><br><p></p>
 <a href="https://imgur.com/1g0VE4C"><img src="https://i.imgur.com/1g0VE4C.jpg" title="source: imgur.com" /></a><br><p>Đây, lẹ đi 😎</p>
 <a href="https://imgur.com/c4Ipfaq"><img src="https://i.imgur.com/c4Ipfaq.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/wwsEWCs"><img src="https://i.imgur.com/wwsEWCs.png" title="source: imgur.com" /></a>
