@@ -9,14 +9,14 @@ image: assets/images/nhiepanh/dam-me-nhiep-anh-avt.webp
 rating: 5
 isGithubComments: false
 permalink: tan-man/hanh-phuc-roi-se-toi
-excerpt: Điều góp phần có tình yêu hạnh phúc là biết chụp ảnh cho phụ nữ
-description: Điều góp phần có tình yêu hạnh phúc là biết chụp ảnh cho phụ nữ
+excerpt: Điều góp phần có tình yêu hạnh phúc
+description: Điều góp phần có tình yêu hạnh phúc
 comments_id: 12
 adsense: "enabled"
 keywords:
   - Tay nghề kém cứ đổ lỗi cho mẫu xấu là sao?
   - Chụp hình dùm là công việc cần tịnh tâm, sẽ có nhiều người vừa coi hình là chê liền xấu quá chụp lại đi
-date: '2023-10-15'
+date: 2023-10-15 15:10:15 +0700
 ---
 
 > Bài viết đang trong quá trình phát triển, vui lòng quay lại sau!!!😅
