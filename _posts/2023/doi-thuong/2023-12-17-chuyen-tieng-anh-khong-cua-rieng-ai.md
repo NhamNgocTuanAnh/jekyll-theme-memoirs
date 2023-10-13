@@ -5,7 +5,7 @@ author: sal
 lazyimages: "enabled"
 categories: [ Sức khỏe 💪]
 tags: [tips chụp ảnh]
-image: assets/images/nhiepanh/dam-me-nhiep-anh-avt.webp
+image: assets/images/2023/ngam/avt/ky-nang-mem.webp
 rating: 5
 isGithubComments: false
 permalink: doi-thuong/chuyen-tieng-anh
