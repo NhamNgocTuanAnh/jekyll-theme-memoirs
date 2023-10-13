@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mày phải có năng khiếu mới học được tiếng anh!!! - [Chúng ta xứng đáng có một cuộc sống tốt hơn!]'
+title: 'Mày phải có năng khiếu mới học được tiếng anh!!! - [Chúng ta xứng đáng có một cuộc sống tốt hơn!] - đang phát triển'
 author: sal
 lazyimages: "enabled"
 categories: [ Sức khỏe 💪]
