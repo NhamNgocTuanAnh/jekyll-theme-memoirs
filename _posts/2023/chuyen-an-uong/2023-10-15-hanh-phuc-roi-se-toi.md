@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 'Hạnh phúc rồi sẽ tới'
-author: sal
+author: minh
 lazyimages: "enabled"
-categories: [ Sức khỏe 💪]
-tags: [tips chụp ảnh]
+categories: [ Tản mạn 📓 ]
+tags: [ngẫm]
 image: assets/images/nhiepanh/dam-me-nhiep-anh-avt.webp
 rating: 5
 isGithubComments: false

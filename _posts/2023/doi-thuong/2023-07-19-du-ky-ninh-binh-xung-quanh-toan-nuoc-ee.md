@@ -22,6 +22,7 @@ keywords:
   - Hang múa
   - Tuyệt Tịnh Cốc
 date: 2023-07-07 07:07:07 +0700
+pinned: true
 ---
 
 Nghỉ hè rồi bạn ơi. Đã lâu rồi không đi cùng gia đình. Thật tình cờ Ninh bình ngay gần bạn.
