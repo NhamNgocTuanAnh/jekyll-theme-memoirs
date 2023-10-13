@@ -9,8 +9,8 @@ image: assets/images/2023/ngam/avt/ky-nang-mem.webp
 rating: 5
 isGithubComments: false
 permalink: doi-thuong/chuyen-tieng-anh
-excerpt: Điều góp phần có tình yêu hạnh phúc là biết chụp ảnh cho phụ nữ
-description: Điều góp phần có tình yêu hạnh phúc là biết chụp ảnh cho phụ nữ
+excerpt: Mày phải có năng khiếu mới học được tiếng anh!!!
+description: Mày phải có năng khiếu mới học được tiếng anh!!!
 comments_id: 12
 adsense: "enabled"
 keywords:
