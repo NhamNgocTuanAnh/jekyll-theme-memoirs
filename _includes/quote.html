@@ -1,24 +1,4 @@
-<style>
-.quotemark{position:relative;top:-12px;padding-right:10px}blockquote{border-left:10px solid #490A3D;margin:30px 10px;padding:10px 30px}blockquote:before{color:#ccc;line-height:.1em;margin-right:.25em;vertical-align:-.4em}blockquote footer{font-size:18px;text-align:right}.quotebox{background:#fff;max-width:543px;min-height:100px;border:1px solid #222;border-radius:5px;margin:10px}.quotebutton{display:inline-block;padding:6px 12px}#quotesource{margin-top:20px}.btn{margin-bottom:10px}.social-icons{padding:6px 12px;display:inline-block}.social-icons .fa{font-size:1.8em;width:40px;height:40px;line-height:40px;text-align:center;color:#FFF;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-ms-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out}.social-icons.icon-rounded .fa{border-radius:5px}.social-icons .fa:hover,.social-icons .fa:active{color:#FFF;-webkit-box-shadow:1px 1px 3px #333;-moz-box-shadow:1px 1px 3px #333;box-shadow:1px 1px 3px #333}.social-icons .fa-twitter{background-color:#490A3D;border-color:none}.btn-primary{width:100px;height:40px;border:none;background:#490A3D}@media only screen and (max-width: 768px){#quotetext{font-size:25px}.container{margin-right:20px}}@media only screen and (max-width: 320px){#quotetext{font-size:18px}}
-</style>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v16.0&appId=2086804534891096&autoLogAppEvents=1" nonce="y8xxA5Uo"></script>
-<script>
-const colors=["#490A3D","#BD1550","#E97F02","#F8CA00","#8A9B0F","#69D2E7","#FA6900","#16a085","#27ae60","#2c3e50","#f39c12","#e74c3c","#9b59b6","#FB6964","#342224","#472E32","#77B1A9","#73A857"];
-
-let quotes = {{site.data.quotes | jsonify}};
-let total = 0;
-{% assign totalYaml = 0 %}
-{% for post in site.data.quotes %}
-    {% assign totalYaml = totalYaml | plus: 1 %}
-    total = {{totalYaml}};
-{% endfor %}
-
-let quotesLength=total||0,currentQuote="",currentAuthor="",randomquote=100,randomcolor="";
-</script>
-
-<style>
-.ticket3{position:relative;display:flex;flex-direction:row;filter:drop-shadow(2px 5px 5px rgba(0,0,0,0.15))}.ticket3__details{flex:3;background-color:#fff;min-height:150px;padding:1rem;border-radius:5px 0 0 5px}.ticket3__details .ticket3__title{margin-top:0}.ticket3__details ul{margin:0;padding:0;list-style:none}.ticket3__details ul li{margin:.7rem 0}.ticket3__rip{position:relative;background-color:#fff;background-image:linear-gradient(90deg,#fff 49%,#e91e63 50%);margin:10px 0;width:20px}.ticket3__rip::before,.ticket3__rip::after{position:absolute;content:"";width:20px;height:20px;border:5px solid transparent;border-top-color:#fff;left:50%;transform:translateX(-50%) rotate(135deg);border-radius:50%}.ticket3__rip::before{top:- 25px;border-top-color:#e91e63;border-right-color:#fff}.ticket3__rip::after{border-right-color:#e91e63;border-top-color:#fff;bottom:- 25px;transform:translateX(-50%) rotate(-45deg)}.ticket3__price{display:flex;flex-direction:column;align-items:center;justify-content:center;flex:1;background-color:#e91e63;min-height:150px;padding:1rem;border-radius:0 5px 5px 0;color:#fff}.ticket3__price .heading{font-size:1rem;margin-bottom:.6rem;color:#ffcdde;margin-left:-5px}.ticket3__price .price{font-size:2rem;font-weight:700;margin-left:-5px}
-</style>
+<!-- <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v16.0&appId=2086804534891096&autoLogAppEvents=1" nonce="y8xxA5Uo"></script> -->
 
 <div class="article-post">
 	<hr style="border: 1px solid #000000;">
@@ -30,27 +10,10 @@ let quotesLength=total||0,currentQuote="",currentAuthor="",randomquote=100,rando
     <p>Bạn có thể vào <a href="https://www.facebook.com/media/set/?vanity=nntatlu&set=a.2574616576014311" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>đây</a> để xem "kẻ dại khờ" này đi tìm những nơi vắng vẻ! <p id='replace-day'>Chúc một buổi sáng vui vẻ!!👨‍🚀</p></p>
 <hr style="border: 1px solid #000000;"><div class="ticket3" style="background-color: lightblue;"> <div class="ticket3__details"> <h3 class="ticket3__title">Anh hàng xóm</h3> 'Anh hàng xóm' là blog phi lợi nhuận, miễn phí - Sự ủng hộ của bạn luôn là điều quan trọng giúp blog tồn tại cùng với đó là phát triển mạnh mẽ hơn nữa. Bạn có thể ủng hộ cho blog<br>ヾ (⌐ ■ _ ■) ノ ♪</div> <div class="ticket3__rip"></div> <div class="ticket3__price"> <h1 class="heading" style="text-align:center;"><a href="{{ site.baseurl }}/ung-ho">👇<br>tại ĐÂY</a></h1> </div></div></div><br><br><iframe src="https://www.facebook.com/plugins/page.php?href=https://www.facebook.com/xomnghienngap&tabs&width=340&height=70&small_header=true&adapt_container_width=false&hide_cover=true&show_facepile=false&appId=2086804534891096" width="340" height="70" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 </div>
-<script>
-function inIframe(){try{return window.self!==window.top}catch(t){return!0}}function getQuote(){if(quotes){randomquote=Math.floor(Math.random()*(quotesLength-1)),randomcolor=Math.floor(Math.random()*colors.length);
-    console.log(quotes+" fix");
-    let t=quotes.find(obj => {
-  return obj.id == randomquote
-});
-randomquote<quotesLength?(currentQuote= t && t.content ? t.content: "100",currentAuthor= t && t.author? t.author:"100","100"!=currentQuote&&"100"!=currentAuthor?(inIframe()&&$("#tweet-quote").attr("href","https://twitter.com/intent/tweet?hashtags=quotes&related=aLamm&text="+encodeURIComponent('"'+currentQuote+'" '+currentAuthor)),$(document).ready(function(){$("#newquote, .social-icons .fa-twitter").animate({backgroundColor:colors[randomcolor]},500),$("blockquote footer-tem").animate({color:colors[randomcolor]},500),$("blockquote").animate({borderLeftColor:colors[randomcolor]},500),$("#quotetext").animate({opacity:0},500,function(){$(this).animate({opacity:1},500),$(this).text(currentQuote)}),$("#quotesource").animate({opacity:0},500,function(){$(this).animate({opacity:1},500),$(this).text(currentAuthor)})})):("100"==currentQuote||"100"==currentAuthor)&&getQuote()):getQuote()}else getQuote(),createQuotesStore()}function openURL(t){window.open(t,"Share","width=550, height=400, toolbar=0, scrollbars=1 ,location=0 ,statusbar=0,menubar=0, resizable=0")}getQuote(),$(document).ready(function(){$("#newquote").on("click",getQuote),$("#tweetquote").on("click",function(){inIframe()||openURL("https://twitter.com/intent/tweet?hashtags=quotes&related=freecodecamp&text="+encodeURIComponent('"'+currentQuote+'" '+currentAuthor))})});
-</script>
-
 <style>
 .fb-column {padding:0px;text-align:center;width:100%;}
 iframe {display:block;margin:0 auto;}
 </style>
-
-<!--
-  <div class="fb-column">
-  <iframe id="fbContent" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-</div>
-  <script>
-jQuery(document).ready(function(t){function e(){var e=(Number(t(".fb-column").width())-Number(t(".fb-column").css("padding-left").replace("px",""))).toFixed(0);500<e&&(e=500),document.getElementById("fbContent").src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fxomnghienngap&tabs=timeline&width="+e+"&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId",document.getElementById("fbContent").width=e}t(window).on("resize",function(){setTimeout(function(){e()},500)}),t(window).on("load",function(){setTimeout(function(){e()},1500)}),e()});
-</script> -->
 
 <script>
   window.fbAsyncInit = function() {
