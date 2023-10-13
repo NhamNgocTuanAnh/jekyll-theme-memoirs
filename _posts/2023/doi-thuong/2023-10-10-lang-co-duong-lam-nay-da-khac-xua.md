@@ -95,7 +95,3 @@ Mình không chắc sẽ quay trở lại đây nữa. Hy vọng trưởng 
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/Z1nm0Gj"><img src="https://i.imgur.com/Z1nm0Gj.jpg" title="source: imgur.com" /></a><br><p>Tạm biệt và hẹn gặp lại ;)</p><br></div>
 
-<style>
-.box{display:flex;align-items:center;justify-content:center;background:#aaa;margin:20px 0;width:100%;min-height:200px;border:2px #ccc solid;color:#fff}.row{display:flex;flex-wrap:wrap;padding:0 4px}.column{flex:25%;max-width:25%;padding:0 4px}.column img{margin-top:8px;vertical-align:middle;width:100%}@media screen and (max-width: 800px){.column{flex:50%;max-width:50%}}@media screen and (max-width: 600px){.column{flex:100%;max-width:100%}}video{max-width:100%;height:auto}
-</style>
-
