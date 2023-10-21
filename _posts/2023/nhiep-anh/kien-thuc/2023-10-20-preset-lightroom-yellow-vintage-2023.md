@@ -8,19 +8,19 @@ tags: [preset, lightroom, lightroom mobile]
 image: assets/images/2023/nhiep-anh/avt/Chia sẻ Preset Lightroom Yellow Vintage - by anhhangxom(Mobile and PC).webp
 isGithubComments: false
 permalink: nhiep-anh/preset/lightroom-yellow-vintage-2023
-excerpt: Sen bắt đầu rộ bông vào những ngày cuối tháng 5 đầu tháng 6.  Bước vào mùa hè, thời tiết bắt đầu oi nóng, chính vì vậy những dịp đi xa khỏi thành phố để tận hưởng không khí trong lành, cùng với đó là sở hữu những tấm ảnh tuyệt vời quả là vui và thú vị phải không nào??. Và dưới đây mình sẽ đưa ra một số kinh nghiệm để các bạn có thể chụp ảnh với sen được tốt nhất nhé.
+excerpt: 1 Preset với tone màu nhẹ nhàng dành cho các địa điểm picnic, dã ngoại.
 adsense: "enabled"
 keywords:
-  - chụp sen
-  - chụp chân dung sen
-  - tạo dáng chụp sen
-  - chụp sen ở đâu hà nội
-  - chụp ảnh hoa sen
+  - Preset lightroom
+  - lightroom dã ngoại
+  - dã ngoại
+  - tone màu nhẹ nhàng
+  - lightroom dã ngoại
 date: 2023-10-20 20:10:00 +0700
 pinned: true
 ---
 
-Nhắc tới những chuyến du lịch mùa hè sắp tới thì không thể bỏ qua Preset Lightroom Yellow Vintage hoa vàng cổ điển vô cùng thích chụp ảnh ngoài trời và đặc biệt là những cánh đồng cỏ bao la hay vườn hoa đầy màu sắc. Preset này thiên về tone màu ấm nên sẽ loại bỏ bớt các mảng màu xanh lạnh và tinh chỉnh lại màu vàng để bức ảnh trông nổi bật hơn. Hơn thế nữa, Preset này mang đến cảm giác hơi buồn và tâm trạng, phù hợp với các bạn thích tông màu cổ điển. Nếu muốn ảnh của mình thêm lung linh, hoàn hơn hơn thì các bạn nên chỉnh sửa và chau chuốt, đặc biệt là với các bức ảnh ngược sáng hay quá chói. Đây là 1 Preset với tone màu thật yên bình, nhẹ nhàng dành riêng cho các địa điểm picnic, dã ngoại với bạn bè mà bạn không thể thiếu.
+1 Preset với tone màu nhẹ nhàng dành cho các địa điểm picnic, dã ngoại.
 
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/n2evGeq"><img src="https://i.imgur.com/n2evGeq.jpg" title="source: imgur.com" /></a><br><p></p>
