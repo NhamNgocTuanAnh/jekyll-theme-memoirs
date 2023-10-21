@@ -25,8 +25,10 @@ pinned: true
 Nhắc tới những chuyến du lịch mùa hè sắp tới thì không thể bỏ qua Preset Lightroom Yellow Vintage hoa vàng cổ điển vô cùng thích chụp ảnh ngoài trời và đặc biệt là những cánh đồng cỏ bao la hay vườn hoa đầy màu sắc. Preset này thiên về tone màu ấm nên sẽ loại bỏ bớt các mảng màu xanh lạnh và tinh chỉnh lại màu vàng để bức ảnh trông nổi bật hơn. Hơn thế nữa, Preset này mang đến cảm giác hơi buồn và tâm trạng, phù hợp với các bạn thích tông màu cổ điển. Nếu muốn ảnh của mình thêm lung linh, hoàn hơn hơn thì các bạn nên chỉnh sửa và chau chuốt, đặc biệt là với các bức ảnh ngược sáng hay quá chói. Đây là 1 Preset với tone màu thật yên bình, nhẹ nhàng dành riêng cho các địa điểm picnic, dã ngoại với bạn bè mà bạn không thể thiếu.
 
 <div class="content" style="text-align:center; ">
-
-</div>
+<a href="https://imgur.com/n2evGeq"><img src="https://i.imgur.com/n2evGeq.jpg" title="source: imgur.com" /></a><br><p></p>
+<a href="https://imgur.com/foWNbOU"><img src="https://i.imgur.com/foWNbOU.jpg" title="source: imgur.com" /></a><br><p></p>
+<a href="https://imgur.com/Te0zBxf"><img src="https://i.imgur.com/Te0zBxf.jpg" title="source: imgur.com" /></a><a href="https://imgur.com/Y5VhfR9"><img src="https://i.imgur.com/Y5VhfR9.jpg" title="source: imgur.com" /></a><br><p></p>
+<a href="https://imgur.com/I3vT3aI"><img src="https://i.imgur.com/I3vT3aI.jpg" title="source: imgur.com" /></a><br><p></p><br></div>
 
 <h2 style="font-style:normal; margin-left:0; margin-right:0; text-align:start"><strong>Tải về</strong></h2>
 
