@@ -4,7 +4,7 @@ title: 'Chia sẻ Preset Lightroom Yellow Vintage - by anhhangxom(Mobile and PC)
 author: sal
 lazyimages: "enabled"
 categories: [ Nhiếp ảnh 📸 ]
-tags: [preset, lightroom]
+tags: [preset, lightroom, lightroom mobile]
 image: assets/images/2023/nhiep-anh/avt/sen-dau-mua-avt.webp
 isGithubComments: false
 permalink: nhiep-anh/preset/lightroom-yellow-vintage-2023
