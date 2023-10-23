@@ -5,7 +5,7 @@ author: sal
 lazyimages: "enabled"
 categories: [ Nhiếp ảnh 📸 ]
 tags: [preset, lightroom, lightroom mobile]
-image: assets/images/2023/nhiep-anh/avt/Chia sẻ Preset Lightroom Yellow Vintage - by anhhangxom(Mobile and PC).webp
+image: assets/images/2023/nhiep-anh/avt/Chia sẻ Preset Lightroom Lowkey - by anhhangxom(Mobile and PC)-avt.webp
 isGithubComments: false
 permalink: nhiep-anh/preset/Chia sẻ Preset Lightroom Lowkey - by anhhangxom(Mobile and PC)-avt.webp
 excerpt: 1 Preset với tone màu nhẹ nhàng dành cho các địa điểm picnic, dã ngoại.
