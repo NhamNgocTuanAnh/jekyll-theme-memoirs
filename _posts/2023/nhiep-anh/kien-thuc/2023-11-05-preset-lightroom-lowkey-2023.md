@@ -7,7 +7,7 @@ categories: [ Nhiếp ảnh 📸 ]
 tags: [preset, lightroom]
 image: assets/images/2023/nhiep-anh/avt/Chia sẻ Preset Lightroom Lowkey - by anhhangxom(Mobile and PC)-avt.webp
 isGithubComments: false
-permalink: nhiep-anh/preset/Chia sẻ Preset Lightroom Lowkey - by anhhangxom(Mobile and PC)-avt.webp
+permalink: nhiep-anh/preset/lightroom-lowkey-2023
 excerpt: 1 Preset với tone màu nhẹ nhàng dành cho các địa điểm picnic, dã ngoại.
 adsense: "enabled"
 keywords:
