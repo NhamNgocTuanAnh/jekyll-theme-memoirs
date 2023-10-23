@@ -4,7 +4,7 @@ title: 'Chia sẻ Preset chụp ảnh lowkey - by anhhangxom(Mobile and PC)'
 author: sal
 lazyimages: "enabled"
 categories: [ Nhiếp ảnh 📸 ]
-tags: [preset, lightroom, lightroom mobile]
+tags: [preset, lightroom]
 image: assets/images/2023/nhiep-anh/avt/Chia sẻ Preset Lightroom Lowkey - by anhhangxom(Mobile and PC)-avt.webp
 isGithubComments: false
 permalink: nhiep-anh/preset/Chia sẻ Preset Lightroom Lowkey - by anhhangxom(Mobile and PC)-avt.webp
