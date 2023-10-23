@@ -35,6 +35,5 @@ pinned: true
 </table>
 
 <style>
-table{border-collapse:collapse;border-spacing:0;margin:0 auto;width:700px}table td,table th{border:1px solid #ccc;padding:10px}table th{background-color:#f3f3f3}kground-color: #f3f3f3;
-}
+table{border-collapse:collapse;border-spacing:0;margin:0 auto;width:700px}table td,table th{border:1px solid #ccc;padding:10px}table th{background-color:#f3f3f3}@media only screen and (max-width:700px){table{margin:0 10px;width:auto}}@media only screen and (max-width:480px){table td,table th{display:block;border-bottom:none}table tr:last-child td{border-bottom:1px solid #ccc}}
 </style>
