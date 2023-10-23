@@ -20,9 +20,19 @@ keywords:
 date: '2023-01-25'
 ---
 
- **Đánh giá chi tiết về Brightin Star 10mm F5.6**
+**Đánh giá chi tiết về Brightin Star 10mm F5.6**
 
 Brightin Star 10mm F5.6 là một ống kính fisheye manual focus dành cho máy ảnh mirrorless APS-C. Ống kính có góc nhìn rộng 180 độ, tạo ra những bức ảnh và video có hiệu ứng độc đáo.
+
+**Thông số kỹ thuật**
+
+*   **Độ dài tiêu cự:** 10mm
+*   **Khẩu độ tối đa:** f/5.6
+*   **Khẩu độ tối thiểu:** f/22
+*   **Góc nhìn:** 180 độ
+*   **Độ dài tối thiểu:** 10cm
+*   **Kích thước:** 62mm x 30mm
+*   **Trọng lượng:** 150g
 
 **Ưu điểm:**
 
@@ -36,6 +46,10 @@ Brightin Star 10mm F5.6 là một ống kính fisheye manual focus dành cho má
 
 *   Khẩu độ tối đa f/5.6 hơi nhỏ
 *   Không có tính năng ổn định hình ảnh
+
+**Cầm trên tay - cảm giác sử dụng**
+
+Brightin Star 10mm F5.6 có kích thước nhỏ gọn và trọng lượng nhẹ, giúp bạn cầm nắm và sử dụng dễ dàng. Ống kính này được làm bằng nhựa, nhưng chất lượng hoàn thiện vẫn khá tốt.
 
 **So sánh với các đối thủ**
 
