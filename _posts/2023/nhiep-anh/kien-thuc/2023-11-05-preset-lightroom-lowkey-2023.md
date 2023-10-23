@@ -12,10 +12,13 @@ excerpt: 1 Preset với tone màu nhẹ nhàng dành cho các địa điểm pic
 adsense: "enabled"
 keywords:
   - Preset lightroom
-  - lightroom dã ngoại
-  - dã ngoại
-  - tone màu nhẹ nhàng
-  - lightroom dã ngoại
+  - lightroom lowkey
+  - Preset lightroom lowkey nam đẹp
+  - Preset lightroom lowkey nữ cá tính
+  - Preset lightroom phong cảnh lowkey ấn tượng
+  - Preset lightroom kiến trúc lowkey độc đáo
+  - Preset lightroom chân dung lowkey nghệ thuật
+  - Preset lightroom wedding lowkey lãng mạn
 date: 2023-11-05 05:11:00 +0700
 pinned: true
 ---
