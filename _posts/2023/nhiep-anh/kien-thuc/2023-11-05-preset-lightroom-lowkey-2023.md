@@ -29,7 +29,7 @@ Lowkey là một phong cách chụp ảnh lấy tông đen làm chủ đạo, t�
 
 Để sử dụng preset chụp ảnh lowkey nam, bạn cần tải preset về máy tính hoặc điện thoại. Sau đó, bạn mở ảnh cần chỉnh sửa bằng phần mềm chỉnh ảnh như Lightroom hoặc Photoshop. Tiếp theo, bạn import preset vào phần mềm. Cuối cùng, bạn điều chỉnh các thông số của preset để phù hợp với ảnh của mình.
 
-**Một số ảnh lowkey  đẹp**
+**Một số ảnh lowkey đẹp**
 
 <div class="content" style="text-align:center; ">
 
