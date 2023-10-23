@@ -32,8 +32,7 @@ Lowkey là một phong cách chụp ảnh lấy tông đen làm chủ đạo, t�
 **Một số ảnh lowkey đẹp**
 
 <div class="content" style="text-align:center; ">
-
-
+<a href="https://imgur.com/d9xqWuv"><img src="https://i.imgur.com/d9xqWuv.jpg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/BEJw5Ey"><img src="https://i.imgur.com/BEJw5Ey.jpg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/ChvesQy"><img src="https://i.imgur.com/ChvesQy.jpg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/ChvesQy"><img src="https://i.imgur.com/ChvesQy.jpg" title="source: imgur.com" /></a>
 </div>
 
 
