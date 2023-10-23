@@ -23,7 +23,6 @@ date: 2023-11-05 05:11:00 +0700
 pinned: true
 ---
 
-
 **Preset chụp ảnh lowkey nam**
 
 Lowkey là một phong cách chụp ảnh lấy tông đen làm chủ đạo, tạo ra những bức ảnh ấn tượng và đầy cảm xúc. Phong cách này rất thích hợp để chụp ảnh nam giới, giúp tôn lên vẻ đẹp nam tính và mạnh mẽ.
