@@ -5,9 +5,9 @@ author: sal
 lazyimages: "enabled"
 categories: [ Reviews 📝 ]
 tags: [đánh giá, nhiếp ảnh]
-image: assets/images/2023/reviews/avt/danh-gia-sony-a6000-nguoi-dung.webp
+image: assets/images/2023/reviews/avt/Star-Prime-F5-6-Fisheye.jpg
 rating: 4.5
-permalink: reviews/nhiep-anh/2023-10-25-danh-gia-Brightin-Star-10mm-F5-6
+permalink: reviews/nhiep-anh/2023-01-25-danh-gia-Brightin-Star-10mm-F5-6
 excerpt: Brightin Star 10mm F5.6 là một ống kính fisheye giá rẻ với góc nhìn rộng 180 độ, tạo ra những bức ảnh và video có hiệu ứng độc đáo.
 description: Brightin Star 10mm F5.6 là một ống kính fisheye giá rẻ với góc nhìn rộng 180 độ, tạo ra những bức ảnh và video có hiệu ứng độc đáo.
 adsense: "enabled"
@@ -17,7 +17,7 @@ keywords:
   - Ống kính phù hợp cho phong cảnh, kiến trúc và chân dung
   - Brightin Star 10mm F5.6
   - Đánh giá Brightin Star 10mm F5.6
-date: '2023-10-25'
+date: '2023-01-25'
 ---
 
  **Đánh giá chi tiết về Brightin Star 10mm F5.6**
