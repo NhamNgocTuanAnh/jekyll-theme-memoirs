@@ -34,8 +34,10 @@ Lowkey là một phong cách chụp ảnh lấy tông đen làm chủ đạo, t�
 **Một số ảnh lowkey đẹp**
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/d9xqWuv"><img src="https://i.imgur.com/d9xqWuv.jpg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/BEJw5Ey"><img src="https://i.imgur.com/BEJw5Ey.jpg" title="source: imgur.com" /></a><p></p><br><a data-pin-do="embedPin" href="https://www.pinterest.com/pin/691513717813447550" data-pin-width="large" ></a><script async type="text/javascript" src="https://assets.pinterest.com/js/pinit.js"></script>
+<a href="https://imgur.com/d9xqWuv"><img src="https://i.imgur.com/d9xqWuv.jpg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/BEJw5Ey"><img src="https://i.imgur.com/BEJw5Ey.jpg" title="source: imgur.com" /></a><p></p><br>
 </div>
+
+{% include lazyload.html image_src="https://i.pinimg.com/originals/27/b5/1f/27b51f31719e70d535cb21db1c273abf.jpg" image_alt="Cầm mic" image_title="Cầm mic"%}
 
 **Lưu ý khi sử dụng preset chụp ảnh lowkey nam**
 
@@ -57,4 +59,12 @@ Preset chụp ảnh lowkey nam là một công cụ hữu ích giúp bạn tạo
 
 <style>
 table{border-collapse:collapse;border-spacing:0;margin:0 auto;width:700px}table td,table th{border:1px solid #ccc;padding:10px}table th{background-color:#f3f3f3}@media only screen and (max-width:700px){table{margin:0 10px;width:auto}}@media only screen and (max-width:480px){table td,table th{display:block;border-bottom:none}table tr:last-child td{border-bottom:1px solid #ccc}}
+#pinterest-container > span {
+    width: 100% !important;
+    overflow: hidden;
+}
+
+#pinterest-container > span > span > span > span {
+    min-width: 0;
+}
 </style>
