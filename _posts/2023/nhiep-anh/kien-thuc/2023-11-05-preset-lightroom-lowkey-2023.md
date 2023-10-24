@@ -59,12 +59,4 @@ Preset chụp ảnh lowkey nam là một công cụ hữu ích giúp bạn tạo
 
 <style>
 table{border-collapse:collapse;border-spacing:0;margin:0 auto;width:700px}table td,table th{border:1px solid #ccc;padding:10px}table th{background-color:#f3f3f3}@media only screen and (max-width:700px){table{margin:0 10px;width:auto}}@media only screen and (max-width:480px){table td,table th{display:block;border-bottom:none}table tr:last-child td{border-bottom:1px solid #ccc}}
-#pinterest-container > span {
-    width: 100% !important;
-    overflow: hidden;
-}
-
-#pinterest-container > span > span > span > span {
-    min-width: 0;
-}
 </style>
