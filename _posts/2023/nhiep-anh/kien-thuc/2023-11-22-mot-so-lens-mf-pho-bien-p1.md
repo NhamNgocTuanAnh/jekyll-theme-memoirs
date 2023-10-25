@@ -14,7 +14,7 @@ keywords:
   - Máy ảnh Entry-level là gì?
   - Tại sao mua máy ảnh cũ
   - Định hướng nhiếp ảnh là gì?
-date: 2023-11-22 10:01:10 +0700
+date: 2023-11-22 22:11:22 +0700
 permalink: nhiep-anh/kien-thuc/mot-so-lens-mf-pho-bien-tai-viet-nam-p1
 ---
 
