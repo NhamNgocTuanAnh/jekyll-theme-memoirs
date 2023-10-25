@@ -20,7 +20,7 @@ permalink: nhiep-anh/kien-thuc/mot-so-lens-mf-pho-bien-tai-viet-nam-p1
 
 Lens MF (Manual Focus) đã và đang trở thành một lựa chọn phổ biến trong cộng đồng nhiếp ảnh tại Việt Nam. Dưới đây, chúng tôi sẽ tổng hợp thông tin chi tiết và cảm nhận của người dùng về một số lens MF phổ biến tại đất nước này.
 
-1\. \*\*Helios 44-2 58mm f/2.0\*\*
+1\. \*\*Helios 44-2 58mm f/2.0\*\* Ống kính có giá thành rẻ, chỉ khoảng 1.000.000 - 2.000.000 VNĐ, phù hợp với nhiều người dùng.
   - \*\*Thông tin chi tiết\*\*: Helios 44-2 là một lens MF nổi tiếng được sản xuất ở Liên Xô, có khả năng tạo ra hiệu ứng "bokeh" độc đáo với lưỡi lá khẩu độ 8 cạnh. Nó thường có độ sắc nét ổn định ở khẩu độ 2.0 và tạo ra hình ảnh có tính nghệ thuật độc đáo.
 
   - \*\*Cảm nhận người dùng\*\*: Lens này thường được người dùng yêu thích vì giá cả hợp lý và khả năng tạo nên những bức ảnh đẹp với bokeh độc đáo. Tuy nhiên, việc chỉ có khả năng chụp MF có thể là một thách thức đối với những người mới bắt đầu.
