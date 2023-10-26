@@ -11,9 +11,20 @@ excerpt: Bạn tính toán chi li, đắn đo từng chút một như 700d hay d
 description: Bạn tính toán chi li, đắn đo từng chút một như 700d hay d3400 chụp nét hơn, thì bài viết này là của bạn. Những chiếc máy entry-level rẻ những cũng là đắt. Tại sao vậy?
 adsense: "enabled"
 keywords:
-  - Máy ảnh Entry-level là gì?
-  - Tại sao mua máy ảnh cũ
-  - Định hướng nhiếp ảnh là gì?
+  - máy ảnh Entry-level là gì?
+  - tại sao mua máy ảnh cũ
+  - định hướng nhiếp ảnh là gì?
+  - máy ảnh mirrorless cho người mới bắt đầu
+  - máy ảnh cơ cho người mới bắt đầu
+  - các loại máy ảnh cho người mới
+  - máy ảnh kỹ thuật số cho người mới bắt đầu
+  - máy ảnh cho người mới bắt đầu dưới 5 triệu
+  - máy ảnh cho người mới bắt đầu giá rẻ
+  - máy ảnh giá rẻ cho người mới bắt đầu
+  - combo máy ảnh cho người mới
+  - máy ảnh dslr cho người mới bắt đầu
+  - máy ảnh cho người mới bắt đầu
+  - máy ảnh canon cho người mới bắt đầu
 date: 2023-04-08 10:01:10 +0700
 permalink: nhiep-anh/kien-thuc/tai-sao-khong-nen-mua-may-anh-entry-level
 ---
