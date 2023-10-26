@@ -16,6 +16,12 @@ keywords:
   - canon 800d
   - máy ảnh cho người mới
   - canon 800d đánh giá
+  - 800d
+  - canon eos800d
+  - canon d800
+  - 800d cũ
+  - canon 800d cũ
+  - gia canon 800d
 ---
 
 **Đánh giá:** Khá tốt (4/5)<br>
