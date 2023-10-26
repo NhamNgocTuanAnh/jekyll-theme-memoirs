@@ -13,6 +13,28 @@ keywords:
   - DSLR đã chết
   - Mirrorless hay DSLR
   - Có nên mua DSLR
+  - Tại sao mua máy ảnh cũ
+  - Định hướng nhiếp ảnh là gì?
+  - máy ảnh mirrorless cho người mới bắt đầu
+  - máy ảnh cơ cho người mới bắt đầu
+  - các loại máy ảnh cho người mới
+  - máy ảnh kỹ thuật số cho người mới bắt đầu
+  - máy ảnh cho người mới bắt đầu dưới 5 triệu
+  - máy ảnh cho người mới bắt đầu giá rẻ
+  - máy ảnh giá rẻ cho người mới bắt đầu
+  - combo máy ảnh cho người mới
+  - máy ảnh dslr cho người mới bắt đầu
+  - máy ảnh cho người mới bắt đầu
+  - máy ảnh canon cho người mới bắt đầu
+  - dslr la gi
+  - dslr
+  - canon 6d mark iv
+  - nikon d5
+  - nikon d750
+  - nikon d7200
+  - nikon d3200
+  - canon 6d mark
+  - d7200
 date: 2023-03-12 10:01:10 +0700
 permalink: nhiep-anh/reviews/tam-biet-canon-5d2
 ---
