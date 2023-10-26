@@ -17,6 +17,7 @@ keywords:
   - Đánh giá lens Meike 25mm
   - LensCanon
   - CanonLens
+  - meike 25mm f1 8
 date: 2023-03-24 10:01:10 +0700
 permalink: nhiep-anh/reviews/danh-gia-meike-25mm-f18-ong-kinh-mirrorless-apsc-gia-sinh-vien-khau-do-lon
 ---
