@@ -14,6 +14,13 @@ keywords:
   - Canon G1X
   - Canon G1X cũ
   - Canon G1X đánh giá
+  - canon g1x mark ii
+  - canon powershot g1x
+  - g1x
+  - canon power shot g1x
+  - powershot g1x ii
+  - canon g1x cũ
+  - canon g1x ii
 ---
 
 **Đánh giá: Tốt** <br>
