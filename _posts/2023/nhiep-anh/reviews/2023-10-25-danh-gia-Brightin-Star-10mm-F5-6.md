@@ -17,6 +17,9 @@ keywords:
   - Ống kính phù hợp cho phong cảnh, kiến trúc và chân dung
   - Brightin Star 10mm F5.6
   - Đánh giá Brightin Star 10mm F5.6
+  - brightin star lens
+  - brightin star lens review
+  - brightin star lenses
 date: '2023-01-25'
 ---
 
