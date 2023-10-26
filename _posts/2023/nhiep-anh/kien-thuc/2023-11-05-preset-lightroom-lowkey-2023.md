@@ -19,6 +19,14 @@ keywords:
   - Preset lightroom kiến trúc lowkey độc đáo
   - Preset lightroom chân dung lowkey nghệ thuật
   - Preset lightroom wedding lowkey lãng mạn
+  - free lightroom presets
+  - adobe lightroom presets
+  - photo presets
+  - lightroom presets for portraits
+  - lightroom film presets
+  - professional lightroom presets
+  - cinematic lightroom presets
+  - cinematic presets
 date: 2023-11-05 05:11:00 +0700
 pinned: true
 ---

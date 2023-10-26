@@ -16,6 +16,14 @@ keywords:
   - dã ngoại
   - tone màu nhẹ nhàng
   - lightroom dã ngoại
+  - free lightroom presets
+  - adobe lightroom presets
+  - photo presets
+  - lightroom presets for portraits
+  - lightroom film presets
+  - professional lightroom presets
+  - cinematic lightroom presets
+  - cinematic presets
 date: 2023-10-20 20:10:00 +0700
 pinned: true
 ---
