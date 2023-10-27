@@ -15,6 +15,9 @@ adsense: "enabled"
 keywords:
   - Nhận diện cảm xúc khuôn mặt
   - Công nghệ nhận diện cảm xúc
+  - chấm công nhận diện khuôn mặt
+  - mô hình hệ thống nhận dạng khuôn mặt
+  - emotion recognition
 ---
 
 Làm thế nào để giữ được code dễ hiểu của python nhưng lại có tốc độ cao gần như C++? Xử lý một khuôn mặt đã khó, rồi phải đưa khuôn mặt ấy vào để xác định cảm xúc. Làm sao với phần cứng chỉ dùng cpu có thể xử lý nhiều khuôn mặt trong cùng một lúc?

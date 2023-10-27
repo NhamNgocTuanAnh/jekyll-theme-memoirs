@@ -15,6 +15,9 @@ adsense: "enabled"
 keywords:
   - Nhận diện cảm xúc khuôn mặt
   - Công nghệ nhận diện cảm xúc
+  - chấm công nhận diện khuôn mặt
+  - mô hình hệ thống nhận dạng khuôn mặt
+  - emotion recognition
 ---
 
 Trong phần 3 này. Chúng ta sẽ đi thẳng vào xây dựng mô hình CNN cho model nhận dạng đã được viết ở phần 2.

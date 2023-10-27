@@ -15,6 +15,9 @@ adsense: "enabled"
 keywords:
   - Nhận diện cảm xúc khuôn mặt
   - Công nghệ nhận diện cảm xúc
+  - chấm công nhận diện khuôn mặt
+  - mô hình hệ thống nhận dạng khuôn mặt
+  - emotion recognition
 ---
 
 Phát hiện cảm xúc khuôn mặt là bước phát triển tiếp sau của việc phát hiện khuôn mặt, phân chia cảm xúc khuôn mặt thành 7 nhóm thể hiện chính: Vui vẻ, Ngạc nhiên, Hài lòng, Buồn bực, Cáu giận, Phẫn nộ và Sợ hãi

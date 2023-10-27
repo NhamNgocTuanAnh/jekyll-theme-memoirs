@@ -15,6 +15,9 @@ adsense: "enabled"
 keywords:
   - Nhận diện cảm xúc khuôn mặt
   - Công nghệ nhận diện cảm xúc
+  - chấm công nhận diện khuôn mặt
+  - mô hình hệ thống nhận dạng khuôn mặt
+  - emotion recognition
 ---
 
 <!-- > Chúng ta là những gì mà chúng ta ăn vào.  -->
