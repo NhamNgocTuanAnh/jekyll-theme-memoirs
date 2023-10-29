@@ -5,11 +5,11 @@ author: sal
 lazyimages: "enabled"
 categories: [ Reviews 📝 ]
 tags: [my_devices]
-image: assets/images/2023/reviews/avt/danh-gia-sony-a6000-nguoi-dung.webp
-rating: 4.5
+image: assets/images/2023/reviews/avt/itag-gia-re-2023-avt.webp
+rating: 2.5
 permalink: reviews/itag-50-shoppee
-excerpt: Kết nối không ổn định và tầm kết nối rất nhỏ, bán kính tầm 2m là bắt đầu mất kết nối nên rất phiền phức (lý do chính mình ít dùng). Remote chỉ để chụp ảnh/quay phim trên app này, k dùng đc với app ngoài…
-description: Kết nối không ổn định và tầm kết nối rất nhỏ, bán kính tầm 2m là bắt đầu mất kết nối nên rất phiền phức (lý do chính mình ít dùng). Remote chỉ để chụp ảnh/quay phim trên app này, k dùng đc với app ngoài…
+excerpt: Kết nối không ổn định và tầm kết nối rất nhỏ, bán kính tầm 2m là bắt đầu mất kết nối nên rất phiền phức. Remote chỉ để chụp ảnh/quay phim trên app này, k dùng đc với app ngoà
+description: Kết nối không ổn định và tầm kết nối rất nhỏ, bán kính tầm 2m là bắt đầu mất kết nối nên rất phiền phức. Remote chỉ để chụp ảnh/quay phim trên app này, k dùng đc với app ngoài
 adsense: "enabled"
 keywords:
   - chip
@@ -19,7 +19,7 @@ keywords:
   - timdovat
   - timchiakhoa
   - timdienthoai
-date: '2022-11-09'
+date: 2023-11-23 20:10:00 +0700
 ---
 
 Có nên mua ITAG giá rẻ hay không còn tùy thuộc vào nhu cầu và mục đích sử dụng của bạn.
