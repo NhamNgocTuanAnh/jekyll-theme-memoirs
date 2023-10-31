@@ -31,6 +31,73 @@ Với việc tập luyện, việc lựa chọn kết hợp nhiều bộ môn t�
 *   Còn yoga với tác dụng giúp đốt mỡ hiệu quả, tăng cường độ dẻo dai cho cơ thể, cải thiện sức khoẻ,… cũng là bộ môn được rất nhiều chị em ưa chuộng. 
 
 Ngoài ra, để tăng cường khả năng tiêu hao mỡ thừa trong cơ thể, nhất là ở vùng bụng, tay, chân,…,  còn áp dụng tập các bài tập cardio.
+
+**Giáo án tập body cho nam giới dân văn phòng không có nhiều thời gian**
+
+**Mục tiêu:**
+
+*   Giúp nam giới dân văn phòng cải thiện vóc dáng, sức khỏe, và tinh thần
+*   Tiết kiệm thời gian tập luyện
+
+**Đối tượng:**
+
+*   Nam giới dân văn phòng, không có nhiều thời gian tập luyện
+
+**Thời gian:**
+
+*   15-30 phút/buổi
+*   3-4 buổi/tuần
+
+**Dụng cụ:**
+
+*   Không cần dụng cụ
+
+**Các bài tập:**
+
+**Bài tập 1: Squat**
+
+*   Động tác: Đứng thẳng, hai chân rộng bằng vai, hai tay nắm lại trước ngực hoặc duỗi thẳng trước mặt. Hạ người xuống, gập đầu gối sao cho đùi song song với mặt đất. Nâng người lên trở lại vị trí ban đầu.
+*   Số lần: 10-15 lần/bài
+
+**Bài tập 2: Push-up**
+
+*   Động tác: Bắt đầu ở tư thế chống đẩy, hai tay rộng bằng vai, hai chân duỗi thẳng, đầu gối chạm đất. Hạ người xuống, gập khuỷu tay sao cho ngực chạm đất. Nâng người lên trở lại vị trí ban đầu.
+*   Số lần: 10-15 lần/bài
+
+**Bài tập 3: Lunge**
+
+*   Động tác: Đứng thẳng, hai chân khép lại. Bước chân trái sang một bên, gập đầu gối trái sao cho đùi trái song song với mặt đất. Nâng người lên trở lại vị trí ban đầu. Lặp lại với chân phải.
+*   Số lần: 10-15 lần/bài/chân
+
+**Bài tập 4: Crunch**
+
+*   Động tác: Nằm ngửa, hai tay đặt sau đầu, hai chân duỗi thẳng. Nâng phần thân trên lên, gập hông sao cho đầu gối chạm ngực. Hạ người xuống trở lại vị trí ban đầu.
+*   Số lần: 10-15 lần/bài
+
+**Bài tập 5: Plank**
+
+*   Động tác: Bắt đầu ở tư thế chống đẩy, hai tay rộng bằng vai, hai chân duỗi thẳng. Hạ người xuống, gập khuỷu tay sao cho khuỷu tay chạm đất, tạo thành hình chữ V ngược. Giữ nguyên tư thế trong 30 giây.
+*   Số lần: 1-2 lần
+
+**Lưu ý:**
+
+*   Khởi động kỹ trước khi tập luyện
+*   Tập luyện với cường độ phù hợp với sức khỏe
+*   Uống nhiều nước trong khi và sau khi tập luyện
+
+**Một số tips tập luyện cho nam giới dân văn phòng không có nhiều thời gian:**
+
+*   Tập luyện tại nhà hoặc tại văn phòng
+*   Tập luyện vào buổi sáng sớm hoặc buổi tối
+*   Tập luyện theo chế độ chia nhỏ, tập 15-30 phút/buổi
+*   Tập luyện với các bài tập compound, tác động nhiều nhóm cơ
+*   Kết hợp tập luyện với chế độ ăn uống lành mạnh
+
+**Kết luận:**
+
+Với giáo án tập body này, nam giới dân văn phòng có thể cải thiện vóc dáng, sức khỏe, và tinh thần ngay cả khi không có nhiều thời gian tập luyện. Hãy kiên trì tập luyện và kết hợp với chế độ ăn uống lành mạnh để đạt được kết quả tốt nhất.
+
+
 Hãy nỗ lực không ngừng trong việc thay đổi chế độ ăn, xây dựng thói quen tập luyện để nhanh chóng lấy lại phong độ vóc dáng.
 
 Tham khảo
