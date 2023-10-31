@@ -16,7 +16,7 @@ adsense: "enabled"
 keywords:
   - Tay nghề kém cứ đổ lỗi cho mẫu xấu là sao?
   - Chụp hình dùm là công việc cần tịnh tâm, sẽ có nhiều người vừa coi hình là chê liền xấu quá chụp lại đi
-date: '2023-12-17'
+date: 2023-12-17 20:10:00 +0700
 ---
 
 > Bài viết đang trong quá trình phát triển, vui lòng quay lại sau!!!😅
