@@ -1,16 +1,16 @@
 ---
 layout: post
-title: 'Giảm mỡ bụng - Auto đẹp - [Chúng ta xứng đáng có một cuộc sống tốt hơn!]'
+title: 'Giáo án tập body cho nam giới dân văn phòng không có nhiều thời gian'
 author: sal
 lazyimages: "enabled"
 categories: [ Sức khỏe 💪]
-tags: [tips chụp ảnh]
-image: assets/images/nhiepanh/dam-me-nhiep-anh-avt.webp
+tags: [đời sống]
+image: assets/images/2023/ngam/avt/giam-can-avt.webp
 rating: 5
 isGithubComments: false
-permalink: suc-khoe/kinh-nghiem-giam-mo-bung-6-thang
-excerpt: Điều góp phần có tình yêu hạnh phúc là biết chụp ảnh cho phụ nữ
-description: Điều góp phần có tình yêu hạnh phúc là biết chụp ảnh cho phụ nữ
+permalink: suc-khoe/giao-an-tap-body-cho-nam-gioi-van-phong-khong-nhieu-thoi-gian
+excerpt: Thể dục hàng ngày có thể tốn nhiều thời gian, nhưng có một tập trung vào tập luyện cơ bắp và giữ dáng có thể giúp bạn duy trì sức khỏe và thể hình mà không cần dành quá nhiều thời gian.
+description: Thể dục hàng ngày có thể tốn nhiều thời gian, nhưng có một tập trung vào tập luyện cơ bắp và giữ dáng có thể giúp bạn duy trì sức khỏe và thể hình mà không cần dành quá nhiều thời gian.
 comments_id: 12
 adsense: "enabled"
 keywords:
