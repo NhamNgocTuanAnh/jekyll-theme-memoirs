@@ -50,3 +50,13 @@ permalink: lap-trinh/tro-lai-duong-dua-p1-nhin-lai-thi-truong
 *   Phụ cấp ăn trưa, gửi xe.
 *   Khám sức khỏe định kỳ hàng năm
 *   Du lịch công ty, teambuilding,…
+
+## **Thực tế**
+
+hỏi linh tinh thì có ông còn hỏi dùng node version mấy rồi =))).
+
+hỏi hẳn hoi tí thì nói mấy cái security, callback... khi nào dùng, trường hợp này xử lí như nào (ví dụ request time out,,,,)/
+
+mấy chỗ chuyên nghiệp hơn nó chỉ hỏi sơ vài câu rồi ném bài test về làm, viết Rest Api trong mấy tiếng hay mấy ngày gì đó, nội dung nó đưa (yêu cầu thêm jwt chẳng hạn, hoặc yêu cầu database. Có thằng thì cho dùng database nào cũng đc.)
+
+Túm lại phỏng vấn chủ yếu chém gió, nhưng lựa sức mình mà chém =))))))
