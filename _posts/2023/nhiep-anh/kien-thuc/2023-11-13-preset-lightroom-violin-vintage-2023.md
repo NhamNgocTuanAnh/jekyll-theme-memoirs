@@ -50,7 +50,8 @@ pinned: true
 
 Violin cổ điển là một loại nhạc cụ mang vẻ đẹp tinh tế và thanh lịch. Để chụp được những bức ảnh về nam violin cổ điển đẹp, bạn cần có kỹ năng chụp ảnh và sử dụng phần mềm Lightroom. Trong bài viết này, mình sẽ chia sẻ preset Lightroom nam violin cổ điển giúp bạn dễ dàng tạo ra những bức ảnh đẹp và chuyên nghiệp.
 
-{% include lazyload.html image_src="https://i.pinimg.com/originals/37/c5/90/37c59032b6df7a54c6f1732483d77367.png" image_alt="Cầm violin" image_title="Cầm violin"%}
+<div class="content" style="text-align:center; ">
+<a href="https://imgur.com/g9cVH89"><img src="https://i.imgur.com/g9cVH89.jpg" title="source: imgur.com" /></a></div>
 
 **Cách sử dụng preset Lightroom nam violin cổ điển**
 
@@ -65,11 +66,9 @@ Preset sẽ được áp dụng cho ảnh của bạn. Bạn có thể điều c
 
 **Một số ảnh Lightroom nam violin cổ điển đẹp**
 
-{% include lazyload.html image_src="https://i.pinimg.com/originals/92/8f/73/928f73fae2b9b04811773581ae329482.png" image_alt="Cầm violin" image_title="Cầm violin"%}
-
-{% include lazyload.html image_src="https://i.pinimg.com/originals/9a/b1/3d/9ab13dab9091d0875633f56cad0ed957.png" image_alt="Cầm violin" image_title="Cầm violin"%}
-
-{% include lazyload.html image_src="https://i.pinimg.com/originals/c7/2c/1e/c72c1ea009ad78e55ac38db6dd1ac91f.png" image_alt="Cầm violin" image_title="Cầm violin"%}
+<div class="content" style="text-align:center; ">
+<a href="https://imgur.com/UxaUqQq"><img src="https://i.imgur.com/UxaUqQq.jpg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/q2xbOkw"><img src="https://i.imgur.com/q2xbOkw.jpg" title="source: imgur.com" /></a><p></p><br>
+</div>
 
 **Mô tả preset Lightroom nam violin cổ điển**
 
