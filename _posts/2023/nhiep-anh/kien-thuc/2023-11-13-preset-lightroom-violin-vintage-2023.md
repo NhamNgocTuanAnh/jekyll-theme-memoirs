@@ -5,10 +5,10 @@ author: sal
 lazyimages: "enabled"
 categories: [ Nhiếp ảnh 📸 ]
 tags: [preset, lightroom]
-image: assets/images/2023/nhiep-anh/avt/Chia sẻ Preset Lightroom Lowkey - by anhhangxom(Mobile and PC)-avt.webp
+image: assets/images/2023/nhiep-anh/avt/preset-vintage-avt.webp
 isGithubComments: false
 permalink: nhiep-anh/preset/lightroom-vintage-violin-retro
-excerpt: Lowkey là một phong cách chụp ảnh lấy tông đen làm chủ đạo, tạo ra những bức ảnh ấn tượng và đầy cảm xúc. Phong cách này rất thích hợp để chụp ảnh nam giới, giúp tôn lên vẻ đẹp nam tính và mạnh mẽ.
+excerpt: Trong bài viết này, mình sẽ chia sẻ preset Lightroom nam violin cổ điển giúp bạn dễ dàng tạo ra những bức ảnh đẹp và chuyên nghiệp.
 adsense: "enabled"
 keywords:
   - Preset lightroom
