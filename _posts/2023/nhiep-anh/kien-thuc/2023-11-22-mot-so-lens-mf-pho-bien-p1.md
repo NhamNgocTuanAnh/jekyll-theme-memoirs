@@ -43,3 +43,16 @@ Lens MF (Manual Focus) đã và đang trở thành một lựa chọn phổ bi�
   - \*\*Cảm nhận người dùng\*\*: Lens Zeiss Planar này được các nhiếp ảnh gia đánh giá cao về sự sắc nét và độ chính xác. Mặc dù giá cả cao hơn so với các lens MF khác, nhưng đây là một sự đầu tư đáng giá cho những người muốn chụp ảnh chuyên nghiệp.
 
 Tổng kết, các lens MF phổ biến tại Việt Nam đều có điểm mạnh riêng, và lựa chọn lens phụ thuộc vào nhu cầu và ngân sách của mỗi nhiếp ảnh gia. Dù bạn là người mới bắt đầu hay đã có kinh nghiệm, sự lựa chọn phong phú này đang làm phong phú thêm cộng đồng nhiếp ảnh Việt Nam.
+
+
+https://www.vsion.vn/2016/12/18/ban-can-gi-o-nhung-ong-kinh-co-dien
+https://www.vsion.vn/danh-gia-minolta-mc-rokkor-x-58mm-f-1-2-tren-film
+https://voz.vn/t/co-ai-la-dan-choi-lens-mf-may-anh-xin-it-kinh-nghiem.476285/
+http://www.vnphoto.net/forums/archive/index.php/t-137698.html
+http://nhiepanh365.com/ky-thuat-nhiep-anh/co-nen-mua-lens-mf-249.html
+https://radojuva.com/en/2021/04/minolta-mc-rokkor-x-pg-1-4-f-50mm/
+https://xuconcept.com/lens-mf-tot-nhat/
+https://tinhte.vn/thread/nho-tu-van-ve-filter.635360/
+https://www.fredmiranda.com/forum/topic/1007658
+http://www.vnphoto.net/forums/showthread.php?t=137698&page=12
+http://www.vnphoto.net/forums/showthread.php?t=168282&page=3
