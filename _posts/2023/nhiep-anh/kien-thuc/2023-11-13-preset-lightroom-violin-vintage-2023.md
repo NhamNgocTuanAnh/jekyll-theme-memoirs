@@ -58,6 +58,8 @@ Preset sẽ được áp dụng cho ảnh của bạn. Bạn có thể điều c
 
 **Mô tả preset Lightroom nam violin cổ điển**
 
+{% include lazyload.html image_src="https://i.pinimg.com/originals/f7/7a/eb/f77aeb45e9e401ccd118c9a162cc9426.png" image_alt="Cầm violin" image_title="hoa"%}
+
 Preset Lightroom nam violin cổ điển bao gồm các cài đặt sau:
 
 *   **Tone màu:** Tạo ra tone màu ấm áp và cổ điển.
