@@ -67,12 +67,12 @@ Preset sẽ được áp dụng cho ảnh của bạn. Bạn có thể điều c
 **Một số ảnh Lightroom nam violin cổ điển đẹp**
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/UxaUqQq"><img src="https://i.imgur.com/UxaUqQq.jpg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/q2xbOkw"><img src="https://i.imgur.com/q2xbOkw.jpg" title="source: imgur.com" /></a><p></p><br>
+<a href="https://imgur.com/UxaUqQq"><img src="https://i.imgur.com/UxaUqQq.jpg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/q2xbOkw"><img src="https://i.imgur.com/q2xbOkw.jpg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/d1IOdC4"><img src="https://i.imgur.com/d1IOdC4.jpg" title="source: imgur.com" /></a><p></p><br>
 </div>
 
 **Mô tả preset Lightroom nam violin cổ điển**
 
-{% include lazyload.html image_src="https://i.pinimg.com/originals/f7/7a/eb/f77aeb45e9e401ccd118c9a162cc9426.png" image_alt="Cầm violin" image_title="hoa"%}
+<div class="content" style="text-align:center; "><a href="https://imgur.com/F4nlBZm"><img src="https://i.imgur.com/F4nlBZm.jpg" title="source: imgur.com" /></a></div>
 
 Preset Lightroom nam violin cổ điển bao gồm các cài đặt sau:
 
@@ -91,7 +91,7 @@ Khi sử dụng preset chụp ảnh violin nam, bạn cần lưu ý một số �
 
 **Kết luận**
 
-{% include lazyload.html image_src="https://i.pinimg.com/originals/07/b6/4c/07b64cc1c4fef595af172f2e3ef7adfb.png" image_alt="Cầm violin" image_title="Ngồi với cối xay gió"%}
+<div class="content" style="text-align:center; "><a href="https://imgur.com/Mkz0m4O"><img src="https://i.imgur.com/Mkz0m4O.jpg" title="source: imgur.com" /></a></div>
 
 Preset Lightroom nam violin cổ điển sẽ giúp bạn tạo ra những bức ảnh nam violin cổ điển đẹp và chuyên nghiệp.
 
