@@ -35,6 +35,8 @@ pinned: true
 
 Nam violin cổ điển là một loại nhạc cụ mang vẻ đẹp tinh tế và thanh lịch. Để chụp được những bức ảnh về nam violin cổ điển đẹp, bạn cần có kỹ năng chụp ảnh và sử dụng phần mềm Lightroom. Trong bài viết này, mình sẽ chia sẻ preset Lightroom nam violin cổ điển giúp bạn dễ dàng tạo ra những bức ảnh đẹp và chuyên nghiệp.
 
+{% include lazyload.html image_src="https://i.pinimg.com/originals/37/c5/90/37c59032b6df7a54c6f1732483d77367.png" image_alt="Cầm violin" image_title="Cầm violin"%}
+
 **Cách sử dụng preset Lightroom nam violin cổ điển**
 
  Để sử dụng preset Lightroom nam violin cổ điển, bạn thực hiện theo các bước sau:
@@ -48,11 +50,11 @@ Preset sẽ được áp dụng cho ảnh của bạn. Bạn có thể điều c
 
 **Một số ảnh Lightroom nam violin cổ điển đẹp**
 
-<div class="content" style="text-align:center; ">
-<a href="https://imgur.com/d9xqWuv"><img src="https://i.imgur.com/d9xqWuv.jpg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/BEJw5Ey"><img src="https://i.imgur.com/BEJw5Ey.jpg" title="source: imgur.com" /></a><p></p><br>
-</div>
+{% include lazyload.html image_src="https://i.pinimg.com/originals/92/8f/73/928f73fae2b9b04811773581ae329482.png" image_alt="Cầm violin" image_title="Cầm violin"%}
 
-{% include lazyload.html image_src="https://i.pinimg.com/originals/27/b5/1f/27b51f31719e70d535cb21db1c273abf.jpg" image_alt="Cầm mic" image_title="Cầm mic"%}
+{% include lazyload.html image_src="https://i.pinimg.com/originals/9a/b1/3d/9ab13dab9091d0875633f56cad0ed957.png" image_alt="Cầm violin" image_title="Cầm violin"%}
+
+{% include lazyload.html image_src="https://i.pinimg.com/originals/c7/2c/1e/c72c1ea009ad78e55ac38db6dd1ac91f.png" image_alt="Cầm violin" image_title="Cầm violin"%}
 
 **Mô tả preset Lightroom nam violin cổ điển**
 
@@ -72,6 +74,8 @@ Khi sử dụng preset chụp ảnh violin nam, bạn cần lưu ý một số �
 *   **Không lạm dụng preset:** Preset chỉ là một công cụ hỗ trợ. Bạn không nên lạm dụng preset, thay vào đó hãy sử dụng các kỹ thuật chụp ảnh để tạo ra những bức ảnh đẹp.
 
 **Kết luận**
+
+{% include lazyload.html image_src="https://i.pinimg.com/originals/07/b6/4c/07b64cc1c4fef595af172f2e3ef7adfb.png" image_alt="Cầm violin" image_title="Ngồi với cối xay gió"%}
 
 Preset Lightroom nam violin cổ điển sẽ giúp bạn tạo ra những bức ảnh nam violin cổ điển đẹp và chuyên nghiệp.
 
