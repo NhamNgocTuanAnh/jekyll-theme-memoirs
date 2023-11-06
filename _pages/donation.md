@@ -3,6 +3,9 @@ layout: page
 permalink: /ung-ho
 comments: false
 imageshadow: true
+keywords:
+    - ủng hộ anhhangxom
+    - ủng hộ
 ---
 
 _**AnhHangXom.XYZ**_ được lập ra từ tháng 6 năm 2020 với mục đích trao đổi sở thích thông qua các bài review về nhiếp ảnh, Tip&Trick trong công việc lập trình, đồng thời chia sẻ những câu chuyện và kinh nghiệm trong cuộc sống với các bạn trẻ. Blog được thiết kế đảm bảo giao diện tối giản cho người đọc.
