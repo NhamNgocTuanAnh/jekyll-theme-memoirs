@@ -18,7 +18,7 @@ date: 2023-11-22 22:11:22 +0700
 permalink: nhiep-anh/kien-thuc/mot-so-lens-mf-pho-bien-tai-viet-nam-p1
 ---
 
-> Bài viết đang trong quá trình phát triển, vui lòng quay lại sau!!!😅
+> Bài viết đang trong quá trình phát triển, vui lòng quay lại sau nhé!!!😅
 
 Lens MF (Manual Focus) đã và đang trở thành một lựa chọn phổ biến trong cộng đồng nhiếp ảnh tại Việt Nam. Dưới đây, chúng tôi sẽ tổng hợp thông tin chi tiết và cảm nhận của người dùng về một số lens MF phổ biến tại đất nước này.
 
