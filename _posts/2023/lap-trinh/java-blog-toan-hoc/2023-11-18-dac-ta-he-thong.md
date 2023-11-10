@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Xây dựng trang web trao đổi thông tin toán học (Java Spring Boot + React JS). Phần 3. Lựa chọn Java Spring Boot + React'
+title: 'Phần 4. Tìm hiểu về Đặc tả hệ thông - Xây dựng trang web trao đổi thông tin toán học (Java Spring Boot + React JS).'
 author: sal
 categories: [ Coding 💻 ]
 tags: [ tips ]
@@ -26,12 +26,5 @@ lượng phần mềm đạt được với chi phí dự kiến và thời hạ
 
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/daTnbZm"><img src="https://i.imgur.com/daTnbZm.png" title="source: imgur.com" /></a><p>Chức năng đăng ký</p><br>
-</div>
-
-<div class="content" style="text-align:center; ">
-<a href="https://imgur.com/AZ66Fna"><img src="https://i.imgur.com/AZ66Fna.png" title="source: imgur.com" /></a><p>Hình minh họa màn hình đăng ký diễn đàn</p><br>
-</div>
-
-<div class="content" style="text-align:center; ">
-<a href="https://imgur.com/KThFIyl"><img src="https://i.imgur.com/KThFIyl.png" title="source: imgur.com" /></a><p>Luồng sự kiện phát sinh</p><br>
+<a href="https://imgur.com/AZ66Fna"><img src="https://i.imgur.com/AZ66Fna.png" title="source: imgur.com" /></a><p>Hình minh họa màn hình đăng ký diễn đàn</p><br><a href="https://imgur.com/KThFIyl"><img src="https://i.imgur.com/KThFIyl.png" title="source: imgur.com" /></a><p>Luồng sự kiện phát sinh</p><br>
 </div>
