@@ -59,10 +59,13 @@ Chính vì lẽ đó mình sẽ chia ra nhiều bài viết cho mỗi phần. V�
 
 Sau khi đã chuẩn bị đầy đủ kiến thức và kỹ năng cần thiết, bạn có thể bắt đầu thực hiện các bước sau để tạo blog cá nhân bằng NodeJS:
 
+<hr>
+
 ## Series build a project
 
 [Đề tài: Build một website diễn đàn sử dụng java, spring-boot, Hibernate, reactjs, Ant design]({% link _posts/2023/lap-trinh/java-blog-toan-hoc/2023-11-15-website-dien-dan-toan-hoc-1.md %})
 
 * [Part 1 - Vì sao lại chọn website diễn đàn?](https://anonystick.com/blog-developer/build-project-part-1-vi-sao-moi-developer-nen-co-mot-blog-2020041699661056.jsx)
-* [Part 2 - Vì sao lại phát triển web application sử dụng java spring boot và react js?]({% link _posts/2023/lap-trinh/java-blog-toan-hoc/2023-11-17-lua-chon-cong-nghe.md %})
+* [Part 2 - Vì sao lại phát triển web application sử dụng java spring boot và react js?]({% link _posts/2023/lap-trinh/java-blog-toan-hoc/ly-thuyet/2023-11-17-lua-chon-cong-nghe.md %})
 * [Part 3 - Setup project with nodejs, expressjs và connect mongodb](https://anonystick.com/blog-developer/part-3-setup-project-with-nodejs-expressjs-va-connect-mongodb-2020041716978656)
+
