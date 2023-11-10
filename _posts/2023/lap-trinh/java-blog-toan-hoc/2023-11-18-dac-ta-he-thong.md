@@ -29,5 +29,9 @@ lượng phần mềm đạt được với chi phí dự kiến và thời hạ
 </div>
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/daTnbZm"><img src="https://i.imgur.com/daTnbZm.png" title="source: imgur.com" /></a><p>Hình minh họa màn hình đăng ký diễn đàn</p><br>
+<a href="https://imgur.com/AZ66Fna"><img src="https://i.imgur.com/AZ66Fna.png" title="source: imgur.com" /></a><p>Hình minh họa màn hình đăng ký diễn đàn</p><br>
+</div>
+
+<div class="content" style="text-align:center; ">
+<a href="https://imgur.com/KThFIyl"><img src="https://i.imgur.com/KThFIyl.png" title="source: imgur.com" /></a><p>Luồng sự kiện phát sinh</p><br>
 </div>
