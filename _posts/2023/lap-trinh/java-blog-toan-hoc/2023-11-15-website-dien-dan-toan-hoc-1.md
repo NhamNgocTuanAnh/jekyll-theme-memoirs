@@ -4,7 +4,7 @@ title: 'Xây dựng diễn đàn toán học (Java Spring Boot + React JS).'
 author: sal
 categories: [ Coding 💻 ]
 tags: [ tips ]
-image: assets/images/2023/lap-trinh/avts/jekyll-viet-blog-avt.webp
+image: assets/images/2023/lap-trinh/avts/dien-dan-toan-hoc-avt.webp
 rating: 5
 lazyimages: "enabled"
 isGithubComments: false

@@ -4,7 +4,7 @@ title: 'Phần 6. Thiết kế chức năng - Xây dựng trang web trao đ�
 author: sal
 categories: [ Coding 💻 ]
 tags: [ tips ]
-image: assets/images/2023/lap-trinh/avts/jekyll-viet-blog-avt.webp
+image: assets/images/2023/lap-trinh/avts/dien-dan-toan-hoc-avt.webp
 rating: 5
 lazyimages: "enabled"
 isGithubComments: false
