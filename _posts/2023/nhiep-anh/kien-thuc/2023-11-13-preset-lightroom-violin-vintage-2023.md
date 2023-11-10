@@ -100,7 +100,7 @@ Preset Lightroom nam violin cổ điển sẽ giúp bạn tạo ra những bức
 <table><tr><th>Upload</th><td>AnhHangXom</td></tr><tr><th>Tải về</th><td>
 <p id="result"></p>
 <button onclick="redirect()">Tải xuống</button><img
- id="resultIm" src="https://i.stack.imgur.com/SBv4T.gif" alt="Computer man" />
+ id="resultIm" src="https://i.stack.imgur.com/SBv4T.gif" alt="Computer man" width="250" />
 </td></tr><tr><th>Filesize</th><td>5.3 MB</td></tr>
 </table>
 <style>
