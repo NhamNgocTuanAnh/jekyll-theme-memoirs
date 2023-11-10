@@ -97,7 +97,12 @@ Preset Lightroom nam violin cổ điển sẽ giúp bạn tạo ra những bức
 <h2 style="font-style:normal; margin-left:0; margin-right:0; text-align:start"><strong>Tải về</strong></h2>
 
 <p style="text-align:center"><em>(Nếu link tải kh&ocirc;ng hoạt động, c&aacute;c bạn vui l&ograve;ng comment b&ecirc;n dưới để được hỗ trợ sớm nhất)</em></p>
-<table><tr><th>Upload</th><td>AnhHangXom</td></tr><tr><th>Tải về</th><td><strong><a href="https://inote.pro/notes/GPJR8V" style="box-sizing: border-box; background-color: transparent; color: rgb(53, 165, 51); text-decoration: none;">Google Drive</a>&nbsp;(.DNG - Mobile) /<span>&nbsp;</span><a href="https://inote.pro/notes/GPJR8V" style="box-sizing: border-box; background-color: transparent; color: rgb(53, 165, 51); text-decoration: none;">Google Drive</a><span>&nbsp;</span>(.xmp - PC)</strong></td></tr><tr><th>Filesize</th><td>5.3 MB</td></tr>
+<table><tr><th>Upload</th><td>AnhHangXom</td></tr><tr><th>Tải về</th><td>
+<strong><a href="https://inote.pro/notes/GPJR8V" style="box-sizing: border-box; background-color: transparent; color: rgb(53, 165, 51); text-decoration: none;">Google Drive</a>&nbsp;(.DNG - Mobile) /<span>&nbsp;</span><a href="https://inote.pro/notes/GPJR8V" style="box-sizing: border-box; background-color: transparent; color: rgb(53, 165, 51); text-decoration: none;">Google Drive</a><span>&nbsp;</span>(.xmp - PC)</strong>
+
+{% include redirect-countdown.html local="true" redirect_src="https://inote.pro/notes/GPJR8V" redirect_title="Bạn có thể đón đọc tại" %}
+
+</td></tr><tr><th>Filesize</th><td>5.3 MB</td></tr>
 </table>
 
 <style>
