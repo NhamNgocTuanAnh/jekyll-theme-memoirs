@@ -14,7 +14,7 @@ keywords:
   - Viết blog cho lập trình viên
   - chuyển từ wordpress sang jekyll
   - Tối ưu jekyll
-date: 2023-11-15 15:11:10 +0700
+date: 2022-11-15 15:11:10 +0700
 permalink: lap-trinh/java/website-dien-dan-toan-hoc-p3-lua-chon-cong-nghe
 ---
 
