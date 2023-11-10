@@ -114,11 +114,6 @@ table{border-collapse:collapse;border-spacing:0;margin:0 auto;width:700px}table 
 function redirect(){setInterval(myURL,5e3),document.getElementById("result").innerHTML="<b>🕵️ Đang tạo link tải. Bạn đợi tẹo nha ;)"}
 function myURL(){document.location.href="https://inote.pro/notes/D1QY2Q",toggleImage(),clearInterval(interval)}
 function toggleImage() {
-  var x = document.getElementById("resultIm");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
+  document.getElementById("resultIm").style.display = "block";
 }
 </script>
