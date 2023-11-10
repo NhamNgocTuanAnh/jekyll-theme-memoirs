@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Xây dựng trang web trao đổi thông tin toán học (Java Spring Boot + React JS).'
+title: 'Xây dựng diễn đàn toán học (Java Spring Boot + React JS).'
 author: sal
 categories: [ Coding 💻 ]
 tags: [ tips ]
@@ -46,7 +46,6 @@ sau:
     dụ như trong sách giáo khoa, học sinh có thể note vào các công thứ toán
     học hoặc bài giải khó hiểu - giáo viên có thể trả lời .
 *   vv.
-
 
 Chính vì lẽ đó mình sẽ chia ra nhiều bài viết cho mỗi phần. Và có khi bị tắt nghẽn do tính chất công việc. Và theo quy trình thì nó sẽ đi như thế này, và cũng có thể nó sẽ thay đổi theo thời gian nhằm sẽ phù hợp hơn. Và tạm thời tôi sẽ không upcode lên github vì như thế các bạn sẽ git clone về và sẽ không hiểu nhứng điều khác mà tôi muốn nói thêm.
 

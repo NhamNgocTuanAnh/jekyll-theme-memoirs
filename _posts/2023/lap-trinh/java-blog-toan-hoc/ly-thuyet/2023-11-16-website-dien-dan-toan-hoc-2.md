@@ -21,7 +21,7 @@ permalink: lap-trinh/java/website-dien-dan-toan-hoc-p1-phan-tich-yeu-cau-bai-toa
 **_Lưu ý_**: Trước đây mình khá hứng thú với Java và React. Đối với cá nhân mình, khi học công nghệ thì thay vì làm một thứ gì đó lớn lao, tại sao không thử tạo ra 1 ứng dụng quen thuộc, cơ bản. Đó là website cung cấp thông tin.
 
 
- Khi tham gia vào diễn đàn người sử dụng sẽ lựa chọn một chủ đề trong loạt các chủ đề của diễn đàn, 
+Khi tham gia vào diễn đàn người sử dụng sẽ lựa chọn một chủ đề trong loạt các chủ đề của diễn đàn, 
 
 **Ví dụ** ta chọn chủ đề _“lập trình”_ → một danh sách các câu hỏi thuộc chủ đề đó sẽ xuất hiện. Người sử dụng sẽ chọn một trong các câu hỏi trong danh sách để xem nội dung, ví dụ chọn bài “_Nhiệt lượng mặt trời_" thì nội dung của bài này hiện ra, nếu người đọc thấy có thể trả lời được thì nhấn vào nút trả lời và nhập nội dung vào form trả lời và nhấn nút trả lời, bài trả lời sẽ nằm ngay dưới câu hỏi. Nếu người sử dụng muốn gửi một bài mới thì có thể nhấn vào nút “_đặt câu hỏi_”. 
 
