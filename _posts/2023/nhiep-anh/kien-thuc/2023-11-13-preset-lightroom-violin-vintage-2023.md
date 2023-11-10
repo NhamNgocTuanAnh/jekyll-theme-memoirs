@@ -99,16 +99,27 @@ Preset Lightroom nam violin cổ điển sẽ giúp bạn tạo ra những bức
 <p style="text-align:center"><em>(Nếu link tải kh&ocirc;ng hoạt động, c&aacute;c bạn vui l&ograve;ng comment b&ecirc;n dưới để được hỗ trợ sớm nhất)</em></p>
 <table><tr><th>Upload</th><td>AnhHangXom</td></tr><tr><th>Tải về</th><td>
 <p id="result"></p>
-<button onclick="redirect()">Tải xuống</button><img src="https://i.stack.imgur.com/SBv4T.gif" alt="Computer man" />
+<button onclick="redirect()">Tải xuống</button><img
+ id="resultIm" src="https://i.stack.imgur.com/SBv4T.gif" alt="Computer man" />
 </td></tr><tr><th>Filesize</th><td>5.3 MB</td></tr>
 </table>
 <style>
 table{border-collapse:collapse;border-spacing:0;margin:0 auto;width:700px}table td,table th{border:1px solid #ccc;padding:10px}table th{background-color:#f3f3f3}@media only screen and (max-width:700px){table{margin:0 10px;width:auto}}@media only screen and (max-width:480px){table td,table th{display:block;border-bottom:none}table tr:last-child td{border-bottom:1px solid #ccc}}
+#resultIm{
+  display:none;
+}
 </style>
 
 <script>
 <script>
-document.getElementById('buttonload').style.display = 'none';
 function redirect(){setInterval(myURL,5e3),document.getElementById("result").innerHTML="<b>🕵️ Đang tạo link tải. Bạn đợi tẹo nha ;)"}
-function myURL(){document.location.href="https://inote.pro/notes/D1QY2Q", document.getElementById('buttonload').style.display = "show",clearInterval(interval)}
+function myURL(){document.location.href="https://inote.pro/notes/D1QY2Q",toggleImage(),clearInterval(interval)}
+function toggleImage() {
+  var x = document.getElementById("resultIm");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
 </script>
