@@ -61,10 +61,8 @@ Sau khi đã chuẩn bị đầy đủ kiến thức và kỹ năng cần thiế
 
 ## Series build a project
 
-[Đề tài: Build một blog + chat sử dụng nodejs, expressjs, mongodb, firebase](https://anonystick.com/blog-developer/de-tai-build-mot-blog-chat-su-dung-nodejs-expressjs-mongodb-firebase-2020041522880531)
+[Đề tài: Build một website diễn đàn sử dụng java, spring-boot, Hibernate, reactjs, Ant design]({% link _posts/2023/lap-trinh/java-blog-toan-hoc/2023-11-15-website-dien-dan-toan-hoc-1.md %})
 
-[Part 1 - Vì sao mỗi developer nên có một blog](https://anonystick.com/blog-developer/build-project-part-1-vi-sao-moi-developer-nen-co-mot-blog-2020041699661056.jsx)
-
-[Part 2 - Vì sao lại phát triển web application sử dụng nodejs và expressjs?](https://anonystick.com/blog-developer/build-project-part-2-vi-sao-lai-phat-trien-web-application-su-dung-nodejs-va-expressjs-2020041698572123)
-
-[Part 3 - Setup project with nodejs, expressjs và connect mongodb](https://anonystick.com/blog-developer/part-3-setup-project-with-nodejs-expressjs-va-connect-mongodb-2020041716978656)
+* [Part 1 - Vì sao lại chọn website diễn đàn?](https://anonystick.com/blog-developer/build-project-part-1-vi-sao-moi-developer-nen-co-mot-blog-2020041699661056.jsx)
+* [Part 2 - Vì sao lại phát triển web application sử dụng java spring boot và react js?]({% link _posts/2023/lap-trinh/java-blog-toan-hoc/2023-11-17-lua-chon-cong-nghe.md %})
+* [Part 3 - Setup project with nodejs, expressjs và connect mongodb](https://anonystick.com/blog-developer/part-3-setup-project-with-nodejs-expressjs-va-connect-mongodb-2020041716978656)
