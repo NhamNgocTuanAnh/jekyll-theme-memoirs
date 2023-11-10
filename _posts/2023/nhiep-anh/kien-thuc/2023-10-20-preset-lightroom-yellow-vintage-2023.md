@@ -39,7 +39,7 @@ pinned: true
 <h2 style="font-style:normal; margin-left:0; margin-right:0; text-align:start"><strong>Tải về</strong></h2>
 
 <p style="text-align:center"><em>(Nếu link tải kh&ocirc;ng hoạt động, c&aacute;c bạn vui l&ograve;ng comment b&ecirc;n dưới để được hỗ trợ sớm nhất)</em></p>
-<table><tr><th>Upload</th><td>AnhHangXom</td></tr><tr><th>Tải về</th><td><p id="result"><button class="buttonload" id="buttonload"><i class="fa fa-spinner fa-spin"></i>Loading</button></p>
+<table><tr><th>Upload</th><td>AnhHangXom</td></tr><tr><th>Tải về</th><td><p id="result"></p>
 <button onclick="redirect()">Tải xuống</button></td></tr><tr><th>Filesize</th><td>5.3 MB</td></tr>
 </table>
 
@@ -48,5 +48,8 @@ table{border-collapse:collapse;border-spacing:0;margin:0 auto;width:700px}table 
 </style>
 <script>
 document.getElementById('buttonload').style.display = 'none';
-function redirect(){setInterval(myURL,5e3),document.getElementById("result").innerHTML="<b> Đang tạo link tải. Bạn đợi tẹo nha ;)"}function myURL(){document.location.href="https://inote.pro/notes/D1QY2Q", document.getElementById('buttonload').style.display = 'block',clearInterval(interval)}
+function redirect(){
+  setInterval(myURL,5e3),document.getElementById("result").innerHTML="<b>🕵️ Đang tạo link tải. Bạn đợi tẹo nha ;)"}
+function myURL(){document.location.href="https://inote.pro/notes/D1QY2Q", document.getElementById('buttonload').style.display = "show",clearInterval(interval)}
 </script>
+
