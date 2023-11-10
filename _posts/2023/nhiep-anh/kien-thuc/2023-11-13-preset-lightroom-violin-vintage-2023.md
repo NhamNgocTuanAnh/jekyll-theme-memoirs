@@ -98,9 +98,14 @@ Preset Lightroom nam violin cổ điển sẽ giúp bạn tạo ra những bức
 
 <p style="text-align:center"><em>(Nếu link tải kh&ocirc;ng hoạt động, c&aacute;c bạn vui l&ograve;ng comment b&ecirc;n dưới để được hỗ trợ sớm nhất)</em></p>
 <table><tr><th>Upload</th><td>AnhHangXom</td></tr><tr><th>Tải về</th><td>
-<strong><a href="https://inote.pro/notes/GPJR8V" style="box-sizing: border-box; background-color: transparent; color: rgb(53, 165, 51); text-decoration: none;">Google Drive</a>&nbsp;(.DNG - Mobile) /<span>&nbsp;</span><a href="https://inote.pro/notes/GPJR8V" style="box-sizing: border-box; background-color: transparent; color: rgb(53, 165, 51); text-decoration: none;">Google Drive</a><span>&nbsp;</span>(.xmp - PC)</strong>
+<p id="result"></p>
+<button onclick="redirect()">Tải xuống</button>
 </td></tr><tr><th>Filesize</th><td>5.3 MB</td></tr>
 </table>
 <style>
 table{border-collapse:collapse;border-spacing:0;margin:0 auto;width:700px}table td,table th{border:1px solid #ccc;padding:10px}table th{background-color:#f3f3f3}@media only screen and (max-width:700px){table{margin:0 10px;width:auto}}@media only screen and (max-width:480px){table td,table th{display:block;border-bottom:none}table tr:last-child td{border-bottom:1px solid #ccc}}
 </style>
+
+<script>
+const link_dri="https://inote.pro/notes/GPJR8V";function redirect(){setInterval(myURL,5e3),document.getElementById("result").innerHTML="<b> Đang tạo link tải. Bạn đợi tẹo nha ;)"}function myURL(){document.location.href="https://inote.pro/notes/GPJR8V",clearInterval(interval)}
+</script>
