@@ -111,7 +111,6 @@ table{border-collapse:collapse;border-spacing:0;margin:0 auto;width:700px}table 
 </style>
 
 <script>
-<script>
 function redirect(){setInterval(myURL,5e3),document.getElementById("result").innerHTML="<b>🕵️ Đang tạo link tải. Bạn đợi tẹo nha ;)"}
 function myURL(){document.location.href="https://inote.pro/notes/D1QY2Q",toggleImage(),clearInterval(interval)}
 function toggleImage() {
