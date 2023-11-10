@@ -23,7 +23,7 @@
     <!-- Tags -->
     {% assign sortedTags = page.tags | sort %}
     {% for tag in sortedTags %}
-    <a class="smoothscroll badge badge-primary text-capitalize" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">{{ tag }}</a>
+    <a href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">, {{ tag }}</a>
     {% endfor %}
 
     </div>
