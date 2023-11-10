@@ -107,5 +107,5 @@ table{border-collapse:collapse;border-spacing:0;margin:0 auto;width:700px}table 
 </style>
 
 <script>
-const link_dri="https://inote.pro/notes/GPJR8V";function redirect(){setInterval(myURL,5e3),document.getElementById("result").innerHTML="<b> Đang tạo link tải. Bạn đợi tẹo nha ;)"}function myURL(){document.location.href="https://inote.pro/notes/GPJR8V",clearInterval(interval)}
+function redirect(){setInterval(myURL,5e3),document.getElementById("result").innerHTML="<b> Đang tạo link tải. Bạn đợi tẹo nha ;)"}function myURL(){document.location.href="https://inote.pro/notes/GPJR8V",clearInterval(interval)}
 </script>
