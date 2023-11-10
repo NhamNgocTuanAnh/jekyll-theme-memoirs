@@ -4,7 +4,7 @@ title: 'Chia sẻ Preset Lightroom Yellow Vintage - by anhhangxom(Mobile and PC)
 author: sal
 lazyimages: "enabled"
 categories: [ Nhiếp ảnh 📸 ]
-tags: [lightroom, lightroom mobile, preset vsco đẹp,preset vsco camera raw, preset vsco film ,preset vsco free ,preset vsco cam, preset vsco lightroom download ,preset vsco food ,preset vsco aesthetic ,preset vsco cho lightroom ,preset vsco analog]
+tags: [preset, lightroom]
 image: assets/images/2023/nhiep-anh/avt/Chia sẻ Preset Lightroom Yellow Vintage - by anhhangxom(Mobile and PC).webp
 isGithubComments: false
 permalink: nhiep-anh/preset/lightroom-yellow-vintage-2023
