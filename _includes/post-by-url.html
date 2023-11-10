@@ -9,7 +9,6 @@
         {% assign sameTagCount = 0 %}
         {% assign commonTags = '' %}
 
-        {% for category in post.categories %}
         {% if post.permalink == include.post_src %}
         {% if page.categories contains category %}
         {% assign sameTagCount = sameTagCount | plus: 1 %}
@@ -17,7 +16,7 @@
         {% assign commonTags = commonTags | append: tagmarkup %}
         {% endif %}
         {% endif %}
-        {% endfor %}
+
 
         {% if sameTagCount >= minCommonTags %}
         {% if include.is_main =="true" %}
@@ -34,6 +33,4 @@
         {% endfor %}
 
 </div></div>
-<!-- <style>
-#inner{display:table;margin:0 auto}#outer{width:100%}
-</style> -->
+

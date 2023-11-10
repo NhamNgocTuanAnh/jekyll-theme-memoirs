@@ -7,7 +7,7 @@ categories: [ Reviews 📝 ]
 tags: [nhiếp ảnh, ống kính]
 image: assets/images/2023/reviews/avt/thong-so-canon-28-105-3-5-4-5-avt.webp
 rating: 4.5
-permalink: reviews/nhiep-anh/danh-gia-canon-28-105mm-f3-5-f4-5-ong-vua-da-dung-gia-re
+permalink: reviews/nhiep-anh/danh-gia-canon-28-105mm-f3-5-f4-5-ong-vua-da-dung-gia-re-1
 excerpt: Ống kính Canon EF 28-105mm f3.5-4.5 USM với chất lượng quang học tốt, được mệnh danh là quý nhân cứu cánh cho anh em trót dấn thân bãy lầy fullframe. Đang khát ống kính đa tiêu cự để vừa học, vừa phục vụ nhiều nhu cầu. Lens được bán rất nhiều, giá tương đối rẻ, nhưng lại rất ít người nói tới.
 description: Ống kính Canon EF 28-105mm f3.5-4.5 USM với chất lượng quang học tốt, được mệnh danh là quý nhân cứu cánh cho anh em trót dấn thân bãy lầy fullframe. Đang khát ống kính đa tiêu cự để vừa học, vừa phục vụ nhiều nhu cầu. Lens được bán rất nhiều, giá tương đối rẻ, nhưng lại rất ít người nói tới.
 adsense: "enabled"
