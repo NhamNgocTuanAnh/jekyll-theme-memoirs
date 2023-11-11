@@ -161,3 +161,25 @@ title: Trang chủ
     {% endif %}
 {% endfor %}
 </div>
+
+
+<hr><h2 class="text-center mb-4">Coding 💻</h2>
+
+{% assign maxRelated = 3 %}
+{% assign minCommonTags =  1 %}
+{% assign maxRelatedCounter = 0 %}
+<div class="blog-grid-container">
+
+    {% assign nhiepanhs = site.categories['Coding 💻'] %}
+    {% for post in nhiepanhs | sort %}
+    {% assign position = forloop.index0 %}
+
+
+
+        {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+        {% if maxRelatedCounter >= maxRelated %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+
+  </div>
