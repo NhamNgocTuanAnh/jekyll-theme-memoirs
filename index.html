@@ -165,5 +165,55 @@ title: Trang chủ
 
 
 
+{% assign maxRelated = 3 %}
+{% assign minCommonTags =  1 %}
+{% assign maxRelatedCounter = 0 %}
+{% assign codes = site.categories['Coding 💻'] %}
+<section>
+
+    {% for post in codes | sort %}
+    {% assign position = forloop.index0 %}
+
+
+      <div class="container py-3">
+      <div class="card">
+        <div class="row ">
+          <div class="col-md-4 bg-scuba">
+
+            </div>
+            <div class="col-md-8 px-3">
+              <div class="card-block px-3">
+                <h4 class="card-title py-3">{{ post.title }}</h4>
+                <p class="card-text">{{ post.excerpt | strip_html | truncatewords:60 }}</p>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+
+      {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+      {% if maxRelatedCounter >= maxRelated %}
+          {% break %}
+      {% endif %}
+    {% endfor %}
+
+    <section class="my-5" id="pricing">
+      <div class="container pricing">
+        <h4 class="py-3">Included in your course price</h4>
+        <ul class="pb-3">
+          <li> Comportable Air-Conditioned transportation to our dive centre</li>
+          <li> Dedicated PADI dive instructor</li>
+          <li> all related PADI materials and certification</li>
+          <li> all necessary dive equipment</li>
+          <li> lunch and soft drinks for each day</li>
+          <li> towel </li>
+          <li> all taxes and fees</li>
+          <li> dive insurance.</li>
+        </ul>
+        <a href="#"><button class="btn btn-danger mb-3">Book Now</button></a>
+      </div>
+    </section>
+  </section>
 
 
