@@ -130,41 +130,8 @@ title: Trang chủ
     {% endif %}
 {% endfor %}
 </div>
-<hr><h2 class="text-center mb-4">Du hí 🛫</h2>
 
-{% assign maxRelated = 3 %}
-{% assign minCommonTags =  1 %}
-{% assign maxRelatedCounter = 0 %}
-<div class="blog-grid-container">
-{% assign duhis = site.categories['Du hí 🛫'] %}
-{% for post in duhis | sort %}
-{% assign position = forloop.index0 %}
-    {% include postbox.html %}
-    {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
-    {% if maxRelatedCounter >= maxRelated %}
-        {% break %}
-    {% endif %}
-{% endfor %}
-</div>
 <hr><h2 class="text-center mb-4">Coding 💻</h2>
-
-{% assign maxRelated = 3 %}
-{% assign minCommonTags =  1 %}
-{% assign maxRelatedCounter = 0 %}
-{% assign codes = site.categories['Coding 💻'] %}
-<div class="blog-grid-container">
-{% for post in codes | sort %}
-{% assign position = forloop.index0 %}
-    {% include postbox.html %}
-    {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
-    {% if maxRelatedCounter >= maxRelated %}
-        {% break %}
-    {% endif %}
-{% endfor %}
-</div>
-
-
-
 {% assign maxRelated = 3 %}
 {% assign minCommonTags =  1 %}
 {% assign maxRelatedCounter = 0 %}
@@ -215,5 +182,59 @@ title: Trang chủ
       </div>
     </section>
   </section>
+<style>
+    body {
+  font-family: 'Raleway', sans-serif;
+/*   background-color:blue; */
+}
+.card {
+  overflow:hidden;
+}
 
 
+.card-text {
+  color: #333;
+}
+
+
+.pricing ul {
+  list-style-type: none;
+}
+.pricing ul li:before {
+ font-family: 'FontAwesome';
+content: '\f00c';
+margin:0 5px 0 -15px;
+color: #f00;
+
+}
+
+.pricing {
+/*   border: 1px solid gray; */
+  box-shadow: 0 4px 12px rgba(0,0,0,.05), 0 2px 6px rgba(0,0,0,.15);
+}
+
+@media (max-width:756px) {
+  .col-md-4 {
+    height:300px;
+    overflow:hidden;
+    padding-left:1rem;
+    padding-right:1rem;
+  }
+}
+</style>
+<hr><h2 class="text-center mb-4">Du hí 🛫</h2>
+
+{% assign maxRelated = 3 %}
+{% assign minCommonTags =  1 %}
+{% assign maxRelatedCounter = 0 %}
+<div class="blog-grid-container">
+{% assign duhis = site.categories['Du hí 🛫'] %}
+{% for post in duhis | sort %}
+{% assign position = forloop.index0 %}
+    {% include postbox.html %}
+    {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+    {% if maxRelatedCounter >= maxRelated %}
+        {% break %}
+    {% endif %}
+{% endfor %}
+</div>
