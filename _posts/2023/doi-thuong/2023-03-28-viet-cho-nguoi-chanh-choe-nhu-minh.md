@@ -21,6 +21,7 @@ keywords:
   - ap luc cuoc song
   - áp lực
 date: 2023-03-14 02:08:28 +0700
+pinned: true
 ---
 
 Các quốc gia phải liên kết chặt chẽ hơn và phải tìm cách hợp tác để giải quyết các vấn đề toàn cầu. - Một thế giới hướng ngoại.Thật đã làm khó cho những người còn lại (người hướng nội, như mình)

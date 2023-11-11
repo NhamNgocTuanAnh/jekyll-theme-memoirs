@@ -22,6 +22,7 @@ keywords:
   - tả van
   - bản tả van lao chải
 date: 2023-04-25 22:22:22 +0700
+pinned: true
 ---
 
 Sau một lần “hoảng hốt” khi thấy Sapa ngổn ngang những tòa nhà cao tầng, những bạn nữ mặc áo dân tộc chìa đồ bán rồi cứ ê ê trước mặt mình,... đứng đợi cáp treo 1 tiếng để checkin Fansipan. Mình đã quyết định đi tới một nơi khá lạ...

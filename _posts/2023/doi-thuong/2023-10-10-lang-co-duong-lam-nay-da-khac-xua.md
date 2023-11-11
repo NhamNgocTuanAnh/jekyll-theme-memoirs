@@ -62,6 +62,7 @@ keywords:
   - vé vào làng cổ đường lâm
   - đường lâm village
 date: 2023-10-10 10:10:10 +0700
+pinned: true
 ---
 
 Làng cổ Đường Lâm là một làng cổ lâu đời mang rất nhiều nét văn hóa đặc sắc. Cho tới ngày nay, ngôi làng vẫn giữ được những đặc trưng cơ bản của một ngôi làng xưa với đình làng, cây đa, bến nước, chùa miếu...

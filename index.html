@@ -146,7 +146,9 @@ color: #f00;
 {% assign duhis = site.categories['Du hí 🛫'] %}
 {% for post in duhis | sort %}
 {% assign position = forloop.index0 %}
-    {% include postbox-home.html %}
+    {% if post.pinned %}
+        {% include postbox-home.html %}
+    {% endif %}
     {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
     {% if maxRelatedCounter >= maxRelated %}
         {% break %}
