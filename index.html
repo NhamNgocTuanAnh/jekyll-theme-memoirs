@@ -38,12 +38,12 @@ title: Trang chủ
 <div class="blog-grid-container">
 <div style="display: none">
 <div class="blog-grid-item"></div>
-<div class="blog-grid-item"></div>
+<div class="blog-grid-item"><div class="blog-grid-item"></div><div class="blog-grid-item"></div></div>
 <div class="blog-grid-item"></div></div>
 {% assign nhiepanhs = site.categories['Nhiếp ảnh 📸'] %}
 {% for post in nhiepanhs | sort %}
 {% assign position = forloop.index0 %}
-    {% include postbox.html %}
+    {% include postbox-home.html %}
     {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
     {% if maxRelatedCounter >= maxRelated %}
         {% break %}
@@ -146,7 +146,7 @@ color: #f00;
 {% assign duhis = site.categories['Du hí 🛫'] %}
 {% for post in duhis | sort %}
 {% assign position = forloop.index0 %}
-    {% include postbox.html %}
+    {% include postbox-home.html %}
     {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
     {% if maxRelatedCounter >= maxRelated %}
         {% break %}
