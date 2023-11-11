@@ -36,6 +36,10 @@ title: Trang chủ
 {% assign minCommonTags =  1 %}
 {% assign maxRelatedCounter = 0 %}
 <div class="blog-grid-container">
+<div style="display: none">
+<div class="blog-grid-item"></div>
+<div class="blog-grid-item"></div>
+<div class="blog-grid-item"></div></div>
 {% assign nhiepanhs = site.categories['Nhiếp ảnh 📸'] %}
 {% for post in nhiepanhs | sort %}
 {% assign position = forloop.index0 %}
@@ -135,6 +139,10 @@ color: #f00;
 {% assign minCommonTags =  1 %}
 {% assign maxRelatedCounter = 0 %}
 <div class="blog-grid-container">
+<div style="display: none">
+<div class="blog-grid-item"></div>
+<div class="blog-grid-item"></div>
+<div class="blog-grid-item"></div></div>
 {% assign duhis = site.categories['Du hí 🛫'] %}
 {% for post in duhis | sort %}
 {% assign position = forloop.index0 %}
