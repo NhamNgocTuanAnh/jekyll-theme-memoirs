@@ -57,10 +57,12 @@ title: Trang chủ
 {% assign minCommonTags =  1 %}
 {% assign maxRelatedCounter = 0 %}
 {% assign codes = site.categories['Coding 💻'] %}
-<section>
+<section style="padding: 20px;     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
     {% for post in codes | sort %}
     {% assign position = forloop.index0 %}
-      <div class="card h-100">
+      <div  style="margin-bottom: 20px;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 20px;">
         <div class="row " style="font-family: 'Roboto Mono', monospace; font-size: 1rem;">
               <div class="card-block px-3">
                 <h4 class="card-title py-3">{{ post.excerpt | strip_html | truncatewords:60 }}</h4>
@@ -79,7 +81,7 @@ title: Trang chủ
         <ul >
           <li>* Hiểu về các khái niệm quan trọng trong Node.js như routing, middleware, xử lý bất đồng bộ, và quản lý cơ sở dữ liệu.</li>
           <li>* Sử dụng các công cụ và thư viện</li>
-          <li>* Phát triển kỹ năng lập trình ứng dụng chúng trong việc xây dựng ứng dụng web sử dụng Node.js.</li>
+          <li>* Phát triển kỹ năng lập trình ứng dụng chính trong việc xây dựng ứng dụng web sử dụng Node.js.</li>
           <li>* Tăng cơ hội nghề nghiệp:</li>
         </ul>
         <a href="#"><button class="btn btn-danger mb-3">Tải ngay</button></a>
