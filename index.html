@@ -2,8 +2,8 @@
 layout: default
 title: Trang chủ
 ---
-{% include intro-home.html %}
-<hr><h2 class="text-center mb-4">Bài viết mới nhất</h2>
+<hr>{% include intro-home.html %}
+<h2 class="text-center mb-4">Bài viết mới nhất</h2>
 <div class="blog-grid-container">
 
     {% for post in paginator.posts %}
@@ -87,13 +87,13 @@ title: Trang chủ
     {% endfor %}
 
     <section class="my-5" id="pricing">
-      <div class="container pricing">
+      <div class="container pricing" style="font-family: 'Roboto Mono', monospace; font-size: 1rem;">
         <h4 class="py-3">Ebooks NodeJS Người Mới!</h4>
-        <ul class="pb-3">
-          <li> Hiểu về các khái niệm quan trọng trong Node.js như routing, middleware, xử lý bất đồng bộ, và quản lý cơ sở dữ liệu.</li>
-          <li> Sử dụng các công cụ và thư viện</li>
-          <li> Phát triển kỹ năng lập trình ứng dụng chúng trong việc xây dựng ứng dụng web sử dụng Node.js.</li>
-          <li> Tăng cơ hội nghề nghiệp:</li>
+        <ul >
+          <li>* Hiểu về các khái niệm quan trọng trong Node.js như routing, middleware, xử lý bất đồng bộ, và quản lý cơ sở dữ liệu.</li>
+          <li>* Sử dụng các công cụ và thư viện</li>
+          <li>* Phát triển kỹ năng lập trình ứng dụng chúng trong việc xây dựng ứng dụng web sử dụng Node.js.</li>
+          <li>* Tăng cơ hội nghề nghiệp:</li>
         </ul>
         <a href="#"><button class="btn btn-danger mb-3">Tải ngay</button></a>
       </div>
@@ -113,13 +113,7 @@ title: Trang chủ
 .pricing ul {
   list-style-type: none;
 }
-.pricing ul li:before {
- font-family: 'FontAwesome';
-content: '\f00c';
-margin:0 5px 0 -15px;
-color: #f00;
 
-}
 
 .pricing {
 /*   border: 1px solid gray; */
