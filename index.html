@@ -2,7 +2,7 @@
 layout: default
 title: Trang chủ
 ---
-
+{% include intro-home.html %}
 <hr><h2 class="text-center mb-4">Bài viết mới nhất</h2>
 <div class="blog-grid-container">
 
@@ -27,9 +27,10 @@ title: Trang chủ
 </div>
 
 <hr><h2 class="text-center mb-4">Chủ đề</h2>
+<section class="container-fluid align-items-center container-section-2">
 {% include categories-home.html %}
 <hr>
-{% include my-album-home.html %}
+{% include my-album-home.html %}</section>
 <hr><h2 class="text-center mb-4">Nhiếp ảnh 📸</h2>
 
 {% assign maxRelated = 3 %}
@@ -98,6 +99,7 @@ title: Trang chủ
       </div>
     </section>
   </section>
+
 <style>
 
 .card {
@@ -155,3 +157,4 @@ color: #f00;
     {% endif %}
 {% endfor %}
 </div>
+
