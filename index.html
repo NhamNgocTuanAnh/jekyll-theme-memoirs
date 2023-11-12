@@ -58,34 +58,21 @@ title: Trang chủ
 {% assign maxRelatedCounter = 0 %}
 {% assign codes = site.categories['Coding 💻'] %}
 <section>
-
     {% for post in codes | sort %}
     {% assign position = forloop.index0 %}
-
-
-      <div class="container py-3">
-      <div class="card">
-        <div class="row ">
-          <div class="col-md-4 bg-scuba">
-
-            </div>
-            <div class="col-md-8 px-3">
+      <div class="card h-100">
+        <div class="row " style="font-family: 'Roboto Mono', monospace; font-size: 1rem;">
               <div class="card-block px-3">
-                <h4 class="card-title py-3">{{ post.title }}</h4>
-                <p class="card-text">{{ post.excerpt | strip_html | truncatewords:60 }}</p>
-              </div>
-            </div>
-
-          </div>
-        </div>
-      </div>
-
+                <h4 class="card-title py-3">{{ post.excerpt | strip_html | truncatewords:60 }}</h4>
+                <a href="{{ site.baseurl }}{{ post.url }}"><p class="card-text">(－ω－) Đọc thêm</p></a>
+</div></div></div>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
           {% break %}
       {% endif %}
+      <br>
     {% endfor %}
-
+  </div>
     <section class="my-5" id="pricing">
       <div class="container pricing" style="font-family: 'Roboto Mono', monospace; font-size: 1rem;">
         <h4 class="py-3">Ebooks NodeJS Người Mới!</h4>
