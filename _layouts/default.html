@@ -19,8 +19,6 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style-image.css">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/toastr.min.css">
     <script src="{{ site.baseurl }}/assets/js/toastr.min.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/jquery-load/mi-load.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/jquery-load/jquery-3.2.1.min.js"></script>
 <script>
     $(window).scroll(function(){$.each($("img"),function(){if($(this).attr("data-src")&&$(this).offset().top<$(window).scrollTop()+$(window).height()+100){var t=$(this).data("src");$(this).attr("src",t),$(this).removeAttr("data-src")}})});
     </script>
@@ -44,9 +42,6 @@
     <script>
     var comingFromPost=document.referrer;let next_post_url="";function linkToRandomBlogPost(){let o=0,t="/about-me";do{let n=Math.floor(Math.random()*(allPosts&&allPosts.length||[])),r=allPosts[n];var e=r.title,l=r.url;o++}while(comingFromPost.includes(l)||o>10);return o>10&&comingFromPost!==t&&(l=t),o>10&&comingFromPost===t&&(l="/2022-nhin-lai-mot-nam-da-qua"),next_post_url=l,e}
     </script>
-    <style>
-        .loading-wrapper{background:rgba(0,0,0,0);border:0;left:50%;margin-left:-77.5px;margin-top:-50px;position:fixed;top:50%;z-index:9999999;max-width:155px}.loading-icon{opacity:.9;background-color:#49d479!important;border-radius:5px;display:block;line-height:40px;margin:0;padding:0 10px;text-align:center;border:1px solid #258b36;color:#cc1414}span.loading-icon:after{content:"Đang tải dữ liệu ..."}
-    </style>
 </head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
