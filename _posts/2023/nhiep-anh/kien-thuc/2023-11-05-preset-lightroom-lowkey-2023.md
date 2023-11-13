@@ -73,7 +73,7 @@ Preset chụp ảnh lowkey nam là một công cụ hữu ích giúp bạn tạo
 
 <p style="text-align:center"><em>(Nếu link tải kh&ocirc;ng hoạt động, c&aacute;c bạn vui l&ograve;ng comment b&ecirc;n dưới để được hỗ trợ sớm nhất)</em></p>
 <table><tr><th>Upload</th><td>AnhHangXom</td></tr><tr><th>Tải về</th><td><p id="result"></p>
-<button onclick="redirect()">Tải xuống</button></td></tr><tr><th>Filesize</th><td>5.3 MB</td></tr>
+<button onclick="redirect()">Tải xuống</button><div id="buttonload"><img src="https://i.imgur.com/ajsjXP4.gif" title="source: imgur.com" /></div></td></tr><tr><th>Filesize</th><td>5.3 MB</td></tr>
 </table>
 <style>
 table{border-collapse:collapse;border-spacing:0;margin:0 auto;width:700px}table td,table th{border:1px solid #ccc;padding:10px}table th{background-color:#f3f3f3}@media only screen and (max-width:700px){table{margin:0 10px;width:auto}}@media only screen and (max-width:480px){table td,table th{display:block;border-bottom:none}table tr:last-child td{border-bottom:1px solid #ccc}}
