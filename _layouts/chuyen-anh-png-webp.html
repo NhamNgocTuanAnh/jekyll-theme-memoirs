@@ -1,0 +1,235 @@
+<html>
+
+<head>
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+
+   <style>
+      input {
+         opacity: 0;
+         width: 76%;
+         position: absolute;
+         height: 30%;
+         z-index: 99999999;
+      }
+
+      body {
+         background-color: #006a4c;
+         margin: 0 auto;
+         padding: 20px;
+         font-family: Lato, Arial;
+      }
+
+      input[type=file] {
+         margin: 20px 0;
+      }
+
+      img {
+         max-height: 100%;
+         max-width: 100%;
+         box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.75);
+      }
+
+      .dropTarget {
+         position: relative;
+         border: 3px dashed silver;
+         flex-basis: auto;
+         flex-grow: 20;
+         height: 200px;
+      }
+
+      .dropTarget::before {
+         content: 'Drop files here';
+         color: silver;
+         font-size: 5vh;
+         height: 45px;
+         position: absolute;
+         top: 0;
+         bottom: 0;
+         left: 0;
+         right: 0;
+         margin: auto;
+         text-align: center;
+         pointer-events: none;
+         user-select: none;
+      }
+
+      #previews>div {
+         box-sizing: border-box;
+         height: 240px;
+         width: 240px;
+         padding: 20px;
+         display: inline-flex;
+         justify-content: center;
+         align-items: center;
+         vertical-align: top;
+      }
+
+      #previews>div>progress {
+         width: 80%;
+      }
+
+      .layout {
+         display: flex;
+         flex-direction: column;
+         justify-content: flex-start;
+         align-items: stretch;
+         align-content: stretch;
+         border-radius: 7px;
+         min-height: 300px;
+         max-width: 800px;
+         min-width: 340px;
+         margin: 2% auto;
+         padding: 15px;
+         background-color: #FFFFFF;
+         -webkit-box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
+         box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.2);
+      }
+
+      .hblack {
+         font-family: Helvetica, Arial, sans-serif;
+         font-weight: bold;
+         text-transform: uppercase;
+         background: black;
+         margin: 1em 9%;
+         border-radius: 5px;
+         text-align: center;
+         padding: 14px 3%;
+         color: white;
+         font-size: 14px;
+         display: flex;
+         width: fit-content;
+      }
+
+      .hred {
+         color: #3FB657;
+         padding: 0px 8px;
+      }
+   </style>
+</head>
+
+<body>
+   <div class="hblack">Convert
+      <div class="hred">Image</div> to
+      <div class="hred">Webp</div> Format
+   </div>
+
+   <div class="container">
+      <div class="layout">
+         <div>
+            <input type="file" multiple accept="image/*">
+         </div>
+         <div class="dropTarget"></div>
+         <div id="previews"></div>
+      </div>
+   </div>
+</body>
+<script>let refs = {};
+   refs.imagePreviews = document.querySelector('#previews');
+   refs.fileSelector = document.querySelector('input[type=file]');
+
+   function addImageBox(container) {
+      let imageBox = document.createElement("div");
+      let progressBox = document.createElement("progress");
+      imageBox.appendChild(progressBox);
+      container.appendChild(imageBox);
+
+      return imageBox;
+   }
+
+   function processFile(file) {
+      if (!file) {
+         return;
+      }
+      console.log(file);
+
+      let imageBox = addImageBox(refs.imagePreviews);
+
+      // Load the data into an image
+      new Promise(function (resolve, reject) {
+         let rawImage = new Image();
+
+         rawImage.addEventListener("load", function () {
+            resolve(rawImage);
+         });
+
+         rawImage.src = URL.createObjectURL(file);
+      })
+         .then(function (rawImage) {
+            // Convert image to webp ObjectURL via a canvas blob
+            return new Promise(function (resolve, reject) {
+               let canvas = document.createElement('canvas');
+               let ctx = canvas.getContext("2d");
+
+               canvas.width = rawImage.width;
+               canvas.height = rawImage.height;
+               ctx.drawImage(rawImage, 0, 0);
+
+               canvas.toBlob(function (blob) {
+                  resolve(URL.createObjectURL(blob));
+               }, "image/webp");
+            });
+         })
+         .then(function (imageURL) {
+            // Load image for display on the page
+            return new Promise(function (resolve, reject) {
+               let scaledImg = new Image();
+
+               scaledImg.addEventListener("load", function () {
+                  resolve({ imageURL, scaledImg });
+               });
+
+               scaledImg.setAttribute("src", imageURL);
+            });
+         })
+         .then(function (data) {
+            // Inject into the DOM
+            let imageLink = document.createElement("a");
+
+            imageLink.setAttribute("href", data.imageURL);
+            imageLink.setAttribute('download', `${file.name}.webp`);
+            imageLink.appendChild(data.scaledImg);
+
+            imageBox.innerHTML = "";
+            imageBox.appendChild(imageLink);
+         });
+   }
+
+   function processFiles(files) {
+      for (let file of files) {
+         processFile(file);
+      }
+   }
+
+   function fileSelectorChanged() {
+      processFiles(refs.fileSelector.files);
+      refs.fileSelector.value = "";
+   }
+
+   refs.fileSelector.addEventListener("change", fileSelectorChanged);
+
+   // Set up Drag and Drop
+   function dragenter(e) {
+      e.stopPropagation();
+      e.preventDefault();
+   }
+
+   function dragover(e) {
+      e.stopPropagation();
+      e.preventDefault();
+   }
+
+   function drop(callback, e) {
+      e.stopPropagation();
+      e.preventDefault();
+      callback(e.dataTransfer.files);
+   }
+
+   function setDragDrop(area, callback) {
+      area.addEventListener("dragenter", dragenter, false);
+      area.addEventListener("dragover", dragover, false);
+      area.addEventListener("drop", function (e) { drop(callback, e); }, false);
+   }
+   setDragDrop(document.documentElement, processFiles);</script>
+
+</html>
