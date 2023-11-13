@@ -44,7 +44,7 @@ pinned: true
 <a href="https://imgur.com/n2evGeq"><img src="https://i.imgur.com/n2evGeq.jpg" title="source: imgur.com" /></a><br><p></p>
 <a href="https://imgur.com/foWNbOU"><img src="https://i.imgur.com/foWNbOU.jpg" title="source: imgur.com" /></a><br><p></p>
 <a href="https://imgur.com/Te0zBxf"><img src="https://i.imgur.com/Te0zBxf.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/Y5VhfR9"><img src="https://i.imgur.com/Y5VhfR9.jpg" title="source: imgur.com" /></a><br><p></p>
-<a href="https://imgur.com/I3vT3aI"><img  src="https://i.imgur.com/I3vT3aI.jpg" title="source: imgur.com" /></a><br><p></p><br></div>
+<a href="https://imgur.com/I3vT3aI"><img  loading="lazy" src="https://i.imgur.com/I3vT3aI.jpg" title="source: imgur.com" /></a><br><p></p><br></div>
 
 <h2 style="font-style:normal; margin-left:0; margin-right:0; text-align:start"><strong>Tải về</strong></h2>
 

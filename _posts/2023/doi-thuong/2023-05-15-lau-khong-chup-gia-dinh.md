@@ -34,7 +34,7 @@ Mình thích chụp hình. Chụp chân dung rất nhiều. Nhưng chụp gia đ
 Mỗi khi mình giơ lên chụp là họ lại cảnh giác, nên bức ảnh không còn chân thực nữa.
 
 <div class="content" style="text-align:center; ">
-<img data-src="../../assets/images/2023/ngam/gia-dinh-nho-cua-toi-8.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Đây là khoảnh khắc năm nhất mấy thằng nam nhân vừa mới biết đi xe máy. Đèo nhau 200km mất 6 tiếng. Ngồi ăn tối tại Mai Châu.</span></div>
+<img loading="lazy" data-src="../../assets/images/2023/ngam/gia-dinh-nho-cua-toi-8.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Đây là khoảnh khắc năm nhất mấy thằng nam nhân vừa mới biết đi xe máy. Đèo nhau 200km mất 6 tiếng. Ngồi ăn tối tại Mai Châu.</span></div>
 
 
 Thực sự mình có phải ngại không?! Ôi những tấm hình chụp cốt để lưu lại kỉ niệm với bạn, với gia đình. Lâu lâu lôi ra làm kỷ niệm. Ôi, gia đình quá đỗi thân thuộc nó sẽ luôn bên cạnh tôi đến nỗi mình chẳng sợ mất, cũng chẳng cần vài ba tấm hình để lưu giữ chăng?
@@ -53,7 +53,7 @@ Mình đang tập không để tư duy kỹ thuật vào những bức ảnh kho
 Vậy nên đừng từ bỏ một phần vai trò là người lưu giữ ký ức, học cách chia sẻ về những trải nghiệm của mình.
 
 <div class="content" style="text-align:center; ">
-<img data-src="../../assets/images/2023/ngam/gia-dinh-nho-cua-toi-1.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption"></span></div><br>
+<img loading="lazy" loading="lazy" data-src="../../assets/images/2023/ngam/gia-dinh-nho-cua-toi-1.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption"></span></div><br>
 
 ### **Một vài cách setup máy để chụp:**
 
