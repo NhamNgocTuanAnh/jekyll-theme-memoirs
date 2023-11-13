@@ -35,3 +35,4 @@ gọi yêu cầu. Bảng cơ sở dữ liệu quan hệ cộng thêm mô tả b�
 </div>
 
 
+Mình đã chia sẻ chi tiết ở [đây!](https://123docz.net/document/14922909-khoa-luan-thie-ke-web-dien-dan-java-reactjs-pdf.htm) Các bạn có thể tham khảo nhé!
