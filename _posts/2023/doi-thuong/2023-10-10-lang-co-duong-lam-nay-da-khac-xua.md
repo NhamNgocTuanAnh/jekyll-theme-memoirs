@@ -68,7 +68,7 @@ pinned: true
 Làng cổ Đường Lâm là một làng cổ lâu đời mang rất nhiều nét văn hóa đặc sắc. Cho tới ngày nay, ngôi làng vẫn giữ được những đặc trưng cơ bản của một ngôi làng xưa với đình làng, cây đa, bến nước, chùa miếu...
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/dpuP5FM"><img src="https://i.imgur.com/dpuP5FM.jpg" title="source: imgur.com" /></a><br><p></p>
+<a href="https://imgur.com/dpuP5FM"><img  src="https://i.imgur.com/dpuP5FM.jpg" title="source: imgur.com" /></a><br><p></p>
 </div>
 
 #### Lên kế hoạch chụp ảnh
@@ -99,33 +99,34 @@ Làng cổ Đường Lâm là một làng cổ lâu đời mang rất nhiều n�
 Phương tiện mình chọn là xe đạp - để chở thêm đồ vì mình mang khá nhiều đồ 💼.
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/AM5luCO"><img src="https://i.imgur.com/AM5luCO.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/AM5luCO"><img   src="https://i.imgur.com/AM5luCO.jpg" title="source: imgur.com" /></a>
 </div>
 
 Dù đây là tháng 10 rồi nhưng trời nắng vẫn rất gắt. Cách bạn nên bôi kỹ kem chống nắng nhé!
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/A0yjhma"><img src="https://i.imgur.com/A0yjhma.jpg" title="source: imgur.com" /></a><br><p></p><br>
-<a href="https://imgur.com/A6VRVMm"><img src="https://i.imgur.com/A6VRVMm.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/UvMl0eo"><img src="https://i.imgur.com/UvMl0eo.jpg" title="source: imgur.com" /></a><br><p>Với những con đường lát gạch ong sạch sẽ - lớp đá mà người xưa đào lên từ dưới lòng đất, hai bên là những bức tường đá ong màu vàng sậm tạo nên những nét đẹp cổ kính khó tả.</p>
-<a href="https://imgur.com/AYUL0Db"><img src="https://i.imgur.com/AYUL0Db.jpg" title="source: imgur.com" /></a><br><p>Nắng rất gắt, mồ hôi nhễ nhại. Chưa biết pose kiểu gì ;( </p><a href="https://imgur.com/BWVw46B"><img src="https://i.imgur.com/BWVw46B.jpg" title="source: imgur.com" /></a><br><p></p>
-<a href="https://imgur.com/1g0VE4C"><img src="https://i.imgur.com/1g0VE4C.jpg" title="source: imgur.com" /></a><br><p>Đây, lẹ đi 😎</p>
-<a href="https://imgur.com/c4Ipfaq"><img src="https://i.imgur.com/c4Ipfaq.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/wwsEWCs"><img src="https://i.imgur.com/wwsEWCs.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/A0yjhma"><img  loading="lazy" src="https://i.imgur.com/A0yjhma.jpg" title="source: imgur.com" /></a><br><p></p><br>
+<a href="https://imgur.com/A6VRVMm"><img class="lazyload" loading="lazy" src="https://i.imgur.com/A6VRVMm.jpg" title="source: imgur.com" /></a><br><p></p><br><a href="https://imgur.com/UvMl0eo"><img class="lazyload" loading="lazy" src="https://i.imgur.com/UvMl0eo.jpg" title="source: imgur.com" /></a><br><p>Với những con đường lát gạch ong sạch sẽ - lớp đá mà người xưa đào lên từ dưới lòng đất, hai bên là những bức tường đá ong màu vàng sậm tạo nên những nét đẹp cổ kính khó tả.</p>
+<a href="https://imgur.com/AYUL0Db"><img class="lazyload" loading="lazy" src="https://i.imgur.com/AYUL0Db.jpg" title="source: imgur.com" /></a><br><p>Nắng rất gắt, mồ hôi nhễ nhại. Chưa biết pose kiểu gì ;( </p><a href="https://imgur.com/BWVw46B"><img class="lazyload" loading="lazy" src="https://i.imgur.com/BWVw46B.jpg" title="source: imgur.com" /></a><br><p></p>
+<a href="https://imgur.com/1g0VE4C"><img class="lazyload" loading="lazy" src="https://i.imgur.com/1g0VE4C.jpg" title="source: imgur.com" /></a><br><p>Đây, lẹ đi 😎</p>
+<a href="https://imgur.com/c4Ipfaq"><img class="lazyload" loading="lazy" src="https://i.imgur.com/c4Ipfaq.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/wwsEWCs"><img class="lazyload" loading="lazy" src="https://i.imgur.com/wwsEWCs.png" title="source: imgur.com" /></a>
 </div>
 
 Khi bọn mình đến thì gần như các địa điểm đều đang đóng cửa. trời thì nóng và không được vào khiến mình rất buồn😳.
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/kgK65Is"><img src="https://i.imgur.com/kgK65Is.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/590ZyXQ"><img src="https://i.imgur.com/590ZyXQ.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/Fsh9SUQ"><img src="https://i.imgur.com/Fsh9SUQ.jpg" title="source: imgur.com" /></a><br><p>Tá túc hết quán này đến quán nọ, mình thấy thứ mình cần nhất là nước :v</p><a href="https://imgur.com/rt8YiCa"><img src="https://i.imgur.com/rt8YiCa.jpg" title="source: imgur.com" /></a><br><p>Tá túc quán Cà phê, khá đẹp và đồ uống cũng rẻ nữa ☺️ </p></div>
+<a href="https://imgur.com/kgK65Is"><img class="lazyload" loading="lazy" src="https://i.imgur.com/kgK65Is.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/590ZyXQ"><img class="lazyload" loading="lazy" src="https://i.imgur.com/590ZyXQ.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/Fsh9SUQ"><img class="lazyload" loading="lazy" src="https://i.imgur.com/Fsh9SUQ.jpg" title="source: imgur.com" /></a><br><p>Tá túc hết quán này đến quán nọ, mình thấy thứ mình cần nhất là nước :v</p><a href="https://imgur.com/rt8YiCa"><img class="lazyload" loading="lazy" src="https://i.imgur.com/rt8YiCa.jpg" title="source: imgur.com" /></a><br><p>Tá túc quán Cà phê, khá đẹp và đồ uống cũng rẻ nữa ☺️ </p></div>
 
 Thôi có gì chụp nấy vậy. ***Lưu ý:*** Tận dụng ánh sáng tự nhiên vì ánh sáng tự nhiên là yếu tố quan trọng nhất. Ở đây cách xa khói đô thị, nắng vàng và nhà đỏ gạch: Vừa đủa nguyên liệu cho những bức ảnh đẹp :P.
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/KHFOn8b"><img src="https://i.imgur.com/KHFOn8b.jpg" title="source: imgur.com" /></a><br><p></p><br>
-<a href="https://imgur.com/glrfhiO"><img src="https://i.imgur.com/glrfhiO.jpg" title="source: imgur.com" /></a><br><p>Thích nhất là cái cảm giác xế chiều trước lúc chuẩn bị về, đã thấm mệt, dừng xe ở quán nước đầu làng - thưởng nốt cái hoàng hôn thật trọn.</p><a href="https://imgur.com/GRkGfb5"><img src="https://i.imgur.com/GRkGfb5.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/G20xjgK"><img src="https://i.imgur.com/G20xjgK.png" title="source: imgur.com" /></a><br><p>Này đu trend chạy chạy</p><a href="https://imgur.com/V0TTiYT"><img src="https://i.imgur.com/V0TTiYT.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/eH17hQ5"><img src="https://i.imgur.com/eH17hQ5.jpg" title="source: imgur.com" /></a><br><p>Một số nhà có hòm thu phí, đa phần rất khang trang rộng rãi, có nhà đầu tư hẳn xích đu gỗ cùng với đó là  rất nhiều giàn hoa lan leo bên cạnh rất đẹp mắt, quanh nhà cũng rất nhiều góc để chụp và mình tự cảm thấy 5k phí tham quan và chụp hình rất đáng :))</p><a href="https://imgur.com/M6Eroln"><img src="https://i.imgur.com/M6Eroln.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/hrgKdla"><img src="https://i.imgur.com/hrgKdla.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/HTcHGkn"><img src="https://i.imgur.com/HTcHGkn.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/KHFOn8b"><img class="lazyload" loading="lazy" src="https://i.imgur.com/KHFOn8b.jpg" title="source: imgur.com" /></a><br><p></p><br>
+<a href="https://imgur.com/glrfhiO"><img class="lazyload" loading="lazy" src="https://i.imgur.com/glrfhiO.jpg" title="source: imgur.com" /></a><br><p>Thích nhất là cái cảm giác xế chiều trước lúc chuẩn bị về, đã thấm mệt, dừng xe ở quán nước đầu làng - thưởng nốt cái hoàng hôn thật trọn.</p><a href="https://imgur.com/GRkGfb5"><img class="lazyload" loading="lazy" src="https://i.imgur.com/GRkGfb5.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/G20xjgK"><img class="lazyload" loading="lazy" src="https://i.imgur.com/G20xjgK.png" title="source: imgur.com" /></a><br><p>Này đu trend chạy chạy</p><a href="https://imgur.com/V0TTiYT"><img class="lazyload" loading="lazy" src="https://i.imgur.com/V0TTiYT.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/eH17hQ5"><img class="lazyload" loading="lazy" src="https://i.imgur.com/eH17hQ5.jpg" title="source: imgur.com" /></a><br><p>Một số nhà có hòm thu phí, đa phần rất khang trang rộng rãi, có nhà đầu tư hẳn xích đu gỗ cùng với đó là  rất nhiều giàn hoa lan leo bên cạnh rất đẹp mắt, quanh nhà cũng rất nhiều góc để chụp và mình tự cảm thấy 5k phí tham quan và chụp hình rất đáng :))</p><a href="https://imgur.com/M6Eroln"><img class="lazyload" loading="lazy" src="https://i.imgur.com/M6Eroln.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/hrgKdla"><img class="lazyload" loading="lazy" src="https://i.imgur.com/hrgKdla.jpg" title="source: imgur.com" /></a><br><p></p><a href="https://imgur.com/HTcHGkn"><img class="lazyload" loading="lazy" src="https://i.imgur.com/HTcHGkn.jpg" title="source: imgur.com" /></a>
 </div>
 
 Mình không chắc sẽ quay trở lại đây nữa. Hy vọng trưởng thôn và người dân sẽ lưu giữ những đường nét làng cổ 1000 năm tuổi này hơn!
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/Z1nm0Gj"><img src="https://i.imgur.com/Z1nm0Gj.jpg" title="source: imgur.com" /></a><br><p>Tạm biệt và hẹn gặp lại ;)</p><br></div>
+<a href="https://imgur.com/Z1nm0Gj"><img class="lazyload" loading="lazy" src="https://i.imgur.com/Z1nm0Gj.jpg" title="source: imgur.com" /></a><br><p>Tạm biệt và hẹn gặp lại ;)</p><br></div>
+
 
