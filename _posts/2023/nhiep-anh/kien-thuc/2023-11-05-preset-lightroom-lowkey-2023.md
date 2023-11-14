@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Chia sẻ Preset chụp ảnh lowkey - by anhhangxom(Mobile and PC)'
+title: 'Chia sẻ Preset chụp ảnh lowkey - by anhhangxom (Mobile and PC)'
 author: sal
 lazyimages: "enabled"
 categories: [ Nhiếp ảnh 📸 ]

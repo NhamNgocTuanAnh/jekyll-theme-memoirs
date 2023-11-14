@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Chia sẻ Preset chụp ảnh vintage violin retro nhẹ nhàng - by anhhangxom(Mobile and PC)'
+title: 'Chia sẻ Preset chụp ảnh vintage violin retro nhẹ nhàng - by anhhangxom (Mobile and PC)'
 author: sal
 lazyimages: "enabled"
 categories: [ Nhiếp ảnh 📸 ]
