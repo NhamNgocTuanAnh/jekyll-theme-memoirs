@@ -22,6 +22,10 @@ permalink: ebook/node-js-hero
 
 > Bài viết đang trong quá trình phát triển, vui lòng quay lại sau!!!😅
 
+Bạn điền tên và Email thường dùng của bạn vào form bên dưới. Tôi sẽ gửi Ebook vào Email của bạn trong vài phút tới.
+
+
+
 <!--
      Before implementing this jekyll snippet make sure
      1. you have signed up with Mailchimp.
