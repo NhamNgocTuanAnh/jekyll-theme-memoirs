@@ -60,10 +60,12 @@ comments: true
 
 <!-- Share -->
 {% include share.html %}
-
-<!-- Related Post -->
+<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-be8e4ed8-2767-48dd-a856-d96b3a4edae2" data-elfsight-app-lazy style="text-align:center; "></div>
 {% include related-posts.html %}
-
-<!-- Load Facebook SDK for JavaScript -->
+{% if site.url == page.url %}
 <div id="fb-root"></div>
+{% endif %}
+<!-- Load Facebook SDK for JavaScript -->
+
 
