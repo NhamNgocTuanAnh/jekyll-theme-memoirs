@@ -53,19 +53,19 @@ title: Trang chủ
 </div>
 
 <hr><h2 class="text-center mb-4">Coding 💻</h2>
-{% assign maxRelated = 3 %}
+{% assign maxRelated = 4 %}
 {% assign minCommonTags =  1 %}
 {% assign maxRelatedCounter = 0 %}
 {% assign codes = site.categories['Coding 💻'] %}
 <section style="padding: 20px;     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
-    {% for post in codes | sort %}
+    {% for post in codes | sort: 'last_updated' | reverse %}
     {% assign position = forloop.index0 %}
       <div  style="margin-bottom: 20px;
       border-bottom: 1px solid #ccc;
       padding-bottom: 20px;">
         <div class="row " style="font-family: 'Roboto Mono', monospace; font-size: 1rem;">
               <div class="card-block px-3">
-                <h4 class="card-title">{{ post.excerpt | strip_html | truncatewords:60 }}</h4>
+                <h5 class="card-title">{{ post.excerpt | strip_html | truncatewords:60 }}</h5>
                 <a href="{{ site.baseurl }}{{ post.url }}"><p class="card-text">(－ω－) Đọc thêm</p></a>
 </div></div></div>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}

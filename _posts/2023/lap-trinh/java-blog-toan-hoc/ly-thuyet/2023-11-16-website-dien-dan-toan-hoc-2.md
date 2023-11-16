@@ -14,7 +14,7 @@ keywords:
   - Viết blog cho lập trình viên
   - chuyển từ wordpress sang jekyll
   - Tối ưu jekyll
-date: 2023-10-15 15:10:10 +0700
+date: 2022-10-15 15:10:10 +0700
 permalink: lap-trinh/java/hoc-p1-phan-tich-yeu-cau-bai-toan-website-dien-dan-toan
 ---
 
