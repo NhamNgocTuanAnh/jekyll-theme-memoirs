@@ -8,14 +8,14 @@ image: assets/images/2023/lap-trinh/avts/dien-dan-toan-hoc-avt.webp
 rating: 5
 lazyimages: "enabled"
 isGithubComments: false
-excerpt: Jekyll thật tuyệt vời để tạo các website cá nhân, nhưng bông hồng nào mà chả có gai!. Bài viết này mình muốn hướng đến các bạn đã có hiểu biết về phát triển web. Các bạn beginer hay các bạn có nhu cầu làm một blog cá nhân có thể tham khảo để hiểu rõ ưu nhược điểm của Wordpress cũng như Jekyll
+excerpt: Trước đây mình khá hứng thú với Java và React. Đối với cá nhân mình, khi học công nghệ thì thay vì làm một thứ gì đó lớn lao, tại sao không thử tạo ra 1 ứng dụng quen thuộc, cơ bản. Đó là website cung cấp thông tin.
 adsense: "enabled"
 keywords:
   - Viết blog cho lập trình viên
   - chuyển từ wordpress sang jekyll
   - Tối ưu jekyll
 date: 2023-10-15 15:10:10 +0700
-permalink: lap-trinh/java/website-dien-dan-toan-hoc-p1-phan-tich-yeu-cau-bai-toan
+permalink: lap-trinh/java/hoc-p1-phan-tich-yeu-cau-bai-toan-website-dien-dan-toan
 ---
 
 **_Lưu ý_**: Trước đây mình khá hứng thú với Java và React. Đối với cá nhân mình, khi học công nghệ thì thay vì làm một thứ gì đó lớn lao, tại sao không thử tạo ra 1 ứng dụng quen thuộc, cơ bản. Đó là website cung cấp thông tin.
