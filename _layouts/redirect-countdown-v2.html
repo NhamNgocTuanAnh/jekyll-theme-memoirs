@@ -7,7 +7,7 @@
 
     <!-- Redirection Counter -->
     <script type="text/javascript">
-        var count = 7; const queryString = window.location.search, urlParams = new URLSearchParams(queryString); var redirect = urlParams.get("url").toString(); function countDown() { var n = document.getElementById("timer"); 0 < count ? (count--, n.innerHTML = "This page will redirect in " + count + " seconds.", setTimeout("countDown()", 1e3)) : window.location.href = redirect }
+        var count = 7; const queryString = window.location.search, urlParams = new URLSearchParams(queryString); var redirect = urlParams.get("url").toString(); function countDown() { var n = document.getElementById("timer"); 0 < count ? (count--, n.innerHTML = "Tạo Link sau " + count + " giây.", setTimeout("countDown()", 1e3)) : window.location.href = redirect }
     </script>
     <meta charset="utf-8">
     <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.webp">
