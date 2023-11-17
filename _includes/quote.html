@@ -38,5 +38,5 @@ iframe {display:block;margin:0 auto;};
 function addDay(){let e=new Date,t=parseInt(e.getHours());t>=7&&t<12&&(document.getElementById("replace-day").innerText="Ch\xfac một buổi sáng vui vẻ!!\uD83D\uDC68‍\uD83D\uDE80"),t>=12&&t<19&&(document.getElementById("replace-day").innerText="Ch\xfac một buổi chi\xeàu vui vẻ!!\uD83D\uDC68‍\uD83D\uDE80"),t>=19&&t<23&&(document.getElementById("replace-day").innerText="Ch\xfac một buổi t\xf4́i vui vẻ!!\uD83D\uDC68‍\uD83D\uDE80"),t>=23&&t<5&&(document.getElementById("replace-day").innerText="Nhớ ngủ sớm nhé bạn t\xf4i!!\uD83D\uDC68‍\uD83D\uDE80")}window.setInterval(addDay,5e3);
 </script>
 <script>
-  var root_url=window.location.origin;function getHrefOnclickAndRedirectWithLink(t){t.preventDefault();t=t.currentTarget.getAttribute("href");window.location=[root_url,"/redirect?url=",encodeURIComponent(t)].join("")}
+  var root_url=window.location.origin;function getHrefOnclickAndRedirectWithLink(t){t.preventDefault();t=t.currentTarget.getAttribute("href");window.location=[root_url,"/redirect-v2?url=",encodeURIComponent(t)].join("")}
 </script>
