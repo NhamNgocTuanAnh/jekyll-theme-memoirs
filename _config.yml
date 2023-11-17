@@ -9,7 +9,6 @@ favicon: 'assets/images/logo.webp'
 url: "https://nhamngoctuananh.github.io/"
 #baseurl: /
 encoding: UTF-8
-google_analytics: 'AW-11389936440'
 timezone: Asia/Ho_Chi_Minh
 include: ["_pages"]
 permalink: /:title/
