@@ -56,3 +56,10 @@ https://tinhte.vn/thread/nho-tu-van-ve-filter.635360/
 https://www.fredmiranda.com/forum/topic/1007658
 http://www.vnphoto.net/forums/showthread.php?t=137698&page=12
 http://www.vnphoto.net/forums/showthread.php?t=168282&page=3
+
+
+<a href="https://petapixel.com/mirrorless-vs-dslr/" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>Mirrorless vs DSLR: Which Camera is Best For You?</a>
+
+<script>
+var root_url=window.location.origin;function getHrefOnclickAndRedirectWithLink(t){t.preventDefault();t=t.currentTarget.getAttribute("href");window.location=[root_url,"/redirect-v2?url=",encodeURIComponent(t)].join("")}
+</script>

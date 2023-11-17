@@ -1,5 +1,5 @@
 ---
-layout: redirect-countdown
+layout: redirect-countdown-v2
 title: Chuyển hướng
 permalink: /redirect
 ---
