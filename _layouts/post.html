@@ -50,8 +50,7 @@ comments: true
 {% include quote.html %}
 
 <div class="entry-labels">
-    {{ site.keywords | xml_escape }}
-    {{ site.keywords | join: ', ' | escape }}
+    {{ page.keywords | join: ', ' | escape }}
 </div>
 <!-- Comment -->
 {% include disqus.html %}
