@@ -48,10 +48,7 @@ comments: true
 
 <!-- Quote -->
 {% include quote.html %}
-<hr>
-<div class="entry-labels article-post">
-    <h4 class="text-center mb-4">Tags: </h4>{{ page.keywords | join: ', ' | escape }}
-</div>
+{% include show-keywords.html %}
 <!-- Comment -->
 {% include disqus.html %}
 
