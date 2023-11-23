@@ -4,6 +4,26 @@
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v16.0&appId=2086804534891096&autoLogAppEvents=1" nonce="y8xxA5Uo"></script>
 
 <div class="article-post">
+  <hr style="border: 1px solid #000000;">
+  <div class="container-fluid" id="box">
+    <div class="row" style="margin-top: 5%;">
+      <div class="col-md-3">
+      </div>
+      <div class="col-md-6 well">
+
+    <p id="quote" style="font-family: 'Arvo', serif;">"Be yourself; everyone else is already taken."</p>
+    <footer class="blockquote-footer"><em id="by">Oscar Wilde</em></footer><br>
+
+        <div class="text-center">
+        <button class="btn" id="getQuote" style="  background-color: #151718;
+        color: #E5E8F1;">Get a new quote
+        </button>
+        </div>
+      </div>
+      <div class="col-md-3">
+      </div>
+    </div>
+  </div>
 	<hr style="border: 1px solid #000000;">
   <div class="content" style="text-align:center; ">
     <img data-src="../../assets/images/ngam/cat_doantion.webp" alt="Ủng hộ Anh hàng xóm" title="Ủng hộ tôi" class="blur-up lazyload img-thumb lazyimg ten-lop-ban-tu-dat" id="image-hover"/>
@@ -40,3 +60,15 @@ function addDay(){let e=new Date,t=parseInt(e.getHours());t>=7&&t<12&&(document.
 <script>
   var root_url=window.location.origin;function getHrefOnclickAndRedirectWithLink(t){t.preventDefault();t=t.currentTarget.getAttribute("href");window.location=[root_url,"/redirect-v2?url=",encodeURIComponent(t)].join("")}
 </script>
+<script>$(document).ready(function() {
+  //generate button
+  $("#getQuote").on("click", function() {
+    $.getJSON('https://api.forismatic.com/api/1.0/?method=getQuote&format=jsonp&lang=en&jsonp=?', function(json) {
+      var quote = json.quoteText;
+      var author = json.quoteAuthor;
+      $("#quote").text("\"" + quote + "\"");
+      $("#by").text(author);
+    });
+  });
+
+});</script>
