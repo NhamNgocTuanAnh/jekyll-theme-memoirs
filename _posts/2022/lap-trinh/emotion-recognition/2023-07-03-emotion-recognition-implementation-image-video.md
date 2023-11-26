@@ -141,10 +141,10 @@ Nhưng vì tránh cho người dùng phải đối mặt với con trỏ hay qu�
 
 **Cython** đã là một vị cứu cánh. Bạn chỉ cần thay đổi 20% đoạn mã code của bạn để nâng 80% hiệu suất tổng thể. Vì có khá ít blog Việt nam nói chuyên sâu về Cython. Nên mình ít để ví dụ hoặc tutorial cho các bạn được.
 
-> (〜￣▽￣)〜Trong tương lai mình sẽ viết thêm về **Cython**. Các bạn chú ý đón xem nhé!! 〜(￣▽￣〜)
+> (〜￣▽￣)〜 Trong tương lai mình sẽ viết thêm về **Cython**. Các bạn chú ý đón xem nhé!! 〜(￣▽￣〜)
 
-
-<a href="https://123docz.net/document/14996221-kho-a-lua-n-he-tho-ng-nha-n-da-ng-ca-m-xu-c-guong-ma-t-realtime-cython-python-emotionrecognition.htm" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>Mình đã viết một báo cáo ở đây! Bạn tham khảo nhé!</a>
+<hr>
+<a href="https://123docz.net/document/14996221-kho-a-lua-n-he-tho-ng-nha-n-da-ng-ca-m-xu-c-guong-ma-t-realtime-cython-python-emotionrecognition.htm" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>😍 Mình đã viết một báo cáo ở đây! Bạn tham khảo nhé!</a>
 
 <script>
 var root_url=window.location.origin;function getHrefOnclickAndRedirectWithLink(t){t.preventDefault();t=t.currentTarget.getAttribute("href");window.location=[root_url,"/redirect-v2?url=",encodeURIComponent(t)].join("")}
