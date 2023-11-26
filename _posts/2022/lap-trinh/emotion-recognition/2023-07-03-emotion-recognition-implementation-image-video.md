@@ -144,8 +144,13 @@ Nhưng vì tránh cho người dùng phải đối mặt với con trỏ hay qu�
 > (〜￣▽￣)〜 Trong tương lai mình sẽ viết thêm về **Cython**. Các bạn chú ý đón xem nhé!! 〜(￣▽￣〜)
 
 <hr>
+<div class="iframe-container">
+  <iframe width="560" height="315" src="https://123docz.net/document/14996221-kho-a-lua-n-he-tho-ng-nha-n-da-ng-ca-m-xu-c-guong-ma-t-realtime-cython-python-emotionrecognition.htm" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen></iframe>
+</div>
 <a href="https://123docz.net/document/14996221-kho-a-lua-n-he-tho-ng-nha-n-da-ng-ca-m-xu-c-guong-ma-t-realtime-cython-python-emotionrecognition.htm" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>😍 Mình đã viết một báo cáo ở đây! Bạn tham khảo nhé!</a>
 
 <script>
 var root_url=window.location.origin;function getHrefOnclickAndRedirectWithLink(t){t.preventDefault();t=t.currentTarget.getAttribute("href");window.location=[root_url,"/redirect-v2?url=",encodeURIComponent(t)].join("")}
 </script>
+<style>.iframe-container{overflow:hidden;padding-top:56.25%;position:relative}.iframe-container iframe{border:0;height:100%;left:0;position:absolute;top:0;width:100%}</style>
+
