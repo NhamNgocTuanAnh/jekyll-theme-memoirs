@@ -74,3 +74,5 @@ Bạn có nhìn thấy cái gì sai ở đây không?
 *   Thứ ba: Là gì ấy nhở, … ╮(￣～￣)╭
 
 > (〜￣▽￣)〜 Trong các phần tiếp theo. Mình sẽ đi sâu vào quá trình tối ưu code. Các bạn chú ý đón xem nhé. 〜(￣▽￣〜)
+
+

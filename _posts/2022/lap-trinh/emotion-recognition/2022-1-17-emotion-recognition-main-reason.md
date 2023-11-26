@@ -104,3 +104,4 @@ lý tiếp theo.
 ![image](/assets/images/emotion-detection/result-fail.webp){:class="img-responsive"}
 
 (〜￣▽￣)〜 Trong các phần tiếp theo. Mình sẽ đi sâu vào quá trình training, tối ưu code và tối ưu bài toán. Các bạn chú ý đón xem nhé. 〜(￣▽￣〜)
+

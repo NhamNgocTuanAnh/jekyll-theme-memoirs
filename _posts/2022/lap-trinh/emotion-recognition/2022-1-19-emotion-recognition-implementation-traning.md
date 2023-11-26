@@ -105,3 +105,4 @@ Kết quả thử nghiệm trên dữ liệu kiểm tra đạt mức độ chín
 (〜￣▽￣)〜 Đây là **mô hình cơ bản** trong **CNN**.
 
 > Để tối ưu chúng ta còn phải áp dụng khi tiền xử lý ảnh, craw dữ liệu, custom loss, cắt tỉa mô hình(Compression model),… 〜(￣▽￣〜)
+
