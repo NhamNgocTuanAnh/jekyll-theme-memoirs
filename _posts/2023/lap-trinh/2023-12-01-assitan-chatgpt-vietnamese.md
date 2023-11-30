@@ -89,7 +89,7 @@ import yaml
 ```
 **Chức năng chuyển văn bản thành âm thanh**
 
-```
+```python
 def speak(data):
     global is_speaking
     try:
@@ -112,7 +112,7 @@ def speak(data):
 
 <script src="https://gist.github.com/NhamNgocTuanAnh/260ebc0e582d10224d8acc0ba5a0b01f.js"></script>
 
-```
+```console
 python chatbot.py
 
 ```
@@ -122,11 +122,9 @@ bạn có thể chạy trên jupyter python còn lập trình python mình
 
 Dưới đây là một ví dụ về cách chatbot trả lời câu hỏi của người dùng:
 
-```
-copy code
+```bash
 Người dùng: Thủ đô của Việt Nam là gì?
 Chatbot: Thủ đô của Việt Nam là Hà Nội.
-
 ```
 
 **Tương lai**
