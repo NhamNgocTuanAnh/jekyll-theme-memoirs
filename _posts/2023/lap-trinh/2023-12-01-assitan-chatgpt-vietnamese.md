@@ -10,7 +10,7 @@ image: assets/images/2023/lap-trinh/avts/tro-ly-ao-chatgpt.webp
 isGithubComments: true
 permalink: lap-trinh/assistant-chatgpt-vietnamese
 excerpt: Chat openai hiện đang là chủ đề hot trên thế giới. Mình khá lười bấm keyboard và đọc chữ, nên mình đã viết một đoạn code nhỏ lấy giọng nói của mình từ micro, và trả lời câu hỏi của mình sử dụng api của openai
-description: Chat openai hiện đang là chủ đề hot trên thế giới. Mình khá lười bấm keyboard và đọc chữ, nên mình đã viết một đoạn code nhỏ lấy giọng nói của mình từ micro, và trả lời câu hỏi của mình sử dụng api của openai
+description: Chat openai hiện đang là chủ đề hot trên thế giới. Mình khá lười bấm keyboard và đọc chữ, nên mình đã viết một đoạn code nhỏ lấy giọng nói của mình từ micro, và trả lời câu hỏi của mình sử dụng api của openai.
 adsense: "enabled"
 keywords:
   - chat openai
