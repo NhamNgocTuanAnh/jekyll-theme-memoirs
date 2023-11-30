@@ -35,7 +35,7 @@ Chatbot dùng micro laptop sẽ nhận thông tin và trả lời câu hỏi c�
 
 Chatbot sẽ được thiết kế theo mô hình sau:
 
-```
+```bash
 Micro laptop
 |
 |
