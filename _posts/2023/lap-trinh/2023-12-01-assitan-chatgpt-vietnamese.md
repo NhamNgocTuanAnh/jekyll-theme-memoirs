@@ -110,9 +110,9 @@ Chatbot có thể được cải thiện bằng cách sử dụng các kỹ thu�
 *   loa trợ lý ảo tiếng việt
 
 <div class="iframe-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=DpUfb0bpHWU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://codelearn.io/sharing/lap-trinh-tro-ly-ao-tieng-viet-python" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen></iframe>
 </div>
-<a href="https://www.youtube.com/watch?v=DpUfb0bpHWU" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>😍 Bài viết được tham khảo từ 1 anh Ấn Độ</a>
+<a href="https://codelearn.io/sharing/lap-trinh-tro-ly-ao-tieng-viet-python" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>😍 Bài viết được tham khảo từ 1 anh VietNam</a>
 <script>
 var root_url=window.location.origin;function getHrefOnclickAndRedirectWithLink(t){t.preventDefault();t=t.currentTarget.getAttribute("href");window.location=[root_url,"/redirect-v2?url=",encodeURIComponent(t)].join("")}
 </script>
