@@ -75,15 +75,42 @@ Python là ngôn ngữ phổ biến, nhiều người hỗ trợ, dễ 
 Để cài đặt chatbot, cần cài đặt các thư viện sau:
 
 ```
-pip install SpeechRecognition
-pip install nltk
-pip install transformers
+import openai
+import os
+from gtts import gTTS
+import speech_recognition as sr
+from playsound import playsound
+from pydub import AudioSegment
+from pydub.playback import play
+import time
+from time import strftime
+import yaml
+
+```
+**Chức năng chuyển văn bản thành âm thanh**
+
+```
+def speak(data):
+    global is_speaking
+    try:
+        # Chuyển đổi văn bản thành giọng nói
+        audio = gTTS(remove_word(remove_word(data, "Thomas"), "thomas"), lang='vi')
+        audio.save(str(path_file_temp))
+        playsound(path_file_temp)
+    except Exception as e:
+        print(e)
+    finally:
+        print("Chuyển đổi văn bản thành giọng nói")
+
+    return True
 
 ```
 
 **Chạy**
 
 Để chạy chatbot, cần khởi động chương trình sau:
+
+<script src="https://gist.github.com/NhamNgocTuanAnh/260ebc0e582d10224d8acc0ba5a0b01f.js"></script>
 
 ```
 python chatbot.py
