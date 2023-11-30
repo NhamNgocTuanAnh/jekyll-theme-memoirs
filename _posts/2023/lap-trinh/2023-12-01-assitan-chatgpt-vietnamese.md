@@ -17,6 +17,10 @@ keywords:
   - python cơ bản
   - python3
   - bot gpt
+  - lập trình python
+  - python
+  - trí tuệ nhân tạo
+  - trợ lí ảo
 date: 2023-12-01 01:12:10 +0700
 ---
 
