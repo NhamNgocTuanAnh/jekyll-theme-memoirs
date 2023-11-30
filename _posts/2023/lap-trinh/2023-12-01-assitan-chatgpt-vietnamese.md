@@ -77,7 +77,7 @@ Python là ngôn ngữ phổ biến, nhiều người hỗ trợ, dễ 
 
 Để cài đặt chatbot, cần cài đặt các thư viện sau:
 
-```
+```python
 import openai
 import os
 from gtts import gTTS
