@@ -69,6 +69,7 @@ API ChatGPT sẽ được sử dụng để trả lời các câu hỏi của ng
 API Bard Google sẽ được sử dụng để trả lời các câu hỏi của người dùng mà không thể trả lời bằng cách tạo văn bản. Ví dụ, nếu người dùng hỏi "Số điện thoại của tổng đài điện lực là gì?", Bard Google sẽ trả lời "Số điện thoại của tổng đài điện lực là 1900 545454".
 
 **Cài đặt**
+Python là ngôn ngữ phổ biến, nhiều người hỗ trợ, dễ code dễ bảo trì. Python có rất nhiều tác dụng như dựng backend, crawler scrapy,...
 
 Để cài đặt chatbot, cần cài đặt các thư viện sau:
 
@@ -119,6 +120,4 @@ var root_url=window.location.origin;function getHrefOnclickAndRedirectWithLink(t
 <style>.iframe-container{overflow:hidden;padding-top:56.25%;position:relative}.iframe-container iframe{border:0;height:100%;left:0;position:absolute;top:0;width:100%}</style>
 
 
-speech_recognition
 
-Python là ngôn ngữ phổ biến, nhiều người hỗ trợ, dễ code dễ bảo trì. crawler scrapy
