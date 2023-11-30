@@ -24,7 +24,9 @@ keywords:
 date: 2023-12-01 01:12:10 +0700
 ---
 
- **Mục tiêu**
+> bài viết đang phát triển, sớm quay lại nhé ;)
+
+**Mục tiêu**
 
 Chatbot dùng micro laptop sẽ nhận thông tin và trả lời câu hỏi của người dùng nói bằng tiếng Việt, sử dụng API chat gpt 3.5 của ChatGPT (account chat gpt free) hoặc Bard Google.
 
