@@ -181,6 +181,16 @@ Tranh thủ trước khi hoàng hôn thì bon chen vô tuyệt tình cốc chụ
 
 Về thôi,...
 
+<div class="iframe-container">
+  <iframe width="560" height="315" src="{{site.baseurl}}/reviews/nhiep-anh/danh-gia-canon-28-105mm-f3-5-f4-5-ong-vua-da-dung-gia-re" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen></iframe>
+</div>
+<a href="{{site.baseurl}}/reviews/nhiep-anh/danh-gia-canon-28-105mm-f3-5-f4-5-ong-vua-da-dung-gia-re" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>Hầu hết ảnh mình đều chụp bằng Canon 28-105mm điểm cân bằng hoàn hảo, ông hoàng du lịch-chúa tể đa dụng!!!</a>
+<script>
+var root_url=window.location.origin;function getHrefOnclickAndRedirectWithLink(t){t.preventDefault();t=t.currentTarget.getAttribute("href");window.location=[root_url,"/redirect-v2?url=",encodeURIComponent(t)].join("")}
+</script>
+<style>.iframe-container{overflow:hidden;padding-top:56.25%;position:relative}.iframe-container iframe{border:0;height:100%;left:0;position:absolute;top:0;width:100%}</style>
+
+
 <style>
 .box{display:flex;align-items:center;justify-content:center;background:#aaa;margin:20px 0;width:100%;min-height:200px;border:2px #ccc solid;color:#fff}.row{display:flex;flex-wrap:wrap;padding:0 4px}.column{flex:25%;max-width:25%;padding:0 4px}.column img{margin-top:8px;vertical-align:middle;width:100%}@media screen and (max-width: 800px){.column{flex:50%;max-width:50%}}@media screen and (max-width: 600px){.column{flex:100%;max-width:100%}}video{max-width:100%;height:auto}
 </style>
