@@ -5,7 +5,7 @@ author: minh
 lazyimages: "enabled"
 categories: [ Tản mạn 📓 ]
 tags: [ngẫm]
-image: assets/images/2023/ngam/nhin-lai-2022-avt.webp
+image: https://i.imgur.com/4IoBKie.png
 rating: 5
 isGithubComments: false
 permalink: 2023-cua-minh-the-nao
