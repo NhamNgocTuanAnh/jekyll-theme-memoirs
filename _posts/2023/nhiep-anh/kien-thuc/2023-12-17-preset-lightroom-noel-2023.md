@@ -56,9 +56,6 @@ date: 2023-11-13 05:11:00 +0700
 pinned: true
 ---
 
-<div class="content" style="text-align:center; ">
-<img loading="lazy" src="https://imgur.com/QGKciNI.jpg" title="source: imgur.com" /></div>
-
 **Cách sử dụng preset Lightroom noel**
 
  Để sử dụng preset Lightroom noel, bạn thực hiện theo các bước sau:
@@ -72,7 +69,8 @@ Preset sẽ được áp dụng cho ảnh của bạn. Bạn có thể điều c
 
 **Một số ảnh Lightroom noel đẹp**
 
-> Loading
+<div class="content" style="text-align:center; ">
+<img loading="lazy" src="https://imgur.com/QGKciNI.jpg" title="source: imgur.com" /><p></p><br><img loading="lazy" src="https://imgur.com/mr1sYDb.jpg" title="source: imgur.com" /></div>
 
 **Lưu ý khi sử dụng preset chụp ảnh noel**
 
