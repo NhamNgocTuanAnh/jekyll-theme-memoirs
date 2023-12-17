@@ -8,7 +8,7 @@ tags: [preset, lightroom]
 image: assets/images/2023/nhiep-anh/avt/preset-noel.webp
 isGithubComments: false
 permalink: nhiep-anh/preset/lightroom-noel-retro
-excerpt: Trong bài viết này, mình sẽ chia sẻ preset Lightroom nam noel cổ điển giúp bạn dễ dàng tạo ra những bức ảnh đẹp và chuyên nghiệp.
+excerpt: Trong bài viết này, mình sẽ chia sẻ preset Lightroom noel giúp bạn dễ dàng tạo ra những bức ảnh đẹp và chuyên nghiệp.
 adsense: "enabled"
 keywords:
   - Preset lightroom
@@ -52,7 +52,7 @@ keywords:
   - preset vsco aesthetic
   - preset vsco cho lightroom
   - preset vsco analog
-date: 2023-11-13 05:11:00 +0700
+date: 2023-11-13 08:08:00 +0700
 pinned: true
 ---
 
