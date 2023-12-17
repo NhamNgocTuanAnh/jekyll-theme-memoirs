@@ -7,7 +7,7 @@ categories: [ Nhiếp ảnh 📸 ]
 tags: [preset, lightroom]
 image: assets/images/2023/nhiep-anh/avt/preset-noel.webp
 isGithubComments: false
-permalink: nhiep-anh/preset/lightroom-vintage-violin-retro
+permalink: nhiep-anh/preset/lightroom-noel-retro
 excerpt: Trong bài viết này, mình sẽ chia sẻ preset Lightroom nam violin cổ điển giúp bạn dễ dàng tạo ra những bức ảnh đẹp và chuyên nghiệp.
 adsense: "enabled"
 keywords:
