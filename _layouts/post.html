@@ -6,6 +6,24 @@ comments: true
 ---
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0" nonce="JekfmCeX"></script><script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/a439f78ba77fd2f9e892d4fa8/f37836a9f614fff78ac17eacf.js");</script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Lấy tất cả các phần tử <img> trong tài liệu HTML
+  var images = document.getElementsByTagName('img');
+
+  // Duyệt qua mảng ảnh và thêm thuộc tính ngay khi phát hiện
+  for (var i = 0; i < images.length; i++) {
+    var img = images[i];
+
+    // Kiểm tra xem thuộc tính loading đã tồn tại chưa
+    if (!img.getAttribute('loading')) {
+      // Thêm thuộc tính class="lazyload" và loading="lazy"
+      img.classList.add('lazyload');
+      img.setAttribute('loading', 'lazy');
+    }
+  }
+});
+</script>
 <div class="entry-header">
     <!-- Post Title -->
     <h1 class="posttitle">{{ page.title }}</h1>

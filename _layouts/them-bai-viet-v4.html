@@ -115,6 +115,7 @@
       editor.on('change', function (evt) {
          // getData() returns CKEditor's HTML content.
          console.log('Total bytes: ' + evt.editor.document.getBody().getHtml());
+
          document.getElementById("demo").innerHTML = evt.editor.document.getBody().getHtml();
       });
       // Your code to save "data", usually through Ajax.
