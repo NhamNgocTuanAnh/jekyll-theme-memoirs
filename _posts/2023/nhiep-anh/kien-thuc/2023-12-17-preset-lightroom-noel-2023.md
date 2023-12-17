@@ -56,6 +56,9 @@ date: 2023-11-13 05:11:00 +0700
 pinned: true
 ---
 
+<div class="content" style="text-align:center; ">
+<img loading="lazy" src="https://imgur.com/QGKciNI.jpg" title="source: imgur.com" /></div>
+
 **Cách sử dụng preset Lightroom noel**
 
  Để sử dụng preset Lightroom noel, bạn thực hiện theo các bước sau:
@@ -88,7 +91,7 @@ Preset Lightroom nam noel cổ điển sẽ giúp bạn tạo ra những bức �
 <p style="text-align:center"><em>(Nếu link tải kh&ocirc;ng hoạt động, c&aacute;c bạn vui l&ograve;ng comment b&ecirc;n dưới để được hỗ trợ sớm nhất)</em></p>
 <table><tr><th>Upload</th><td>AnhHangXom</td></tr><tr><th>Tải về</th><td>
 <p id="result"></p>
-<a href="hhttps://inote.pro/notes/G837KY" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>Tải xuống</a><img loading="lazy"
+<a href="https://inote.pro/notes/G837KY" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>Tải xuống</a><img loading="lazy"
  id="resultIm" src="https://i.stack.imgur.com/SBv4T.gif" alt="Computer man" width="250" />
 </td></tr><tr><th>Filesize</th><td>5.3 MB</td></tr>
 </table>
