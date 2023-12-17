@@ -21,6 +21,9 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style-image.css">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/toastr.min.css">
     <script src="{{ site.baseurl }}/assets/js/toastr.min.js"></script>
+    <script>
+const version=Math.floor(1e6*Math.random()),head=document.querySelector("head"),currentUrl=new URL(window.location.href);currentUrl.searchParams.set("v",version);const linkElement=document.createElement("link");linkElement.rel="stylesheet",linkElement.type="text/css",linkElement.href=currentUrl.toString(),head.appendChild(linkElement);
+    </script>
 <script>
     $(window).scroll(function(){$.each($("img"),function(){if($(this).attr("data-src")&&$(this).offset().top<$(window).scrollTop()+$(window).height()+100){var t=$(this).data("src");$(this).attr("src",t),$(this).removeAttr("data-src")}})});
     </script>
