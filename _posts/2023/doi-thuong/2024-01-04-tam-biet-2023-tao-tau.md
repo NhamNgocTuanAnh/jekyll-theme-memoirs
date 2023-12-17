@@ -9,8 +9,8 @@ image: https://i.imgur.com/4IoBKie.png
 rating: 5
 isGithubComments: false
 permalink: 2023-cua-minh-the-nao
-excerpt: Bao lâu rồi mới có một buổi sáng yên bình đến vậy. Lướt instagram rồi uống từng ngụm cà phê nhỏ. Nhìn bầu trời trong xanh, hạt nắng vươn qua ô cửa sổ, bật laptop và bắt đầu viết.
-description: Chầm chậm nhìn lại chặng đường mình đã đi qua
+excerpt: Nếu nói năm nay không có thử thách, không khó khăn thì cũng không đúng, mà nếu nói năm nay mọi thứ khá êm đềm thì cũng chẳng phải.
+description: Nếu nói năm nay không có thử thách, không khó khăn thì cũng không đúng, mà nếu nói năm nay mọi thứ khá êm đềm thì cũng chẳng phải.
 comments_id: 12
 adsense: "enabled"
 keywords:

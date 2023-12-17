@@ -11,6 +11,10 @@
       crossorigin="anonymous"></script>
    <script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
    <script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js?skin=sunburst"></script>
+   <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
+   <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
+   <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+   <script src="{{ site.baseurl }}/assets/js/lazysizes.min.js" async=""></script>
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
    <!-- Hướng dẫn viết bài -->
@@ -21,8 +25,23 @@
    <span>Lưu ý soạn xong bấm Source để copy code html</span><br>
    <form>
       <textarea name="ten" id="ten"></textarea>
-      <script>CKEDITOR.replace('ten');</script>
+      <script>var editor =  CKEDITOR.replace('ten');</script>
    </form>
+   <hr>
+   <div class="entry-header">
+<div class="article-post">
+   <p id="demo"></p></div>
+</div>
+
+
+   <script>
+      editor.on('change', function (evt) {
+         // getData() returns CKEditor's HTML content.
+         console.log('Total bytes: ' + evt.editor.document.getBody().getHtml());
+         document.getElementById("demo").innerHTML =evt.editor.document.getBody().getHtml();
+      });
+      // Your code to save "data", usually through Ajax.
+   </script>
 </body>
 
 </html>
