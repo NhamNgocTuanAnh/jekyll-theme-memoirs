@@ -78,7 +78,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <!-- Share -->
 {% include share.html %}
-<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<script>
+var currentUrl=window.location.href;if(currentUrl.includes("localhost")||currentUrl.includes("127.0.0.1"))console.log("Đang chạy localhost, kh\xf4ng th\xeam lệnh script.");else{var e=document.createElement("script");e.src="https://static.elfsight.com/platform/platform.js",e.setAttribute("data-use-service-core",""),e.defer=!0,document.head.appendChild(e)}
+</script>
 <div class="elfsight-app-be8e4ed8-2767-48dd-a856-d96b3a4edae2" data-elfsight-app-lazy style="text-align:center; "></div>
 {% include related-posts.html %}
 {% if site.url == page.url %}
