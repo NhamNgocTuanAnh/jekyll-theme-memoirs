@@ -140,8 +140,8 @@
             .then(html => {
                // Xử lý nội dung HTML ở đây, ví dụ in ra console
                var temp = document.getElementById('loadUrl');
-
-               temp.innerHTML = html.replace(/<style.*?<\/style>/g, '');
+               let htmlClean = html.replace(/<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, '');
+               temp.innerHTML = htmlClean.replace(/<style.*?<\/style>/g, '');
 
                var articleContainer = document.querySelector('.article-post');
 
