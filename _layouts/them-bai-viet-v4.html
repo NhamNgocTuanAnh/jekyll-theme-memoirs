@@ -25,20 +25,88 @@
    <span>Lưu ý soạn xong bấm Source để copy code html</span><br>
    <form>
       <textarea name="ten" id="ten"></textarea>
-      <script>var editor =  CKEDITOR.replace('ten');</script>
-   </form>
+      <script>var editor = CKEDITOR.replace('ten');</script>
+   </form><br><br>
    <hr>
-   <div class="entry-header">
-<div class="article-post">
-   <p id="demo"></p></div>
-</div>
 
+   <div class="wrapper">
+   <aside class="sc-content-aside">
+      <div class="entry-header">
+         <div class="article-post">
+            <p id="demo"></p>
+         </div>
+      </div>
+   </aside>
+   <article class="sc-content">
+      <p>Article</p>
+   </article>
+   </div>
+   <style>
+      /* This is Rachel Andrew's basic two column layout adapted for Sitecake https://gridbyexample.com/patterns/
+https://sitecake.com */
+
+      *,
+      *:before,
+      *:after {
+         box-sizing: border-box;
+      }
+
+      .wrapper {
+         margin: 0;
+         padding: 0;
+         height: 100%;
+      }
+
+
+
+      /* make a grid */
+      .wrapper {
+         max-width: 910px;
+         margin: 0 auto;
+         display: grid;
+         grid-template-columns: 1fr 3fr;
+         grid-template-rows: auto 1fr auto;
+         grid-gap: 20px;
+      }
+
+
+
+
+      .wrapper>* {
+         background-color: #444;
+         color: #fff;
+         border-radius: 5px;
+         padding: 20px;
+         font-size: 150%;
+      }
+
+      /** mobile **/
+
+      @media screen and (max-width:480px) {
+
+         .wrapper {
+            height: auto;
+         }
+
+         /* make a grid */
+         .wrapper {
+            display: flex;
+            flex-direction: column;
+         }
+
+         article,
+         aside {
+            margin-bottom: 20px;
+         }
+
+      }
+   </style>
 
    <script>
       editor.on('change', function (evt) {
          // getData() returns CKEditor's HTML content.
          console.log('Total bytes: ' + evt.editor.document.getBody().getHtml());
-         document.getElementById("demo").innerHTML =evt.editor.document.getBody().getHtml();
+         document.getElementById("demo").innerHTML = evt.editor.document.getBody().getHtml();
       });
       // Your code to save "data", usually through Ajax.
    </script>
