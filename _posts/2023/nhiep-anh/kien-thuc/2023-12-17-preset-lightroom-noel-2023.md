@@ -109,7 +109,7 @@ Preset Lightroom nam violin cổ điển sẽ giúp bạn tạo ra những bức
 <p style="text-align:center"><em>(Nếu link tải kh&ocirc;ng hoạt động, c&aacute;c bạn vui l&ograve;ng comment b&ecirc;n dưới để được hỗ trợ sớm nhất)</em></p>
 <table><tr><th>Upload</th><td>AnhHangXom</td></tr><tr><th>Tải về</th><td>
 <p id="result"></p>
-<a href="https://inote.pro/notes/D1QY2Q" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>Tải xuống</a><img loading="lazy"
+<a href="hhttps://inote.pro/notes/G837KY" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>Tải xuống</a><img loading="lazy"
  id="resultIm" src="https://i.stack.imgur.com/SBv4T.gif" alt="Computer man" width="250" />
 </td></tr><tr><th>Filesize</th><td>5.3 MB</td></tr>
 </table>
@@ -122,7 +122,7 @@ table{border-collapse:collapse;border-spacing:0;margin:0 auto;width:700px}table 
 
 <script>
 function redirect(){setInterval(myURL,5e3),document.getElementById("result").innerHTML="<b>🕵️ Đang tạo link tải. Bạn đợi tẹo nha ;)"}
-function myURL(){document.location.href="https://inote.pro/notes/D1QY2Q",toggleImage(),clearInterval(interval)}
+function myURL(){document.location.href="https://inote.pro/notes/G837KY",toggleImage(),clearInterval(interval)}
 function toggleImage() {
   document.getElementById("resultIm").style.display = "block";
 }
