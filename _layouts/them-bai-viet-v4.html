@@ -23,6 +23,16 @@
 <body>
    <h1>Thêm bài viết mới v0.0.1</h1>
    <span>Lưu ý soạn xong bấm Source để copy code html</span><br>
+
+   <label for="urlInput">Enter URL:</label>
+   <input type="text" id="urlInput" placeholder="https://example.com">
+   <button onclick="fetchHtml()">lấy nội dung bài viết</button>
+
+   <div class="hidden-element" style="display: none;">
+      <div id="loadUrl"></div>
+   </div>
+
+
    <form>
       <textarea name="ten" id="ten"></textarea>
       <script>var editor = CKEDITOR.replace('ten');</script>
@@ -30,25 +40,22 @@
    <hr>
 
    <div class="wrapper">
-   <aside class="sc-content-aside">
-      <div class="entry-header">
-         <div class="article-post">
-            <!-- <p id="demo"></p> -->
+      <aside class="sc-content-aside">
+         <div class="entry-header">
+            <div class="article-post">
+               <!-- <p id="demo"></p> -->
+            </div>
          </div>
-      </div>
-   </aside>
-   <article class="sc-content">
-      <div class="entry-header">
-         <div class="article-post">
-            <p id="demo"></p>
+      </aside>
+      <article class="sc-content">
+         <div class="entry-header">
+            <div class="article-post">
+               <p id="demo"></p>
+            </div>
          </div>
-      </div>
-   </article>
+      </article>
    </div>
    <style>
-      /* This is Rachel Andrew's basic two column layout adapted for Sitecake https://gridbyexample.com/patterns/
-https://sitecake.com */
-
       *,
       *:before,
       *:after {
@@ -112,6 +119,58 @@ https://sitecake.com */
       });
       // Your code to save "data", usually through Ajax.
    </script>
+
+
+   <script>
+
+      function fetchHtml() {
+         // Lấy giá trị từ ô input
+         var url = document.getElementById("urlInput").value;
+
+         // Sử dụng Fetch API để lấy nội dung của trang web
+         fetch(url)
+            .then(response => {
+               // Kiểm tra xem có lỗi không
+               if (!response.ok) {
+                  throw new Error('Network response was not ok');
+               }
+               // Trả về nội dung HTML của trang web
+               return response.text();
+            })
+            .then(html => {
+               // Xử lý nội dung HTML ở đây, ví dụ in ra console
+               var temp = document.getElementById('loadUrl');
+
+               temp.innerHTML = html.replace(/<style.*?<\/style>/g, '');
+
+               var articleContainer = document.querySelector('.article-post');
+
+               // Kiểm tra xem có element nào có class là 'article-post' không
+               if (articleContainer) {
+                  // Lấy nội dung trong thẻ 'article-post'
+                  var articleContent = articleContainer.innerHTML;
+
+                  // In ra console hoặc xử lý dữ liệu theo ý muốn của bạn
+                  console.log(articleContent);
+                  editor.setData(articleContent);
+                  // Lấy danh sách các phần tử có class là "to-be-deleted"
+                  var elementsToDelete = document.getElementById('loadUrl');
+
+                  // Lặp qua từng phần tử và xóa nội dung
+                  elementsToDelete.forEach(function (element) {
+                     element.innerHTML = '';
+                  });
+               } else {
+                  console.error('Không tìm thấy element có class là "article-post"');
+               }
+            })
+            .catch(error => {
+               // Xử lý lỗi nếu có
+               console.error('There was a problem with the fetch operation:', error);
+            });
+      }
+   </script>
+
 </body>
 
 </html>
