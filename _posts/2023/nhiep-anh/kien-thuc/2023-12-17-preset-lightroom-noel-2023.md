@@ -69,10 +69,7 @@ Preset sẽ được áp dụng cho ảnh của bạn. Bạn có thể điều c
 
 **Một số ảnh Lightroom noel đẹp**
 
-<div class="content" style="text-align:center; ">
-<a href="https://imgur.com/UxaUqQq"><img loading="lazy" src="https://i.imgur.com/UxaUqQq.jpg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/q2xbOkw"><img loading="lazy" src="https://i.imgur.com/q2xbOkw.jpg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/d1IOdC4"><img loading="lazy" src="https://i.imgur.com/d1IOdC4.jpg" title="source: imgur.com" /></a><p></p><br></div>
-
-
+> Loading
 
 **Lưu ý khi sử dụng preset chụp ảnh noel**
 
@@ -83,8 +80,6 @@ Khi sử dụng preset chụp ảnh noel nam, bạn cần lưu ý một số đi
 *   **Không lạm dụng preset:** Preset chỉ là một công cụ hỗ trợ. Bạn không nên lạm dụng preset, thay vào đó hãy sử dụng các kỹ thuật chụp ảnh để tạo ra những bức ảnh đẹp.
 
 **Kết luận**
-
-<div class="content" style="text-align:center; "><a href="https://imgur.com/Mkz0m4O"><img loading="lazy" src="https://i.imgur.com/Mkz0m4O.jpg" title="source: imgur.com" /></a></div>
 
 Preset Lightroom nam noel cổ điển sẽ giúp bạn tạo ra những bức ảnh nam noel cổ điển đẹp và chuyên nghiệp.
 
