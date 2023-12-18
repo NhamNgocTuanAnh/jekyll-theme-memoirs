@@ -98,6 +98,7 @@ const version=Math.floor(1e6*Math.random()),head=document.querySelector("head"),
 <script>const detectElem = document.querySelector("#ch-detect"); const isDonationPage = "/ung-ho" == window.location.pathname.toString(); let adBlockPopup,dismissBtn; const BgEffect = document.querySelector(".ch-bg-effect"); let adClasses = ["ad", "ads", "adsbox", "doubleclick", "ad-placement", "ad-placeholder", "adbadge", "BannerAd"]; for (let item of adClasses) { detectElem.classList.add(item); } let getProperty = window.getComputedStyle(detectElem).getPropertyValue("display"); (adBlockPopup=document.querySelector(".ch-popup-box"))&&(dismissBtn=adBlockPopup.querySelector(".dismiss-btn"));dismissBtn.addEventListener("click", () => { adBlockPopup.classList.remove("show"); BgEffect.classList.remove("show"); });</script>
         <!-- Begin Footer
 ================================================== -->
+<div id="snowCall"></div>
     <footer class="footer"><div class="container"><div class="row"><div class="col-md-6 col-sm-12 text-center text-lg-left">Copyright © {{ site.time | date: "%Y" }} {{ site.name }} </div><div class="col-md-6 col-sm-12 text-center text-lg-right"><a target="_blank" href="https://www.facebook.com/nntatlu/">Anh Hàng Xóm</a></div></div></div><div class="fb-customerchat" attribution=setup_tool page_id="113478371644013"></div></footer>
         <!-- End Footer
 ================================================== -->
