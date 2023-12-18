@@ -74,6 +74,24 @@ comments: true
     console.log("Đang chạy localhost, không thêm lệnh script.");
   } else {
     // Thêm đoạn mã script từ ElfSight
+    // Tạo một phần tử div
+var divElement = document.createElement('div');
+
+// Thiết lập các thuộc tính của div
+divElement.className = 'elfsight-app-be8e4ed8-2767-48dd-a856-d96b3a4edae2';
+divElement.setAttribute('data-elfsight-app-lazy', '');
+divElement.style.textAlign = 'center';
+
+// Lấy thẻ div có id "instaShow2"
+var targetDivElement = document.getElementById('instaShow2');
+
+// Kiểm tra xem thẻ div có tồn tại không trước khi thêm div vào
+if (targetDivElement) {
+    // Thêm div vào thẻ div có id "instaShow2"
+    targetDivElement.appendChild(divElement);
+} else {
+    console.error('Không tìm thấy thẻ div có id "instaShow2".');
+}
     var elfScript = document.createElement("script");
     elfScript.src = "https://static.elfsight.com/platform/platform.js";
     elfScript.setAttribute("data-use-service-core", "");
@@ -121,9 +139,8 @@ comments: true
   }
 </script>
 
-<iframe src="//lightwidget.com/widgets/18920c1be82e5560b8020cafa3700c9f.html" scrolling="no" allowtransparency="true"
-  class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
-<div class="elfsight-app-be8e4ed8-2767-48dd-a856-d96b3a4edae2" data-elfsight-app-lazy style="text-align:center; "></div>
+<div id="instaShow1"></div>
+<div id="instaShow2"></div>
 {% include related-posts.html %}
 {% if site.url == page.url %}
 <div id="fb-root"></div>
