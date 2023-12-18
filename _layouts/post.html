@@ -64,28 +64,36 @@ document.addEventListener("DOMContentLoaded",function(){for(var t=document.getEl
 <!-- Share -->
 {% include share.html %}
 <script>
-var currentUrl=window.location.href;if(currentUrl.includes("localhost")||currentUrl.includes("127.0.0.1"))console.log("Đang chạy localhost, kh\xf4ng th\xeam lệnh script.");else{var e=document.createElement("script");e.src="https://static.elfsight.com/platform/platform.js",e.setAttribute("data-use-service-core",""),e.defer=!0,document.head.appendChild(e)
+// Kiểm tra nếu đang chạy ở localhost hoặc 127.0.0.1, hiển thị thông báo và ngưng thêm lệnh script
+var currentUrlInst = window.location.href;
 
-
-// Kiểm tra xem có phần tử có class "eapps-instagram-feed-container" hay không
-var element = document.querySelector('.eapps-instagram-feed-container');
-
-if (element) {
-    // Nếu có, thực hiện các hành động bạn muốn ở đây
-    console.log('Phần tử được tìm thấy. Thực hiện các hành động cần thiết.');
-
+if (currentUrlInst.includes("localhost") || currentUrlInst.includes("127.0.0.1")) {
+    console.log("Đang chạy localhost, không thêm lệnh script.");
 } else {
-    // Nếu không có, thêm đoạn mã script để tải widget từ LightWidget
-    var scriptElement = document.createElement('script');
-    scriptElement.src = 'https://cdn.lightwidget.com/widgets/lightwidget.js';
-    document.head.appendChild(scriptElement);
+    // Thêm đoạn mã script từ ElfSight
+    var elfScript = document.createElement("script");
+    elfScript.src = "https://static.elfsight.com/platform/platform.js";
+    elfScript.setAttribute("data-use-service-core", "");
+    elfScript.defer = true;
+    document.head.appendChild(elfScript);
 
-    console.log('Phần tử không được tìm thấy. Đã thêm đoạn mã script.');
-}
+    // Kiểm tra xem có phần tử có class "eapps-instagram-feed-container" hay không
+    var element = document.querySelector('.eapps-instagram-feed-container');
 
+    if (element) {
+        // Nếu có, thực hiện các hành động bạn muốn ở đây
+        console.log('Phần tử được tìm thấy. Thực hiện các hành động cần thiết.');
+    } else {
+        // Nếu không có, thêm đoạn mã script để tải widget từ LightWidget
+        var lightWidgetScript = document.createElement('script');
+        lightWidgetScript.src = 'https://cdn.lightwidget.com/widgets/lightwidget.js';
+        document.head.appendChild(lightWidgetScript);
+
+        console.log('Phần tử không được tìm thấy. Đã thêm đoạn mã script.');
+    }
 }
 </script>
-<!-- LightWidget WIDGET --><script src="https://static.elfsight.com/platform/platform.js"></script>
+
 <iframe src="//lightwidget.com/widgets/18920c1be82e5560b8020cafa3700c9f.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
 <div class="elfsight-app-be8e4ed8-2767-48dd-a856-d96b3a4edae2" data-elfsight-app-lazy style="text-align:center; "></div>
 {% include related-posts.html %}
