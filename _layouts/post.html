@@ -67,37 +67,7 @@ comments: true
 <!-- Share -->
 {% include share.html %}
 <script>
-  // Kiểm tra nếu đang chạy ở localhost hoặc 127.0.0.1, hiển thị thông báo và ngưng thêm lệnh script
-  var currentUrlInst = window.location.href;
-
-  if (currentUrlInst.includes("localhost") || currentUrlInst.includes("127.0.0.1")) {
-    console.log("Đang chạy localhost, không thêm lệnh script.");
-  } else {
-    // Thêm đoạn mã script từ ElfSight
-    // Tạo một phần tử div
-  var divElement = document.createElement('div');
-
-  // Thiết lập các thuộc tính của div
-  divElement.className = 'elfsight-app-be8e4ed8-2767-48dd-a856-d96b3a4edae2';
-  divElement.setAttribute('data-elfsight-app-lazy', '');
-  divElement.style.textAlign = 'center';
-
-  // Lấy thẻ div có id "instaShow2"
-  var targetDivElement = document.getElementById('instaShow2');
-
-  // Kiểm tra xem thẻ div có tồn tại không trước khi thêm div vào
-  if (targetDivElement) {
-      // Thêm div vào thẻ div có id "instaShow2"
-      targetDivElement.appendChild(divElement);
-  } else {
-      console.error('Không tìm thấy thẻ div có id "instaShow2".');
-  }
-      var elfScript = document.createElement("script");
-      elfScript.src = "https://static.elfsight.com/platform/platform.js";
-      elfScript.setAttribute("data-use-service-core", "");
-      elfScript.defer = true;
-      document.head.appendChild(elfScript);
-  }
+var currentUrlInst=window.location.href;if(currentUrlInst.includes("localhost")||currentUrlInst.includes("127.0.0.1"))console.log("Đang chạy localhost, kh\xf4ng th\xeam lệnh script.");else{var e=document.createElement("div");e.className="elfsight-app-be8e4ed8-2767-48dd-a856-d96b3a4edae2",e.setAttribute("data-elfsight-app-lazy",""),e.style.textAlign="center";var t=document.getElementById("instaShow2");t?t.appendChild(e):console.error('Kh\xf4ng t\xecm thấy thẻ div c\xf3 id "instaShow2".');var a=document.createElement("script");a.src="https://static.elfsight.com/platform/platform.js",a.setAttribute("data-use-service-core",""),a.defer=!0,document.head.appendChild(a)}
 </script>
 
 <div id="instaShow2"></div>
