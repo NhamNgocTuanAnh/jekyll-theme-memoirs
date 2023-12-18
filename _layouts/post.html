@@ -4,38 +4,41 @@ archive: false
 post_class: post-template
 comments: true
 ---
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0" nonce="JekfmCeX"></script><script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/a439f78ba77fd2f9e892d4fa8/f37836a9f614fff78ac17eacf.js");</script>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0"
+  nonce="JekfmCeX"></script>
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<script
+  id="mcjs">!function (c, h, i, m, p) { m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode.insertBefore(m, p) }(document, "script", "https://chimpstatic.com/mcjs-connected/js/users/a439f78ba77fd2f9e892d4fa8/f37836a9f614fff78ac17eacf.js");</script>
 <script>
-document.addEventListener("DOMContentLoaded",function(){for(var t=document.getElementsByTagName("img"),e=0;e<t.length;e++){var a=t[e];a.getAttribute("loading")||(a.classList.add("lazyload"),a.setAttribute("loading","lazy"))}});
+  document.addEventListener("DOMContentLoaded", function () { for (var t = document.getElementsByTagName("img"), e = 0; e < t.length; e++) { var a = t[e]; a.getAttribute("loading") || (a.classList.add("lazyload"), a.setAttribute("loading", "lazy")) } });
 </script>
 <div class="entry-header">
-    <!-- Post Title -->
-    <h1 class="posttitle">{{ page.title }}</h1>
-    <!-- Author & Date  Box -->
-    {% assign author = site.authors[page.author] %}
-    {% if page.author %}
-    <div class="d-flex align-items-center mt-4">
-        <div>
-            {% if author.avatar %}
-            <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
-            {% else %}
-            <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x"
-                alt="{{ author.display_name }}">
-            {% endif %}
-        </div>
-        <div>
-            Written by {{ author.display_name }} on
-            <span class="post-date"><time class="post-date" datetime="{{ page.date | date:" %Y-%m-%d" }}">{{ page.date |
-                    date_to_string }}</time></span>.
-            {% if page.last_modified_at %}
-            (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{
-                page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-            {% endif %} {% include reading-time.html %}
-        </div>
-
+  <!-- Post Title -->
+  <h1 class="posttitle">{{ page.title }}</h1>
+  <!-- Author & Date  Box -->
+  {% assign author = site.authors[page.author] %}
+  {% if page.author %}
+  <div class="d-flex align-items-center mt-4">
+    <div>
+      {% if author.avatar %}
+      <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
+      {% else %}
+      <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x"
+        alt="{{ author.display_name }}">
+      {% endif %}
     </div>
-    {% endif %}
+    <div>
+      Written by {{ author.display_name }} on
+      <span class="post-date"><time class="post-date" datetime="{{ page.date | date:" %Y-%m-%d" }}">{{ page.date |
+          date_to_string }}</time></span>.
+      {% if page.last_modified_at %}
+      (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{
+        page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+      {% endif %} {% include reading-time.html %}
+    </div>
+
+  </div>
+  {% endif %}
 </div>
 
 <!-- Adsense under title if enabled from _config.yml (change your pub id and slot) -->
@@ -64,12 +67,12 @@ document.addEventListener("DOMContentLoaded",function(){for(var t=document.getEl
 <!-- Share -->
 {% include share.html %}
 <script>
-// Kiểm tra nếu đang chạy ở localhost hoặc 127.0.0.1, hiển thị thông báo và ngưng thêm lệnh script
-var currentUrlInst = window.location.href;
+  // Kiểm tra nếu đang chạy ở localhost hoặc 127.0.0.1, hiển thị thông báo và ngưng thêm lệnh script
+  var currentUrlInst = window.location.href;
 
-if (currentUrlInst.includes("localhost") || currentUrlInst.includes("127.0.0.1")) {
+  if (currentUrlInst.includes("localhost") || currentUrlInst.includes("127.0.0.1")) {
     console.log("Đang chạy localhost, không thêm lệnh script.");
-} else {
+  } else {
     // Thêm đoạn mã script từ ElfSight
     var elfScript = document.createElement("script");
     elfScript.src = "https://static.elfsight.com/platform/platform.js";
@@ -81,25 +84,48 @@ if (currentUrlInst.includes("localhost") || currentUrlInst.includes("127.0.0.1")
     var element = document.querySelector('.eapps-instagram-feed-container');
 
     if (element) {
-        // Nếu có, thực hiện các hành động bạn muốn ở đây
-        console.log('Phần tử được tìm thấy. Thực hiện các hành động cần thiết.');
+      // Nếu có, thực hiện các hành động bạn muốn ở đây
+      console.log('Phần tử được tìm thấy. Thực hiện các hành động cần thiết.');
     } else {
-        // Nếu không có, thêm đoạn mã script để tải widget từ LightWidget
-        var lightWidgetScript = document.createElement('script');
-        lightWidgetScript.src = 'https://cdn.lightwidget.com/widgets/lightwidget.js';
-        document.head.appendChild(lightWidgetScript);
+      // Nếu không có, thêm đoạn mã script để tải widget từ LightWidget
+      var lightWidgetScript = document.createElement('script');
+      lightWidgetScript.src = 'https://cdn.lightwidget.com/widgets/lightwidget.js';
+      document.head.appendChild(lightWidgetScript);
 
-        console.log('Phần tử không được tìm thấy. Đã thêm đoạn mã script.');
+      console.log('Phần tử không được tìm thấy. Đã thêm đoạn mã script.');
+      // Tạo một phần tử iframe
+      var iframeElement = document.createElement('iframe');
+
+      // Thiết lập thuộc tính src
+      iframeElement.src = '//lightwidget.com/widgets/18920c1be82e5560b8020cafa3700c9f.html';
+
+      // Thiết lập các thuộc tính khác của iframe
+      iframeElement.scrolling = 'no';
+      iframeElement.allowtransparency = 'true';
+      iframeElement.className = 'lightwidget-widget';
+      iframeElement.style.width = '100%';
+      iframeElement.style.border = '0';
+      iframeElement.style.overflow = 'hidden';
+
+      // Lấy thẻ div có id "instaShow1"
+      var divElement = document.getElementById('instaShow1');
+
+      // Kiểm tra xem thẻ div có tồn tại không trước khi thêm iframe vào
+      if (divElement) {
+        // Thêm iframe vào thẻ div
+        divElement.appendChild(iframeElement);
+      } else {
+        console.error('Không tìm thấy thẻ div có id "instaShow1".');
+      }
     }
-}
+  }
 </script>
 
-<iframe src="//lightwidget.com/widgets/18920c1be82e5560b8020cafa3700c9f.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+<iframe src="//lightwidget.com/widgets/18920c1be82e5560b8020cafa3700c9f.html" scrolling="no" allowtransparency="true"
+  class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
 <div class="elfsight-app-be8e4ed8-2767-48dd-a856-d96b3a4edae2" data-elfsight-app-lazy style="text-align:center; "></div>
 {% include related-posts.html %}
 {% if site.url == page.url %}
 <div id="fb-root"></div>
 {% endif %}
 <!-- Load Facebook SDK for JavaScript -->
-
-
