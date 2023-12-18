@@ -75,71 +75,31 @@ comments: true
   } else {
     // Thêm đoạn mã script từ ElfSight
     // Tạo một phần tử div
-var divElement = document.createElement('div');
+  var divElement = document.createElement('div');
 
-// Thiết lập các thuộc tính của div
-divElement.className = 'elfsight-app-be8e4ed8-2767-48dd-a856-d96b3a4edae2';
-divElement.setAttribute('data-elfsight-app-lazy', '');
-divElement.style.textAlign = 'center';
+  // Thiết lập các thuộc tính của div
+  divElement.className = 'elfsight-app-be8e4ed8-2767-48dd-a856-d96b3a4edae2';
+  divElement.setAttribute('data-elfsight-app-lazy', '');
+  divElement.style.textAlign = 'center';
 
-// Lấy thẻ div có id "instaShow2"
-var targetDivElement = document.getElementById('instaShow2');
+  // Lấy thẻ div có id "instaShow2"
+  var targetDivElement = document.getElementById('instaShow2');
 
-// Kiểm tra xem thẻ div có tồn tại không trước khi thêm div vào
-if (targetDivElement) {
-    // Thêm div vào thẻ div có id "instaShow2"
-    targetDivElement.appendChild(divElement);
-} else {
-    console.error('Không tìm thấy thẻ div có id "instaShow2".');
-}
-    var elfScript = document.createElement("script");
-    elfScript.src = "https://static.elfsight.com/platform/platform.js";
-    elfScript.setAttribute("data-use-service-core", "");
-    elfScript.defer = true;
-    document.head.appendChild(elfScript);
-
-    // Kiểm tra xem có phần tử có class "eapps-instagram-feed-container" hay không
-    var element = document.querySelector('.eapps-instagram-feed-container');
-
-    if (element) {
-      // Nếu có, thực hiện các hành động bạn muốn ở đây
-      console.log('Phần tử được tìm thấy. Thực hiện các hành động cần thiết.');
-    } else {
-      // Nếu không có, thêm đoạn mã script để tải widget từ LightWidget
-      var lightWidgetScript = document.createElement('script');
-      lightWidgetScript.src = 'https://cdn.lightwidget.com/widgets/lightwidget.js';
-      document.head.appendChild(lightWidgetScript);
-
-      console.log('Phần tử không được tìm thấy. Đã thêm đoạn mã script.');
-      // Tạo một phần tử iframe
-      var iframeElement = document.createElement('iframe');
-
-      // Thiết lập thuộc tính src
-      iframeElement.src = '//lightwidget.com/widgets/18920c1be82e5560b8020cafa3700c9f.html';
-
-      // Thiết lập các thuộc tính khác của iframe
-      iframeElement.scrolling = 'no';
-      iframeElement.allowtransparency = 'true';
-      iframeElement.className = 'lightwidget-widget';
-      iframeElement.style.width = '100%';
-      iframeElement.style.border = '0';
-      iframeElement.style.overflow = 'hidden';
-
-      // Lấy thẻ div có id "instaShow1"
-      var divElement = document.getElementById('instaShow1');
-
-      // Kiểm tra xem thẻ div có tồn tại không trước khi thêm iframe vào
-      if (divElement) {
-        // Thêm iframe vào thẻ div
-        divElement.appendChild(iframeElement);
-      } else {
-        console.error('Không tìm thấy thẻ div có id "instaShow1".');
-      }
-    }
+  // Kiểm tra xem thẻ div có tồn tại không trước khi thêm div vào
+  if (targetDivElement) {
+      // Thêm div vào thẻ div có id "instaShow2"
+      targetDivElement.appendChild(divElement);
+  } else {
+      console.error('Không tìm thấy thẻ div có id "instaShow2".');
+  }
+      var elfScript = document.createElement("script");
+      elfScript.src = "https://static.elfsight.com/platform/platform.js";
+      elfScript.setAttribute("data-use-service-core", "");
+      elfScript.defer = true;
+      document.head.appendChild(elfScript);
   }
 </script>
 
-<div id="instaShow1"></div>
 <div id="instaShow2"></div>
 {% include related-posts.html %}
 {% if site.url == page.url %}
