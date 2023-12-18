@@ -1,0 +1,2 @@
+// tuyết mùa đông
+document.addEventListener("DOMContentLoaded",function(){var e=new Date().getMonth();if(11===e||0===e){var t=document.createElement("link");t.rel="stylesheet",t.type="text/css",t.href="./assets/css/snow.css",document.head.appendChild(t);var a=document.createElement("div");a.className="snowflakes",a.setAttribute("aria-hidden","true");for(var n=0;n<12;n++){var s=document.createElement("div");s.className="snowflake";var d=document.createElement("div");d.className="inner",d.textContent="❅",s.appendChild(d),a.appendChild(s)}document.body.appendChild(a)}});
