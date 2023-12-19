@@ -4,3 +4,5 @@
 var myIndex=0;function carousel(){var e,l=document.getElementsByClassName("mySlides");for(e=0;e<l.length;e++)l[e].style.display="none";++myIndex>l.length&&(myIndex=1),l[myIndex-1].style.display="block",setTimeout(carousel,5e3)}carousel();
 document.addEventListener("DOMContentLoaded",function(){fetch("https://api64.ipify.org?format=json").then(t=>t.json()).then(t=>{let e=t.ip;localStorage.getItem("visitedIPs")?document.getElementById("myAuthShow").style.display="none":(localStorage.setItem("visitedIPs",e),document.getElementById("myAuthShow").style.display="block")}).catch(t=>console.error("Error fetching IP:",t))});
 </script>
+
+
