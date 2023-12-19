@@ -89,11 +89,7 @@ const version=Math.floor(1e6*Math.random()),head=document.querySelector("head"),
 <script>const detectElem = document.querySelector("#ch-detect"); const isDonationPage = "/ung-ho" == window.location.pathname.toString(); let adBlockPopup,dismissBtn; const BgEffect = document.querySelector(".ch-bg-effect"); let adClasses = ["ad", "ads", "adsbox", "doubleclick", "ad-placement", "ad-placeholder", "adbadge", "BannerAd"]; for (let item of adClasses) { detectElem.classList.add(item); } let getProperty = window.getComputedStyle(detectElem).getPropertyValue("display"); (adBlockPopup=document.querySelector(".ch-popup-box"))&&(dismissBtn=adBlockPopup.querySelector(".dismiss-btn"));dismissBtn.addEventListener("click", () => { adBlockPopup.classList.remove("show"); BgEffect.classList.remove("show"); });</script>
         <!-- Begin Footer
 ================================================== -->
-<div id="snowCall"></div>
-
-<div id="overlay" class="overlay" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5);"> <div class="popup" style=" position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: #fff; padding: 20px; border-radius: 10px; text-align: center;"> <span class="close-btn" xss=removed style=" position: absolute; top: 10px; right: 10px; font-size: 20px; cursor: pointer;" onclick="closePopup()">×</span> <h2>Chúc mừng Năm Mới!</h2> <p>Chúc bạn một năm mới tràn đầy hạnh phúc và thành công!</p> </div><div class="pyro"><div class="before"></div><div class="after"></div></div> </div>
-
-
+<div id="snowCall"></div><div id="overlay" class="overlay" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5);"> <div class="popup" style=" position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: #fff; padding: 20px; border-radius: 10px; text-align: center;"> <span class="close-btn" xss=removed style=" position: absolute; top: 10px; right: 10px; font-size: 20px; cursor: pointer;" onclick="closePopup()">×</span> <h2>Chúc mừng Năm Mới!</h2> <p>Chúc bạn một năm mới tràn đầy hạnh phúc và thành công!</p> </div><div class="pyro"><div class="before"></div><div class="after"></div></div> </div>
     <footer class="footer"><div class="container"><div class="row"><div class="col-md-6 col-sm-12 text-center text-lg-left">Copyright © {{ site.time | date: "%Y" }} {{ site.name }} </div><div class="col-md-6 col-sm-12 text-center text-lg-right"><a target="_blank" href="https://www.facebook.com/nntatlu/">Anh Hàng Xóm</a></div></div></div><div class="fb-customerchat" attribution=setup_tool page_id="113478371644013"></div></footer>
         <!-- End Footer
 ================================================== -->
@@ -135,7 +131,6 @@ const version=Math.floor(1e6*Math.random()),head=document.querySelector("head"),
     <script type="text/javascript">
         function nocontext(t) { if ("IMG" == (null == t ? event.srcElement.tagName : t.target.tagName)) return !1 } document.oncontextmenu = nocontext;
     </script>
-
     <script type="text/javascript">
         function downloadJsAtOnload() { setTimeout(function () { var o = document.createElement("script"); o.setAttribute("data-ad-client", "ca-pub-8920573839255504"), o.async = !0, o.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js", document.body.appendChild(o) }, 5e3) } window.addEventListener ? window.addEventListener("load", downloadJsAtOnload, !1) : window.attachEvent ? window.attachEvent("onload", downloadJsAtOnload) : window.onload = downloadJsAtOnload, window.addEventListener("load", () => { var o = document.querySelectorAll("ins.ADSENSE"); Array.from(o).forEach(o => { var d = o.parentElement; "none" === window.getComputedStyle(d).getPropertyValue("display") ? o.remove() : (o.classList.remove("ADSENSE"), o.classList.add("adsbygoogle"), (adsbygoogle = window.adsbygoogle || []).push({})) }) });
     </script>
