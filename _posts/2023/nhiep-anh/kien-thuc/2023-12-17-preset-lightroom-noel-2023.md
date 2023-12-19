@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Chia sẻ Preset chụp ảnh vintage noel - by anhhangxom (Mobile and PC)'
+title: 'Chia sẻ Preset chụp ảnh noel - by anhhangxom Mobile'
 author: sal
 lazyimages: "enabled"
 categories: [ Nhiếp ảnh 📸 ]
