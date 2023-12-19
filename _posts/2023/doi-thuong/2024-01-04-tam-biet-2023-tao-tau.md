@@ -8,21 +8,21 @@ tags: [ngẫm]
 image: https://i.imgur.com/4IoBKie.png
 rating: 5
 isGithubComments: false
-permalink: 2023-cua-minh-the-nao
+permalink: minh-vui-ve-2023-cua-minh-the-nao
 excerpt: Nếu nói năm nay không có thử thách, không khó khăn thì cũng không đúng, mà nếu nói năm nay mọi thứ khá êm đềm thì cũng chẳng phải.
 description: Nếu nói năm nay không có thử thách, không khó khăn thì cũng không đúng, mà nếu nói năm nay mọi thứ khá êm đềm thì cũng chẳng phải.
 comments_id: 12
 adsense: "enabled"
 keywords:
-  - Tạm biệt 2022
-  - 2022 Một năm nhìn lại
-date: 2021-01-01 08:08:08 +0700
+  - Tạm biệt 2023
+  - 2023 Một năm nhìn lại
+date: 2024-02-09 09:02:09 +0700
 ---
 
 Nếu nói năm nay không có thử thách, không khó khăn thì cũng không đúng, mà nếu nói năm nay mọi thứ khá êm đềm thì cũng chẳng phải.\\
 Năm nay mọi thứ trôi qua khá nhanh với mình, đủ cảm nhận cũng nhanh để thẩm thấu hết tất cả.
 
-1. Đầu năm mọi thứ vẫn trôi khá êm đẹp, không khí vẫn còn khá lạnh,
+Đầu năm mọi thứ vẫn trôi khá êm đẹp, không khí vẫn còn khá lạnh,
 mọi thứ như chưa sẵn sàng để bắt đầu một năm mới, còn mình được đặt
 chân tới một địa danh mới sau một năm làm việc vất vả. Mình đi du lịch 3 ngày 2 đêm
 ở trong thành phố biển xinh đẹp Nha Trang - Khánh Hòa. Nếu có dịp, bạn nên vào đó 1 lần,
@@ -35,7 +35,7 @@ so với số tiền mình bỏ ra thì mình thấy mình nhận được nhi�
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/eg4l912"><img src="https://i.imgur.com/eg4l912.png" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/PJO2j11"><img src="https://i.imgur.com/PJO2j11.jpg" title="source: imgur.com" /></a></div>
 
-Ở gần khách sạn chỗ mình thuê, có một cái chợ đêm, nên mình cũng ngó qua một chút.
+Ở gần khách sạn chỗ mình thuê, có một cái chợ đêm, nên mình cũng ngó qua một chút.\\
 Người đông, nhiều món ăn, tấp nập
 và nhiều ngôn ngữ, nơi đây cũng có khà nhiều khách Nga và Hàn Quốc.
 
@@ -53,11 +53,11 @@ ngày và cảm thấy bản thân cần cải thiện nhiều cái, nên vẫn 
 
 Giữa tháng 6, những cơn mưa như nặng hạt hơn, khi mà ve đã kêu âm ỉ, không khí trở nên oi bức hơn,
 cũng thúc đẩy con người ta có thêm động lực để tham gia nhiều hoạt động ngoài trời hơn. Mình được đi học một
-khóa học liên quan đến dự án mới, kiến thức mới, lĩnh vực mới khiến mình phải tập trung vào nó nhiều hơn.
+khóa học liên quan đến dự án mới, kiến thức mới, lĩnh vực mới khiến mình phải tập trung vào nó nhiều hơn.\\
 Suốt 1 tháng, tối nào mình cũng ngồi đến khuya để hoàn thành bài tập, không còn thời gian để quan tâm đến
 các thứ khác. Nhưng những lúc đó, vào buổi đêm, mình mới cảm nhận được sự tĩnh lặng trong tâm hồn,
 không gian yên tĩnh cũng làm cho mình hồi tưởng về quá khứ nhiều hơn, những lần trốn mẹ đi chơi cả buổi trưa,
-rồi đi thả diều từ 3h chiều, nắng vỡ đầu nhưng vẫn đi… tất cả như thước phim chạy không hồi kết về quá khứ trước mắt.
+rồi đi thả diều từ 3h chiều, nắng vỡ đầu nhưng vẫn đi… tất cả như thước phim chạy không hồi kết về quá khứ trước mắt.\\
 Tiếng mở cổng dưới tầng 1 kéo mình về thực tại với âm thanh gào rú của quạt tản nhiệt laptop.
 Đêm cũng là thời gian thích hợp để tâm hồn của mình được làm dịu nhẹ sau một ngày dài mệt mỏi.
 
@@ -81,18 +81,19 @@ vào lúc này thời tiết cũng trở nên mát hơn, những cơn mưa giả
 <a href="https://imgur.com/y1C4g5O"><img src="https://i.imgur.com/y1C4g5O.png" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/o4wdlsX"><img src="https://i.imgur.com/o4wdlsX.jpg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/Nnd87CR"><img src="https://i.imgur.com/Nnd87CR.jpg" title="source: imgur.com" /></a></div>
 
 Cuối đông tưởng chừng như sẽ rất lạnh, nhưng thời tiết lại hoàn toàn trái ngược. Ảnh hưởng
-của El nino nên mùa đông năm nay “ấm hơn” năm ngoái. Vẫn có không khí lạnh nhưng không lạnh như mọi năm. Do một số
+của El nino nên mùa đông năm nay “ấm hơn” năm ngoái. Vẫn có không khí lạnh nhưng không lạnh như mọi năm.\\
+Do một số
 việc nên dự án mình học trước đó tạm hoãn, trở về với dự án cũ. Cảm giác như được về trở về
 với gia đình sau thời gian xa cách vậy, vẫn những con người đó và không khí đó, mình thực sự nhớ nó.
 Làm việc những ngày cuối năm lại cho mình cảm giác hối hả. Hối hả để công việc hoàn thành đúng kế hoạch,
-hối hả để cuối năm bánh trưng có”thịt”, hối hả để chuẩn bị một kế hoạch cho năm sắp tới đầy đủ, cẩn thận hơn.
+hối hả để cuối năm bánh trưng có”thịt”, hối hả để chuẩn bị một kế hoạch cho năm sắp tới đầy đủ, cẩn thận hơn.\\
 Hàng quán cuối năm sẽ tấp nập hơn, mọi người chuẩn bị cho tết,
 người con xa quê thì lên kế hoạch về quê, mua vé tàu, vé xe ô tô để không bị lỡ.
 
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/uCtzrpx"><img src="https://i.imgur.com/uCtzrpx.png" title="source: imgur.com" /></a></div>
 
-Còn những ngày cuối năm, dường như mình đã không còn cảm thấy buồn nữa, vì trái tim lúc này đã hướng về quê hương.
+Còn những ngày cuối năm, dường như mình đã không còn cảm thấy buồn nữa, vì trái tim lúc này đã hướng về quê hương.\\
 Còn mấy ngày nữa thôi là sang năm mới rồi, còn chuyện gì chưa hoàn thành được thì để sang năm cố gắng nhé,
 mình biết bạn chưa hề bỏ cuộc, luôn lỗ lực, chẳng qua may mắn chưa mỉm cười với bạn thôi,
 chuẩn bị hành trang về với gia đình thôi, tất cả mọi phiền lo của năm cũ, bỏ qua một bên nha, còn bây giờ thì về nhà ăn tết thôi.
