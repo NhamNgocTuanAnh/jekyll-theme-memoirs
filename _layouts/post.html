@@ -76,3 +76,94 @@ var currentUrlInst=window.location.href;if(currentUrlInst.includes("localhost")|
 <div id="fb-root"></div>
 {% endif %}
 <!-- Load Facebook SDK for JavaScript -->
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Lấy tháng hiện tại (từ 0 đến 11)
+    var currentMonth = new Date().getMonth() + 1;
+
+    // Kiểm tra xem tháng có nằm trong khoảng 11, 12 hoặc 1 không
+    if ([11, 12, 1].includes(currentMonth)) {
+// Tạo một thẻ style và thêm vào head
+var style = document.createElement('style');
+style.type = 'text/css';
+document.head.appendChild(style);
+
+// Định nghĩa nội dung của thẻ style
+style.innerHTML = `
+  .snowflake {
+    color: #fff;
+    font-size: 1em;
+    font-family: Arial, sans-serif;
+    text-shadow: 0 0 5px #000;
+  }
+  .snowflake,
+  .snowflake .inner {
+    animation-iteration-count: infinite;
+    animation-play-state: running;
+  }
+  @keyframes snowflakes-fall {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(110vh); }
+  }
+  @keyframes snowflakes-shake {
+    0%, 100% { transform: translateX(0); }
+    50% { transform: translateX(80px); }
+  }
+  .snowflake {
+    position: fixed;
+    top: -10%;
+    z-index: 9999;
+    -webkit-user-select: none;
+    user-select: none;
+    cursor: default;
+    animation-name: snowflakes-shake;
+    animation-duration: 3s;
+    animation-timing-function: ease-in-out;
+  }
+  .snowflake .inner {
+    animation-duration: 10s;
+    animation-name: snowflakes-fall;
+    animation-timing-function: linear;
+  }
+  .snowflake:nth-of-type(0) { left: 1%; animation-delay: 0s; }
+  .snowflake:nth-of-type(0) .inner { animation-delay: 0s; }
+  .snowflake:first-of-type { left: 10%; animation-delay: 1s; }
+  .snowflake:first-of-type .inner,
+  .snowflake:nth-of-type(8) .inner { animation-delay: 1s; }
+  .snowflake:nth-of-type(2) { left: 20%; animation-delay: 0.5s; }
+  .snowflake:nth-of-type(2) .inner,
+  .snowflake:nth-of-type(6) .inner { animation-delay: 6s; }
+  .snowflake:nth-of-type(3) { left: 30%; animation-delay: 2s; }
+  .snowflake:nth-of-type(11) .inner,
+  .snowflake:nth-of-type(3) .inner { animation-delay: 4s; }
+  .snowflake:nth-of-type(4) { left: 40%; animation-delay: 2s; }
+  .snowflake:nth-of-type(10) .inner,
+  .snowflake:nth-of-type(4) .inner { animation-delay: 2s; }
+  .snowflake:nth-of-type(5) { left: 50%; animation-delay: 3s; }
+  .snowflake:nth-of-type(5) .inner { animation-delay: 8s; }
+  .snowflake:nth-of-type(6) { left: 60%; animation-delay: 2s; }
+  .snowflake:nth-of-type(7) { left: 70%; animation-delay: 1s; }
+  .snowflake:nth-of-type(7) .inner { animation-delay: 2.5s; }
+  .snowflake:nth-of-type(8) { left: 80%; animation-delay: 0s; }
+  .snowflake:nth-of-type(9) { left: 90%; animation-delay: 1.5s; }
+  .snowflake:nth-of-type(9) .inner { animation-delay: 3s; }
+  .snowflake:nth-of-type(10) { left: 25%; animation-delay: 0s; }
+  .snowflake:nth-of-type(11) { left: 65%; animation-delay: 2.5s; }
+`;
+
+
+    }
+    else{
+        // Ẩn thẻ div
+        var snowDiv = document.getElementById("snowCall").style.display = "none";
+        // var linkElement = document.querySelector('link[href="./assets/css/snow.css"]');
+        // if (linkElement) {
+        //     linkElement.parentNode.removeChild(linkElement);
+        // }
+    }
+});
+</script>
+
+
+
+<div class="pyro"><div class="before"></div><div class="after"></div></div>
