@@ -75,21 +75,9 @@ var currentUrlInst=window.location.href;if(currentUrlInst.includes("localhost")|
 {% if site.url == page.url %}
 <div id="fb-root"></div>
 {% endif %}
-<!-- Load Facebook SDK for JavaScript -->
+<!-- <div class="pyro"><div class="before"></div><div class="after"></div></div> -->
 <script>
-  document.addEventListener("DOMContentLoaded", function() {
-    // Lấy tháng hiện tại (từ 0 đến 11)
-    var currentMonth = new Date().getMonth() + 1;
-
-    // Kiểm tra xem tháng có nằm trong khoảng 11, 12 hoặc 1 không
-    if ([11, 12, 1].includes(currentMonth)) {
-// Tạo một thẻ style và thêm vào head
-var style = document.createElement('style');
-style.type = 'text/css';
-document.head.appendChild(style);
-
-// Định nghĩa nội dung của thẻ style
-style.innerHTML = `
+document.addEventListener("DOMContentLoaded",function(){if([11,12,1].includes(new Date().getMonth()+1)){var n=document.createElement("style");n.type="text/css",document.head.appendChild(n),n.innerHTML=`
   .snowflake {
     color: #fff;
     font-size: 1em;
@@ -149,21 +137,9 @@ style.innerHTML = `
   .snowflake:nth-of-type(9) .inner { animation-delay: 3s; }
   .snowflake:nth-of-type(10) { left: 25%; animation-delay: 0s; }
   .snowflake:nth-of-type(11) { left: 65%; animation-delay: 2.5s; }
-`;
-
-
-    }
-    else{
-        // Ẩn thẻ div
-        var snowDiv = document.getElementById("snowCall").style.display = "none";
-        // var linkElement = document.querySelector('link[href="./assets/css/snow.css"]');
-        // if (linkElement) {
-        //     linkElement.parentNode.removeChild(linkElement);
-        // }
-    }
-});
+`}else document.getElementById("snowCall").style.display="none"});
 </script>
 
 
 
-<div class="pyro"><div class="before"></div><div class="after"></div></div>
+
