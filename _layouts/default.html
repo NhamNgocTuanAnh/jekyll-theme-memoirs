@@ -10,27 +10,7 @@
     {% if page.keywords %}
         <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
     {% endif %}
-    <style>        .placeholder-image {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        filter: blur(20px); /* Hiệu ứng mờ */
-    }
-
-    .actual-image {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-        opacity: 0; /* Ban đầu ẩn ảnh thực tế */
-        transition: opacity 0.3s ease; /* Hiệu ứng chuyển động */
-    }
-
-    .actual-image.loaded {
-        opacity: 1; /* Hiển thị ảnh thực tế khi đã tải xong */
-    }</style>
+    <style>.actual-image,.placeholder-image{width:100%;height:100%;object-fit:cover}.placeholder-image{filter:blur(20px)}.actual-image{position:absolute;top:0;left:0;opacity:0;transition:opacity .3s}.actual-image.loaded{opacity:1}</style>
 
     <script src="{{ site.baseurl }}/assets/js/snowflakes.js" async ></script>
     <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.webp">
