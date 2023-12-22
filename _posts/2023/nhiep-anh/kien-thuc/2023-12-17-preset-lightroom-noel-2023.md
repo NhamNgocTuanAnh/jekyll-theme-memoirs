@@ -63,47 +63,21 @@ Một vài tips nhỏ cho các bạn đi chụp Noel nhanh gọn nè
 
 Ví dụ như mình nếu chụp ở Phố đi bộ thì mình sẽ để xe ở bv Cuba 5k/xe, hoặc cung thiếu nhi thì 10k/xe. Còn nếu để xe ở xung quanh pdb tầm này, khéo 20k-50k
 
- 
-
 📍 Vườn hoa Lý Thái Tổ: Nằm bên cạnh Hồ Gươm, vườn hoa Lý Thái Tổ là nơi lý tưởng để chụp những bức ảnh tươi mới với cây thông và đèn trang trí.
-
-
- 
 
 🏰 Đền Ngọc Sơn: Một không gian linh thiêng với kiến trúc đẹp mắt. Đền Ngọc Sơn trở nên lộng lẫy hơn vào mùa lễ hội với ánh đèn và trang trí.
  
-
 🎭 Khu vực quanh Cầu Thê Húc: Đặc biệt là vào buổi tối, khu vực quanh Cầu Thê Húc với đèn lồng và ánh sáng tạo nên không khí ấm cúng.
-
- 
 
 🌆 Khu vực quanh Hồ Tây: Quanh khu vực Hồ Tây, đặc biệt là khu vực quanh Công viên Nghĩa Đô và đường Thanh Niên, cũng là điểm hấp dẫn để chụp những bức ảnh độc đáo với phản ánh từ mặt nước.
 
- 
-
 💒 Các quán cà phê: Fuku Coffee - 172 Quán Thánh, Mây coffee & dessert - 108 Đông Thiên, The Yard Café & Bistro - Số 22/279 Giảng Võ,…
-
- 
 
 🌟 Phố Hàng Mã với đám đông, chọn chụp chân dung để bức ảnh nổi bật hơn. Còn ở Nhà thờ, bạn hoàn toàn có thể "freestyle" - đứng bừa cũng có ảnh đẹp.
 
- 
-
 🔴 Mặc đỏ - Tone Noel: Không quên áo đỏ và phụ kiện màu đỏ để tôn lên không khí lễ hội. Màu đỏ sẽ làm nổi bật và ấm áp cho bức ảnh của bạn.
 
- 
-
 💄 Đừng quên rằng quan trọng nhất là phải xinh, vì chỉ cần xinh là có ảnh đẹp rồi đấy. 😂 Nhanh chân lên, vài ngày nữa chắc chắn đông lắm đấy! 🥴
-
- 
-
-🌟 Chúc bạn có một bữa tiệc chụp ảnh Noel thật trọn vẹn và ấn tượng!"
-
- 
-
-Nhanhh chân lên chứ vài ngày nữa chắc sẽ đông lắm 🥴
-
-
 
 **Cách sử dụng preset Lightroom noel**
 
@@ -157,3 +131,6 @@ function toggleImage() {
 }
 </script>
 
+🌟 Chúc bạn có một bữa tiệc chụp ảnh Noel thật trọn vẹn và ấn tượng!"
+
+Nhanhh chân lên chứ vài ngày nữa chắc sẽ đông lắm 🥴
