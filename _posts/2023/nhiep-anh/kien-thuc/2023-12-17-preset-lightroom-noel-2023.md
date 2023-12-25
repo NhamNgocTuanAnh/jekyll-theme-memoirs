@@ -52,8 +52,7 @@ keywords:
   - preset vsco aesthetic
   - preset vsco cho lightroom
   - preset vsco analog
-date: 2023-12-22 08:08:00 +0700
-pinned: true
+date: 2023-11-22 08:08:00 +0700
 ---
 
 
