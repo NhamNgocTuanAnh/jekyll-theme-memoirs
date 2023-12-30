@@ -45,7 +45,7 @@ Sau một chuyến thăm thú Làng cổ đường lâm, Vào một ngày 
 Từ Hà Nội, bạn chỉ cần đi xe máy theo quốc lộ 1A khoảng 1 giờ đồng hồ.
 
 <div class="content" style="text-align:center; ">
-<img class="lazyload" loading="lazy" src="https://i.imgur.com/Rh5blI3.jpg" title="Chùa Bà Đanh" /><p>Chùa Bà Đanh nằm trên một ngọn núi nhỏ, xung quanh là những cánh đồng lúa xanh mướt. Chúng tôi gửi xe máy ở cổng chùa, sau đó bắt đầu đi vào tham quan.</p><br><img class="lazyload" loading="lazy" src="https://i.imgur.com/v0Pg0B2.jpg" title="Chùa Bà Đanh" /><br><p></p><img class="lazyload" loading="lazy" src="https://i.imgur.com/LwHuqkJ.jpg" title="Chùa Bà Đanh" /><br><p></p><img class="lazyload" loading="lazy" src="https://i.imgur.com/q1gReyC.jpg" title="Chùa Bà Đanh" />
+<img class="lazyload" loading="lazy" src="https://i.imgur.com/Rh5blI3.jpg" title="Chùa Bà Đanh" /><p>Chùa Bà Đanh nằm trên một ngọn núi nhỏ, xung quanh là những cánh đồng lúa xanh mướt. Chúng mình gửi xe máy ở cổng chùa, sau đó bắt đầu đi vào tham quan.</p><img class="lazyload" loading="lazy" src="https://i.imgur.com/v0Pg0B2.jpg" title="Chùa Bà Đanh" /><br><p></p><img class="lazyload" loading="lazy" src="https://i.imgur.com/LwHuqkJ.jpg" title="Chùa Bà Đanh" /><br><p></p><img class="lazyload" loading="lazy" src="https://i.imgur.com/q1gReyC.jpg" title="Chùa Bà Đanh" />
 <br><p></p>
 <img class="lazyload" loading="lazy" src="https://i.imgur.com/NGHzluD.jpg" title="Chùa Bà Đanh" />
 <br><p></p>
