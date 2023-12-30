@@ -94,23 +94,22 @@ Sau một chuyến thăm thú Làng cổ đường lâm, Vào một ngày 
 Từ Hà Nội, chúng tôi đi xe máy theo quốc lộ 1A. Sau khoảng 1 giờ đồng hồ, chúng tôi đã đến được chùa Bà Đanh.
 
 <div class="content" style="text-align:center; ">
-<img class="lazyload" loading="lazy" src="https://i.imgur.com/Rh5blI3.jpg" title="Chùa Bà Đanh" /><p>Chùa Bà Đanh nằm trên một ngọn núi nhỏ, xung quanh là những cánh đồng lúa xanh mướt. Chúng tôi gửi xe máy ở cổng chùa, sau đó bắt đầu đi vào tham quan.</p><br><img class="lazyload" loading="lazy" src="https://i.imgur.com/v0Pg0B2.jpg" title="Chùa Bà Đanh" /><br><p></p><img class="lazyload" loading="lazy" src="https://i.imgur.com/LwHuqkJ.jpg" title="Chùa Bà Đanh" /><br><p></p>
+<img class="lazyload" loading="lazy" src="https://i.imgur.com/Rh5blI3.jpg" title="Chùa Bà Đanh" /><p>Chùa Bà Đanh nằm trên một ngọn núi nhỏ, xung quanh là những cánh đồng lúa xanh mướt. Chúng tôi gửi xe máy ở cổng chùa, sau đó bắt đầu đi vào tham quan.</p><br><img class="lazyload" loading="lazy" src="https://i.imgur.com/v0Pg0B2.jpg" title="Chùa Bà Đanh" /><br><p></p><img class="lazyload" loading="lazy" src="https://i.imgur.com/LwHuqkJ.jpg" title="Chùa Bà Đanh" /><br><p></p><img class="lazyload" loading="lazy" src="https://i.imgur.com/q1gReyC.jpg" title="Chùa Bà Đanh" />
+<br><p></p>
+<img class="lazyload" loading="lazy" src="https://i.imgur.com/NGHzluD.jpg" title="Chùa Bà Đanh" />
+<br><p></p>
+<img class="lazyload" loading="lazy" src="https://i.imgur.com/gU5XPQj.jpg" title="Chùa Bà Đanh" /><br><p></p>
+<img class="lazyload" loading="lazy" src="https://i.imgur.com/LvwnLOe.jpg" title="Chùa Bà Đanh" /><br><p></p>
+<img class="lazyload" loading="lazy" src="https://i.imgur.com/PBsceCj.jpg" title="Chùa Bà Đanh" /><br><p></p>
+<img class="lazyload" loading="lazy" src="https://i.imgur.com/mzbqsCO.jpg" title="Chùa Bà Đanh" /><br><p></p>
+<img class="lazyload" loading="lazy" src="https://i.imgur.com/7ujpou3.jpg" title="Chùa Bà Đanh" /><br><p></p>
+<img class="lazyload" loading="lazy" src="https://i.imgur.com/1KeJNGA.jpg" title="Chùa Bà Đanh" /><br><p></p>
+<img class="lazyload" loading="lazy" src="https://i.imgur.com/M49ugYA.jpg" title="Chùa Bà Đanh" /><br><p></p>
+<img class="lazyload" loading="lazy" src="https://i.imgur.com/ohVI7DJ.jpg" title="Chùa Bà Đanh" /><br><p></p>
+<img class="lazyload" loading="lazy" src="https://i.imgur.com/85X5His.jpg" title="Chùa Bà Đanh" /><br><p></p>
 </div>
 
-<img class="lazyload" loading="lazy" src="https://i.imgur.com/q1gReyC.jpg" title="Chùa Bà Đanh" />
 
-<img class="lazyload" loading="lazy" src="https://i.imgur.com/NGHzluD.jpg" title="Chùa Bà Đanh" />
-
-<img class="lazyload" loading="lazy" src="https://i.imgur.com/gU5XPQj.jpg" title="Chùa Bà Đanh" />
-<img class="lazyload" loading="lazy" src="https://i.imgur.com/LvwnLOe.jpg" title="Chùa Bà Đanh" />
-<img class="lazyload" loading="lazy" src="https://i.imgur.com/PBsceCj.jpg" title="Chùa Bà Đanh" />
-<img class="lazyload" loading="lazy" src="https://i.imgur.com/mzbqsCO.jpg" title="Chùa Bà Đanh" />
-<img class="lazyload" loading="lazy" src="https://i.imgur.com/7ujpou3.jpg" title="Chùa Bà Đanh" />
-<img class="lazyload" loading="lazy" src="https://i.imgur.com/1KeJNGA.jpg" title="Chùa Bà Đanh" />
-<img class="lazyload" loading="lazy" src="https://i.imgur.com/M49ugYA.jpg" title="Chùa Bà Đanh" />
-
-<img class="lazyload" loading="lazy" src="https://i.imgur.com/ohVI7DJ.jpg" title="Chùa Bà Đanh" />
-<img class="lazyload" loading="lazy" src="https://i.imgur.com/85X5His.jpg" title="Chùa Bà Đanh" />
 
 Chúng tôi chọn chụp ảnh ở nhiều góc khác nhau trong khuôn viên chùa. Chúng tôi chụp ảnh bên cạnh hồ nước trong xanh, bên dưới tượng Phật Bà Quan Âm, và trên đỉnh núi Ngọc.
 
