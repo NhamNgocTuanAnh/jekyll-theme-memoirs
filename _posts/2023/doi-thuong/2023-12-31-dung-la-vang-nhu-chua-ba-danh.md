@@ -112,22 +112,29 @@ Từ Hà Nội, chúng tôi đi xe máy theo quốc lộ 1A. Sau khoảng 1 gi�
 <img class="lazyload" loading="lazy" src="https://i.imgur.com/ohVI7DJ.jpg" title="Chùa Bà Đanh" />
 <img class="lazyload" loading="lazy" src="https://i.imgur.com/85X5His.jpg" title="Chùa Bà Đanh" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Chúng tôi chọn chụp ảnh ở nhiều góc khác nhau trong khuôn viên chùa. Chúng tôi chụp ảnh bên cạnh hồ nước trong xanh, bên dưới tượng Phật Bà Quan Âm, và trên đỉnh núi Ngọc.
+
+<div class="content" style="text-align:center; ">
+<img class="lazyload" loading="lazy" src="https://i.imgur.com/LwHuqkJ.jpg" title="Chùa Bà Đanh" /><br><p></p>
+</div>
+
+
+
+
+
+Thế là hết một năm rồi đấy mấy ông ạ, chúc mấy ông năm sau vạn sự như ý
+
+<div class="content" style="text-align:center; ">
+
+<img class="lazyload" loading="lazy" src="https://i.imgur.com/MdDhVIu.jpg" title="Chùa Bà Đanh" /><br><p></p>
+</div>
+
+
+
+
+
+
+
 
 
 Các bạn lưu ý, ngoài góc chụp ra, thì còn cần **bố cục** chụp nhé. **Bố cục** được đặt ra giúp chúng ta định hình chính xác đối tượng, sắp xếp và bố trí các yếu tố khác nhau cho phù hợp. Đọc thêm về **Bố cục** ở <a href="/nhiep-anh/bo-cuc-trong-nhiep-anh" style="color:red" target="_blank">👉đây!</a>
