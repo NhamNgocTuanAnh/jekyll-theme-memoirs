@@ -9,8 +9,8 @@ image: assets/images/2023/du-lich/avt/cha-ba-danh-avt.webp
 rating: 5
 isGithubComments: false
 permalink: du-lich/dung-la-vang-nhu-chua-ba-danh
-excerpt: Nổi tiếng với câu nói vắng như chùa bà đanh khi trong lịch sử bị Pháp di dời gây xáo trộn. Nay lại bị cạnh tranh bởi chùa Tam Chúc và Yên bái. Chùa đã vắng, nay lại vắng hơn. Không sao, càng không bị làm phiền bởi tiktoker
-description: Nổi tiếng với câu nói vắng như chùa bà đanh khi trong lịch sử bị Pháp di dời gây xáo trộn. Nay lại bị cạnh tranh bởi chùa Tam Chúc và Yên bái. Chùa đã vắng, nay lại vắng hơn. Không sao, càng không bị làm phiền bởi tiktoker
+excerpt: Nổi tiếng với vẻ hiu hắt khi trong lịch sử bị Pháp di dời gây xáo trộn. Nay lại bị cạnh tranh bởi chùa Tam Chúc và Yên bái. Chùa đã vắng, nay lại vắng hơn. Không sao, càng không bị làm phiền bởi tiktoker
+description: Nổi tiếng với vẻ hiu hắt khi trong lịch sử bị Pháp di dời gây xáo trộn. Nay lại bị cạnh tranh bởi chùa Tam Chúc và Yên bái. Chùa đã vắng, nay lại vắng hơn. Không sao, càng không bị làm phiền bởi tiktoker
 adsense: "enabled"
 keywords:
 
