@@ -33,7 +33,7 @@ chyến đi cực kỳ ưng đối với mình,
 so với số tiền mình bỏ ra thì mình thấy mình nhận được nhiều hơn là mất.
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/eg4l912"><img src="https://i.imgur.com/eg4l912.png" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/PJO2j11"><img src="https://i.imgur.com/PJO2j11.jpg" title="source: imgur.com" /></a></div>
+<a href="https://imgur.com/eg4l912"><img src="https://i.imgur.com/eg4l912.png" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/PJO2j11"><img src="https://i.imgur.com/PJO2j11.jpg" title="source: imgur.com" /></a><br><p></p><img src="https://i.imgur.com/CgeScvw.jpg" title="source: imgur.com" /></div>
 
 Ở gần khách sạn chỗ mình thuê, có một cái chợ đêm, nên mình cũng ngó qua một chút.\\
 Người đông, nhiều món ăn, tấp nập
@@ -49,7 +49,7 @@ mình cũng tự cho bản thân nghỉ ngơi 3
 ngày và cảm thấy bản thân cần cải thiện nhiều cái, nên vẫn tiếp tục học và tích lũy.
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/y1C4g5O"><img src="https://i.imgur.com/y1C4g5O.png" title="source: imgur.com" /></a></div>
+<img src="https://i.imgur.com/d4I6gQL.jpg" title="source: imgur.com" /></div>
 
 Giữa tháng 6, những cơn mưa như nặng hạt hơn, khi mà ve đã kêu âm ỉ, không khí trở nên oi bức hơn,
 cũng thúc đẩy con người ta có thêm động lực để tham gia nhiều hoạt động ngoài trời hơn. Mình được đi học một
