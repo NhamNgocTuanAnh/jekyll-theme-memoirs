@@ -33,9 +33,9 @@ pinned: true
 Sau một chuyến thăm thú Làng cổ đường lâm, vào một ngày cuối năm 2023, tôi cùng một nhóm bạn lên kế hoạch đi du lịch Hà Nam để chụp ảnh áo dài Tết. Và chùa Bà Đanh là lựa chọn số một vì đây là một ngôi chùa cổ kính.
 
 <div class="iframe-container">
-  <iframe id="langco" width="560" height="115" src="{{site.baseurl}}/du-lich/lang-co-duong-lam-nay-da-khac-xua" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen></iframe>
-</div>
-<br><div class="content" style="text-align:center; ">
+<iframe id="langco" width="560" height="115" src="{{site.baseurl}}/du-lich/lang-co-duong-lam-nay-da-khac-xua" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen></iframe></div>
+<br>
+<div class="content" style="text-align:center; ">
 <img  src="https://i.imgur.com/rLMSbg5.jpeg" title="source: imgur.com" /><br><p></p>
 </div>
 
