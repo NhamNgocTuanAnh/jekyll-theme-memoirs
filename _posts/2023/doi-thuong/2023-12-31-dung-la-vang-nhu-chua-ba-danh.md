@@ -38,7 +38,7 @@ Sau một chuyến thăm thú Làng cổ đường lâm, Vào một ngày 
 * Thiết bị: Máy ảnh, ống kính, chân máy, đèn flash, bộ lọc, phụ kiện (ví dụ: hoa, lá,...)
 * Trang phục: Cặp đôi nên chọn những trang phục phù hợp với phong cách chụp ảnh mong muốn. Và đây mình chọn áo dài cách tân, họa tiết đơn giản cùng với đó là mầu trầm phù hợp với bối cảnh gạch nhà cũ.
 * Phụ kiện: hoa, sách
-* Dự trù thời tiết: Thời tiết ở Hà Nội vào tháng 10 thường khá mát mẻ, tuy nhiên vẫn có khả năng mưa. Nên chuẩn bị áo mưa, ô để đề phòng trường hợp trời mưa.
+* Dự trù thời tiết: Thời tiết dạo này lạ quá, có lẽ do biến đổi khi hậu, gần tết rồi mà trời nắng nóng, oi bức ngột ngạt như vậy.
 
 **Việc đầu tiên** là gửi xe. Hiện nay 5.000 VND / xe máy và vé tham quan bắt đầu từ năm sau - 2024 chùa sẽ bắt đầu thu vé. Khi vào làng bạn có thể sử dụng phương thức đi bộ hoặc đạp xe.
 
