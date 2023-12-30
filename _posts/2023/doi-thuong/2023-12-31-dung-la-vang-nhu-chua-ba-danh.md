@@ -18,20 +18,20 @@ date: 2023-12-31 12:31:12 +0700
 pinned: true
 ---
 
-Chùa Bà Đanh là một ngôi chùa cổ kính, linh thiêng nằm ở xã Ngọc Sơn, huyện Kim Bảng, tỉnh Hà Nam. Chùa được xây dựng từ thời nhà Lý, là một trong những ngôi chùa cổ nhất Việt Nam. Chùa Bà Đanh nổi tiếng với tượng Bà Đanh, một pho tượng Phật Bà Quan Âm bằng đá trắng khổng lồ, cao 12m, nặng 70 tấn.
-
-Sau một chuyến thăm thú Làng cổ đường lâm, Vào một ngày cuối năm 2023, tôi cùng một nhóm bạn lên kế hoạch đi du lịch Hà Nam để chụp ảnh áo dài Tết. Chúng tôi chọn chùa Bà Đanh là địa điểm chụp ảnh vì đây là một ngôi chùa cổ kính, nằm bên bờ sông Đáy, có khung cảnh thiên nhiên tươi đẹp.
+Sau một chuyến thăm thú Làng cổ đường lâm, vào một ngày cuối năm 2023, tôi cùng một nhóm bạn lên kế hoạch đi du lịch Hà Nam để chụp ảnh áo dài Tết. Và chùa Bà Đanh là lựa chọn số một vì đây là một ngôi chùa cổ kính.
 
 <div class="content" style="text-align:center; ">
 <img  src="https://i.imgur.com/rLMSbg5.jpeg" title="source: imgur.com" /><br><p></p>
 </div>
+
+Chùa được xây dựng từ thời nhà Lý, là một trong những ngôi chùa cổ nhất Việt Nam. Chùa Bà Đanh nổi tiếng với tượng Bà Đanh, một pho tượng Phật Bà Quan Âm bằng đá trắng khổng lồ, cao 12m, nặng 70 tấn. Chùa Bà Đanh là một ngôi chùa cổ kính, linh thiêng nằm ở xã Ngọc Sơn, huyện Kim Bảng, tỉnh Hà Nam. Chùa nằm bên bờ sông Đáy, có khung cảnh thiên nhiên tươi đẹp.
 
 #### Lên kế hoạch chụp ảnh
 
 * Đối tượng: Một bạn nữ rất xinh đẹp :P
 * Thời gian: 8h00 - 18h00, ngày 28/12/2023
 * Địa điểm: Chùa Bà Đanh, Hà Nam
-* Mục tiêu: Chụp ảnh ngoại cảnh cùng với đó là du ngoạn một nơi mình đã rất muốn đi thời sinh viên
+* Mục tiêu: Chụp ảnh áo dài và du ngoạn non nước
 
 #### Chuẩn bị:
 
