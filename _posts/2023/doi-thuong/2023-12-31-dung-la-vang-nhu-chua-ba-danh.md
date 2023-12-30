@@ -9,59 +9,12 @@ image: assets/images/2023/du-lich/avt/cha-ba-danh-avt.webp
 rating: 5
 isGithubComments: false
 permalink: du-lich/dung-la-vang-nhu-chua-ba-danh
-excerpt: Làng cổ Đường Lâm có lịch sử hơn 1.000 năm. Nhưng hiện đại hóa đã gây ra thách thức và ảnh hưởng tiêu cực đến làng. Một số ngôi nhà cổ đã bị phá bỏ để xây dựng nhà cao tầng và nét văn hóa truyền thống đang dần biến mất.
-description: Làng cổ Đường Lâm có lịch sử hơn 1.000 năm. Nhưng hiện đại hóa đã gây ra thách thức và ảnh hưởng tiêu cực đến làng. Một số ngôi nhà cổ đã bị phá bỏ để xây dựng nhà cao tầng và nét văn hóa truyền thống đang dần biến mất.
+excerpt: Nổi tiếng với câu nói vắng như chùa bà đanh khi trong lịch sử bị Pháp di dời gây xáo trộn. Nay lại bị cạnh tranh bởi chùa Tam Chúc và Yên bái. Chùa đã vắng, nay lại vắng hơn. Không sao, càng không bị làm phiền bởi tiktoker
+description: Nổi tiếng với câu nói vắng như chùa bà đanh khi trong lịch sử bị Pháp di dời gây xáo trộn. Nay lại bị cạnh tranh bởi chùa Tam Chúc và Yên bái. Chùa đã vắng, nay lại vắng hơn. Không sao, càng không bị làm phiền bởi tiktoker
 adsense: "enabled"
 keywords:
-  - làng cổ đường lầm có gì
-  - Nhà thờ Thám hoa Giang Văn Minh
-  - Đình Mông Phụ
-  - Cổng làng Mông Phụ
-  - Duong Lam ancient village
-  - Duong Lam village Vietnam
-  - Duong Lam village tourism
-  - Làng cổ Đường Lâm Hà Nội
-  - Làng cổ Đường Lâm cách trung tâm Hà Nội bao xa
-  - Làng cổ Đường Lâm có gì chơi
-  - Lịch trình du lịch làng cổ Đường Lâm
-  - Kinh nghiệm du lịch làng cổ Đường Lâm
-  - Chùa Mía
-  - Chợ Mía
-  - Giếng cổ làng Cựu
-  - chùa mía làng cổ đường lâm
-  - chụp ảnh làng cổ đường lâm
-  - chụp ảnh tại làng cổ đường lâm
-  - chụp ảnh áo dài ở làng cổ đường lâm
-  - chụp ảnh đẹp ở làng cổ đường lâm
-  - chụp ảnh ở làng cổ đường lâm
-  - chụp ảnh ở đường lâm
-  - cách đi làng cổ đường lâm
-  - cách đi đến làng cổ đường lâm
-  - cảm nhận về làng cổ đường lâm
-  - cảnh đẹp làng cổ đường lâm
-  - cổ đường lâm
-  - cổng làng cổ đường lâm
-  - di du lich
-  - di phuot
-  - du lịch làng cổ đường lâm
-  - du lịch làng cổ đường lâm 1 ngày
-  - du lịch đường lâm
-  - duong lam làng cổ đường lâm
-  - giếng cổ đường lâm
-  - giới thiệu làng cổ đường lâm
-  - giới thiệu về làng cổ đường lâm
-  - hình ảnh làng cổ đường lâm
-  - hình ảnh về làng cổ đường lâm
-  - kinh nghiệm đi chơi làng cổ đường lâm
-  - kinh nghiệm đi làng cổ đường lâm
-  - kiến trúc làng cổ đường lâm
-  - lang co duong lam
-  - lang co duong lam o dau
-  - nhà cổ đường lâm
-  - phố cổ đường lâm
-  - vé vào làng cổ đường lâm
-  - đường lâm village
-date: 2023-12-30 12:30:12 +0700
+
+date: 2023-12-31 12:31:12 +0700
 pinned: true
 ---
 
@@ -87,11 +40,9 @@ Sau một chuyến thăm thú Làng cổ đường lâm, Vào một ngày 
 * Phụ kiện: hoa, sách
 * Dự trù thời tiết: Thời tiết ở Hà Nội vào tháng 10 thường khá mát mẻ, tuy nhiên vẫn có khả năng mưa. Nên chuẩn bị áo mưa, ô để đề phòng trường hợp trời mưa.
 
-**Việc đầu tiên** là gửi xe. Hiện nay 10.000 VND / xe máy và vé tham quan bắt đầu từ năm sau - 2024 chùa sẽ bắt đầu thu vé. Khi vào làng bạn có thể sử dụng phương thức đi bộ hoặc đạp xe.
+**Việc đầu tiên** là gửi xe. Hiện nay 5.000 VND / xe máy và vé tham quan bắt đầu từ năm sau - 2024 chùa sẽ bắt đầu thu vé. Khi vào làng bạn có thể sử dụng phương thức đi bộ hoặc đạp xe.
 
-
-
-Từ Hà Nội, chúng tôi đi xe máy theo quốc lộ 1A. Sau khoảng 1 giờ đồng hồ, chúng tôi đã đến được chùa Bà Đanh.
+Từ Hà Nội, bạn chỉ cần đi xe máy theo quốc lộ 1A khoảng 1 giờ đồng hồ.
 
 <div class="content" style="text-align:center; ">
 <img class="lazyload" loading="lazy" src="https://i.imgur.com/Rh5blI3.jpg" title="Chùa Bà Đanh" /><p>Chùa Bà Đanh nằm trên một ngọn núi nhỏ, xung quanh là những cánh đồng lúa xanh mướt. Chúng tôi gửi xe máy ở cổng chùa, sau đó bắt đầu đi vào tham quan.</p><br><img class="lazyload" loading="lazy" src="https://i.imgur.com/v0Pg0B2.jpg" title="Chùa Bà Đanh" /><br><p></p><img class="lazyload" loading="lazy" src="https://i.imgur.com/LwHuqkJ.jpg" title="Chùa Bà Đanh" /><br><p></p><img class="lazyload" loading="lazy" src="https://i.imgur.com/q1gReyC.jpg" title="Chùa Bà Đanh" />
@@ -109,30 +60,22 @@ Từ Hà Nội, chúng tôi đi xe máy theo quốc lộ 1A. Sau khoảng 1 gi�
 <img class="lazyload" loading="lazy" src="https://i.imgur.com/85X5His.jpg" title="Chùa Bà Đanh" /><br><p></p>
 </div>
 
-Chúng tôi chọn chụp ảnh ở nhiều góc khác nhau trong khuôn viên chùa. Chúng tôi chụp ảnh bên cạnh hồ nước trong xanh, bên dưới tượng Phật Bà Quan Âm, và trên đỉnh núi Ngọc.
+<p>C&oacute; một người đ&agrave;n &ocirc;ng đi du lịch đến H&agrave; Nam v&agrave; gh&eacute; thăm ch&ugrave;a B&agrave; Đanh. Khi đến nơi, &ocirc;ng ta thấy ch&ugrave;a vắng tanh, kh&ocirc;ng một b&oacute;ng người. &Ocirc;ng ta thắc mắc:</p><ul><li>Sao ch&ugrave;a n&agrave;y vắng thế nhỉ?</li>
+</ul><p>Một người d&acirc;n địa phương nghe thấy liền trả lời:</p><ul><li>V&igrave; ch&ugrave;a n&agrave;y nằm giữa ch&ugrave;a Y&ecirc;n B&aacute;i v&agrave; ch&ugrave;a Tam Ch&uacute;c. Ch&ugrave;a Y&ecirc;n B&aacute;i th&igrave; nổi tiếng linh thi&ecirc;ng, ch&ugrave;a Tam Ch&uacute;c th&igrave; c&oacute; cảnh quan đẹp, n&ecirc;n ai cũng đến đ&oacute; hết. Ch&ugrave;a B&agrave; Đanh th&igrave; nằm ở giữa, kh&ocirc;ng c&oacute; g&igrave; nổi bật n&ecirc;n chẳng ai th&egrave;m đến.</li>
+</ul><p>Người đ&agrave;n &ocirc;ng nghe xong liền bật cười:</p><ul><li>Thế th&igrave; đ&uacute;ng l&agrave; &quot;vắng như ch&ugrave;a B&agrave; Đanh&quot; rồi.&nbsp;</li>
+</ul><p>Vắng cũng là m&ocirc;̣t cái hay, m&ocirc;̣t nơi thanh tịnh. và mình cũng là m&ocirc;̣t người dại khờ tìm nơi vắng vẻ</p>
+
+Mình đã chọn chụp ảnh ở nhiều góc khác nhau trong khuôn viên chùa.
 
 <div class="content" style="text-align:center; ">
-<img class="lazyload" loading="lazy" src="https://i.imgur.com/1rmTv33.jpg" title="Chùa Bà Đanh" /><br><p></p><img class="lazyload" loading="lazy" src="https://i.imgur.com/b4qDcG9.jpg" title="Chùa Bà Đanh" /><br><p></p><img class="lazyload" loading="lazy" src="https://i.imgur.com/YLRXTpg.jpg" title="Chùa Bà Đanh" /><br><p></p><img class="lazyload" loading="lazy" src="https://i.imgur.com/GdVHD7q.jpg" title="Chùa Bà Đanh" /><br><p></p><img class="lazyload" loading="lazy" src="https://i.imgur.com/6WxFDNQ.jpg" title="Chùa Bà Đanh" /><br><p></p><img class="lazyload" loading="lazy" src="https://i.imgur.com/yCk02nz.jpg" title="Chùa Bà Đanh" /><br><p></p><img class="lazyload" loading="lazy" src="https://i.imgur.com/P4o4W78.jpg" title="Chùa Bà Đanh" /><br><p></p><img class="lazyload" loading="lazy" src="https://i.imgur.com/00Fro6k.jpg" title="Chùa Bà Đanh" /><br><p></p><img class="lazyload" loading="lazy" src="https://i.imgur.com/tabmtlM.jpg" title="Chùa Bà Đanh" /><br><p></p>
+<img class="lazyload" loading="lazy" src="https://i.imgur.com/1rmTv33.jpg" title="Chùa Bà Đanh" /><br><p></p><img class="lazyload" loading="lazy" src="https://i.imgur.com/b4qDcG9.jpg" title="Chùa Bà Đanh" /><br><p></p><img class="lazyload" loading="lazy" src="https://i.imgur.com/YLRXTpg.jpg" title="Chùa Bà Đanh" /><br><p></p><img class="lazyload" loading="lazy" src="https://i.imgur.com/GdVHD7q.jpg" title="Chùa Bà Đanh" /><br><p></p><img class="lazyload" loading="lazy" src="https://i.imgur.com/6WxFDNQ.jpg" title="Chùa Bà Đanh" /><br><p>Từ hồ nước trong xanh, bên dưới tượng Phật Bà Quan Âm đến trên đỉnh núi Ngọc.</p><img class="lazyload" loading="lazy" src="https://i.imgur.com/yCk02nz.jpg" title="Chùa Bà Đanh" /><br><p></p><img class="lazyload" loading="lazy" src="https://i.imgur.com/P4o4W78.jpg" title="Chùa Bà Đanh" /><br><p>ánh sáng hài hòa</p><img class="lazyload" loading="lazy" src="https://i.imgur.com/00Fro6k.jpg" title="Chùa Bà Đanh" /><br><p></p><img class="lazyload" loading="lazy" src="https://i.imgur.com/tabmtlM.jpg" title="Chùa Bà Đanh" /><br><p>và không có sự sô bồ của tiktoker</p>
 </div>
 
-Thế là hết một năm rồi đấy mấy ông ạ, chúc mấy ông năm sau vạn sự như ý
+Thế là hết một năm rồi đấy mấy ông ạ, chúc mấy ông năm sau vạn sự như ý. Sang năm mới nhớ truy cập kênh của chúng tôi để có thêm nhiều bài viết hấp dẫn nhé <3 <3
 
 <div class="content" style="text-align:center; "><img class="lazyload" loading="lazy" src="https://i.imgur.com/MdDhVIu.jpg" title="Chùa Bà Đanh" /><br><p></p></div>
 
-
-
-
-
-
-
-
-
-Các bạn lưu ý, ngoài góc chụp ra, thì còn cần **bố cục** chụp nhé. **Bố cục** được đặt ra giúp chúng ta định hình chính xác đối tượng, sắp xếp và bố trí các yếu tố khác nhau cho phù hợp. Đọc thêm về **Bố cục** ở <a href="/nhiep-anh/bo-cuc-trong-nhiep-anh" style="color:red" target="_blank">👉đây!</a>
-
-{% include post-by-url.html post_src="2023-10-10-lang-co-duong-lam-nay-da-khac-xua" %}
-
-
-Dưới đây là một số lưu ý khi chụp ảnh áo dài Tết ở chùa Bà Đanh:
+Một số lưu ý khi chụp ảnh áo dài Tết ở chùa Bà Đanh:
 
 * Nên đi chụp ảnh vào sáng sớm hoặc chiều tối, khi thời tiết mát mẻ, dễ chịu.
 * Nên mặc áo dài có màu sắc rực rỡ, nổi bật để tôn lên vẻ đẹp của trang phục.
