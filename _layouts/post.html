@@ -139,20 +139,6 @@ document.addEventListener("DOMContentLoaded",function(){if([11,12].includes(new 
   .snowflake:nth-of-type(10) { left: 25%; animation-delay: 0s; }
   .snowflake:nth-of-type(11) { left: 65%; animation-delay: 2.5s; }
 `}else document.getElementById("snowCall").style.display="none"});
-// Lấy ngày hiện tại
-var today = new Date();
-// Lấy tháng từ ngày hiện tại (tháng bắt đầu từ 0)
-var currentMonth = today.getMonth() + 1;
-
-// Kiểm tra nếu không phải là tháng 11 hoặc 12
-if (currentMonth !== 11 && currentMonth !== 12) {
-    // Ẩn thẻ div có id là "snowCall"
-    var snowCallDiv = document.getElementById('snowCall');
-    if (snowCallDiv) {
-        snowCallDiv.style.display = 'none';
-    }
-}
-
 </script>
 
 
