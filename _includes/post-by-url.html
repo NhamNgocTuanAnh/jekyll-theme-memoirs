@@ -1,36 +1,13 @@
-{% assign maxRelated = 1 %}
-{% assign minCommonTags = 1 %}
-{% assign maxRelatedCounter = 0 %}
+<div id="outer-1"><div id="inner-1">
 
-<div id="outer"><div id="inner">
-
-        {% for post in site.posts %}
-
-        {% assign sameTagCount = 0 %}
-        {% assign commonTags = '' %}
-
+{% for post in site.posts %}
         {% if post.permalink == include.post_src %}
-        {% if page.categories contains category %}
-        {% assign sameTagCount = sameTagCount | plus: 1 %}
-        {% capture tagmarkup %} {{ category }} {% endcapture %}
-        {% assign commonTags = commonTags | append: tagmarkup %}
-        {% endif %}
-        {% endif %}
-
-
-        {% if sameTagCount >= minCommonTags %}
-        {% if include.is_main =="true" %}
-                {% include postbox.html %}
-        {% else %}
-                {% include postbox-embed.html %}
-        {% endif %}
-        {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
-        {% if maxRelatedCounter >= maxRelated %}
+        {% include postbox.html %}
         {% break %}
         {% endif %}
-        {% endif %}
-
-        {% endfor %}
+{% endfor %}
 
 </div></div>
+
+
 

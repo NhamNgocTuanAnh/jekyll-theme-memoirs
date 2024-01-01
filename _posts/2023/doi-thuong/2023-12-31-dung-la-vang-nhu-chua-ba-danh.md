@@ -32,9 +32,8 @@ pinned: true
 
 Sau một chuyến thăm thú Làng cổ đường lâm, vào một ngày cuối năm 2023, tôi cùng một nhóm bạn lên kế hoạch đi du lịch Hà Nam để chụp ảnh áo dài Tết. Và chùa Bà Đanh là lựa chọn số một vì đây là một ngôi chùa cổ kính.
 
-<div class="iframe-container">
-<iframe id="langco" width="560" height="115" src="{{site.baseurl}}/du-lich/lang-co-duong-lam-nay-da-khac-xua" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen></iframe></div>
-<br>
+{% include post-by-url.html post_src="du-lich/lang-co-duong-lam-nay-da-khac-xua" %}
+
 <div class="content" style="text-align:center; ">
 <img  src="https://i.imgur.com/rLMSbg5.jpeg" title="source: imgur.com" /><br><p></p>
 </div>
@@ -97,8 +96,10 @@ Một số lưu ý khi chụp ảnh áo dài Tết ở chùa Bà Đanh:
 * Nên chuẩn bị một số phụ kiện như nón lá, hoa sen,... để tạo điểm nhấn cho bức ảnh.
 * Nên xin phép ban quản lý chùa trước khi chụp ảnh.
 
-<style>.iframe-container{overflow:hidden;padding-top:56.25%;position:relative}.iframe-container iframe{border:0;height:100%;left:0;position:absolute;top:0;width:100%}</style>
+<div class="iframe-container">
+<iframe id="langco" width="560" height="115" src="{{site.baseurl}}/du-lich/lang-co-duong-lam-nay-da-khac-xua" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" loading="lazy" allowfullscreen></iframe></div><style>.iframe-container{overflow:hidden;padding-top:56.25%;position:relative}.iframe-container iframe{border:0;height:100%;left:0;position:absolute;top:0;width:100%}</style>
 <style>
 .box{display:flex;align-items:center;justify-content:center;background:#aaa;margin:20px 0;width:100%;min-height:200px;border:2px #ccc solid;color:#fff}.row{display:flex;flex-wrap:wrap;padding:0 4px}.column{flex:25%;max-width:25%;padding:0 4px}.column img{margin-top:8px;vertical-align:middle;width:100%}@media screen and (max-width: 800px){.column{flex:50%;max-width:50%}}@media screen and (max-width: 600px){.column{flex:100%;max-width:100%}}video{max-width:100%;height:auto}
 </style>
+
 
