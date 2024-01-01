@@ -56,14 +56,12 @@ const version=Math.floor(1e6*Math.random()),head=document.querySelector("head"),
     <button id="next-post-active" style="display: none;"></button>
     <div id="scrollToTop" style='display: none;'>
 
-        <button id="scrollToTopButton" type="button"><span>🔝🔝</span><p>Top</p>
-            <a target="_blank" href="https://facebook.com/sharer.php?u={{ page.url | absolute_url }}" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
-             <i class="fab fa-facebook-f"></i>
-            </a>
+        <button id="scrollToTopButton" type="button"><span>🔝</span></button>
+        <button>            <a target="_blank" href="https://facebook.com/sharer.php?u={{ page.url | absolute_url }}" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+            <i class="fab fa-facebook-f"></i>
+           </a></button>
     </div>
 
-
-    <!-- defer loading of font and font awesome -->
     <noscript id="deferred-styles">
         <link href="https://fonts.googleapis.com/css?family=Sen:400,700&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
