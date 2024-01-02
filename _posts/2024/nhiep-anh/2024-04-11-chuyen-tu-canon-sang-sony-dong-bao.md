@@ -18,7 +18,7 @@ keywords:
   - mipad 1
   - xiaomi mipad1
   - cấu hình mipad 1
-date: 2023-03-19 10:01:10 +0700
+date: 2021-03-19 10:01:10 +0700
 permalink: reviews/danh-gia-chi-tiet-mipad-1
 ---
 
