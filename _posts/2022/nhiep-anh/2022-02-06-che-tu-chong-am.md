@@ -46,9 +46,6 @@ Với những bạn không dư dả về tài chính, hay còn gọi là "đỗ 
 
 ### 3. Mã lập trình và giải thích
 
-<script src="https://gist.github.com/NhamNgocTuanAnh/09381efa2f2d911ad8f3140f00427e33.js"></script>
-
-
 * Bước 1: Khai báo các chân đèn sấy, DHT sensor, ...
 * Bước 2: Xác định nhiệt độ và độ ẩm thích hợp cho máy ảnh. Lưu ý độ ẩm thích hợp cho máy ảnh là từ 21 đến 61% không nên cao quá dễ gặp móc cũng như thấp quá dễ bong lớp cao su của máy. Còn nhiệt độ do dùng bugi sấy nhiệt độ khá cao nên để an toàn tý thôi :D
 * Bước 3: void setup() khai báo các chân đèn sấy, chân quạt
