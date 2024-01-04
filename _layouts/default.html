@@ -175,15 +175,6 @@ window.isMobile=function(){var i,e=!1;return i=navigator.userAgent||navigator.ve
 </html>
 <script>
 function showOverlay(){document.getElementById("overlay").style.display="block"}function closePopup(){document.getElementById("overlay").style.display="none"}function runCodeInJanuary(){(1===new Date().getMonth()+1)&&!localStorage.getItem("visitedIPs")?showOverlay():console.log("Kh\xf4ng phải th\xe1ng 1, kh\xf4ng thực hiện h\xe0nh động n\xe0o.")}runCodeInJanuary();
-</script><script>
-    // Hàm làm mới trang web
-    function refreshPage() {
-      location.reload(true);
-    }
-
-    // Sự kiện resize
-    window.addEventListener('resize', function() {
-      // Thực hiện hàm làm mới khi màn hình thay đổi
-      refreshPage();
-    });
-  </script>
+</script>
+<script>
+function refreshPage(){console.log("màn hình thay đ\xf4̉i kích cỡ")}window.addEventListener("resize",refreshPage);</script>
