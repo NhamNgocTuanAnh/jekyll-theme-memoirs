@@ -1,17 +1,8 @@
-<div id="outer" onclick="handleClick()"><div id="inner">
-{% for post in site.posts %}
-        {% if post.permalink == include.post_src %}
-        {% include postbox.html %}
-        {% break %}
-        {% endif %}
-{% endfor %}
-<br><p></p></div></div>
 <script>
         // Ghi lại thời điểm bắt đầu
 var startTimeCountCancelClick = Date.now();
-
 // Các xử lý khác có thể thêm ở đây
-function handleClick() {
+function handleClickTimeCountCancelClick() {
         // Kiểm tra nếu đã trôi qua 10 giây, thì mới cho phép xử lý sự kiện click
         if (Date.now() - startTimeCountCancelClick >= 10000) {
         alert("Đã chấp nhận click sau 10 giây");
@@ -23,3 +14,12 @@ function handleClick() {
 
 
 </script>
+<div id="outer" onclick="handleClickTimeCountCancelClick()"><div id="inner">
+{% for post in site.posts %}
+        {% if post.permalink == include.post_src %}
+        {% include postbox.html %}
+        {% break %}
+        {% endif %}
+{% endfor %}
+<br><p></p></div></div>
+
