@@ -91,3 +91,15 @@ Bổ xung thêm nhược điểm: jpeg không đẹp, artifact thấy rõ hơn c
 
 A6k: Ưu: Bắt nét nhanh, chế độ lấy nét chuyển động + chụp liên tục tốt
 Nhược: Chất lượng file raw không tốt, khi can thiệp hơi mạnh tay một xíu là file không chịu được, khử noise kém.
+
+### Hiện tại dòng lens fix CZ ngàm FE chụp chân dung dùng cho máy ảnh Sony Alpha MRL có các lens sau:
+1. Batis 85/1.8: bokeh đẹp, giá phải chăng.
+2. Sona 55/1.8: bokeh không xứng tầm, giá phải chăng.
+3. Planar 50/1.4: bokeh đẹp, giá hơi cao.
+4. Distagon 35/1.4: bokeh đẹp, giá phải chăng.
+Nhưng ta chỉ cần mua 2 lens 85 và 35 là đủ:
+Ở máy ảnh Sony Alpha FF có chế độ chụp crop, khi ta chuyển sang chế độ crop thì lens 35mm sẽ thành 50mm, lens 85mm sẽ thành 135mm.
+Khi chuyển sang chế độ crop, độ phân giải sẽ giảm đi 2.25 lần. Máy Sony Alpha có độ phân giải >=24, chế độ crop>10.6
+(Nên nhớ Nikon D700 đáng mơ ước lúc mới ra mắt, chỉ có độ phân giải là 12.1 MP)
+ẢNH CHỤP BẰNG SONY A72 VÀ LENS DISTAGON 35/1.4\\
+50cz thì hơi to, af hơi chậm, 55cz giờ thì hơi chán, 2470a thì best pp, mỗi tội nặng =)) ps nhiều thì 7iv 2470gm2 55cz chắc ổn nhất
