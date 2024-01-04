@@ -1,4 +1,4 @@
-<div id="outer"><div id="inner">
+<div id="outer" onclick="handleClick()><div id="inner">
 {% for post in site.posts %}
         {% if post.permalink == include.post_src %}
         {% include postbox.html %}
@@ -6,6 +6,19 @@
         {% endif %}
 {% endfor %}
 <br><p></p></div></div>
+<script>
+function handleClick() {
+        // Kiểm tra nếu đã trôi qua 10 giây, thì mới cho phép xử lý sự kiện click
+        if (Date.now() - startTime >= 10000) {
+        alert("Đã chấp nhận click sau 10 giây");
+        // Thêm các xử lý click mong muốn ở đây
+        } else {
+        alert("Vui lòng đợi 10 giây trước khi click");
+        }
+}
 
+// Ghi lại thời điểm bắt đầu
+var startTime = Date.now();
 
-
+// Các xử lý khác có thể thêm ở đây
+</script>

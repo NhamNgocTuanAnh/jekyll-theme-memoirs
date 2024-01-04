@@ -25,7 +25,7 @@ function handleImageLoad(e){e.classList.add("loaded");var t=document.querySelect
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/toastr.min.css">
     <script src="{{ site.baseurl }}/assets/js/toastr.min.js"></script>
     <script>
-function closePopup(){document.getElementById("overlay").style.display="none";localStorage.setItem("popupClosed",today.toISOString())}
+function closePopup(){document.getElementById("overlay").style.display="none";localStorage.setItem("popupClosed",(new Date).toISOString())}
 document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll("img").forEach(function(t){t.addEventListener("load",function(){t.style.width=t.width+"px",t.style.height=t.height+"px"})})});
 var currentMonth=new Date().getMonth()+1;if(1===currentMonth){console.log("Chỉ chạy trong th\xe1ng 1");var e=document.createElement("link");e.rel="stylesheet",e.href="{{ site.baseurl }}/assets/css/newyear.css",document.head.appendChild(e)}</script>
 <script>
