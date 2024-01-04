@@ -1,5 +1,4 @@
 <script>
-        // Ghi lại thời điểm bắt đầu
 var startTimeCountCancelClick = Date.now();
 // Các xử lý khác có thể thêm ở đây
 function handleClickTimeCountCancelClick() {
@@ -11,8 +10,6 @@ function handleClickTimeCountCancelClick() {
         alert("Vui lòng đợi 10 giây trước khi click");
         }
 }
-
-
 </script>
 <div id="outer" onclick="handleClickTimeCountCancelClick()"><div id="inner">
 {% for post in site.posts %}
