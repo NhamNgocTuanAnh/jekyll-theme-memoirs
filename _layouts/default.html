@@ -25,6 +25,7 @@ function handleImageLoad(e){e.classList.add("loaded");var t=document.querySelect
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/toastr.min.css">
     <script src="{{ site.baseurl }}/assets/js/toastr.min.js"></script>
     <script>
+function closePopup(){document.getElementById("overlay").style.display="none";localStorage.setItem("popupClosed",today.toISOString())}
 document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll("img").forEach(function(t){t.addEventListener("load",function(){t.style.width=t.width+"px",t.style.height=t.height+"px"})})});
 var currentMonth=new Date().getMonth()+1;if(1===currentMonth){console.log("Chỉ chạy trong th\xe1ng 1");var e=document.createElement("link");e.rel="stylesheet",e.href="{{ site.baseurl }}/assets/css/newyear.css",document.head.appendChild(e)}</script>
 <script>
@@ -174,11 +175,12 @@ window.isMobile=function(){var i,e=!1;return i=navigator.userAgent||navigator.ve
 <noscript><div><img src="https://mc.yandex.ru/watch/95513605" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 </html>
 <script>
-function showOverlay(){document.getElementById("overlay").style.display="block"}function closePopup(){document.getElementById("overlay").style.display="none"}function runCodeInJanuary(){(1===new Date().getMonth()+1)&&!localStorage.getItem("visitedIPs")?showOverlay():console.log("Kh\xf4ng phải th\xe1ng 1, kh\xf4ng thực hiện h\xe0nh động n\xe0o.")}runCodeInJanuary();
+function showOverlay(){document.getElementById("overlay").style.display="block"}function runCodeInJanuary(){(1===new Date().getMonth()+1)&&!localStorage.getItem("visitedIPs")?showOverlay():console.log("Kh\xf4ng phải th\xe1ng 1, kh\xf4ng thực hiện h\xe0nh động n\xe0o.")}runCodeInJanuary();
 </script><script>
 
 // Hàm làm mới trang web
 function refreshPage() {
+    const resize_change = localStorage.getItem("visitedIPs")&&!isMobileDevice()
     console.log("màn hình thay đổi kích cỡ");
 //   location.reload(true);
 }
