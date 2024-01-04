@@ -7,9 +7,13 @@
 {% endfor %}
 <br><p></p></div></div>
 <script>
+        // Ghi lại thời điểm bắt đầu
+var startTimeCountCancelClick = Date.now();
+
+// Các xử lý khác có thể thêm ở đây
 function handleClick() {
         // Kiểm tra nếu đã trôi qua 10 giây, thì mới cho phép xử lý sự kiện click
-        if (Date.now() - startTime >= 10000) {
+        if (Date.now() - startTimeCountCancelClick >= 10000) {
         alert("Đã chấp nhận click sau 10 giây");
         // Thêm các xử lý click mong muốn ở đây
         } else {
@@ -17,8 +21,5 @@ function handleClick() {
         }
 }
 
-// Ghi lại thời điểm bắt đầu
-var startTime = Date.now();
 
-// Các xử lý khác có thể thêm ở đây
 </script>
