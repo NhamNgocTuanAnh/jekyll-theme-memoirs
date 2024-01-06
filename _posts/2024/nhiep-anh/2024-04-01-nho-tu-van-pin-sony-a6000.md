@@ -103,3 +103,26 @@ Khi chuyển sang chế độ crop, độ phân giải sẽ giảm đi 2.25 lầ
 (Nên nhớ Nikon D700 đáng mơ ước lúc mới ra mắt, chỉ có độ phân giải là 12.1 MP)
 ẢNH CHỤP BẰNG SONY A72 VÀ LENS DISTAGON 35/1.4\\
 50cz thì hơi to, af hơi chậm, 55cz giờ thì hơi chán, 2470a thì best pp, mỗi tội nặng =)) ps nhiều thì 7iv 2470gm2 55cz chắc ổn nhất
+
+###  ngàm mình cảm thấy sài chữa cháy ổn cho A6000 cũng như các body đời cũ là Commlite HS và Sony LA-EA4 (hoặc LA-EA2).
+
+Ưu điểm Commlite:
+- lấy nét khá nhanh với a6000.
+- nhiều tùy chọn vùng lấy nét.
+Nhược điểm:
+- kén body, kén lens.
+- nhiều lúc không ổn định.
+- phải thao tác chuyển hệ thống lấy nét.
+
+Ưu điểm LA-EA4:
+- lấy nét nhanh.
+- có AF-C (lấy nét liên tục).
+- không kén đời máy, AF tốt trên cả body đời cũ (a3000, nex 3, nex 5,...).
+- ổn định, không lỗi, gắn và sửa dụng ngay.
+Nhược điểm:
+- có lớp gương mờ nên ảnh hưởng 1 phần nhỏ tới ảnh.
+- vệ sinh bảo quản cần chú ý.
+- giá khá đắt.
+
+Và lưu ý là chỉ để chụp :D
+Không nên dùng cho quay phim (có AF).
