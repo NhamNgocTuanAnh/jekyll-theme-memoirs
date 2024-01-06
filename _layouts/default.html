@@ -41,7 +41,7 @@ const version=Math.floor(1e6*Math.random()),head=document.querySelector("head"),
             }else{
                 allPosts = [
                     {% assign random_elements = site.posts | sample: 3 %}
-                    {% for post in site.posts %}
+                    {% for post in random_elements %}
                     { url: "{{ post.url }}", title: "{{ post.title }}" } {% unless post.previous == nil %}, {% endunless %}
                     {% endfor %}
                 ];
