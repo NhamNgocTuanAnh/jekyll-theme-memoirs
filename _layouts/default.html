@@ -175,7 +175,7 @@ window.isMobile=function(){var i,e=!1;return i=navigator.userAgent||navigator.ve
 <noscript><div><img src="https://mc.yandex.ru/watch/95513605" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 </html>
 <script>
-function showOverlay(){if(localStorage.getItem("popupClosed")){document.getElementById("overlay").style.display="block"}}function runCodeInJanuary(){(1===new Date().getMonth()+1)&&!localStorage.getItem("visitedIPs")?showOverlay():console.log("Kh\xf4ng phải th\xe1ng 1, kh\xf4ng thực hiện h\xe0nh động n\xe0o.")}runCodeInJanuary();
+function showOverlay(){if(!localStorage.getItem("popupClosed")){document.getElementById("overlay").style.display="block"}}function runCodeInJanuary(){(1===new Date().getMonth()+1)&&!localStorage.getItem("visitedIPs")?showOverlay():console.log("Kh\xf4ng phải th\xe1ng 1, kh\xf4ng thực hiện h\xe0nh động n\xe0o.")}runCodeInJanuary();
 </script><script>
 
 // Hàm làm mới trang web
