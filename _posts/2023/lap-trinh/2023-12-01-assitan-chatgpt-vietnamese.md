@@ -21,7 +21,7 @@ keywords:
   - python
   - trí tuệ nhân tạo
   - trợ lí ảo
-date: 2023-12-01 01:12:10 +0700
+date: 2024-01-14 01:14:24 +0700
 ---
 
 > bài viết đang phát triển, sớm quay lại nhé ;)
