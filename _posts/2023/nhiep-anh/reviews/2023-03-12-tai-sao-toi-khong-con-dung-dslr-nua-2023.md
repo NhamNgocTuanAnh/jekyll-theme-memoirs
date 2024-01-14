@@ -91,4 +91,6 @@ Còn mình,  những tiêu chuẩn về một chiếc máy ảnh bắt buộc ph
 * Càng nhỏ càng tốt, càng tiện càng tốt
 * Có tiền mua thêm phụ kiện
 
+Tổng kết: Mirrorless gọn, nhẹ hơn đôi chút, ít bị lỗi về cơ khí hơn (điển hình lỗi gương lật), hệ thống lấy nét nằm trên cảm biến nên lấy nét live-view nhanh hơn DSLR rất nhiều (DSLR có hệ thống lấy nét riêng qua gương lật nên khi lấy nét live-view chỉ là lấy nét tương phản, chậm), thường thì mirrorless quay phim mạnh hơn DSLR nhiều (cái này k phải hạn chế về công nghệ của DSLR, mà vì nếu đầu tư quay phim cho DSLR thì phải làm thêm hệ thống lấy nét trên cảm biến, sẽ đẩy giá máy lên cao, vốn đã khó cạnh tranh với mirrorless rồi mà tăng giá nữa thì chắc gãy luôn).
+
 Bạn có thể bắt đầu với FujiFilm😚, giống như chiếc điện thoại của bạn chụp bằng app VSCO vậy!!. **Đẹp hơn 100 lần😎**
