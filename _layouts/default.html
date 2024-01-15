@@ -165,7 +165,7 @@ if(11==currentMonth||12==currentMonth){var e=document.getElementById("snowCall")
 
     <!--Chạy next post-->
     <script>
-        $(document).ready(function () { toastr.options = { closeButton: !0, debug: !1, newestOnTop: !1, progressBar: !1, positionClass: "toast-bottom-right", preventDuplicates: !1, showDuration: "300", hideDuration: "1000", timeOut: "10000", extendedTimeOut: "1000", showEasing: "swing", hideEasing: "linear", showMethod: "fadeIn", hideMethod: "fadeOut" }, toastr.options.onclick = function () { window.location.replace(next_post_url || "{{ site.baseurl }}") }, setTimeout(function () { toastr.info(linkToRandomBlogPost(), "Next post:") }, 10000), $("#linkButton").click(function () { toastr.success(linkToRandomBlogPost()) }) });
+function initializeToastr(){toastr.options={closeButton:!0,debug:!1,newestOnTop:!1,progressBar:!1,positionClass:"toast-bottom-right",preventDuplicates:!1,showDuration:"300",hideDuration:"1000",timeOut:"10000",extendedTimeOut:"1000",showEasing:"swing",hideEasing:"linear",showMethod:"fadeIn",hideMethod:"fadeOut"},toastr.options.onclick=function(){window.location.replace(next_post_url||"{{ site.baseurl }}")},setTimeout(function(){toastr.info(linkToRandomBlogPost(),"Next post:")},1e4),$("#linkButton").click(function(){toastr.success(linkToRandomBlogPost())})}$(document).ready(function(){initializeToastr()}),setTimeout(function(){initializeToastr()},3e4);
     </script>
     <style>img{-webkit-user-drag:none;user-drag:none;-webkit-touch-callout:none}</style>
 </body>
