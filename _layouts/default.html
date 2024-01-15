@@ -63,10 +63,7 @@ const version=Math.floor(1e6*Math.random()),head=document.querySelector("head"),
 
 <body>
     <button id="next-post-active" style="display: none;"></button>
-    <div id="scrollToTop" style='display: none;'>
-
-        <button id="scrollToTopButton" type="button"><span>🔝</span></button><br>
-        <button>            <a target="_blank" href="https://facebook.com/sharer.php?u={{ page.url | absolute_url }}" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">📑</a></button>
+    <div id="scrollToTop" style='display: none;'><button id="scrollToTopButton" type="button"><span>🔝</span></button><br><button><a target="_blank" href="https://facebook.com/sharer.php?u={{ page.url | absolute_url }}" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">📑</a></button>
     </div>
 
     <noscript id="deferred-styles">
