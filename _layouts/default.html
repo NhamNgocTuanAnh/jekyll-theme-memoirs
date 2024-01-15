@@ -165,3 +165,28 @@ function showOverlay(){if(!localStorage.getItem("popupClosed")){document.getElem
 <script type='text/javascript'>
     var is_chrome=navigator.userAgent.toLowerCase().indexOf("chrome")>-1,is_firefox=navigator.userAgent.toLowerCase().indexOf("firefox")>-1;function DisableExitTraffic(){PreventExitSplash=!0}function addLoadEvent(n){var e=window.onload;"function"!=typeof window.onload?window.onload=n:window.onload=function(){e&&e(),n()}}function addClickEvent(n,e,t){"function"!=typeof n[e].onclick&&(n[e].onclick=t)}(theBody=document.body)||(theBody=document.getElementById("body"))||(theBody=document.getElementsByTagName("body")[0]);var PreventExitSplash=!1,LightwindowOpening=!1;function DisplayExitSplash(){if(!1==PreventExitSplash)return window.scrollTo(0,0),PreventExitSplash=!0,is_chrome||is_firefox?timeout_variable=setTimeout("exittraffic_change_url();",1e3):document.location.href=exittraffic_RedirectUrl,exittraffic_splashalertmessage}for(var a=document.getElementsByTagName("A"),i=0;i<a.length;i++)"_blank"!==a[i].target?addClickEvent(a,i,function(){PreventExitSplash=!0}):addClickEvent(a,i,function(){PreventExitSplash=!1});function exittraffic_change_url(){disable_confirmation=!1,clearTimeout(timeout_variable),document.location.href=exittraffic_RedirectUrl}addLoadEvent(disablelinksfunc=function(){for(var n=document.getElementsByTagName("A"),e=0;e<n.length;e++)"_blank"!==n[e].target?addClickEvent(n,e,function(){PreventExitSplash=!0}):addClickEvent(n,e,function(){PreventExitSplash=!1})}),addLoadEvent(disableformsfunc=function(){for(var n=document.getElementsByTagName("form"),e=0;e<n.length;e++)n[e].onclick?n[e].onsubmit||(n[e].onsubmit=function(){PreventExitSplash=!0}):n[e].onclick=function(){!1==LightwindowOpening&&(PreventExitSplash=!0)}}),window.onbeforeunload=DisplayExitSplash;
 </script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        // Lấy tất cả các thẻ a và img
+        var allLinks = document.querySelectorAll('a');
+        var allImages = document.querySelectorAll('img');
+
+        // Lặp qua tất cả các thẻ a và img
+        allLinks.forEach(function(link) {
+            // Kiểm tra và thay đổi title của thẻ a
+            if (link.title && link.title === "source: imgur.com") {
+                link.title = "Copy right by AnhHangXom.XYZ";
+            }
+            if (link.dataset.caption) {
+                link.dataset.caption = "Copy right by AnhHangXom.XYZ";
+            }
+        });
+
+        allImages.forEach(function(image) {
+            // Kiểm tra và thay đổi title của thẻ img
+            if (image.title && image.title === "source: imgur.com") {
+                image.title = "Copy right by AnhHangXom.XYZ";
+            }
+        });
+    });
+</script>

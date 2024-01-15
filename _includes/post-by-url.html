@@ -1,15 +1,5 @@
 <script>
-var startTimeCountCancelClick = Date.now();
-// Các xử lý khác có thể thêm ở đây
-function handleClickTimeCountCancelClick() {
-        // Kiểm tra nếu đã trôi qua 10 giây, thì mới cho phép xử lý sự kiện click
-        if (Date.now() - startTimeCountCancelClick >= 10000) {
-        alert("Đã chấp nhận click sau 10 giây");
-        // Thêm các xử lý click mong muốn ở đây
-        } else {
-        alert("Vui lòng đợi 10 giây trước khi click");
-        }
-}
+var startTimeCountCancelClick=Date.now();function handleClickTimeCountCancelClick(){Date.now()-startTimeCountCancelClick>=1e4?alert("Đ\xe3 chấp nhận click sau 10 gi\xe2y"):alert("Vui l\xf2ng đợi 10 gi\xe2y trước khi click")}
 </script>
 <div id="outer" onclick="handleClickTimeCountCancelClick()"><div id="inner">
 {% for post in site.posts %}
