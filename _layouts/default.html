@@ -24,6 +24,8 @@ function handleImageLoad(e){e.classList.add("loaded");var t=document.querySelect
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style-image.css">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/toastr.min.css">
     <script src="{{ site.baseurl }}/assets/js/toastr.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
     <script>
 function closePopup(){document.getElementById("overlay").style.display="none";localStorage.setItem("popupClosed",(new Date).toISOString())}
 document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll("img").forEach(function(t){t.addEventListener("load",function(){t.style.width=t.width+"px",t.style.height=t.height+"px"})})});
@@ -178,3 +180,4 @@ window.isMobile=function(){var i,e=!1;return i=navigator.userAgent||navigator.ve
 <script>
 function showOverlay(){if(!localStorage.getItem("popupClosed")){document.getElementById("overlay").style.display="block"}}function runCodeInJanuary(){(1===new Date().getMonth()+1)&&!localStorage.getItem("visitedIPs")?showOverlay():console.log("Kh\xf4ng phải th\xe1ng 1, kh\xf4ng thực hiện h\xe0nh động n\xe0o.")}runCodeInJanuary();
 </script>
+

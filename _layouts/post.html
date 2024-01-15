@@ -4,6 +4,11 @@ archive: false
 post_class: post-template
 comments: true
 ---
+<script>
+$(document).ready(function(){$("img[loading='lazy']").each(function(){if(!$(this).hasClass("img-thumb")&&!$(this).hasClass("author-thumb")){var a=$(this).parent("a");a.length&&a.attr("data-fancybox")||$(this).wrap("<a href='"+$(this).attr("src")+"' data-fancybox='gallery' data-caption='source: imgur.com'></a>")}}),$("a[data-fancybox='gallery']").fancybox({})});
+  </script>
+  <style>
+  .myFancyBox .fancybox-thumbs{top:auto;width:auto;bottom:0;left:0;right:0;height:95px;padding:10px 10px 5px;box-sizing:border-box;background:rgba(0,0,0,.3)}.myFancyBox .fancybox-show-thumbs .fancybox-inner{right:0!important;bottom:95px!important}.fancybox-show-thumbs .fancybox-inner{right:0!important;bottom:98px}</style>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0"
   nonce="JekfmCeX"></script>
 <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
