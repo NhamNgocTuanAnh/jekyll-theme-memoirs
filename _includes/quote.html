@@ -19,23 +19,10 @@ iframe {display:block;margin:0 auto;};
   </style>
 
 <script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      xfbml            : true,
-      version          : 'v3.2'
-    });
-  };
-
-  (function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+function loadFacebookSDK(){window.fbAsyncInit=function(){FB.init({xfbml:!0,version:"v3.2"})};var e,o=document.getElementsByTagName("script")[0];document.getElementById("facebook-jssdk")||((e=document.createElement("script")).id="facebook-jssdk",e.src="https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js",o.parentNode.insertBefore(e,o))}"complete"===document.readyState?loadFacebookSDK():window.onload=loadFacebookSDK;</script>
 
 <script>
-function addDay(){let e=new Date,t=parseInt(e.getHours());t>=7&&t<12&&(document.getElementById("replace-day").innerText="Ch\xfac một buổi sáng vui vẻ!!\uD83D\uDC68‍\uD83D\uDE80"),t>=12&&t<19&&(document.getElementById("replace-day").innerText="Ch\xfac một buổi chi\xeàu vui vẻ!!\uD83D\uDC68‍\uD83D\uDE80"),t>=19&&t<23&&(document.getElementById("replace-day").innerText="Ch\xfac một buổi t\xf4́i vui vẻ!!\uD83D\uDC68‍\uD83D\uDE80"),t>=23&&t<5&&(document.getElementById("replace-day").innerText="Nhớ ngủ sớm nhé bạn t\xf4i!!\uD83D\uDC68‍\uD83D\uDE80")}window.setInterval(addDay,5e3);
+function addDay(){let e=parseInt(new Date().getHours());e>=7&&e<12?document.getElementById("replace-day").innerText="Ch\xfac một buổi s\xe1ng vui vẻ!!\uD83D\uDC68‍\uD83D\uDE80":e>=12&&e<19?document.getElementById("replace-day").innerText="Ch\xfac một buổi chiều vui vẻ!!\uD83D\uDC68‍\uD83D\uDE80":e>=19&&e<23?document.getElementById("replace-day").innerText="Ch\xfac một buổi tối vui vẻ!!\uD83D\uDC68‍\uD83D\uDE80":e>=23&&e<5&&(document.getElementById("replace-day").innerText="Nhớ ngủ sớm nh\xe9 bạn tối!!\uD83D\uDC68‍\uD83D\uDE80")}document.addEventListener("DOMContentLoaded",function(){addDay(),window.setInterval(addDay,5e3)});
 </script>
 <script>
   var root_url=window.location.origin;function getHrefOnclickAndRedirectWithLink(t){t.preventDefault();t=t.currentTarget.getAttribute("href");window.location=[root_url,"/redirect-v2?url=",encodeURIComponent(t)].join("")}
