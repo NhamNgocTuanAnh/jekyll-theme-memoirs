@@ -73,11 +73,47 @@ document.addEventListener("DOMContentLoaded",function(){document.querySelectorAl
 <!-- Share -->
 {% include share.html %}
 
-<script>
-var currentUrlInst=window.location.href;if(currentUrlInst.includes("localhost")||currentUrlInst.includes("127.0.0.1"))console.log("Đang chạy localhost, kh\xf4ng th\xeam lệnh script.");else{var e=document.createElement("div");e.className="elfsight-app-be8e4ed8-2767-48dd-a856-d96b3a4edae2",e.setAttribute("data-elfsight-app-lazy",""),e.style.textAlign="center";var t=document.getElementById("instaShow2");t?t.appendChild(e):console.error('Kh\xf4ng t\xecm thấy thẻ div c\xf3 id "instaShow2".');var a=document.createElement("script");a.src="https://static.elfsight.com/platform/platform.js",a.setAttribute("data-use-service-core",""),a.defer=!0,document.head.appendChild(a)}
-</script>
-
 <div id="instaShow2"></div>
+
+<script>
+  function loadInstagramScript() {
+    var currentUrlInst = window.location.href;
+
+    // Check if the script should be executed based on the URL
+    if (currentUrlInst.includes("localhost") || currentUrlInst.includes("127.0.0.1")) {
+      console.log("Đang chạy localhost, không thêm lệnh script.");
+      return;
+    }else{
+
+    var instaContainer = document.getElementById("instaShow2");
+
+    if (!instaContainer) {
+      console.error('Không tìm thấy thẻ div có id "instaShow2".');
+      return;
+    }
+
+    var observer = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) {
+          // Load the Instagram script
+          var script = document.createElement("script");
+          script.src = "https://static.elfsight.com/platform/platform.js";
+          script.setAttribute("data-use-service-core", "");
+          script.defer = true;
+          document.head.appendChild(script);
+
+          // Disconnect the observer after loading the script
+          observer.disconnect();
+        }
+      });
+    });
+
+    observer.observe(instaContainer);}
+  }
+
+  // Run the function after the document is fully loaded
+  document.addEventListener("DOMContentLoaded", loadInstagramScript);
+</script>
 {% include related-posts.html %}
 {% if site.url == page.url %}
 <div id="fb-root"></div>
