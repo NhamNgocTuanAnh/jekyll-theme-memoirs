@@ -84,14 +84,6 @@ Với việc chỉ cần mua 2 ống kính 85 và 35, bạn có thể tận dụ
 
 Với ảnh chụp bằng Sony A72 và lens Distagon 35/1.4, có thể thấy sự linh hoạt và chất lượng của lens này trong nhiều tình huống. Tuy có những ý kiến về kích thước của 50cz và chậm AF của 55cz, nhưng 2470a được đánh giá cao, đặc biệt là khi được sử dụng cùng với 55cz và Sony A7IV.
 
-
-Nhưng ta chỉ cần mua 2 lens 85 và 35 là đủ:
-- Ở máy ảnh Sony Alpha FF có chế độ chụp crop, khi ta chuyển sang chế độ crop thì lens 35mm sẽ thành 50mm, lens 85mm sẽ thành 135mm.
-- Khi chuyển sang chế độ crop, độ phân giải sẽ giảm đi 2.25 lần. Máy Sony Alpha có độ phân giải >=24, chế độ crop>10.6
-(Nên nhớ Nikon D700 đáng mơ ước lúc mới ra mắt, chỉ có độ phân giải là 12.1 MP)
-- ẢNH CHỤP BẰNG SONY A72 VÀ LENS DISTAGON 35/1.4\\
-50cz thì hơi to, af hơi chậm, 55cz giờ thì hơi chán, 2470a thì best pp, mỗi tội nặng =)) ps nhiều thì 7iv 2470gm2 55cz chắc ổn nhất
-
 ###  Đúng, việc sử dụng chữa cháy ổn là một giải pháp khôn ngoan cho A6000 cũng như các body đời cũ như Commlite HS và Sony LA-EA4 (hoặc LA-EA2).
 
 Nếu nhắc đến ưu và nhược điểm của Commlite, điều đáng chú ý nhất là khả năng lấy nét khá nhanh và có nhiều tùy chọn vùng lấy nét. Tuy nhiên, điều này đi kèm với nhược điểm là sự kén chọn về body và lens, đôi khi gặp vấn đề không ổn định và yêu cầu thao tác chuyển hệ thống lấy nét.
