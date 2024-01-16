@@ -4,12 +4,12 @@ title: 'TƯ VẤN PIN CHO A6000, Custom phím sony Nex 3/5/7 - Tổng hợp n
 author: sal
 categories: [ Reviews 📝 ]
 tags: [ đồ dùng ]
-image: assets/images/2023/reviews/avt/danh-gia-mipad-1-avt.webp
+image: assets/images/2023/reviews/avt/danh-gia-sony-a6000-nguoi-dung.webp
 rating: 5
 lazyimages: "enabled"
 isGithubComments: false
-excerpt: Màn to, máy nhẹ, android thuần nhưng pin không ổn định, camera không đặc sắc cùng với đó là hiệu năng kém
-description: Màn to, máy nhẹ, android thuần nhưng pin không ổn định, camera không đặc sắc cùng với đó là hiệu năng kém
+excerpt: Một số biến cố xảy tới với mình vào năm 2023 đã khiến mình dấn thân vào sony. Mình đã tìm hiểu được rất nhiều điều về Sony cũ. Cụ thể dòng nex và sony a7
+description: Một số biến cố xảy tới với mình vào năm 2023 đã khiến mình dấn thân vào sony. Mình đã tìm hiểu được rất nhiều điều về Sony cũ. Cụ thể dòng nex và sony a7
 adsense: "enabled"
 keywords:
   - Đánh giá mipad1
@@ -18,9 +18,11 @@ keywords:
   - mipad 1
   - xiaomi mipad1
   - cấu hình mipad 1
-date: 2021-03-19 10:01:10 +0700
-permalink: reviews/nhung-cau-hoi-sony-nex-2023
+date: 2024-01-19 10:01:10 +0700
+permalink: reviews/nhung-cau-hoi-sony-nex-2024
 ---
+
+Một số biến cố xảy tới với mình vào năm <a>2023</a> đã khiến mình dấn thân vào sony. Mình đã tìm hiểu được rất nhiều điều về Sony cũ. Cụ thể dòng nex và sony a7
 
 <hr style="border: 1px solid #000000;">
 <p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Mục lục</p>
