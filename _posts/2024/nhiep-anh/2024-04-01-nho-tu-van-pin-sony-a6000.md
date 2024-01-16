@@ -46,6 +46,8 @@ phím phải (right)
 - Key B: AEL, khi MF thì AEL bằng 1/2 nút chụp.
 
 ### Ưu nhược điểm của sony A6000
+A6k: Ưu: Bắt nét nhanh, chế độ lấy nét chuyển động + chụp liên tục tốt
+Nhược: Chất lượng file raw không tốt, khi can thiệp hơi mạnh tay một xíu là file không chịu được, khử noise kém.
 
 <h3><strong>Sony A6000: M&aacute;y ảnh kh&ocirc;ng gương lật nhỏ gọn, chất lượng cao</strong></h3><p><strong>Ưu điểm</strong></p><ul><li>Lấy n&eacute;t nhanh v&agrave; ch&iacute;nh x&aacute;c,&nbsp;ngay cả trong điều kiện thiếu s&aacute;ng</li><li>C&oacute; thể t&ugrave;y chỉnh nhiều n&uacute;t,&nbsp;gi&uacute;p người d&ugrave;ng thao t&aacute;c thuận tiện</li><li>K&iacute;ch thước nhỏ gọn,&nbsp;dễ mang theo</li><li>Chất lượng ảnh chụp v&agrave; quay video cao</li>
 </ul><p><strong>Nhược điểm</strong></p><ul><li>M&agrave;u sắc hiển thị tr&ecirc;n EVF v&agrave; LCD trước v&agrave; sau khi chụp kh&aacute;c xa nhau,&nbsp;g&acirc;y kh&oacute; khăn cho người d&ugrave;ng trong việc căn chỉnh m&agrave;u sắc</li><li>Thiếu thước đo ch&acirc;n trời,&nbsp;g&acirc;y kh&oacute; khăn cho người d&ugrave;ng trong việc chụp ảnh c&acirc;n bằng</li><li>Auto WB chưa tốt,&nbsp;c&oacute; thể dẫn đến ảnh chụp bị lệch m&agrave;u</li>
@@ -54,7 +56,7 @@ phím phải (right)
 {% include post-by-url.html post_src="reviews/nhiep-anh/lai-la-sony-a6000" %}
 
 
-Sony A5000
+### Sony A5000
 Ưu điểm : Tự sướng + giá hợp lý
 Nhược điểm : Không gắn đc thêm phụ kiện nào cả
 
@@ -90,9 +92,6 @@ Bla bla, để nhớ thêm... :v
 Bổ xung ưu điểm: Raw chất lượng cao. Kết nối ko dây nhanh và dễ dùng
 Bổ xung thêm nhược điểm: jpeg không đẹp, artifact thấy rõ hơn các hãng khác, khử noise kém.
 
-
-A6k: Ưu: Bắt nét nhanh, chế độ lấy nét chuyển động + chụp liên tục tốt
-Nhược: Chất lượng file raw không tốt, khi can thiệp hơi mạnh tay một xíu là file không chịu được, khử noise kém.
 
 ### Hiện tại dòng lens fix CZ ngàm FE chụp chân dung dùng cho máy ảnh Sony Alpha MRL có các lens sau:
 1. Batis 85/1.8: bokeh đẹp, giá phải chăng.
