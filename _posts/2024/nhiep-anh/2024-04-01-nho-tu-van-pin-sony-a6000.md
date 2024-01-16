@@ -74,10 +74,15 @@ Nhược :
 </ol>
 
 ### Hiện tại dòng lens fix CZ ngàm FE chụp chân dung dùng cho máy ảnh Sony Alpha MRL có các lens sau:
-1. Batis 85/1.8: bokeh đẹp, giá phải chăng.
-2. Sona 55/1.8: bokeh không xứng tầm, giá phải chăng.
-3. Planar 50/1.4: bokeh đẹp, giá hơi cao.
-4. Distagon 35/1.4: bokeh đẹp, giá phải chăng.
+
+- Batis 85/1.8: Lens này nổi bật với bokeh đẹp và giá phải chăng, là một lựa chọn tốt cho những người muốn sở hữu một ống kính chất lượng với chi phí hợp lý.
+- Sona 55/1.8: Mặc dù có giá phải chăng, nhưng đánh đổi lại là bokeh không đạt được tầm cao. Đây có thể là lựa chọn cho người muốn tiết kiệm chi phí nhưng không quá quan trọng với chất lượng bokeh.
+- Planar 50/1.4: Ống kính này nổi bật với bokeh đẹp, tuy nhiên, giá hơi cao. Đây có thể là sự đầu tư cho những người chủ yếu quan tâm đến chất lượng hình ảnh và sẵn sàng chi trả thêm.
+- Distagon 35/1.4: Một lựa chọn tốt với bokeh đẹp và giá phải chăng. Đây có thể là ống kính linh hoạt cho nhiều tình huống chụp khác nhau.
+
+Với việc chỉ cần mua 2 ống kính 85 và 35, bạn có thể tận dụng chế độ chụp crop trên máy ảnh Sony Alpha FF. Ở chế độ này, lens 35mm sẽ thành 50mm và lens 85mm sẽ thành 135mm. Tuy nhiên, cần lưu ý rằng khi chuyển sang chế độ crop, độ phân giải sẽ giảm đi 2.25 lần. Điều này vẫn là một lựa chọn tiện ích, đặc biệt là khi độ phân giải của máy ảnh đủ cao (>=24 MP) và chế độ crop đạt >=10.6.
+
+Với ảnh chụp bằng Sony A72 và lens Distagon 35/1.4, có thể thấy sự linh hoạt và chất lượng của lens này trong nhiều tình huống. Tuy có những ý kiến về kích thước của 50cz và chậm AF của 55cz, nhưng 2470a được đánh giá cao, đặc biệt là khi được sử dụng cùng với 55cz và Sony A7IV.
 
 
 Nhưng ta chỉ cần mua 2 lens 85 và 35 là đủ:
