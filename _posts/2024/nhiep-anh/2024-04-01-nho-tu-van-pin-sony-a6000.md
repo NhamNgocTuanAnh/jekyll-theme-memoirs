@@ -67,17 +67,18 @@ Nhược điểm : Không gắn đc thêm phụ kiện nào cả
 - Hỗ trợ MF quá tuyệt
 - Giá thành hợp lý
 - Raw chất lượng cao. Kết nối ko dây nhanh và dễ dùng
+
 Nhược : vì chi tiết tốt nên zoom vào chi tiết ảnh sẽ hơi sạn ko dc mềm mại . Hạn chế ống kính và khẩu độ - Tay cầm cao su mềm nên thay = loại cứng và bền hơn (như các loại DSLR á), hiện tại loiạ su này nhanh bóng và dão.
 - Nút zoom khi xem ảnh nên bố trí lại, quá nhỏ và bất tiện.
 - Cải thiện pin lên 2-3000mHa, chụp cả ngày cho đã :3
 Bla bla, để nhớ thêm... :v
-  - Màu sắc màn hình và viewfinder hiển thị khác xa nhau
-  - Màn hình khó nhìn ở ngoài nắng
-  - Thao tác zoom hình xem ảnh khó và chậm (nên để zoom bằng cách quay bánh xe như nex 7 sẽ thuận tiện hơn)
-  - Thêm function tắt hẳn màn hình hoặc viewfinder để tiết kiệm pin
-  - Cải thiện pin (khuyến khích tặng kèm cục sạc rời theo máy)
-  lấy nét chậm, độ chễ màn chập cao, chế độ bắt nét chuyển động liên tục không thật sự chính xác, khử noise kém, quay phim kém
-  - jpeg không đẹp, artifact thấy rõ hơn các hãng khác, khử noise kém.
+- Màu sắc màn hình và viewfinder hiển thị khác xa nhau
+- Màn hình khó nhìn ở ngoài nắng
+- Thao tác zoom hình xem ảnh khó và chậm (nên để zoom bằng cách quay bánh xe như nex 7 sẽ thuận tiện hơn)
+- Thêm function tắt hẳn màn hình hoặc viewfinder để tiết kiệm pin
+- Cải thiện pin (khuyến khích tặng kèm cục sạc rời theo máy)
+lấy nét chậm, độ chễ màn chập cao, chế độ bắt nét chuyển động liên tục không thật sự chính xác, khử noise kém, quay phim kém
+- jpeg không đẹp, artifact thấy rõ hơn các hãng khác, khử noise kém.
 - tiếng màn trập của a7 rất lớn, và mạnh. Nên đó cũng là một nhược điểm.
 - pin yếu thì đúng, mua thêm 2 cục + sạc là ok. Các chuyến du lịch của em thì một ngày xài trung bình khoảng 1.5 cục.
 - a7mk1 thì hầu như không thể dùng AF nếu bác tính gắn canon lens lên. Nên chỉ có thể dùng lens Sony (và sắp tới đây có 3rd lens sắp ra).
