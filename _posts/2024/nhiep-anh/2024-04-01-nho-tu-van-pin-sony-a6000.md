@@ -68,21 +68,10 @@ Nhược điểm : Không gắn đc thêm phụ kiện nào cả
 - Giá thành hợp lý
 - Raw chất lượng cao. Kết nối ko dây nhanh và dễ dùng
 
-Nhược : vì chi tiết tốt nên zoom vào chi tiết ảnh sẽ hơi sạn ko dc mềm mại . Hạn chế ống kính và khẩu độ - Tay cầm cao su mềm nên thay = loại cứng và bền hơn (như các loại DSLR á), hiện tại loiạ su này nhanh bóng và dão.
-- Nút zoom khi xem ảnh nên bố trí lại, quá nhỏ và bất tiện.
-- Cải thiện pin lên 2-3000mHa, chụp cả ngày cho đã :3
-Bla bla, để nhớ thêm... :v
-- Màu sắc màn hình và viewfinder hiển thị khác xa nhau
-- Màn hình khó nhìn ở ngoài nắng
-- Thao tác zoom hình xem ảnh khó và chậm (nên để zoom bằng cách quay bánh xe như nex 7 sẽ thuận tiện hơn)
-- Thêm function tắt hẳn màn hình hoặc viewfinder để tiết kiệm pin
-- Cải thiện pin (khuyến khích tặng kèm cục sạc rời theo máy)
-lấy nét chậm, độ chễ màn chập cao, chế độ bắt nét chuyển động liên tục không thật sự chính xác, khử noise kém, quay phim kém
-- jpeg không đẹp, artifact thấy rõ hơn các hãng khác, khử noise kém.
-- tiếng màn trập của a7 rất lớn, và mạnh. Nên đó cũng là một nhược điểm.
-- pin yếu thì đúng, mua thêm 2 cục + sạc là ok. Các chuyến du lịch của em thì một ngày xài trung bình khoảng 1.5 cục.
-- a7mk1 thì hầu như không thể dùng AF nếu bác tính gắn canon lens lên. Nên chỉ có thể dùng lens Sony (và sắp tới đây có 3rd lens sắp ra).
-- chất ảnh so với 6d thì em không biết, nhưng em nghĩ cũng ngang nhau thôi. khử noise đối với em khá tốt.
+Nhược :
+
+<ol><li><p><strong>N&uacute;t zoom khi xem ảnh:</strong></p><ul><li>Y&ecirc;u cầu: Bố tr&iacute; lại v&igrave; n&uacute;t zoom hiện tại qu&aacute; nhỏ v&agrave; g&acirc;y bất tiện.</li><li>Ph&aacute;t triển: Việc điều chỉnh bố tr&iacute; n&uacute;t zoom sẽ gi&uacute;p người d&ugrave;ng c&oacute; trải nghiệm xem ảnh thuận tiện hơn, tr&aacute;nh gặp phải kh&oacute; khăn v&agrave; chậm trễ.</li></ul></li><li><p><strong>Pin v&agrave; sạc:</strong></p><ul><li>Y&ecirc;u cầu: Cải thiện dung lượng pin l&ecirc;n 2-3000mAh để chụp ảnh cả ng&agrave;y.</li><li>Ph&aacute;t triển: N&acirc;ng cấp pin v&agrave; khuyến kh&iacute;ch tặng k&egrave;m cục sạc rời theo m&aacute;y sẽ giải quyết vấn đề về thời lượng pin v&agrave; đảm bảo người d&ugrave;ng kh&ocirc;ng bị gi&aacute;n đoạn trong qu&aacute; tr&igrave;nh sử dụng.</li></ul></li><li><p><strong>Hiển thị m&agrave;u sắc kh&aacute;c nhau:</strong></p><ul><li>Y&ecirc;u cầu: M&agrave;u sắc hiển thị tr&ecirc;n m&agrave;n h&igrave;nh v&agrave; viewfinder kh&aacute;c nhau.</li><li>Ph&aacute;t triển: Cần điều chỉnh để đồng bộ h&oacute;a m&agrave;u sắc giữa m&agrave;n h&igrave;nh v&agrave; viewfinder, gi&uacute;p người d&ugrave;ng c&oacute; c&aacute;i nh&igrave;n ch&iacute;nh x&aacute;c hơn về m&agrave;u sắc.</li></ul></li><li><p><strong>Hiển thị kh&oacute; nh&igrave;n dưới &aacute;nh nắng mặt trời:</strong></p><ul><li>Y&ecirc;u cầu: M&agrave;n h&igrave;nh kh&oacute; nh&igrave;n khi sử dụng dưới &aacute;nh nắng mặt trời.</li><li>Ph&aacute;t triển: Cần cải thiện t&iacute;nh năng chống l&oacute;a hoặc tăng độ s&aacute;ng của m&agrave;n h&igrave;nh để người d&ugrave;ng c&oacute; thể dễ d&agrave;ng nh&igrave;n thấy h&igrave;nh ảnh dưới &aacute;nh nắng mặt trời.</li></ul></li><li><p><strong>Thao t&aacute;c zoom khi xem ảnh:</strong></p><ul><li>Y&ecirc;u cầu: Thao t&aacute;c zoom kh&oacute; v&agrave; chậm, đề xuất sử dụng c&aacute;ch quay b&aacute;nh xe như Nex 7.</li><li>Ph&aacute;t triển: Thay đổi phương thức thao t&aacute;c zoom sẽ tạo ra một trải nghiệm sử dụng thuận tiện hơn cho người d&ugrave;ng.</li></ul></li><li><p><strong>Tiết kiệm pin:</strong></p><ul><li>Y&ecirc;u cầu: Th&ecirc;m chức năng tắt hẳn m&agrave;n h&igrave;nh hoặc viewfinder để tiết kiệm pin.</li><li>Ph&aacute;t triển: Việc cung cấp khả năng tắt ho&agrave;n to&agrave;n m&agrave;n h&igrave;nh hoặc viewfinder khi kh&ocirc;ng sử dụng gi&uacute;p gia tăng thời lượng pin v&agrave; tiện &iacute;ch trong c&aacute;c t&igrave;nh huống cần tiết kiệm năng lượng.</li></ul></li><li><p><strong>Hiệu suất m&aacute;y A7:</strong></p><ul><li>Y&ecirc;u cầu: Nhiều điểm yếu như lấy n&eacute;t chậm, độ chễ m&agrave;n chập cao, khả năng quay phim v&agrave; khử noise k&eacute;m.</li><li>Ph&aacute;t triển: Đề xuất cải thiện c&aacute;c kh&iacute;a cạnh như lấy n&eacute;t, độ chễ, khả năng quay phim, khử noise để n&acirc;ng cao hiệu suất v&agrave; đ&aacute;p ứng tốt hơn với nhu cầu của người d&ugrave;ng.</li></ul></li>
+</ol>
 
 ### Hiện tại dòng lens fix CZ ngàm FE chụp chân dung dùng cho máy ảnh Sony Alpha MRL có các lens sau:
 1. Batis 85/1.8: bokeh đẹp, giá phải chăng.
