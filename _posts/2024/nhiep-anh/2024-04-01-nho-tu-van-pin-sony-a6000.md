@@ -77,16 +77,17 @@ Nhược điểm:
 - Cải thiện pin lên 2-3000mHa, chụp cả ngày cho đã :3
 Bla bla, để nhớ thêm... :v
 - Ưu điểm:
-. Thiết kế đẹp, nhỏ gọn, FF, chất lượng ảnh tốt
-. AWB chuẩn, hỗ trợ wifi app
-. Hỗ trợ MF quá tuyệt
-. Giá thành hợp lý
+  - Thiết kế đẹp, nhỏ gọn, FF, chất lượng ảnh tốt
+  - AWB chuẩn, hỗ trợ wifi app
+  - Hỗ trợ MF quá tuyệt
+  - Giá thành hợp lý
 - Nhược điểm
-. Màu sắc màn hình và viewfinder hiển thị khác xa nhau
-. Màn hình khó nhìn ở ngoài nắng
-. Thao tác zoom hình xem ảnh khó và chậm (nên để zoom bằng cách quay bánh xe như nex 7 sẽ thuận tiện hơn)
-. Thêm function tắt hẳn màn hình hoặc viewfinder để tiết kiệm pin
-. Cải thiện pin (khuyến khích tặng kèm cục sạc rời theo máy)
+  - Màu sắc màn hình và viewfinder hiển thị khác xa nhau
+  - Màn hình khó nhìn ở ngoài nắng
+  - Thao tác zoom hình xem ảnh khó và chậm (nên để zoom bằng cách quay bánh xe như nex 7 sẽ thuận tiện hơn)
+  - Thêm function tắt hẳn màn hình hoặc viewfinder để tiết kiệm pin
+  - Cải thiện pin (khuyến khích tặng kèm cục sạc rời theo máy)
+
 Bổ xung ưu điểm: Raw chất lượng cao. Kết nối ko dây nhanh và dễ dùng
 Bổ xung thêm nhược điểm: jpeg không đẹp, artifact thấy rõ hơn các hãng khác, khử noise kém.
 
