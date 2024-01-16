@@ -43,13 +43,12 @@ phím phải (right)
 - Key C : đo sáng, lấy net, WB, picture effect
 - Key B: AEL, khi MF thì AEL bằng 1/2 nút chụp.
 
-### Ưu nhược điểm của sony A6000
-A6k: Ưu: Bắt nét nhanh, chế độ lấy nét chuyển động + chụp liên tục tốt
-Nhược: Chất lượng file raw không tốt, khi can thiệp hơi mạnh tay một xíu là file không chịu được, khử noise kém.
-
 <h3><strong>Sony A6000: M&aacute;y ảnh kh&ocirc;ng gương lật nhỏ gọn, chất lượng cao</strong></h3><p><strong>Ưu điểm</strong></p><ul><li>Lấy n&eacute;t nhanh v&agrave; ch&iacute;nh x&aacute;c,&nbsp;ngay cả trong điều kiện thiếu s&aacute;ng</li><li>C&oacute; thể t&ugrave;y chỉnh nhiều n&uacute;t,&nbsp;gi&uacute;p người d&ugrave;ng thao t&aacute;c thuận tiện</li><li>K&iacute;ch thước nhỏ gọn,&nbsp;dễ mang theo</li><li>Chất lượng ảnh chụp v&agrave; quay video cao</li>
 </ul><p><strong>Nhược điểm</strong></p><ul><li>M&agrave;u sắc hiển thị tr&ecirc;n EVF v&agrave; LCD trước v&agrave; sau khi chụp kh&aacute;c xa nhau,&nbsp;g&acirc;y kh&oacute; khăn cho người d&ugrave;ng trong việc căn chỉnh m&agrave;u sắc</li><li>Thiếu thước đo ch&acirc;n trời,&nbsp;g&acirc;y kh&oacute; khăn cho người d&ugrave;ng trong việc chụp ảnh c&acirc;n bằng</li><li>Auto WB chưa tốt,&nbsp;c&oacute; thể dẫn đến ảnh chụp bị lệch m&agrave;u</li>
 </ul>
+
+- A6k: Ưu: Bắt nét nhanh, chế độ lấy nét chuyển động + chụp liên tục tốt
+- Nhược: Chất lượng file raw không tốt, khi can thiệp hơi mạnh tay một xíu là file không chịu được, khử noise kém.
 
 {% include post-by-url.html post_src="reviews/nhiep-anh/lai-la-sony-a6000" %}
 
@@ -57,9 +56,6 @@ Nhược: Chất lượng file raw không tốt, khi can thiệp hơi mạnh tay
 ### Sony A5000
 Ưu điểm : Tự sướng + giá hợp lý
 Nhược điểm : Không gắn đc thêm phụ kiện nào cả
-
-Sony Nex 5
-
 
 ### Sony A7
 Ưu : chi tiết tốt đầy đủ , nhỏ gọn hợp thời trang
@@ -90,18 +86,23 @@ Bla bla, để nhớ thêm... :v
 
 Bổ xung ưu điểm: Raw chất lượng cao. Kết nối ko dây nhanh và dễ dùng
 Bổ xung thêm nhược điểm: jpeg không đẹp, artifact thấy rõ hơn các hãng khác, khử noise kém.
-
+- tiếng màn trập của a7 rất lớn, và mạnh. Nên đó cũng là một nhược điểm.
+- pin yếu thì đúng, mua thêm 2 cục + sạc là ok. Các chuyến du lịch của em thì một ngày xài trung bình khoảng 1.5 cục.
+- a7mk1 thì hầu như không thể dùng AF nếu bác tính gắn canon lens lên. Nên chỉ có thể dùng lens Sony (và sắp tới đây có 3rd lens sắp ra).
+- chất ảnh so với 6d thì em không biết, nhưng em nghĩ cũng ngang nhau thôi. khử noise đối với em khá tốt.
 
 ### Hiện tại dòng lens fix CZ ngàm FE chụp chân dung dùng cho máy ảnh Sony Alpha MRL có các lens sau:
 1. Batis 85/1.8: bokeh đẹp, giá phải chăng.
 2. Sona 55/1.8: bokeh không xứng tầm, giá phải chăng.
 3. Planar 50/1.4: bokeh đẹp, giá hơi cao.
 4. Distagon 35/1.4: bokeh đẹp, giá phải chăng.
+
+
 Nhưng ta chỉ cần mua 2 lens 85 và 35 là đủ:
-Ở máy ảnh Sony Alpha FF có chế độ chụp crop, khi ta chuyển sang chế độ crop thì lens 35mm sẽ thành 50mm, lens 85mm sẽ thành 135mm.
-Khi chuyển sang chế độ crop, độ phân giải sẽ giảm đi 2.25 lần. Máy Sony Alpha có độ phân giải >=24, chế độ crop>10.6
+- Ở máy ảnh Sony Alpha FF có chế độ chụp crop, khi ta chuyển sang chế độ crop thì lens 35mm sẽ thành 50mm, lens 85mm sẽ thành 135mm.
+- Khi chuyển sang chế độ crop, độ phân giải sẽ giảm đi 2.25 lần. Máy Sony Alpha có độ phân giải >=24, chế độ crop>10.6
 (Nên nhớ Nikon D700 đáng mơ ước lúc mới ra mắt, chỉ có độ phân giải là 12.1 MP)
-ẢNH CHỤP BẰNG SONY A72 VÀ LENS DISTAGON 35/1.4\\
+- ẢNH CHỤP BẰNG SONY A72 VÀ LENS DISTAGON 35/1.4\\
 50cz thì hơi to, af hơi chậm, 55cz giờ thì hơi chán, 2470a thì best pp, mỗi tội nặng =)) ps nhiều thì 7iv 2470gm2 55cz chắc ổn nhất
 
 ###  ngàm mình cảm thấy sài chữa cháy ổn cho A6000 cũng như các body đời cũ là Commlite HS và Sony LA-EA4 (hoặc LA-EA2).
