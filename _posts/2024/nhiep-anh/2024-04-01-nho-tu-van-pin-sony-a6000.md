@@ -12,12 +12,10 @@ excerpt: Một số biến cố xảy tới với mình vào năm 2023 �
 description: Một số biến cố xảy tới với mình vào năm 2023 đã khiến mình dấn thân vào sony. Mình đã tìm hiểu được rất nhiều điều về Sony cũ. Cụ thể dòng nex và sony a7
 adsense: "enabled"
 keywords:
-  - Đánh giá mipad1
-  - mipad1 chơi game sướng không
-  - mua mipad1
-  - mipad 1
-  - xiaomi mipad1
-  - cấu hình mipad 1
+  - Nex 5 và các nex không có núm vặn set phím sao cho nhanh
+  - Ưu nhược điểm của sony A6000
+  - Sony A7
+  - lens fix CZ ngàm FE
 date: 2024-01-19 10:01:10 +0700
 permalink: reviews/nhung-cau-hoi-sony-nex-2024
 ---
@@ -127,3 +125,4 @@ Nhược điểm:
 
 Và lưu ý là chỉ để chụp :D
 Không nên dùng cho quay phim (có AF).
+
