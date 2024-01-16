@@ -20,7 +20,7 @@ date: 2024-01-19 10:01:10 +0700
 permalink: reviews/nhung-cau-hoi-sony-nex-2024
 ---
 
-Một số biến cố xảy tới với mình vào năm <a>2023</a> đã khiến mình dấn thân vào sony. Mình đã tìm hiểu được rất nhiều điều về Sony cũ. Cụ thể dòng nex và sony a7
+Một số biến cố xảy tới với mình vào năm <a href="{{ site.baseurl }}/tan-man/ve-que-mua-lua-chin">2023</a> đã khiến mình dấn thân vào sony. Mình đã tìm hiểu được rất nhiều điều về Sony cũ. Cụ thể dòng nex và sony a7
 
 <hr style="border: 1px solid #000000;">
 <p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Mục lục</p>
@@ -31,24 +31,21 @@ Một số biến cố xảy tới với mình vào năm <a>2023</a> đa
 
 ### Nex 5/ 5n và các nex không có núm vặn ... set phím sao cho nhanh
 
-soft key A là phím menu chúng ta không gán được chức năng khác luôn
-phím trái thì mặc định được set là shot mode (mặc định không gán được cái khác luôn)
-phím lên và xuống cũng không gán được chức năng khác
+Đầu tiên, chúng ta cần "set phím sao cho nhanh." Soft key A là phím menu, một chỗ không gán được chức năng khác. Phím trái thì mặc định là shot mode, không thể thay đổi. Còn phím lên và xuống, cũng không cho phép gán chức năng khác.
 
-như vậy chúng ta có
-soft key B (không gán được nếu dùng lens MF thì phải)
-soft key C => có thể gán 4 chức năng cùng lúc với soft key này
-phím phải (right)
-- Right key: iso
-- Key C : đo sáng, lấy net, WB, picture effect
-- Key B: AEL, khi MF thì AEL bằng 1/2 nút chụp.
+Nhưng đừng lo lắng, vẫn còn soft key B và soft key C cho bạn thỏa sức sáng tạo. Soft key B có thể gán được nếu bạn không sử dụng lens MF. Còn soft key C, bạn có thể gán đến 4 chức năng cùng một lúc với nó.
 
-<h3><strong>Sony A6000: M&aacute;y ảnh kh&ocirc;ng gương lật nhỏ gọn, chất lượng cao</strong></h3><p><strong>Ưu điểm</strong></p><ul><li>Lấy n&eacute;t nhanh v&agrave; ch&iacute;nh x&aacute;c,&nbsp;ngay cả trong điều kiện thiếu s&aacute;ng</li><li>C&oacute; thể t&ugrave;y chỉnh nhiều n&uacute;t,&nbsp;gi&uacute;p người d&ugrave;ng thao t&aacute;c thuận tiện</li><li>K&iacute;ch thước nhỏ gọn,&nbsp;dễ mang theo</li><li>Chất lượng ảnh chụp v&agrave; quay video cao</li>
-</ul><p><strong>Nhược điểm</strong></p><ul><li>M&agrave;u sắc hiển thị tr&ecirc;n EVF v&agrave; LCD trước v&agrave; sau khi chụp kh&aacute;c xa nhau,&nbsp;g&acirc;y kh&oacute; khăn cho người d&ugrave;ng trong việc căn chỉnh m&agrave;u sắc</li><li>Thiếu thước đo ch&acirc;n trời,&nbsp;g&acirc;y kh&oacute; khăn cho người d&ugrave;ng trong việc chụp ảnh c&acirc;n bằng</li><li>Auto WB chưa tốt,&nbsp;c&oacute; thể dẫn đến ảnh chụp bị lệch m&agrave;u</li>
-</ul>
+Ví dụ, có thể thiết lập như sau:
 
-- A6k: Ưu: Bắt nét nhanh, chế độ lấy nét chuyển động + chụp liên tục tốt
-- Nhược: Chất lượng file raw không tốt, khi can thiệp hơi mạnh tay một xíu là file không chịu được, khử noise kém.
+- Right key: ISO
+- Key C: Đo sáng, lấy nét, WB, picture effect
+- Key B: AEL, và khi sử dụng MF, AEL tương đương với 1/2 nút chụp.
+
+### Sony A6000 là chiếc máy ảnh không gương lật nhỏ gọn nhưng đầy đủ tiện ích
+
+Nếu nói về ưu và nhược điểm của Sony A6000, đây là một chiếc máy ảnh có nhiều ưu điểm như bắt nét nhanh, chế độ chụp liên tục tốt, và kích thước nhỏ gọn dễ mang theo. Tuy nhiên, nó cũng có nhược điểm như chất lượng file raw không ổn khi can thiệp mạnh, và khả năng khử noise kém.
+
+Tóm lại, với A6000, bạn có một chiếc máy ảnh nhỏ gọn, chất lượng cao, nhưng cũng cần phải làm quen với một số hạn chế và điều chỉnh linh hoạt để đạt được kết quả tốt nhất.
 
 {% include post-by-url.html post_src="reviews/nhiep-anh/lai-la-sony-a6000" %}
 
@@ -58,34 +55,29 @@ phím phải (right)
 Nhược điểm : Không gắn đc thêm phụ kiện nào cả
 
 ### Sony A7
-Ưu : chi tiết tốt đầy đủ , nhỏ gọn hợp thời trang
-Nhược : vì chi tiết tốt nên zoom vào chi tiết ảnh sẽ hơi sạn ko dc mềm mại . Hạn chế ống kính và khẩu độ .
-Ở đây em ko đề cập đến vấn đề mầu sắc vì cái đấy do cảm nhận mỗi người ( có thể tùy chỉnh dc )
-A7:ưu:APP dùng sướng
-Nhược: lấy nét chậm, độ chễ màn chập cao, chế độ bắt nét chuyển động liên tục không thật sự chính xác, khử noise kém, quay phim kém
-Góp ý cải thiện sản phẩm: Khắc phục hết cái nhược điểm
 
-Góp ý cải thiện sản phẩm: khắc phục nhược điểm.
-Ưu điểm: cảm biến FF, nhỏ gọn, nhiêu tính năng, custom key phong phú.
-Nhược điểm:
-- Tay cầm cao su mềm nên thay = loại cứng và bền hơn (như các loại DSLR á), hiện tại loiạ su này nhanh bóng và dão.
+Ở đây em ko đề cập đến vấn đề mầu sắc vì cái đấy do cảm nhận mỗi người ( có thể tùy chỉnh dc )
+
+Ưu :
+- chi tiết tốt đầy đủ , nhỏ gọn hợp thời trang
+- APP dùng sướng
+- cảm biến FF, nhỏ gọn, nhiêu tính năng, custom key phong phú.
+- Thiết kế đẹp, nhỏ gọn, FF, chất lượng ảnh tốt
+- AWB chuẩn, hỗ trợ wifi app
+- Hỗ trợ MF quá tuyệt
+- Giá thành hợp lý
+- Raw chất lượng cao. Kết nối ko dây nhanh và dễ dùng
+Nhược : vì chi tiết tốt nên zoom vào chi tiết ảnh sẽ hơi sạn ko dc mềm mại . Hạn chế ống kính và khẩu độ - Tay cầm cao su mềm nên thay = loại cứng và bền hơn (như các loại DSLR á), hiện tại loiạ su này nhanh bóng và dão.
 - Nút zoom khi xem ảnh nên bố trí lại, quá nhỏ và bất tiện.
 - Cải thiện pin lên 2-3000mHa, chụp cả ngày cho đã :3
 Bla bla, để nhớ thêm... :v
-- Ưu điểm:
-  - Thiết kế đẹp, nhỏ gọn, FF, chất lượng ảnh tốt
-  - AWB chuẩn, hỗ trợ wifi app
-  - Hỗ trợ MF quá tuyệt
-  - Giá thành hợp lý
-- Nhược điểm
   - Màu sắc màn hình và viewfinder hiển thị khác xa nhau
   - Màn hình khó nhìn ở ngoài nắng
   - Thao tác zoom hình xem ảnh khó và chậm (nên để zoom bằng cách quay bánh xe như nex 7 sẽ thuận tiện hơn)
   - Thêm function tắt hẳn màn hình hoặc viewfinder để tiết kiệm pin
   - Cải thiện pin (khuyến khích tặng kèm cục sạc rời theo máy)
-
-Bổ xung ưu điểm: Raw chất lượng cao. Kết nối ko dây nhanh và dễ dùng
-Bổ xung thêm nhược điểm: jpeg không đẹp, artifact thấy rõ hơn các hãng khác, khử noise kém.
+  lấy nét chậm, độ chễ màn chập cao, chế độ bắt nét chuyển động liên tục không thật sự chính xác, khử noise kém, quay phim kém
+  - jpeg không đẹp, artifact thấy rõ hơn các hãng khác, khử noise kém.
 - tiếng màn trập của a7 rất lớn, và mạnh. Nên đó cũng là một nhược điểm.
 - pin yếu thì đúng, mua thêm 2 cục + sạc là ok. Các chuyến du lịch của em thì một ngày xài trung bình khoảng 1.5 cục.
 - a7mk1 thì hầu như không thể dùng AF nếu bác tính gắn canon lens lên. Nên chỉ có thể dùng lens Sony (và sắp tới đây có 3rd lens sắp ra).
@@ -105,26 +97,11 @@ Nhưng ta chỉ cần mua 2 lens 85 và 35 là đủ:
 - ẢNH CHỤP BẰNG SONY A72 VÀ LENS DISTAGON 35/1.4\\
 50cz thì hơi to, af hơi chậm, 55cz giờ thì hơi chán, 2470a thì best pp, mỗi tội nặng =)) ps nhiều thì 7iv 2470gm2 55cz chắc ổn nhất
 
-###  ngàm mình cảm thấy sài chữa cháy ổn cho A6000 cũng như các body đời cũ là Commlite HS và Sony LA-EA4 (hoặc LA-EA2).
+###  Đúng, việc sử dụng chữa cháy ổn là một giải pháp khôn ngoan cho A6000 cũng như các body đời cũ như Commlite HS và Sony LA-EA4 (hoặc LA-EA2).
 
-Ưu điểm Commlite:
-- lấy nét khá nhanh với a6000.
-- nhiều tùy chọn vùng lấy nét.
-Nhược điểm:
-- kén body, kén lens.
-- nhiều lúc không ổn định.
-- phải thao tác chuyển hệ thống lấy nét.
+Nếu nhắc đến ưu và nhược điểm của Commlite, điều đáng chú ý nhất là khả năng lấy nét khá nhanh và có nhiều tùy chọn vùng lấy nét. Tuy nhiên, điều này đi kèm với nhược điểm là sự kén chọn về body và lens, đôi khi gặp vấn đề không ổn định và yêu cầu thao tác chuyển hệ thống lấy nét.
 
-Ưu điểm LA-EA4:
-- lấy nét nhanh.
-- có AF-C (lấy nét liên tục).
-- không kén đời máy, AF tốt trên cả body đời cũ (a3000, nex 3, nex 5,...).
-- ổn định, không lỗi, gắn và sửa dụng ngay.
-Nhược điểm:
-- có lớp gương mờ nên ảnh hưởng 1 phần nhỏ tới ảnh.
-- vệ sinh bảo quản cần chú ý.
-- giá khá đắt.
+Với LA-EA4, ưu điểm nổi bật là khả năng lấy nét nhanh, hỗ trợ AF-C cho lấy nét liên tục, và không kén đời máy, AF tốt trên nhiều body đời cũ. Điều này giúp đảm bảo tính ổn định, không lỗi, và có thể sử dụng ngay lập tức. Tuy nhiên, nhược điểm của nó bao gồm lớp gương mờ ảnh hưởng đến chất lượng hình ảnh, đòi hỏi vệ sinh bảo quản cẩn thận, và giá cả khá đắt.
 
-Và lưu ý là chỉ để chụp :D
-Không nên dùng cho quay phim (có AF).
+Lưu ý quan trọng là việc sử dụng chữa cháy này chỉ dành cho chụp ảnh và không nên áp dụng cho quay phim, đặc biệt là khi có sử dụng chức năng tự động lấy nét. Điều này giúp bảo đảm hiệu suất tốt nhất và tránh các vấn đề liên quan đến chuyển động trong quay phim.
 
