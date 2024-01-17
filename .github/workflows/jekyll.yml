@@ -63,6 +63,7 @@ jobs:
         shell: bash
         id: deployment
         uses: actions/deploy-pages@v4
+        uses: google-github-actions/setup-gcloud@v0
 
 
 
