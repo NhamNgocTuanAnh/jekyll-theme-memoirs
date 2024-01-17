@@ -11,7 +11,7 @@ $(document).ready(function(){$("img[loading='lazy']").each(function(){if(!$(this
   .myFancyBox .fancybox-thumbs{top:auto;width:auto;bottom:0;left:0;right:0;height:95px;padding:10px 10px 5px;box-sizing:border-box;background:rgba(0,0,0,.3)}.myFancyBox .fancybox-show-thumbs .fancybox-inner{right:0!important;bottom:95px!important}.fancybox-show-thumbs .fancybox-inner{right:0!important;bottom:98px}</style>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0"
   nonce="JekfmCeX"></script>
-<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <script
   id="mcjs">!function (c, h, i, m, p) { m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode.insertBefore(m, p) }(document, "script", "https://chimpstatic.com/mcjs-connected/js/users/a439f78ba77fd2f9e892d4fa8/f37836a9f614fff78ac17eacf.js");</script>
 <script>
@@ -65,7 +65,16 @@ document.addEventListener("DOMContentLoaded",function(){document.querySelectorAl
 {% include disqus.html %}
 
 <div class="rating mt-4 mb-4 d-flex align-items-center">
-  <span id="busuanzi_container_site_pv">Total visits to this site: <span id="busuanzi_value_site_pv"></span><br>
+  <!-- <span id="busuanzi_container_site_pv">Total visits to this site: <span id="busuanzi_value_site_pv"></span> -->
+  <span id="busuanzi_container_site_pv">
+		<sup style="color:grey">Total visits to this site: <span id="busuanzi_value_site_pv"></span>次</sup>
+	</span>
+	<sup><span style="color:grey" class="post-meta-divider">|</span></sup>
+	<sup><span style="color:grey" class="post-meta-divider">|</span></sup>
+	<span id="/<%= post.fileName %>/" class="leancloud_visitors" data-flag-title="<%= post.title %>">
+		<sup style="color:grey" class="post-meta-item-text">阅读量</sup>
+		<sup style="color:grey" class="leancloud-visitors-count"></sup>
+	</span><br>
 </div>
 <!-- Author Box if enabled from _config.yml -->
 {% include author-box.html %}
