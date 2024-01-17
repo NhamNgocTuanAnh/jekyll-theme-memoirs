@@ -63,5 +63,7 @@ jobs:
         shell: bash
         id: deployment
         uses: actions/deploy-pages@v4
+        run: |
+          curl -I "http://www.google.com/ping?sitemap=https://anhhangxom.xyz/sitemap.xml"
 
 
