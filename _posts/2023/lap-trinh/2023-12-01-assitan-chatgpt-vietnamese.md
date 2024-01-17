@@ -33,7 +33,7 @@ Chatbot dùng micro laptop sẽ nhận thông tin và trả lời câu hỏi c�
 *   Chatbot phải có thể nhận diện giọng nói của người dùng.
 *   Chatbot phải có thể hiểu và trả lời các câu hỏi của người dùng bằng tiếng Việt.
 *   Chatbot phải sử dụng API của ChatGPT và Bard Google để trả lời các câu hỏi của người dùng.
-*   YC phụ: chatbot hoạt động càng nhanh càng tốt
+*   **YC phụ:** chatbot hoạt động càng nhanh càng tốt
 
 **Thiết kế**
 
