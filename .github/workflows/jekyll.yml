@@ -60,10 +60,10 @@ jobs:
     needs: build
     steps:
       - name: Deploy to GitHub Pages
-        run: |
-          curl -I "http://www.google.com/ping?sitemap=https://anhhangxom.xyz/sitemap.xml"
         shell: bash
         id: deployment
         uses: actions/deploy-pages@v4
+        run: |
+          curl -I "http://www.google.com/ping?sitemap=https://anhhangxom.xyz/sitemap.xml"
 
 
