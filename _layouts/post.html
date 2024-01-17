@@ -65,16 +65,7 @@ document.addEventListener("DOMContentLoaded",function(){document.querySelectorAl
 {% include disqus.html %}
 
 <div class="rating mt-4 mb-4 d-flex align-items-center">
-  <!-- <span id="busuanzi_container_site_pv">Total visits to this site: <span id="busuanzi_value_site_pv"></span> -->
-  <span id="busuanzi_container_site_pv">
-		<sup style="color:grey">Total visits to this site: <span id="busuanzi_value_site_pv"></span>次</sup>
-	</span>
-	<sup><span style="color:grey" class="post-meta-divider">|</span></sup>
-	<sup><span style="color:grey" class="post-meta-divider">|</span></sup>
-	<span id="/<%= post.fileName %>/" class="leancloud_visitors" data-flag-title="<%= post.title %>">
-		<sup style="color:grey" class="post-meta-item-text">阅读量</sup>
-		<sup style="color:grey" class="leancloud-visitors-count"></sup>
-	</span><br>
+  <span id="busuanzi_container_site_pv">Total visits to this site: <span id="busuanzi_value_site_pv"></span><br>
 </div>
 <!-- Author Box if enabled from _config.yml -->
 {% include author-box.html %}
