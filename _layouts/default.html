@@ -31,7 +31,7 @@ function closePopup(){document.getElementById("overlay").style.display="none";lo
 document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll("img").forEach(function(t){t.addEventListener("load",function(){t.style.width=t.width+"px",t.style.height=t.height+"px"})})});
 var currentMonth=new Date().getMonth()+1;if(1===currentMonth){console.log("Chỉ chạy trong th\xe1ng 1");var e=document.createElement("link");e.rel="stylesheet",e.href="{{ site.baseurl }}/assets/css/newyear.css",document.head.appendChild(e)}</script>
 <script>
-document.addEventListener("DOMContentLoaded",function(){window.scrollTo({top:300,behavior:"smooth"})});
+function scrollToSmooth(){window.scrollTo({top:300,behavior:"smooth"})}
   </script>
 <script>
     function isMobileDevice(){return/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)}function hideMyAuthShow(){var e=20,t=document.getElementById("myAuthShow"),n=setInterval(function(){--e<=0&&(clearInterval(n),t.style.display="none")},1e3)}var myIndex=0;function carousel(){var e,t=document.getElementsByClassName("mySlides");for(e=0;e<t.length;e++)t[e].style.display="none";++myIndex>t.length&&(myIndex=1),(t[myIndex-1]?(t[myIndex-1].style.display="block",t[myIndex-1].classList.remove('hidden')):console.log("t[myIndex-1]")),(t[myIndex]?t[myIndex].classList.add('hidden'):console.log("t[myIndex]")),setTimeout(carousel,5e3)}carousel(),document.addEventListener("DOMContentLoaded",function(){fetch("https://api64.ipify.org?format=json").then(e=>e.json()).then(e=>{let t=e.ip;localStorage.getItem("visitedIPs")||isMobileDevice()?document.getElementById("myAuthShow").style.display="none":(localStorage.setItem("visitedIPs",t),document.getElementById("myAuthShow").style.display="block",hideMyAuthShow())}).catch(e=>console.error("Error fetching IP:",e))});</script>
@@ -45,7 +45,7 @@ const version=Math.floor(1e6*Math.random()),head=document.querySelector("head"),
                 console.log("đã có rồi!");
             }else{
                 allPosts = [
-                    {% assign random_elements = site.posts | sample: 3 %}
+                    {% assign random_elements = site.posts | sample: 5 %}
                     {% for post in random_elements %}
                     { url: "{{ post.url }}", title: "{{ post.title }}" } {% unless post.previous == nil %}, {% endunless %}
                     {% endfor %}
@@ -142,7 +142,8 @@ function myFunctionOpenTopNav(){var a=document.getElementById("myTopnav");"topna
 
     <!--Chạy next post-->
     <script>
-function initializeToastr(){toastr.options={closeButton:!0,debug:!1,newestOnTop:!1,progressBar:!1,positionClass:"toast-bottom-right",preventDuplicates:!1,showDuration:"300",hideDuration:"1000",timeOut:"10000",extendedTimeOut:"1000",showEasing:"swing",hideEasing:"linear",showMethod:"fadeIn",hideMethod:"fadeOut"},toastr.options.onclick=function(){window.location.replace(next_post_url||"{{ site.baseurl }}")},setTimeout(function(){toastr.info(linkToRandomBlogPost(),"Next post:")},1e4),$("#linkButton").click(function(){toastr.success(linkToRandomBlogPost())})}$(document).ready(function(){initializeToastr()}),setTimeout(function(){initializeToastr()},3e4);
+function initializeToastr(){toastr.options={closeButton:!0,debug:!1,newestOnTop:!1,progressBar:!1,positionClass:"toast-bottom-right",preventDuplicates:!1,showDuration:"300",hideDuration:"1000",timeOut:"10000",extendedTimeOut:"1000",showEasing:"swing",hideEasing:"linear",showMethod:"fadeIn",hideMethod:"fadeOut"},toastr.options.onclick=function(){window.location.replace(next_post_url||"{{ site.baseurl }}")},setTimeout(function(){toastr.info(linkToRandomBlogPost(),"Next post:")},1e4),$("#linkButton").click(function(){toastr.success(linkToRandomBlogPost())})}
+var toastrInitialized=!1;function checkAndInitializeToastr(){var t;toastrInitialized||(t=window.scrollY||window.pageYOffset||document.documentElement.scrollTop,((document.documentElement.scrollHeight-document.documentElement.clientHeight)/2<t||3e4<=Date.now()-startTime)&&(initializeToastr(),toastrInitialized=!0))}function initializeAfter30Seconds(){checkAndInitializeToastr()}var startTime=Date.now();$(document).ready(function(){initializeToastr()}),window.addEventListener("scroll",function(){checkAndInitializeToastr()});
     </script>
     <style>img{-webkit-user-drag:none;user-drag:none;-webkit-touch-callout:none}</style>
 </body>
@@ -163,8 +164,5 @@ function isTetDate() {
 if(isTetDate()){document.getElementById("popupid").style.display="block"}
 function showOverlay(){if(!localStorage.getItem("popupClosed")){document.getElementById("overlay").style.display="block"}}function runCodeInJanuary(){(1===new Date().getMonth()+1)&&!localStorage.getItem("visitedIPs")?showOverlay():console.log("Kh\xf4ng phải th\xe1ng 1, kh\xf4ng thực hiện h\xe0nh động n\xe0o.")}runCodeInJanuary();
 </script>
-<script> const exittraffic_splashalertmessage = "CÁM ƠN CÁC BẠN ĐÃ ĐẾN VỚI ANH HÀNG xÓM BLOG"; </script>
-<script type='text/javascript'>
-    var is_chrome=navigator.userAgent.toLowerCase().indexOf("chrome")>-1,is_firefox=navigator.userAgent.toLowerCase().indexOf("firefox")>-1;function DisableExitTraffic(){PreventExitSplash=!0}function addLoadEvent(n){var e=window.onload;"function"!=typeof window.onload?window.onload=n:window.onload=function(){e&&e(),n()}}function addClickEvent(n,e,t){"function"!=typeof n[e].onclick&&(n[e].onclick=t)}(theBody=document.body)||(theBody=document.getElementById("body"))||(theBody=document.getElementsByTagName("body")[0]);var PreventExitSplash=!1,LightwindowOpening=!1;function DisplayExitSplash(){if(!1==PreventExitSplash)return window.scrollTo(0,0),PreventExitSplash=!0,is_chrome||is_firefox?timeout_variable=setTimeout("exittraffic_change_url();",1e3):document.location.href=exittraffic_RedirectUrl,exittraffic_splashalertmessage}for(var a=document.getElementsByTagName("A"),i=0;i<a.length;i++)"_blank"!==a[i].target?addClickEvent(a,i,function(){PreventExitSplash=!0}):addClickEvent(a,i,function(){PreventExitSplash=!1});function exittraffic_change_url(){disable_confirmation=!1,clearTimeout(timeout_variable),document.location.href=exittraffic_RedirectUrl}addLoadEvent(disablelinksfunc=function(){for(var n=document.getElementsByTagName("A"),e=0;e<n.length;e++)"_blank"!==n[e].target?addClickEvent(n,e,function(){PreventExitSplash=!0}):addClickEvent(n,e,function(){PreventExitSplash=!1})}),addLoadEvent(disableformsfunc=function(){for(var n=document.getElementsByTagName("form"),e=0;e<n.length;e++)n[e].onclick?n[e].onsubmit||(n[e].onsubmit=function(){PreventExitSplash=!0}):n[e].onclick=function(){!1==LightwindowOpening&&(PreventExitSplash=!0)}}),window.onbeforeunload=DisplayExitSplash;
-</script>
+
 
