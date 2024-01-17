@@ -169,13 +169,14 @@ layout: none
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
 <script>
+localStorage.getItem('interfaceState')?true:localStorage.setItem('interfaceState',"savemode")
 function toggleInterface() {
   const currentState = localStorage.getItem('interfaceState');
   if(currentState){
             localStorage.setItem('interfaceState',"nomalmode");
             window.location.href = "{{ site.url }}{{ site.baseurl }}";
   }else{
-    localStorage.setItem('interfaceState',"nomalmode");
+    localStorage.setItem('interfaceState',"savemode");
   }
 };
 </script>
@@ -190,6 +191,10 @@ function toggleInterface() {
       <ul>
         <li><a href="{{ site.url }}{{ site.baseurl }}" class="right arrow" onclick="toggleInterface()">quay lại giao diện mặc định →</a></li>
       </ul>
+      <p><span class="save-mode-text" style="
+        color: #5d5353;
+        text-shadow: 0 0 5px rgb(235 212 212 / 50%);
+        ">Bạn đang trong chế độ Save Mode</span></p>
     </div>
   </nav>
 
@@ -232,7 +237,7 @@ function toggleInterface() {
 
       <footer>
     <span>
-      © <time datetime="2021-05-03 08:35:54 +0000">2021</time> Chester How. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
+      Copyright © <time datetime="{{ site.time }}">{{ site.time | date: "%Y" }}</time> <a target="_blank" href="https://www.facebook.com/nntatlu/">{{ site.name }}</a>
     </span>
   </footer>
 
