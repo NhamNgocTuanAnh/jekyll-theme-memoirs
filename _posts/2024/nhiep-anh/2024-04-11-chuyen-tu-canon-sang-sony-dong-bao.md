@@ -12,7 +12,7 @@ excerpt: Màn to, máy nhẹ, android thuần nhưng pin không ổn định, ca
 description: Màn to, máy nhẹ, android thuần nhưng pin không ổn định, camera không đặc sắc cùng với đó là hiệu năng kém
 adsense: "enabled"
 keywords:
-  - Đánh giá mipad1
+  - Đánh giá sony a7
   - mipad1 chơi game sướng không
   - mua mipad1
   - mipad 1
