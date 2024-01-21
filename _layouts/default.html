@@ -3,7 +3,7 @@
 
 <head>
     <script>
-function isSlow(){return"connection"in navigator?(navigator.connection||navigator.mozConnection||navigator.webkitConnection).downlink<1.5?(window.location.href="https://example.com/slow-connection-page",!0):void 0:(console.warn("API navigator.connection kh\xf4ng được hỗ trợ tr\xean tr\xecnh duyệt n\xe0y."),false)}function isMobileDevice(){return/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)};const currentState = localStorage.getItem('interfaceState');
+function isSlow(){return"connection"in navigator?(navigator.connection||navigator.mozConnection||navigator.webkitConnection).downlink<1.5?(window.location.href="https://anhhangxom.xyz/assets/images/2023/du-lich/avt/cha-ba-danh-avt.webp",!0):void 0:(console.warn("API navigator.connection kh\xf4ng được hỗ trợ tr\xean tr\xecnh duyệt n\xe0y."),false)}function isMobileDevice(){return/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)};const currentState = localStorage.getItem('interfaceState');
 function isHomePage(){return"/"===window.location.pathname}if(isMobileDevice()&&isHomePage()){const b=localStorage.getItem("interfaceState");(!b||b&&"savemode"==b||isSlow())&&(localStorage.setItem("interfaceState","savemode"),window.location.href="{{ site.url }}{{ site.baseurl }}/index-mobile")}else isMobileDevice()||localStorage.setItem("interfaceState","nomalmode");</script>
     <meta name="robots" content="index, follow">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
