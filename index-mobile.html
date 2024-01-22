@@ -39,6 +39,10 @@ function toggleInterface() {
     localStorage.setItem('interfaceState',"savemode");
   }
 };
+function redirectToCategories(){
+  localStorage.setItem('interfaceState',"nomalmode");
+  window.location.href = "{{ site.url }}{{ site.baseurl }}/categories";
+};
 </script>
 
     <body>
@@ -91,6 +95,7 @@ function toggleInterface() {
     {% endfor %}
     <h2><a href="{{ site.url }}{{ site.baseurl }}" class="catalogue-item" onclick="toggleInterface()" style="padding: 0rem 2rem 0rem 0rem;">Đọc thêm <i class="fa-solid fa-tower-broadcast"></i></a></h2>
     <hr>
+    <div id="myDiv" onclick="redirectToCategories()">
     {% for tag in site.tags %}
     {% assign tag_size = tag[1].size %}
     {% assign tag_name = tag[0] %}
@@ -108,6 +113,7 @@ function toggleInterface() {
     {% endif %}
     <a href="#{{ sorted_tag_array[1] | slugify }}" style="color: #353535;">{{sorted_tag_array[1]}}<small> ×{{sorted_tag_size}}</small></a> ||
   {% endfor %}
+  </div>
   </div>
       </main>
       <footer>
