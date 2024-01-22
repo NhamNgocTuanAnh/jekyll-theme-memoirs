@@ -60,8 +60,8 @@ Những chiếc máy ảnh khi mới “trình làng” thường được bán 
 Lại quay về với con canon G1X của tôi, săn trên shopee, 90%, dấu hiệu thời gian nhiều, nhiều bụi.
 <p style="text-align:center; ">
 <picture>
-  <source data-srcset="../../assets/images/nhiepanh/anh-chup-canon-g1x.jpg" />
-  <img class="responsive" data-lowsrc="../../assets/images/nhiepanh/anh-chup-canon-g1x.jpg" alt="Tam Cốc - Ninh Bình" data-sizes="auto" loading="lazy"/>
+  <source src="{{ site.url }}/assets/images/nhiepanh/anh-chup-canon-g1x.jpg" data-srcset="{{ site.url }}/assets/images/nhiepanh/anh-chup-canon-g1x.jpg" />
+  <img class="responsive" src="{{ site.url }}/assets/images/nhiepanh/anh-chup-canon-g1x.jpg" data-lowsrc="{{ site.url }}/assets/images/nhiepanh/anh-chup-canon-g1x.jpg" alt="Tam Cốc - Ninh Bình" data-sizes="auto" loading="lazy"/>
   @tuananh_tlu. Nhìn bức ảnh nè, bạn thấy nó ổn chứ?!
 Còn tôi thì thấy rất ổn.
 </picture>
