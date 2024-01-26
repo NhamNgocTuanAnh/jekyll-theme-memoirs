@@ -37,7 +37,7 @@ Thật vậy, mình cũng đã từng là tín đồ của công nghệ. Máy �
 <p style="text-align:center; ">
 <picture>
   <source data-srcset="../../assets/images/nhiepanh/so-sanh-dien-thoai-may-anh.webp" />
-  <img class="responsive" data-lowsrc="../../assets/images/nhiepanh/low-so-sanh-dien-thoai-may-anh.webp" alt="So sánh hình ảnh chụp từ Máy ảnh 3Tr và điện thoại 20Tr" data-sizes="auto" loading="lazy"/>
+  <img class="responsive" src="../../assets/images/nhiepanh/low-so-sanh-dien-thoai-may-anh.webp" data-lowsrc="../../assets/images/nhiepanh/low-so-sanh-dien-thoai-may-anh.webp" alt="So sánh hình ảnh chụp từ Máy ảnh 3Tr và điện thoại 20Tr" data-sizes="auto" loading="lazy"/>
   So sánh hình ảnh chụp từ Máy ảnh 3Tr và điện thoại 20Tr
 </picture>
 </p>
@@ -48,7 +48,7 @@ Từng là model máy compact cao cấp nhất của Canon. Cảm biến này l�
 <p style="text-align:center; ">
 <picture>
   <source data-srcset="../../assets/images/nhiepanh/canon-800d-gia-ca.webp" />
-  <img class="responsive" data-lowsrc="../../assets/images/nhiepanh/canon-800d-gia-ca.webp" alt="Chiếc máy bạn tôi mới mua. Canon 800D" data-sizes="auto" loading="lazy"/>
+  <img class="responsive" data-lowsrc="../../assets/images/nhiepanh/canon-800d-gia-ca.webp" src="../../assets/images/nhiepanh/canon-800d-gia-ca.webp" alt="Chiếc máy bạn tôi mới mua. Canon 800D" data-sizes="auto" loading="lazy"/>
   Chiếc máy bạn tôi mới mua. Canon 800D
 </picture></p>
 Tốc độ chụp vượt trội, độ phân giải cảm biến gấp đôi máy của tôi. Điểm lấy nét gấp đôi ba lần máy của tôi, cảm ứng, Dual Pixel Cmos AF,… (个_个). Vớt vát tý là combo này chỉ đc lens Kit thôi, còn máy của tôi khẩu 2.8-> 5.6 và tiêu cự zoom 28-112 mm cơ (◕‿◕)♡
