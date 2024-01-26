@@ -169,5 +169,17 @@ function isTetDate() {
 if(isTetDate()){document.getElementById("popupid").style.display="block"}
 function showOverlay(){if(!localStorage.getItem("popupClosed")){document.getElementById("overlay").style.display="block"}}function runCodeInJanuary(){(1===new Date().getMonth()+1)&&!localStorage.getItem("visitedIPs")?showOverlay():console.log("Kh\xf4ng phải th\xe1ng 1, kh\xf4ng thực hiện h\xe0nh động n\xe0o.")}runCodeInJanuary();
 </script>
-
+<style>    table {
+    width: 100%;
+}table :is(td, th) {
+border: 1px solid black;
+padding: 0.3em;
+}tr:nth-child(even) {
+background-color: lightblue;
+}tr:nth-child(even) {
+background-color: lightblue;
+}
+tr:nth-child(odd) {
+background-color: lightgreen;
+}</style>
 
