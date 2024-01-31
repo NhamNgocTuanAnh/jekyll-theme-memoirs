@@ -73,7 +73,7 @@ document.addEventListener("DOMContentLoaded",function(){document.querySelectorAl
 
 <!-- Share -->
 {% include share.html %}
-
+<div id="instaShow2"></div>
 <script>
 let loadTriggerLoadElfSightScript = true;
 const triggerLoadElfSightScript=document.getElementById("triggerLoadElfSightScript");function isScrolledIntoView(t){let e=t.getBoundingClientRect(),i=e.top,n=e.bottom;return i<window.innerHeight&&n>=0}
@@ -84,8 +84,6 @@ window.addEventListener('scroll', function() {
   }
 });
 </script>
-
-<div id="instaShow2"></div>
 {% include related-posts.html %}
 {% if site.url == page.url %}
 <div id="fb-root"></div>
