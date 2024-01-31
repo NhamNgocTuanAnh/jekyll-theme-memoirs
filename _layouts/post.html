@@ -61,6 +61,7 @@ document.addEventListener("DOMContentLoaded",function(){document.querySelectorAl
 <!-- Quote -->
 {% include quote.html %}
 {% include show-keywords.html %}
+<div id="triggerLoadElfSightScript" ></div>
 <!-- Comment -->
 {% include disqus.html %}
 
@@ -74,6 +75,18 @@ document.addEventListener("DOMContentLoaded",function(){document.querySelectorAl
 {% include share.html %}
 
 <script>
+  // Lấy đối tượng div muốn theo dõi
+const triggerLoadElfSightScript = document.getElementById('triggerLoadElfSightScript');
+
+// Hàm kiểm tra xem người dùng đã lướt qua div hay chưa
+function isScrolledIntoView(element) {
+  const rect = element.getBoundingClientRect();
+  const elemTop = rect.top;
+  const elemBottom = rect.bottom;
+
+  // Chỉ tải API nếu người dùng đã lướt qua div
+  return elemTop < window.innerHeight && elemBottom >= 0;
+}
       function loadElfSightScript() {
         var currentUrlInst=window.location.href;if(currentUrlInst.includes("localhost")||currentUrlInst.includes("127.0.0.1"))console.log("Đang chạy localhost, kh\xf4ng th\xeam lệnh script.");else{
       var e = document.createElement("div");
@@ -94,7 +107,15 @@ document.addEventListener("DOMContentLoaded",function(){document.querySelectorAl
       a.defer = true;
       document.head.appendChild(a);}
     }
-  window.addEventListener("load", loadElfSightScript);
+
+// Bắt sự kiện cuộn
+window.addEventListener('scroll', function() {
+  if (isScrolledIntoView(triggerLoadElfSightScript)) {
+    window.addEventListener("load", loadElfSightScript);
+  }
+});
+
+
 </script>
 
 <div id="instaShow2"></div>
