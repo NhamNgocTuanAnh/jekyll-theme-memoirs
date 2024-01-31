@@ -43,7 +43,6 @@ function hideMyAuthShow(){var e=20,t=document.getElementById("myAuthShow"),n=set
 const version=Math.floor(1e6*Math.random()),head=document.querySelector("head"),currentUrl=new URL(window.location.href);currentUrl.searchParams.set("v",version);const linkElement=document.createElement("link");linkElement.rel="stylesheet",linkElement.type="text/css",linkElement.href=currentUrl.toString(),head.appendChild(linkElement);$(window).scroll(function(){$.each($("img"),function(){if($(this).attr("data-src")&&$(this).offset().top<$(window).scrollTop()+$(window).height()+100){var t=$(this).data("src");$(this).attr("src",t),$(this).removeAttr("data-src")}})});
     </script>
     <script>
-
         var allPosts;
         function createrAllPosts() {
             if (allPosts) {
@@ -169,7 +168,7 @@ function isTetDate() {
 if(isTetDate()){document.getElementById("popupid").style.display="block"}
 function showOverlay(){if(!localStorage.getItem("popupClosed")){document.getElementById("overlay").style.display="block"}}function runCodeInJanuary(){(1===new Date().getMonth()+1)&&!localStorage.getItem("visitedIPs")?showOverlay():console.log("Kh\xf4ng phải th\xe1ng 1, kh\xf4ng thực hiện h\xe0nh động n\xe0o.")}runCodeInJanuary();
 </script>
-<style>    table {
+<style>table {
     width: 100%;
 }table :is(td, th) {
 border: 1px solid black;
