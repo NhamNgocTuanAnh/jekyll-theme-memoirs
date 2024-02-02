@@ -58,11 +58,11 @@ Micro laptop
 
 **Nhận dạng giọng nói**
 
-Nhận dạng giọng nói sẽ được thực hiện bằng cách sử dụng thư viện SpeechRecognition: [https://pypi.org/project/SpeechRecognition/](https://pypi.org/project/SpeechRecognition/) của Python. Thư viện này cung cấp các chức năng để nhận dạng giọng nói của người dùng từ âm thanh đầu vào.
+<p>Nhận&nbsp;dạng&nbsp;giọng&nbsp;n&oacute;i&nbsp;sẽ&nbsp;được&nbsp;thực&nbsp;hiện&nbsp;bằng&nbsp;c&aacute;ch&nbsp;sử&nbsp;dụng&nbsp;thư&nbsp;viện <a href="https://pypi.org/project/SpeechRecognition">SpeechRecognition</a> của&nbsp;Python.&nbsp;Thư&nbsp;viện&nbsp;n&agrave;y&nbsp;cung&nbsp;cấp&nbsp;c&aacute;c&nbsp;chức&nbsp;năng&nbsp;để&nbsp;nhận&nbsp;dạng&nbsp;giọng&nbsp;n&oacute;i&nbsp;của&nbsp;người&nbsp;d&ugrave;ng&nbsp;từ&nbsp;&acirc;m&nbsp;thanh&nbsp;đầu&nbsp;v&agrave;o.</p>
 
 **Xử lý ngôn ngữ tự nhiên**
 
-Xử lý ngôn ngữ tự nhiên sẽ được thực hiện bằng cách sử dụng thư viện NLTK: [https://www.nltk.org/](https://www.nltk.org/) của Python. Thư viện này cung cấp các chức năng để phân tích và hiểu ngôn ngữ tự nhiên.
+Xử lý ngôn ngữ tự nhiên sẽ được thực hiện bằng cách sử dụng thư viện <a href="https://www.nltk.org">NLTK</a> của Python. Thư viện này cung cấp các chức năng để phân tích và hiểu ngôn ngữ tự nhiên.
 
 **API ChatGPT**
 
