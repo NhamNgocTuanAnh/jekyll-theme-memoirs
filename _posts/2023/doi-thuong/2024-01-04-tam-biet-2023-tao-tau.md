@@ -62,9 +62,9 @@ Tiếng mở cổng dưới tầng 1 kéo mình về thực tại với âm than
 Đêm cũng là thời gian thích hợp để tâm hồn của mình được làm dịu nhẹ sau một ngày dài mệt mỏi.
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/NHYgfdu"><img src="https://i.imgur.com/NHYgfdu.png" title="source: imgur.com" /></a></div><hr>
+<a href="https://imgur.com/NHYgfdu"><img src="https://i.imgur.com/NHYgfdu.png" title="source: imgur.com" /></a></div><hr><p>Đã hơn 3h sáng nhưng mình chưa ngủ được, chả nghĩ ngợi gì cả đâu, mình vẫn ngồi trên bàn, đeo tai nghe để âm thanh và màn đêm dẫn lối mình tới nơi cảm xúc rơi nhẹ nhàng và chậm rãi.</p><br>
 <div class="content" style="text-align:center; ">
-<img loading="lazy" src="https://i.imgur.com/3wEAMXm.jpeg" title="đơn độc" />Đã hơn 3h sáng nhưng mình chưa ngủ được, chả nghĩ ngợi gì cả đâu, mình vẫn ngồi trên bàn, đeo tai nghe để âm thanh và màn đêm dẫn lối mình tới nơi cảm xúc rơi nhẹ nhàng và chậm rãi.</div>
+<img loading="lazy" src="https://i.imgur.com/3wEAMXm.jpeg" title="đơn độc" /></div>
 
 Sau đó vì chưa có dự án làm nên mình sang dự án khác để hỗ trợ, ngồi ở chỗ khách hàng.
 Làm ở gần nhà hơn nên sẽ tiết kiệm được thời gian đi lại, khoảng thời gian sang đó làm
