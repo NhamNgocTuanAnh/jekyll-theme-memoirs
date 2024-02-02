@@ -62,7 +62,7 @@ Tiếng mở cổng dưới tầng 1 kéo mình về thực tại với âm than
 Đêm cũng là thời gian thích hợp để tâm hồn của mình được làm dịu nhẹ sau một ngày dài mệt mỏi.
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/NHYgfdu"><img src="https://i.imgur.com/NHYgfdu.png" title="source: imgur.com" /></a></div><hr><p>Đã hơn 3h sáng nhưng mình chưa ngủ được, chả nghĩ ngợi gì cả đâu, mình vẫn ngồi trên bàn, đeo tai nghe để âm thanh và màn đêm dẫn lối mình tới nơi cảm xúc rơi nhẹ nhàng và chậm rãi.</p><br>
+<a href="https://imgur.com/NHYgfdu"><img src="https://i.imgur.com/NHYgfdu.png" title="source: imgur.com" /></a></div><hr><p>Đã hơn 3h sáng nhưng mình chưa ngủ được, chả nghĩ ngợi gì cả đâu, mình vẫn ngồi trên bàn, đeo tai nghe để âm thanh và màn đêm dẫn lối mình tới nơi cảm xúc rơi nhẹ nhàng và chậm rãi.</p>
 <div class="content" style="text-align:center; ">
 <img loading="lazy" src="https://i.imgur.com/3wEAMXm.jpeg" title="đơn độc" /></div>
 
