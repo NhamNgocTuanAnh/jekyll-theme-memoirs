@@ -171,11 +171,7 @@ isMobileDevice()&&document.getElementById("url-album").setAttribute("href","http
 <noscript><div><img src="https://mc.yandex.ru/watch/95513605" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 </html>
 <script>
-function isTetDate() {
-  const currentDate = new Date();
-  const lunarDate = new Intl.DateTimeFormat("vi-u-ca-lunar").format(currentDate);
-  return /(1|2|3|4)\/(1|13)$/.test(lunarDate);
-}
+function isTetDate(){let t=new Date,e=new Intl.DateTimeFormat("vi-u-ca-lunar").format(t);return/(1|2|3|4)\/(1|13)$/.test(e)}
 if(isTetDate()){document.getElementById("popupid").style.display="block"}
 function showOverlay(){if(!localStorage.getItem("popupClosed")){document.getElementById("overlay").style.display="block"}}function runCodeInJanuary(){(1===new Date().getMonth()+1)&&!localStorage.getItem("visitedIPs")?showOverlay():console.log("Kh\xf4ng phải th\xe1ng 1, kh\xf4ng thực hiện h\xe0nh động n\xe0o.")}runCodeInJanuary();
 </script>
