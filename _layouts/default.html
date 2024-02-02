@@ -78,7 +78,7 @@ var currentMonth=new Date().getMonth()+1;if(1===currentMonth){console.log("Chỉ
         isMobileDevice()&&(document.querySelector(".topnav").style.display="block");
     }
     </script>
-<div class="sidebar"></div><div class="nav-icon"><div class="hamburger-bar"></div></div><div id="blackover-nav" class="blackover"></div><nav id="menu"><ul><h3>Mục lục</h3><li><a href="{{ site.baseurl }}/" ><i id="icon-dark" class="fa fa-home"></i><span>|| Trang chủ</span></a></li><li><a  href="{{ site.baseurl }}/categories"><i id="icon-dark" class="fa fa-search-plus"></i><span>|| Tìm kiếm</span></a></li><li><a id="url-album" href="https://imgur.com/user/soujitendou/posts"><i id="icon-dark" class="fa fa-camera-retro"></i><span>|| My ảnh</span></a></li><li><a  href="{{ site.baseurl }}/them-bai-viet"><i id="icon-dark" class="fa fa-bullhorn"></i><span>|| Viết bài</span></a></li><li><a  href="{{ site.baseurl }}/about-me"><i id="icon-dark" class="fa fa-address-book"></i><span>&nbsp;&nbsp;|| About me</span></a></li></ul></nav>
+<div id="sidebarcreater"></div>
 
     {% include search-lunr.html %}
 
@@ -181,3 +181,62 @@ padding: 0.3em;
         <script>
     const version=Math.floor(1e6*Math.random()),head=document.querySelector("head"),currentUrl=new URL(window.location.href);currentUrl.searchParams.set("v",version);const linkElement=document.createElement("link");linkElement.rel="stylesheet",linkElement.type="text/css",linkElement.href=currentUrl.toString(),head.appendChild(linkElement);$(window).scroll(function(){$.each($("img"),function(){if($(this).attr("data-src")&&$(this).offset().top<$(window).scrollTop()+$(window).height()+100){var t=$(this).data("src");$(this).attr("src",t),$(this).removeAttr("data-src")}})});
         </script>
+<script>
+    // Tạo các phần tử HTML
+    var sidebar = document.createElement("div");
+    sidebar.className = "sidebar";
+
+    var navIcon = document.createElement("div");
+    navIcon.className = "nav-icon";
+    var hamburgerBar = document.createElement("div");
+    hamburgerBar.className = "hamburger-bar";
+    navIcon.appendChild(hamburgerBar);
+
+    var blackoverNav = document.createElement("div");
+    blackoverNav.id = "blackover-nav";
+    blackoverNav.className = "blackover";
+
+    var menu = document.createElement("nav");
+    menu.id = "menu";
+
+    var ul = document.createElement("ul");
+    var h3 = document.createElement("h3");
+    h3.textContent = "Mục lục";
+
+    var menuItems = [
+        { text: "Trang chủ", iconClass: "fa fa-home", link: "{{ site.baseurl }}/" },
+        { text: "Tìm kiếm", iconClass: "fa fa-search-plus", link: "{{ site.baseurl }}/categories" },
+        { text: "My ảnh", iconClass: "fa fa-camera-retro", link: "https://imgur.com/user/soujitendou/posts" },
+        { text: "Viết bài", iconClass: "fa fa-bullhorn", link: "{{ site.baseurl }}/them-bai-viet" },
+        { text: "About me", iconClass: "fa fa-address-book", link: "{{ site.baseurl }}/about-me" }
+    ];
+
+    // Tạo các mục menu
+    for (var i = 0; i < menuItems.length; i++) {
+        var li = document.createElement("li");
+        var a = document.createElement("a");
+        var icon = document.createElement("i");
+        icon.id = "icon-dark";
+        icon.className = menuItems[i].iconClass;
+        a.href = menuItems[i].link;
+        a.appendChild(icon);
+        a.innerHTML += "<span>|| " + menuItems[i].text + "</span>";
+        li.appendChild(a);
+        ul.appendChild(li);
+    }
+
+    // Gắn các phần tử vào menu
+    menu.appendChild(h3);
+    menu.appendChild(ul);
+
+    // Lấy phần tử div có id là "idgg"
+    var idggDiv = document.getElementById("sidebarcreater");
+
+    // Gắn các phần tử vào phần tử div có id là "idgg"
+    if (idggDiv) {
+        idggDiv.appendChild(sidebar);
+        idggDiv.appendChild(navIcon);
+        idggDiv.appendChild(blackoverNav);
+        idggDiv.appendChild(menu);
+    }
+    </script>
