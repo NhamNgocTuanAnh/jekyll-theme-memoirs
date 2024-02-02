@@ -39,30 +39,6 @@ function closePopup(){document.getElementById("overlay").style.display="none";lo
 document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll("img").forEach(function(t){t.addEventListener("load",function(){t.style.width=t.width+"px",t.style.height=t.height+"px"})})});
 var currentMonth=new Date().getMonth()+1;if(1===currentMonth){console.log("Chỉ chạy trong th\xe1ng 1");var e=document.createElement("link");e.rel="stylesheet",e.href="{{ site.baseurl }}/assets/css/newyear.css",document.head.appendChild(e)}</script>
 <script>function scrollToSmooth(){const scrollElement = document.documentElement.scrollTop ? document.documentElement : document.body;scrollElement.scrollTop = 200;}setTimeout(scrollToSmooth, 1000);</script>
-<script>
-function hideMyAuthShow(){var e=20,t=document.getElementById("myAuthShow"),n=setInterval(function(){--e<=0&&(clearInterval(n),t.style.display="none")},1e3)}var myIndex=0;function carousel(){var e,t=document.getElementsByClassName("mySlides");for(e=0;e<t.length;e++)t[e].style.display="none";++myIndex>t.length&&(myIndex=1),(t[myIndex-1]?(t[myIndex-1].style.display="block",t[myIndex-1].classList.remove('hidden')):console.log("t[myIndex-1]")),(t[myIndex]?t[myIndex].classList.add('hidden'):console.log("t[myIndex]")),setTimeout(carousel,5e3)}carousel(),document.addEventListener("DOMContentLoaded",function(){fetch("https://api64.ipify.org?format=json").then(e=>e.json()).then(e=>{let t=e.ip;localStorage.getItem("visitedIPs")||isMobileDevice()?document.getElementById("myAuthShow").style.display="none":(localStorage.setItem("visitedIPs",t),(document.getElementById("myAuthShow")&&document.getElementById("myAuthShow").style.display="block"),hideMyAuthShow())}).catch(e=>console.error("Error fetching IP:",e))});</script>
-    <script>
-const version=Math.floor(1e6*Math.random()),head=document.querySelector("head"),currentUrl=new URL(window.location.href);currentUrl.searchParams.set("v",version);const linkElement=document.createElement("link");linkElement.rel="stylesheet",linkElement.type="text/css",linkElement.href=currentUrl.toString(),head.appendChild(linkElement);$(window).scroll(function(){$.each($("img"),function(){if($(this).attr("data-src")&&$(this).offset().top<$(window).scrollTop()+$(window).height()+100){var t=$(this).data("src");$(this).attr("src",t),$(this).removeAttr("data-src")}})});
-    </script>
-    <script>
-        var allPosts;
-        function createrAllPosts() {
-            if (allPosts) {
-                console.log("đã có rồi!");
-            }else{
-                allPosts = [
-                    {% assign random_elements = site.posts | sample: 5 %}
-                    {% for post in random_elements %}
-                    { url: "{{ post.url }}", title: "{{ post.title }}" } {% unless post.previous == nil %}, {% endunless %}
-                    {% endfor %}
-                ];
-            }
-        }
-        (interfaceState&&"savemode"!=interfaceState||!isSlow())&&createrAllPosts();
-    </script>
-    <script>
-    var comingFromPost=document.referrer;let next_post_url="";function linkToRandomBlogPost(){let o=0,t="/about-me";do{let n=Math.floor(Math.random()*(allPosts&&allPosts.length||[])),r=allPosts[n];var e=r.title,l=r.url;o++}while(comingFromPost.includes(l)||o>10);return o>10&&comingFromPost!==t&&(l=t),o>10&&comingFromPost===t&&(l="/2022-nhin-lai-mot-nam-da-qua"),next_post_url=l,e}
-    </script>
 </head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
@@ -181,4 +157,27 @@ function showOverlay(){if(!localStorage.getItem("popupClosed")){document.getElem
 border: 1px solid black;
 padding: 0.3em;
 }</style>
-
+    <script>
+        var allPosts;
+        function createrAllPosts() {
+            if (allPosts) {
+                console.log("đã có rồi!");
+            }else{
+                allPosts = [
+                    {% assign random_elements = site.posts | sample: 5 %}
+                    {% for post in random_elements %}
+                    { url: "{{ post.url }}", title: "{{ post.title }}" } {% unless post.previous == nil %}, {% endunless %}
+                    {% endfor %}
+                ];
+            }
+        }
+        (interfaceState&&"savemode"!=interfaceState||!isSlow())&&createrAllPosts();
+    </script>
+    <script>
+    var comingFromPost=document.referrer;let next_post_url="";function linkToRandomBlogPost(){let o=0,t="/about-me";do{let n=Math.floor(Math.random()*(allPosts&&allPosts.length||[])),r=allPosts[n];var e=r.title,l=r.url;o++}while(comingFromPost.includes(l)||o>10);return o>10&&comingFromPost!==t&&(l=t),o>10&&comingFromPost===t&&(l="/2022-nhin-lai-mot-nam-da-qua"),next_post_url=l,e}
+    </script>
+<script>
+    function hideMyAuthShow(){var e=20,t=document.getElementById("myAuthShow"),n=setInterval(function(){--e<=0&&(clearInterval(n),t.style.display="none")},1e3)}var myIndex=0;function carousel(){var e,t=document.getElementsByClassName("mySlides");for(e=0;e<t.length;e++)t[e].style.display="none";++myIndex>t.length&&(myIndex=1),(t[myIndex-1]?(t[myIndex-1].style.display="block",t[myIndex-1].classList.remove('hidden')):console.log("t[myIndex-1]")),(t[myIndex]?t[myIndex].classList.add('hidden'):console.log("t[myIndex]")),setTimeout(carousel,5e3)}carousel(),document.addEventListener("DOMContentLoaded",function(){fetch("https://api64.ipify.org?format=json").then(e=>e.json()).then(e=>{let t=e.ip;localStorage.getItem("visitedIPs")||isMobileDevice()?document.getElementById("myAuthShow").style.display="none":(localStorage.setItem("visitedIPs",t),(document.getElementById("myAuthShow")&&document.getElementById("myAuthShow").style.display="block"),hideMyAuthShow())}).catch(e=>console.error("Error fetching IP:",e))});</script>
+        <script>
+    const version=Math.floor(1e6*Math.random()),head=document.querySelector("head"),currentUrl=new URL(window.location.href);currentUrl.searchParams.set("v",version);const linkElement=document.createElement("link");linkElement.rel="stylesheet",linkElement.type="text/css",linkElement.href=currentUrl.toString(),head.appendChild(linkElement);$(window).scroll(function(){$.each($("img"),function(){if($(this).attr("data-src")&&$(this).offset().top<$(window).scrollTop()+$(window).height()+100){var t=$(this).data("src");$(this).attr("src",t),$(this).removeAttr("data-src")}})});
+        </script>
