@@ -62,16 +62,6 @@ comments: true
 <!-- Share -->
 {% include share.html %}
 <div id="instaShow2"></div>
-<script>
-let loadTriggerLoadElfSightScript = true;
-const triggerLoadElfSightScript=document.getElementById("triggerLoadElfSightScript");function isScrolledIntoView(t){let e=t.getBoundingClientRect(),i=e.top,n=e.bottom;return i<window.innerHeight&&n>=0}
-function loadElfSightScript(){var t=window.location.href;if(t.includes("localhost")||t.includes("127.0.0.1"))console.log("Đang chạy localhost, kh\xf4ng th\xeam lệnh script.");else{var e=document.createElement("div");e.className="elfsight-app-be8e4ed8-2767-48dd-a856-d96b3a4edae2",e.setAttribute("data-elfsight-app-lazy",""),e.style.textAlign="center";var a=document.getElementById("instaShow2");a?a.appendChild(e):console.error('Kh\xf4ng t\xecm thấy thẻ div c\xf3 id "instaShow2".');var l=document.createElement("script");l.src="https://static.elfsight.com/platform/platform.js",console.log("Tải loadElfSightScript https://static.elfsight.com/platform/platform.js"),l.setAttribute("data-use-service-core",""),l.defer=!0,document.head.appendChild(l),loadTriggerLoadElfSightScript=false}}
-window.addEventListener('scroll', function() {
-  if (isScrolledIntoView(triggerLoadElfSightScript)&&loadTriggerLoadElfSightScript) {
-    loadElfSightScript();
-  }
-});
-</script>
 {% include related-posts.html %}
 {% if site.url == page.url %}
 <div id="fb-root"></div>
@@ -88,4 +78,13 @@ document.addEventListener("DOMContentLoaded",function(){for(var t=document.query
 document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll("img").forEach(function(t){t.addEventListener("load",function(){t.style.width=t.width+"px",t.style.height=t.height+"px"})})});
 </script>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-
+<script>
+  let loadTriggerLoadElfSightScript = true;
+  const triggerLoadElfSightScript=document.getElementById("triggerLoadElfSightScript");function isScrolledIntoView(t){let e=t.getBoundingClientRect(),i=e.top,n=e.bottom;return i<window.innerHeight&&n>=0}
+  function loadElfSightScript(){var t=window.location.href;if(t.includes("localhost")||t.includes("127.0.0.1"))console.log("Đang chạy localhost, kh\xf4ng th\xeam lệnh script.");else{var e=document.createElement("div");e.className="elfsight-app-be8e4ed8-2767-48dd-a856-d96b3a4edae2",e.setAttribute("data-elfsight-app-lazy",""),e.style.textAlign="center";var a=document.getElementById("instaShow2");a?a.appendChild(e):console.error('Kh\xf4ng t\xecm thấy thẻ div c\xf3 id "instaShow2".');var l=document.createElement("script");l.src="https://static.elfsight.com/platform/platform.js",console.log("Tải loadElfSightScript https://static.elfsight.com/platform/platform.js"),l.setAttribute("data-use-service-core",""),l.defer=!0,document.head.appendChild(l),loadTriggerLoadElfSightScript=false}}
+  window.addEventListener('scroll', function() {
+    if (isScrolledIntoView(triggerLoadElfSightScript)&&loadTriggerLoadElfSightScript) {
+      loadElfSightScript();
+    }
+  });
+  </script>
