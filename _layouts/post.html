@@ -4,16 +4,6 @@ archive: false
 post_class: post-template
 comments: true
 ---
-<div id="progress-container">
-  <div class="progress-bar"></div>
-</div>
-<style>
-#progress-container{position:fixed;bottom:0;left:0;width:100%;height:5px;background-color:#ddd;z-index:999}.progress-bar{height:100%;width:0;background-color:#007bff;transition:width .3s}
-</style>
-<script>
-const pageProgressBar=document.querySelector(".progress-bar"),scrollContainer=()=>document.documentElement||document.body;document.addEventListener("scroll",()=>{let e=scrollContainer().scrollTop/(scrollContainer().scrollHeight-scrollContainer().clientHeight)*100;pageProgressBar.style.width=`${e}%`});
-$(document).ready(function(){$("img[loading='lazy']").each(function(){if(!$(this).hasClass("img-thumb")&&!$(this).hasClass("author-thumb")){var a=$(this).parent("a");a.length&&a.attr("data-fancybox")||$(this).wrap("<a href='"+$(this).attr("src")+"' data-fancybox='gallery' data-caption='source: imgur.com'></a>")}}),$("a[data-fancybox='gallery']").fancybox({})});
-  </script>
   <style>
   .myFancyBox .fancybox-thumbs{top:auto;width:auto;bottom:0;left:0;right:0;height:95px;padding:10px 10px 5px;box-sizing:border-box;background:rgba(0,0,0,.3)}.myFancyBox .fancybox-show-thumbs .fancybox-inner{right:0!important;bottom:95px!important}.fancybox-show-thumbs .fancybox-inner{right:0!important;bottom:98px}</style>
   <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
