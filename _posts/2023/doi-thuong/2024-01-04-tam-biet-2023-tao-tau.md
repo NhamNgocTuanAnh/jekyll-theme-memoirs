@@ -63,11 +63,13 @@ Tiếng mở cổng dưới tầng 1 kéo mình về thực tại với âm than
 
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/NHYgfdu"><img src="https://i.imgur.com/NHYgfdu.png" title="source: imgur.com" /></a></div>
-
-Đã hơn 3h sáng nhưng mình chưa ngủ được, chả nghĩ ngợi gì cả đâu, mình vẫn ngồi trên bàn, đeo tai nghe để âm thanh
-và màn đêm dẫn lối mình tới nơi cảm xúc rơi nhẹ nhàng và chậm rãi.
-
-(Tối về chụp ảnh buổi tối đêm, ngồi 1 mình, hoặc ảnh bàn phím - Update sau)
+<div class="content" style="text-align:center; ">
+<blockquote class="imgur-embed-pub" lang="vi" data-id="a/LiZywRP"  ><a href="//imgur.com/a/LiZywRP">Đơn độc</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script></div>
+<style>iframe.imgur-embed-iframe-pub {
+        display: block;
+        margin-left: auto !important;
+        margin-right: auto !important;
+}</style>
 
 Sau đó vì chưa có dự án làm nên mình sang dự án khác để hỗ trợ, ngồi ở chỗ khách hàng.
 Làm ở gần nhà hơn nên sẽ tiết kiệm được thời gian đi lại, khoảng thời gian sang đó làm
