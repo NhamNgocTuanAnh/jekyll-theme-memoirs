@@ -8,38 +8,10 @@ comments: true
   <div class="progress-bar"></div>
 </div>
 <style>
-  #progress-container {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 5px;
-  background-color: #ddd;
-  z-index: 999; /* To ensure the progress bar stays on top of other elements */
-}
-.progress-bar {
-  height: 100%;
-  width: 0;
-  background-color: #007bff;
-  transition: width 0.3s ease;
-}
+#progress-container{position:fixed;bottom:0;left:0;width:100%;height:5px;background-color:#ddd;z-index:999}.progress-bar{height:100%;width:0;background-color:#007bff;transition:width .3s}
 </style>
 <script>
-  const pageProgressBar = document.querySelector(".progress-bar");
-const scrollContainer = () => {
-  return document.documentElement || document.body;
-};
-
-document.addEventListener("scroll", () => {
-  const scrolledPercentage =
-    (scrollContainer().scrollTop /
-      (scrollContainer().scrollHeight - scrollContainer().clientHeight)) *
-    100;
-
-  pageProgressBar.style.width = `${scrolledPercentage}%`;
-
-});
-
+const pageProgressBar=document.querySelector(".progress-bar"),scrollContainer=()=>document.documentElement||document.body;document.addEventListener("scroll",()=>{let e=scrollContainer().scrollTop/(scrollContainer().scrollHeight-scrollContainer().clientHeight)*100;pageProgressBar.style.width=`${e}%`});
 $(document).ready(function(){$("img[loading='lazy']").each(function(){if(!$(this).hasClass("img-thumb")&&!$(this).hasClass("author-thumb")){var a=$(this).parent("a");a.length&&a.attr("data-fancybox")||$(this).wrap("<a href='"+$(this).attr("src")+"' data-fancybox='gallery' data-caption='source: imgur.com'></a>")}}),$("a[data-fancybox='gallery']").fancybox({})});
   </script>
   <style>
