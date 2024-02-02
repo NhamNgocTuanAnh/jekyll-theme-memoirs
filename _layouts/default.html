@@ -18,7 +18,6 @@ const interfaceState=localStorage.getItem("interfaceState");
     {% if page.keywords %}
         <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
     {% endif %}
-    <style>.actual-image,.placeholder-image{width:100%;height:100%;object-fit:cover}.placeholder-image{filter:blur(20px)}.actual-image{position:absolute;top:0;left:0;opacity:0;transition:opacity .3s}.actual-image.loaded{opacity:1}</style>
     <script>
 function handleImageLoad(e){e.classList.add("loaded");}</script>
     <script src="{{ site.baseurl }}/assets/js/snowflakes.js" async ></script>
@@ -36,9 +35,7 @@ function handleImageLoad(e){e.classList.add("loaded");}</script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
     <script>
 function closePopup(){document.getElementById("overlay").style.display="none";localStorage.setItem("popupClosed",(new Date).toISOString())}
-document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll("img").forEach(function(t){t.addEventListener("load",function(){t.style.width=t.width+"px",t.style.height=t.height+"px"})})});
-var currentMonth=new Date().getMonth()+1;if(1===currentMonth){console.log("Chỉ chạy trong th\xe1ng 1");var e=document.createElement("link");e.rel="stylesheet",e.href="{{ site.baseurl }}/assets/css/newyear.css",document.head.appendChild(e)}</script>
-<script>function scrollToSmooth(){const scrollElement = document.documentElement.scrollTop ? document.documentElement : document.body;scrollElement.scrollTop = 200;}setTimeout(scrollToSmooth, 1000);</script>
+</script>
 </head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
@@ -186,3 +183,7 @@ var sidebar=document.createElement("div");sidebar.className="sidebar";var navIco
     </script>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0"
 nonce="JekfmCeX"></script>
+<style>.actual-image,.placeholder-image{width:100%;height:100%;object-fit:cover}.placeholder-image{filter:blur(20px)}.actual-image{position:absolute;top:0;left:0;opacity:0;transition:opacity .3s}.actual-image.loaded{opacity:1}</style>
+<script>function scrollToSmooth(){const scrollElement = document.documentElement.scrollTop ? document.documentElement : document.body;scrollElement.scrollTop = 200;}setTimeout(scrollToSmooth, 1000);
+document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll("img").forEach(function(t){t.addEventListener("load",function(){t.style.width=t.width+"px",t.style.height=t.height+"px"})})});
+var currentMonth=new Date().getMonth()+1;if(1===currentMonth){console.log("Chỉ chạy trong th\xe1ng 1");var e=document.createElement("link");e.rel="stylesheet",e.href="{{ site.baseurl }}/assets/css/newyear.css",document.head.appendChild(e)}</script>
