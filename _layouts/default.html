@@ -33,9 +33,6 @@ function handleImageLoad(e){e.classList.add("loaded");}</script>
     <script src="{{ site.baseurl }}/assets/js/toastr.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
-    <script>
-function closePopup(){document.getElementById("overlay").style.display="none";localStorage.setItem("popupClosed",(new Date).toISOString())}
-</script>
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/loading.css">
 </head>
 
@@ -67,30 +64,20 @@ function closePopup(){document.getElementById("overlay").style.display="none";lo
   </a>
 </div>
     {% include search-lunr.html %}
-
-    <!-- End Sidebar Navigation
-================================================== -->
-
     <div class="site-content {% if page.url == '/' %} firstpage {% endif %}">
-
         <div class="container">
             {% if page.url == '/' %}
             <p class="sitetag">
                 {{ site.description }}
             </p>
             {% endif %}
-
-            <!-- Content
-    ================================================== -->
     <div class="main-content"><div id="main-content-content">{{ content }}</div>
-        <!-- Begin Footer
-================================================== -->
+    <script>
+        function closePopup(){document.getElementById("overlay").style.display="none";localStorage.setItem("popupClosed",(new Date).toISOString())}
+        </script>
 <div id="snowCall" style="display:none"></div><div id="overlay" onclick="closePopup()" class="overlay" style="display: none; position: fixed; top: 80px; left: 0; width: 100%; height: 100%;"></div>
     <footer class="footer"><div class="container"><div class="row"><div class="col-md-6 col-sm-12 text-center text-lg-left">Copyright © {{ site.time | date: "%Y" }} {{ site.name }} </div><div class="col-md-6 col-sm-12 text-center text-lg-right"><a target="_blank" href="https://www.facebook.com/nntatlu/">Anh Hàng Xóm</a></div></div></div><div class="fb-customerchat" attribution=setup_tool page_id="113478371644013"></div></footer>
-        <!-- End Footer
-================================================== -->
-
-    </div>
+</div>
     <script src="{{ site.baseurl }}/assets/js/prism.js"></script>
     <script src="{{ site.baseurl }}/assets/js/theme.js"></script>
 
