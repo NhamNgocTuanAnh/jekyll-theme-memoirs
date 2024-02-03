@@ -174,9 +174,16 @@ padding: 0.3em;
         </script>
 <script>
 var sidebar=document.createElement("div");sidebar.className="sidebar";var navIcon=document.createElement("div");navIcon.className="nav-icon";var hamburgerBar=document.createElement("div");hamburgerBar.className="hamburger-bar",navIcon.appendChild(hamburgerBar);var blackoverNav=document.createElement("div");blackoverNav.id="blackover-nav",blackoverNav.className="blackover";var menu=document.createElement("nav");menu.id="menu";var ul=document.createElement("ul"),h3=document.createElement("h3");h3.textContent="Mục lục";for(var menuItems=[{text:"Trang chủ",iconClass:"fa fa-home",link:"{{ site.baseurl }}/"},{text:"T\xecm kiếm",iconClass:"fa fa-search-plus",link:"{{ site.baseurl }}/categories"},{text:"My ảnh",iconClass:"fa fa-camera-retro",link:"https://imgur.com/user/soujitendou/posts"},{text:"Viết b\xe0i",iconClass:"fa fa-bullhorn",link:"{{ site.baseurl }}/them-bai-viet"},{text:"About me",iconClass:"fa fa-address-book",link:"{{ site.baseurl }}/about-me"}],i=0;i<menuItems.length;i++){var e=document.createElement("li"),a=document.createElement("a"),r=document.createElement("i");r.id="icon-dark",r.className=menuItems[i].iconClass,a.href=menuItems[i].link,a.appendChild(r),a.innerHTML+="<span>|| "+menuItems[i].text+"</span>",e.appendChild(a),ul.appendChild(e)}menu.appendChild(h3),menu.appendChild(ul);var idsidebarcreater=document.getElementById("sidebarcreater");idsidebarcreater&&(idsidebarcreater.appendChild(sidebar),idsidebarcreater.appendChild(navIcon),idsidebarcreater.appendChild(blackoverNav),idsidebarcreater.appendChild(menu));
+setTimeout(function() {
+            var script = document.createElement('script');
+            script.async = true;
+            script.defer = true;
+            script.crossorigin = 'anonymous';
+            script.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0';
+            script.nonce = 'JekfmCeX';
+            document.body.appendChild(script);
+        }, 15000);
     </script>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0"
-nonce="JekfmCeX"></script>
 <style>.actual-image,.placeholder-image{width:100%;height:100%;object-fit:cover}.placeholder-image{filter:blur(20px)}.actual-image{position:absolute;top:0;left:0;opacity:0;transition:opacity .3s}.actual-image.loaded{opacity:1}</style>
   <style>
   #progress-container{position:fixed;bottom:0;left:0;width:100%;height:5px;background-color:#ddd;z-index:999}.progress-bar{height:100%;width:0;background-color:#007bff;transition:width .3s}
