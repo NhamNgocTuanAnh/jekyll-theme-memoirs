@@ -18,7 +18,7 @@ keywords:
   - 2023 Một năm nhìn lại
 date: 2024-02-09 09:02:09 +0700
 ---
-
+<article id="article" markdown=1>
 Nếu nói năm nay không có thử thách, không khó khăn thì cũng không đúng, mà nếu nói năm nay mọi thứ khá êm đềm thì cũng chẳng phải.\\
 Năm nay mọi thứ trôi qua khá nhanh với mình, đủ cảm nhận cũng nhanh để thẩm thấu hết tất cả.
 
@@ -47,7 +47,9 @@ Tiếp theo đó mình bắt đầu nhận một CR mới của dự án, bắt 
 được tôn trọng mình, nhưng vì dự án mình vẫn tiếp tục làm cho kịp tiến độ. Xong dự án đó
 mình cũng tự cho bản thân nghỉ ngơi 3
 ngày và cảm thấy bản thân cần cải thiện nhiều cái, nên vẫn tiếp tục học và tích lũy.
+</article>
 
+<aside id="aside" markdown=1>
 <div class="content" style="text-align:center; ">
 <img src="https://i.imgur.com/d4I6gQL.jpg" title="source: imgur.com" /></div>
 
@@ -97,3 +99,4 @@ chuẩn bị hành trang về với gia đình thôi, tất cả mọi phiền l
 
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/WfIZk51"><img src="https://i.imgur.com/WfIZk51.png" title="source: imgur.com" /></a></div>
+</aside>
