@@ -5,9 +5,7 @@ post_class: post-template
 comments: true
 ---
 <div class="entry-header" style="display: none;"><br>
-  <!-- Post Title -->
   <h1 class="posttitle"><a style="color:black" href="{{ site.baseurl }}{{ post.url }}" target="_blank">{{ page.title }}</a></h1>
-  <!-- Author & Date  Box -->
   {% assign author = site.authors[page.author] %}
   {% if page.author %}
   <div class="d-flex align-items-center mt-4">
