@@ -9,15 +9,8 @@
 </div>
 {% endif %}
 <script>
-    // Chờ 5 giây trước khi thực hiện đoạn mã
 setTimeout(function() {
-    // Lấy phần tử featured-image
     var featuredImage = document.querySelector('.featured-image');
-
-    // Add an event listener for the 'load' event on the featured image
-    featuredImage.addEventListener('load', function () {
-        // Chờ 1 giây để đảm bảo rằng các sự kiện đã kết thúc
-        setTimeout(function() {
             // Lấy phần tử preloader
             var preloader = document.getElementById('ctn-preloader');
 
@@ -26,7 +19,5 @@ setTimeout(function() {
                 // If it has, remove the 'loaded' attribute
                 preloader.removeAttribute('loaded');
             }
-        }, 1000); // Chờ thêm 1 giây sau khi hình ảnh load xong
-    });
-}, 5000); // Chờ 5 giây
+}, 3000); // Chờ 5 giây
 </script>
