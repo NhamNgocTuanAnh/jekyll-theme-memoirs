@@ -184,6 +184,16 @@ var sidebar=document.createElement("div");sidebar.className="sidebar";var navIco
 #chat-button{position:fixed;bottom:20px;right:20px;background-color:#007bff;color:#fff;border:none;padding:10px 20px;border-radius:5px;cursor:pointer;box-shadow:0 2px 4px rgba(0,0,0,.2)}
 </style>
 <script>
+        function loadFacebookSDK(){window.fbAsyncInit=function(){FB.init({xfbml:!0,version:"v3.2"})};var e,o=document.getElementsByTagName("script")[0];document.getElementById("facebook-jssdk")||((e=document.createElement("script")).id="facebook-jssdk",e.src="https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js",o.parentNode.insertBefore(e,o))}
+        function loadFacebookSDKLoad() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.defer = true;
+    script.crossorigin = "anonymous";
+    script.src = "https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v16.0&appId=2086804534891096&autoLogAppEvents=1";
+    script.nonce = "y8xxA5Uo";
+    document.head.appendChild(script);
+}
     function handleChatButtonClick() {
         alert("Bạn đã chọn chat ngay.");
         var script = document.createElement('script');
@@ -193,6 +203,8 @@ var sidebar=document.createElement("div");sidebar.className="sidebar";var navIco
             script.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0';
             script.nonce = 'JekfmCeX';
             document.body.appendChild(script);
+            loadFacebookSDKLoad();
+            loadFacebookSDK() ;
     }
-    // document.getElementById("chat-button").addEventListener("click", handleChatButtonClick);
+
 </script>
