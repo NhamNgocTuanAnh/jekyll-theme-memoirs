@@ -1,13 +1,12 @@
 {% if page.image %}
 <div class="entry-featured-image">
     {% if site.lazyimages == "enabled" %}
-
-    <img class="featured-image lazyimg {% if page.imageshadow %} image-shadow {% endif %}" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+    <div id="idFeaturedImage"></div>
     {% else %}
     <img class="featured-image {% if page.imageshadow %} image-shadow {% endif %}" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
     {% endif %}
 </div>
 {% endif %}
+
 <script>
-setTimeout(function(){document.querySelector(".featured-image"),preloader&&preloader.hasAttribute("loaded")&&preloader.removeAttribute("loaded")},4e3);
-</script>
+window.addEventListener("load",function(){function e(e){var t=e.indexOf("https://");return -1!==t?e.slice(t):e}var t=e("{{ site.baseurl }}/{{ page.image }}");setTimeout(function a(){var entryHeader = document.querySelector('.entry-header');entryHeader.style.display = "block";var r=document.createElement("img");r.setAttribute("class","featured-image lazyimg"),r.setAttribute("src",e(t)),document.getElementById("idFeaturedImage").appendChild(r),document.querySelector(".featured-image"),preloader&&preloader.hasAttribute("loaded")&&preloader.removeAttribute("loaded")},5e3)});</script>
