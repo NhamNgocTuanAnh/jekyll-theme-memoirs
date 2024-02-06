@@ -18,7 +18,7 @@ iframe {display:block;margin:0 auto;};
   </style>
 
 <script>
-function addDay(){let e=parseInt(new Date().getHours());e>=7&&e<12?document.getElementById("replace-day").innerText="Ch\xfac một buổi s\xe1ng vui vẻ!!\uD83D\uDC68‍\uD83D\uDE80":e>=12&&e<19?document.getElementById("replace-day").innerText="Ch\xfac một buổi chiều vui vẻ!!\uD83D\uDC68‍\uD83D\uDE80":e>=19&&e<23?document.getElementById("replace-day").innerText="Ch\xfac một buổi tối vui vẻ!!\uD83D\uDC68‍\uD83D\uDE80":e>=23&&e<5&&(document.getElementById("replace-day").innerText="Nhớ ngủ sớm nh\xe9 bạn tối!!\uD83D\uDC68‍\uD83D\uDE80")}document.addEventListener("DOMContentLoaded",function(){addDay(),window.setInterval(addDay,5e3)});
+function addDay(){let e=parseInt(new Date().getHours());e>=7&&e<12?document.getElementById("replace-day").innerText="Ch\xfac một buổi s\xe1ng vui vẻ!!\uD83D\uDC68‍\uD83D\uDE80":e>=12&&e<19?document.getElementById("replace-day").innerText="Ch\xfac một buổi chiều vui vẻ!!\uD83D\uDC68‍\uD83D\uDE80":e>=19&&e<23?document.getElementById("replace-day").innerText="Ch\xfac một buổi tối vui vẻ!!\uD83D\uDC68‍\uD83D\uDE80":e>=23&&e<5&&(document.getElementById("replace-day").innerText="Nhớ ngủ sớm nh\xe9 bạn tối!!\uD83D\uDC68‍\uD83D\uDE80")}document.addEventListener("DOMContentLoaded",function(){addDay(),window.setInterval(addDay,15e3)});
 </script>
 <script>
   var root_url=window.location.origin;function getHrefOnclickAndRedirectWithLink(t){t.preventDefault();t=t.currentTarget.getAttribute("href");window.location=[root_url,"/redirect-v2?url=",encodeURIComponent(t)].join("")}
