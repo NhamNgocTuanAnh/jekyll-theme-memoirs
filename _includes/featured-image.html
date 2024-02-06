@@ -9,15 +9,5 @@
 </div>
 {% endif %}
 <script>
-setTimeout(function() {
-    var featuredImage = document.querySelector('.featured-image');
-            // Lấy phần tử preloader
-            var preloader = document.getElementById('ctn-preloader');
-
-            // Check if the preloader has the 'loaded' attribute
-            if (preloader && preloader.hasAttribute('loaded')) {
-                // If it has, remove the 'loaded' attribute
-                preloader.removeAttribute('loaded');
-            }
-}, 3000); // Chờ 5 giây
+setTimeout(function(){document.querySelector(".featured-image"),preloader&&preloader.hasAttribute("loaded")&&preloader.removeAttribute("loaded")},4e3);
 </script>
