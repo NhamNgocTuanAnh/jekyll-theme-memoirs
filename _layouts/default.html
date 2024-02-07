@@ -151,7 +151,7 @@ padding: 0.3em;
                 ];
             }
         }
-        (interfaceState&&"savemode"!=interfaceState||!isSlow())&&createrAllPosts();
+        (interfaceState&&"savemode"!=interfaceState||!isSlow())&&setTimeout(function() {createrAllPosts();}, 25000);
     </script>
     <script>
     var comingFromPost=document.referrer;let next_post_url="";function linkToRandomBlogPost(){let o=0,t="/about-me";do{let n=Math.floor(Math.random()*(allPosts&&allPosts.length||[])),r=allPosts[n];var e=r.title,l=r.url;o++}while(comingFromPost.includes(l)||o>10);return o>10&&comingFromPost!==t&&(l=t),o>10&&comingFromPost===t&&(l="/2022-nhin-lai-mot-nam-da-qua"),next_post_url=l,e}
