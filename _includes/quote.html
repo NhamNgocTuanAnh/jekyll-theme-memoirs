@@ -2,7 +2,7 @@
 
   // $.getJSON("https://api.forismatic.com/api/1.0/?method=getQuote&format=jsonp&lang=vi&jsonp=?",function(t){var o=t.quoteText,e=t.quoteAuthor;$("#quote").text('"'+o+'"'),$("#by").text(e)})
 
-  fetch("http://api.forismatic.com/api/1.0/?method=getQuote&format=json&lang=vi")
+  fetch("https://api.forismatic.com/api/1.0/?method=getQuote&format=jsonp&lang=vi&jsonp=?")
     .then(response => response.json())
     .then(data => {
         $("#quote").text('"'+data.quoteText+'"'),$("#by").text(data.quoteAuthor);
