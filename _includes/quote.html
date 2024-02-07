@@ -1,16 +1,5 @@
 <script>$(document).ready(function(){$("#getQuote").on("click",function(){
-
-  $.getJSON("https://api.forismatic.com/api/1.0/?method=getQuote&format=jsonp&lang=vi&jsonp=?",function(t){var o=t.quoteText,e=t.quoteAuthor;$("#quote").text('"'+o+'"'),$("#by").text(e)})
-
-//   fetch("https://api.forismatic.com/api/1.0/?method=getQuote&format=jsonp&lang=en&jsonp=?")
-//     .then(response => response.json())
-//     .then(data => {
-//         $("#quote").text('"'+data.quoteText+'"'),$("#by").text(data.quoteAuthor);
-//     })
-//     .catch(error => console.error("Lỗi khi lấy trích dẫn: ", error));
-
-
-// })});
+$.getJSON("https://api.forismatic.com/api/1.0/?method=getQuote&format=jsonp&lang=en&jsonp=?",function(t){var o=t.quoteText,e=t.quoteAuthor;$("#quote").text('"'+o+'"'),$("#by").text(e)})
 function getQuoteFN(){document.getElementById("getQuote").click()}</script>
 <div class="article-post">
   <hr style="border: 1px solid #000000;">
