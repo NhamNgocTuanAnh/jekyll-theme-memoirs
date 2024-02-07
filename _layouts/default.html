@@ -81,8 +81,7 @@
       </div>
 </body>
 </html>
-<script>setTimeout(function() {var sitetag = document.querySelector(".sitetag");sitetag.style.display = "block";}, 12e3);
-    var sidebar = document.getElementById('sidebar');var isRelative = sidebar && window.getComputedStyle(sidebar).position === 'relative';
+<script>var sidebar = document.getElementById('sidebar');var isRelative = sidebar && window.getComputedStyle(sidebar).position === 'relative';
     function hideDivOnSmallScreens() { var iPhone8Width = 375; var iPhone8Height = 667; var windowWidth = window.innerWidth; var windowHeight = window.innerHeight; if (windowWidth <= iPhone8Width || windowHeight <= iPhone8Height) { console.log("nhỏ quá"); return true; }else{ return false; } }
     function isSlowCPU(){let e=localStorage.getItem("interfaceState");if(!e||e&&"savemode"==e){var t=new Date().getTime();window.onload=function(){var e;document.querySelector(".featured-image").addEventListener("load",function(){var e=document.getElementById("ctn-preloader");e&&e.classList.contains("loaded")&&document.getElementById("ctn-preloader").queue(function(){this.remove()})});return new Date().getTime()-t>8e3}}};
     function isSlow(){return"connection"in navigator?(navigator.connection||navigator.mozConnection||navigator.webkitConnection).downlink<1.5?(window.location.href="https://anhhangxom.xyz/assets/images/2023/du-lich/avt/cha-ba-danh-avt.webp",!0):void 0:(console.warn("API navigator.connection kh\xf4ng được hỗ trợ tr\xean tr\xecnh duyệt n\xe0y."),false)}function isMobileDevice(){return/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)};const currentState = localStorage.getItem('interfaceState');
