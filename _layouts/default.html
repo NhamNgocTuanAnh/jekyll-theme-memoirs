@@ -10,8 +10,6 @@
     {% if page.keywords %}
         <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
     {% endif %}
-    <script>
-function handleImageLoad(e){e.classList.add("loaded");}</script>
     <script src="{{ site.baseurl }}/assets/js/snowflakes.js" async ></script>
     <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.webp">
     <title>{{ page.title }} | {{site.name}}</title>{% seo %}
@@ -21,8 +19,6 @@ function handleImageLoad(e){e.classList.add("loaded");}</script>
     <script src="{{ site.baseurl }}/assets/js/lazysizes.min.js" async></script>
     <meta name="google-site-verification" content="d_QhcFO6jYixKuqHeimC-fB9HoL2oOxFPBBr1Dm-3nE" />
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style-image.css">
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/toastr.min.css">
-    <script src="{{ site.baseurl }}/assets/js/toastr.min.js"></script>
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/loading.css">
 </head>
 
@@ -186,4 +182,7 @@ if (chatButton) {
 border: 1px solid black;
 padding: 0.3em;
 }</style>
-
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/toastr.min.css">
+<script src="{{ site.baseurl }}/assets/js/toastr.min.js"></script>
+<script>
+    function handleImageLoad(e){e.classList.add("loaded");}</script>
