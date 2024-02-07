@@ -131,13 +131,7 @@ function showOverlay(){if(!localStorage.getItem("popupClosed")){document.getElem
     function scrollToSmooth(){const scrollElement = document.documentElement.scrollTop ? document.documentElement : document.body;scrollElement.scrollTop = 200;}setTimeout(scrollToSmooth, 1000);
     document.addEventListener("DOMContentLoaded",function(){setupPopUp();showSnowEffect();checkPopupStatus();if(isTetDate()){if(document.getElementById('overlay')){document.getElementById('overlay').innerHTML = overlayContent;}};document.querySelectorAll("img").forEach(function(t){t.addEventListener("load",function(){t.style.width=t.width+"px",t.style.height=t.height+"px"})})});
     var currentMonth=new Date().getMonth()+1;if(1===currentMonth){console.log("Chỉ chạy trong th\xe1ng 1");var e=document.createElement("link");e.rel="stylesheet",e.href="{{ site.baseurl }}/assets/css/newyear.css",document.head.appendChild(e)}</script>
-<style>table {
-    width: 100%;
-}table :is(td, th) {
-border: 1px solid black;
-padding: 0.3em;
-}</style>
-    <script>
+<script>
         var allPosts;
         function createrAllPosts() {
             if (allPosts) {
@@ -188,3 +182,9 @@ function loadFacebookSDK(){window.fbAsyncInit=function(){FB.init({xfbml:!0,versi
 if (chatButton) {
     chatButton.style.display = "none";
 };alert("Bạn đợi lát! \uD83E\uDD70.");var e=document.createElement("script");e.async=!0,e.defer=!0,e.crossorigin="anonymous",e.src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0",e.nonce="JekfmCeX",document.body.appendChild(e),loadFacebookSDKLoad(),loadFacebookSDK()}</script>
+<style>table {
+    width: 100%;
+}table :is(td, th) {
+border: 1px solid black;
+padding: 0.3em;
+}</style>
