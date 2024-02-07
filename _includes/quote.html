@@ -1,6 +1,4 @@
-<script>$(document).ready(function(){$("#getQuote").on("click",function(){
-$.getJSON("https://api.forismatic.com/api/1.0/?method=getQuote&format=jsonp&lang=en&jsonp=?",function(t){var o=t.quoteText,e=t.quoteAuthor;$("#quote").text('"'+o+'"'),$("#by").text(e)})
-function getQuoteFN(){document.getElementById("getQuote").click()}</script>
+
 <div class="article-post">
   <hr style="border: 1px solid #000000;">
   <div class="container-fluid" id="box">
@@ -39,3 +37,5 @@ function addDay(){let e=parseInt(new Date().getHours());e>=7&&e<12?document.getE
       iframeContainer.appendChild(iframe);
   });
 </script>
+<script>
+const quotes=[{quote:"Đừng chờ đợi điều kiện tốt nhất. Bắt đầu từ những g\xec bạn c\xf3. Chỉ c\xf3 như vậy bạn c\xf3 thể vượt qua những g\xec bạn kh\xf4ng c\xf3.",author:"Bruce Lee"},{quote:"H\xe3y đam m\xea c\xf4ng việc của m\xecnh. Nếu bạn kh\xf4ng c\xf3 đam m\xea, cuộc sống sẽ trở n\xean như một cơn \xe1c mộng.",author:"Elon Musk"},{quote:"Kh\xf4ng c\xf3 con đường n\xe0o dẫn đến th\xe0nh c\xf4ng. Th\xe0nh c\xf4ng l\xe0 con đường m\xe0 bạn tạo ra cho m\xecnh với những bước ch\xe2n của m\xecnh.",author:"Ralph Waldo Emerson"},{quote:"Th\xe0nh c\xf4ng kh\xf4ng phải l\xe0 ch\xeca kh\xf3a của hạnh ph\xfac. Hạnh ph\xfac l\xe0 ch\xeca kh\xf3a của th\xe0nh c\xf4ng. Nếu bạn th\xedch những g\xec bạn đang l\xe0m, bạn sẽ th\xe0nh c\xf4ng.",author:"Albert Schweitzer"},{quote:"H\xe3y xem thất bại l\xe0 một kinh nghiệm học tập, đừng xem thất bại l\xe0 một bi kịch.",author:"Denis Waitley"}];function getRandomQuote(){let n=Math.floor(Math.random()*quotes.length);return quotes[n]}function getQuoteFN(){document.getElementById("getQuote").click()}document.getElementById("getQuote").addEventListener("click",function(){let{quote:n,author:t}=getRandomQuote();document.getElementById("quote").textContent='"'+n+'"',document.getElementById("by").textContent=t});</script>
