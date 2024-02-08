@@ -95,10 +95,6 @@ function isMobileDevice(){return/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMob
             function isTetDate(){let t=new Date,e=new Intl.DateTimeFormat("vi-u-ca-lunar").format(t);return/(1|2|3|4)\/(1|13)$/.test(e)}
 function myFunctionOpenTopNav(){var a=document.getElementById("myTopnav");"topnav"===a.className?a.className+=" responsive":a.className="topnav"}hideDivOnSmallScreens()&&isRelative&&isMobileDevice()&&(document.querySelector(".topnav").style.display="block");
         </script>
-<script>
-    function initializeToastr(){toastr.options={closeButton:!0,debug:!1,newestOnTop:!1,progressBar:!1,positionClass:"toast-bottom-right",preventDuplicates:!1,showDuration:"300",hideDuration:"1000",timeOut:"10000",extendedTimeOut:"1000",showEasing:"swing",hideEasing:"linear",showMethod:"fadeIn",hideMethod:"fadeOut"},toastr.options.onclick=function(){window.location.replace(next_post_url||"{{ site.baseurl }}")},setTimeout(function(){toastr.info(linkToRandomBlogPost(),"Next post:")},1e4),$("#linkButton").click(function(){toastr.success(linkToRandomBlogPost())})}
-    var toastrInitialized=!1;function checkAndInitializeToastr(){var t;toastrInitialized||(t=window.scrollY||window.pageYOffset||document.documentElement.scrollTop,((document.documentElement.scrollHeight-document.documentElement.clientHeight)/2<t||8e4<=Date.now()-startTime)&&(initializeToastr(),toastrInitialized=!0))}function initializeAfter30Seconds(){checkAndInitializeToastr()}var startTime=Date.now();$(document).ready(function(){initializeToastr()}),window.addEventListener("scroll",function(){checkAndInitializeToastr()});
-        </script>
         <style>img{-webkit-user-drag:none;user-drag:none;-webkit-touch-callout:none}</style>
 <script>
     isMobileDevice()&&document.getElementById("url-album").setAttribute("href","https://www.instagram.com/anhhangxom_2k/");
@@ -125,25 +121,6 @@ function showOverlay(){if(!localStorage.getItem("popupClosed")){document.getElem
     function scrollToSmooth(){const scrollElement = document.documentElement.scrollTop ? document.documentElement : document.body;scrollElement.scrollTop = 200;}setTimeout(scrollToSmooth, 1000);
     document.addEventListener("DOMContentLoaded",function(){setupPopUp();showSnowEffect();checkPopupStatus();if(isTetDate()){if(document.getElementById('overlay')){document.getElementById('overlay').innerHTML = overlayContent;}};document.querySelectorAll("img").forEach(function(t){t.addEventListener("load",function(){t.style.width=t.width+"px",t.style.height=t.height+"px"})})});
     var currentMonth=new Date().getMonth()+1;if(1===currentMonth){console.log("Chỉ chạy trong th\xe1ng 1");var e=document.createElement("link");e.rel="stylesheet",e.href="{{ site.baseurl }}/assets/css/newyear.css",document.head.appendChild(e)}</script>
-<script>
-        var allPosts;
-        function createrAllPosts() {
-            if (allPosts) {
-                console.log("đã có rồi!");
-            }else{
-                allPosts = [
-                    {% assign random_elements = site.posts | sample: 5 %}
-                    {% for post in random_elements %}
-                    { url: "{{ post.url }}", title: "{{ post.title }}" } {% unless post.previous == nil %}, {% endunless %}
-                    {% endfor %}
-                ];
-            }
-        }
-        (interfaceState&&"savemode"!=interfaceState)&&setTimeout(function() {createrAllPosts();}, 25000);
-    </script>
-    <script>
-    var comingFromPost=document.referrer;let next_post_url="";function linkToRandomBlogPost(){let o=0,t="/about-me";do{let n=Math.floor(Math.random()*(allPosts&&allPosts.length||[])),r=allPosts[n];var e=r.title,l=r.url;o++}while(comingFromPost.includes(l)||o>10);return o>10&&comingFromPost!==t&&(l=t),o>10&&comingFromPost===t&&(l="/2022-nhin-lai-mot-nam-da-qua"),next_post_url=l,e}
-    </script>
         <script>
     const version=Math.floor(1e6*Math.random()),head=document.querySelector("head"),currentUrl=new URL(window.location.href);currentUrl.searchParams.set("v",version);const linkElement=document.createElement("link");linkElement.rel="stylesheet",linkElement.type="text/css",linkElement.href=currentUrl.toString(),head.appendChild(linkElement);
         </script>
