@@ -38,7 +38,7 @@ keywords:
   - Preset Lightroom tết nguyên đán miễn phí
   - Preset Lightroom tết nguyên đán cổ điển
   - Preset Lightroom tết nguyên đán
-date: 2024-02-08 05:11:00 +0700
+date: 2024-02-08 08:02:00 +0700
 pinned: true
 ---
 
