@@ -8,7 +8,7 @@ tags: [preset, lightroom]
 image: assets/images/2023/nhiep-anh/avt/preset-vintage-avt.webp
 isGithubComments: false
 permalink: nhiep-anh/preset/lightroom-tet-nguyen-dan
-excerpt: Trong bài viết này, mình sẽ chia sẻ preset Lightroom nam violin cổ điển giúp bạn dễ dàng tạo ra những bức ảnh đẹp và chuyên nghiệp.
+excerpt: Chào bạn! Dịp Tết Nguyên Đán đang đến gần, và việc chia sẻ preset Lightroom để tạo tông màu đỏ cho ảnh là một ý tưởng tuyệt vời.
 adsense: "enabled"
 keywords:
   - Preset lightroom
@@ -56,7 +56,7 @@ date: 2024-02-08 05:11:00 +0700
 pinned: true
 ---
 
-**Preset Lightroom Nam Violin Cổ Điển**
+**Preset Lightroom Tết**
 
 Violin cổ điển là một loại nhạc cụ mang vẻ đẹp tinh tế và thanh lịch. Để chụp được những bức ảnh về nam violin cổ điển đẹp, bạn cần có kỹ năng chụp ảnh và sử dụng phần mềm Lightroom. Trong bài viết này, mình sẽ chia sẻ preset Lightroom nam violin cổ điển giúp bạn dễ dàng tạo ra những bức ảnh đẹp và chuyên nghiệp.
 
@@ -122,7 +122,7 @@ table{border-collapse:collapse;border-spacing:0;margin:0 auto;width:700px}table 
 
 <script>
 function redirect(){setInterval(myURL,5e3),document.getElementById("result").innerHTML="<b>🕵️ Đang tạo link tải. Bạn đợi tẹo nha ;)"}
-function myURL(){document.location.href="https://inote.pro/notes/D1QY2Q",toggleImage(),clearInterval(interval)}
+function myURL(){document.location.href="https://inote.pro/notes/GY1KN1",toggleImage(),clearInterval(interval)}
 function toggleImage() {
   document.getElementById("resultIm").style.display = "block";
 }
