@@ -29,8 +29,8 @@
 </div>
 <script>function preLoader(){var e=function(){$("#ctn-preloader").addClass("loaded"),$("#ctn-preloader").hasClass("loaded")&&$("#preloader").queue(function(){$(this).remove()})};$(window).on("load",e),setTimeout(e,1e3)}preLoader();
     function handleImageLoad(e){e.classList.add("loaded");}</script>
-    <button id="next-post-active" style="display: none;"></button>
-    <div id="scrollToTop" style='display: none;'><button id="scrollToTopButton" type="button"><span>🔝</span></button><br><button><a target="_blank" href="https://facebook.com/sharer.php?u={{ page.url | absolute_url }}" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">📑</a></button>
+    <button id="next-post-active"></button>
+    <div id="scrollToTop" ><button id="scrollToTopButton" type="button"><span>🔝</span></button><br><button><a target="_blank" href="https://facebook.com/sharer.php?u={{ page.url | absolute_url }}" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">📑</a></button><style>.next-post-active,.scrollToTop{display:none}</style>
     </div>
 
     <noscript id="deferred-styles">
