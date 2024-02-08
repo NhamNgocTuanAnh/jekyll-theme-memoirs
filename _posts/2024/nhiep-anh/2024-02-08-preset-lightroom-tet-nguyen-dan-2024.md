@@ -101,7 +101,7 @@ Lưu ý:
 <p style="text-align:center"><em>(Nếu link tải kh&ocirc;ng hoạt động, c&aacute;c bạn vui l&ograve;ng comment b&ecirc;n dưới để được hỗ trợ sớm nhất)</em></p>
 <table><tr><th>Upload</th><td>AnhHangXom</td></tr><tr><th>Tải về</th><td>
 <p id="result"></p>
-<a href="https://inote.pro/notes/D1QY2Q" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>Tải xuống</a><img loading="lazy"
+<a href="https://inote.pro/notes/GY1KN1" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>Tải xuống</a><img loading="lazy"
  id="resultIm" src="https://i.stack.imgur.com/SBv4T.gif" alt="Computer man" width="250" />
 </td></tr><tr><th>Filesize</th><td>5.3 MB</td></tr>
 </table>
