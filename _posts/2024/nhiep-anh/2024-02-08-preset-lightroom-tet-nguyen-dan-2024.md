@@ -61,9 +61,9 @@ Hiểu được tâm lý đó, hôm nay mình sẽ chia sẻ preset Lightroom T�
 <div class="content" style="text-align:center; ">
 <a href="https://i.imgur.com/kbs9KOk.jpeg9"><img loading="lazy" src="https://i.imgur.com/kbs9KOk.jpeg" title="Tết nguyên đán" /></a></div>
 
-**Cách sử dụng preset Lightroom nam tết nguyên đán cổ điển**
+**Cách sử dụng preset Lightroom tết nguyên đán cổ điển**
 
- Để sử dụng preset Lightroom nam tết nguyên đán cổ điển, bạn thực hiện theo các bước sau:
+ Để sử dụng preset Lightroom tết nguyên đán cổ điển, bạn thực hiện theo các bước sau:
 
 1. Tải preset về máy (link tải ở phần bình luận).
 1. Mở ứng dụng Lightroom và chọn ảnh bạn muốn chỉnh sửa.
