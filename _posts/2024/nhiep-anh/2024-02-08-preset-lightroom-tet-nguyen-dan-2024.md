@@ -72,17 +72,10 @@ Lưu ý:
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/UxaUqQq"><img loading="lazy" src="https://i.imgur.com/zUbU04m.jpeg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/q2xbOkw"><img loading="lazy" src="https://i.imgur.com/v5HhBzW.jpeg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/d1IOdC4"><img loading="lazy" src="https://i.imgur.com/uo95Vsj.jpeg" title="source: imgur.com" /></a><p></p><br><img loading="lazy" src="https://i.imgur.com/5JGhBQQ.jpeg" title="source: imgur.com" /><p></p><br><img loading="lazy" src="https://i.imgur.com/WmaCW5o.jpeg" title="source: imgur.com" /><p></p><br><img loading="lazy" src="https://i.imgur.com/AASUFKK.jpeg" title="source: imgur.com" /><p></p><br><img loading="lazy" src="https://i.imgur.com/ug8Wn8U.jpeg" title="source: imgur.com" /><p></p><br><img loading="lazy" src="https://i.imgur.com/https://i.imgur.com/fwwnbs5.jpeg" title="source: imgur.com" /><p></p><br><img loading="lazy" src="https://i.imgur.com/https://i.imgur.com/OYmd9Fm.jpeg" title="source: imgur.com" /><p></p><br></div>
 
-<p><strong>Bonus:</strong></p>
-
-<p>Để tăng th&ecirc;m sự d&iacute; dỏm cho bức ảnh, bạn c&oacute; thể th&ecirc;m c&aacute;c chi tiết vui nhộn như:</p>
-<ul>
-	<li><strong>Sticker:</strong> Sử dụng c&aacute;c sticker chủ đề Tết như hoa mai, l&igrave; x&igrave;, c&acirc;u đối,...</li>
-	<li><strong>Chữ viết:</strong> Th&ecirc;m lời ch&uacute;c Tết hoặc những c&acirc;u n&oacute;i d&iacute; dỏm v&agrave;o bức ảnh.</li>
-	<li><strong>Bộ lọc:</strong> Sử dụng c&aacute;c bộ lọc c&oacute; m&agrave;u sắc tươi s&aacute;ng, rực rỡ.</li>
+<p><strong>Bonus:</strong></p><p>Để tăng th&ecirc;m sự d&iacute; dỏm cho bức ảnh, bạn c&oacute; thể th&ecirc;m c&aacute;c chi tiết vui nhộn như:</p>
+<ul><li><strong>Sticker:</strong>Sử dụng c&aacute;c sticker chủ đề Tết như hoa mai, l&igrave; x&igrave;, c&acirc;u đối,...</li><li><strong>Chữ viết:</strong>Th&ecirc;m lời ch&uacute;c Tết hoặc những c&acirc;u n&oacute;i d&iacute; dỏm v&agrave;o bức ảnh.</li><li><strong>Bộ lọc:</strong>Sử dụng c&aacute;c bộ lọc c&oacute; m&agrave;u sắc tươi s&aacute;ng, rực rỡ.</li>
 </ul>
-<p>Ch&uacute;c bạn c&oacute; những bức ảnh Tết thật đẹp v&agrave; &yacute; nghĩa với preset &quot;Tết Đỏ Rực Rỡ&quot;!</p>
-
-<p><strong>P/S:</strong> Đừng qu&ecirc;n chia sẻ th&agrave;nh quả của bạn với m&igrave;nh nh&eacute;!</p>
+<p>Ch&uacute;c bạn c&oacute; những bức ảnh Tết thật đẹp v&agrave; &yacute; nghĩa với preset &quot;Tết Đỏ Rực Rỡ&quot;!</p><p><strong>P/S:</strong>Đừng qu&ecirc;n chia sẻ th&agrave;nh quả của bạn với m&igrave;nh nh&eacute;!</p>
 
 <h2 style="font-style:normal; margin-left:0; margin-right:0; text-align:start"><strong>Tải về</strong></h2>
 
