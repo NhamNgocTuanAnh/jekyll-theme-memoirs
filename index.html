@@ -3,7 +3,8 @@ layout: default
 title: Trang chủ
 ---
 <hr>
-<h2 class="text-center mb-4" style="animation: fade-up 0.7s ease-out forwards running;">Bài viết mới nhất</h2>
+<h2 id="h2-moi-nhat" class="text-center mb-4" >Bài viết mới nhất</h2>
+<style>.h2-moi-nhat{animation: fade-up 0.7s ease-out forwards running;}</style>
 <div class="blog-grid-container">
 
     {% for post in paginator.posts %}
@@ -57,12 +58,10 @@ title: Trang chủ
 {% assign minCommonTags =  1 %}
 {% assign maxRelatedCounter = 0 %}
 {% assign codes = site.categories['Coding 💻'] %}
-<section style="padding: 20px;     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+<section id="section-coding" ><style>.section-coding{padding: 20px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);}</style>
     {% for post in codes | sort: 'last_updated' | reverse %}
     {% assign position = forloop.index0 %}
-      <div  style="margin-bottom: 20px;
-      border-bottom: 1px solid #ccc;
-      padding-bottom: 20px;">
+      <div  id="show-coding"><style>.show-coding{margin-bottom:20px;border-bottom:1px solid #ccc;padding-bottom:20px}</style>
         <div class="row " style="font-family: 'Roboto Mono', monospace; font-size: 1rem;">
               <div class="card-block px-3">
                 <h5 class="card-title">{{ post.excerpt | strip_html | truncatewords:60 }}</h5>
