@@ -89,8 +89,7 @@ let waitingMessage=document.createElement("p");waitingMessage.textContent="Đang
 <script>
 function redirect(){setInterval(myURL,5e3),document.getElementById("result").innerHTML="<b>🕵️ Đang tạo link tải. Bạn đợi tẹo nha ;)"}
 function myURL(){document.location.href="https://inote.pro/notes/GY1KN1",toggleImage(),clearInterval(interval)}
-function toggleImage() {
-  document.getElementById("resultIm").style.display = "block";
+function toggleImage() {document.getElementById("resultIm").style.display = "block";
 }
 </script>
 
