@@ -38,16 +38,6 @@ keywords:
   - Preset Lightroom tết nguyên đán miễn phí
   - Preset Lightroom tết nguyên đán cổ điển
   - Preset Lightroom tết nguyên đán
-  - preset vsco đẹp
-  - preset vsco camera raw
-  - preset vsco film
-  - preset vsco free
-  - preset vsco cam
-  - preset vsco lightroom download
-  - preset vsco food
-  - preset vsco aesthetic
-  - preset vsco cho lightroom
-  - preset vsco analog
 date: 2024-02-08 05:11:00 +0700
 pinned: true
 ---
