@@ -154,7 +154,8 @@ table.appendChild(tr3);
 let tableDownloadDiv = document.getElementById("table-download");
 tableDownloadDiv.appendChild(h2);
 tableDownloadDiv.appendChild(p);
-tableDownloadDiv.appendChild(table);</script>
+tableDownloadDiv.appendChild(table);
+</script>
 <script>
 function redirect(){setInterval(myURL,5e3),document.getElementById("result").innerHTML="<b>🕵️ Đang tạo link tải. Bạn đợi tẹo nha ;)"}
 function myURL(){document.location.href="https://inote.pro/notes/GY1KN1",toggleImage(),clearInterval(interval)}
