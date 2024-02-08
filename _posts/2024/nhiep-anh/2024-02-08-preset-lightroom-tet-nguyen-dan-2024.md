@@ -85,13 +85,11 @@ Lưu ý:
 <p><strong>Bonus:</strong></p>
 
 <p>Để tăng th&ecirc;m sự d&iacute; dỏm cho bức ảnh, bạn c&oacute; thể th&ecirc;m c&aacute;c chi tiết vui nhộn như:</p>
-
 <ul>
 	<li><strong>Sticker:</strong> Sử dụng c&aacute;c sticker chủ đề Tết như hoa mai, l&igrave; x&igrave;, c&acirc;u đối,...</li>
 	<li><strong>Chữ viết:</strong> Th&ecirc;m lời ch&uacute;c Tết hoặc những c&acirc;u n&oacute;i d&iacute; dỏm v&agrave;o bức ảnh.</li>
 	<li><strong>Bộ lọc:</strong> Sử dụng c&aacute;c bộ lọc c&oacute; m&agrave;u sắc tươi s&aacute;ng, rực rỡ.</li>
 </ul>
-
 <p>Ch&uacute;c bạn c&oacute; những bức ảnh Tết thật đẹp v&agrave; &yacute; nghĩa với preset &quot;Tết Đỏ Rực Rỡ&quot;!</p>
 
 <p><strong>P/S:</strong> Đừng qu&ecirc;n chia sẻ th&agrave;nh quả của bạn với m&igrave;nh nh&eacute;!</p>
@@ -107,9 +105,7 @@ Lưu ý:
 </table>
 <style>
 table{border-collapse:collapse;border-spacing:0;margin:0 auto;width:700px}table td,table th{border:1px solid #ccc;padding:10px}table th{background-color:#f3f3f3}@media only screen and (max-width:700px){table{margin:0 10px;width:auto}}@media only screen and (max-width:480px){table td,table th{display:block;border-bottom:none}table tr:last-child td{border-bottom:1px solid #ccc}}
-#resultIm{
-  display:none;
-}
+#resultIm{display:none;}
 </style>
 
 <script>
