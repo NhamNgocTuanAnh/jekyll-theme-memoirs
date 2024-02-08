@@ -58,7 +58,9 @@ pinned: true
 
 **Preset Lightroom Tết**
 
-Violin cổ điển là một loại nhạc cụ mang vẻ đẹp tinh tế và thanh lịch. Để chụp được những bức ảnh về nam violin cổ điển đẹp, bạn cần có kỹ năng chụp ảnh và sử dụng phần mềm Lightroom. Trong bài viết này, mình sẽ chia sẻ preset Lightroom nam violin cổ điển giúp bạn dễ dàng tạo ra những bức ảnh đẹp và chuyên nghiệp.
+Tết đến xuân sang, nhà nhà quây quần bên nhau, bánh chưng xanh, thịt mỡ, dưa hành... ähm... thiếu gì nhỉ? À, thiếu ảnh đẹp để khoe với bạn bè chứ sao!
+
+Hiểu được tâm lý đó, hôm nay mình sẽ chia sẻ preset Lightroom Tết tông đỏ cực kỳ rực rỡ, giúp bạn biến hóa những bức ảnh bình thường thành những tác phẩm nghệ thuật đậm chất Tết.
 
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/g9cVH89"><img loading="lazy" src="https://i.imgur.com/g9cVH89.jpg" title="source: imgur.com" /></a></div>
@@ -67,42 +69,36 @@ Violin cổ điển là một loại nhạc cụ mang vẻ đẹp tinh tế và 
 
  Để sử dụng preset Lightroom nam violin cổ điển, bạn thực hiện theo các bước sau:
 
-1.  Mở ảnh nam violin cổ điển của bạn trong Lightroom.
-2.  Nhấp vào tab **Presets** ở phía dưới bên phải.
-3.  Nhấp vào nút **Add Presets** và chọn preset **Nam Violin Cổ Điển**.
-4.  Nhấp vào nút **Import**.
+1. Tải preset về máy (link tải ở phần bình luận).
+1. Mở ứng dụng Lightroom và chọn ảnh bạn muốn chỉnh sửa.
+1. Nhấn vào biểu tượng "+" ở góc trên bên trái màn hình và chọn "Nhập Preset".
+1. Tìm đến preset "áo dài  đỏ hoa đào trong sáng " và chọn "Nhập".
+1. Vui lòng điều chỉnh một số chi tiết nhỏ (nếu cần thiết) để phù hợp với từng bức ảnh.
+1. Lưu ảnh và khoe với bạn bè thôi nào!
 
-Preset sẽ được áp dụng cho ảnh của bạn. Bạn có thể điều chỉnh các cài đặt theo ý muốn để phù hợp với bức ảnh của mình.
+Lưu ý:
+* Preset sẽ được áp dụng cho ảnh của bạn.
+* Preset này hoạt động tốt nhất với những bức ảnh có ánh sáng tốt.
+* Bạn có thể điều chỉnh các cài đặt theo ý muốn để phù hợp với bức ảnh của mình.
 
 **Một số ảnh Lightroom nam violin cổ điển đẹp**
 
 <div class="content" style="text-align:center; ">
 <a href="https://imgur.com/UxaUqQq"><img loading="lazy" src="https://i.imgur.com/UxaUqQq.jpg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/q2xbOkw"><img loading="lazy" src="https://i.imgur.com/q2xbOkw.jpg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/d1IOdC4"><img loading="lazy" src="https://i.imgur.com/d1IOdC4.jpg" title="source: imgur.com" /></a><p></p><br></div>
 
-**Mô tả preset Lightroom nam violin cổ điển**
+<p><strong>Bonus:</strong></p>
 
-<div class="content" style="text-align:center; "><a href="https://imgur.com/F4nlBZm"><img loading="lazy" src="https://i.imgur.com/F4nlBZm.jpg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/56uKmuv"><img loading="lazy" src="https://i.imgur.com/56uKmuv.jpg" title="source: imgur.com" /></a><p></p><br></div>
+<p>Để tăng th&ecirc;m sự d&iacute; dỏm cho bức ảnh, bạn c&oacute; thể th&ecirc;m c&aacute;c chi tiết vui nhộn như:</p>
 
-Preset Lightroom nam violin cổ điển bao gồm các cài đặt sau:
+<ul>
+	<li><strong>Sticker:</strong> Sử dụng c&aacute;c sticker chủ đề Tết như hoa mai, l&igrave; x&igrave;, c&acirc;u đối,...</li>
+	<li><strong>Chữ viết:</strong> Th&ecirc;m lời ch&uacute;c Tết hoặc những c&acirc;u n&oacute;i d&iacute; dỏm v&agrave;o bức ảnh.</li>
+	<li><strong>Bộ lọc:</strong> Sử dụng c&aacute;c bộ lọc c&oacute; m&agrave;u sắc tươi s&aacute;ng, rực rỡ.</li>
+</ul>
 
-*   **Tone màu:** Tạo ra tone màu ấm áp và cổ điển.
-*   **Độ tương phản:** Tăng độ tương phản để bức ảnh nổi bật hơn.
-*   **Độ sắc nét:** Tăng độ sắc nét để bức ảnh rõ nét hơn.
-*   **Tone màu da:** Làm cho tone màu da trông tự nhiên và rạng rỡ hơn.
+<p>Ch&uacute;c bạn c&oacute; những bức ảnh Tết thật đẹp v&agrave; &yacute; nghĩa với preset &quot;Tết Đỏ Rực Rỡ&quot;!</p>
 
-**Lưu ý khi sử dụng preset chụp ảnh violin nam**
-
-Khi sử dụng preset chụp ảnh violin nam, bạn cần lưu ý một số điều sau:
-
-*   **Chọn ảnh phù hợp:** Preset chụp ảnh violin nam sẽ phù hợp với những bức ảnh có tông màu sáng. Nếu ảnh của bạn có tông màu tối, bạn cần điều chỉnh các thông số của preset để phù hợp.
-*   **Thử nghiệm các thông số:** Mỗi preset sẽ có các thông số khác nhau. Bạn nên thử nghiệm các thông số để tìm ra kết quả phù hợp nhất với ảnh của mình.
-*   **Không lạm dụng preset:** Preset chỉ là một công cụ hỗ trợ. Bạn không nên lạm dụng preset, thay vào đó hãy sử dụng các kỹ thuật chụp ảnh để tạo ra những bức ảnh đẹp.
-
-**Kết luận**
-
-<div class="content" style="text-align:center; "><a href="https://imgur.com/Mkz0m4O"><img loading="lazy" src="https://i.imgur.com/Mkz0m4O.jpg" title="source: imgur.com" /></a></div>
-
-Preset Lightroom nam violin cổ điển sẽ giúp bạn tạo ra những bức ảnh nam violin cổ điển đẹp và chuyên nghiệp.
+<p><strong>P/S:</strong> Đừng qu&ecirc;n chia sẻ th&agrave;nh quả của bạn với m&igrave;nh nh&eacute;!</p>
 
 <h2 style="font-style:normal; margin-left:0; margin-right:0; text-align:start"><strong>Tải về</strong></h2>
 
