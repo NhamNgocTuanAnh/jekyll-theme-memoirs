@@ -5,7 +5,7 @@ author: sal
 lazyimages: "enabled"
 categories: [ Nhiếp ảnh 📸 ]
 tags: [preset, lightroom]
-image: assets/images/2023/nhiep-anh/avt/preset-vintage-avt.webp
+image: assets/images/2024/nhiep-anh/mau-tet-nguyen-dan-avt.webp
 isGithubComments: false
 permalink: nhiep-anh/preset/lightroom-tet-nguyen-dan
 excerpt: Chào bạn! Dịp Tết Nguyên Đán đang đến gần, và việc chia sẻ preset Lightroom để tạo tông màu đỏ cho ảnh là một ý tưởng tuyệt vời.
