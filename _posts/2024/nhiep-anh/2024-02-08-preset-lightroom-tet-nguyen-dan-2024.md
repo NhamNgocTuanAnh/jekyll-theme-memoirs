@@ -59,7 +59,7 @@ Tết đến xuân sang, nhà nhà quây quần bên nhau, bánh chưng xanh, th
 Hiểu được tâm lý đó, hôm nay mình sẽ chia sẻ preset Lightroom Tết tông đỏ cực kỳ rực rỡ, giúp bạn biến hóa những bức ảnh bình thường thành những tác phẩm nghệ thuật đậm chất Tết.
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/g9cVH89"><img loading="lazy" src="https://i.imgur.com/g9cVH89.jpg" title="source: imgur.com" /></a></div>
+<a href="https://i.imgur.com/kbs9KOk.jpeg9"><img loading="lazy" src="https://i.imgur.com/kbs9KOk.jpeg" title="Tết nguyên đán" /></a></div>
 
 **Cách sử dụng preset Lightroom nam tết nguyên đán cổ điển**
 
