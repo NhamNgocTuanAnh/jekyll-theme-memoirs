@@ -68,7 +68,6 @@ comments: true
 document.addEventListener("DOMContentLoaded",function(){for(var t=document.querySelectorAll("img"),a=0;a<t.length;a++){var e=t[a];e.getAttribute("loading")||(e.classList.add("lazyload"),e.setAttribute("loading","lazy")),e.alt&&""!==e.alt.trim()||(e.alt="anhhangxom.xyz")}});
 document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll("img").forEach(function(t){t.addEventListener("load",function(){t.style.width=t.width+"px",t.style.height=t.height+"px"})})});
 </script>
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 <script>
   let loadTriggerLoadElfSightScript = true;
   const triggerLoadElfSightScript=document.getElementById("triggerLoadElfSightScript");function isScrolledIntoView(t){let e=t.getBoundingClientRect(),i=e.top,n=e.bottom;return i<window.innerHeight&&n>=0}
@@ -79,7 +78,6 @@ document.addEventListener("DOMContentLoaded",function(){document.querySelectorAl
     }
   });
   </script>
-
 <style>
   .myFancyBox .fancybox-thumbs{top:auto;width:auto;bottom:0;left:0;right:0;height:95px;padding:10px 10px 5px;box-sizing:border-box;background:rgba(0,0,0,.3)}.myFancyBox .fancybox-show-thumbs .fancybox-inner{right:0!important;bottom:95px!important}.fancybox-show-thumbs .fancybox-inner{right:0!important;bottom:98px}</style>
 <script>
@@ -89,3 +87,5 @@ document.addEventListener("DOMContentLoaded",function(){document.querySelectorAl
   </script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/toastr.min.css">
+    <script src="{{ site.baseurl }}/assets/js/toastr.min.js"></script>
