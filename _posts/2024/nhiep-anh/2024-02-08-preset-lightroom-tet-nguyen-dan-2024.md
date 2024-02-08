@@ -80,7 +80,7 @@ Lưu ý:
 **Một số ảnh Lightroom nam tết nguyên đán cổ điển đẹp**
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/UxaUqQq"><img loading="lazy" src="https://i.imgur.com/zUbU04m.jpeg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/q2xbOkw"><img loading="lazy" src="https://i.imgur.com/v5HhBzW.jpeg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/d1IOdC4"><img loading="lazy" src="https://i.imgur.com/uo95Vsj.jpeg" title="source: imgur.com" /></a><p></p><br></div>
+<a href="https://imgur.com/UxaUqQq"><img loading="lazy" src="https://i.imgur.com/zUbU04m.jpeg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/q2xbOkw"><img loading="lazy" src="https://i.imgur.com/v5HhBzW.jpeg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/d1IOdC4"><img loading="lazy" src="https://i.imgur.com/uo95Vsj.jpeg" title="source: imgur.com" /></a><p></p><br><img loading="lazy" src="https://i.imgur.com/5JGhBQQ.jpeg" title="source: imgur.com" /><p></p><br></div>
 
 <p><strong>Bonus:</strong></p>
 
