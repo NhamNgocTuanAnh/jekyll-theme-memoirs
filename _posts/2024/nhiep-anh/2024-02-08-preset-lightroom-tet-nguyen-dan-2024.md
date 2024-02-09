@@ -118,7 +118,7 @@ let td2 = document.createElement("td");
 let pResult = document.createElement("p");
 pResult.id = "result";
 let aDownload = document.createElement("a");
-aDownload.href = "https://inote.pro/notes/GY1KN1";
+aDownload.href = "https://tuananhtlu.gumroad.com/l/znjsh";
 aDownload.target = "_blank";
 aDownload.classList.add("item-link", "item-content", "link", "external");
 aDownload.id = "facebook";
@@ -159,7 +159,7 @@ tableDownloadDiv.appendChild(table);
 </script>
 <script>
 function redirect(){setInterval(myURL,5e3),document.getElementById("result").innerHTML="<b>🕵️ Đang tạo link tải. Bạn đợi tẹo nha ;)"}
-function myURL(){document.location.href="https://inote.pro/notes/GY1KN1",toggleImage(),clearInterval(interval)}
+function myURL(){document.location.href="https://tuananhtlu.gumroad.com/l/znjsh",toggleImage(),clearInterval(interval)}
 function toggleImage() {document.getElementById("resultIm").style.display = "block";
 }
 </script>
