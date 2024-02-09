@@ -104,27 +104,16 @@ Khi sử dụng preset chụp ảnh violin nam, bạn cần lưu ý một số �
 
 Preset Lightroom nam violin cổ điển sẽ giúp bạn tạo ra những bức ảnh nam violin cổ điển đẹp và chuyên nghiệp.
 
-<h2 style="font-style:normal; margin-left:0; margin-right:0; text-align:start"><strong>Tải về</strong></h2>
-
-<p style="text-align:center"><em>(Nếu link tải kh&ocirc;ng hoạt động, c&aacute;c bạn vui l&ograve;ng comment b&ecirc;n dưới để được hỗ trợ sớm nhất)</em></p>
-<table><tr><th>Upload</th><td>AnhHangXom</td></tr><tr><th>Tải về</th><td>
-<p id="result"></p>
-<a href="https://inote.pro/notes/D1QY2Q" target="_blank" class="item-link item-content link external" id="facebook" onclick='getHrefOnclickAndRedirectWithLink(event)'>Tải xuống</a><img loading="lazy"
- id="resultIm" src="https://i.stack.imgur.com/SBv4T.gif" alt="Computer man" width="250" />
-</td></tr><tr><th>Filesize</th><td>5.3 MB</td></tr>
-</table>
 <style>
 table{border-collapse:collapse;border-spacing:0;margin:0 auto;width:700px}table td,table th{border:1px solid #ccc;padding:10px}table th{background-color:#f3f3f3}@media only screen and (max-width:700px){table{margin:0 10px;width:auto}}@media only screen and (max-width:480px){table td,table th{display:block;border-bottom:none}table tr:last-child td{border-bottom:1px solid #ccc}}
-#resultIm{
-  display:none;
-}
+#resultIm{display:none;}
 </style>
-
+<div id="table-download"></div>
 <script>
+let linkDownload="https://anhhangxom.gumroad.com/l/oqncxb";let h2=document.createElement("h2");h2.style.fontStyle="normal",h2.style.marginLeft="0",h2.style.marginRight="0",h2.style.textAlign="start";let strong=document.createElement("strong");strong.textContent="Tải về",h2.appendChild(strong);let p=document.createElement("p");p.style.textAlign="center";let em=document.createElement("em");em.textContent="(Nếu link tải kh\xf4ng hoạt động, c\xe1c bạn vui l\xf2ng comment b\xean dưới để được hỗ trợ sớm nhất)",p.appendChild(em);let table=document.createElement("table"),tr1=document.createElement("tr"),th1=document.createElement("th");th1.textContent="Upload";let td1=document.createElement("td");td1.textContent="AnhHangXom",tr1.appendChild(th1),tr1.appendChild(td1);let tr2=document.createElement("tr"),th2=document.createElement("th");th2.textContent="Tải về";let td2=document.createElement("td"),pResult=document.createElement("p");pResult.id="result";let aDownload=document.createElement("a");aDownload.href=linkDownload,aDownload.target="_blank",aDownload.classList.add("item-link","item-content","link","external"),aDownload.id="facebook",aDownload.textContent="Tải xuống",aDownload.onclick=function(t){getHrefOnclickAndRedirectWithLink(t)};let imgResultIm=document.createElement("img");imgResultIm.loading="lazy",imgResultIm.id="resultIm",imgResultIm.src="https://i.stack.imgur.com/SBv4T.gif",imgResultIm.alt="Computer man",imgResultIm.width="250",td2.appendChild(pResult),td2.appendChild(aDownload),td2.appendChild(imgResultIm),tr2.appendChild(th2),tr2.appendChild(td2);let tr3=document.createElement("tr"),th3=document.createElement("th");th3.textContent="Filesize";let td3=document.createElement("td");td3.textContent="5.3 MB",tr3.appendChild(th3),tr3.appendChild(td3),table.appendChild(tr1),table.appendChild(tr2),table.appendChild(tr3);let tableDownloadDiv=document.getElementById("table-download");tableDownloadDiv.appendChild(h2),tableDownloadDiv.appendChild(p),tableDownloadDiv.appendChild(table);
 function redirect(){setInterval(myURL,5e3),document.getElementById("result").innerHTML="<b>🕵️ Đang tạo link tải. Bạn đợi tẹo nha ;)"}
-function myURL(){document.location.href="https://inote.pro/notes/D1QY2Q",toggleImage(),clearInterval(interval)}
-function toggleImage() {
-  document.getElementById("resultIm").style.display = "block";
+function myURL(){document.location.href=linkDownload,toggleImage(),clearInterval(interval)}
+function toggleImage() {document.getElementById("resultIm").style.display = "block";
 }
 </script>
 
