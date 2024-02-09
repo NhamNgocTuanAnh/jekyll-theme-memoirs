@@ -84,82 +84,11 @@ table{border-collapse:collapse;border-spacing:0;margin:0 auto;width:700px}table 
 #resultIm{display:none;}
 </style>
 <script>
-// Tạo tiêu đề
-let h2 = document.createElement("h2");
-h2.style.fontStyle = "normal";
-h2.style.marginLeft = "0";
-h2.style.marginRight = "0";
-h2.style.textAlign = "start";
-let strong = document.createElement("strong");
-strong.textContent = "Tải về";
-h2.appendChild(strong);
-
-// Tạo đoạn văn bản
-let p = document.createElement("p");
-p.style.textAlign = "center";
-let em = document.createElement("em");
-em.textContent = "(Nếu link tải không hoạt động, các bạn vui lòng comment bên dưới để được hỗ trợ sớm nhất)";
-p.appendChild(em);
-
-// Tạo bảng
-let table = document.createElement("table");
-let tr1 = document.createElement("tr");
-let th1 = document.createElement("th");
-th1.textContent = "Upload";
-let td1 = document.createElement("td");
-td1.textContent = "AnhHangXom";
-tr1.appendChild(th1);
-tr1.appendChild(td1);
-
-let tr2 = document.createElement("tr");
-let th2 = document.createElement("th");
-th2.textContent = "Tải về";
-let td2 = document.createElement("td");
-let pResult = document.createElement("p");
-pResult.id = "result";
-let aDownload = document.createElement("a");
-aDownload.href = "https://tuananhtlu.gumroad.com/l/znjsh";
-aDownload.target = "_blank";
-aDownload.classList.add("item-link", "item-content", "link", "external");
-aDownload.id = "facebook";
-aDownload.textContent = "Tải xuống";
-aDownload.onclick = function(event) {
-    getHrefOnclickAndRedirectWithLink(event);
-};
-let imgResultIm = document.createElement("img");
-imgResultIm.loading = "lazy";
-imgResultIm.id = "resultIm";
-imgResultIm.src = "https://i.stack.imgur.com/SBv4T.gif";
-imgResultIm.alt = "Computer man";
-imgResultIm.width = "250";
-td2.appendChild(pResult);
-td2.appendChild(aDownload);
-td2.appendChild(imgResultIm);
-tr2.appendChild(th2);
-tr2.appendChild(td2);
-
-let tr3 = document.createElement("tr");
-let th3 = document.createElement("th");
-th3.textContent = "Filesize";
-let td3 = document.createElement("td");
-td3.textContent = "5.3 MB";
-tr3.appendChild(th3);
-tr3.appendChild(td3);
-
-// Gắn các phần tử vào bảng
-table.appendChild(tr1);
-table.appendChild(tr2);
-table.appendChild(tr3);
-
-// Tìm thẻ div có id là table-download và gắn bảng vào đó
-let tableDownloadDiv = document.getElementById("table-download");
-tableDownloadDiv.appendChild(h2);
-tableDownloadDiv.appendChild(p);
-tableDownloadDiv.appendChild(table);
+let linkDownload="https://tuananhtlu.gumroad.com/l/znjsh";let h2=document.createElement("h2");h2.style.fontStyle="normal",h2.style.marginLeft="0",h2.style.marginRight="0",h2.style.textAlign="start";let strong=document.createElement("strong");strong.textContent="Tải về",h2.appendChild(strong);let p=document.createElement("p");p.style.textAlign="center";let em=document.createElement("em");em.textContent="(Nếu link tải kh\xf4ng hoạt động, c\xe1c bạn vui l\xf2ng comment b\xean dưới để được hỗ trợ sớm nhất)",p.appendChild(em);let table=document.createElement("table"),tr1=document.createElement("tr"),th1=document.createElement("th");th1.textContent="Upload";let td1=document.createElement("td");td1.textContent="AnhHangXom",tr1.appendChild(th1),tr1.appendChild(td1);let tr2=document.createElement("tr"),th2=document.createElement("th");th2.textContent="Tải về";let td2=document.createElement("td"),pResult=document.createElement("p");pResult.id="result";let aDownload=document.createElement("a");aDownload.href=linkDownload,aDownload.target="_blank",aDownload.classList.add("item-link","item-content","link","external"),aDownload.id="facebook",aDownload.textContent="Tải xuống",aDownload.onclick=function(t){getHrefOnclickAndRedirectWithLink(t)};let imgResultIm=document.createElement("img");imgResultIm.loading="lazy",imgResultIm.id="resultIm",imgResultIm.src="https://i.stack.imgur.com/SBv4T.gif",imgResultIm.alt="Computer man",imgResultIm.width="250",td2.appendChild(pResult),td2.appendChild(aDownload),td2.appendChild(imgResultIm),tr2.appendChild(th2),tr2.appendChild(td2);let tr3=document.createElement("tr"),th3=document.createElement("th");th3.textContent="Filesize";let td3=document.createElement("td");td3.textContent="5.3 MB",tr3.appendChild(th3),tr3.appendChild(td3),table.appendChild(tr1),table.appendChild(tr2),table.appendChild(tr3);let tableDownloadDiv=document.getElementById("table-download");tableDownloadDiv.appendChild(h2),tableDownloadDiv.appendChild(p),tableDownloadDiv.appendChild(table);
 </script>
 <script>
 function redirect(){setInterval(myURL,5e3),document.getElementById("result").innerHTML="<b>🕵️ Đang tạo link tải. Bạn đợi tẹo nha ;)"}
-function myURL(){document.location.href="https://tuananhtlu.gumroad.com/l/znjsh",toggleImage(),clearInterval(interval)}
+function myURL(){document.location.href=linkDownload,toggleImage(),clearInterval(interval)}
 function toggleImage() {document.getElementById("resultIm").style.display = "block";
 }
 </script>
