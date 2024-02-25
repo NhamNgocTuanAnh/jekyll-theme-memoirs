@@ -49,43 +49,4 @@ position: absolute;">
     {% endfor %}
 </div>
 <script>
-
-
-    document.addEventListener("DOMContentLoaded", function() {
-        const triggerDiv = document.getElementById('triggerDiv');
-    const hiddenDiv = document.getElementById('hiddenDiv');
-  // Function to check if an element is in viewport
-  function isInViewport(element) {
-    var rect = element.getBoundingClientRect();
-    return (
-      rect.top >= 0 &&
-      rect.left >= 0 &&
-      rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
-      rect.right <= (window.innerWidth || document.documentElement.clientWidth)
-    );
-  }
-
-  // Function to handle scroll event
-  function onScroll() {
-    if (isInViewport(triggerDiv)) {
-        hiddenDiv.style.display = 'block';
-        const footerDivs = document.getElementsByClassName('footer');
-
-        for (let i = 0; i < footerDivs.length; i++) {
-            footerDivs[i].style.display = 'none';
-        }
-    }
-  }
-
-  // Add scroll event listener
-  window.addEventListener('scroll', onScroll);
-});
-
-function createFooter(){
-    if(document.querySelectorAll('.footer')[0].style.display == 'none'){
-    const footerContent = document.querySelectorAll('.footer')[0].innerHTML;
-    const footerContainer = document.createElement('div');
-    footerContainer.innerHTML = footerContent;
-    document.body.appendChild(footerContainer);}
-  };
-</script>
+document.addEventListener("DOMContentLoaded",function(){let e=document.getElementById("triggerDiv"),t=document.getElementById("hiddenDiv");window.addEventListener("scroll",function n(){var i,l;if((l=(i=e).getBoundingClientRect()).top>=0&&l.left>=0&&l.bottom<=(window.innerHeight||document.documentElement.clientHeight)&&l.right<=(window.innerWidth||document.documentElement.clientWidth)){t.style.display="block";let d=document.getElementsByClassName("footer");for(let o=0;o<d.length;o++)d[o].style.display="none"}})});</script>
