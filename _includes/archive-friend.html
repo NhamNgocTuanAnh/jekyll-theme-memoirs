@@ -1,3 +1,4 @@
+<div class="comments mt-5">
 <div id="hiddenDiv" style="display: none;position: absolute;">
 {% assign maxRelated = 2 %}
 {% assign minCommonTags =  1 %}
@@ -44,6 +45,6 @@
         {% endif %}
         {% endif %}
     {% endfor %}
-</div>
+</div></div>
 <script>
 document.addEventListener("DOMContentLoaded",function(){let e=document.getElementById("triggerDiv"),t=document.getElementById("hiddenDiv");window.addEventListener("scroll",function n(){var i,l;if((l=(i=e).getBoundingClientRect()).top>=0&&l.left>=0&&l.bottom<=(window.innerHeight||document.documentElement.clientHeight)&&l.right<=(window.innerWidth||document.documentElement.clientWidth)){t.style.display="block";let d=document.getElementsByClassName("footer");for(let o=0;o<d.length;o++)d[o].style.display="none"}})});</script>
