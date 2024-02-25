@@ -70,11 +70,9 @@ position: absolute;">
     if (isInViewport(triggerDiv)) {
         hiddenDiv.style.display = 'block';
         const footerDivs = document.getElementsByClassName('footer');
-        footerDiv.style.display = 'none';
 
-
-        for (let i = 0; i < triggerDivs.length; i++) {
-            footerDiv[i].style.display = 'none';
+        for (let i = 0; i < footerDivs.length; i++) {
+            footerDivs[i].style.display = 'none';
         }
     }
   }
@@ -84,9 +82,10 @@ position: absolute;">
 });
 
 function createFooter(){
+    if(document.querySelectorAll('.footer')[0].style.display == 'none'){
     const footerContent = document.querySelectorAll('.footer')[0].innerHTML;
     const footerContainer = document.createElement('div');
     footerContainer.innerHTML = footerContent;
-    document.body.appendChild(footerContainer);
+    document.body.appendChild(footerContainer);}
   };
 </script>
