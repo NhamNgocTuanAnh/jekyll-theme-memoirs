@@ -1,3 +1,7 @@
+<div id="hiddenDiv" style="display: none;
+background-color: lightgray;
+padding: 10px;
+position: absolute;">
 {% assign maxRelated = 2 %}
 {% assign minCommonTags =  1 %}
 {% assign maxRelatedCounter = 0 %}
@@ -43,3 +47,46 @@
         {% endif %}
         {% endif %}
     {% endfor %}
+</div>
+<script>
+
+
+    document.addEventListener("DOMContentLoaded", function() {
+        const triggerDiv = document.getElementById('triggerDiv');
+    const hiddenDiv = document.getElementById('hiddenDiv');
+  // Function to check if an element is in viewport
+  function isInViewport(element) {
+    var rect = element.getBoundingClientRect();
+    return (
+      rect.top >= 0 &&
+      rect.left >= 0 &&
+      rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+      rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+    );
+  }
+
+  // Function to handle scroll event
+  function onScroll() {
+    if (isInViewport(triggerDiv)) {
+        hiddenDiv.style.display = 'block';
+        const footerDivs = document.getElementsByClassName('footer');
+        footerDiv.style.display = 'none';
+
+
+        for (let i = 0; i < triggerDivs.length; i++) {
+            footerDiv[i].style.display = 'none';
+        }
+    }
+  }
+
+  // Add scroll event listener
+  window.addEventListener('scroll', onScroll);
+});
+
+function createFooter(){
+    const footerContent = document.querySelectorAll('.footer')[0].innerHTML;
+    const footerContainer = document.createElement('div');
+    footerContainer.innerHTML = footerContent;
+    document.body.appendChild(footerContainer);
+  };
+</script>
