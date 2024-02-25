@@ -49,12 +49,13 @@
 
             {% if sameTagCount >= minCommonTags %}
             {% include postbox.html %}
+
+
             {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
             {% if maxRelatedCounter >= maxRelated %}
                 {% break %}
             {% endif %}
             {% endif %}
-
         {% endfor %}
         </div>
 </div>
