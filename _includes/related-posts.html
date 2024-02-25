@@ -36,8 +36,8 @@
 
             {% assign sameTagCount = 0 %}
             {% assign commonTags = '' %}
-
-            {% for category in post.categories %}
+            {% assign random_elements_categories = post.categories %}
+            {% for category in random_elements_categories %}
             {% if post.url != page.url %}
                 {% if page.categories contains category %}
                 {% assign sameTagCount = sameTagCount | plus: 1 %}
@@ -49,7 +49,6 @@
 
             {% if sameTagCount >= minCommonTags %}
             {% include postbox.html %}
-
 
             {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
             {% if maxRelatedCounter >= maxRelated %}
