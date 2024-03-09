@@ -98,9 +98,6 @@ Gần đây mình có xem một bộ phim là "Everything Everywhere All At Once
 </div>
 <p style="text-align:center; ">Cùng xem video với mình, và nếu có tâm tư gì, hãy inbox cho mình nhé!</p>
 </div>
-
-
-
 <style>
 iframe{margin:auto;display:block}.video-container{position:relative;padding-bottom:56.25%}.video-container iframe{position:absolute;top:0;left:0;width:100%;height:100%}.video{aspect-ratio:16/9;width:100%}
 </style>
