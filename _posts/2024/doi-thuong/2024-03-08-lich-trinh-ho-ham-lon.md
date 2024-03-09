@@ -38,6 +38,8 @@ Hôm đó bọn mình đi Hồ Hàm Lợn. đã 4 năm mình không quay trở l
 <img class="lazyload" loading="lazy" src="https://i.imgur.com/qtKDaLX.png" title="source: imgur.com" /><br><p></p>
 <img class="lazyload" loading="lazy" src="https://i.imgur.com/9lkgHy8.png" title="source: imgur.com" /><br><p></p>
 <img class="lazyload" loading="lazy" src="https://i.imgur.com/yCYsl6V.png" title="source: imgur.com" /><br><p></p>
+<img class="lazyload" loading="lazy" src="https://i.imgur.com/MSVHdN9.png" title="source: imgur.com" /><br><p></p>
+<img class="lazyload" loading="lazy" src="https://i.imgur.com/ZuhcE3a.png" title="source: imgur.com" /><br><p></p>
 </div>
 
 1. Vẻ đẹp của Hồ Hàm Lợn:
