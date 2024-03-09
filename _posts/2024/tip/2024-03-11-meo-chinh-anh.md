@@ -22,6 +22,8 @@ date: 2024-03-19 10:01:10 +0700
 permalink: nhiep-anh/quy-trinh-chinh-anh-chuyen-nghiep
 ---
 
+> Bài viết đang phát triển, vui lòng quay lại sau :P
+
 <hr style="border: 1px solid #000000;">
 <p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Mục lục</p>
 * TOC
