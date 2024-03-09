@@ -100,11 +100,11 @@ title: Trang chủ
 {% assign position = forloop.index0 %}
     {% if post.pinned %}
         {% include postbox-home.html %}
+        {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
     {% endif %}
-    {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
     {% if maxRelatedCounter >= maxRelated %}
-        {% break %}
-    {% endif %}
+    {% break %}
+{% endif %}
 {% endfor %}
 </div>
 
