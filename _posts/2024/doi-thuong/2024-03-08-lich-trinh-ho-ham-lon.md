@@ -9,23 +9,17 @@ image: assets/images/2023/du-lich/avt/du-lich-ta-van-avt.webp
 rating: 5
 isGithubComments: false
 permalink: du-lich/lich-trinh-ho-nui-bau
-excerpt: Sau một lần “hoảng hốt” khi thấy Sapa ngổn ngang những tòa nhà cao tầng, những bạn nữ mặc áo dân tộc chìa đồ bán rồi cứ ê ê trước mặt mình,... đứng đợi cáp treo 1 tiếng để checkin Fansipan. Mình đã quyết định đi tới một nơi khá lạ...
-description: Sau một lần “hoảng hốt” khi thấy Sapa ngổn ngang những tòa nhà cao tầng, những bạn nữ mặc áo dân tộc chìa đồ bán rồi cứ ê ê trước mặt mình,... đứng đợi cáp treo 1 tiếng để checkin Fansipan. Mình đã quyết định đi tới một nơi khá lạ...
+excerpt: Cái nóng oi bức của Hà Nội khiến ai cũng muốn "bỏ phố lên non". Nghe lời đồn thổi về Hồ Hàm Lợn Sóc Sơn, hội bạn thân quyết tâm "phá đảo" nơi đây.
+description: Cái nóng oi bức của Hà Nội khiến ai cũng muốn "bỏ phố lên non". Nghe lời đồn thổi về Hồ Hàm Lợn Sóc Sơn, hội bạn thân quyết tâm "phá đảo" nơi đây.
 adsense: "enabled"
 keywords:
-  - du lịch tả van
-  - tả van có gì
-  - bản tả van
-  - lao chải tả van
-  - tả van sapa
-  - bản tả van sapa
-  - tả van
-  - bản tả van lao chải
+  - chụp ảnh đẹp hà nội
+  - chụp ảnh ở hà nội
+  - hồ hàm lợn sóc sơn
 date: 2024-03-08 22:22:22 +0700
 pinned: true
 ---
 
-Cái nóng oi bức của Hà Nội khiến ai cũng muốn "bỏ phố lên non". Nghe lời đồn thổi về Hồ Hàm Lợn Sóc Sơn, hội bạn thân quyết tâm "phá đảo" nơi đây.
 <p>
 Hôm đó bọn mình đi Hồ Hàm Lợn. đã 4 năm mình không quay trở lại đây.
 </p>
