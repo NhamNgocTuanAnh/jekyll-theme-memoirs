@@ -33,6 +33,13 @@ Hôm đó bọn mình đi Hồ Hàm Lợn. đã 4 năm mình không quay trở l
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/CYqPaxw" data-context="false" ><a href="//imgur.com/a/CYqPaxw"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </div>
 
+<div class="content" style="text-align:center; ">
+<img  src="https://i.imgur.com/LL6qXwu.jpg" title="source: imgur.com" /><br><p></p>
+<img  src="https://i.imgur.com/qtKDaLX.png" title="source: imgur.com" /><br><p></p>
+<img  src="https://i.imgur.com/9lkgHy8.png" title="source: imgur.com" /><br><p></p>
+<img  src="https://i.imgur.com/9lkgHy8.png" title="source: imgur.com" /><br><p></p>
+</div>
+
 1. Vẻ đẹp của Hồ Hàm Lợn:
 
 Hồ nước trong xanh, phẳng lặng, được bao quanh bởi những ngọn núi xanh mướt.
@@ -46,6 +53,9 @@ Trekking lên đỉnh núi Hàm Lợn để ngắm nhìn toàn cảnh hồ nư�
 Chèo thuyền kayak hoặc SUP trên hồ nước.
 Tắm suối và bơi lội trong hồ nước (nên cẩn thận vì hồ khá sâu).
 Chụp ảnh lưu niệm với khung cảnh thiên nhiên thơ mộng.
+
+
+
 3. Lưu ý khi du lịch Hồ Hàm Lợn:
 
 Mang theo đầy đủ đồ ăn, thức uống và các vật dụng cần thiết cho chuyến đi.
