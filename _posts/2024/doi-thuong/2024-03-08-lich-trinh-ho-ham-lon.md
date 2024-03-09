@@ -82,6 +82,4 @@ function toggleImage() {
 }
 </script>
 
-
-
 Hy vọng những chia sẻ trên đây sẽ giúp bạn có thêm thông tin về Hồ Hàm Lợn và có một chuyến du lịch tuyệt vời!
