@@ -28,6 +28,8 @@ Các quốc gia phải liên kết chặt chẽ hơn và phải tìm cách hợp
 
 > Mình là một người chảnh chọe, mình là một người khó gần - Mình một mình.
 
+<div style="left: 0; width: 100%; height: 80px; position: relative;"><iframe src="https://open.spotify.com/embed/track/1h3OGp2njFR0qLyt7nMLnp?utm_source=oembed" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture;"></iframe></div>
+
 <div class="content" style="text-align:center; ">
 <img data-src="../../assets/images/2023/ngam/meo-chanh-choe.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">suốt ngày đeo tai nghe chẳng màng ai nói gì!!!</span></div>
 

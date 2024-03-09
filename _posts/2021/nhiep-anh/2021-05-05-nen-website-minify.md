@@ -42,3 +42,7 @@ Giới thiệu một số trang web phổ biến nén html,css, js
 ### **Nén Ảnh**
 
 *   [squoosh.app](https://squoosh.app/) - Dịch vụ nén ảnh mới toanh từ Google nhằm phục vụ cho nhu cầu nén ảnh mà vẫn giữ được hình ảnh với chất lượng tốt nhất. Hiện tại, Squoosh chỉ hoạt động trên nền web, Google vẫn chưa phát hành ứng dụng riêng biệt.
+
+### **Nhúng instagram**
+
+*   [iframely](https://iframely.com/domains/instagram) - Dịch vụ nén ảnh mới toanh từ Google nhằm phục vụ cho nhu cầu nén ảnh mà vẫn giữ được hình ảnh với chất lượng tốt nhất. Hiện tại, Squoosh chỉ hoạt động trên nền web, Google vẫn chưa phát hành ứng dụng riêng biệt.
