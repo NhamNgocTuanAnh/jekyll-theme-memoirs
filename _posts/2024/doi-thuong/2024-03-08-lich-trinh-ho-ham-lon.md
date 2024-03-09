@@ -26,7 +26,7 @@ Hôm đó bọn mình đi Hồ Hàm Lợn. đã 4 năm mình không quay trở l
 <img class="lazyload" loading="lazy" style="width: 100%; height: auto;" src="https://i.imgur.com/LL6qXwu.jpg" title="source: imgur.com" /><br><p>Khung cảnh thiên nhiên hoang sơ, yên bình, thích hợp cho những ai muốn thư giãn và hòa mình vào thiên nhiên.</p>
 </div>
 
-Hồ nước trong xanh, phẳng lặng, được bao quanh bởi những ngọn núi xanh mướt.
+Hồ nước trong xanh, phẳng lặng, được bao quanh bởi những ngọn núi xanh mướt ❤️.
 
 <div class="content" style="text-align:center; max-width: 100%;">
 <img class="lazyload" loading="lazy" style="width: 100%; height: auto;" src="https://i.imgur.com/qtKDaLX.png" title="source: imgur.com" /><br><p>Không khí trong lành, mát mẻ, giúp bạn giải tỏa căng thẳng và mệt mỏi.</p>
