@@ -20,8 +20,6 @@ keywords:
 
 Chúng ta lại có hứng thú đặc biệt với những thứ có tính đối xứng. Con sao biển hay các cánh hoa có hình dạng đối xứng xuyên tâm, tổ ong hình lục giác đối xứng, hay những họa tiết pha lê đối xứng độc đáo của một bông tuyết. Và tất nhiên con người cũng là những sinh vật đối xứng. Nhưng về ngoại hình, khuôn mặt của chúng ta rất dễ bị **lệch** - mất đi tính đối xứng đó. **Tại sao vậy? và Cách khắc phục là gì?**
 
-<!-- {% post_url /nhiepanh/2022-05-13-bo-cuc-trong-nhiep-anh %} -->
-
 ### Mục lục
 
 [1. Nguyên nhân](#nguyennhan)\\

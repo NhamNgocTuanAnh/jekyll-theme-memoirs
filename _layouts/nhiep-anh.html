@@ -852,7 +852,7 @@
             <div class="user-page-wrapper">
                 <div class="user-page-inner">
                     {% assign nhiepanhs = site.categories['Nhiếp ảnh 📸'] %}
-                    {% for post in nhiepanhs | sort %}
+                    {% for post in nhiepanhs %}
                     {% assign position = forloop.index0 %}
 
                     <div id="img{{position}}" class="image-wrapper container-1">

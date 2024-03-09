@@ -34,20 +34,20 @@ title: Trang chủ
 {% include my-album-home.html %}</section>
 <hr><h2 class="text-center mb-4">Nhiếp ảnh 📸</h2>
 
-{% assign maxRelated = 3 %}
-{% assign minCommonTags =  1 %}
-{% assign maxRelatedCounter = 0 %}
+{% assign maxRelatednhiepanhs = 3 %}
+{% assign minCommonTagsnhiepanhs =  1 %}
+{% assign maxRelatedCounternhiepanhs = 0 %}
 <div class="blog-grid-container">
 <div style="display: none">
 <div class="blog-grid-item"></div>
 <div class="blog-grid-item"><div class="blog-grid-item"></div><div class="blog-grid-item"></div></div>
 <div class="blog-grid-item"></div></div>
 {% assign nhiepanhs = site.categories['Nhiếp ảnh 📸'] %}
-{% for post in nhiepanhs | sort %}
+{% for post in nhiepanhs %}
 {% assign position = forloop.index0 %}
     {% include postbox-home.html %}
-    {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
-    {% if maxRelatedCounter >= maxRelated %}
+    {% assign maxRelatedCounternhiepanhs = maxRelatedCounternhiepanhs | plus: 1 %}
+    {% if maxRelatedCounternhiepanhs >= maxRelatednhiepanhs %}
         {% break %}
     {% endif %}
 {% endfor %}
@@ -59,7 +59,7 @@ title: Trang chủ
 {% assign maxRelatedCounter = 0 %}
 {% assign codes = site.categories['Coding 💻'] %}
 <section id="section-coding" ><style>.section-coding{padding: 20px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);}</style>
-    {% for post in codes | sort: 'last_updated' | reverse %}
+    {% for post in codes%}
     {% assign position = forloop.index0 %}
       <div  id="show-coding"><style>.show-coding{margin-bottom:20px;border-bottom:1px solid #ccc;padding-bottom:20px}</style>
         <div class="row " style="font-family: 'Roboto Mono', monospace; font-size: 1rem;">
@@ -96,7 +96,7 @@ title: Trang chủ
 <div class="blog-grid-item"></div>
 <div class="blog-grid-item"></div></div>
 {% assign duhis = site.categories['Du hí 🛫'] %}
-{% for post in duhis | sort %}
+{% for post in duhis %}
 {% assign position = forloop.index0 %}
     {% if post.pinned %}
         {% include postbox-home.html %}
