@@ -24,12 +24,7 @@ pinned: true
 Hôm đó bọn mình đi Hồ Hàm Lợn. đã 4 năm mình không quay trở lại đây.
 </p>
 <div class="content" style="text-align:center; max-width: 100%;">
-<img class="lazyload" loading="lazy" style="width: 100%; height: auto;" src="https://i.imgur.com/LL6qXwu.jpg" title="source: imgur.com" /><br><p></p>
-<img class="lazyload" loading="lazy" style="width: 100%; height: auto;" src="https://i.imgur.com/qtKDaLX.png" title="source: imgur.com" /><br><p></p>
-<img class="lazyload" loading="lazy" style="width: 100%; height: auto;" src="https://i.imgur.com/9lkgHy8.png" title="source: imgur.com" /><br><p></p>
-<img class="lazyload" loading="lazy" style="width: 100%; height: auto;" src="https://i.imgur.com/yCYsl6V.png" title="source: imgur.com" /><br><p></p>
-<img class="lazyload" loading="lazy" style="width: 100%; height: auto;" src="https://i.imgur.com/MSVHdN9.png" title="source: imgur.com" /><br><p></p>
-<img class="lazyload" loading="lazy" style="width: 100%; height: auto;" src="https://i.imgur.com/ZuhcE3a.png" title="source: imgur.com" /><br><p></p>
+<img class="lazyload" loading="lazy" style="width: 100%; height: auto;" src="https://i.imgur.com/LL6qXwu.jpg" title="source: imgur.com" />
 </div>
 
 1. Vẻ đẹp của Hồ Hàm Lợn:
@@ -38,6 +33,14 @@ Hồ nước trong xanh, phẳng lặng, được bao quanh bởi những ngọn
 Khung cảnh thiên nhiên hoang sơ, yên bình, thích hợp cho những ai muốn thư giãn và hòa mình vào thiên nhiên.
 Không khí trong lành, mát mẻ, giúp bạn giải tỏa căng thẳng và mệt mỏi.
 
+<div class="content" style="text-align:center; max-width: 100%;">
+<img class="lazyload" loading="lazy" style="width: 100%; height: auto;" src="https://i.imgur.com/qtKDaLX.png" title="source: imgur.com" /><br><p></p>
+<img class="lazyload" loading="lazy" style="width: 100%; height: auto;" src="https://i.imgur.com/9lkgHy8.png" title="source: imgur.com" /><br><p></p>
+<img class="lazyload" loading="lazy" style="width: 100%; height: auto;" src="https://i.imgur.com/yCYsl6V.png" title="source: imgur.com" /><br><p></p>
+<img class="lazyload" loading="lazy" style="width: 100%; height: auto;" src="https://i.imgur.com/MSVHdN9.png" title="source: imgur.com" /><br><p></p>
+<img class="lazyload" loading="lazy" style="width: 100%; height: auto;" src="https://i.imgur.com/ZuhcE3a.png" title="source: imgur.com" /><br><p></p>
+</div>
+
 2. Các hoạt động du lịch tại Hồ Hàm Lợn:
 
 Cắm trại qua đêm bên hồ, đốt lửa trại và thưởng thức BBQ.
@@ -45,8 +48,6 @@ Trekking lên đỉnh núi Hàm Lợn để ngắm nhìn toàn cảnh hồ nư�
 Chèo thuyền kayak hoặc SUP trên hồ nước.
 Tắm suối và bơi lội trong hồ nước (nên cẩn thận vì hồ khá sâu).
 Chụp ảnh lưu niệm với khung cảnh thiên nhiên thơ mộng.
-
-
 
 3. Lưu ý khi du lịch Hồ Hàm Lợn:
 
