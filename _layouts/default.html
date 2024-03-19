@@ -60,6 +60,7 @@
             </p>
             {% endif %}
     <div class="main-content"><div id="main-content-content">{{ content }}</div>
+
     <button id="chat-button" onclick="handleChatButtonClick()">Chat</button>
 <div id="snowCall"></div>
 <style>
@@ -107,7 +108,11 @@ function myFunctionOpenTopNav(){var a=document.getElementById("myTopnav");"topna
     <noscript><div><img src="https://mc.yandex.ru/watch/95513605" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <script>
     function scrollToSmooth(){const scrollElement = document.documentElement.scrollTop ? document.documentElement : document.body;scrollElement.scrollTop = 200;}setTimeout(scrollToSmooth, 1000);
-    document.addEventListener("DOMContentLoaded",function(){showSnowEffect();document.querySelectorAll("img").forEach(function(t){t.addEventListener("load",function(){t.style.width=t.width+"px",t.style.height=t.height+"px"})})});
+    document.addEventListener("DOMContentLoaded",function(){if (typeof showSnowEffect === "function") {
+  showSnowEffect();
+} else {
+  console.log("Function showSnowEffect không tồn tại!");
+};document.querySelectorAll("img").forEach(function(t){t.addEventListener("load",function(){t.style.width=t.width+"px",t.style.height=t.height+"px"})})});
 </script>
         <script>
     const version=Math.floor(1e6*Math.random()),head=document.querySelector("head"),currentUrl=new URL(window.location.href);currentUrl.searchParams.set("v",version);const linkElement=document.createElement("link");linkElement.rel="stylesheet",linkElement.type="text/css",linkElement.href=currentUrl.toString(),head.appendChild(linkElement);
