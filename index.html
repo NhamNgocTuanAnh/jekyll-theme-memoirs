@@ -3,7 +3,7 @@ layout: default
 title: Trang chủ
 ---
 <hr>
-<h2 id="h2-moi-nhat" class="text-center mb-4" >Bài viết mới nhất</h2>
+<h2 id="h2-moi-nhat" style="font-weight: 700;font-size: 4.8rem;color: #3a3a3a;" >Bài viết mới nhất</h2>
 <style>.h2-moi-nhat{animation: fade-up 0.7s ease-out forwards running;}</style>
 <div class="blog-grid-container">
 
@@ -27,12 +27,12 @@ title: Trang chủ
     </span>
 </div>
 
-<hr><h2 class="text-center mb-4">Chủ đề</h2>
+<hr><h2 style="font-weight: 700;font-size: 4.8rem;color: #3a3a3a;" >Chủ đề</h2>
 <section class="container-fluid align-items-center container-section-2">
 {% include categories-home.html %}
 <hr>
 {% include my-album-home.html %}</section>
-<hr><h2 class="text-center mb-4">Nhiếp ảnh 📸</h2>
+<hr><h2 style="font-weight: 700;font-size: 4.8rem;color: #3a3a3a;" >Nhiếp ảnh 📸</h2>
 
 {% assign maxRelatednhiepanhs = 3 %}
 {% assign minCommonTagsnhiepanhs =  1 %}
@@ -53,7 +53,7 @@ title: Trang chủ
 {% endfor %}
 </div>
 
-<hr><h2 class="text-center mb-4">Coding 💻</h2>
+<hr><h2 style="font-weight: 700;font-size: 4.8rem;color: #3a3a3a;" >Coding 💻</h2>
 {% assign maxRelated = 4 %}
 {% assign minCommonTags =  1 %}
 {% assign maxRelatedCounter = 0 %}
@@ -85,7 +85,7 @@ title: Trang chủ
 } @media (max-width:756px) { .col-md-4 { height:300px; overflow:hidden; padding-left:1rem; padding-right:1rem; }
 }
 </style>
-<hr><h2 class="text-center mb-4">Du hí 🛫</h2>
+<hr><h2 style="font-weight: 700;font-size: 4.8rem;color: #3a3a3a;" >Du hí 🛫</h2>
 
 {% assign maxRelated = 3 %}
 {% assign minCommonTags =  1 %}
