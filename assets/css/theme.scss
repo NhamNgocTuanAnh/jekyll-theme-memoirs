@@ -29,14 +29,20 @@ body, input, button, select, optgroup, textarea {
     font-family: "Playfair", "Times New Roman", Times, serif;
 }
 h1 {
-    font-family: "Playfair", "Times New Roman", Times, serif;
+    font-family: "Inter", "sans-serif","Playfair", "Times New Roman", Times, serif;
 }
 body {
     line-height:1.7;
     background: #f4f4f4;
 }
 a {
-    color: darken($primary, 24%);
+    color: darken( #7c0fd1, 44%);
+}
+strong {
+    color: darken( #7c0fd1, 24%);
+}
+p {
+    color:#5f5f5f;
 }
 img {
     max-width:100%;
@@ -45,7 +51,8 @@ img {
 
 h2,h3,h4,h5,h6 {
     font-weight:700;
-    font-family:"Montserrat-Regular"
+    font-family:"Montserrat-Regular";
+    color: #7c0fd1;
 }
 // h1,h2,h3,h4,h5,h6 {
 //     font-weight:700;
