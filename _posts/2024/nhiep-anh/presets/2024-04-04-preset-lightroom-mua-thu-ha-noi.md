@@ -7,13 +7,13 @@ categories: [ Nhiếp ảnh 📸 ]
 tags: [preset, lightroom]
 image: assets/images/2023/nhiep-anh/avt/preset-vintage-avt.webp
 isGithubComments: false
-permalink: nhiep-anh/preset/lightroom-mua-thu-ha-noi
+permalink: nhiep-anh/preset/lightroom-ha-noi-mua-thay-la
 excerpt: Trong bài viết này, mình sẽ chia sẻ preset Lightroom nam violin cổ điển giúp bạn dễ dàng tạo ra những bức ảnh đẹp và chuyên nghiệp.
 adsense: "enabled"
 keywords:
   - Preset lightroom
   - lightroom violin
-  - Preset lightroom violin nam đẹp
+  - Preset lightroom autumn
   - Preset lightroom violin nữ cá tính
   - Preset lightroom phong cảnh violin ấn tượng
   - Preset lightroom kiến trúc violin độc đáo
