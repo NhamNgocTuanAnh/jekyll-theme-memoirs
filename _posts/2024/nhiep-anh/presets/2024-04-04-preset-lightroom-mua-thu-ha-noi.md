@@ -64,6 +64,20 @@ Heo may khẽ thổi qua con ngõ nhỏ
 Nơi có em đang ngóng đợi anh về…~Thơ Lê Mỹ Hường
 </blockquote>
 
+Hà Nội bốn mùa, mùa nào cũng đẹp, nhưng thu Hà Nội ôi chao, đẹp nao lòng người! Lá vàng rơi xào xạc, bầu trời trong xanh, nắng vàng nhẹ nhẹ, tạo nên bức tranh mùa thu lãng mạn vô cùng.
+
+Muốn lưu giữ khoảnh khắc ấy, bạn cần "vũ khí bí mật" - preset Lightroom cho mùa thu Hà Nội. Preset giúp ảnh bạn lung linh hơn với màu lá vàng, đỏ rực rỡ, ánh sáng dịu dàng, mềm mại.
+
+Gợi ý một số preset "chất như nước cất":
+
+- Autumn Warmth: Tone ấm áp, tăng cường sự rực rỡ cho mùa thu.
+- Golden Fall: Chuyên biệt cho màu vàng óng ả của lá.
+- Soft Light: Làm mềm ánh sáng, tạo cảm giác lãng mạn, thơ mộng.
+
+Nhưng nhớ nhé, preset chỉ là bước đầu tiên! Hãy chỉnh sửa thêm để ảnh "chất" hơn, thể hiện phong cách của bạn.
+
+Mùa thu Hà Nội đẹp đến nao lòng, hãy sáng tạo và lưu giữ từng khoảnh khắc tinh tế nhất!
+
 <div class="content" style="text-align:center; ">
 <a href="https://i.imgur.com/UpZ4cZq"><img loading="lazy" src="https://i.imgur.com/UpZ4cZq.jpeg" title="source: imgur.com" /></a></div>
 
