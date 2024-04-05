@@ -8,17 +8,17 @@ tags: [preset, lightroom]
 image: assets/images/2024/nhiep-anh/preset-mua-thu-ha-noi.webp
 isGithubComments: false
 permalink: nhiep-anh/preset/lightroom-ha-noi-mua-thay-la
-excerpt: Trong bài viết này, mình sẽ chia sẻ preset Lightroom  giúp bạn dễ dàng tạo ra những bức ảnh đẹp và chuyên nghiệp.
+excerpt: Trong bài viết này, mình sẽ chia sẻ preset Lightroom mùa thu Hà Nội giúp bạn dễ dàng tạo ra những bức ảnh đẹp và chuyên nghiệp.
 adsense: "enabled"
 keywords:
   - Preset lightroom
   - lightroom violin
   - Preset lightroom autumn
-  - Preset lightroom violin nữ cá tính
-  - Preset lightroom phong cảnh violin ấn tượng
-  - Preset lightroom kiến trúc violin độc đáo
-  - Preset lightroom chân dung violin nghệ thuật
-  - Preset lightroom wedding violin lãng mạn
+  - Preset lightroom autumn cá tính
+  - Preset lightroom autumn ấn tượng
+  - Preset lightroom autumn độc đáo
+  - Preset lightroom autumn nghệ thuật
+  - Preset lightroom autumn lãng mạn
   - free lightroom presets
   - adobe lightroom presets
   - photo presets
