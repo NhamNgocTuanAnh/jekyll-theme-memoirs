@@ -88,7 +88,7 @@ Preset sẽ được áp dụng cho ảnh của bạn. Bạn có thể điều c
 
 **Mô tả preset Lightroom **
 
-<div class="content" style="text-align:center; "><a href="https://imgur.com/F4nlBZm"><img loading="lazy" src="https://i.imgur.com/F4nlBZm.jpg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/56uKmuv"><img loading="lazy" src="https://i.imgur.com/56uKmuv.jpg" title="source: imgur.com" /></a><p></p><br></div>
+<div class="content" style="text-align:center; "><a href="https://i.imgur.com/gIW70OI"><img loading="lazy" src="https://i.imgur.com/gIW70OI.jpeg" title="source: imgur.com" /></a><p></p><br><a href="https://i.imgur.com/rQvAjgn"><img loading="lazy" src="https://i.imgur.com/rQvAjgn.jpeg" title="source: imgur.com" /></a><p></p><br></div>
 
 Preset Lightroom  bao gồm các cài đặt sau:
 
@@ -97,17 +97,17 @@ Preset Lightroom  bao gồm các cài đặt sau:
 *   **Độ sắc nét:** Tăng độ sắc nét để bức ảnh rõ nét hơn.
 *   **Tone màu da:** Làm cho tone màu da trông tự nhiên và rạng rỡ hơn.
 
-**Lưu ý khi sử dụng preset chụp ảnh violin nam**
+**Lưu ý khi sử dụng preset chụp ảnh**
 
-Khi sử dụng preset chụp ảnh violin nam, bạn cần lưu ý một số điều sau:
+Khi sử dụng preset chụp ảnh, bạn cần lưu ý một số điều sau:
 
-*   **Chọn ảnh phù hợp:** Preset chụp ảnh violin nam sẽ phù hợp với những bức ảnh có tông màu sáng. Nếu ảnh của bạn có tông màu tối, bạn cần điều chỉnh các thông số của preset để phù hợp.
+*   **Chọn ảnh phù hợp:** Preset chụp ảnh sẽ phù hợp với những bức ảnh có tông màu sáng. Nếu ảnh của bạn có tông màu tối, bạn cần điều chỉnh các thông số của preset để phù hợp.
 *   **Thử nghiệm các thông số:** Mỗi preset sẽ có các thông số khác nhau. Bạn nên thử nghiệm các thông số để tìm ra kết quả phù hợp nhất với ảnh của mình.
 *   **Không lạm dụng preset:** Preset chỉ là một công cụ hỗ trợ. Bạn không nên lạm dụng preset, thay vào đó hãy sử dụng các kỹ thuật chụp ảnh để tạo ra những bức ảnh đẹp.
 
 **Kết luận**
 
-<div class="content" style="text-align:center; "><a href="https://imgur.com/Mkz0m4O"><img loading="lazy" src="https://i.imgur.com/Mkz0m4O.jpg" title="source: imgur.com" /></a></div>
+<div class="content" style="text-align:center; "><a href="https://i.imgur.com/WKcs6a3"><img loading="lazy" src="https://i.imgur.com/WKcs6a3.jpeg" title="source: imgur.com" /></a></div>
 
 Preset Lightroom  sẽ giúp bạn tạo ra những bức ảnh  đẹp và chuyên nghiệp.
 
