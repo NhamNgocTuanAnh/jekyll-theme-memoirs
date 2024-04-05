@@ -86,7 +86,9 @@ Preset sẽ được áp dụng cho ảnh của bạn. Bạn có thể điều c
 <div class="content" style="text-align:center; ">
 <a href="https://i.imgur.com/V1Dakkv"><img loading="lazy" src="https://i.imgur.com/V1Dakkv.jpeg" title="source: imgur.com" /></a><p></p><br><a href="https://i.imgur.com/n1aJ50o"><img loading="lazy" src="https://i.imgur.com/n1aJ50o.png" title="source: imgur.com" /></a><p></p><br><a href="https://i.imgur.com/PUJtfYG"><img loading="lazy" src="https://i.imgur.com/PUJtfYG.jpeg" title="source: imgur.com" /></a><p></p><br></div>
 
-**Mô tả preset Lightroom **
+**Mô tả preset Lightroom**
+
+Ảnh gốc mình chụp bằng Canon eos M vào 1 ngày trời xuân Hà Nội. Sử dụng ống nikkor 85mm f2 ais. Đây là một ống kính khá đẹp, trong.
 
 <div class="content" style="text-align:center; "><a href="https://i.imgur.com/gIW70OI"><img loading="lazy" src="https://i.imgur.com/gIW70OI.jpeg" title="source: imgur.com" /></a><p></p><br><a href="https://i.imgur.com/rQvAjgn"><img loading="lazy" src="https://i.imgur.com/rQvAjgn.jpeg" title="source: imgur.com" /></a><p></p><br></div>
 
