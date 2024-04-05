@@ -84,7 +84,7 @@ Preset sẽ được áp dụng cho ảnh của bạn. Bạn có thể điều c
 **Một số ảnh Lightroom đẹp**
 
 <div class="content" style="text-align:center; ">
-<a href="https://i.imgur.com/V1Dakkv"><img loading="lazy" src="https://i.imgur.com/V1Dakkv.jpeg" title="source: imgur.com" /></a><p></p><br><a href="https://i.imgur.com/n1aJ50o"><img loading="lazy" src="https://i.imgur.com/n1aJ50o.png" title="source: imgur.com" /></a><p></p><br><a href="https://i.imgur.com/PUJtfYG"><img loading="lazy" src="https://i.imgur.com/PUJtfYG.jpeg" title="source: imgur.com" /></a><p></p><br></div>
+<a href="https://i.imgur.com/V1Dakkv"><img loading="lazy" src="https://i.imgur.com/V1Dakkv.jpeg" title="source: imgur.com" /></a><p></p><br><a href="https://i.imgur.com/n1aJ50o"><img loading="lazy" src="https://i.imgur.com/n1aJ50o.png" title="source: imgur.com" /></a><p></p><br><a href="https://i.imgur.com/PUJtfYG"><img loading="lazy" src="https://i.imgur.com/PUJtfYG.jpeg" title="source: imgur.com" /></a><p></p><br><a href="https://i.imgur.com/qHvr4Cb"><img loading="lazy" src="https://i.imgur.com/qHvr4Cb.jpeg" title="source: imgur.com" /></a><p></p><br><a href="https://i.imgur.com/DUfuILk"><img loading="lazy" src="https://i.imgur.com/DUfuILk.png" title="source: imgur.com" /></a><p></p><br></div>
 
 **Mô tả preset Lightroom**
 
