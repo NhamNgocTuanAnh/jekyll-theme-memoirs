@@ -8,7 +8,7 @@ tags: [preset, lightroom]
 image: assets/images/2024/nhiep-anh/preset-mua-thu-ha-noi.webp
 isGithubComments: false
 permalink: nhiep-anh/preset/lightroom-ha-noi-mua-thay-la
-excerpt: Trong bài viết này, mình sẽ chia sẻ preset Lightroom nam violin cổ điển giúp bạn dễ dàng tạo ra những bức ảnh đẹp và chuyên nghiệp.
+excerpt: Trong bài viết này, mình sẽ chia sẻ preset Lightroom  giúp bạn dễ dàng tạo ra những bức ảnh đẹp và chuyên nghiệp.
 adsense: "enabled"
 keywords:
   - Preset lightroom
@@ -58,12 +58,11 @@ pinned: true
 
 **Preset Lightroom Hà Nội mùa thay lá**
 
-Hà Nội đã vào thu rồi, anh có biết không?
+<blockquote>Hà Nội đã vào thu rồi, anh có biết không?
 Lá vàng đỏ rụng rơi dài cuối phố
 Heo may khẽ thổi qua con ngõ nhỏ
-Nơi có em đang ngóng đợi anh về…
-
-~Thơ Lê Mỹ Hường
+Nơi có em đang ngóng đợi anh về…~Thơ Lê Mỹ Hường
+</blockquote>
 
 <div class="content" style="text-align:center; ">
 <a href="https://i.imgur.com/UpZ4cZq"><img loading="lazy" src="https://i.imgur.com/UpZ4cZq.jpeg" title="source: imgur.com" /></a></div>
@@ -82,16 +81,16 @@ Nơi có em đang ngóng đợi anh về…
 
 Preset sẽ được áp dụng cho ảnh của bạn. Bạn có thể điều chỉnh các cài đặt theo ý muốn để phù hợp với bức ảnh của mình.
 
-**Một số ảnh Lightroom nam violin cổ điển đẹp**
+**Một số ảnh Lightroom đẹp**
 
 <div class="content" style="text-align:center; ">
-<a href="https://imgur.com/UxaUqQq"><img loading="lazy" src="https://i.imgur.com/UxaUqQq.jpg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/q2xbOkw"><img loading="lazy" src="https://i.imgur.com/q2xbOkw.jpg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/d1IOdC4"><img loading="lazy" src="https://i.imgur.com/d1IOdC4.jpg" title="source: imgur.com" /></a><p></p><br></div>
+<a href="https://i.imgur.com/V1Dakkv"><img loading="lazy" src="https://i.imgur.com/V1Dakkv.jpeg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/q2xbOkw"><img loading="lazy" src="https://i.imgur.com/q2xbOkw.jpg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/d1IOdC4"><img loading="lazy" src="https://i.imgur.com/d1IOdC4.jpg" title="source: imgur.com" /></a><p></p><br></div>
 
-**Mô tả preset Lightroom nam violin cổ điển**
+**Mô tả preset Lightroom **
 
 <div class="content" style="text-align:center; "><a href="https://imgur.com/F4nlBZm"><img loading="lazy" src="https://i.imgur.com/F4nlBZm.jpg" title="source: imgur.com" /></a><p></p><br><a href="https://imgur.com/56uKmuv"><img loading="lazy" src="https://i.imgur.com/56uKmuv.jpg" title="source: imgur.com" /></a><p></p><br></div>
 
-Preset Lightroom nam violin cổ điển bao gồm các cài đặt sau:
+Preset Lightroom  bao gồm các cài đặt sau:
 
 *   **Tone màu:** Tạo ra tone màu ấm áp và cổ điển.
 *   **Độ tương phản:** Tăng độ tương phản để bức ảnh nổi bật hơn.
@@ -110,7 +109,7 @@ Khi sử dụng preset chụp ảnh violin nam, bạn cần lưu ý một số �
 
 <div class="content" style="text-align:center; "><a href="https://imgur.com/Mkz0m4O"><img loading="lazy" src="https://i.imgur.com/Mkz0m4O.jpg" title="source: imgur.com" /></a></div>
 
-Preset Lightroom nam violin cổ điển sẽ giúp bạn tạo ra những bức ảnh nam violin cổ điển đẹp và chuyên nghiệp.
+Preset Lightroom  sẽ giúp bạn tạo ra những bức ảnh  đẹp và chuyên nghiệp.
 
 <style>
 table{border-collapse:collapse;border-spacing:0;margin:0 auto;width:700px}table td,table th{border:1px solid #ccc;padding:10px}table th{background-color:#f3f3f3}@media only screen and (max-width:700px){table{margin:0 10px;width:auto}}@media only screen and (max-width:480px){table td,table th{display:block;border-bottom:none}table tr:last-child td{border-bottom:1px solid #ccc}}
