@@ -22,8 +22,8 @@ date: 2024-04-30 04:30:10 +0700
 permalink: nhiep-anh/reviews/danh-gia-canon-ef-m-22mm-f2-ong-ke-bi-lang-quen
 ---
 
-**Giá Meike 25mm F1.8:** 1 triệu 8 hàng mới(giá năm 2022)
-**Năm:** 2018\\
+**Giá Canon EF-M 22mm F2:** 2 triệu 8 hàng lướt(giá năm 2024)
+**Năm:** 2012-2013\\
 **Đối tượng:** nhiếp ảnh nghiệp dư, người chơi ảnh bình dân, học sinh, sinh viên\\
 **Phù hợp:** chụp chân dung không chuyên, đường phố, phong cảnh\\
 **Pro nhất khi dùng**: Chụp chuyển động nhanh, chụp thể thao gần, nhưng nơi thiếu sáng hành động mạnh như (đám cưới, tiệc), Professional yêu cầu chất lượng ảnh siêu cao.😎
