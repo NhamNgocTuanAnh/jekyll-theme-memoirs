@@ -60,6 +60,8 @@ Cơ chế對焦STM hoạt động êm ái, nhanh chóng và gần như không g�
 Bokeh mềm mại, tạo hiệu ứng xóa phông đẹp mắt.
 Khả năng thu sáng tốt nhờ khẩu độ f/2.
 
+<div class="content" style="text-align:center; ">
+<a data-flickr-embed="true" data-footer="true" data-header="true" href="https://www.flickr.com/photos/sergiophotography/53109752629/" title="Warsaw - Warszawa by SergioThorPhoto, on Flickr"><img src="https://live.staticflickr.com/65535/53109752629_a2ff775f03_b.jpg" width="100%" alt="Warsaw - Warszawa"></a><br><p>bạn có thể truy cập vào đây để xem thêm ảnh từ cộng đồng</p></div><script async src="https://embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 #### 1\. Ưu điểm
 
 * Kích thước nhỏ gọn: Với kích thước chỉ 23,7 x 60,9 mm và trọng lượng 105g, EF-M 22mm STM là một ống kính pancake lý tưởng cho việc mang theo hàng ngày.
