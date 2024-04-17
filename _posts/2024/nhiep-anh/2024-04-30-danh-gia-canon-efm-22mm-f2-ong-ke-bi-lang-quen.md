@@ -12,12 +12,12 @@ excerpt: Canon EF-M 22mm STM là một ống kính pancake nhỏ gọn và nhẹ
 description: Canon EF-M 22mm STM là một ống kính pancake nhỏ gọn và nhẹ, lý tưởng cho các máy ảnh mirrorless Canon EOS M.
 adsense: "enabled"
 keywords:
-  - Meike 25mm F1.8
+  - canon 22mm F2
   - Ống kính giá rẻ cho Mirrorless aps-c
-  - Đánh giá lens Meike 25mm
+  - Đánh giá lens canon 22mm
   - LensCanon
   - CanonLens
-  - meike 25mm f1 8
+  - canon efm 22mm f2
 date: 2024-04-30 04:30:10 +0700
 permalink: nhiep-anh/reviews/danh-gia-canon-ef-m-22mm-f2-ong-ke-bi-lang-quen
 ---
