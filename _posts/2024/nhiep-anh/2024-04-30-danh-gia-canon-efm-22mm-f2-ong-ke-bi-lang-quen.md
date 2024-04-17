@@ -156,7 +156,7 @@ kenrockwell
   <p>"Rất sắc nét - ống kính cố định nên bạn phải zoom bằng chân - ống kính nhỏ gọn, yên tĩnh và giá cả phải chăng - có gì để không thích?
 
 Đọc một số đánh giá, tôi nghĩ có một số điều có thể được nói để giúp người khác đưa ra quyết định về ống kính này như,<span id="dots">...</span>
-  <span id="more"><p>1.) Ch&uacute;ng l&agrave; ống k&iacute;nh Hộp trắng tức l&agrave; ch&uacute;ng đến từ bộ m&aacute;y ảnh đ&oacute;ng g&oacute;i của Canon - Canon đ&atilde; b&aacute;n EOS-M với ống k&iacute;nh 22 mm hoặc cả hai ống k&iacute;nh 22mm v&agrave; 18-55mm, hoặc chỉ đơn vị cơ bản, hoặc với tất cả c&aacute;c ống k&iacute;nh v&agrave; đ&egrave;n flash được bao gồm trong c&ugrave;ng một hộp v&agrave; họ cung cấp những sản phẩm n&agrave;y với bảo h&agrave;nh của Hoa Kỳ hoặc l&agrave; những sản phẩm nhập khẩu (thị trường x&aacute;m).</p>
+ <p>1.) Ch&uacute;ng l&agrave; ống k&iacute;nh Hộp trắng tức l&agrave; ch&uacute;ng đến từ bộ m&aacute;y ảnh đ&oacute;ng g&oacute;i của Canon - Canon đ&atilde; b&aacute;n EOS-M với ống k&iacute;nh 22 mm hoặc cả hai ống k&iacute;nh 22mm v&agrave; 18-55mm, hoặc chỉ đơn vị cơ bản, hoặc với tất cả c&aacute;c ống k&iacute;nh v&agrave; đ&egrave;n flash được bao gồm trong c&ugrave;ng một hộp v&agrave; họ cung cấp những sản phẩm n&agrave;y với bảo h&agrave;nh của Hoa Kỳ hoặc l&agrave; những sản phẩm nhập khẩu (thị trường x&aacute;m).</p>
 
 <p>Điều n&agrave;y c&oacute; &yacute; nghĩa g&igrave;? - sản phẩm đều giống nhau về chất lượng sản xuất v&agrave; thiết kế - sản phẩm của Hoa Kỳ mang theo bảo h&agrave;nh của Hoa Kỳ v&agrave; c&oacute; thể được sửa chữa bởi bất kỳ trung t&acirc;m ủy quyền n&agrave;o của Hoa Kỳ so với sản phẩm nhập khẩu cần được gửi ra nước ngo&agrave;i để sửa chữa.</p>
 
@@ -166,10 +166,7 @@ kenrockwell
 
 <p>3.) C&oacute; một c&aacute;i che nắng cho ống k&iacute;nh n&agrave;y - gi&aacute; 10,00 USD tr&ecirc;n Amazon - h&atilde;y mua n&oacute;.</p>
 
-<p>4.) H&atilde;y lưu &yacute; một số m&aacute;y ảnh v&agrave; ống k&iacute;nh được nhập khẩu so với c&aacute;c mẫu của Hoa Kỳ - c&oacute; ch&uacute; th&iacute;ch nhỏ liệt k&ecirc; về điều n&agrave;y - điều n&agrave;y kh&ocirc;ng qu&aacute; quan trọng với gi&aacute; của những chiếc m&aacute;y ảnh n&agrave;y v&agrave; với lựa chọn trả lại của Amazon trong v&ograve;ng 30 ng&agrave;y sẽ bảo vệ bạn v&igrave; hầu hết ch&uacute;ng sẽ hoặc l&agrave; DOA hoặc duy tr&igrave; được trong khoảng thời gian dịch vụ b&igrave;nh thường.</p>
-</span></p>
-
-<button onclick="myFunctionLess()" id="myBtn">Read more</button>
+<p>4.) H&atilde;y lưu &yacute; một số m&aacute;y ảnh v&agrave; ống k&iacute;nh được nhập khẩu so với c&aacute;c mẫu của Hoa Kỳ - c&oacute; ch&uacute; th&iacute;ch nhỏ liệt k&ecirc; về điều n&agrave;y - điều n&agrave;y kh&ocirc;ng qu&aacute; quan trọng với gi&aacute; của những chiếc m&aacute;y ảnh n&agrave;y v&agrave; với lựa chọn trả lại của Amazon trong v&ograve;ng 30 ng&agrave;y sẽ bảo vệ bạn v&igrave; hầu hết ch&uacute;ng sẽ hoặc l&agrave; DOA hoặc duy tr&igrave; được trong khoảng thời gian dịch vụ b&igrave;nh thường.</p></p>
                 </div>
             </div>
             <!--BOX-2-------------->
@@ -275,7 +272,14 @@ kenrockwell
                 </div>
                 <!--Comments---------------------------------------->
                 <div class="client-comment">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, quaerat quis? Provident temporibus architecto asperiores nobis maiores nisi a. Quae doloribus ipsum aliquam tenetur voluptates incidunt blanditiis sed atque cumque.</p>
+                    <p><p>T&ocirc;i y&ecirc;u ống k&iacute;nh n&agrave;y! N&oacute; chưa bao giờ rời khỏi m&aacute;y ảnh của t&ocirc;i kể từ ng&agrave;y đầu ti&ecirc;n v&agrave; t&ocirc;i đ&atilde; chụp mọi thứ với n&oacute;: phong cảnh, macro, chụp ảnh cổ phiếu, g&agrave; v&agrave; thậm ch&iacute; cả thức ăn. N&oacute; rất xuất sắc trong &aacute;nh s&aacute;ng yếu v&agrave; cho ra h&igrave;nh ảnh sắc n&eacute;t, r&otilde; r&agrave;ng với độ s&acirc;u trường ảnh c&oacute; thể biến đổi. N&oacute; rất nhỏ gọn v&agrave; nhẹ, t&ocirc;i c&oacute; thể mang m&aacute;y ảnh ra cửa h&agrave;ng m&agrave; kh&ocirc;ng c&oacute; ai gọi bảo vệ.</p>
+
+<p>Một số điều cần th&iacute;ch nghi. Tự động lấy n&eacute;t hơi chậm v&agrave; ồn hơn rất nhiều so với ống k&iacute;nh kit của t&ocirc;i. Sự rung động hơi l&agrave;m trầm m&igrave;nh khi đi săn lấy n&eacute;t, v&igrave; vậy t&ocirc;i cần t&igrave;m n&uacute;t để tắt chế độ lấy n&eacute;t li&ecirc;n tục v&agrave; chỉ l&agrave;m n&oacute; khi t&ocirc;i nhấn nửa n&uacute;t của n&uacute;t chụp. T&ocirc;i thấy h&igrave;nh ảnh sắc n&eacute;t nhất khi sử dụng tự động lấy n&eacute;t sau đ&oacute; chuyển sang lấy n&eacute;t thủ c&ocirc;ng để ho&agrave;n thiện.</p>
+
+<p>Vấn đề kh&aacute;c m&agrave; t&ocirc;i gặp kh&oacute; khăn l&agrave; thiếu chống rung h&igrave;nh ảnh. T&ocirc;i nghĩ rằng t&ocirc;i đ&atilde; l&agrave;m rất tốt với ống k&iacute;nh kit của m&igrave;nh, c&oacute; thể chụp được h&igrave;nh ảnh sắc n&eacute;t l&ecirc;n đến 1/4 gi&acirc;y, nhưng kh&ocirc;ng phải vậy. Đ&oacute; l&agrave; chống rung. Với ống k&iacute;nh n&agrave;y, t&ocirc;i phải cẩn thận ở mọi tốc độ chụp dưới 1/60 v&agrave; ngay cả khi đ&oacute;, vẫn tốt hơn nếu t&ocirc;i c&oacute; thể sử dụng một c&aacute;i tripod.</p>
+
+<p>Hầu hết c&aacute;c vấn đề n&agrave;y l&agrave; do t&ocirc;i, v&igrave; vậy t&ocirc;i sẽ kh&ocirc;ng giảm điểm cho ống k&iacute;nh. V&agrave; thậm ch&iacute;, nếu t&ocirc;i chỉ được sở hữu một ống k&iacute;nh, t&ocirc;i sẽ chọn ống k&iacute;nh n&agrave;y.</p>
+</p>
                 </div>
             </div>
         </div>
