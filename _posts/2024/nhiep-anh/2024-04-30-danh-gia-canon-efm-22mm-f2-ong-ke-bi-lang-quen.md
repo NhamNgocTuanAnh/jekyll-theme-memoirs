@@ -43,6 +43,9 @@ Nội dung bài viết sẽ đề cập tới:
 
 #### 1\. Thiết kế và chất lượng:
 
+<div class="content" style="text-align:center; ">
+<a href="https://i.imgur.com/LEaf7t5"><img loading="lazy" src="https://i.imgur.com/LEaf7t5.jpeg" title="source: imgur.com" /></a></div>
+
 Thiết kế nhỏ gọn, chắc chắn và sang trọng, phù hợp với các dòng máy ảnh EOS M của Canon.
 Vỏ làm bằng kim loại, cho cảm giác chắc chắn và bền bỉ khi sử dụng.
 Kính ống kính sử dụng lớp phủ chống xước và chống phản quang tốt.
