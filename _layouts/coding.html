@@ -47,11 +47,31 @@
 </div>
 </div>
 </div>
+
+<div id="home-button">
+  <a href="/">Trang chủ</a>
+</div>
 </body>
 <style>
   iframe{margin:auto;display:block}.video-container{position:relative;padding-bottom:56.25%}.video-container iframe{position:absolute;top:0;left:0;width:100%;height:100%}.video{aspect-ratio:16/9;width:100%}
   </style>
+<style>
+  #home-button {
+  position: fixed; /* Cố định nút ở vị trí */
+  bottom: 20px; /* Khoảng cách từ dưới lên */
+  right: 20px; /* Khoảng cách từ bên phải sang */
+  z-index: 100; /* Đảm bảo nút hiển thị trên các phần tử khác */
+}
 
+#home-button a {
+  display: block; /* Hiển thị nút như một khối */
+  padding: 10px 15px; /* Khoảng trống bên trong nút */
+  background-color: #007bff; /* Màu nền nút */
+  color: #fff; /* Màu chữ nút */
+  text-decoration: none; /* Bỏ gạch chân cho liên kết */
+  border-radius: 5px; /* Bán kính bo tròn cho nút */
+}
+</style>
 <style>
   body {
   background: #e5ded8;
@@ -243,6 +263,27 @@
   fill: #ff4d4d;
 }
 </style>
+<script>
+  const homeButton = document.createElement('div');
+homeButton.id = 'home-button';
+homeButton.style.position = 'fixed';
+homeButton.style.bottom = '20px';
+homeButton.style.right = '20px';
+homeButton.style.zIndex = '100';
+
+const homeLink = document.createElement('a');
+homeLink.href = '/';
+homeLink.textContent = 'Trang chủ';
+homeLink.style.display = 'block';
+homeLink.style.padding = '10px 15px';
+homeLink.style.backgroundColor = '#007bff';
+homeLink.style.color = '#fff';
+homeLink.style.textDecoration = 'none';
+homeLink.style.borderRadius = '5px';
+
+homeButton.appendChild(homeLink);
+document.body.appendChild(homeButton);
+</script>
 </html>
 
 

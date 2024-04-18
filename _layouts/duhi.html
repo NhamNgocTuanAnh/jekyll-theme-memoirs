@@ -5,6 +5,11 @@
     <meta charset="utf-8">
     <title>Mình đi đâu 🛫
     </title>
+    <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style-image.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/loading.css">
+
 </head>
 
 <body>
@@ -74,67 +79,50 @@
       </div>
 
     </div>
+    <div class="site-content  firstpage ">
+      <div class="container">
+  <div class="main-content">
+    <hr><h2 style="color: #3a3a3a;" class="mb-4" >Du hí 🛫</h2>
 
-    {% assign nhiepanhs = site.categories['Du hí 🛫'] %}
-    {% for post in nhiepanhs %}
+    {% assign maxRelated = 3 %}
+    {% assign minCommonTags =  1 %}
+    {% assign maxRelatedCounter = 0 %}
+    <div class="blog-grid-container">
+    <div style="display: none">
+    <div class="blog-grid-item"></div>
+    <div class="blog-grid-item"></div>
+    <div class="blog-grid-item"></div></div>
+    {% assign duhis = site.categories['Du hí 🛫'] %}
+    {% for post in duhis %}
     {% assign position = forloop.index0 %}
     {% assign author = site.authors[post.author] %}
-    <div class="blog-container">
+      <div class="blog-grid-item">
+          <div class="card h-100">
+              <div class="maxthumb">
+                  <a  href="{{ site.baseurl }}{{ post.url }}">
+                      {% if post.image %}
 
-      <div class="blog-header">
-        <div class="blog-cover" style ="background: url('{{site.baseurl }}/{{ post.image }}');">
-          <div class="blog-author">
-            <h3>{{ author.display_name }}</h3>
+                          {% if site.lazyimages == "enabled" %}
+                          <img class="placeholder-image img-thumb lazyimg" src="../{{ post.image }}" alt="Placeholder">
+                          <img onload="handleImageLoad(this)" class="img-thumb actual-image lazyimg"
+                              src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII="
+                              data-src="../{{ post.image }}" alt="{{ post.title }}" loading="lazy">
+                          {% endif %}
+
+                      {% endif %}
+                  </a>
+              </div>
+              <div class="card-body">
+                  <h2 class="card-title">
+                      <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                  </h2>
+              </div>
           </div>
-        </div>
       </div>
-
-      <div class="blog-body">
-        <div class="blog-title">
-          <h1><a href="#">{{ post.title }}</a></h1>
-        </div>
-        <div class="blog-summary">
-          <p>{{ post.excerpt | strip_html | truncatewords:60 }}</p>
-        </div>
-        <div class="blog-tags">
-          <ul>
-          {% assign sortedCategories = post.categories | sort %}
-          {% for category in sortedCategories %}
-          <li>
-              {% if category == 'Nhiếp ảnh 📸' %}
-              <a class="smoothscroll badge badge-primary text-capitalize" href="{{site.baseurl}}/nhiep-anh#{{ category | replace: " ","-" }}">{{ category }}</a>
-              {% elsif category == 'Reviews 📝' %}
-              <a class="smoothscroll badge badge-primary text-capitalize" href="{{site.baseurl}}/reviews#{{ category | replace: " ","-" }}">{{ category }}</a>
-              {% elsif category == 'Coding 💻' %}
-              <a class="smoothscroll badge badge-primary text-capitalize" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
-              {% else %}
-              <a class="smoothscroll badge badge-primary text-capitalize" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
-              {% endif %}
-            </li>
-          {% endfor %}
-
-          {% assign sortedTags = post.tags | sort %}
-          {% for tag in sortedTags %}
-          <li>
-          <a href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">, {{ tag }}</a>
-        </li>
-        {% endfor %}
-          </ul>
-        </div>
-      </div>
-
-      <div class="blog-footer">
-        <ul>
-          <li class="published-date">2 days ago</li>
-          <li class="comments"><a href="#"><svg class="icon-bubble"><use xlink:href="#icon-bubble"></use></svg><span class="numero">4</span></a></li>
-          <li class="shares"><a href="#"><svg class="icon-star"><use xlink:href="#icon-star"></use></svg><span class="numero">1</span></a></li>
-        </ul>
-      </div>
-
+    {% endfor %}
     </div>
 
-    {% endfor %}
-
+  </div></div></div>
     <div class="blog-container">
 
       <div class="blog-header">
@@ -172,8 +160,47 @@
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
 
+    <div id="home-button">
+      <a href="/">Trang chủ</a>
+    </div>
+
+
 </body>
+<script>const homeButton = document.createElement('div');
+  homeButton.id = 'home-button';
+  homeButton.style.position = 'fixed';
+  homeButton.style.bottom = '20px';
+  homeButton.style.right = '20px';
+  homeButton.style.zIndex = '100';
+
+  const homeLink = document.createElement('a');
+  homeLink.href = '/';
+  homeLink.textContent = 'Trang chủ';
+  homeLink.style.display = 'block';
+  homeLink.style.padding = '10px 15px';
+  homeLink.style.backgroundColor = '#007bff';
+  homeLink.style.color = '#fff';
+  homeLink.style.textDecoration = 'none';
+  homeLink.style.borderRadius = '5px';
+
+  homeButton.appendChild(homeLink);
+  document.body.appendChild(homeButton);</script>
 <style>
+  #home-button {
+  position: fixed; /* Cố định nút ở vị trí */
+  bottom: 20px; /* Khoảng cách từ dưới lên */
+  right: 20px; /* Khoảng cách từ bên phải sang */
+  z-index: 100; /* Đảm bảo nút hiển thị trên các phần tử khác */
+}
+
+#home-button a {
+  display: block; /* Hiển thị nút như một khối */
+  padding: 10px 15px; /* Khoảng trống bên trong nút */
+  background-color: #007bff; /* Màu nền nút */
+  color: #fff; /* Màu chữ nút */
+  text-decoration: none; /* Bỏ gạch chân cho liên kết */
+  border-radius: 5px; /* Bán kính bo tròn cho nút */
+}
   iframe{margin:auto;display:block}.video-container{position:relative;padding-bottom:56.25%}.video-container iframe{position:absolute;top:0;left:0;width:100%;height:100%}.video{aspect-ratio:16/9;width:100%}
   </style>
 
