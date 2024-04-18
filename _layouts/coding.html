@@ -2,12 +2,26 @@
 <html lang="vi-VN">
 
 <head>
+  <meta name="robots" content="index, follow">
+  <meta name="p:domain_verify" content="0b924aa669f7e6b71d9196a1b2371d96"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  {% assign version =  page.date | date: "%-d" %}
+  <meta name="version" content="{{ 'now' | date: '%s' }}">
+  <meta charset="UTF-8">
+  {% if page.keywords %}
+      <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
+  {% endif %}
+  <script src="{{ site.baseurl }}/assets/js/snowflakes.js" async ></script>
+  <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.webp">
+  <title>{{ page.title }} | {{site.name}}</title>{% seo %}
   <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
   <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
+  <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/lazysizes.min.js" async></script>
+  <meta name="google-site-verification" content="d_QhcFO6jYixKuqHeimC-fB9HoL2oOxFPBBr1Dm-3nE" />
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style-image.css">
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/loading.css">
-    <meta charset="utf-8">
-    <title>Mình đi đâu 🛫
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/loading.css">
+    <title>Coding
     </title>
 </head>
 
