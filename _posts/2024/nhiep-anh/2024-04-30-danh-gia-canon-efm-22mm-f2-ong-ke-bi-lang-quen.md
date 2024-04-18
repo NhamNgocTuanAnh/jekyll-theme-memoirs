@@ -91,6 +91,7 @@ Khẩu độ f/2.0: Khẩu độ tối đa f/2.0 cho phép thu sáng tốt, phù
 * Canon EF-M 22mm f/2 STM vs Sigma 16mm f/1.4 DC DN Contemporary: Sigma 16mm f/1.4 có khẩu độ lớn hơn, cho phép thu sáng tốt hơn và tạo hiệu ứng bokeh đẹp hơn. Tuy nhiên, Sigma 16mm có kích thước lớn hơn và nặng hơn EF-M 22mm.
 * Canon EF-M 22mm f/2 STM vs Fujifilm XF 23mm f/2 R WR: Fujifilm XF 23mm có khả năng chống chịu thời tiết, trong khi EF-M 22mm không có. Tuy nhiên, XF 23mm có giá bán cao hơn.
 * Canon EF-M 22mm f/2 STM vs Olympus M.Zuiko 17mm f/1.8: Olympus 17mm có khẩu độ lớn hơn và kích thước nhỏ gọn hơn. Tuy nhiên, Olympus 17mm có giá bán cao hơn và hệ thống lấy nét không êm ái bằng EF-M 22mm.
+
 #### 6\. Kết luận:
 
 Canon EF-M 22mm STM là một ống kính pancake tuyệt vời cho các máy ảnh mirrorless Canon EOS M. Ống kính cung cấp chất lượng hình ảnh tốt, khẩu độ lớn và hệ thống lấy nét êm ái. Tuy nhiên, ống kính không có chống rung và khoảng cách lấy nét gần. So với các đối thủ, EF-M 22mm có giá bán hợp lý và kích thước nhỏ gọn.
