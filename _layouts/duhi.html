@@ -75,9 +75,7 @@
 
                           {% if site.lazyimages == "enabled" %}
                           <img class="placeholder-image img-thumb lazyimg" src="../{{ post.image }}" alt="Placeholder">
-                          <img onload="handleImageLoad(this)" class="img-thumb actual-image lazyimg"
-                              src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII="
-                              data-src="../{{ post.image }}" alt="{{ post.title }}" loading="lazy">
+
                           {% endif %}
 
                       {% endif %}
