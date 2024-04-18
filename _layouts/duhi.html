@@ -71,7 +71,7 @@
           <div class="card h-100">
               <div class="maxthumb">
                   <a  href="{{ site.baseurl }}{{ post.url }}">
-                      {% if post.image %}
+                    {% if post.image %}
 
                           {% if site.lazyimages == "enabled" %}
                           <img class="placeholder-image img-thumb lazyimg" src="../{{ post.image }}" alt="Placeholder">
@@ -84,10 +84,15 @@
                   </a>
               </div>
               <div class="card-body">
-                  <h2 class="card-title">
-                      <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-                  </h2>
-              </div>
+                <h2 class="card-title">
+                    <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+                    <div class="mb-2 mt-2">
+                        {% assign content = post.content %}
+                        <p style="font-size: 14px;">{% include reading-time.html content=content %}</p>
+                    </div>
+                </h2>
+                <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:70 }}</h4>
+            </div>
           </div>
       </div>
     {% endfor %}
