@@ -18,12 +18,12 @@
   <!-- ✅ Grid Section - Starts Here 👇 -->
   <section class="w-fit mx-auto grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 justify-items-center justify-center gap-y-20 gap-x-14 mt-10 mb-5">
 
-    {% assign nhiepanhs = site.categories['Nhiếp ảnh 📸'] %}
+    {% assign nhiepanhs = site.categories['Reviews 📝'] %}
     {% for post in nhiepanhs %}
     {% assign position = forloop.index0 %}
 
     <div class="w-72 bg-white shadow-md rounded-xl duration-500 hover:scale-105 hover:shadow-xl">
-        <a href="#">
+        <a href="{{ site.baseurl }}{{ post.url }}">
           <img src="../{{post.image}}" alt="Product" class="h-80 w-72 object-cover rounded-t-xl" />
           <div class="px-4 py-3 w-72">
             <span class="text-gray-400 mr-3 uppercase text-xs">Brand</span>
@@ -46,10 +46,6 @@
     {% endfor %}
 
   </section>
-
-  <!-- 🛑 Grid Section - Ends Here -->
-
-  <!-- credit -->
   <div class="text-center py-20 px-10">
     <h2 class="font-bold text-2xl md:text-4xl mb-4">Thanks to <a href="https://unsplash.com/@nixcreative" class="underline font-black">Tyler Nix</a> for those AMAZING product images!</h2>
   </div>
