@@ -11,8 +11,8 @@
 
 <!-- title -->
 <div class="text-center p-10">
-    <h1 class="font-bold text-4xl mb-4">Responsive Product card grid</h1>
-    <h1 class="text-3xl">Tailwind CSS</h1>
+    <h1 class="font-bold text-4xl mb-4">Một số sản phẩm mình đang dùng</h1>
+    <h1 class="text-3xl">Mình thích đồ công nghệ, smarthome, dev, data    </h1>
   </div>
 
   <!-- ✅ Grid Section - Starts Here 👇 -->
@@ -26,19 +26,9 @@
         <a href="{{ site.baseurl }}{{ post.url }}">
           <img src="../{{post.image}}" alt="Product" class="h-80 w-72 object-cover rounded-t-xl" />
           <div class="px-4 py-3 w-72">
-            <span class="text-gray-400 mr-3 uppercase text-xs">Brand</span>
+
             <p class="text-lg font-bold text-black truncate block capitalize"><a
                 href="{{ site.baseurl }}{{ post.url }}">"{{post.title}}"</a></p>
-            <div class="flex items-center">
-              <p class="text-lg font-semibold text-black cursor-auto my-3">$149</p>
-              <del>
-                <p class="text-sm text-gray-600 cursor-auto ml-2">$199</p>
-              </del>
-              <div class="ml-auto"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-bag-plus" viewBox="0 0 16 16">
-                  <path fill-rule="evenodd" d="M8 7.5a.5.5 0 0 1 .5.5v1.5H10a.5.5 0 0 1 0 1H8.5V12a.5.5 0 0 1-1 0v-1.5H6a.5.5 0 0 1 0-1h1.5V8a.5.5 0 0 1 .5-.5z" />
-                  <path d="M8 1a2.5 2.5 0 0 1 2.5 2.5V4h-5v-.5A2.5 2.5 0 0 1 8 1zm3.5 3v-.5a3.5 3.5 0 1 0-7 0V4H1v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V4h-3.5zM2 5h12v9a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V5z" />
-                </svg></div>
-            </div>
           </div>
         </a>
     </div>
@@ -47,49 +37,17 @@
 
   </section>
   <div class="text-center py-20 px-10">
-    <h2 class="font-bold text-2xl md:text-4xl mb-4">Thanks to <a href="https://unsplash.com/@nixcreative" class="underline font-black">Tyler Nix</a> for those AMAZING product images!</h2>
+    <h2 class="font-bold text-2xl md:text-4xl mb-4">anhhangxom.xyz</h2>
   </div>
   <div id="home-button">
     <a href="/">Trang chủ</a>
   </div>
 </body>
 <script>
-    const homeButton = document.createElement('div');
-homeButton.id = 'home-button';
-homeButton.style.position = 'fixed';
-homeButton.style.bottom = '20px';
-homeButton.style.right = '20px';
-homeButton.style.zIndex = '100';
-
-const homeLink = document.createElement('a');
-homeLink.href = '/';
-homeLink.textContent = 'Trang chủ';
-homeLink.style.display = 'block';
-homeLink.style.padding = '10px 15px';
-homeLink.style.backgroundColor = '#007bff';
-homeLink.style.color = '#fff';
-homeLink.style.textDecoration = 'none';
-homeLink.style.borderRadius = '5px';
-
-homeButton.appendChild(homeLink);
-document.body.appendChild(homeButton);
+const homeButton=document.createElement("div");homeButton.id="home-button",homeButton.style.position="fixed",homeButton.style.bottom="20px",homeButton.style.right="20px",homeButton.style.zIndex="100";const homeLink=document.createElement("a");homeLink.href="/",homeLink.textContent="Trang chủ",homeLink.style.display="block",homeLink.style.padding="10px 15px",homeLink.style.backgroundColor="#007bff",homeLink.style.color="#fff",homeLink.style.textDecoration="none",homeLink.style.borderRadius="5px",homeButton.appendChild(homeLink),document.body.appendChild(homeButton);
 </script>
 <style>
-    #home-button {
-  position: fixed; /* Cố định nút ở vị trí */
-  bottom: 20px; /* Khoảng cách từ dưới lên */
-  right: 20px; /* Khoảng cách từ bên phải sang */
-  z-index: 100; /* Đảm bảo nút hiển thị trên các phần tử khác */
-}
-
-#home-button a {
-  display: block; /* Hiển thị nút như một khối */
-  padding: 10px 15px; /* Khoảng trống bên trong nút */
-  background-color: #007bff; /* Màu nền nút */
-  color: #fff; /* Màu chữ nút */
-  text-decoration: none; /* Bỏ gạch chân cho liên kết */
-  border-radius: 5px; /* Bán kính bo tròn cho nút */
-}
+#home-button{position:fixed;bottom:20px;right:20px;z-index:100}#home-button a{display:block;padding:10px 15px;background-color:#007bff;color:#fff;text-decoration:none;border-radius:5px}
 </style>
 <script src="https://storage.ko-fi.com/cdn/scripts/overlay-widget.js"></script>
 <script src="https://cdn.tailwindcss.com"></script>
