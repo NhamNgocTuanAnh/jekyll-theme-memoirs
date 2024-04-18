@@ -261,14 +261,14 @@
         </li>
 
         <li class="nav__item">
-            <a href="{{ site.url }}/nhiep-anh" class="nav__link">
+            <a href="{{ site.url }}/coding" class="nav__link">
                 <i class="bx bx-book-alt nav__icon"></i>
-                <span class="nav__name">Ngẫm</span>
+                <span class="nav__name">Coding</span>
             </a>
         </li>
 
         <li class="nav__item">
-            <a href="#portfolio" class="nav__link">
+            <a href="{{ site.url }}/du-lich" class="nav__link">
                 <i class="bx bx-briefcase-alt nav__icon"></i>
                 <span class="nav__name">Du hí</span>
             </a>
@@ -289,7 +289,7 @@
     function hideDivOnSmallScreens() { var iPhone8Width = 375; var iPhone8Height = 667; var windowWidth = window.innerWidth; var windowHeight = window.innerHeight; if (windowWidth <= iPhone8Width || windowHeight <= iPhone8Height) { console.log("nhỏ quá"); return true; }else{ return false; } }
     function isSlowCPU(){let e=localStorage.getItem("interfaceState");if(!e||e&&"savemode"==e){var t=new Date().getTime();window.onload=function(){var e;document.querySelector(".featured-image").addEventListener("load",function(){var e=document.getElementById("ctn-preloader");e&&e.classList.contains("loaded")&&document.getElementById("ctn-preloader").queue(function(){this.remove()})});return new Date().getTime()-t>8e3}}};
 function isMobileDevice(){return/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)};const currentState = localStorage.getItem('interfaceState');
-    function isHomePage(){return"/"===window.location.pathname}if(isMobileDevice()&&isHomePage()){const b=localStorage.getItem("interfaceState");(isSlowCPU()||!b||b&&"savemode"==b)&&(localStorage.setItem("interfaceState","savemode"),window.location.href="{{ site.url }}{{ site.baseurl }}/index-mobile")}else isMobileDevice()||localStorage.setItem("interfaceState","nomalmode");
+    function isHomePage(){return"/"===window.location.pathname}if(isMobileDevice()&&isHomePage()){const b=localStorage.getItem("interfaceState");(isSlowCPU()||!b||b&&"savemode"==b)&&(localStorage.setItem("interfaceState","savemode")}else isMobileDevice()||localStorage.setItem("interfaceState","nomalmode");
     const interfaceState=localStorage.getItem("interfaceState");
     </script>
 <style>
