@@ -60,37 +60,8 @@
             </p>
             {% endif %}
     <div class="main-content"><div id="main-content-content">
-
-      <div id="searchBox" style="position: relative;
-      width: 100%;
-      text-align:middle; display:none"><div style="width:33%;
-        float:left;"><h2 id="h2-moi-nhat" style="color: #3a3a3a;" class="mb-4">Search</h2></div>
-      <div style="width:33%;
-        float:right;">
-      <div class="elfsight-app-b655e1e2-d0ab-4e47-8276-9fe6f14bf34a" data-elfsight-app-lazy></div></div>
-      <br><br>
-    </div>
-    <script>
-// Kiểm tra xem địa chỉ hiện tại có phải localhost hay không
-const isLocalhost = window.location.hostname === 'localhost';
-
-// Nếu địa chỉ hiện tại không phải localhost, hãy chạy mã Elfsight và hiển thị thẻ div có ID "searchBox"
-if (!isLocalhost) {
-  // Chèn mã Elfsight
-  const script = document.createElement('script');
-  script.src = 'https://static.elfsight.com/platform/platform.js';
-  script.defer = true;
-  document.body.appendChild(script);
-
-  // Hiển thị thẻ div có ID "searchBox"
-  const searchBox = document.getElementById('searchBox');
-  if (searchBox) {
-    searchBox.style.display = 'block';
-  }
-}
-    </script>
- {{ content }}</div>
-
+      <div id="searchBox" style="position: relative; width: 100%; text-align:middle; display:none"><div style="width:33%; float:left;"><h2 id="h2-moi-nhat" style="color: #3a3a3a;" class="mb-4">Search</h2></div><div style="width:33%; float:right;"><div class="elfsight-app-b655e1e2-d0ab-4e47-8276-9fe6f14bf34a" data-elfsight-app-lazy></div></div><br><br></div>
+    <script>const isLocalhost="localhost"===window.location.hostname;if(!isLocalhost){let t=document.createElement("script");t.src="https://static.elfsight.com/platform/platform.js",t.defer=!0,document.body.appendChild(t);let e=document.getElementById("searchBox");e&&(e.style.display="block")}</script>{{ content }}</div>
     <button id="chat-button" onclick="handleChatButtonClick()">Chat</button>
 <div id="snowCall"></div>
 <style>
