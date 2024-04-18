@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="vi-VN">
+
+<head>
+  <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
+  <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style-image.css">
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/loading.css">
+    <meta charset="utf-8">
+    <title>Mình đi đâu 🛫
+    </title>
+</head>
+
+<body>
+  <div class="site-content  firstpage ">
+    <div class="container">
+<div class="main-content">
+  <hr><h2 style="color: #3a3a3a;" class="mb-4" >Coding 💻</h2>
+  {% assign maxRelated = 4 %}
+  {% assign minCommonTags =  1 %}
+  {% assign maxRelatedCounter = 0 %}
+  {% assign codes = site.categories['Coding 💻'] %}
+  <section id="section-coding" ><style>.section-coding{padding: 20px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);}</style>
+      {% for post in codes%}
+      {% assign position = forloop.index0 %}
+        <div  id="show-coding"><style>.show-coding{margin-bottom:20px;border-bottom:1px solid #ccc;padding-bottom:20px}</style>
+          <div class="row " style="font-family: 'Roboto Mono', monospace; font-size: 1rem;">
+                <div class="card-block px-3">
+                  <h5 class="card-title">{{ post.excerpt | strip_html | truncatewords:60 }}</h5>
+                  <a href="{{ site.baseurl }}{{ post.url }}"><p class="card-text">(－ω－) Đọc thêm</p></a>
+  </div></div></div>
+        {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+        <br>
+      {% endfor %}
+    </div>
+    <section class="my-5" id="pricing"><div class="container pricing" style="font-family: 'Roboto Mono', monospace; font-size: 1rem;"><h4 class="py-3">📚 Ebooks NodeJS!– How to .., ..., and Deploy APIs</h4><ul><li>* Cuốn s&aacute;ch n&agrave;y l&agrave; một nguồn t&agrave;i nguy&ecirc;n to&agrave;n diện v&agrave; cập nhật về Node.js.(routing, middleware, b&acirc;́t đ&ocirc;̀ng b&ocirc;̣,...)</li><li>* Cuốn s&aacute;ch n&agrave;y được viết bằng ng&ocirc;n ngữ r&otilde; r&agrave;ng v&agrave; dễ hiểu, ngay cả đối với những người mới bắt đầu.</li><li>* C&aacute;c v&iacute; dụ v&agrave; minh họa trực quan trong cuốn s&aacute;ch gi&uacute;p người đọc hiểu c&aacute;c kh&aacute;i niệm phức tạp một c&aacute;ch dễ d&agrave;ng.</li><li>* Cuốn s&aacute;ch n&agrave;y được viết bởi c&aacute;c t&aacute;c giả c&oacute; kinh nghiệm v&agrave; kiến ​​thức s&acirc;u sắc về Node.js.</li><li>* Cuốn s&aacute;ch n&agrave;y cung cấp c&aacute;c th&ocirc;ng tin v&agrave; kiến ​​thức c&oacute; gi&aacute; trị cho bất kỳ ai muốn học Node.js.&nbsp;</li></ul><a href="https://mailchi.mp/a60e4e081706/nodejs-phong-cch-lp-trnh-hiu-qu
+      "><button class="btn btn-danger mb-3">👉Tải ngay</button></a></div></section></section>
+  <style>
+  .card { overflow:hidden;
+  } .card-text { color: #333;
+  } .pricing ul { list-style-type: none;
+  } .pricing {
+  /* border: 1px solid gray; */ box-shadow: 0 4px 12px rgba(0,0,0,.05), 0 2px 6px rgba(0,0,0,.15);
+  } @media (max-width:756px) { .col-md-4 { height:300px; overflow:hidden; padding-left:1rem; padding-right:1rem; }
+  }
+  </style>
+</div>
+</div>
+</div>
+</body>
+<style>
+  iframe{margin:auto;display:block}.video-container{position:relative;padding-bottom:56.25%}.video-container iframe{position:absolute;top:0;left:0;width:100%;height:100%}.video{aspect-ratio:16/9;width:100%}
+  </style>
+
+<style>
+  body {
+  background: #e5ded8;
+  box-sizing: border-box;
+}
+
+.blog-container {
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.2) 0 4px 2px -2px;
+  font-family: "adelle-sans", sans-serif;
+  font-weight: 100;
+  margin: 48px auto;
+  width: 20rem;
+}
+@media screen and (min-width: 480px) {
+  .blog-container {
+    width: 28rem;
+  }
+}
+@media screen and (min-width: 767px) {
+  .blog-container {
+    width: 40rem;
+  }
+}
+@media screen and (min-width: 959px) {
+  .blog-container {
+    width: 50rem;
+  }
+}
+
+.blog-container a {
+  color: #4d4dff;
+  text-decoration: none;
+  transition: 0.25s ease;
+}
+.blog-container a:hover {
+  border-color: #ff4d4d;
+  color: #ff4d4d;
+}
+
+.blog-cover {
+  background-size: cover;
+  border-radius: 5px 5px 0 0;
+  height: 25rem;
+  box-shadow: inset rgba(0, 0, 0, 0.2) 0 64px 64px 16px;
+}
+
+.blog-author,
+.blog-author--no-cover {
+  margin: 0 auto;
+  padding-top: 0.125rem;
+  width: 80%;
+}
+
+.blog-author h3::before,
+.blog-author--no-cover h3::before {
+  background: url('{{site.baseurl}}/{{ author.avatar }}');
+  background-size: cover;
+  border-radius: 50%;
+  content: " ";
+  display: inline-block;
+  height: 32px;
+  margin-right: 0.5rem;
+  position: relative;
+  top: 8px;
+  width: 32px;
+}
+
+.blog-author h3 {
+  color: #fff;
+  font-weight: 100;
+}
+
+.blog-author--no-cover h3 {
+  color: #999999;
+  font-weight: 100;
+}
+
+.blog-body {
+  margin: 0 auto;
+  width: 80%;
+}
+
+.video-body {
+  height: 100%;
+  width: 100%;
+}
+
+.blog-title h1 a {
+  color: #333;
+  font-weight: 100;
+}
+
+.blog-summary p {
+  color: #4d4d4d;
+}
+
+.blog-tags ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style: none;
+  padding-left: 0;
+}
+
+.blog-tags li + li {
+  margin-left: 0.5rem;
+}
+
+.blog-tags a {
+  border: 1px solid #999999;
+  border-radius: 3px;
+  color: #999999;
+  font-size: 0.75rem;
+  height: 1.5rem;
+  line-height: 1.5rem;
+  letter-spacing: 1px;
+  padding: 0 0.5rem;
+  text-align: center;
+  text-transform: uppercase;
+  white-space: nowrap;
+  width: 5rem;
+}
+
+.blog-footer {
+  border-top: 1px solid #e6e6e6;
+  margin: 0 auto;
+  padding-bottom: 0.125rem;
+  width: 80%;
+}
+
+.blog-footer ul {
+  list-style: none;
+  display: flex;
+  flex: row wrap;
+  justify-content: flex-end;
+  padding-left: 0;
+}
+
+.blog-footer li:first-child {
+  margin-right: auto;
+}
+
+.blog-footer li + li {
+  margin-left: 0.5rem;
+}
+
+.blog-footer li {
+  color: #999999;
+  font-size: 0.75rem;
+  height: 1.5rem;
+  letter-spacing: 1px;
+  line-height: 1.5rem;
+  text-align: center;
+  text-transform: uppercase;
+  position: relative;
+  white-space: nowrap;
+}
+.blog-footer li a {
+  color: #999999;
+}
+
+.comments {
+  margin-right: 1rem;
+}
+
+.published-date {
+  border: 1px solid #999999;
+  border-radius: 3px;
+  padding: 0 0.5rem;
+}
+
+.numero {
+  position: relative;
+  top: -0.5rem;
+}
+
+.icon-star,
+.icon-bubble {
+  fill: #999999;
+  height: 24px;
+  margin-right: 0.5rem;
+  transition: 0.25s ease;
+  width: 24px;
+}
+.icon-star:hover,
+.icon-bubble:hover {
+  fill: #ff4d4d;
+}
+</style>
+</html>
+
+
