@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kế hoạch tạo video chỉnh màu ảnh và tạo dáng cho nữ trên kênh TikTok trong 10 ngày đầu:'
+title: 'Kế hoạch tạo video chỉnh màu ảnh và tạo dáng cho nữ trên kênh TikTok trong 10 ngày đầu!!'
 author: sal
 categories: [ Coding 💻 ]
 tags: [ tips,tool ]
