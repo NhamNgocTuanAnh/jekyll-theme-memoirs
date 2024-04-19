@@ -7,7 +7,7 @@ tags: [ tips,tool ]
 image: assets/images/2023/lap-trinh/avts/javascript-come-back-avt.webp
 lazyimages: "enabled"
 isGithubComments: false
-excerpt: Cộng đồng Tasker VN có vẻ hơi yếu. Mình đã rất chật vật khi tìm hiểu về ứng dụng này. và nay mình viết những hiểu biết của mình về nó.
+excerpt: Bài viết cho những người tay ngang như mình.
 adsense: "enabled"
 keywords:
   - Tasker
