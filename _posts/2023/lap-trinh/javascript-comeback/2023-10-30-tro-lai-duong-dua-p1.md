@@ -16,8 +16,8 @@ keywords:
   - Tasker là gì?
   - Android Automation
   - Shortcuts android
-date: 2023-10-30 10:01:10 +0700
-permalink: lap-trinh/tro-lai-duong-dua-p1-nhin-lai-thi-truong
+date: 2024-05-01 10:01:10 +0700
+permalink: coding/tro-lai-duong-dua-p1-nhin-lai-thi-truong
 ---
 
 > Bài viết đang trong quá trình phát triển, vui lòng quay lại sau!!!😅
@@ -100,3 +100,145 @@ Mục đích của câu hỏi này để đánh giá về năng lực và nhữn
 *   Tối ưu hoá code trước khi hoàn thành những đoạn code khác
 *   Ko nắm rõ những gì mình đang sử dụng: text editors, command line v.vv..
 *   Tối ưu hóa code hay là code dễ đọc. Bỏ ý định tối ưu hóa đi
+
+### Chỉnh sửa kế hoạch "Think Big, Start Small, Learn Fast" để hoàn thành trong 1 tháng
+
+### **Think Big:** Mục tiêu lớn là:
+
+*   Tìm việc lập trình trở lại trong vòng 1 tháng.
+*   Nâng cao trình độ tiếng Anh để giao tiếp và học hỏi hiệu quả.
+*   Xây dựng kênh TikTok thu hút lượng người theo dõi nhất định.
+
+### **Start Small:** Bắt đầu từ những bước nhỏ:
+
+*   **Tuần 1:**
+    *   **Lập trình:** Ôn tập kiến thức lập trình cơ bản, tìm hiểu các công nghệ mới. Dành 4-5 tiếng mỗi ngày để luyện tập.
+    *   **Tiếng Anh:** Bắt đầu với các bài học tiếng Anh cơ bản, tập trung vào kỹ năng nghe và nói. Dành 2-3 tiếng mỗi ngày để học.
+    *   **TikTok:** Nghiên cứu các kênh TikTok thành công trong lĩnh vực nhiếp ảnh, tìm hiểu về thuật toán và cách tạo nội dung thu hút. Dành 1-2 tiếng mỗi ngày để nghiên cứu và lên kế hoạch.
+*   **Tuần 2:**
+    *   **Lập trình:** Tham gia các cộng đồng lập trình, tìm kiếm việc làm phù hợp với kỹ năng và kinh nghiệm. Dành 4-5 tiếng mỗi ngày để tìm việc và ôn luyện.
+    *   **Tiếng Anh:** Tham gia các khóa học tiếng Anh trực tuyến hoặc offline, luyện tập giao tiếp với người bản ngữ. Dành 2-3 tiếng mỗi ngày để học.
+    *   **TikTok:** Bắt đầu tạo nội dung cho kênh TikTok, tập trung vào chất lượng hình ảnh và nội dung hấp dẫn. Dành 2-3 tiếng mỗi ngày để sáng tạo nội dung.
+*   **Tuần 3:**
+    *   **Lập trình:** Tham gia các buổi phỏng vấn, thể hiện kỹ năng và kinh nghiệm. Dành 4-5 tiếng mỗi ngày để ôn luyện và chuẩn bị cho phỏng vấn.
+    *   **Tiếng Anh:** Tham gia các hoạt động giao tiếp tiếng Anh, luyện tập kỹ năng nghe nói. Dành 2-3 tiếng mỗi ngày để học.
+    *   **TikTok:** Đăng tải video lên kênh TikTok, tương tác với người xem và phân tích hiệu quả nội dung. Dành 2-3 tiếng mỗi ngày để quản lý kênh.
+*   **Tuần 4:**
+    *   **Lập trình:** Nhận việc lập trình phù hợp, bắt đầu làm việc và tiếp tục học hỏi nâng cao kỹ năng. Dành 8 tiếng mỗi ngày cho công việc.
+    *   **Tiếng Anh:** Tiếp tục học tiếng Anh để nâng cao trình độ, giao tiếp hiệu quả trong công việc. Dành 1-2 tiếng mỗi ngày để học.
+    *   **TikTok:** Duy trì đăng tải video, tối ưu nội dung và phát triển kênh. Dành 1-2 tiếng mỗi ngày để quản lý kênh.
+
+| **Thời gian** | **Hoạt động** |
+| --- | --- |
+| **Tuần 1** |   |
+| Ngày 1: | **Tìm việc lập trình**: Tìm hiểu thị trường việc làm, cập nhật hồ sơ LinkedIn. |
+| Ngày 2-5: | **Học tiếng Anh**: Học từ vựng mới, luyện ngữ pháp, và thực hành giao tiếp. |
+| Ngày 6-7: | **Tạo video TikTok**: Chọn một chủ đề, quay video, và chỉnh sửa. |
+| **Tuần 2** |   |
+| Ngày 8-10: | **Tìm việc lập trình**: Liên hệ với các công ty hoặc tham gia cộng đồng lập trình. |
+| Ngày 11-14: | **Học tiếng Anh**: Tham gia lớp học trực tuyến hoặc xem video học. |
+| Ngày 15-18: | **Tạo nội dung TikTok**: Tìm hiểu về xu hướng, tạo video mới. |
+| **Tuần 3** |   |
+| Ngày 19-21: | **Học tiếng Anh**: Thực hành giao tiếp tiếng Anh qua các cuộc trò chuyện hoặc video học. |
+| Ngày 22-25: | **Tạo video TikTok**: Tạo nội dung mới cho kênh. |
+| Ngày 26-28: | **Tìm việc lập trình**: Tiếp tục tìm hiểu vị trí việc làm, chuẩn bị cho phỏng vấn. |
+| **Tuần 4** |   |
+| Ngày 29-30: | **Tổng kết và điều chỉnh**: Xem lại kế hoạch, đánh giá tiến độ, và điều chỉnh nếu cần thiết. |
+
+### **Learn Fast:** Tập trung học hỏi, cải thiện liên tục:
+
+*   Luôn cập nhật kiến thức mới về lập trình, tiếng Anh và TikTok.
+*   Tham gia các khóa học, hội thảo để nâng cao kỹ năng.
+*   Tìm kiếm mentor hoặc cộng đồng để học hỏi kinh nghiệm.
+*   Phân tích kết quả và điều chỉnh kế hoạch để đạt hiệu quả tối ưu.
+
+### Triển khai từng đầu mục 
+
+Để hoàn thành kế hoạch "Think Big, Start Small, Learn Fast" trong vòng 1 tháng, bạn cần tập trung vào những mục tiêu ngắn hạn và hành động cụ thể. Dưới đây là một số điều chỉnh cho từng mục tiêu:
+
+#### **Tìm kiếm việc làm:**
+
+*   **Mục tiêu ngắn hạn:** Tìm kiếm và ứng tuyển ít nhất 10 vị trí lập trình phù hợp mỗi tuần.
+*   **Hành động:**
+    *   Cập nhật hồ sơ LinkedIn và các trang web tuyển dụng.
+    *   Tham gia các hội nhóm lập trình trên mạng xã hội.
+    *   Gửi email ứng tuyển trực tiếp đến các công ty quan tâm.
+    *   Tham gia các buổi phỏng vấn xin việc.
+    *   Tận dụng các mối quan hệ cá nhân để giới thiệu bản thân với các nhà tuyển dụng tiềm năng.
+*   **Lưu ý:**
+    *   Tập trung vào các vị trí phù hợp với kỹ năng và kinh nghiệm của bạn.
+    *   Chuẩn bị kỹ lưỡng cho các buổi phỏng vấn xin việc.
+    *   Thể hiện sự nhiệt tình và mong muốn học hỏi trong các buổi phỏng vấn.
+
+##### **Tìm hiểu thị trường việc làm:**
+
+##### **1\. Thu thập thông tin:**
+
+*   **Website tìm việc:** Tham khảo các website uy tín như VietnamWorks, TopCV, JobStreet, Indeed, LinkedIn,... để cập nhật thông tin về các vị trí tuyển dụng, mức lương, kỹ năng cần thiết,...
+*   **Báo cáo thị trường:** Đọc các báo cáo thị trường việc làm của các tổ chức uy tín như Nielsen, Vietnam Report, TopCV,... để nắm bắt xu hướng chung của thị trường, ngành nghề hot, kỹ năng cần thiết,...
+*   **Mạng xã hội:** Tham gia các nhóm, hội nhóm nghề nghiệp trên Facebook, LinkedIn để trao đổi thông tin, học hỏi kinh nghiệm và cập nhật thông tin tuyển dụng.
+*   **Sự kiện:** Tham gia các hội thảo, tọa đàm về thị trường việc làm để gặp gỡ chuyên gia, nhà tuyển dụng và cập nhật thông tin mới nhất.
+
+##### **2\. Phân tích thông tin:**
+
+*   **Phân tích nhu cầu tuyển dụng:** Xác định các ngành nghề, vị trí công việc có nhu cầu tuyển dụng cao, kỹ năng cần thiết cho từng vị trí.
+*   **Phân tích mức lương:** So sánh mức lương của các vị trí công việc khác nhau, mức lương trung bình của ngành nghề, khu vực,...
+*   **Phân tích xu hướng:** Xác định xu hướng phát triển của thị trường việc làm, ngành nghề hot, kỹ năng cần thiết trong tương lai,...
+
+#### **Xếp hạng các công ty:**
+
+##### **Tiêu chí xếp hạng:**
+
+*   **Mức lương và phúc lợi:** Mức lương cơ bản, thưởng, phụ cấp, bảo hiểm, các chế độ đãi ngộ khác,...
+*   **Cơ hội phát triển:** Cơ hội thăng tiến, học hỏi, phát triển kỹ năng, tham gia các dự án,...
+*   **Môi trường làm việc:** Văn hóa công ty, môi trường làm việc năng động, sáng tạo, cởi mở, tôn trọng nhân viên,...
+*   **Thương hiệu và uy tín:** Uy tín của công ty trên thị trường, thương hiệu được công nhận, đánh giá cao bởi khách hàng và đối tác,...
+*   **Sự ổn định:** Tình hình tài chính của công ty, khả năng phát triển bền vững, ít biến động,...
+
+##### **Ví dụ cụ thể:**
+
+*   **Top 10 công ty công nghệ được đánh giá tốt nhất tại Việt Nam:** FPT Software, VNG, Viettel, CMC, TMA Solutions, MISA, VNPT Technology, VinCSS, PVS, Base.vn.
+*   **Top 10 công ty tài chính được đánh giá tốt nhất tại Việt Nam:** Vietcombank, BIDV, Techcombank, VPBank, ACB, MB, Sacombank, VietinBank, HDBank, OCB.
+*   **Top 10 công ty FMCG được đánh giá tốt nhất tại Việt Nam:** Unilever, P&G, Nestle, Vinamilk, Coca-Cola, PepsiCo, Masan, Acecook Vietnam, TH True Milk, Mondelez Kinh Do.
+
+#### **Học tiếng Anh:**
+
+*   **Mục tiêu ngắn hạn:** Nâng cao vốn từ vựng và ngữ pháp tiếng Anh cơ bản.
+*   **Hành động:**
+    *   Học tiếng Anh ít nhất 2 tiếng mỗi ngày.
+    *   Sử dụng các ứng dụng học tiếng Anh như Duolingo, Memrise, Hello English,...
+    *   Xem phim và nghe nhạc tiếng Anh có phụ đề tiếng Việt.
+    *   Tham gia các câu lạc bộ tiếng Anh hoặc khóa học tiếng Anh online.
+    *   Luyện tập giao tiếp tiếng Anh với người bản ngữ online hoặc trực tiếp.
+*   **Lưu ý:**
+    *   Tập trung vào những chủ đề tiếng Anh liên quan đến công việc và mục tiêu của bạn.
+    *   Sử dụng nhiều phương pháp học tập khác nhau để tránh nhàm chán.
+    *   Luyện tập giao tiếp tiếng Anh thường xuyên để cải thiện khả năng nghe, nói và phản xạ.
+
+#### **Kênh TikTok:**
+
+*   **Mục tiêu ngắn hạn:** Thu hút 1000 người theo dõi cho kênh TikTok của bạn.
+*   **Hành động:**
+    *   Quay và đăng tải ít nhất 5 video TikTok chất lượng mỗi tuần.
+    *   Phân tích hiệu quả của các video TikTok đã đăng tải và điều chỉnh nội dung cho phù hợp với người xem.
+    *   Tương tác với người xem bằng cách trả lời bình luận và tin nhắn.
+    *   Tham gia các trào lưu TikTok.
+    *   Hợp tác với các TikToker khác để tăng lượng người theo dõi.
+    *   Chạy quảng cáo cho kênh TikTok của bạn (nếu có ngân sách).
+*   **Lưu ý:**
+    *   Tạo nội dung độc đáo và thu hút người xem.
+    *   Đăng tải video TikTok thường xuyên và đúng giờ.
+    *   Tương tác với người xem một cách tích cực và chân thành.
+    *   Sử dụng các hashtag phù hợp để tăng khả năng hiển thị của video TikTok.
+
+#### **Lưu ý chung:**
+
+*   Chia nhỏ mục tiêu lớn thành những mục tiêu nhỏ hơn và dễ quản lý hơn.
+*   Lập kế hoạch cụ thể cho từng ngày và theo dõi tiến độ của bạn.
+*   Sử dụng các công cụ và ứng dụng để hỗ trợ bạn học tập và làm việc.
+*   Tìm kiếm sự giúp đỡ từ bạn bè, gia đình hoặc mentor nếu bạn cần.
+*   Giữ cho bản thân luôn có động lực và lạc quan.
+
+Hoàn thành kế hoạch "Think Big, Start Small, Learn Fast" trong 1 tháng là một thử thách, nhưng hoàn toàn có thể đạt được nếu bạn nỗ lực và kiên trì. Hãy nhớ rằng, điều quan trọng nhất là bạn phải hành động và học hỏi không ngừng.
+
+Chúc bạn thành công!
