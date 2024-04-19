@@ -90,7 +90,7 @@
 </style>
 <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
-<style>.scrollToTop{display:none}</style>
+<style>.scrollToTop{display:none}img{-webkit-user-drag:none;user-drag:none;-webkit-touch-callout:none}</style>
 <script>function preLoader(){var e=function(){$("#ctn-preloader").addClass("loaded"),$("#ctn-preloader").hasClass("loaded")&&$("#preloader").queue(function(){$(this).remove()})};$(window).on("load",e),setTimeout(e,1e3)}preLoader();function handleImageLoad(e){e.classList.add("loaded");}</script>
 <script src="{{ site.baseurl }}/assets/js/snowflakes.js" async ></script>
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/loading.css">
@@ -101,12 +101,11 @@ function isMobileDevice(){return/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMob
     function isHomePage(){return"/"===window.location.pathname}if(isMobileDevice()&&isHomePage()){const b=localStorage.getItem("interfaceState");(isSlowCPU()||!b||b&&"savemode"==b)&&(localStorage.setItem("interfaceState","savemode")}else isMobileDevice()||localStorage.setItem("interfaceState","nomalmode");
     const interfaceState=localStorage.getItem("interfaceState");
     </script>
-
     <script>
             function isTetDate(){let t=new Date,e=new Intl.DateTimeFormat("vi-u-ca-lunar").format(t);return/(1|2|3|4)\/(1|13)$/.test(e)}
 function myFunctionOpenTopNav(){var a=document.getElementById("myTopnav");"topnav"===a.className?a.className+=" responsive":a.className="topnav"}hideDivOnSmallScreens()&&isRelative&&isMobileDevice()&&(document.querySelector(".topnav").style.display="block");
         </script>
-        <style>img{-webkit-user-drag:none;user-drag:none;-webkit-touch-callout:none}</style>
+
 <script>
     isMobileDevice()&&document.getElementById("url-album").setAttribute("href","https://www.instagram.com/anhhangxom.daily/");
     </script><!-- Yandex.Metrika counter -->
