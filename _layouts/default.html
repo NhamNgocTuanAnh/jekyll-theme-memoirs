@@ -76,6 +76,8 @@
 
     </body>
 </html>
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/toastr.min.css">
+<script src="{{ site.baseurl }}/assets/js/toastr.min.js"></script>
 <style>
   .snowCall{display:none}.section{padding:4.5rem 0 2rem}.section__title{text-align:center;margin-bottom:1.5rem}.section__height{height:100vh}.container{max-width:968px;margin-left:1rem;margin-right:1rem}.nav{height:3rem;display:flex;justify-content:space-between;align-items:center;background-color:hsl(var(--hue),100%,99%)}.nav__img{width:32px;border-radius:50%}.nav__logo{color:hsl(var(--hue),12%,15%);font-weight:600}@media screen and (max-width:767px){.nav__menu{position:fixed;bottom:0;left:0;background-color:#fff;box-shadow:0 -1px 12px hsla(var(--hue),var(--sat),15%,.15);width:100%;height:4rem;padding:0 1rem;display:grid;align-content:center;border-radius:1.25rem 1.25rem 0 0;transition:.4s}}.nav__link,.nav__list{display:flex}.nav__link{flex-direction:column;align-items:center;row-gap:4px;font-weight:600}.nav__list{justify-content:space-around}.nav__name{font-size:.625rem}.nav__icon{font-size:1.5rem}.active-link{position:relative;color:var(--first-color);transition:.3s}.scroll-header{box-shadow:0 1px 12px hsla(var(--hue),var(--sat),15%,.15)}@media screen and (max-width:320px){.nav__name{display:none}}@media screen and (min-width:576px){.nav__list{justify-content:center;column-gap:3rem}}@media screen and (min-width:767px){.section{padding:7rem 0 2rem}.nav{height:calc(var(3rem) + 1.5rem)}.nav__icon,.nav__img{display:none}.nav__name{font-size:.938rem}.nav__link:hover{color:hsl(var(--hue),var(--sat),40%)}.active-link::before{content:'';position:absolute;bottom:-.75rem;width:4px;height:4px;background-color:hsl(var(--hue),var(--sat),40%);border-radius:50%}}@media screen and (min-width:1024px){.container{margin-left:auto;margin-right:auto}}</style>
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
@@ -104,9 +106,6 @@ function isMobileDevice(){return/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMob
     <script>
             function isTetDate(){let t=new Date,e=new Intl.DateTimeFormat("vi-u-ca-lunar").format(t);return/(1|2|3|4)\/(1|13)$/.test(e)}
 function myFunctionOpenTopNav(){var a=document.getElementById("myTopnav");"topnav"===a.className?a.className+=" responsive":a.className="topnav"}hideDivOnSmallScreens()&&isRelative&&isMobileDevice()&&(document.querySelector(".topnav").style.display="block");
-        </script>
-
-<script>
     isMobileDevice()&&document.getElementById("url-album").setAttribute("href","https://www.instagram.com/anhhangxom.daily/");
     </script><!-- Yandex.Metrika counter -->
     <script type="text/javascript" >
@@ -127,9 +126,7 @@ function myFunctionOpenTopNav(){var a=document.getElementById("myTopnav");"topna
 <script>
 var sidebar=document.createElement("div");sidebar.className="sidebar";var navIcon=document.createElement("div");navIcon.className="nav-icon";var hamburgerBar=document.createElement("div");hamburgerBar.className="hamburger-bar",navIcon.appendChild(hamburgerBar);var blackoverNav=document.createElement("div");blackoverNav.id="blackover-nav",blackoverNav.className="blackover";var menu=document.createElement("nav");menu.id="menu";var ul=document.createElement("ul"),h3=document.createElement("h3");h3.textContent="Mục lục";for(var menuItems=[{text:"Trang chủ",iconClass:"fa fa-home",link:"{{ site.baseurl }}/"},{text:"T\xecm kiếm",iconClass:"fa fa-search-plus",link:"{{ site.baseurl }}/categories"},{text:"My ảnh",iconClass:"fa fa-camera-retro",link:"https://www.instagram.com/anhhangxom.daily/"},{text:"Viết b\xe0i",iconClass:"fa fa-bullhorn",link:"{{ site.baseurl }}/them-bai-viet"},{text:"About me",iconClass:"fa fa-address-book",link:"{{ site.baseurl }}/about-me"}],i=0;i<menuItems.length;i++){var e=document.createElement("li"),a=document.createElement("a"),r=document.createElement("i");r.id="icon-dark",r.className=menuItems[i].iconClass,a.href=menuItems[i].link,a.appendChild(r),a.innerHTML+="<span>|| "+menuItems[i].text+"</span>",e.appendChild(a),ul.appendChild(e)}menu.appendChild(h3),menu.appendChild(ul);var idsidebarcreater=document.getElementById("sidebarcreater");idsidebarcreater&&(idsidebarcreater.appendChild(sidebar),idsidebarcreater.appendChild(navIcon),idsidebarcreater.appendChild(blackoverNav),idsidebarcreater.appendChild(menu));
     </script>
-<style>.actual-image,.placeholder-image{width:100%;height:100%;object-fit:cover}.placeholder-image{filter:blur(20px)}.actual-image{position:absolute;top:0;left:0;opacity:0;transition:opacity .3s}.actual-image.loaded{opacity:1}</style>
-  <style>
-  #progress-container{position:fixed;bottom:0;left:0;width:100%;height:5px;background-color:#ddd;z-index:999}.progress-bar{height:100%;width:0;background-color:#007bff;transition:width .3s}
+<style>.actual-image,.placeholder-image{width:100%;height:100%;object-fit:cover}.placeholder-image{filter:blur(20px)}.actual-image{position:absolute;top:0;left:0;opacity:0;transition:opacity .3s}.actual-image.loaded{opacity:1}#progress-container{position:fixed;bottom:0;left:0;width:100%;height:5px;background-color:#ddd;z-index:999}.progress-bar{height:100%;width:0;background-color:#007bff;transition:width .3s}
   </style>
   <script>
   const pageProgressBar=document.querySelector(".progress-bar"),scrollContainer=()=>document.documentElement||document.body;document.addEventListener("scroll",()=>{let e=scrollContainer().scrollTop/(scrollContainer().scrollHeight-scrollContainer().clientHeight)*100;pageProgressBar.style.width=`${e}%`});
