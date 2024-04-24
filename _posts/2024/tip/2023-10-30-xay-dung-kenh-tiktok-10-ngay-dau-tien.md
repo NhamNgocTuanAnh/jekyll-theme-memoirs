@@ -16,7 +16,7 @@ keywords:
   - Tasker là gì?
   - Android Automation
   - Shortcuts android
-date: 2024-05-05 10:01:10 +0700
+date: 2023-05-05 10:01:10 +0700
 permalink: coding/xay-dung-kenh-tiktok-10-ngay-dau-tien
 ---
 

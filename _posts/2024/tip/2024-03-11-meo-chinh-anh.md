@@ -18,7 +18,7 @@ keywords:
   - mipad 1
   - xiaomi mipad1
   - cấu hình mipad 1
-date: 2024-03-19 10:01:10 +0700
+date: 2023-03-19 10:01:10 +0700
 permalink: nhiep-anh/quy-trinh-chinh-anh-chuyen-nghiep
 ---
 
