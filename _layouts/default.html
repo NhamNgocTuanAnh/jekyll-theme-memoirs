@@ -2,6 +2,9 @@
 <html lang="vi">
 
 <head>
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style-image.css">
+  <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
+<link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
     <meta name="robots" content="index, follow">
     <meta name="p:domain_verify" content="0b924aa669f7e6b71d9196a1b2371d96"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -13,9 +16,10 @@
     {% endif %}
     <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.webp">
     <title>{{ page.title }} | {{site.name}}</title>{% seo %}
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style-image.css">
     <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
     <script src="{{ site.baseurl }}/assets/js/lazysizes.min.js" async></script>
+    <script src="{{ site.baseurl }}/assets/js/prism.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/theme.js"></script>
     <meta name="google-site-verification" content="d_QhcFO6jYixKuqHeimC-fB9HoL2oOxFPBBr1Dm-3nE" />
 
 </head>
@@ -57,8 +61,6 @@
 <div id="snowCall"></div>
     <footer class="footer"><div class="container"><div class="row"><div class="col-md-6 col-sm-12 text-center text-lg-left">Copyright © {{ site.time | date: "%Y" }} {{ site.name }} </div><div class="col-md-6 col-sm-12 text-center text-lg-right"><a target="_blank" href="https://www.facebook.com/nntatlu/">Anh Hàng Xóm</a></div></div></div><div class="fb-customerchat" attribution=setup_tool page_id="113478371644013"></div></footer>
 </div>
-    <script src="{{ site.baseurl }}/assets/js/prism.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/theme.js"></script>
 
     {% if site.lazyimages == "enabled" %}
     <script src="{{ site.baseurl }}/assets/js/lazyload.js"></script>
@@ -90,8 +92,7 @@
   <style>
 #chat-button{position:fixed;bottom:20px;right:20px;background-color:#007bff;color:#fff;border:none;padding:10px 20px;border-radius:5px;cursor:pointer;box-shadow:0 2px 4px rgba(0,0,0,.2)}@media (max-width:767px){#chat-button{padding:8px 16px;font-size:14px;bottom:10px;right:10px}}@media (min-width:768px) and (max-width:991px){#chat-button{padding:10px 18px;font-size:16px;bottom:15px;right:15px}}@media (min-width:992px){#chat-button{padding:12px 22px;font-size:18px;bottom:20px;right:20px}}
 </style>
-<link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
-<link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
+
 <style>.scrollToTop{display:none}img{-webkit-user-drag:none;user-drag:none;-webkit-touch-callout:none}</style>
 <script>function preLoader(){var e=function(){$("#ctn-preloader").addClass("loaded"),$("#ctn-preloader").hasClass("loaded")&&$("#preloader").queue(function(){$(this).remove()})};$(window).on("load",e),setTimeout(e,1e3)}preLoader();function handleImageLoad(e){e.classList.add("loaded");}</script>
 <script src="{{ site.baseurl }}/assets/js/snowflakes.js" async ></script>
