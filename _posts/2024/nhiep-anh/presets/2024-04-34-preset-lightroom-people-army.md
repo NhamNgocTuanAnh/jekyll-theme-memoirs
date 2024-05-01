@@ -105,7 +105,7 @@ Khi sử dụng preset chụp ảnh, bạn cần lưu ý một số điều sau:
 
 **Kết luận**
 
-<div class="content" style="text-align:center; "><a href="https://i.imgur.com/WKcs6a3"><img loading="lazy" src="https://i.imgur.com/WKcs6a3.jpeg" title="source: imgur.com" /></a></div>
+<div class="content" style="text-align:center; "><a href="https://i.imgur.com/WKcs6a3"><img loading="lazy" src="https://i.imgur.com/HtS3kUx.png" title="source: imgur.com" /></a></div>
 
 Preset Lightroom  sẽ giúp bạn tạo ra những bức ảnh  đẹp và chuyên nghiệp.
 
