@@ -128,6 +128,6 @@ function toggleImage() {document.getElementById("resultIm").style.display = "blo
 }
 </script>
 
-(HOặc bạn có thể vào đây!!!)
+(Hoặc bạn có thể vào đây!!!)
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.tiktok.com/@anhhangxom.foto/photo/7366907505240329492" data-iframely-url="//iframely.net/AaPt5UC?card=small"></a></div></div><script async src="//iframely.net/embed.js"></script>
