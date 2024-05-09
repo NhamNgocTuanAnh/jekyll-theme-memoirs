@@ -113,8 +113,6 @@ Khi sử dụng preset chụp ảnh, bạn cần lưu ý một số điều sau:
 
 **Kết luận**
 
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.tiktok.com/@anhhangxom.foto/photo/7366907505240329492" data-iframely-url="//iframely.net/AaPt5UC?card=small"></a></div></div><script async src="//iframely.net/embed.js"></script>
-
 Preset Lightroom  sẽ giúp bạn tạo ra những bức ảnh  đẹp và chuyên nghiệp.
 
 <style>
@@ -130,3 +128,6 @@ function toggleImage() {document.getElementById("resultIm").style.display = "blo
 }
 </script>
 
+(HOặc bạn có thể vào đây!!!)
+
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.tiktok.com/@anhhangxom.foto/photo/7366907505240329492" data-iframely-url="//iframely.net/AaPt5UC?card=small"></a></div></div><script async src="//iframely.net/embed.js"></script>
