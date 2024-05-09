@@ -79,6 +79,9 @@ Hôm nọ mình có bon chen hồ Hoàng Cầu cũng như công viên thống nh
 
 Preset sẽ được áp dụng cho ảnh của bạn. Bạn có thể điều chỉnh các cài đặt theo ý muốn để phù hợp với bức ảnh của mình.
 
+<div id="fb-root"></div>
+<script async="1" defer="1" crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v19.0" nonce="VZh8LSaW"></script><div class="fb-post" data-href="https://www.facebook.com/xomnghienngap/posts/pfbid0ZPfAgZvCoWG9zc1NSykT8FL87Jmu6wSuGntCi9T4bRhSegpn6b2xFczFQwqwT5hbl" data-width="640"><blockquote cite="https://graph.facebook.com/100089837076459/posts/399116723092894/" class="fb-xfbml-parse-ignore"><p>📸Nếu như bạn đã quá mệt mỏi 🫡bon chen ở Hồ Hoàng Cầu hay ở Công viên Thống Nhất như mình ngày hôm nay thì có thể qua Hồ...</p>Posted by <a href="https://www.facebook.com/xomnghienngap">Xóm Nghiện Ngập</a> on <a href="https://graph.facebook.com/100089837076459/posts/399116723092894/">Wednesday, May 8, 2024</a></blockquote></div>
+
 **Một số ảnh Lightroom đẹp**
 
 <div class="content" style="text-align:center; ">
