@@ -64,7 +64,7 @@ pinned: true
 Hôm nọ mình có bon chen hồ Hoàng Cầu cũng như công viên thống nhất thử, nhưng xem ra khá vất vả. Nên mình đã mò ra một nơi @Anh hàng xóm và chỉnh mầu cho tone nhẹ nhàng, màu rực hơn vì chụp ngược sáng màu nhạt. #chupanhdep #lightroom #banglangtim @anhhangxom.foto
 
 <div class="content" style="text-align:center; ">
-<a href="https://i.imgur.com/UpZ4cZq"><img loading="lazy" src="https://i.imgur.com/DGiEbYe.png" title="source: imgur.com" /></a></div>
+<a href="https://i.imgur.com/UpZ4cZq"><img loading="lazy" src="https://i.imgur.com/lXRN6cC.jpeg" title="source: imgur.com" /></a></div>
 
 **Cách sử dụng preset Lightroom**
 
@@ -82,7 +82,7 @@ Preset sẽ được áp dụng cho ảnh của bạn. Bạn có thể điều c
 **Một số ảnh Lightroom đẹp**
 
 <div class="content" style="text-align:center; ">
-<a href="https://i.imgur.com/V1Dakkv"><img loading="lazy" src="https://i.imgur.com/uvHMO4H.png" title="source: imgur.com" /></a><p></p><br><a href="https://i.imgur.com/n1aJ50o"><img loading="lazy" src="https://i.imgur.com/yIw2gzW.png" title="source: imgur.com" /></a><p></p><br><a href="https://i.imgur.com/PUJtfYG"><img loading="lazy" src="https://i.imgur.com/YoFlWFm.png" title="source: imgur.com" /></a><p></p><br><a href="https://i.imgur.com/qHvr4Cb"><img loading="lazy" src="https://i.imgur.com/9AArhru.png" title="source: imgur.com" /></a><p></p><br><a href="https://i.imgur.com/DUfuILk"><img loading="lazy" src="https://i.imgur.com/EWc1fVE.png" title="source: imgur.com" /></a><p></p><br></div>
+<a href="https://i.imgur.com/V1Dakkv"><img loading="lazy" src="https://i.imgur.com/IRgyDxC.jpeg" title="source: imgur.com" /></a><p></p><br><a href="https://i.imgur.com/n1aJ50o"><img loading="lazy" src="https://i.imgur.com/lwnd5eF.jpeg" title="source: imgur.com" /></a><p></p><br><a href="https://i.imgur.com/PUJtfYG"><img loading="lazy" src="https://i.imgur.com/Fs8ifav.jpeg" title="source: imgur.com" /></a><p></p><br><a href="https://i.imgur.com/qHvr4Cb"><img loading="lazy" src="https://i.imgur.com/IL3HhZQ.jpeg" title="source: imgur.com" /></a><p></p><br><a href="https://i.imgur.com/DUfuILk"><img loading="lazy" src="https://i.imgur.com/rggnrhO.jpeg" title="source: imgur.com" /></a><p></p><br></div>
 
 **Mô tả preset Lightroom**
 
@@ -110,7 +110,7 @@ Khi sử dụng preset chụp ảnh, bạn cần lưu ý một số điều sau:
 
 **Kết luận**
 
-<div class="content" style="text-align:center; "><a href="https://i.imgur.com/WKcs6a3"><img loading="lazy" src="https://i.imgur.com/HtS3kUx.png" title="source: imgur.com" /></a></div>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.tiktok.com/@anhhangxom.foto/photo/7366907505240329492" data-iframely-url="//iframely.net/AaPt5UC?card=small"></a></div></div><script async src="//iframely.net/embed.js"></script>
 
 Preset Lightroom  sẽ giúp bạn tạo ra những bức ảnh  đẹp và chuyên nghiệp.
 
