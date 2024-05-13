@@ -1,24 +1,19 @@
 /**
- * @license Copyright (c) 2014-2023, CKSource Holding sp. z o.o. All rights reserved.
+ * @license Copyright (c) 2014-2024, CKSource Holding sp. z o.o. All rights reserved.
  * For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
  */
 
 import { ClassicEditor } from '@ckeditor/ckeditor5-editor-classic';
 
 import { Autoformat } from '@ckeditor/ckeditor5-autoformat';
-import { Bold, Code, Italic } from '@ckeditor/ckeditor5-basic-styles';
+import { Bold, Italic } from '@ckeditor/ckeditor5-basic-styles';
 import { BlockQuote } from '@ckeditor/ckeditor5-block-quote';
 import { CKBox } from '@ckeditor/ckeditor5-ckbox';
 import { CloudServices } from '@ckeditor/ckeditor5-cloud-services';
-import { CodeBlock } from '@ckeditor/ckeditor5-code-block';
 import type { EditorConfig } from '@ckeditor/ckeditor5-core';
 import { Essentials } from '@ckeditor/ckeditor5-essentials';
 import { Heading } from '@ckeditor/ckeditor5-heading';
-import { Highlight } from '@ckeditor/ckeditor5-highlight';
-import { HtmlEmbed } from '@ckeditor/ckeditor5-html-embed';
-import { GeneralHtmlSupport, HtmlComment } from '@ckeditor/ckeditor5-html-support';
 import {
-	AutoImage,
 	Image,
 	ImageCaption,
 	ImageStyle,
@@ -29,11 +24,11 @@ import {
 import { Indent } from '@ckeditor/ckeditor5-indent';
 import { Link } from '@ckeditor/ckeditor5-link';
 import { List } from '@ckeditor/ckeditor5-list';
+import { Markdown } from '@ckeditor/ckeditor5-markdown-gfm';
 import { MediaEmbed } from '@ckeditor/ckeditor5-media-embed';
 import { Paragraph } from '@ckeditor/ckeditor5-paragraph';
 import { PasteFromOffice } from '@ckeditor/ckeditor5-paste-from-office';
 import { Table, TableToolbar } from '@ckeditor/ckeditor5-table';
-import { TextTransformation } from '@ckeditor/ckeditor5-typing';
 import { Undo } from '@ckeditor/ckeditor5-undo';
 
 // You can read more about extending the build with additional plugins in the "Installing plugins" guide.
@@ -41,20 +36,13 @@ import { Undo } from '@ckeditor/ckeditor5-undo';
 
 class Editor extends ClassicEditor {
 	public static override builtinPlugins = [
-		AutoImage,
 		Autoformat,
 		BlockQuote,
 		Bold,
 		CKBox,
 		CloudServices,
-		Code,
-		CodeBlock,
 		Essentials,
-		GeneralHtmlSupport,
 		Heading,
-		Highlight,
-		HtmlComment,
-		HtmlEmbed,
 		Image,
 		ImageCaption,
 		ImageStyle,
@@ -64,13 +52,13 @@ class Editor extends ClassicEditor {
 		Italic,
 		Link,
 		List,
+		Markdown,
 		MediaEmbed,
 		Paragraph,
 		PasteFromOffice,
 		PictureEditing,
 		Table,
 		TableToolbar,
-		TextTransformation,
 		Undo
 	];
 
@@ -79,7 +67,6 @@ class Editor extends ClassicEditor {
 			items: [
 				'heading',
 				'|',
-				'ckbox',
 				'bold',
 				'italic',
 				'link',
@@ -89,18 +76,15 @@ class Editor extends ClassicEditor {
 				'outdent',
 				'indent',
 				'|',
+				'imageUpload',
 				'blockQuote',
 				'insertTable',
 				'mediaEmbed',
-				'imageUpload',
-				'codeBlock',
-				'htmlEmbed',
-				'highlight',
 				'undo',
 				'redo'
 			]
 		},
-		language: 'vi',
+		language: 'en',
 		image: {
 			toolbar: [
 				'imageTextAlternative',
