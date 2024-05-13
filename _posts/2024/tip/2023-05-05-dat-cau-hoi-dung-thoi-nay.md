@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 'Đặt câu hỏi đúng thời 4 chấm 0. Gemini, chat gpt,... !!'
+title: 'Đặt câu hỏi đúng thời 4 chấm 0. Gemini, chat gpt,... !! [Phần 1]'
 author: sal
 categories: [ Coding 💻 ]
 tags: [ tips,tool ]
 image: assets/images/2023/lap-trinh/avts/javascript-come-back-avt.webp
 lazyimages: "enabled"
 isGithubComments: false
-excerpt: Việc đặt câu hỏi đúng mang lại nhiều lợi ích quan trọng trong cuộc sống và công việc. Đặc biệt là thời điểm hiện nay, khi các chat bot siêu thông minh ra đời
+excerpt: Hãy tưởng tượng ChatGPT như một "đầu bếp AI" siêu đẳng, có thể giúp bạn hiện thực hóa mọi ý tưởng ẩm thực, dù là phức tạp nhất!
 adsense: "enabled"
 keywords:
   - Tasker
