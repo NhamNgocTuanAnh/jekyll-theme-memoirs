@@ -17,7 +17,7 @@ keywords:
   - Android Automation
   - Shortcuts android
 date: 2024-05-15 10:01:10 +0700
-permalink: coding/dat-cau-hoi-dung-thoi-hien-dai-4-0
+permalink: coding/dat-cau-hoi-dung-thoi-hien-dai-4-0-p1
 ---
 
 > Hãy tưởng tượng ChatGPT như một "siêu năng lực" cho bộ não của bạn!
