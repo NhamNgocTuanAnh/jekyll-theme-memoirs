@@ -16,7 +16,7 @@ keywords:
   - Tasker là gì?
   - Android Automation
   - Shortcuts android
-date: 2024-05-19 10:01:10 +0700
+date: 2024-04-19 10:01:10 +0700
 permalink: coding/dat-cau-hoi-dung-thoi-hien-dai-4-0-p5
 skip_toc: true
 ---
