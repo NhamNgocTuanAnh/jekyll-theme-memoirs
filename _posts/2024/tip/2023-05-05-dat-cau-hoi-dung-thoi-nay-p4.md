@@ -258,3 +258,30 @@ Sau đó, LLM sẽ phân tích văn bản, áp dụng các quy tắc và tạo r
 *   Bộ lọc ngữ nghĩa không phải là hoàn hảo và có thể yêu cầu kiểm tra bổ sung cho các ứng dụng quan trọng.
 *   Hiệu quả của bộ lọc phụ thuộc vào độ rõ ràng và chính xác của các quy tắc ngữ nghĩa.
 *   LLM tiếp tục phát triển, cải thiện khả năng hiểu và lọc văn bản hiệu quả.
+
+## Course Conclusion & Thank You
+
+ Xin cảm ơn tất cả các bạn đã tham gia [khóa học về kỹ thuật gợi ý (prompt engineering)](https://www.coursera.org/learn/prompt-engineering/home/info). Tôi hy vọng các bạn đã được truyền cảm hứng từ những ví dụ đa dạng mà chúng ta đã khám phá, từ việc tạo ra những câu chuyện hấp dẫn đến việc viết mã, thậm chí là sáng tác nhạc. Đây mới chỉ là khởi đầu của những gì có thể đạt được.
+
+Hãy nhớ rằng, sức mạnh thực sự của các mô hình ngôn ngữ lớn nằm ở sự sáng tạo của con người. Chính những ý tưởng sáng tạo và cách sử dụng độc đáo của các bạn đối với các công cụ này mới mang lại những kết quả thú vị nhất.
+
+**Ví dụ:**
+
+*   Hãy tưởng tượng sử dụng mô hình ngôn ngữ để tạo ra các kế hoạch tập luyện cá nhân hóa dựa trên mục tiêu và dữ liệu sức khỏe của mỗi người.
+*   Hoặc nghĩ về việc tạo ra một gia sư ảo có thể điều chỉnh phong cách giảng dạy phù hợp với sở thích học tập của từng học sinh.
+*   Các bạn thậm chí có thể phát triển một hệ thống dịch các tài liệu pháp lý phức tạp sang ngôn ngữ đơn giản, giúp mọi người đều có thể tiếp cận được.
+
+Đây chỉ là một vài ví dụ về cách bạn có thể tận dụng sức mạnh của các mô hình ngôn ngữ để giải quyết các vấn đề thực tế và tạo ra những tác động có ý nghĩa.
+
+Tôi khuyến khích các bạn hãy tò mò, thử nghiệm và vượt qua những giới hạn của những gì có thể. Đừng nản lòng trước những ví dụ tiêu cực mà bạn có thể thấy trên mạng. Thay vào đó, hãy tập trung vào tiềm năng đáng kinh ngạc mà những công cụ này mang lại cho sự thay đổi tích cực.
+
+Hãy nghĩ về ChatGPT như một phương tiện sáng tạo mới, giống như vẽ tranh hoặc điêu khắc. Nó là một công cụ có thể giúp bạn thể hiện ý tưởng, đưa trí tưởng tượng vào cuộc sống và khám phá những khả năng mới.
+
+Để kết thúc, tôi muốn chia sẻ một số lời khuyên từ chính ChatGPT:
+
+1.  **Thực hành:** Bạn càng thử nghiệm và sử dụng các mô hình ngôn ngữ, bạn sẽ càng trở nên giỏi hơn trong việc tạo ra các gợi ý hiệu quả.
+2.  **Cập nhật kiến thức:** Kỹ thuật gợi ý là một lĩnh vực phát triển nhanh chóng. Hãy theo dõi những nghiên cứu và phát triển mới nhất để luôn đi trước thời đại.
+3.  **Hợp tác:** Chia sẻ ý tưởng của bạn, học hỏi từ người khác và cùng nhau làm việc để vượt qua những giới hạn của những gì có thể.
+4.  **Luôn nhớ đến đạo đức:** Sử dụng những công cụ mạnh mẽ này một cách có trách nhiệm và đạo đức để đảm bảo chúng mang lại lợi ích cho toàn xã hội.
+
+Xin cảm ơn các bạn một lần nữa vì đã tham gia. Tôi rất mong chờ những gì các bạn sẽ tạo ra!
