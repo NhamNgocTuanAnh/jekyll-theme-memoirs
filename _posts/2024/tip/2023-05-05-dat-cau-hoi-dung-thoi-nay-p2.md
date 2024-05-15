@@ -40,6 +40,51 @@ Prompt là gì? Trong bối cảnh của các mô hình ngôn ngữ lớn (LLM),
 *   **Hỗ trợ ghi nhớ:** Prompt có thể nhắc nhở LLM về các tương tác hoặc thông tin trước đó.
     *   **Ví dụ:** "Hãy nhớ rằng tôi thích phong cách viết trang trọng."
 
+<hr>
+
+**ví dụ:**  Tuyệt vời! Dưới đây là một ví dụ hoàn chỉnh sử dụng tất cả các khía cạnh của prompt, đóng vai một chuyên gia ChatGPT:
+
+**Lời kêu gọi hành động:**
+
+"Hãy viết một bài luận ngắn về những lợi ích của việc đọc sách."
+
+**Thông tin ngữ cảnh:**
+
+"Bài luận nên tập trung vào lợi ích về mặt nhận thức, cảm xúc và xã hội của việc đọc sách. Hãy đưa ra những ví dụ cụ thể và trích dẫn nghiên cứu nếu có thể."
+
+**Hướng dẫn nhân vật:**
+
+"Hãy viết bài luận với giọng điệu của một nhà văn chuyên nghiệp, đam mê văn học và mong muốn truyền cảm hứng cho người đọc."
+
+**Khía cạnh thời gian:**
+
+"Từ bây giờ, mỗi khi tôi yêu cầu bạn viết một bài luận, hãy luôn sử dụng giọng điệu của một nhà văn chuyên nghiệp."
+
+**Yêu cầu thông tin:**
+
+"Trước khi bắt đầu, bạn có muốn tôi cung cấp thêm thông tin về bất kỳ thể loại sách cụ thể nào không? Ví dụ: tiểu thuyết, sách phi hư cấu, thơ ca...?"
+
+**Hỗ trợ ghi nhớ:**
+
+"Hãy nhớ rằng tôi thích các bài luận có cấu trúc rõ ràng, sử dụng ngôn ngữ phong phú và có nhiều ví dụ thực tế."
+
+**Ví dụ hoàn chỉnh:**
+
+"Hãy viết một bài luận ngắn về những lợi ích của việc đọc sách. Bài luận nên tập trung vào lợi ích về mặt nhận thức, cảm xúc và xã hội của việc đọc sách. Hãy đưa ra những ví dụ cụ thể và trích dẫn nghiên cứu nếu có thể. Hãy viết bài luận với giọng điệu của một nhà văn chuyên nghiệp, đam mê văn học và mong muốn truyền cảm hứng cho người đọc. Từ bây giờ, mỗi khi tôi yêu cầu bạn viết một bài luận, hãy luôn sử dụng giọng điệu của một nhà văn chuyên nghiệp. Trước khi bắt đầu, bạn có muốn tôi cung cấp thêm thông tin về bất kỳ thể loại sách cụ thể nào không? Ví dụ: tiểu thuyết, sách phi hư cấu, thơ ca...? Hãy nhớ rằng tôi thích các bài luận có cấu trúc rõ ràng, sử dụng ngôn ngữ phong phú và có nhiều ví dụ thực tế."
+
+**Giải thích:**
+
+*   **Lời kêu gọi hành động:** Yêu cầu viết một bài luận ngắn về lợi ích của việc đọc sách.
+*   **Thông tin ngữ cảnh:** Cung cấp hướng dẫn về nội dung của bài luận (lợi ích nhận thức, cảm xúc, xã hội) và yêu cầu đưa ra ví dụ và trích dẫn.
+*   **Hướng dẫn nhân vật:** Yêu cầu viết với giọng điệu của một nhà văn chuyên nghiệp và đam mê văn học.
+*   **Khía cạnh thời gian:** Đặt ra một quy tắc cho các tương tác trong tương lai (luôn sử dụng giọng điệu của một nhà văn chuyên nghiệp khi viết luận).
+*   **Yêu cầu thông tin:** Đề nghị cung cấp thêm thông tin về thể loại sách cụ thể nếu cần.
+*   **Hỗ trợ ghi nhớ:** Nhắc nhở về sở thích cá nhân đối với cấu trúc, ngôn ngữ và ví dụ trong bài luận.
+
+Hy vọng ví dụ này hữu ích cho bạn! Nếu bạn có bất kỳ câu hỏi nào khác, đừng ngần ngại hỏi nhé.
+
+<hr>
+
 **Prompt Engineering: Xây Dựng Prompt Hiệu Quả**
 
 Hiểu các khía cạnh này là rất quan trọng đối với prompt engineering - quá trình tạo ra các prompt hiệu quả để đạt được kết quả mong muốn từ LLM.
