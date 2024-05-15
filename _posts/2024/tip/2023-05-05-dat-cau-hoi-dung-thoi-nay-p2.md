@@ -42,7 +42,7 @@ Prompt là gì? Trong bối cảnh của các mô hình ngôn ngữ lớn (LLM),
 
 <hr>
 
-**ví dụ:**  Tuyệt vời! Dưới đây là một ví dụ hoàn chỉnh sử dụng tất cả các khía cạnh của prompt, đóng vai một chuyên gia ChatGPT:
+**Ví Dụ:**  Tuyệt vời! Dưới đây là một ví dụ hoàn chỉnh sử dụng tất cả các khía cạnh của prompt, đóng vai một chuyên gia ChatGPT:
 
 **Lời kêu gọi hành động:**
 
