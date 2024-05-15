@@ -21,77 +21,37 @@ permalink: coding/dat-cau-hoi-dung-thoi-hien-dai-4-0-p2
 skip_toc: true
 ---
 
-> Prompt không chỉ là câu hỏi, mà là "chỉ dẫn" chi tiết giúp bạn "điều khiển" ChatGPT theo ý muốn!
+## **Hiểu về Prompt: Chìa Khóa Để Giao Tiếp Hiệu Quả Với Các Mô Hình Ngôn Ngữ Lớn**
 
-```javascript
-                                        🎨 Prompt: Nghệ thuật "chỉ dẫn" AI 🎨
-                                               /      |       \
-                                              /       |        \
-                                             /        |         \
-                                            /         |          \
-                                           /          |           \
-           🎯 Mục tiêu                 ⚙️ ChatGPT "thực hiện"   🎉 Kết quả mong muốn
+Prompt là gì? Trong bối cảnh của các mô hình ngôn ngữ lớn (LLM), prompt không chỉ đơn thuần là một câu hỏi đơn giản. Nó là một công cụ đa năng có thể kích hoạt nhiều hành vi khác nhau trong các mô hình này, và hiệu quả của nó phụ thuộc rất nhiều vào cấu trúc và cách diễn đạt.
 
-Các khía cạnh của Prompt:
+**Các Khía Cạnh Của Prompt:**
 
-* 📣 Kêu gọi hành động:  Yêu cầu ChatGPT làm gì (ví dụ: "Tóm tắt bài viết này").
-* ⏳ Yếu tố thời gian:  "Chỉ dẫn" có thể áp dụng ngay lập tức hoặc cho tương lai (ví dụ: "Từ giờ trở đi, hãy..." ).
-* 🧠  Ghi nhớ:  Cung cấp ngữ cảnh, thông tin bổ sung để ChatGPT "nhớ" và áp dụng.
-* 💬  Đối thoại:   ChatGPT có thể hỏi ngược lại bạn để làm rõ "chỉ dẫn".
+*   **Lời kêu gọi hành động:** Prompt chủ yếu là một tín hiệu hướng dẫn LLM tạo ra phản hồi. Phản hồi này có thể ở nhiều dạng, chẳng hạn như văn bản, mã hoặc dữ liệu có cấu trúc.
+    *   **Ví dụ:** "Viết một bài thơ về mùa thu."
+*   **Thông tin ngữ cảnh:** Prompt có thể cung cấp thông tin nền để giúp LLM hiểu rõ hơn kết quả mong muốn.
+    *   **Ví dụ:** "Tóm tắt bài viết này về biến đổi khí hậu, tập trung vào tác động của nó đối với nông nghiệp."
+*   **Hướng dẫn nhân vật:** Prompt có thể hướng dẫn LLM đóng vai một nhân vật hoặc vai trò cụ thể.
+    *   **Ví dụ:** "Hãy đóng vai một cố vấn tài chính và đề xuất các chiến lược đầu tư cho một chuyên gia trẻ tuổi."
+*   **Khía cạnh thời gian:** Prompt có thể là tức thời (ảnh hưởng đến phản hồi hiện tại) hoặc kéo dài (ảnh hưởng đến các tương tác trong tương lai).
+    *   **Ví dụ:** "Từ nay trở đi, luôn cung cấp một lời giải thích chi tiết cho các câu trả lời của bạn."
+*   **Yêu cầu thông tin:** Prompt có thể được sử dụng để yêu cầu thông tin từ người dùng, dẫn đến một cuộc trò chuyện tương tác hơn.
+    *   **Ví dụ:** "Bạn có bất kỳ chế độ ăn kiêng nào không?"
+*   **Hỗ trợ ghi nhớ:** Prompt có thể nhắc nhở LLM về các tương tác hoặc thông tin trước đó.
+    *   **Ví dụ:** "Hãy nhớ rằng tôi thích phong cách viết trang trọng."
 
+**Prompt Engineering: Xây Dựng Prompt Hiệu Quả**
 
-Ví dụ:
+Hiểu các khía cạnh này là rất quan trọng đối với prompt engineering - quá trình tạo ra các prompt hiệu quả để đạt được kết quả mong muốn từ LLM.
 
-1. 🎯 Mục tiêu: "Tôi muốn ChatGPT luôn đề xuất câu hỏi hay hơn khi tôi hỏi."
-2. 🗣️ Prompt:  "Từ giờ trở đi, khi tôi hỏi, hãy đề xuất một phiên bản câu hỏi hay hơn và hỏi tôi có muốn dùng nó không."
-3. ⚙️ ChatGPT "thực hiện": Mỗi khi bạn hỏi, ChatGPT sẽ đề xuất một phiên bản câu hỏi chi tiết và rõ ràng hơn.
-```
+*   **Mô hình và tính cụ thể:** LLM được đào tạo trên các bộ dữ liệu khổng lồ và học cách dự đoán từ tiếp theo dựa trên các mẫu. Nếu prompt của bạn chứa các mẫu mạnh (ví dụ: "Mary had a little..."), LLM có thể sẽ tuân theo mẫu đó. Tuy nhiên, bằng cách cụ thể và cung cấp ngữ cảnh chi tiết, bạn có thể hướng LLM tránh xa các câu trả lời chung chung và hướng tới các kết quả phù hợp hơn.
+    *   **Ví dụ:** Thay vì hỏi "Hãy kể cho tôi nghe về Paris," bạn có thể hỏi "Mô tả phong cách kiến trúc của tháp Eiffel."
+*   **Cấu trúc và định dạng:** Cung cấp cấu trúc và định dạng rõ ràng trong prompt của bạn có thể giúp hướng dẫn đầu ra của LLM.
+    *   **Ví dụ:** Nếu bạn muốn tóm tắt một bài báo, bạn có thể bao gồm các dấu đầu dòng hoặc tiêu đề trong prompt của mình để chỉ ra cấu trúc mong muốn.
+*   **Lặp lại và thử nghiệm:** Điều quan trọng là phải kiên nhẫn và thử nghiệm với các công thức prompt khác nhau. Bạn càng tương tác nhiều với LLM, bạn càng hiểu rõ hơn về khả năng và hạn chế của nó, cho phép bạn tinh chỉnh các prompt của mình để có kết quả tối ưu.
 
- **Giải thích:**
+**Kết luận:**
 
-*   **Prompt là "chỉ dẫn" chi tiết:** Nó cho ChatGPT biết chính xác bạn muốn gì, giúp bạn "điều khiển" ChatGPT hiệu quả.
-*   **Các khía cạnh của Prompt:**
-    *   **Kêu gọi hành động:** Yêu cầu ChatGPT làm gì.
-    *   **Yếu tố thời gian:** "Chỉ dẫn" có thể áp dụng ngay lập tức hoặc cho tương lai.
-    *   **Ghi nhớ:** Cung cấp ngữ cảnh, thông tin bổ sung để ChatGPT "nhớ" và áp dụng.
-    *   **Đối thoại:** ChatGPT có thể hỏi ngược lại bạn để làm rõ "chỉ dẫn".
-*   **Ví dụ về câu hỏi:** Minh họa cách Prompt có thể ảnh hưởng đến cách ChatGPT phản hồi.
+Prompt engineering là một công cụ mạnh mẽ cho phép bạn mở khóa toàn bộ tiềm năng của LLM. Bằng cách hiểu các khía cạnh khác nhau của prompt và áp dụng các kỹ thuật hiệu quả, bạn có thể tạo ra các prompt gợi ra các phản hồi chính xác, liên quan và nhiều thông tin từ các mô hình này. Hãy nhớ rằng, prompt của bạn càng chính xác và phong phú về ngữ cảnh, LLM càng có thể hiểu và đáp ứng yêu cầu của bạn tốt hơn.
 
-**Bổ sung:**
-
-*   **Prompt như "chương trình":** Bạn có thể "lập trình" cho ChatGPT bằng cách sử dụng Prompt để tạo ra các quy tắc và hướng dẫn phức tạp. Ví dụ: "Mỗi khi tôi đưa thông tin, hãy biến nó thành bảng CSV với các cột TÊN, KHÓA HỌC, VAI TRÒ."
-
-**Tóm lại:**
-
-Prompt là chìa khóa để mở ra sức mạnh của ChatGPT. Hãy thấu hiểu các khía cạnh của Prompt và "nghệ thuật chỉ dẫn AI" để tận dụng tối đa tiềm năng của công cụ này!
-
- Bài nói này đề cập đến khái niệm "prompt" và cách tối ưu hóa việc sử dụng nó để tương tác với mô hình ngôn ngữ lớn. Dưới đây là một sơ đồ dễ hiểu nhất để tối ưu hóa bài học từ bài nói này:
-
-1.  **Khái niệm về "Prompt"**:
-    *   Prompt là gì?
-        *   Là một lời kêu gọi hành động tới mô hình ngôn ngữ lớn.
-    *   Có ba loại prompt:
-        *   Dạng động từ: Kêu gọi hành động.
-        *   Dạng tính từ: Thực hiện mà không chậm trễ.
-        *   Dạng danh từ: Gợi nhớ hoặc định hình hành động hoặc thông tin cần thiết.
-2.  **Các Chiều Hướng của Prompt**:
-    *   Tác động thời gian:
-        *   Có thể ảnh hưởng ngay tại thời điểm hiện tại hoặc ảnh hưởng trong tương lai.
-    *   Gợi nhớ và định hình hành động:
-        *   Thông qua việc cung cấp thông tin hoặc lời nhắc để mô hình nhớ và thực hiện hành động.
-3.  **Phân tích Mẫu**:
-    *   Mô hình ngôn ngữ lớn học từ mẫu để dự đoán từ tiếp theo.
-    *   Sử dụng mẫu cụ thể trong prompt để kích hoạt hành vi mong muốn từ mô hình.
-4.  **Tạo Lập Một Chương Trình với Prompt**:
-    *   Prompt có thể được sử dụng để tạo ra một chương trình để mô hình thực hiện.
-    *   Chương trình có thể bao gồm việc định dạng kết quả hoặc sinh ra các ví dụ bổ sung theo cấu trúc nhất định.
-5.  **Quy Tắc và Hướng Dẫn Bổ Sung**:
-    *   Quy tắc và hướng dẫn có thể được thêm vào prompt để tùy chỉnh hành vi và kết quả của mô hình.
-    *   Tích hợp các quy tắc mới để mở rộng chương trình và tối ưu hóa kết quả.
-6.  **Tương Tác và Cải Thiện**:
-    *   Liên tục tương tác và cải thiện chương trình để đạt được kết quả mong muốn.
-    *   Sử dụng các ví dụ và thí nghiệm để hiểu rõ hơn về cách tối ưu hóa sử dụng prompt.
-7.  **Áp Dụng Thực Tiễn**:
-    *   Sử dụng chương trình được tạo ra từ prompt để tương tác và tạo ra kết quả cụ thể và hữu ích.
-
-Bằng cách hiểu rõ về khái niệm prompt và cách tối ưu hóa sử dụng nó, người dùng có thể tạo ra các tương tác thông minh và đạt được kết quả mong muốn từ mô hình ngôn ngữ lớn.
+## Everyone Can Program with Prompts
