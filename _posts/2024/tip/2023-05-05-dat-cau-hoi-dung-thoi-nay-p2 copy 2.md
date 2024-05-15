@@ -12,10 +12,6 @@ adsense: "enabled"
 keywords:
   - Tasker
   - Chia sẻ profile tasker
-  - Tối ưu Tasker
-  - Tasker là gì?
-  - Android Automation
-  - Shortcuts android
 date: 2023-03-17 10:01:10 +0700
 permalink: coding/chatgpt/chatgpt-tro-thu-dac-luc-cho-content-seo-global
 skip_toc: true
