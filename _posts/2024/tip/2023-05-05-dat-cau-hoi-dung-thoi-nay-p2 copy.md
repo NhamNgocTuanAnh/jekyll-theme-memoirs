@@ -16,8 +16,8 @@ keywords:
   - Tasker là gì?
   - Android Automation
   - Shortcuts android
-date: 2024-05-17 10:01:10 +0700
-permalink: coding/dat-cau-hoi-dung-thoi-hien-dai-4-0-p2
+date: 2023-05-17 10:01:10 +0700
+permalink: coding/Understanding-Prompts
 skip_toc: true
 ---
 
@@ -56,24 +56,24 @@ Prompt engineering is a powerful tool that allows you to unlock the full potenti
 
 ## Everyone Can Program with Prompts
 
- Lệnh (Prompt) không chỉ đơn thuần là câu hỏi hay mệnh lệnh cho ChatGPT, chúng còn là công cụ lập trình của bạn. Bạn không cần phải là lập trình viên để tận dụng điều này. Hãy nghĩ đến việc cung cấp cho ChatGPT một bộ hướng dẫn, giống như một trợ lý cá nhân. Hãy xem cách hoạt động của nó:
+ Prompts are more than just questions or commands for ChatGPT; they're your coding tools. You don't need to be a programmer to leverage this. Think of it as giving ChatGPT a set of instructions, like a personal assistant. Let's see how this works:
 
-**Ví dụ: Tạo một Danh sách Giá Trị Phân Cách bằng Dấu Phẩy (CSV)**
+**Example: Creating a Comma-Separated Value (CSV) List**
 
-1.  **Hướng dẫn ban đầu:**
-    *   Chúng ta bắt đầu bằng cách nói với ChatGPT, "Mỗi khi bạn tạo kết quả đầu ra, hãy chuyển nó thành một danh sách giá trị phân tách bằng dấu phẩy." Điều này đặt ra quy tắc cơ bản để định dạng dữ liệu.
-2.  **Đầu vào và Đầu ra:**
-    *   Sau đó, chúng ta cung cấp cho ChatGPT thông tin đầu vào: "Tên tôi là Jules White và tôi đang dạy một khóa học về kỹ thuật nhắc lệnh (prompt engineering)."
-    *   ChatGPT phản hồi bằng danh sách CSV: "Name, Course, Jules White, Prompt Engineering."
-3.  **Tinh chỉnh chương trình:**
-    *   Chúng tôi nhận thấy ChatGPT đã đưa ra các giả định về các cột. Vì vậy, chúng tôi cung cấp thêm hướng dẫn: "Từ bây giờ, các cột phải là NAME, COURSE, và ROLE."
-    *   Chúng tôi lặp lại đầu vào và bây giờ ChatGPT sẽ xuất ra: "NAME, COURSE, ROLE, Jules White, Prompt Engineering, Teacher."
-4.  **Thêm độ phức tạp:**
-    *   Chúng tôi có thể hướng dẫn thêm cho ChatGPT: "Ngoài đầu vào của tôi, hãy tạo thêm các ví dụ phù hợp với định dạng CSV."
-    *   Bây giờ, đầu ra trở nên phức tạp hơn, bao gồm các hàng bổ sung với các ví dụ liên quan.
+1.  **Initial Instruction:**
+    *   We start by telling ChatGPT, "Whenever you generate output, turn it into a comma-separated value list." This sets the basic rule for formatting the data.
+2.  **Input and Output:**
+    *   We then give ChatGPT the input: "My name is Jules White and I am teaching a course on prompt engineering."
+    *   ChatGPT responds with a CSV list: "Name, Course, Jules White, Prompt Engineering."
+3.  **Refining the Program:**
+    *   We notice ChatGPT made assumptions about the columns. So, we provide more instructions: "From now on, the columns should be NAME, COURSE, and ROLE."
+    *   We repeat the input, and now ChatGPT outputs: "NAME, COURSE, ROLE, Jules White, Prompt Engineering, Teacher."
+4.  **Adding Complexity:**
+    *   We can further instruct ChatGPT: "In addition to my input, generate additional examples that fit the CSV format."
+    *   Now, the output becomes more elaborate, including additional rows with relevant examples.
 
-**Những điểm chính:**
+**Key Takeaways:**
 
-*   **Lập trình đối thoại:** Quá trình này mang tính tương tác. Chúng ta đưa ra hướng dẫn, xem kết quả và tinh chỉnh lại hướng dẫn của mình. Giống như đang trò chuyện với ChatGPT, hướng dẫn nó hướng tới kết quả mong muốn.
-*   **Xây dựng một chương trình:** Mỗi hướng dẫn chúng ta thêm vào giống như một dòng mã trong một chương trình. Theo thời gian, chúng ta xây dựng một tập hợp các quy tắc mà ChatGPT tuân theo để xử lý đầu vào của chúng ta và tạo ra kết quả mong muốn.
-*   **Vượt ra ngoài Hỏi & Đáp:** Lệnh (Prompt) có thể được sử dụng để tạo ra các cấu trúc phức tạp, tạo ra nhiều kết quả đầu ra và thậm chí mô phỏng các tình huống hoặc vai trò cụ thể (như một chuyên gia dinh dưỡng hoặc một nhân vật lịch sử).
+*   **Conversational Programming:** This process is interactive. We give instructions, see the results, and refine our instructions. It's like having a conversation with ChatGPT, guiding it towards the desired output.
+*   **Building a Program:** Each instruction we add is like a line of code in a program. Over time, we build a set of rules that ChatGPT follows to process our input and generate the output we want.
+*   **Beyond Q&A:** Prompts can be used to create complex structures, generate multiple outputs, and even simulate specific scenarios or roles (like a nutritionist or a historical figure).
