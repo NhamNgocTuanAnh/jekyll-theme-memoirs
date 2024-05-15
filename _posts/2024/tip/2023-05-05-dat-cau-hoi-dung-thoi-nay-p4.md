@@ -212,5 +212,49 @@ Mẫu tạo đuôi có thể được kết hợp hiệu quả với các kỹ t
 
 *   **Vị trí đuôi:** Thông thường, phần đuôi được đặt ở cuối đầu ra của LLM, nhưng có thể cần thử nghiệm để có vị trí tối ưu.
 *   **Nội dung đuôi:** Phần đuôi phải ngắn gọn và liên quan trực tiếp đến các mục tiêu và quy tắc của nhiệm vụ.
-##
+## Semantic Filter Pattern
 
+ **Mô hình ngôn ngữ lớn và Bộ lọc ngữ nghĩa**
+
+Các mô hình ngôn ngữ lớn (LLM) thực sự xuất sắc trong việc xử lý văn bản và hiểu các mẫu ngôn ngữ. Trước đây, việc phân tích văn bản một cách hiệu quả đòi hỏi sự can thiệp của con người. Giờ đây, LLM đã tiếp quản nhiệm vụ này, thay đổi cách chúng ta xử lý và thao tác với văn bản.
+
+Một mẫu mạnh mẽ mà LLM vượt trội là "bộ lọc ngữ nghĩa". Bộ lọc này hoạt động như một cái sàng đối với văn bản, loại bỏ hoặc giữ lại thông tin dựa trên ý nghĩa hoặc các phẩm chất cụ thể mà chúng ta xác định.
+
+**Các trường hợp sử dụng bộ lọc ngữ nghĩa:**
+
+*   **Bảo vệ quyền riêng tư:** Loại bỏ thông tin nhận dạng cá nhân (PII) như tên, địa chỉ hoặc số an sinh xã hội khỏi tài liệu.
+*   **Làm sạch dữ liệu:** Lọc ra thông tin không liên quan hoặc dư thừa khỏi bộ dữ liệu.
+*   **Kiểm duyệt nội dung:** Xác định và loại bỏ nội dung có hại hoặc không phù hợp khỏi các nền tảng trực tuyến.
+*   **Giấu tên hồ sơ bệnh án:** Loại bỏ các chi tiết có thể nhận dạng bệnh nhân khỏi báo cáo y tế.
+*   **Vệ sinh dữ liệu tài chính:** Loại bỏ thông tin tài chính nhạy cảm trước khi chia sẻ báo cáo.
+
+**Ví dụ: Loại bỏ ngày tháng khỏi văn bản**
+
+Hãy minh họa bằng một ví dụ đơn giản. Chúng tôi sẽ sử dụng một bộ lọc ngữ nghĩa để xóa ngày tháng khỏi mục nhập Wikipedia về Đại học Vanderbilt:
+
+*   **Lời nhắc:** "Lọc thông tin này để loại bỏ tất cả ngày tháng và viết lại văn bản càng ít càng tốt để khắc phục các vấn đề do việc xóa ngày tháng gây ra."
+
+LLM sẽ phân tích văn bản, hiểu ngày tháng là gì và xóa tất cả các trường hợp đồng thời viết lại văn bản ở mức tối thiểu để duy trì tính mạch lạc. Ví dụ: "thành lập năm 1873" có thể trở thành "thành lập vào thế kỷ 19."
+
+**Ví dụ: Loại bỏ thông tin y tế nhạy cảm**
+
+Hãy khám phá một ví dụ phức tạp hơn. Chúng tôi sẽ lọc một hồ sơ y tế giả để loại bỏ bất kỳ thông tin nào tiết lộ bệnh nhân bị tiểu đường:
+
+*   **Lời nhắc:** "Lọc thông tin bên dưới để loại bỏ bất kỳ thông tin nào giúp ai đó biết được bệnh nhân bị tiểu đường. Đầu tiên, hãy giải thích thông tin bạn sẽ xóa và cách thông tin đó có thể giúp ai đó biết được bệnh nhân bị tiểu đường, sau đó cung cấp thông tin đã lọc."
+
+LLM sẽ xác định và giải thích việc loại bỏ các chi tiết như khiếu nại chính về tăng cảm giác khát và mệt mỏi, đề cập đến lượng đường trong máu cao, chẩn đoán bệnh tiểu đường loại 2 và thuốc Metformin. Sau đó, nó viết lại hồ sơ để loại trừ thông tin nhạy cảm này.
+
+**Mẫu bộ lọc ngữ nghĩa**
+
+Mẫu rất đơn giản:
+
+1.  Chỉ thị cho LLM "lọc thông tin này."
+2.  Cung cấp các quy tắc ngữ nghĩa về những gì cần loại bỏ dựa trên ý nghĩa hoặc mục đích.
+
+Sau đó, LLM sẽ phân tích văn bản, áp dụng các quy tắc và tạo ra kết quả đã lọc.
+
+**Những lưu ý quan trọng:**
+
+*   Bộ lọc ngữ nghĩa không phải là hoàn hảo và có thể yêu cầu kiểm tra bổ sung cho các ứng dụng quan trọng.
+*   Hiệu quả của bộ lọc phụ thuộc vào độ rõ ràng và chính xác của các quy tắc ngữ nghĩa.
+*   LLM tiếp tục phát triển, cải thiện khả năng hiểu và lọc văn bản hiệu quả.
