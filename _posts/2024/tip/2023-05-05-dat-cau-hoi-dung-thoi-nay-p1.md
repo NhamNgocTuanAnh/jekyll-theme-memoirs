@@ -18,11 +18,169 @@ keywords:
   - Shortcuts android
 date: 2024-05-15 10:01:10 +0700
 permalink: coding/dat-cau-hoi-dung-thoi-hien-dai-4-0-p1
+skip_toc: true
 ---
 
 > Hãy tưởng tượng ChatGPT như một "siêu năng lực" cho bộ não của bạn!
 
-## ChatGPT: Siêu Đầu Bếp AI Biến Ý Tưởng Ẩm Thực Thành Hiện Thực
+
+/* #markdown-toc {
+  widht: 100%;
+  overflow: hidden;
+  padding: 10px 0 10px 20px;
+}
+#markdown-toc .one-three {
+  width: 31%;
+  float: left;
+  overflow: hidden;
+  margin: 0 10px;
+} */
+#markdown-toc:last-child {
+  margin-right: 0;
+}
+#markdown-toc ul  {
+  padding: 5px 0;
+  margin: 0;
+    list-style-type: none!important;
+  padding-left: 0; /* Loại bỏ padding mặc định bên trái */
+}
+#markdown-toc ul a{
+
+    list-style-type: none; /* Xóa dấu chấm của tất cả các thẻ li trong ul */
+
+}
+#markdown-toc li {
+  cursor: pointer;
+  padding: 0 10px;
+}
+
+#markdown-toc a {
+  text-decoration: none;
+  line-height: 1.4;
+  font-family: Poppins,Helvetica,sans-serif;
+  padding: 10px;
+  display: block;
+  box-sizing: border-box;
+  transition: .6s ease-out;
+  font-weight: 500;
+  color: #555;
+  margin-bottom: 5px;
+  border-radius: 3px;
+
+}
+#markdown-toc ul li:hover a {
+  text-decoration: none;
+  display: block;
+  background: #e74e84;
+line-height: 1.4;
+  padding: 10px;
+  display: block;
+  box-sizing: border-box;
+  transition: .6s ease-out;
+  font-weight: 500;
+  color: #fff;
+  margin-bottom: 5px;
+  border-radius: 3px;
+  box-sizing: border-box;
+  display: block;
+  transform: scale(1.05);
+  transition: all .5s ease-in-out;
+
+}
+span.list-icon {
+  color: #e74e84;
+  display: block;
+  float: right;
+  font-size: 12px;
+  font-weight: normal;
+  margin-right: 5px;
+  margin-top: 3px;
+}
+#markdown-toc ul li:hover span.list-icon {
+  color: #fff;
+  display: block;
+  float: right;
+  font-size: 15px;
+  font-weight: normal;
+  margin-right: 4px;
+  margin-top: 3px;
+}
+
+@media all and (max-width: 912px) {
+  #markdown-toc {
+  width: 30%;
+  float: left;
+  overflow: hidden;
+  margin: 0 5px;
+}
+#markdown-toc a {
+  line-height: 1.4;
+  font-family: Poppins,Helvetica,sans-serif;
+  padding: 10px;
+  display: block;
+  box-sizing: border-box;
+  transition: .6s ease-out;
+  font-weight: 500;
+  color: #555;
+  margin-bottom: 5px;
+  border-radius: 3px;
+  }
+#markdown-toc ul li:hover a {
+  padding: 10px;
+  display: block;
+  box-sizing: border-box;
+  font-weight: 500;
+  color: #fff;
+  margin-bottom: 5px;
+  border-radius: 3px;
+
+  }
+
+}
+@media all and (max-width: 768px) {
+
+#markdown-toc {
+  width: 46%;
+  float: left;
+  overflow: hidden;
+  margin: 5px 10px;
+}
+  #markdown-toc ul li:hover a {
+  padding: 10px;
+  display: block;
+  box-sizing: border-box;
+  font-weight: 500;
+  color: #fff;
+  margin-bottom: 5px;
+  border-radius: 3px;
+
+  }
+
+}
+@media all and (max-width: 556px) {
+    #markdown-toc {
+  padding: 10px 10px 10px 10px;
+}
+ #markdown-toc  {
+  width: 100%;
+  float: left;
+  overflow: hidden;
+  margin: 0 0;
+}
+    #markdown-toc  ul li:hover a {
+  padding: 10px;
+  display: block;
+  box-sizing: border-box;
+  font-weight: 500;
+  color: #fff;
+  margin-bottom: 5px;
+  border-radius: 3px;
+
+  }
+
+}
+</style>
+### ChatGPT: Siêu Đầu Bếp AI Biến Ý Tưởng Ẩm Thực Thành Hiện Thực
 
 **Hãy hình dung ChatGPT như một siêu đầu bếp AI đa tài, sẵn sàng biến mọi ý tưởng ẩm thực của bạn, dù là phức tạp nhất, thành hiện thực!**
 
@@ -127,6 +285,8 @@ Ví dụ:  Phân tích lỗi phát âm của trẻ em
 **Tóm lại:**
 
 Persona Pattern là một kỹ thuật Prompt mạnh mẽ, cho phép bạn khai thác tri thức chuyên sâu từ ChatGPT. Hãy trở thành một "đạo diễn" tài ba, "chỉ đạo diễn xuất" cho ChatGPT và nhận được những kết quả "diễn xuất" chuyên nghiệp!
+## Giao Tiếp Hiệu Quả Với Các Trình Chat AI: Hướng Dẫn Từ Thiết Kế Câu Hỏi Đến Phân Tích Kết Quả
+
 
  Các trình chat AI như ChatGPT, Gemini,... là những công cụ mạnh mẽ có thể hỗ trợ chúng ta trong nhiều lĩnh vực. Tuy nhiên, để khai thác hết tiềm năng của chúng, bạn cần biết cách giao tiếp hiệu quả. Quá trình này bao gồm các bước sau:
 
