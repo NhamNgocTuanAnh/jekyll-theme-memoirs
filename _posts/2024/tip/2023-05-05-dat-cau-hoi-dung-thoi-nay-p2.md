@@ -21,7 +21,7 @@ permalink: coding/dat-cau-hoi-dung-thoi-hien-dai-4-0-p2
 skip_toc: true
 ---
 
-## **Hiểu về Prompt: Chìa Khóa Để Giao Tiếp Hiệu Quả Với Các Mô Hình Ngôn Ngữ Lớn**
+## Hiểu về Prompt: Chìa Khóa Để Giao Tiếp Hiệu Quả Với Các Mô Hình Ngôn Ngữ Lớn
 
 Prompt là gì? Trong bối cảnh của các mô hình ngôn ngữ lớn (LLM), prompt không chỉ đơn thuần là một câu hỏi đơn giản. Nó là một công cụ đa năng có thể kích hoạt nhiều hành vi khác nhau trong các mô hình này, và hiệu quả của nó phụ thuộc rất nhiều vào cấu trúc và cách diễn đạt.
 
