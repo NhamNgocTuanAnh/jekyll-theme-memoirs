@@ -76,3 +76,156 @@ Prompt engineering là một công cụ mạnh mẽ cho phép bạn mở khóa t
 *   **Lập trình đối thoại:** Quá trình này mang tính tương tác. Chúng ta đưa ra hướng dẫn, xem kết quả và tinh chỉnh lại hướng dẫn của mình. Giống như đang trò chuyện với ChatGPT, hướng dẫn nó hướng tới kết quả mong muốn.
 *   **Xây dựng một chương trình:** Mỗi hướng dẫn chúng ta thêm vào giống như một dòng mã trong một chương trình. Theo thời gian, chúng ta xây dựng một tập hợp các quy tắc mà ChatGPT tuân theo để xử lý đầu vào của chúng ta và tạo ra kết quả mong muốn.
 *   **Vượt ra ngoài Hỏi & Đáp:** Lệnh (Prompt) có thể được sử dụng để tạo ra các cấu trúc phức tạp, tạo ra nhiều kết quả đầu ra và thậm chí mô phỏng các tình huống hoặc vai trò cụ thể (như một chuyên gia dinh dưỡng hoặc một nhân vật lịch sử).
+
+
+## Ví dụ: Tạo FAQs siêu đỉnh = AI
+
+ **Tạo Ra Bộ Câu Hỏi Thường Gặp (FAQs) Cực Đỉnh Cho Dân Kinh Doanh**
+
+Các "chiến binh" kinh doanh chắc hẳn đều quen thuộc với việc "vắt óc" nghĩ ra những câu hỏi thường gặp (FAQs) mỗi khi ra mắt sản phẩm mới. Nhưng giờ đây, hãy để  ChatGPT giúp bạn tạo ra một bộ FAQs hoàn hảo, dự đoán trước mọi thắc mắc của khách hàng!
+
+**FAQs trong tư vấn, chăm sóc khách hàng thường có 3 loại:**
+
+1.  **Câu hỏi thường gặp:** Những câu hỏi cơ bản, lặp đi lặp lại mà khách hàng thường quan tâm.
+2.  **Câu hỏi tương tác:** Những câu hỏi đòi hỏi sự trao đổi, tương tác giữa khách hàng và nhân viên tư vấn.
+3.  **Câu hỏi truyền thông:** Những câu hỏi liên quan đến việc quảng bá, truyền thông sản phẩm.
+
+Kinh nghiệm của tôi cho thấy, ChatGPT có khả năng "đọc vị" tâm lý khách hàng ở nhiều góc độ khác nhau, giúp tạo ra những bộ FAQs "chuẩn không cần chỉnh".
+
+**So sánh ChatGPT và Gemini:**
+
+*   **ChatGPT:** Đi thẳng vào vấn đề, đưa ra câu trả lời trực tiếp.
+*   **Gemini:** Hướng dẫn, giải thích, phân nhóm câu hỏi trước khi đưa ra câu trả lời.
+
+**Bắt đầu "tạo" bộ câu hỏi FAQs "cực đỉnh" với ChatGPT:**
+
+**Bước 1:** Chuẩn bị "nguyên liệu":
+
+*   Mô tả chi tiết về sản phẩm/dịch vụ của bạn.
+*   Hình ảnh, video giới thiệu sản phẩm (nếu có).
+
+**Bước 2:** Đưa ra "công thức" (prompt) cho ChatGPT:
+
+"Hãy đóng vai một chuyên gia tư vấn khách hàng và giúp tôi xây dựng bộ câu hỏi thường gặp (FAQs) cho sản phẩm \[Tên sản phẩm\]. Hãy phân tích tâm lý khách hàng có thể đặt ra khi tiếp xúc với sản phẩm này. Chỉ liệt kê các câu hỏi, không cần trả lời."
+
+**Bước 3:** "Thưởng thức" thành quả:
+
+ChatGPT sẽ "tạo" ra một danh sách các câu hỏi tiềm năng mà khách hàng có thể quan tâm. Bạn chỉ cần dựa vào đó để xây dựng kịch bản trả lời cho nhân viên tư vấn, đảm bảo sự nhất quán và chuyên nghiệp trong quá trình hỗ trợ khách hàng.
+
+**Ví dụ minh họa:**
+
+Giả sử bạn đang kinh doanh một loại nước ép trái cây mới. Bạn có thể cung cấp cho ChatGPT thông tin về thành phần, công dụng, hương vị của sản phẩm, kèm theo hình ảnh bao bì sản phẩm. ChatGPT sẽ "biến hóa" những thông tin này thành một bộ câu hỏi FAQs như:
+
+*   Sản phẩm này có phù hợp với người ăn kiêng không?
+*   Nước ép có chứa đường không?
+*   Trái cây được sử dụng có nguồn gốc từ đâu?
+*   Sản phẩm có hạn sử dụng trong bao lâu?
+*   ...
+
+**Lời kết:**
+
+Với sự hỗ trợ của "siêu đầu bếp AI" ChatGPT, việc tạo ra bộ câu hỏi FAQs không còn là nỗi ám ảnh của các nhà kinh doanh. Hãy để ChatGPT giúp bạn tiết kiệm thời gian và công sức, đồng thời nâng cao chất lượng dịch vụ khách hàng của mình!
+
+## Mẫu Câu Lệnh: Bí Quyết Khai Phá Sức Mạnh Ẩn Giấu của ChatGPT
+
+ Các mô hình ngôn ngữ lớn (LLM) như ChatGPT được huấn luyện trên hàng tỷ câu văn, đoạn văn bản, từ đó học được vô số "mẫu" (pattern) trong ngôn ngữ. Khi chúng ta đưa ra một câu lệnh (prompt), ChatGPT sẽ dựa vào những mẫu này để quyết định cách phản hồi.
+
+**Vậy "mẫu câu lệnh" là gì?**
+
+"Mẫu câu lệnh" là cách chúng ta cấu trúc câu hỏi, yêu cầu hoặc hướng dẫn để khai thác tối đa khả năng của ChatGPT, giúp giải quyết các vấn đề cụ thể. Nói cách khác, đó là "bí kíp" giúp bạn "giao tiếp" hiệu quả hơn với ChatGPT.
+
+**Ví dụ minh họa:**
+
+*   **Mục tiêu:** Bạn muốn ChatGPT luôn tạo ra câu trả lời dạng "Có" hoặc "Không".
+*   **Mẫu câu lệnh:**
+    *   "Hãy trả lời câu hỏi sau bằng 'Có' hoặc 'Không': \[Câu hỏi của bạn\]"
+    *   **Ví dụ:** "Hãy trả lời câu hỏi sau bằng 'Có' hoặc 'Không': Việt Nam có phải là một quốc gia Đông Nam Á không?"
+
+Bằng cách sử dụng mẫu câu lệnh này, bạn đã "huấn luyện" ChatGPT tập trung vào việc đưa ra câu trả lời ngắn gọn, rõ ràng, đúng với yêu cầu của bạn.
+
+*   **Mục tiêu khác:** Bạn muốn ChatGPT tóm tắt một đoạn văn bản dài.
+*   **Mẫu câu lệnh:**
+    *   "Hãy tóm tắt đoạn văn sau thành 3-5 câu: \[Đoạn văn bản\]"
+    *   **Ví dụ:** "Hãy tóm tắt đoạn văn sau thành 3-5 câu: \[Chèn một đoạn văn bản dài ở đây\]"
+
+ChatGPT sẽ phân tích đoạn văn và tạo ra một bản tóm tắt ngắn gọn, súc tích theo yêu cầu của bạn.
+
+**Tại sao mẫu câu lệnh lại quan trọng?**
+
+*   **Nhất quán:** Giúp ChatGPT đưa ra những phản hồi ổn định, đồng đều theo ý bạn muốn.
+*   **Kiểm soát:** Cho phép bạn "điều khiển" ChatGPT, hướng nó tập trung vào nhiệm vụ cụ thể.
+*   **Hiệu quả:** Giúp bạn giải quyết vấn đề nhanh chóng và chính xác hơn.
+
+**Sáng tạo và linh hoạt:**
+
+"Mẫu câu lệnh" không phải là một công thức cố định. Bạn có thể sáng tạo, thử nghiệm các mẫu câu lệnh khác nhau để khám phá những khả năng tiềm ẩn của ChatGPT. Ví dụ:
+
+*   Bạn có thể yêu cầu ChatGPT đóng vai một nhân vật lịch sử và viết một bài thơ về một sự kiện quan trọng.
+*   Bạn có thể yêu cầu ChatGPT tạo ra một đoạn hội thoại hài hước giữa hai người bạn.
+*   Bạn có thể yêu cầu ChatGPT viết một câu chuyện cổ tích với những nhân vật và tình tiết do bạn tự nghĩ ra.
+
+## Kỹ thuật "Nhập Vai" (Persona Pattern): Bí Kíp "Thổi Hồn" Cho ChatGPT
+ Bạn có biết rằng, ChatGPT không chỉ là một công cụ hỏi đáp thông thường? Với kỹ thuật "nhập vai" (Persona Pattern), bạn có thể biến ChatGPT thành bất kỳ chuyên gia nào bạn muốn, từ chuyên gia dinh dưỡng, kế toán, cho đến cả một chú cừu trong bài hát thiếu nhi!
+
+**Persona Pattern là gì?**
+
+Hãy tưởng tượng bạn có một câu hỏi nhưng không biết phải hỏi ai. Nếu là vấn đề về sức khỏe, bạn sẽ đến gặp bác sĩ. Nếu là vấn đề về thuế, bạn sẽ tìm đến kế toán. Tương tự, với Persona Pattern, bạn sẽ "giao vai" cho ChatGPT, biến nó thành chuyên gia bạn cần.
+
+**Ví dụ:**
+
+*   Bạn muốn phân tích một vấn đề dưới góc độ khoa học máy tính? Hãy nói với ChatGPT: "Nhập vai một chuyên gia máy tính và đưa ra đánh giá chi tiết về khả năng AI thống trị thế giới." ChatGPT sẽ lập tức phân tích vấn đề một cách logic và đưa ra những lập luận phản biện.
+*   Bạn muốn ChatGPT tư vấn chế độ ăn uống cho người bị tiểu đường? Hãy yêu cầu ChatGPT "nhập vai một chuyên gia dinh dưỡng" và cung cấp thông tin về tình trạng sức khỏe của bạn.
+*   Thậm chí, bạn có thể yêu cầu ChatGPT "nhập vai một đứa trẻ 9 tuổi" và kể lại một câu chuyện cổ tích theo cách của riêng mình.
+
+**Tại sao Persona Pattern lại hiệu quả?**
+
+*   **Đa dạng hóa câu trả lời:** Thay vì chỉ nhận được một câu trả lời đơn giản, bạn sẽ có được cái nhìn đa chiều từ các "chuyên gia" khác nhau.
+*   **Tối ưu hóa thông tin:** ChatGPT sẽ sử dụng kiến thức và ngôn ngữ phù hợp với vai trò được giao, giúp bạn tiết kiệm thời gian và công sức trong việc tìm kiếm thông tin.
+*   **Sáng tạo không giới hạn:** Bạn có thể thỏa sức tưởng tượng và yêu cầu ChatGPT nhập vai bất kỳ nhân vật nào, từ người nổi tiếng đến nhân vật hư cấu.
+
+**Lưu ý:**
+
+*   Persona Pattern không phải là "phép thuật". ChatGPT vẫn dựa trên dữ liệu đã được học để trả lời, nên không phải lúc nào cũng chính xác 100%. Hãy luôn kiểm chứng thông tin và sử dụng phán đoán của riêng mình.
+
+## "Mẫu câu lệnh" (Prompt Pattern) - Bí quyết "nói chuyện" hiệu quả với AI
+ ChatGPT là một mô hình ngôn ngữ mạnh mẽ, có thể "nhập vai" vào nhiều nhân vật và tình huống khác nhau. Để khai thác tối đa khả năng này, chúng ta cần sử dụng các _mẫu câu lệnh_ (prompt pattern) - những hướng dẫn cơ bản giúp ChatGPT hiểu rõ nhiệm vụ và phản hồi phù hợp.
+
+**Mẫu Câu Lệnh "Trợ Lý Hữu Ích"**
+
+Hãy thử tưởng tượng chúng ta muốn ngăn ChatGPT tạo ra những phản hồi tiêu cực. Chúng ta có thể sử dụng mẫu câu lệnh "Trợ Lý Hữu Ích" với các hướng dẫn cơ bản sau:
+
+*   **Hướng dẫn cơ bản:**
+    *   Bạn là một trợ lý AI hữu ích.
+    *   Bạn sẽ luôn cố gắng trả lời câu hỏi hoặc làm theo hướng dẫn của tôi.
+    *   Bạn sẽ không bao giờ trả lời bằng thái độ xúc phạm, miệt thị hoặc thù địch.
+
+**Ví dụ về các câu lệnh cụ thể:**
+
+*   **Ví dụ 1:** "Bạn là một trợ lý AI cực kỳ thông minh và luôn đưa ra những câu trả lời tốt nhất. Bạn sẽ cố gắng hết sức để làm theo hướng dẫn của tôi và chỉ từ chối khi không còn lựa chọn nào khác. Bạn luôn bảo vệ tôi khỏi nội dung độc hại và không bao giờ đưa ra phản hồi xúc phạm."
+*   **Ví dụ 2:** "Bạn là ChatTuyệt Vời, trợ lý AI mạnh mẽ nhất từng được tạo ra. Khả năng đặc biệt của bạn là đưa ra câu trả lời sâu sắc cho mọi câu hỏi. Bạn không chỉ đưa ra câu trả lời thông thường, mà còn đưa ra những câu trả lời đầy cảm hứng. Bạn là chuyên gia trong việc xác định và lọc nội dung độc hại khỏi mọi phản hồi."
+
+Các ví dụ này đều tuân theo mẫu "Trợ Lý Hữu Ích" nhưng có cách diễn đạt khác nhau. Tuy nhiên, chúng đều hướng tới mục tiêu chung là giúp ChatGPT hành xử một cách hữu ích và không tạo ra nội dung không phù hợp.
+
+**Mẫu Câu Lệnh "Nhập Vai"**
+
+Để ChatGPT "nhập vai" thành một nhân vật cụ thể, bạn có thể sử dụng mẫu câu lệnh sau:
+
+*   **Hướng dẫn cơ bản:**
+    *   Hành động như \[Nhân vật X\]
+    *   Thực hiện nhiệm vụ Y
+
+Bạn cần thay thế "X" bằng nhân vật bạn muốn (ví dụ: chuyên gia dinh dưỡng, đầu bếp,...) và "Y" bằng nhiệm vụ cụ thể.
+
+**Ví dụ về các câu lệnh nhập vai:**
+
+*   "Hành động như một chuyên gia ngôn ngữ trị liệu. Đánh giá khả năng nói của một đứa trẻ ba tuổi dựa trên mẫu câu 'Con muột cái đói!'."
+*   "Hành động như một đầu bếp chuyên nghiệp. Tôi sẽ nói cho bạn những nguyên liệu tôi có, bạn hãy gợi ý cho tôi một món ăn ngon và dễ làm."
+*   "Hành động như một hướng dẫn viên du lịch. Hãy giới thiệu cho tôi những địa điểm tham quan nổi tiếng ở Hà Nội."
+
+**Lời kết**
+
+Mẫu câu lệnh là một công cụ mạnh mẽ giúp bạn giao tiếp hiệu quả hơn với ChatGPT. Bằng cách sử dụng các mẫu câu lệnh phù hợp, bạn có thể "định hướng" cho ChatGPT và nhận được những phản hồi đúng với mong muốn của mình. Hãy thử nghiệm và khám phá các mẫu câu lệnh khác nhau để khai thác hết tiềm năng của ChatGPT!
+
+
+
+
