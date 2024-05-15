@@ -226,6 +226,39 @@ Bạn cần thay thế "X" bằng nhân vật bạn muốn (ví dụ: chuyên gi
 
 Mẫu câu lệnh là một công cụ mạnh mẽ giúp bạn giao tiếp hiệu quả hơn với ChatGPT. Bằng cách sử dụng các mẫu câu lệnh phù hợp, bạn có thể "định hướng" cho ChatGPT và nhận được những phản hồi đúng với mong muốn của mình. Hãy thử nghiệm và khám phá các mẫu câu lệnh khác nhau để khai thác hết tiềm năng của ChatGPT!
 
+## Tối ưu hóa thông tin và cung cấp ngữ cảnh cho ChatGPT: Chìa khóa để khai phá sức mạnh AI
 
+ Một trong những yếu tố quan trọng nhất khi sử dụng mô hình ngôn ngữ lớn như ChatGPT là cung cấp cho nó thông tin mà nó chưa từng biết. Các mô hình này được huấn luyện trên một lượng dữ liệu khổng lồ, nhưng vẫn có những giới hạn về thời gian và nguồn dữ liệu. Ví dụ, ChatGPT không thể biết về những sự kiện xảy ra sau thời điểm nó được đào tạo (knowledge cut-off) hay những thông tin không có trong bộ dữ liệu huấn luyện của nó.
+
+**Vậy làm thế nào để "nạp" thêm kiến thức cho ChatGPT?**
+
+Câu trả lời đơn giản là: Đưa thông tin đó vào ngay trong câu hỏi (prompt) của bạn!
+
+**Ví dụ minh họa:**
+
+Giả sử bạn muốn ChatGPT ước tính số lượng chim bên ngoài nhà bạn vào một ngày bất kỳ. ChatGPT không thể biết điều này vì nó không có khả năng quan sát thế giới thực. Tuy nhiên, bạn có thể cung cấp cho nó thông tin cần thiết thông qua prompt như sau:
+
+> "Số lượng chim trung bình được quan sát thấy bên ngoài nhà tôi vào các ngày ngẫu nhiên như sau: \* Tháng 1: 120 con \* Tháng 2: 150 con \* Tháng 3: 210 con \* Tháng 4: 408 con Hiện tại là tháng 3. Dựa trên dữ liệu này, hãy ước tính số lượng chim bên ngoài nhà tôi."
+
+Bằng cách này, bạn đã cung cấp cho ChatGPT dữ liệu cần thiết để nó có thể đưa ra một ước tính hợp lý.
+
+**Ứng dụng vào thực tế:**
+
+Bạn có thể áp dụng cách này vào nhiều tình huống khác nhau:
+
+*   **Phân tích tài liệu:** Đưa nội dung tài liệu vào prompt để ChatGPT tóm tắt, phân tích hoặc trả lời các câu hỏi liên quan đến tài liệu đó.
+*   **Tư vấn cá nhân:** Cung cấp thông tin về tình hình tài chính, sức khỏe, sở thích,... của bạn để ChatGPT đưa ra lời khuyên phù hợp.
+*   **Hỗ trợ viết lách:** Đưa ra dàn ý, đề cương hoặc các ý tưởng cho ChatGPT để nó giúp bạn viết một bài báo, truyện ngắn,...
+*   **Tạo nội dung sáng tạo:** Cung cấp thông tin về phong cách, chủ đề, đối tượng mục tiêu,... để ChatGPT sáng tác thơ, viết lời bài hát, kịch bản phim,...
+
+**Lưu ý:**
+
+*   **Giới hạn độ dài của prompt:** Mỗi mô hình ngôn ngữ có một giới hạn về độ dài của prompt. Nếu vượt quá giới hạn này, ChatGPT sẽ không thể xử lý hết thông tin bạn cung cấp.
+*   **Lọc và tóm tắt thông tin:** Đối với những tài liệu dài, hãy lọc và tóm tắt thông tin quan trọng trước khi đưa vào prompt để đảm bảo hiệu quả.
+*   **Kiểm tra kết quả:** Luôn kiểm tra lại kết quả ChatGPT đưa ra và đối chiếu với các nguồn thông tin khác để đảm bảo tính chính xác.
+
+**Lời kết:**
+
+Việc tối ưu hóa thông tin và cung cấp ngữ cảnh phù hợp trong prompt là chìa khóa để khai phá sức mạnh của ChatGPT và các mô hình ngôn ngữ lớn khác. Hãy áp dụng những kỹ thuật này để biến ChatGPT thành một trợ lý đắc lực trong công việc và cuộc sống của bạn!
 
 
