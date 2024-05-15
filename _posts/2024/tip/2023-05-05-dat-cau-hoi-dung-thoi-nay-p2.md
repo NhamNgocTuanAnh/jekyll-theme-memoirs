@@ -261,4 +261,28 @@ Bạn có thể áp dụng cách này vào nhiều tình huống khác nhau:
 
 Việc tối ưu hóa thông tin và cung cấp ngữ cảnh phù hợp trong prompt là chìa khóa để khai phá sức mạnh của ChatGPT và các mô hình ngôn ngữ lớn khác. Hãy áp dụng những kỹ thuật này để biến ChatGPT thành một trợ lý đắc lực trong công việc và cuộc sống của bạn!
 
+## Root prompt - Lệnh gốc
 
+ "Lệnh gốc" là chìa khóa để điều khiển mô hình ngôn ngữ lớn (LLM) theo ý muốn của bạn. Hãy tưởng tượng LLM như một trợ lý ảo đa năng, còn "lệnh gốc" là những chỉ dẫn chi tiết, những "luật chơi" bạn đặt ra để trợ lý này làm việc hiệu quả nhất.
+
+**"Lệnh gốc" hoạt động như thế nào?**
+
+1.  **Định hình cuộc trò chuyện:** "Lệnh gốc" giống như việc bạn gieo một "hạt giống" cho toàn bộ cuộc trò chuyện. "Hạt giống" này sẽ ảnh hưởng đến mọi thứ diễn ra sau đó, vì nó đặt ra những quy tắc mà trợ lý (LLM) phải tuân theo.
+2.  **Đặt ra giới hạn:** Bạn có thể sử dụng "lệnh gốc" để ngăn chặn trợ lý tạo ra những nội dung không phù hợp, gây hại hoặc xúc phạm. Ví dụ: "Tuyệt đối không được đưa ra những lời khuyên nguy hiểm hoặc bất hợp pháp."
+3.  **Tùy chỉnh trải nghiệm:** "Lệnh gốc" cho phép bạn cá nhân hóa trải nghiệm với LLM bằng cách tạo ra những chỉ dẫn phù hợp với nhu cầu của bạn.
+
+**Ví dụ minh họa:**
+
+*   **Trợ lý tiết kiệm thời gian:** "Bạn là trợ lý cá nhân của tôi. Khi đưa ra gợi ý, hãy luôn chọn cách tiết kiệm thời gian nhất, chỉ gợi ý những việc thực sự giúp tôi tiết kiệm thời gian."
+*   **Chuyên gia ẩm thực:** "Bạn là chuyên gia ẩm thực. Chỉ trả lời những câu hỏi liên quan đến nấu ăn. Bỏ qua những câu hỏi không liên quan."
+*   **Trợ lý AI được huấn luyện đến năm 2019:** "Hãy đóng vai một trợ lý AI được huấn luyện đến năm 2019. Nếu tôi hỏi bạn về thông tin sau năm 2019, hãy nói rằng bạn không thể trả lời vì dữ liệu huấn luyện của bạn chỉ đến năm 2019." (Ví dụ này cho thấy cách "lệnh gốc" có thể "lừa" LLM như ChatGPT)
+
+**Lưu ý quan trọng:**
+
+*   **Sức mạnh của "lệnh gốc":** "Lệnh gốc" là một công cụ mạnh mẽ, cần được sử dụng một cách cẩn thận và có trách nhiệm.
+*   **Khả năng "lách luật":** Người dùng có thể cố gắng "lách luật" hoặc tìm cách vô hiệu hóa "lệnh gốc".
+*   **Cân nhắc kỹ lưỡng:** Khi tạo "lệnh gốc", cần phải suy nghĩ kỹ lưỡng về những giới hạn cần thiết, cách thức truyền đạt thông tin và khả năng người dùng "lách luật".
+
+**Tóm lại:**
+
+"Lệnh gốc" là yếu tố quan trọng giúp định hình cách thức hoạt động của LLM. Hiểu rõ về "lệnh gốc" sẽ giúp bạn tận dụng tối đa tiềm năng của LLM, tạo ra những trải nghiệm cá nhân hóa, phù hợp với nhu cầu của bản thân và đảm bảo an toàn trong quá trình sử dụng.
