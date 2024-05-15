@@ -23,7 +23,7 @@ skip_toc: true
 
 > Hãy tưởng tượng ChatGPT như một "siêu năng lực" cho bộ não của bạn!
 
-### Ví dụ : Siêu Đầu Bếp AI Biến Ý Tưởng Ẩm Thực Thành Hiện Thực
+### Ví dụ. Biến Ý Tưởng Ẩm Thực Thành Hiện Thực với Siêu Đầu Bếp AI
 
 **Hãy hình dung ChatGPT như một siêu đầu bếp AI đa tài, sẵn sàng biến mọi ý tưởng ẩm thực của bạn, dù là phức tạp nhất, thành hiện thực!**
 
@@ -82,7 +82,7 @@ Bạn muốn một thực đơn kết hợp ẩm thực Uzbekistan và Ethiopia,
 
 ChatGPT là công cụ mạnh mẽ, giúp bạn hiện thực hóa mọi ý tưởng ẩm thực. Hãy sáng tạo, cởi mở và "giao tiếp" rõ ràng để ChatGPT "nấu nướng" nên những "món ăn" tuyệt vời nhất!
 
-### Ví dụ: Nhập vai chuyên gia với Persona Pattern!
+### Ví dụ. Nhập vai chuyên gia với Persona Pattern!
 
 **Hãy tưởng tượng ChatGPT như một "diễn viên tài năng", có thể nhập vai bất kỳ chuyên gia nào bạn muốn!**
 
@@ -128,7 +128,7 @@ Ví dụ:  Phân tích lỗi phát âm của trẻ em
 **Tóm lại:**
 
 Persona Pattern là một kỹ thuật Prompt mạnh mẽ, cho phép bạn khai thác tri thức chuyên sâu từ ChatGPT. Hãy trở thành một "đạo diễn" tài ba, "chỉ đạo diễn xuất" cho ChatGPT và nhận được những kết quả "diễn xuất" chuyên nghiệp!
-### Giao Tiếp Hiệu Quả Với Các Trình Chat AI: Hướng Dẫn Từ Thiết Kế Câu Hỏi Đến Phân Tích Kết Quả thu được
+#### Giao Tiếp Hiệu Quả Với Các Trình Chat AI: Hướng Dẫn Từ Thiết Kế Câu Hỏi Đến Phân Tích Kết Quả thu được
 
 > Các trình chat AI như ChatGPT, Gemini,... là những công cụ mạnh mẽ có thể hỗ trợ chúng ta trong nhiều lĩnh vực. Tuy nhiên, để khai thác hết tiềm năng của chúng, bạn cần biết cách giao tiếp hiệu quả. Quá trình này bao gồm các bước sau:
 
