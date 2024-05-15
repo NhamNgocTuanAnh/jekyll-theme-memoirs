@@ -18,6 +18,7 @@ keywords:
   - Shortcuts android
 date: 2024-05-17 10:01:10 +0700
 permalink: coding/dat-cau-hoi-dung-thoi-hien-dai-4-0-p2
+skip_toc: true
 ---
 
 > Prompt không chỉ là câu hỏi, mà là "chỉ dẫn" chi tiết giúp bạn "điều khiển" ChatGPT theo ý muốn!
