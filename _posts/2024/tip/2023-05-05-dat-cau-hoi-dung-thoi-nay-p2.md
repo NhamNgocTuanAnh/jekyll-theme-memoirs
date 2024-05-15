@@ -7,7 +7,7 @@ tags: [ tips,tool ]
 image: assets/images/2023/lap-trinh/avts/javascript-come-back-avt.webp
 lazyimages: "enabled"
 isGithubComments: false
-excerpt: Hãy tưởng tượng ChatGPT như một "đầu bếp AI" siêu đẳng, có thể giúp bạn hiện thực hóa mọi ý tưởng ẩm thực, dù là phức tạp nhất!
+excerpt: Thay vì hỏi “Hãy kể cho tôi nghe về Paris,” bạn có thể hỏi “Mô tả phong cách kiến trúc của tháp Eiffel.” - prompt của bạn càng chính xác và phong phú về ngữ cảnh, LLM càng có thể hiểu và đáp ứng yêu cầu của bạn tốt hơn.
 adsense: "enabled"
 keywords:
   - Tasker
