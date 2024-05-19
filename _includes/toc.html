@@ -17,7 +17,7 @@
     {% endfor %}
 
     {% if final_h2_ids.size > 0 %}
-    <p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Mục lục</p>
+    <p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;margin: 15px 15px 15px 15px;">Mục lục</p>
         <div id="table-of-content">
             {% for h2_text in final_h2_texts %}
                 {% assign index = forloop.index | minus: 1 %}
