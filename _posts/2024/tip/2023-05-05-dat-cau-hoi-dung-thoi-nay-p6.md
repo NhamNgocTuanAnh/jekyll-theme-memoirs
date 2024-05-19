@@ -7,7 +7,7 @@ tags: [ tips,tool,chatgpt ]
 image: assets/images/2023/lap-trinh/avts/javascript-come-back-avt.webp
 lazyimages: "enabled"
 isGithubComments: false
-excerpt: "Mẫu câu lệnh" là cách chúng ta cấu trúc câu hỏi, yêu cầu hoặc hướng dẫn để khai thác tối đa khả năng của ChatGPT, giúp giải quyết các vấn đề cụ thể. Nói cách khác, đó là "bí kíp" giúp bạn "giao tiếp" hiệu quả hơn với ChatGPT.
+excerpt: Mẫu câu lệnh là cách chúng ta cấu trúc câu hỏi, yêu cầu hoặc hướng dẫn để khai thác tối đa khả năng của ChatGPT, giúp giải quyết các vấn đề cụ thể. Nói cách khác, đó là bí kíp giúp bạn giao tiếp hiệu quả hơn với ChatGPT.
 adsense: "enabled"
 keywords:
   - Tasker

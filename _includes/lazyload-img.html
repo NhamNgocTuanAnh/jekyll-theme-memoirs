@@ -1,0 +1,10 @@
+{% if include.image_src %}
+  <!-- If javascript is not on. -->
+  <noscript><img src="{{include.image_src}}" alt="{{include.image_alt}}" title="{{include.image_title}}" /></noscript>
+
+  <!-- If javascript is present. -->
+  <div class="content" style="text-align:center; ">
+        <img class="lazyload blur-up" loading="lazy"  data-src="{{include.image_src}}" alt="{{include.image_alt}}" title="{{include.image_title}}"  title="source: imgur.com" />
+  </div>
+{% endif %}
+
