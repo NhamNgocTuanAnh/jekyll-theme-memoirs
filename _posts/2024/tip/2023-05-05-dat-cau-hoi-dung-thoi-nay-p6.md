@@ -21,6 +21,9 @@ permalink: coding/chatgpt/ky-nang-dat-cau-hoi
 skip_toc: true
 ---
 
+{% include lazyload-img.html image_src="https://i.imgur.com/uo95Vsj.jpeg" image_alt="Alt" image_title="Title" %}
+
+
 ## Mẫu Câu Lệnh: Bí Quyết Khai Phá Sức Mạnh Ẩn Giấu của ChatGPT
 
  Các mô hình ngôn ngữ lớn (LLM) như ChatGPT được huấn luyện trên hàng tỷ câu văn, đoạn văn bản, từ đó học được vô số "mẫu" (pattern) trong ngôn ngữ. Khi chúng ta đưa ra một câu lệnh (prompt), ChatGPT sẽ dựa vào những mẫu này để quyết định cách phản hồi.
