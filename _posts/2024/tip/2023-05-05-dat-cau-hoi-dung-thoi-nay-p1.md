@@ -23,7 +23,7 @@ skip_toc: true
 
 > GPT-3.5 (zero shot) chỉ đạt độ chính xác 48.1%, GPT-4 (zero shot) làm tốt hơn ở mức 67.0%. Trong khi đó nếu sử dụng thêm các công cụ, kế hoạch, agent workflow, GPT-3.5 có thể đạt tới độ chính xác 95.1% (phân tích từ Joaquin Dominguez và John Santerre)
 
-## Ví dụ. Biến Ý Tưởng Ẩm Thực Thành Hiện Thực với Siêu Đầu Bếp AI
+## Ví dụ. Kết Hợp Ẩm Thực Uzbekistan & Ethiopia Kiểu Keto? ChatGPT Làm Được!
 
 **Hãy hình dung ChatGPT như một siêu đầu bếp AI đa tài, sẵn sàng biến mọi ý tưởng ẩm thực của bạn, dù là phức tạp nhất, thành hiện thực!**
 
@@ -51,7 +51,7 @@ Bạn muốn một thực đơn kết hợp ẩm thực Uzbekistan và Ethiopia,
     *  Tạo mã Python cho trò chơi.
 - 🍽️ **Kết quả**:  Bạn sẽ nhận được một thực đơn độc đáo, hấp dẫn và hoàn toàn phù hợp với yêu cầu của bạn, phù hợp với mọi thành viên trong gia đình!
 
-## Ví dụ. Nhập vai chuyên gia với Persona Pattern!
+## Ví dụ. Nhập vai(Persona Pattern)!
 
 **Hãy tưởng tượng ChatGPT như một "diễn viên tài năng", có thể nhập vai bất kỳ chuyên gia nào bạn muốn!**
 
@@ -141,13 +141,13 @@ Persona Pattern là một kỹ thuật Prompt mạnh mẽ, cho phép bạn khai 
 > - Vai trò + ngữ cảnh + ví dụ + kết quả mong muốn + Tone/ Mood
 > - Hoặc sẽ theo nhiều cấu trúc thật chất cũng là biến thể từ cấu trúc số 2.
 
-**Kết luận:**
-
-Giao tiếp hiệu quả với các trình chat AI là một kỹ năng quan trọng trong thời đại công nghệ số. Bằng cách áp dụng các bước trên, bạn sẽ có thể khai thác tối đa sức mạnh của AI, biến chúng thành những trợ thủ đắc lực trong công việc và cuộc sống.
-
 **Lưu ý cần tránh khi đặt câu hỏi cho ChatGPT và Gemini**
 
 *   **Câu hỏi mang tính chất xúc phạm, phân biệt đối xử:** ChatGPT và Gemini được lập trình để tránh tạo ra nội dung độc hại.
 *   **Yêu cầu tạo nội dung bất hợp pháp hoặc vi phạm bản quyền:** Sử dụng AI một cách có trách nhiệm và tôn trọng luật pháp.
 *   **Mong đợi AI đưa ra ý kiến chủ quan hoặc cảm xúc:** ChatGPT và Gemini là công cụ xử lý thông tin, không phải con người.
 *   **Cho rằng AI là nguồn thông tin hoàn toàn chính xác:** Luôn kiểm tra lại thông tin từ các nguồn đáng tin cậy khác.
+
+**Kết luận:**
+
+Giao tiếp hiệu quả với các trình chat AI là một kỹ năng quan trọng trong thời đại công nghệ số. Bằng cách áp dụng các bước trên, bạn sẽ có thể khai thác tối đa sức mạnh của AI, biến chúng thành những trợ thủ đắc lực trong công việc và cuộc sống.
