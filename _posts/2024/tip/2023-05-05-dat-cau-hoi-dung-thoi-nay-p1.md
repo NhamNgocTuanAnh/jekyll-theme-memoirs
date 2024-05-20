@@ -21,7 +21,7 @@ permalink: coding/dat-cau-hoi-dung-thoi-hien-dai-4-0-p1
 skip_toc: true
 ---
 
-> Hãy tưởng tượng ChatGPT như một "siêu năng lực" cho bộ não của bạn!
+> GPT-3.5 (zero shot) chỉ đạt độ chính xác 48.1%, GPT-4 (zero shot) làm tốt hơn ở mức 67.0%. Trong khi đó nếu sử dụng thêm các công cụ, kế hoạch, agent workflow, GPT-3.5 có thể đạt tới độ chính xác 95.1% (phân tích từ Joaquin Dominguez và John Santerre)
 
 ## Ví dụ. Biến Ý Tưởng Ẩm Thực Thành Hiện Thực với Siêu Đầu Bếp AI
 
@@ -90,6 +90,9 @@ Ví dụ:  Phân tích lỗi phát âm của trẻ em
 **Tóm lại:**
 
 Persona Pattern là một kỹ thuật Prompt mạnh mẽ, cho phép bạn khai thác tri thức chuyên sâu từ ChatGPT. Hãy trở thành một "đạo diễn" tài ba, "chỉ đạo diễn xuất" cho ChatGPT và nhận được những kết quả "diễn xuất" chuyên nghiệp!
+
+> Hãy tưởng tượng ChatGPT như một "siêu năng lực" cho bộ não của bạn!
+
 ## Giao Tiếp Hiệu Quả Với Các Trình Chat AI: Hướng Dẫn Từ Thiết Kế Câu Hỏi Đến Phân Tích Kết Quả thu được
 
 > Các trình chat AI như ChatGPT, Gemini,... là những công cụ mạnh mẽ có thể hỗ trợ chúng ta trong nhiều lĩnh vực. Tuy nhiên, để khai thác hết tiềm năng của chúng, bạn cần biết cách giao tiếp hiệu quả. Quá trình này bao gồm các bước sau:
@@ -121,10 +124,14 @@ Persona Pattern là một kỹ thuật Prompt mạnh mẽ, cho phép bạn khai 
     *   **Thay đổi "persona":** Nếu bạn đang sử dụng "Persona Pattern", hãy thử thay đổi vai trò của ChatGPT để xem kết quả có cải thiện không.
 
 **Lời khuyên:**
+* **Thực hành thường xuyên:** Càng sử dụng nhiều, bạn càng hiểu rõ cách thức hoạt động của ChatGPT và có thể đặt câu hỏi hiệu quả hơn.
+* **Kiên nhẫn:** Đôi khi bạn cần thử nghiệm nhiều lần mới tìm được cách diễn đạt phù hợp nhất.
+* **Sáng tạo:** Đừng ngại thử nghiệm các cách đặt câu hỏi khác nhau, kết hợp các kỹ thuật khác nhau để khám phá hết tiềm năng của ChatGPT.
 
-*   **Thực hành thường xuyên:** Càng sử dụng nhiều, bạn càng hiểu rõ cách thức hoạt động của ChatGPT và có thể đặt câu hỏi hiệu quả hơn.
-*   **Kiên nhẫn:** Đôi khi bạn cần thử nghiệm nhiều lần mới tìm được cách diễn đạt phù hợp nhất.
-*   **Sáng tạo:** Đừng ngại thử nghiệm các cách đặt câu hỏi khác nhau, kết hợp các kỹ thuật khác nhau để khám phá hết tiềm năng của ChatGPT.
+
+> - Vai trò + Ngữ cảnh + kết quả mong muốn
+> - Vai trò + ngữ cảnh + ví dụ + kết quả mong muốn + Tone/ Mood
+> - Hoặc sẽ theo nhiều cấu trúc thật chất cũng là biến thể từ cấu trúc số 2.
 
 **Kết luận:**
 
