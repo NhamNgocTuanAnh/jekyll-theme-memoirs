@@ -7,7 +7,7 @@ tags: [ tips,tool ]
 image: assets/images/2023/lap-trinh/avts/javascript-come-back-avt.webp
 lazyimages: "enabled"
 isGithubComments: false
-excerpt: Hãy tưởng tượng ChatGPT như một "đầu bếp AI" siêu đẳng, có thể giúp bạn hiện thực hóa mọi ý tưởng ẩm thực, dù là phức tạp nhất!
+excerpt: GPT-3.5 (zero shot) chỉ đạt độ chính xác 48.1%, GPT-4 (zero shot) làm tốt hơn ở mức 67.0%. Trong khi đó nếu sử dụng thêm các công cụ, kế hoạch, agent workflow, GPT-3.5 có thể đạt tới độ chính xác 95.1% (phân tích từ Joaquin Dominguez và John Santerre)
 adsense: "enabled"
 keywords:
   - Tasker
@@ -90,6 +90,14 @@ Ví dụ:  Phân tích lỗi phát âm của trẻ em
 **Tóm lại:**
 
 Persona Pattern là một kỹ thuật Prompt mạnh mẽ, cho phép bạn khai thác tri thức chuyên sâu từ ChatGPT. Hãy trở thành một "đạo diễn" tài ba, "chỉ đạo diễn xuất" cho ChatGPT và nhận được những kết quả "diễn xuất" chuyên nghiệp!
+
+ | **Câu hỏi không hiệu quả** | **Câu hỏi hiệu quả** |
+| --- | --- |
+| Viết cho tôi một bài luận | Viết một bài luận 500 từ về tác động của mạng xã hội đến giới trẻ |
+| Tìm thông tin về ô nhiễm | So sánh mức độ ô nhiễm không khí ở Hà Nội và thành phố Hồ Chí Minh trong 5 năm qua |
+| Tạo một câu chuyện | Viết một truyện ngắn về một chú mèo đi tìm kho báu |
+| Cho tôi biết về nghệ thuật | So sánh trường phái ấn tượng và trường phái hậu ấn tượng |
+| Lịch sử là gì? | Tóm tắt 5 sự kiện lịch sử quan trọng nhất của thế kỷ 20 |
 
 > Hãy tưởng tượng ChatGPT như một "siêu năng lực" cho bộ não của bạn!
 
