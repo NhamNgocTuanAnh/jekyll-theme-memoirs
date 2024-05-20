@@ -23,7 +23,7 @@ skip_toc: true
 
 > Hãy tưởng tượng ChatGPT như một "siêu năng lực" cho bộ não của bạn!
 
-## Giao Tiếp Hiệu Quả Với Các Trình Chat AI: Hướng Dẫn Từ Thiết Kế Câu Hỏi Đến Phân Tích Kết Quả thu được
+## Bạn đã biết cách sử dụng Prompt để tối ưu ChatGPT & Gemini?
 
 > Các trình chat AI như ChatGPT, Gemini,... là những công cụ mạnh mẽ có thể hỗ trợ chúng ta trong nhiều lĩnh vực. Tuy nhiên, để khai thác hết tiềm năng của chúng, bạn cần biết cách giao tiếp hiệu quả. Quá trình này bao gồm các bước sau:
 
