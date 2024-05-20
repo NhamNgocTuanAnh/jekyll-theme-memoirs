@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Đặt câu hỏi đúng thời 4 chấm 0. Gemini, chat gpt,... !! [Phần 1]'
+title: 'Giao tiếp thông minh với AI: Bí quyết đặt câu hỏi hiệu quả cho ChatGPT & Gemini [Phần 1]'
 author: sal
 categories: [ Coding 💻 ]
 tags: [ tips,tool ]
