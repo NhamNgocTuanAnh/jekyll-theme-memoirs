@@ -17,7 +17,7 @@ keywords:
   - Android Automation
   - Shortcuts android
 date: 2024-05-16 10:01:10 +0700
-permalink: coding/dat-cau-hoi-dung-thoi-hien-dai-4-0-p1
+permalink: coding/chatgpt/dat-cau-hoi-hieu-qua-bi-quyet
 skip_toc: true
 ---
 
@@ -57,7 +57,6 @@ skip_toc: true
 * **Thực hành thường xuyên:** Càng sử dụng nhiều, bạn càng hiểu rõ cách thức hoạt động của ChatGPT và có thể đặt câu hỏi hiệu quả hơn.
 * **Kiên nhẫn:** Đôi khi bạn cần thử nghiệm nhiều lần mới tìm được cách diễn đạt phù hợp nhất.
 * **Sáng tạo:** Đừng ngại thử nghiệm các cách đặt câu hỏi khác nhau, kết hợp các kỹ thuật khác nhau để khám phá hết tiềm năng của ChatGPT.
-
 
 > - Vai trò + Ngữ cảnh + kết quả mong muốn
 > - Vai trò + ngữ cảnh + ví dụ + kết quả mong muốn + Tone/ Mood
