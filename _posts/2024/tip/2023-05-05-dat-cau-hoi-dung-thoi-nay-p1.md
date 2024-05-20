@@ -7,7 +7,7 @@ tags: [ tips,tool ]
 image: assets/images/2023/lap-trinh/avts/javascript-come-back-avt.webp
 lazyimages: "enabled"
 isGithubComments: false
-excerpt: GPT-3.5 (zero shot) chỉ đạt độ chính xác 48.1%, GPT-4 (zero shot) làm tốt hơn ở mức 67.0%. Trong khi đó nếu sử dụng thêm các công cụ, kế hoạch, agent workflow, GPT-3.5 có thể đạt tới độ chính xác 95.1% (phân tích từ Joaquin Dominguez và John Santerre)
+excerpt: GPT-3.5 có thể đạt độ chính xác đáng kinh ngạc lên tới 95.1% khi được kết hợp với các công cụ, kế hoạch và quy trình làm việc của agent. Điều này cho thấy tiềm năng to lớn của việc kết hợp các mô hình AI với các công cụ hỗ trợ để giải quyết các vấn đề phức tạp.
 adsense: "enabled"
 keywords:
   - Tasker
@@ -21,7 +21,11 @@ permalink: coding/chatgpt/mot-vai-vi-du-mo-dau-giao-tiep-nang-cao-chat-gpt
 skip_toc: true
 ---
 
-> GPT-3.5 (zero shot) chỉ đạt độ chính xác 48.1%, GPT-4 (zero shot) làm tốt hơn ở mức 67.0%. Trong khi đó nếu sử dụng thêm các công cụ, kế hoạch, agent workflow, GPT-3.5 có thể đạt tới độ chính xác 95.1% (phân tích từ Joaquin Dominguez và John Santerre)
+> GPT-3.5 và GPT-4 là hai mô hình ngôn ngữ tiên tiến, được biết đến với khả năng xử lý ngôn ngữ tự nhiên ấn tượng. Tuy nhiên, hiệu suất của chúng trong các tác vụ zero-shot, tức là khả năng thực hiện nhiệm vụ mà không cần huấn luyện cụ thể, có sự khác biệt đáng kể.
+
+Theo phân tích của Joaquin Dominguez và John Santerre, GPT-3.5 đạt độ chính xác 48.1% trong các tác vụ zero-shot, trong khi GPT-4 thể hiện sự vượt trội với độ chính xác 67.0%.
+
+Điều thú vị là, GPT-3.5 có thể đạt độ chính xác đáng kinh ngạc lên tới 95.1% khi được kết hợp với các công cụ, kế hoạch và quy trình làm việc của agent. Điều này cho thấy tiềm năng to lớn của việc kết hợp các mô hình AI với các công cụ hỗ trợ để giải quyết các vấn đề phức tạp.
 
 ## Ví dụ. Kết Hợp Ẩm Thực Uzbekistan & Ethiopia Kiểu Keto? ChatGPT Làm Được!
 
