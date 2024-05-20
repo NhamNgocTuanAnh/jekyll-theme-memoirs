@@ -16,8 +16,8 @@ keywords:
   - Tasker là gì?
   - Android Automation
   - Shortcuts android
-date: 2024-05-15 10:01:10 +0700
-permalink: coding/dat-cau-hoi-dung-thoi-hien-dai-4-0-p1
+date: 2024-01-15 10:01:10 +0700
+permalink: coding/chatgpt/mot-vai-vi-du-mo-dau-giao-tiep-nang-cao-chat-gpt
 skip_toc: true
 ---
 
