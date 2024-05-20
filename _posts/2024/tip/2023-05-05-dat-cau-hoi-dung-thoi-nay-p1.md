@@ -144,3 +144,10 @@ Persona Pattern là một kỹ thuật Prompt mạnh mẽ, cho phép bạn khai 
 **Kết luận:**
 
 Giao tiếp hiệu quả với các trình chat AI là một kỹ năng quan trọng trong thời đại công nghệ số. Bằng cách áp dụng các bước trên, bạn sẽ có thể khai thác tối đa sức mạnh của AI, biến chúng thành những trợ thủ đắc lực trong công việc và cuộc sống.
+
+**Lưu ý cần tránh khi đặt câu hỏi cho ChatGPT và Gemini**
+
+*   **Câu hỏi mang tính chất xúc phạm, phân biệt đối xử:** ChatGPT và Gemini được lập trình để tránh tạo ra nội dung độc hại.
+*   **Yêu cầu tạo nội dung bất hợp pháp hoặc vi phạm bản quyền:** Sử dụng AI một cách có trách nhiệm và tôn trọng luật pháp.
+*   **Mong đợi AI đưa ra ý kiến chủ quan hoặc cảm xúc:** ChatGPT và Gemini là công cụ xử lý thông tin, không phải con người.
+*   **Cho rằng AI là nguồn thông tin hoàn toàn chính xác:** Luôn kiểm tra lại thông tin từ các nguồn đáng tin cậy khác.
