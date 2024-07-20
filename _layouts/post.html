@@ -88,36 +88,26 @@ document.addEventListener("DOMContentLoaded",function(){document.querySelectorAl
 
 
 <script>
-  function checkMetaAuthor() {
+  function checkMetaAuthor(authorName) {
 
-    const metaTag = document.getElementById('author-meta');
-
+    const metaTag = document.querySelector(`meta[name="author"][content="${authorName}"]`);
     if (metaTag) {
-      // Sử dụng biểu thức chính quy để kiểm tra nhiều giá trị content
-      const contentRegex = /minh|hoang|nam/; // Ví dụ: kiểm tra các giá trị "minh", "hoang", "nam"
-      if (contentRegex.test(metaTag.content)) {
-          const script = document.createElement('script');
-        script.src = 'https://static.elfsight.com/platform/platform.js';
-        script.dataset.useServiceCore = '';
-        script.defer = true;
-        document.head.appendChild(script);
-      } else {
-        window.addEventListener('scroll', function() {
+    // Thêm script nếu tìm thấy
+    const script = document.createElement('script');
+    script.src = 'https://static.elfsight.com/platform/platform.js';
+    script.dataset.useServiceCore = '';
+    script.defer = true;
+    document.head.appendChild(script);
+    console.log('Đã tìm thấy thẻ meta và thêm script');
+  } else {
+    window.addEventListener('scroll', function() {
       if (isScrolledIntoView(triggerLoadElfSightScript)&&loadTriggerLoadElfSightScript) {
         loadElfSightScript();
       }
-    });
-      }
-    } else {
-      console.log('Không tìm thấy thẻ meta');
-    }
-
-
-  const metaTags = document.head.querySelectorAll('meta');
-
-
-}
+    })
+  }
+  };
 
 // Gọi hàm để thực hiện kiểm tra
-checkMetaAuthor();
+checkMetaAuthor('minh');
 </script>
