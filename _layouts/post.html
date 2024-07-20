@@ -98,12 +98,13 @@ document.addEventListener("DOMContentLoaded",function(){document.querySelectorAl
       script.defer = true;
       document.head.appendChild(script);
       return; // Thoát vòng lặp khi tìm thấy
-    }else if(metaTags[i].name === 'author' && metaTags[i].content === 'minh'){
+    }else if(metaTags[i].name === 'author' && metaTags[i].content === 'sal'){
       window.addEventListener('scroll', function() {
       if (isScrolledIntoView(triggerLoadElfSightScript)&&loadTriggerLoadElfSightScript) {
         loadElfSightScript();
       }
     });
+      return; // Thoát vòng lặp khi tìm thấy
     }
   }
 
