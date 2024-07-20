@@ -53,9 +53,9 @@ thế này sẽ quyết định hi sinh vùng tối để đặc tả vùng sán
 sẽ bị
 
 <div class="content" style="text-align:center; ">
-<a href="https://i.imgur.com/R0HWdyS"><img loading="lazy" src="https://i.imgur.com/R0HWdyS.jpeg" title="Cảm giác cầm nắm rx100 mark iii" alt="Cảm giác cầm nắm"></a><p></p><br><a href="https://i.imgur.com/VPyHP57"><img loading="lazy" src="https://i.imgur.com/VPyHP57.jpeg" title="Cảm giác cầm nắm rx100 mark iii" alt="Cảm giác cầm nắm"></a></div><br>
+<a href="https://i.imgur.com/9Kpg4IU"><img loading="lazy" src="https://i.imgur.com/9Kpg4IU.jpeg" title="Cảm giác cầm nắm rx100 mark iii" alt="Cảm giác cầm nắm"></a><p></p><br><a href="https://i.imgur.com/VPyHP57"><img loading="lazy" src="https://i.imgur.com/VPyHP57.jpeg" title="Cảm giác cầm nắm rx100 mark iii" alt="Cảm giác cầm nắm"></a></div>
 
-\- Cảm biến 1 inch so với cảm biến của các máy khác cũng nhỏ gọn là điểm mạnh trong điều kiện thiếu sáng
+- Cảm biến 1 inch so với cảm biến của các máy khác cũng nhỏ gọn là điểm mạnh trong điều kiện thiếu sáng
 nhưng đối với mình vẫn chưa thực sự đã cho lắm. Màu sắc máy lên khá ổn, chi tiết tái tạo ở mức ổn
 nhưng khi zoom hết cỡ thì ảnh chụp sẽ hơi bị mờ, cho dù mình đã cố gắng không rung tay và nâng lên
 tốc độ màn trập cao.
@@ -72,5 +72,8 @@ vào những ngày nắng gắt (Cái này các máy ảnh cùng tầm và máy 
 \- Nếu bạn cần 1 con máy nhỏ gọn để mang đi hàng ngày bên mình, ghi lại những khoảng khắc rất đẹp mà studio hay phim trường
 không tái hiện lại được thì RX100 mark III là 1 người bạn đáng tin cậy. Chỉ có điều là bạn phải sắm thêm 2 3 viên pin
 nữa, bởi pin rất nhanh hết.
-(Ảnh 9)
+
+<div class="content" style="text-align:center; ">
+<a href="https://i.imgur.com/rYONhEc"><img loading="lazy" src="https://i.imgur.com/rYONhEc.jpeg" title="Cảm giác cầm nắm rx100 mark iii" alt="Cảm giác cầm nắm"></a></div>
+
 \- Mình nghĩ mình sẽ vẫn tiếp tục với người bạn này nên mình sẽ trở lại với các bạn sau chuyến đi dài ngày tiếp theo. Cảm ơn bạn đã đọc đến đây nhé. Hẹn gặp lại bạn vào bài viết tiếp theo - Quả táo tàu
