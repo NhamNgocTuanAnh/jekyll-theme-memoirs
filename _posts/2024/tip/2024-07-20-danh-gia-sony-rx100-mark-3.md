@@ -82,4 +82,4 @@ nữa, bởi pin rất nhanh hết.
 <div class="content" style="text-align:center; ">
 <a href="https://i.imgur.com/rYONhEc"><img loading="lazy" src="https://i.imgur.com/rYONhEc.jpeg" title="Cảm giác cầm nắm rx100 mark iii" alt="Cảm giác cầm nắm"></a></div>
 
-- Mình nghĩ mình sẽ vẫn tiếp tục với người bạn này nên mình sẽ trở lại với các bạn sau chuyến đi dài ngày tiếp theo. Cảm ơn bạn đã đọc đến đây nhé. Hẹn gặp lại bạn vào bài viết tiếp theo - Quả táo tàu
+> Mình nghĩ mình sẽ vẫn tiếp tục với người bạn này nên mình sẽ trở lại với các bạn sau chuyến đi dài ngày tiếp theo. Cảm ơn bạn đã đọc đến đây nhé. Hẹn gặp lại bạn vào bài viết tiếp theo - Quả táo tàu
