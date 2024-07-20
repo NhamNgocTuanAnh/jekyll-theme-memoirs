@@ -8,14 +8,18 @@ image: https://i.imgur.com/UrSDR7j.png
 rating: 5
 lazyimages: "enabled"
 isGithubComments: false
-excerpt: Kẻ gõ đầu thế giới máy ảnh "du lịch" nhỏ gọn còn đáng dùng ở năm 2024
-description: Kẻ gõ đầu thế giới máy ảnh "du lịch" nhỏ gọn còn đáng dùng ở năm 2024
-
+excerpt: Sony RX100 Mark III - Review chi tiết và trải nghiệm thực tế sau 10 năm ra mắt - Vẫn đáng mua trong năm 2024?
+description: Sony RX100 Mark III - Review chi tiết và trải nghiệm thực tế sau 10 năm ra mắt - Vẫn đáng mua trong năm 2024?
 adsense: "enabled"
 keywords:
-  - Tai nghe nào dưới 500k
+  - Sony RX100 Mark III
+  - review máy ảnh
+  - máy ảnh compact
+  - chụp ảnh phong cảnh
+  - chụp ảnh chân dung
+  - điểm mạnh điểm yếu
 date: 2024-07-20 10:01:10 +0700
-permalink: reviews/top-tai-nghe-500-k-2024
+permalink: reviews/Sony-RX100-Mark-III-danh-gia-chi-tiet-sau-hon-10-nam-ra-mat
 ---
 
 <hr style="border: 1px solid #000000;">
