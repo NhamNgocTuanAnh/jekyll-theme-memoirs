@@ -4,7 +4,7 @@ title: 'Kẻ gõ đầu thế giới máy ảnh "du lịch" nhỏ gọn còn đ�
 author: minh
 categories: [ Reviews 📝 ]
 tags: [ đồ dùng ]
-image: https://i.imgur.com/UrSDR7j.png
+image: assets/images/nhiepanh/rx100-avt.webp
 rating: 5
 lazyimages: "enabled"
 isGithubComments: false
