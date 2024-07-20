@@ -42,7 +42,7 @@ permalink: reviews/top-tai-nghe-500-k-2024
 
 ### 3\. Chất lượng ảnh
 
-\- Đối với bản thân mình thì ảnh của Sony RX100 mark III khá nét với 20MP, kết hợp cùng độ mở khẩu của lớn
+- Đối với bản thân mình thì ảnh của Sony RX100 mark III khá nét với 20MP, kết hợp cùng độ mở khẩu của lớn
 từ F1.8 ở góc rộng nhất đến 2.8 ở góc tele, thì máy chụp trong điều kiện thiếu sáng khá ổn.
 
 <div class="content" style="text-align:center; ">
@@ -59,8 +59,8 @@ sẽ bị
 nhưng đối với mình vẫn chưa thực sự đã cho lắm. Màu sắc máy lên khá ổn, chi tiết tái tạo ở mức ổn
 nhưng khi zoom hết cỡ thì ảnh chụp sẽ hơi bị mờ, cho dù mình đã cố gắng không rung tay và nâng lên
 tốc độ màn trập cao.
-\- Máy có EVF được tích hợp sẵn vào thân máy (màu trung thực và độ phân giải cao) nên rất tiện trong những trường hợp nắng gắt, cần nhìn vào khung ngắm
-Chỉ cần mở EVF là tự động máy cũng sẽ mở luôn, rất tiện, nhưng cũng chính chỗ đó, nếu ấn EVF ngược
+- Máy có EVF được tích hợp sẵn vào thân máy (màu trung thực và độ phân giải cao) nên rất tiện trong những trường hợp nắng gắt, cần nhìn vào khung ngắm
+- Chỉ cần mở EVF là tự động máy cũng sẽ mở luôn, rất tiện, nhưng cũng chính chỗ đó, nếu ấn EVF ngược
 trở lại thì máy cũng tự động tắt luôn :))). Ngoài ra máy còn trang bị cả kính lọc ND, rất phù hợp chụp
 vào những ngày nắng gắt (Cái này các máy ảnh cùng tầm và máy ảnh du lịch cũng khó mà có)
 
@@ -69,11 +69,11 @@ vào những ngày nắng gắt (Cái này các máy ảnh cùng tầm và máy 
 
 ### 4\. Lời kết
 
-\- Nếu bạn cần 1 con máy nhỏ gọn để mang đi hàng ngày bên mình, ghi lại những khoảng khắc rất đẹp mà studio hay phim trường
+- Nếu bạn cần 1 con máy nhỏ gọn để mang đi hàng ngày bên mình, ghi lại những khoảng khắc rất đẹp mà studio hay phim trường
 không tái hiện lại được thì RX100 mark III là 1 người bạn đáng tin cậy. Chỉ có điều là bạn phải sắm thêm 2 3 viên pin
 nữa, bởi pin rất nhanh hết.
 
 <div class="content" style="text-align:center; ">
 <a href="https://i.imgur.com/rYONhEc"><img loading="lazy" src="https://i.imgur.com/rYONhEc.jpeg" title="Cảm giác cầm nắm rx100 mark iii" alt="Cảm giác cầm nắm"></a></div>
 
-\- Mình nghĩ mình sẽ vẫn tiếp tục với người bạn này nên mình sẽ trở lại với các bạn sau chuyến đi dài ngày tiếp theo. Cảm ơn bạn đã đọc đến đây nhé. Hẹn gặp lại bạn vào bài viết tiếp theo - Quả táo tàu
+- Mình nghĩ mình sẽ vẫn tiếp tục với người bạn này nên mình sẽ trở lại với các bạn sau chuyến đi dài ngày tiếp theo. Cảm ơn bạn đã đọc đến đây nhé. Hẹn gặp lại bạn vào bài viết tiếp theo - Quả táo tàu
