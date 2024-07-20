@@ -89,25 +89,32 @@ document.addEventListener("DOMContentLoaded",function(){document.querySelectorAl
 
 <script>
   function checkMetaAuthor() {
-  const metaTags = document.head.querySelectorAll('meta');
 
-  for (let i = 0; i < metaTags.length; i++) {
-    if (metaTags[i].name === 'author' && metaTags[i].content === 'minh') {
-      const script = document.createElement('script');
-      script.src = 'https://static.elfsight.com/platform/platform.js';
-      script.dataset.useServiceCore = '';
-      script.defer = true;
-      document.head.appendChild(script);
-      return; // Thoát vòng lặp khi tìm thấy
-    }else if(metaTags[i].name === 'author' && metaTags[i].content === 'sal'){
-      window.addEventListener('scroll', function() {
+    const metaTag = document.getElementById('author-meta');
+
+    if (metaTag) {
+      // Sử dụng biểu thức chính quy để kiểm tra nhiều giá trị content
+      const contentRegex = /minh|hoang|nam/; // Ví dụ: kiểm tra các giá trị "minh", "hoang", "nam"
+      if (contentRegex.test(metaTag.content)) {
+          const script = document.createElement('script');
+        script.src = 'https://static.elfsight.com/platform/platform.js';
+        script.dataset.useServiceCore = '';
+        script.defer = true;
+        document.head.appendChild(script);
+      } else {
+        window.addEventListener('scroll', function() {
       if (isScrolledIntoView(triggerLoadElfSightScript)&&loadTriggerLoadElfSightScript) {
         loadElfSightScript();
       }
     });
-      return; // Thoát vòng lặp khi tìm thấy
+      }
+    } else {
+      console.log('Không tìm thấy thẻ meta');
     }
-  }
+
+
+  const metaTags = document.head.querySelectorAll('meta');
+
 
 }
 
