@@ -43,17 +43,24 @@ comments: true
   // Tạo thẻ con
   const childDiv = document.createElement('div');
   childDiv.id = childId;
-  // Thêm nội dung hoặc các thuộc tính khác cho thẻ con nếu cần
 
+  const childDiv1 = document.createElement('div');
+  childDiv1.id = "instaShow2";
+
+  // Thêm nội dung hoặc các thuộc tính khác cho thẻ con nếu cần
   // Chèn thẻ con vào vị trí mong muốn
   if (position === 'beforebegin') {
     parentDiv.before(childDiv); // Trước thẻ cha
+    parentDiv.before(childDiv1); // Trước thẻ cha
   } else if (position === 'afterbegin') {
     parentDiv.prepend(childDiv); // Đầu thẻ cha
+    parentDiv.prepend(childDiv1); // Đầu thẻ cha
   } else if (position === 'beforeend') {
     parentDiv.append(childDiv); // Cuối thẻ cha
+    parentDiv.append(childDiv1); // Cuối thẻ cha
   } else if (position === 'afterend') {
     parentDiv.after(childDiv); // Sau thẻ cha
+    parentDiv.after(childDiv1); // Sau thẻ cha
   } else {
     console.error('Vị trí chèn không hợp lệ');
   }}else{
@@ -93,7 +100,6 @@ insertDiv('main-content-content', 'triggerLoadElfSightScript', randomElement);
 
 <!-- Share -->
 {% include share.html %}
-<div id="instaShow2"></div>
 {% include related-posts.html %}
 {% if site.url == page.url %}
 <div id="fb-root"></div>
