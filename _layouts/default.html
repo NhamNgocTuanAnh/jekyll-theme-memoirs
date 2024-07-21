@@ -55,9 +55,56 @@
             </p>
             {% endif %}
     <div class="main-content"><div id="main-content-content">
-      <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
-      <div class="elfsight-app-b861966c-825d-44b1-8562-16a8af229c2f" data-elfsight-app-lazy></div>
-      <!-- <div id="searchBox" style="position: relative; width: 100%; text-align:middle; display:none"><div style="width:33%; float:left;"><div class="elfsight-app-b655e1e2-d0ab-4e47-8276-9fe6f14bf34a" data-elfsight-app-lazy></div></div><div style="width:33%; float:right;"></div><br><br></div> -->
+      <div id="searchBoxEl"></div>
+      <script>
+      function createRandomDivAndAppend() {
+        const searchBoxEl = document.getElementById('searchBoxEl'); // Lấy thẻ div có ID là searchBoxEl
+
+        const div1 = document.createElement('div');
+  div1.classList.add('elfsight-app-b861966c-825d-44b1-8562-16a8af229c2f');
+  div1.dataset.elfsightAppLazy = ''; // Set data-elfsight-app-lazy attribute
+
+  const div2 = document.createElement('div');
+  div2.id = 'searchBox';
+  div2.style.cssText = `
+    position: relative;
+    width: 100%;
+    text-align: middle;
+    display: none;
+  `;
+
+  const innerDiv2_1 = document.createElement('div');
+  innerDiv2_1.style.cssText = `
+    width: 33%;
+    float: left;
+  `;
+
+  const innerDiv2_2 = document.createElement('div');
+  innerDiv2_2.classList.add('elfsight-app-b655e1e2-d0ab-4e47-8276-9fe6f14bf34a');
+  innerDiv2_2.dataset.elfsightAppLazy = ''; // Set data-elfsight-app-lazy attribute
+
+  const innerDiv2_3 = document.createElement('div');
+  innerDiv2_3.style.cssText = `
+    width: 33%;
+    float: right;
+  `;
+
+  innerDiv2_1.appendChild(innerDiv2_2);
+  div2.appendChild(innerDiv2_1);
+  div2.appendChild(innerDiv2_3);
+  div2.appendChild(document.createElement('br'));
+  div2.appendChild(document.createElement('br'));
+
+        // Randomly choose between div1 and div2
+        const randomDiv = Math.random() < 0.5 ? div1 : div2;
+
+        // Append the chosen div to the searchBoxEl
+        searchBoxEl.appendChild(randomDiv);
+      }
+
+      // Gọi hàm để thực hiện
+      createRandomDivAndAppend();
+      </script>
 {{ content }}</div>
     <button id="chat-button" onclick="handleChatButtonClick()">Chat</button>
 <div id="snowCall"></div>
