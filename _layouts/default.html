@@ -155,38 +155,14 @@ var sidebar=document.createElement("div");sidebar.className="sidebar";var navIco
     <script>
         window.addEventListener("load",function(){var e,t,n,a,c="script";e=window,t=document,e.GoogleAnalyticsObject="ga",e.ga=e.ga||function(){(e.ga.q=e.ga.q||[]).push(arguments)},e.ga.l=1*new Date,n=t.createElement(c),a=t.getElementsByTagName(c)[0],n.async=1,n.src="//www.google-analytics.com/analytics.js",a.parentNode.insertBefore(n,a),ga("create","UA-192636660-1","auto"),ga("send","pageview");var o=document.createElement("script");o.type="text/javascript",o.innerHTML='function nocontext(t) { if ("IMG" == (null == t ? event.srcElement.tagName : t.target.tagName)) return !1 } document.oncontextmenu = nocontext;',document.head.appendChild(o)});
     </script>
-
+    <script>
+  function runRandomCode(){if(.5>Math.random()){var e=document.createElement("script");e.async=!0,e.defer=!0,e.crossorigin="anonymous",e.src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0",e.nonce="JekfmCeX",document.body.appendChild(e),setTimeout(loadFacebookSDKLoad,2e3)}else{let d=document.createElement("div");d.classList.add("elfsight-app-d15cd726-3619-4d26-9eeb-d7661922dbe1"),d.dataset.elfsightAppLazy="",document.body.appendChild(d)}}
+</script>
 <script>
 function loadFacebookSDK(){window.fbAsyncInit=function(){FB.init({xfbml:!0,version:"v3.2"})};var e,o=document.getElementsByTagName("script")[0];document.getElementById("facebook-jssdk")||((e=document.createElement("script")).id="facebook-jssdk",e.src="https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js",o.parentNode.insertBefore(e,o))}function loadFacebookSDKLoad(){var e=document.createElement("script");e.async=!0,e.defer=!0,e.crossorigin="anonymous",e.src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v16.0&appId=2086804534891096&autoLogAppEvents=1",e.nonce="y8xxA5Uo",document.head.appendChild(e)}function handleChatButtonClick(){var chatButton = document.getElementById("chat-button");
 if (chatButton) {
     chatButton.style.display = "none";
 };alert("Bạn đợi lát! \uD83E\uDD70.");runRandomCode();}</script>
-<script>
-  function runRandomCode() {
-  // Choose randomly between 0 and 1
-  const randomNumber = Math.random();
-
-  if (randomNumber < 0.5) {
-    // Load Facebook SDK (less than 50% chance)
-    var e = document.createElement("script");
-    e.async = true;
-    e.defer = true;
-    e.crossorigin = "anonymous";
-    e.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0";
-    e.nonce = "JekfmCeX"; // Assuming you have a valid nonce set up
-    document.body.appendChild(e);
-    setTimeout(loadFacebookSDKLoad, 2000); // Call loadFacebookSDKLoad after 2 seconds (optional)
-  } else {
-    // Create elfsight div (more than 50% chance)
-    const div = document.createElement('div');
-    div.classList.add('elfsight-app-d15cd726-3619-4d26-9eeb-d7661922dbe1');
-    div.dataset.elfsightAppLazy = ''; // Set data-elfsight-app-lazy attribute (optional)
-    document.body.appendChild(div);
-  }
-}
-
-// Call the function to run the random code
-</script>
 <style>table {
     width: 100%;
 }table :is(td, th) {
