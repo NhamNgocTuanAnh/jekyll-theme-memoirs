@@ -81,7 +81,11 @@ function choiseElauthor(nameAuthor){
   return auTuan;
 }
   function loadElfSightScript(){const metaTagAu = document.querySelector(`meta[name="author"][content="${authorName}"]`);var t=window.location.href;if(t.includes("localhost")||t.includes("127.0.0.1"))console.log("Đang chạy localhost, kh\xf4ng th\xeam lệnh script.");else{var e=document.createElement("div");e.className=choiseElauthor(metaTagAu),e.setAttribute("data-elfsight-app-lazy",""),e.style.textAlign="center";var a=document.getElementById("instaShow2");a?a.appendChild(e):console.error('Kh\xf4ng t\xecm thấy thẻ div c\xf3 id "instaShow2".');var l=document.createElement("script");l.src="https://static.elfsight.com/platform/platform.js",console.log("Tải loadElfSightScript https://static.elfsight.com/platform/platform.js"),l.setAttribute("data-use-service-core",""),l.defer=!0,document.head.appendChild(l),loadTriggerLoadElfSightScript=false}}
-
+  window.addEventListener('scroll', function() {
+      if (isScrolledIntoView(triggerLoadElfSightScript)&&loadTriggerLoadElfSightScript) {
+        loadElfSightScript();
+      }
+    })
   </script>
 <script>
   document.addEventListener("DOMContentLoaded",function(){if([11,12].includes(new Date().getMonth()+1)){var n=document.createElement("style");n.type="text/css",document.head.appendChild(n),n.innerHTML=`
@@ -90,7 +94,6 @@ function choiseElauthor(nameAuthor){
   </script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
-
 
 
 
