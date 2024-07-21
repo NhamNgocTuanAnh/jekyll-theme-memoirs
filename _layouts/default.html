@@ -57,54 +57,18 @@
     <div class="main-content"><div id="main-content-content">
       <div id="searchBoxEl"></div>
       <script>
-      function createRandomDivAndAppend() {
-        const searchBoxEl = document.getElementById('searchBoxEl'); // Lấy thẻ div có ID là searchBoxEl
-if(searchBoxEl){
-        const div1 = document.createElement('div');
-  div1.classList.add('elfsight-app-b861966c-825d-44b1-8562-16a8af229c2f');
-  div1.dataset.elfsightAppLazy = ''; // Set data-elfsight-app-lazy attribute
-
-  const div2 = document.createElement('div');
-  div2.id = 'searchBox';
-  div2.style.cssText = `
+function createRandomDivAndAppend(){let e=document.getElementById("searchBoxEl");if(e){let t=document.createElement("div");t.classList.add("elfsight-app-b861966c-825d-44b1-8562-16a8af229c2f"),t.dataset.elfsightAppLazy="";let a=document.createElement("div");a.id="searchBox",a.style.cssText=`
     position: relative;
     width: 100%;
     text-align: middle;
     display: none;
-  `;
-
-  const innerDiv2_1 = document.createElement('div');
-  innerDiv2_1.style.cssText = `
+  `;let l=document.createElement("div");l.style.cssText=`
     width: 33%;
     float: left;
-  `;
-
-  const innerDiv2_2 = document.createElement('div');
-  innerDiv2_2.classList.add('elfsight-app-b655e1e2-d0ab-4e47-8276-9fe6f14bf34a');
-  innerDiv2_2.dataset.elfsightAppLazy = ''; // Set data-elfsight-app-lazy attribute
-
-  const innerDiv2_3 = document.createElement('div');
-  innerDiv2_3.style.cssText = `
+  `;let d=document.createElement("div");d.classList.add("elfsight-app-b655e1e2-d0ab-4e47-8276-9fe6f14bf34a"),d.dataset.elfsightAppLazy="";let i=document.createElement("div");i.style.cssText=`
     width: 33%;
     float: right;
-  `;
-
-  innerDiv2_1.appendChild(innerDiv2_2);
-  div2.appendChild(innerDiv2_1);
-  div2.appendChild(innerDiv2_3);
-  div2.appendChild(document.createElement('br'));
-  div2.appendChild(document.createElement('br'));
-
-        // Randomly choose between div1 and div2
-        const randomDiv = Math.random() < 0.5 ? div1 : div2;
-
-        // Append the chosen div to the searchBoxEl
-        searchBoxEl.appendChild(randomDiv);
-      }else{
-        console.log('Không có searchBoxEl');
-      }}
-      // Gọi hàm để thực hiện
-      createRandomDivAndAppend();
+  `,l.appendChild(d),a.appendChild(l),a.appendChild(i),a.appendChild(document.createElement("br")),a.appendChild(document.createElement("br"));let n=.5>Math.random()?t:a;e.appendChild(n)}else console.log("Kh\xf4ng c\xf3 searchBoxEl")}createRandomDivAndAppend();
       </script>
 {{ content }}</div>
     <button id="chat-button" onclick="handleChatButtonClick()">Chat</button>
