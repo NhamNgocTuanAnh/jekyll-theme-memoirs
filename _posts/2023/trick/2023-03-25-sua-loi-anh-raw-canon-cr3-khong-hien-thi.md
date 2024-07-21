@@ -21,7 +21,8 @@ permalink: nhiep-anh/tip-trick/anh-cr3-window-khong-hien-thi
 Đối với Canon M50, Canon RP, Canon R chỉ có 2 lựa chọn là Cr3 và C-Raw. Cả 2 định dạng này đều không đọc được bởi các phần mềm xem ảnh thông dụng như ACDsee, photoraw, trong windows cũng không hiện ảnh thumbnail v.v...
 
 Khi mình đi du lịch thì đến cả ngàn ảnh, nên nếu không đọc được thì rất bất tiện và mất công vì phải xóa ảnh rác.
- ## 1\. **Thiếu phần mềm hỗ trợ:**
+
+## 1\. **Thiếu phần mềm hỗ trợ:**
 
 *   **Windows không có trình xem ảnh mặc định:** Hệ điều hành Windows không hỗ trợ trực tiếp việc mở file RAW. Bạn cần cài đặt các phần mềm chuyên dụng như Adobe Lightroom, Capture One, hoặc các phần mềm miễn phí như Darktable, RawTherapee.
 *   **Phần mềm không tương thích:** Phần mềm bạn đang sử dụng có thể không hỗ trợ định dạng CR3 cụ thể của máy ảnh bạn đang dùng.
