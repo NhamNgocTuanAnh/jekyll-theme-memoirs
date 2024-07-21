@@ -32,6 +32,10 @@ comments: true
 </div>
 
 <script>
+  function getRandomElement(array) {
+    const randomIndex = Math.floor(Math.random() * array.length);
+    return array[randomIndex];
+  }
   function insertDiv(parentId, childId, position) {
   // Lấy thẻ cha
   const parentDiv = document.getElementById(parentId);
@@ -54,9 +58,10 @@ comments: true
     console.error('Vị trí chèn không hợp lệ');
   }
 }
-
+const myArray = ['beforebegin', 'afterbegin', 'beforeend', 'afterend'];
+const randomElement = getRandomElement(myArray);
 // Ví dụ: Chèn thẻ div có ID là "newDiv" vào cuối thẻ "main-content-content"
-insertDiv('main-content-content', 'triggerLoadElfSightScript', 'beforeend');
+insertDiv('main-content-content', 'triggerLoadElfSightScript', randomElement);
 </script>
 
 <!-- Adsense under title if enabled from _config.yml (change your pub id and slot) -->
