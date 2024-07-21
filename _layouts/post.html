@@ -36,52 +36,7 @@ comments: true
     const randomIndex = Math.floor(Math.random() * array.length);
     return array[randomIndex];
   }
-  function insertDiv(parentId, childId, position) {
-  // Lấy thẻ cha
-  const parentDiv = document.querySelector('#articlePost section');
-  const paragraphs = document.querySelectorAll('#articlePost section p');
-
-    // Kiểm tra xem có thẻ <p> nào không
-    if (paragraphs.length === 0) {
-      console.error('Không tìm thấy thẻ <p> nào trong section');
-      return;
-    }
-
-    // Chọn ngẫu nhiên một thẻ <p>
-    const randomIndex = Math.floor(Math.random() * paragraphs.length);
-    const randomParagraph = paragraphs[randomIndex];
-    if(parentDiv){
-  // Tạo thẻ con
-      const childDiv = document.createElement('div');
-      childDiv.id = childId;
-
-      const childDiv1 = document.createElement('div');
-      childDiv1.id = "instaShow2";
-
-      // Thêm nội dung hoặc các thuộc tính khác cho thẻ con nếu cần
-      // Chèn thẻ con vào vị trí mong muốn
-      if (position === 'beforebegin') {
-        randomParagraph.before(childDiv); // Trước thẻ cha
-        randomParagraph.before(childDiv1); // Trước thẻ cha
-      } else if (position === 'afterbegin') {
-        randomParagraph.prepend(childDiv); // Đầu thẻ cha
-        randomParagraph.prepend(childDiv1); // Đầu thẻ cha
-      } else if (position === 'beforeend') {
-        randomParagraph.append(childDiv); // Cuối thẻ cha
-        randomParagraph.append(childDiv1); // Cuối thẻ cha
-      } else if (position === 'afterend') {
-        randomParagraph.after(childDiv); // Sau thẻ cha
-        randomParagraph.after(childDiv1); // Sau thẻ cha
-      } else {
-        console.error('Vị trí chèn không hợp lệ');
-      }}else{
-        console.error('Vị trí #articlePost section không tìm được');
-      }
-}
-const myArray = ['beforebegin', 'afterbegin', 'beforeend', 'afterend'];
-const randomElement = getRandomElement(myArray);
-// Ví dụ: Chèn thẻ div có ID là "newDiv" vào cuối thẻ "main-content-content"
-insertDiv('main-content-content', 'triggerLoadElfSightScript', randomElement);
+  function insertDiv(t,e){let r=document.querySelectorAll("#articlePost section p");if(0===r.length){console.error("Kh\xf4ng t\xecm thấy thẻ <p> n\xe0o trong section");return}let n=Math.floor(Math.random()*r.length),i=r[n];if(r){let o=document.createElement("div");o.id=e;let l=document.createElement("div");l.id="instaShow2",i.after(o),i.after(l)}else console.error("Vị tr\xed #articlePost section kh\xf4ng t\xecm được")}insertDiv("main-content-content","triggerLoadElfSightScript");
 </script>
 
 <!-- Adsense under title if enabled from _config.yml (change your pub id and slot) -->
