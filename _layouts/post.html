@@ -31,6 +31,34 @@ comments: true
   {% endif %}
 </div>
 
+<script>
+  function insertDiv(parentId, childId, position) {
+  // Lấy thẻ cha
+  const parentDiv = document.getElementById(parentId);
+
+  // Tạo thẻ con
+  const childDiv = document.createElement('div');
+  childDiv.id = childId;
+  // Thêm nội dung hoặc các thuộc tính khác cho thẻ con nếu cần
+
+  // Chèn thẻ con vào vị trí mong muốn
+  if (position === 'beforebegin') {
+    parentDiv.before(childDiv); // Trước thẻ cha
+  } else if (position === 'afterbegin') {
+    parentDiv.prepend(childDiv); // Đầu thẻ cha
+  } else if (position === 'beforeend') {
+    parentDiv.append(childDiv); // Cuối thẻ cha
+  } else if (position === 'afterend') {
+    parentDiv.after(childDiv); // Sau thẻ cha
+  } else {
+    console.error('Vị trí chèn không hợp lệ');
+  }
+}
+
+// Ví dụ: Chèn thẻ div có ID là "newDiv" vào cuối thẻ "main-content-content"
+insertDiv('main-content-content', 'triggerLoadElfSightScript', 'beforeend');
+</script>
+
 <!-- Adsense under title if enabled from _config.yml (change your pub id and slot) -->
 {% if site.url == "enabled" %}
 {% include adsense-under-header.html %}
@@ -46,7 +74,7 @@ comments: true
 <!-- Quote -->
 {% include quote.html %}
 {% include show-keywords.html %}
-<div id="triggerLoadElfSightScript" ></div>
+<!-- <div id="triggerLoadElfSightScript" ></div> -->
 <!-- Comment -->
 {% include disqus.html %}
 
