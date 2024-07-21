@@ -21,7 +21,7 @@
     <script src="{{ site.baseurl }}/assets/js/prism.js"></script>
     <script src="{{ site.baseurl }}/assets/js/theme.js"></script>
     <meta name="google-site-verification" content="d_QhcFO6jYixKuqHeimC-fB9HoL2oOxFPBBr1Dm-3nE" />
-
+<script>function handleImageLoad(e){e.classList.add("loaded");}</script>
 </head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
@@ -144,7 +144,7 @@ if(searchBoxEl){
 </style>
 
 <style>.scrollToTop{display:none}img{-webkit-user-drag:none;user-drag:none;-webkit-touch-callout:none}</style>
-<script>function preLoader(){var e=function(){$("#ctn-preloader").addClass("loaded"),$("#ctn-preloader").hasClass("loaded")&&$("#preloader").queue(function(){$(this).remove()})};$(window).on("load",e),setTimeout(e,1e3)}preLoader();function handleImageLoad(e){e.classList.add("loaded");}</script>
+<script>function preLoader(){var e=function(){$("#ctn-preloader").addClass("loaded"),$("#ctn-preloader").hasClass("loaded")&&$("#preloader").queue(function(){$(this).remove()})};$(window).on("load",e),setTimeout(e,1e3)}preLoader();</script>
 <script src="{{ site.baseurl }}/assets/js/snowflakes.js" async ></script>
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/loading.css">
 <script>var sidebar = document.getElementById('sidebar');var isRelative = sidebar && window.getComputedStyle(sidebar).position === 'relative';
