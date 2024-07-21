@@ -25,13 +25,13 @@ skip_toc: true
 
 Sony RX100 Mark III - một chiếc máy ảnh compact đã đồng hành cùng tôi suốt nhiều năm qua. Với cảm biến 1 inch cho chất lượng hình ảnh tuyệt vời, ống kính ZEISS sắc nét và thiết kế nhỏ gọn, RX100 Mark III là một lựa chọn hoàn hảo cho những ai yêu thích nhiếp ảnh du lịch và street photography. Tuy nhiên, sau 10 năm ra mắt, liệu chiếc máy ảnh này có còn cạnh tranh được với các đối thủ mới nổi trên thị trường? Hãy cùng tôi khám phá chi tiết về Sony RX100 Mark III và xem liệu nó có xứng đáng có một chỗ trong bộ sưu tập của bạn hay không.
 
-### 1\. Thời điểm ra mắt
+## 1. Thời điểm ra mắt
 
 *   Thời điểm mà máy ra mắt là vào lúc mình học năm lớp 10, máy được ra mắt để thay thế cho người đàn anh trước là Sony RX100 mark II
 *   Thời điểm ra mắt thì Sony RX100 mark III cũng là một tên tuổi đáng gờm với dòng máy ảnh compact nhỏ gọn, ống kính liền
 *   So với thời điểm hiện tại thì máy cũng được 10 năm tuổi rồi. Chưa già lắm nhưng phải nhường lại sân  chơi cho đàn em Sony RX100 mark IV rồi. Cũng đứng tuổi, nhưng cùng với mình xem hắn ta có thể làm được những gì trong năm 2024 này nhé
 
-### 2\. Cầm nắm
+## 2. Cầm nắm
 
 *   Vì hướng đến khả năng di chuyển và mang vác nên máy cầm cực kỳ nhỏ gọn, nằm hoàn toàn trong lòng bàn tay của mình luôn :))). Bạn có thể cho nó vào túi quần, túi áo, hoặc như mình thì cho vào túi đeo chéo mỗi ngày vì nó rất gọn.
 
@@ -40,7 +40,7 @@ Sony RX100 Mark III - một chiếc máy ảnh compact đã đồng hành cùng 
 
 *   Nhưng cũng chính vì nó là pocket camera nên phần báng cầm sẽ không có chỗ nào "lồi" ra cả, mà phần báng cầm sẽ phẳng luôn. Kiểu thiết kế này nó vừa tạo sự liền mạch cho ngoại hình nhưng cũng khá mong manh và sợ rơi mỗi lần cầm máy ảnh. Đến đời tiếp theo là RX100 mark IV cũng không thay đổi về ngoại hình. Ở 2 bên cạnh đều có lỗ để móc dây đeo, nên mình nghĩ bạn nên mua 2 cái dây nhỏ để có thể móc vào đó rồi móc vào 1 tay, nếu lỡ may trượt tay thì còn có cái dây để đỡ :))
 
-### 3\. Chất lượng ảnh
+## 3. Chất lượng ảnh
 
 - Đối với bản thân mình thì ảnh của Sony RX100 mark III khá nét với 20MP, kết hợp cùng độ mở khẩu của lớn
 từ F1.8 ở góc rộng nhất đến 2.8 ở góc tele, thì máy chụp trong điều kiện thiếu sáng khá ổn.
@@ -67,7 +67,7 @@ vào những ngày nắng gắt (Cái này các máy ảnh cùng tầm và máy 
 <div class="content" style="text-align:center; ">
 <a href="https://i.imgur.com/R0HWdyS"><img loading="lazy" src="https://i.imgur.com/R0HWdyS.jpeg" title="Cảm giác cầm nắm rx100 mark iii" alt="Cảm giác cầm nắm"></a><p></p><br><a href="https://i.imgur.com/GojSwen"><img loading="lazy" src="https://i.imgur.com/GojSwen.jpeg" title="Cảm giác cầm nắm rx100 mark iii" alt="Cảm giác cầm nắm"></a></div><br>
 
-### 4\. Lời kết
+## 4. Lời kết
 
 - Nếu bạn cần 1 con máy nhỏ gọn để mang đi hàng ngày bên mình, ghi lại những khoảng khắc rất đẹp mà studio hay phim trường
 không tái hiện lại được thì RX100 mark III là 1 người bạn đáng tin cậy. Chỉ có điều là bạn phải sắm thêm 2 3 viên pin
