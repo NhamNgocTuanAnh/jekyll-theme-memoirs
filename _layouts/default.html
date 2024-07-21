@@ -201,29 +201,4 @@ padding: 0.3em;
     </script>
     <script>const isLocalhost="localhost"===window.location.hostname;if(!isLocalhost){let t=document.createElement("script");t.src="https://static.elfsight.com/platform/platform.js",t.defer=!0,document.body.appendChild(t);let e=document.getElementById("searchBox");e&&(e.style.display="block")}</script>
 <script>
-  function checkDevice() {
-  // Kiểm tra kích thước màn hình (cách đơn giản)
-  if (window.innerWidth < 768) { // Điều chỉnh giá trị tùy theo thiết kế của bạn
-    // Nếu chiều rộng màn hình nhỏ hơn 768px, coi như là thiết bị di động
-    return true; // Trả về true nếu là thiết bị di động
-  }
-
-  // Kiểm tra các thuộc tính khác (cách nâng cao)
-  if (typeof window.orientation !== 'undefined') {
-    // Nếu thuộc tính orientation tồn tại, rất có thể là thiết bị di động
-    return true;
-  }
-
-  // Sử dụng thư viện Mobile-Detect.js (nếu cần)
-  // ... (Thêm code để sử dụng thư viện)
-
-  return false; // Mặc định là máy tính
-}
-
-// Lấy thẻ div cần ẩn
-const navMenu = document.getElementById('nav-menu');
-
-// Kiểm tra thiết bị và ẩn/hiển thị menu
-if (!checkDevice()) {
-  navMenu.style.display = 'none';
-}</script>
+  function checkDevice(){return!!(window.innerWidth<768)||void 0!==window.orientation}const navMenu=document.getElementById("nav-menu");checkDevice()||(navMenu.style.display="none");</script>
