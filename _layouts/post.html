@@ -39,33 +39,44 @@ comments: true
   function insertDiv(parentId, childId, position) {
   // Lấy thẻ cha
   const parentDiv = document.querySelector('#articlePost section');
+  const paragraphs = document.querySelectorAll('#articlePost section p');
+
+    // Kiểm tra xem có thẻ <p> nào không
+    if (paragraphs.length === 0) {
+      console.error('Không tìm thấy thẻ <p> nào trong section');
+      return;
+    }
+
+    // Chọn ngẫu nhiên một thẻ <p>
+    const randomIndex = Math.floor(Math.random() * paragraphs.length);
+    const randomParagraph = paragraphs[randomIndex];
     if(parentDiv){
   // Tạo thẻ con
-  const childDiv = document.createElement('div');
-  childDiv.id = childId;
+      const childDiv = document.createElement('div');
+      childDiv.id = childId;
 
-  const childDiv1 = document.createElement('div');
-  childDiv1.id = "instaShow2";
+      const childDiv1 = document.createElement('div');
+      childDiv1.id = "instaShow2";
 
-  // Thêm nội dung hoặc các thuộc tính khác cho thẻ con nếu cần
-  // Chèn thẻ con vào vị trí mong muốn
-  if (position === 'beforebegin') {
-    parentDiv.before(childDiv); // Trước thẻ cha
-    parentDiv.before(childDiv1); // Trước thẻ cha
-  } else if (position === 'afterbegin') {
-    parentDiv.prepend(childDiv); // Đầu thẻ cha
-    parentDiv.prepend(childDiv1); // Đầu thẻ cha
-  } else if (position === 'beforeend') {
-    parentDiv.append(childDiv); // Cuối thẻ cha
-    parentDiv.append(childDiv1); // Cuối thẻ cha
-  } else if (position === 'afterend') {
-    parentDiv.after(childDiv); // Sau thẻ cha
-    parentDiv.after(childDiv1); // Sau thẻ cha
-  } else {
-    console.error('Vị trí chèn không hợp lệ');
-  }}else{
-    console.error('Vị trí #articlePost section không tìm được');
-  }
+      // Thêm nội dung hoặc các thuộc tính khác cho thẻ con nếu cần
+      // Chèn thẻ con vào vị trí mong muốn
+      if (position === 'beforebegin') {
+        randomParagraph.before(childDiv); // Trước thẻ cha
+        randomParagraph.before(childDiv1); // Trước thẻ cha
+      } else if (position === 'afterbegin') {
+        randomParagraph.prepend(childDiv); // Đầu thẻ cha
+        randomParagraph.prepend(childDiv1); // Đầu thẻ cha
+      } else if (position === 'beforeend') {
+        randomParagraph.append(childDiv); // Cuối thẻ cha
+        randomParagraph.append(childDiv1); // Cuối thẻ cha
+      } else if (position === 'afterend') {
+        randomParagraph.after(childDiv); // Sau thẻ cha
+        randomParagraph.after(childDiv1); // Sau thẻ cha
+      } else {
+        console.error('Vị trí chèn không hợp lệ');
+      }}else{
+        console.error('Vị trí #articlePost section không tìm được');
+      }
 }
 const myArray = ['beforebegin', 'afterbegin', 'beforeend', 'afterend'];
 const randomElement = getRandomElement(myArray);
