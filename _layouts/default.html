@@ -160,7 +160,9 @@ var sidebar=document.createElement("div");sidebar.className="sidebar";var navIco
 function loadFacebookSDK(){window.fbAsyncInit=function(){FB.init({xfbml:!0,version:"v3.2"})};var e,o=document.getElementsByTagName("script")[0];document.getElementById("facebook-jssdk")||((e=document.createElement("script")).id="facebook-jssdk",e.src="https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js",o.parentNode.insertBefore(e,o))}function loadFacebookSDKLoad(){var e=document.createElement("script");e.async=!0,e.defer=!0,e.crossorigin="anonymous",e.src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v16.0&appId=2086804534891096&autoLogAppEvents=1",e.nonce="y8xxA5Uo",document.head.appendChild(e)}function handleChatButtonClick(){var chatButton = document.getElementById("chat-button");
 if (chatButton) {
     chatButton.style.display = "none";
-};alert("Bạn đợi lát! \uD83E\uDD70.");function runRandomCode() {
+};alert("Bạn đợi lát! \uD83E\uDD70.");runRandomCode();}</script>
+<script>
+  function runRandomCode() {
   // Choose randomly between 0 and 1
   const randomNumber = Math.random();
 
@@ -184,7 +186,7 @@ if (chatButton) {
 }
 
 // Call the function to run the random code
-runRandomCode();</script>
+</script>
 <style>table {
     width: 100%;
 }table :is(td, th) {
