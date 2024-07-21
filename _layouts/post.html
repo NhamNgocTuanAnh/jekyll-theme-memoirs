@@ -47,7 +47,6 @@ comments: true
 {% include quote.html %}
 {% include show-keywords.html %}
 <div id="triggerLoadElfSightScript" ></div>
-<div class="elfsight-app-2d7ff24f-61ad-4bf2-9b03-8e320f3e846b" data-elfsight-app-lazy></div>
 <!-- Comment -->
 {% include disqus.html %}
 
@@ -73,7 +72,15 @@ comments: true
 <script>
 document.addEventListener("DOMContentLoaded",function(){for(var t=document.querySelectorAll("img"),a=0;a<t.length;a++){var e=t[a];e.getAttribute("loading")||(e.classList.add("lazyload"),e.setAttribute("loading","lazy")),e.alt&&""!==e.alt.trim()||(e.alt="anhhangxom.xyz")}});
 document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll("img").forEach(function(t){t.addEventListener("load",function(){t.style.width=t.width+"px",t.style.height=t.height+"px"})})});let loadTriggerLoadElfSightScript = true;const triggerLoadElfSightScript=document.getElementById("triggerLoadElfSightScript");function isScrolledIntoView(t){let e=t.getBoundingClientRect(),i=e.top,n=e.bottom;return i<window.innerHeight&&n>=0}
-  function loadElfSightScript(){var t=window.location.href;if(t.includes("localhost")||t.includes("127.0.0.1"))console.log("Đang chạy localhost, kh\xf4ng th\xeam lệnh script.");else{var e=document.createElement("div");e.className="elfsight-app-be8e4ed8-2767-48dd-a856-d96b3a4edae2",e.setAttribute("data-elfsight-app-lazy",""),e.style.textAlign="center";var a=document.getElementById("instaShow2");a?a.appendChild(e):console.error('Kh\xf4ng t\xecm thấy thẻ div c\xf3 id "instaShow2".');var l=document.createElement("script");l.src="https://static.elfsight.com/platform/platform.js",console.log("Tải loadElfSightScript https://static.elfsight.com/platform/platform.js"),l.setAttribute("data-use-service-core",""),l.defer=!0,document.head.appendChild(l),loadTriggerLoadElfSightScript=false}}
+function choiseElauthor(nameAuthor){
+  const auMinh = "elfsight-app-2d7ff24f-61ad-4bf2-9b03-8e320f3e846b"
+  const auTuan = "elfsight-app-be8e4ed8-2767-48dd-a856-d96b3a4edae2"
+  if (nameAuthor) {
+    return auMinh;
+  }
+  return auTuan;
+}
+  function loadElfSightScript(){const metaTagAu = document.querySelector(`meta[name="author"][content="${authorName}"]`);var t=window.location.href;if(t.includes("localhost")||t.includes("127.0.0.1"))console.log("Đang chạy localhost, kh\xf4ng th\xeam lệnh script.");else{var e=document.createElement("div");e.className=choiseElauthor(metaTagAu),e.setAttribute("data-elfsight-app-lazy",""),e.style.textAlign="center";var a=document.getElementById("instaShow2");a?a.appendChild(e):console.error('Kh\xf4ng t\xecm thấy thẻ div c\xf3 id "instaShow2".');var l=document.createElement("script");l.src="https://static.elfsight.com/platform/platform.js",console.log("Tải loadElfSightScript https://static.elfsight.com/platform/platform.js"),l.setAttribute("data-use-service-core",""),l.defer=!0,document.head.appendChild(l),loadTriggerLoadElfSightScript=false}}
 
   </script>
 <script>
