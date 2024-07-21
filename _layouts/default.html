@@ -59,7 +59,7 @@
       <script>
       function createRandomDivAndAppend() {
         const searchBoxEl = document.getElementById('searchBoxEl'); // Lấy thẻ div có ID là searchBoxEl
-
+if(searchBoxEl){
         const div1 = document.createElement('div');
   div1.classList.add('elfsight-app-b861966c-825d-44b1-8562-16a8af229c2f');
   div1.dataset.elfsightAppLazy = ''; // Set data-elfsight-app-lazy attribute
@@ -100,8 +100,9 @@
 
         // Append the chosen div to the searchBoxEl
         searchBoxEl.appendChild(randomDiv);
-      }
-
+      }else{
+        console.log('Không có searchBoxEl');
+      }}
       // Gọi hàm để thực hiện
       createRandomDivAndAppend();
       </script>
