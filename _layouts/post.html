@@ -94,27 +94,3 @@ function choiseElauthor(nameAuthor){
 
 
 
-<script>
-  function checkMetaAuthor(authorName) {
-
-    const metaTag = document.querySelector(`meta[name="author"][content="${authorName}"]`);
-    if (metaTag) {
-    // Thêm script nếu tìm thấy
-    const script = document.createElement('script');
-    script.src = 'https://static.elfsight.com/platform/platform.js';
-    script.dataset.useServiceCore = '';
-    script.defer = true;
-    document.head.appendChild(script);
-    console.log('Đã tìm thấy thẻ meta và thêm script');
-  } else {
-    window.addEventListener('scroll', function() {
-      if (isScrolledIntoView(triggerLoadElfSightScript)&&loadTriggerLoadElfSightScript) {
-        loadElfSightScript();
-      }
-    })
-  }
-  };
-
-// Gọi hàm để thực hiện kiểm tra
-checkMetaAuthor('minh');
-</script>
