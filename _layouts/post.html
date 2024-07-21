@@ -114,9 +114,9 @@ insertDiv('main-content-content', 'triggerLoadElfSightScript', randomElement);
 document.addEventListener("DOMContentLoaded",function(){for(var t=document.querySelectorAll("img"),a=0;a<t.length;a++){var e=t[a];e.getAttribute("loading")||(e.classList.add("lazyload"),e.setAttribute("loading","lazy")),e.alt&&""!==e.alt.trim()||(e.alt="anhhangxom.xyz")}});
 document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll("img").forEach(function(t){t.addEventListener("load",function(){t.style.width=t.width+"px",t.style.height=t.height+"px"})})});let loadTriggerLoadElfSightScript = true;const triggerLoadElfSightScript=document.getElementById("triggerLoadElfSightScript");function isScrolledIntoView(t){let e=t.getBoundingClientRect(),i=e.top,n=e.bottom;return i<window.innerHeight&&n>=0}
 function choiseElauthor(nameAuthor){
-  const auMinh = "elfsight-app-9cd1c982-49f1-460f-9983-88440d29cb99"
+  const myArrayMinh = ['elfsight-app-4bab93fa-028b-4ab6-a095-3bdcecb91616',"elfsight-app-fae669a8-2109-47be-8003-7767f2c82a5a"]
   if (nameAuthor) {
-    return auMinh;
+    return getRandomElement(myArrayMinh);
   }
   const myArray = ['elfsight-app-58eefcb9-7b01-4eda-a0ed-b18b31f127fc', 'elfsight-app-5251747b-b6d4-4dd8-83b2-d4c39ed9caea','elfsight-app-17b7491c-45aa-4619-a175-885d1747ec14'];
   const randomElement = getRandomElement(myArray);
