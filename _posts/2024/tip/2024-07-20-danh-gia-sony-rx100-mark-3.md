@@ -20,16 +20,10 @@ keywords:
   - điểm mạnh điểm yếu
 date: 2024-07-20 10:01:10 +0700
 permalink: reviews/Sony-RX100-Mark-III-danh-gia-chi-tiet-sau-hon-10-nam-ra-mat
+skip_toc: true
 ---
 
 Sony RX100 Mark III - một chiếc máy ảnh compact đã đồng hành cùng tôi suốt nhiều năm qua. Với cảm biến 1 inch cho chất lượng hình ảnh tuyệt vời, ống kính ZEISS sắc nét và thiết kế nhỏ gọn, RX100 Mark III là một lựa chọn hoàn hảo cho những ai yêu thích nhiếp ảnh du lịch và street photography. Tuy nhiên, sau 10 năm ra mắt, liệu chiếc máy ảnh này có còn cạnh tranh được với các đối thủ mới nổi trên thị trường? Hãy cùng tôi khám phá chi tiết về Sony RX100 Mark III và xem liệu nó có xứng đáng có một chỗ trong bộ sưu tập của bạn hay không.
-
-<hr style="border: 1px solid #000000;">
-<p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Mục lục</p>
-* TOC
-{:toc}
-
-<hr style="border: 1px solid #000000;">
 
 ### 1\. Thời điểm ra mắt
 
