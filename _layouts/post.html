@@ -70,7 +70,22 @@ comments: true
     const randomIndex = Math.floor(Math.random() * array.length);
     return array[randomIndex];
   }
-  function insertDiv(t,e){let r=document.querySelectorAll("#articlePost section p");if(0===r.length){console.error("Kh\xf4ng t\xecm thấy thẻ <p> n\xe0o trong section");return}let n=Math.floor(Math.random()*r.length),i=r[n];if(r){let o=document.createElement("div");o.id=e;let l=document.createElement("div");l.id="instaShow2",i.after(o),i.after(l)}else console.error("Vị tr\xed #articlePost section kh\xf4ng t\xecm được")}insertDiv("main-content-content","triggerLoadElfSightScript");
+  function insertDiv(t,e){let r=document.querySelectorAll("#articlePost section p");if(0===r.length){console.error("Kh\xf4ng t\xecm thấy thẻ <p> n\xe0o trong section");return}let n=Math.floor(Math.random()*r.length),i=r[n];if(r){let o=document.createElement("div");o.id=e;let l=document.createElement("div");l.id="instaShow2",i.after(o),i.after(l)}else console.error("Vị tr\xed #articlePost section kh\xf4ng t\xecm được")}insertDiv("main-content-content","triggerLoadElfSightScript");let c=document.getElementById("instaShow2");c?c.appendChild(l):console.error('Kh\xf4ng t\xecm thấy thẻ div c\xf3 id "instaShow2".');(function() {
+    let s = document.createElement("script");
+    s.src = "https://static.elfsight.com/platform/platform.js";
+    console.log("Tải loadElfSightScript https://static.elfsight.com/platform/platform.js");
+    s.setAttribute("data-use-service-core", "");
+    s.defer = true;
+    document.head.appendChild(s);
+})();
+
+(function(d, t, a) {
+    let n = d.createElement(t),
+        o = d.getElementsByTagName(t)[0];
+    n.async = true;
+    n.src = a;
+    o.parentNode.insertBefore(n, o);
+})(document, "script", "https://chimpstatic.com/mcjs-connected/js/users/a439f78ba77fd2f9e892d4fa8/f37836a9f614fff78ac17eacf.js");
 </script>
 
 
