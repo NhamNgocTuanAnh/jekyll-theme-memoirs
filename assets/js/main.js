@@ -142,35 +142,7 @@ function isTetDate() {
     navMenu.style.display = "none";
   }
 
-  $(window).on("scroll", function() {
-    const scrollToTop = $("#scrollToTop");
-    if (window.scrollY > window.outerHeight) {
-      scrollToTop.addClass("active");
-      document.getElementById("next-post-active").onclick = function() {
-        window.location.replace(g || "{{ site.baseurl }}");
-      };
-      scrollToTop.css("display", "block");
-      if (!shouldHideDivOnSmallScreens() && !isRelative() && isMobileDevice()) {
-        document.querySelector(".topnav").style.display = "block";
-      } else {
-        document.querySelector(".topnav").style.display = "none";
-      }
-    } else {
-      scrollToTop.removeClass("active");
-      scrollToTop.css("display", "none");
-      document.querySelector(".topnav").style.display = "none";
-    }
-    $.each($("img"), function() {
-      if ($(this).attr("data-src") && $(this).offset().top < $(window).scrollTop() + $(window).height() + 100) {
-        const src = $(this).data("src");
-        $(this).attr("src", src).removeAttr("data-src");
-      }
-    });
-  });
 
-  $("#scrollToTopButton").on("click", function() {
-    $("html, body").animate({ scrollTop: 0 }, 500);
-  });
 
   let chatButtonAuto = true;
 
