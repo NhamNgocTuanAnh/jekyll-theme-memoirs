@@ -240,7 +240,6 @@ function checkScrollAndClick() {
         }
     }
 }
-checkScrollAndClick();
 setTimeout(() => {
     checkScrollAndClick();
 }, 10000);
@@ -252,8 +251,7 @@ document.addEventListener("scroll", () => {
     checkScrollAndClick();
 });
 
-
-// window.addEventListener("scroll", checkScrollAndClick);
+window.addEventListener("scroll", checkScrollAndClick);
 
 
 $(document).ready(function () {
