@@ -162,36 +162,7 @@ if (chatButton) {
     chatButton.style.display = "none";
 };runRandomCode();}</script>
 <script>
-var chatButtonAuto = true;
-function checkScrollAndClick() {
-  if(chatButtonAuto){
-    const instaDiv = document.getElementById('replace-day');
-  const chatButton = document.getElementById('chat-button');
-
-  // Kiểm tra nếu thẻ div "insta" tồn tại và button "chat" cũng tồn tại
-  if (instaDiv && chatButton) {
-    // Lấy vị trí của thẻ div "insta" so với cửa sổ trình duyệt
-    const instaRect = instaDiv.getBoundingClientRect();
-
-    // Kiểm tra nếu phần trên của thẻ div "insta" đã vượt qua phần nhìn thấy của cửa sổ trình duyệt
-    if (instaRect.top <= window.innerHeight) {
-      chatButton.click();
-      chatButtonAuto = false;
-    }
-  }
-  }
-
-}
-// Kiểm tra ngay khi trang tải xong
-checkScrollAndClick();
-
-// Hẹn giờ tự động click sau 10 giây nếu chưa có hành động nào
-setTimeout(() => {
-  checkScrollAndClick();
-}, 10000);
-
-// Kiểm tra mỗi khi người dùng scroll
-window.addEventListener('scroll', checkScrollAndClick);
+var chatButtonAuto=!0;function checkScrollAndClick(){if(chatButtonAuto){let t=document.getElementById("replace-day"),c=document.getElementById("chat-button");if(t&&c){let e=t.getBoundingClientRect();e.top<=window.innerHeight&&(c.click(),chatButtonAuto=!1)}}}checkScrollAndClick(),setTimeout(()=>{checkScrollAndClick()},1e4),window.addEventListener("scroll",checkScrollAndClick);
 </script>
 <style>table {
     width: 100%;
