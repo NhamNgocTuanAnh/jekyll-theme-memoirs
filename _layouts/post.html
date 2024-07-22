@@ -77,21 +77,6 @@ const isElementInViewport = element => {
     return rect.top < window.innerHeight && rect.bottom >= 0;
 };
 
-if (isElementInViewport(triggerElement) && isScriptEnabled) {
-    const authorMeta = document.querySelector('meta[name="author"][content="minh"]');
-    const currentURL = window.location.href;
-    if (currentURL.includes("localhost") || currentURL.includes("127.0.0.1")) {
-        console.log("Đang chạy localhost, không thêm lệnh script.");
-    } else {
-        const containerDiv = document.createElement("div");
-        const classNames = authorMeta
-            ? ["elfsight-app-4bab93fa-028b-4ab6-a095-3bdcecb91616", "elfsight-app-fae669a8-2109-47be-8003-7767f2c82a5a"]
-            : ["elfsight-app-58eefcb9-7b01-4eda-a0ed-b18b31f127fc", "elfsight-app-5251747b-b6d4-4dd8-83b2-d4c39ed9caea", "elfsight-app-17b7491c-45aa-4619-a175-885d1747ec14", "elfsight-app-83c3bf06-1d94-48ba-88c4-e05887ca6f4f"];
-        containerDiv.className = getRandomElement(classNames);
-        containerDiv.setAttribute("data-elfsight-app-lazy", "");
-        containerDiv.style.textAlign = "center";
-    }
-}
 
 const insertDiv = (parentId, newId) => {
     const paragraphs = document.querySelectorAll("#articlePost section p");
@@ -114,6 +99,21 @@ insertDiv("main-content-content", "triggerLoadElfSightScript");
 const instaShowDiv = document.getElementById("instaShow2");
 if (instaShowDiv) {
     instaShowDiv.appendChild(document.getElementById("triggerLoadElfSightScript"));
+    if (isElementInViewport(triggerElement) && isScriptEnabled) {
+    const authorMeta = document.querySelector('meta[name="author"][content="minh"]');
+    const currentURL = window.location.href;
+    if (currentURL.includes("localhost") || currentURL.includes("127.0.0.1")) {
+        console.log("Đang chạy localhost, không thêm lệnh script.");
+    } else {
+        const containerDiv = document.createElement("div");
+        const classNames = authorMeta
+            ? ["elfsight-app-4bab93fa-028b-4ab6-a095-3bdcecb91616", "elfsight-app-fae669a8-2109-47be-8003-7767f2c82a5a"]
+            : ["elfsight-app-58eefcb9-7b01-4eda-a0ed-b18b31f127fc", "elfsight-app-5251747b-b6d4-4dd8-83b2-d4c39ed9caea", "elfsight-app-17b7491c-45aa-4619-a175-885d1747ec14", "elfsight-app-83c3bf06-1d94-48ba-88c4-e05887ca6f4f"];
+        containerDiv.className = getRandomElement(classNames);
+        containerDiv.setAttribute("data-elfsight-app-lazy", "");
+        containerDiv.style.textAlign = "center";
+    }
+}
 } else {
     console.error('Không tìm thấy thẻ div có id "instaShow2".');
 }
