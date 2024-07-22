@@ -149,7 +149,7 @@ function isTetDate() {
       document.getElementById("next-post-active").onclick = function() {
         window.location.replace(g || "{{ site.baseurl }}");
       };
-      scrollToTop.style.display = "block";
+      scrollToTop.css("display", "block");
       if (!shouldHideDivOnSmallScreens() && !isRelative() && isMobileDevice()) {
         document.querySelector(".topnav").style.display = "block";
       } else {
@@ -157,7 +157,7 @@ function isTetDate() {
       }
     } else {
       scrollToTop.removeClass("active");
-      scrollToTop.style.display = "none";
+      scrollToTop.css("display", "none");
       document.querySelector(".topnav").style.display = "none";
     }
     $.each($("img"), function() {
