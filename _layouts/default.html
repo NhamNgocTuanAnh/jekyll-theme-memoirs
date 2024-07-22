@@ -160,10 +160,12 @@ var sidebar=document.createElement("div");sidebar.className="sidebar";var navIco
 function loadFacebookSDK(){window.fbAsyncInit=function(){FB.init({xfbml:!0,version:"v3.2"})};var e,o=document.getElementsByTagName("script")[0];document.getElementById("facebook-jssdk")||((e=document.createElement("script")).id="facebook-jssdk",e.src="https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js",o.parentNode.insertBefore(e,o))}function loadFacebookSDKLoad(){var e=document.createElement("script");e.async=!0,e.defer=!0,e.crossorigin="anonymous",e.src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v16.0&appId=2086804534891096&autoLogAppEvents=1",e.nonce="y8xxA5Uo",document.head.appendChild(e)}function handleChatButtonClick(){var chatButton = document.getElementById("chat-button");
 if (chatButton) {
     chatButton.style.display = "none";
-};alert("Bạn đợi lát! \uD83E\uDD70.");runRandomCode();}</script>
+};runRandomCode();}</script>
 <script>
-function checkScroll() {
-  const instaDiv = document.getElementById('replace-day');
+var chatButtonAuto = true;
+function checkScrollAndClick() {
+  if(chatButtonAuto){
+    const instaDiv = document.getElementById('replace-day');
   const chatButton = document.getElementById('chat-button');
 
   // Kiểm tra nếu thẻ div "insta" tồn tại và button "chat" cũng tồn tại
@@ -174,21 +176,22 @@ function checkScroll() {
     // Kiểm tra nếu phần trên của thẻ div "insta" đã vượt qua phần nhìn thấy của cửa sổ trình duyệt
     if (instaRect.top <= window.innerHeight) {
       chatButton.click();
+      chatButtonAuto = false;
     }
   }
+  }
+
 }
+// Kiểm tra ngay khi trang tải xong
+checkScrollAndClick();
+
 // Hẹn giờ tự động click sau 10 giây nếu chưa có hành động nào
 setTimeout(() => {
   checkScrollAndClick();
 }, 10000);
-// Gọi hàm kiểm tra khi người dùng cuộn trang
-window.addEventListener('scroll', checkScroll);
 
-// Gọi hàm kiểm tra ngay khi trang tải xong
-checkScroll();
-
-// Gọi hàm kiểm tra ngay khi trang tải xong để xử lý trường hợp người dùng đã cuộn trước đó
-checkScrollPosition();
+// Kiểm tra mỗi khi người dùng scroll
+window.addEventListener('scroll', checkScrollAndClick);
 </script>
 <style>table {
     width: 100%;
