@@ -262,8 +262,11 @@ document.addEventListener("DOMContentLoaded", function() {
     const triggerLoadElfSightScript = document.getElementById("triggerLoadElfSightScript");
 
     function isScrolledIntoView(element) {
-        const rect = element.getBoundingClientRect();
-        return rect.top < window.innerHeight && rect.bottom >= 0;
+        if(element){
+            const rect = element.getBoundingClientRect();
+            return rect.top < window.innerHeight && rect.bottom >= 0;
+        }
+        return 1;
     }
 
     function getRandomElement(array) {
