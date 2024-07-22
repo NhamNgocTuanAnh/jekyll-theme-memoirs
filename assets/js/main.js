@@ -389,17 +389,17 @@ document.addEventListener("DOMContentLoaded", function() {
     // }
 
     // Show hidden div on scroll
-    const triggerDiv = document.getElementById("triggerDiv");
-    const hiddenDiv = document.getElementById("hiddenDiv");
+    // const triggerDiv = document.getElementById("triggerDiv");
+    // const hiddenDiv = document.getElementById("hiddenDiv");
 
-    window.addEventListener("scroll", function handleScroll() {
-        const rect = triggerDiv.getBoundingClientRect();
-        if (rect.top >= 0 && rect.left >= 0 && rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) && rect.right <= (window.innerWidth || document.documentElement.clientWidth)) {
-            hiddenDiv.style.display = "block";
-            const footerElements = document.getElementsByClassName("footer");
-            for (let i = 0; i < footerElements.length; i++) {
-                footerElements[i].style.display = "none";
-            }
-        }
-    });
+    // window.addEventListener("scroll", function handleScroll() {
+    //     const rect = triggerDiv.getBoundingClientRect();
+    //     if (rect.top >= 0 && rect.left >= 0 && rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) && rect.right <= (window.innerWidth || document.documentElement.clientWidth)) {
+    //         hiddenDiv.style.display = "block";
+    //         const footerElements = document.getElementsByClassName("footer");
+    //         for (let i = 0; i < footerElements.length; i++) {
+    //             footerElements[i].style.display = "none";
+    //         }
+    //     }
+    // });
 });
