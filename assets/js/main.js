@@ -3,7 +3,11 @@ function isTetDate() {
     let e = new Intl.DateTimeFormat("vi-u-ca-lunar").format(t);
     return /(1|2|3|4)\/(1|13)$/.test(e);
 }
-
+function isMobile() {
+    // Kiểm tra các đặc trưng của thiết bị di động
+    const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    return isMobile;
+  }
 function myFunctionOpenTopNav() {
     var a = document.getElementById("myTopnav");
     if (a.className === "topnav") {
@@ -183,11 +187,7 @@ $(window).on("scroll", function () {
 $("#scrollToTopButton").on("click", function () {
     $("html, body").animate({ scrollTop: 0 }, 500);
 });
-
-if (isMobile()) {
-    console.log("Bạn đang sử dụng thiết bị di động");
-  } else {
-    var chatButtonAuto = true;
+var chatButtonAuto = true;
 function checkScrollAndClick() {
     if (chatButtonAuto) {
         let t = document.getElementById("replace-day"),
@@ -202,6 +202,10 @@ function checkScrollAndClick() {
         }
     }
 }
+if (isMobile()) {
+    console.log("Bạn đang sử dụng thiết bị di động");
+  } else {
+
 setTimeout(() => {
     checkScrollAndClick();
 }, 10000);
