@@ -175,10 +175,9 @@ function handleChatButtonClick() {
     var chatButton = document.getElementById("chat-button");
     if (chatButton) {
         chatButton.style.display = "none";
-
             let d = document.createElement("div");
             d.classList.add("elfsight-app-d15cd726-3619-4d26-9eeb-d7661922dbe1");
-            d.dataset.elfsightAppLazy = "";
+            d.setAttribute('data-elfsight-app-lazy', '');
             document.body.appendChild(d);
     }
 }
@@ -267,16 +266,171 @@ gtag('consent', 'default', {
     'ad_personalization': 'denied',
     'analytics_storage': 'denied'
 });
-document.addEventListener("DOMContentLoaded",function(){for(var t=document.querySelectorAll("img"),a=0;a<t.length;a++){var e=t[a];e.getAttribute("loading")||(e.classList.add("lazyload"),e.setAttribute("loading","lazy")),e.alt&&""!==e.alt.trim()||(e.alt="anhhangxom.xyz")}});
-document.addEventListener("DOMContentLoaded",function(){document.querySelectorAll("img").forEach(function(t){t.addEventListener("load",function(){t.style.width=t.width+"px",t.style.height=t.height+"px"})})});let loadTriggerLoadElfSightScript = true;const triggerLoadElfSightScript=document.getElementById("triggerLoadElfSightScript");function isScrolledIntoView(t){let e=t.getBoundingClientRect(),i=e.top,n=e.bottom;return i<window.innerHeight&&n>=0}
-  function choiseElauthor(a){if(a)return getRandomElement(["elfsight-app-4bab93fa-028b-4ab6-a095-3bdcecb91616","elfsight-app-fae669a8-2109-47be-8003-7767f2c82a5a"]);let e=getRandomElement(["elfsight-app-58eefcb9-7b01-4eda-a0ed-b18b31f127fc","elfsight-app-5251747b-b6d4-4dd8-83b2-d4c39ed9caea","elfsight-app-17b7491c-45aa-4619-a175-885d1747ec14","elfsight-app-83c3bf06-1d94-48ba-88c4-e05887ca6f4f"]);return e};
-  function loadElfSightScript(){const metaTagAu = document.querySelector(`meta[name="author"][content="minh"]`);var t=window.location.href;if(t.includes("localhost")||t.includes("127.0.0.1"))console.log("Đang chạy localhost, kh\xf4ng th\xeam lệnh script.");else{var e=document.createElement("div");e.className=choiseElauthor(metaTagAu),e.setAttribute("data-elfsight-app-lazy",""),e.style.textAlign="center";var a=document.getElementById("instaShow2");a?a.appendChild(e):console.error('Kh\xf4ng t\xecm thấy thẻ div c\xf3 id "instaShow2".');var l=document.createElement("script");l.src="https://static.elfsight.com/platform/platform.js",console.log("Tải loadElfSightScript https://static.elfsight.com/platform/platform.js"),l.setAttribute("data-use-service-core",""),l.defer=!0,document.head.appendChild(l),loadTriggerLoadElfSightScript=false}}
-  window.addEventListener('scroll', function() {
-      if (isScrolledIntoView(triggerLoadElfSightScript)&&loadTriggerLoadElfSightScript) {
-        loadElfSightScript();
-      }
-    })
-    !function (c, h, i, m, p) { m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode.insertBefore(m, p) }(document, "script", "https://chimpstatic.com/mcjs-connected/js/users/a439f78ba77fd2f9e892d4fa8/f37836a9f614fff78ac17eacf.js");
-    document.addEventListener("DOMContentLoaded",function(){if([11,12].includes(new Date().getMonth()+1)){var n=document.createElement("style");n.type="text/css",document.head.appendChild(n),n.innerHTML=`
-    .snowflake{color:#fff;font-size:1em;font-family:Arial,sans-serif;text-shadow:0 0 5px #000;position:fixed;top:-10%;z-index:9999;-webkit-user-select:none;user-select:none;cursor:default;animation-name:snowflakes-shake;animation-duration:3s;animation-timing-function:ease-in-out}.snowflake,.snowflake .inner{animation-iteration-count:infinite;animation-play-state:running}@keyframes snowflakes-fall{0%{transform:translateY(0)}100%{transform:translateY(110vh)}}@keyframes snowflakes-shake{0%,100%{transform:translateX(0)}50%{transform:translateX(80px)}}.snowflake .inner{animation-duration:10s;animation-name:snowflakes-fall;animation-timing-function:linear}.snowflake:nth-of-type(0){left:1%;animation-delay:0s}.snowflake:nth-of-type(0) .inner{animation-delay:0s}.snowflake:first-of-type{left:10%;animation-delay:1s}.snowflake:first-of-type .inner,.snowflake:nth-of-type(8) .inner{animation-delay:1s}.snowflake:nth-of-type(2){left:20%;animation-delay:.5s}.snowflake:nth-of-type(2) .inner,.snowflake:nth-of-type(6) .inner{animation-delay:6s}.snowflake:nth-of-type(3){left:30%;animation-delay:2s}.snowflake:nth-of-type(11) .inner,.snowflake:nth-of-type(3) .inner{animation-delay:4s}.snowflake:nth-of-type(4){left:40%;animation-delay:2s}.snowflake:nth-of-type(10) .inner,.snowflake:nth-of-type(4) .inner{animation-delay:2s}.snowflake:nth-of-type(5){left:50%;animation-delay:3s}.snowflake:nth-of-type(5) .inner{animation-delay:8s}.snowflake:nth-of-type(6){left:60%;animation-delay:2s}.snowflake:nth-of-type(7){left:70%;animation-delay:1s}.snowflake:nth-of-type(7) .inner{animation-delay:2.5s}.snowflake:nth-of-type(8){left:80%;animation-delay:0s}.snowflake:nth-of-type(9){left:90%;animation-delay:1.5s}.snowflake:nth-of-type(9) .inner{animation-delay:3s}.snowflake:nth-of-type(10){left:25%;animation-delay:0s}.snowflake:nth-of-type(11){left:65%;animation-delay:2.5s}
-    `}else document.getElementById("snowCall").style.display="none"});
+document.addEventListener("DOMContentLoaded", function() {
+    // Lazy load images and set default alt attribute if not present
+    document.querySelectorAll("img").forEach(function(img) {
+        if (!img.getAttribute("loading")) {
+            img.classList.add("lazyload");
+            img.setAttribute("loading", "lazy");
+        }
+        if (!img.alt || img.alt.trim() === "") {
+            img.alt = "anhhangxom.xyz";
+        }
+    });
+
+    // Adjust image dimensions on load
+    document.querySelectorAll("img").forEach(function(img) {
+        img.addEventListener("load", function() {
+            img.style.width = img.width + "px";
+            img.style.height = img.height + "px";
+        });
+    });
+
+    // Load ElfSight script if element is in view
+    const loadTriggerLoadElfSightScript = true;
+    const triggerLoadElfSightScript = document.getElementById("triggerLoadElfSightScript");
+
+    function isScrolledIntoView(element) {
+        const rect = element.getBoundingClientRect();
+        return rect.top < window.innerHeight && rect.bottom >= 0;
+    }
+
+    function getRandomElement(array) {
+        return array[Math.floor(Math.random() * array.length)];
+    }
+
+    function choiseElauthor(metaTag) {
+        if (metaTag) {
+            return getRandomElement(["elfsight-app-4bab93fa-028b-4ab6-a095-3bdcecb91616", "elfsight-app-fae669a8-2109-47be-8003-7767f2c82a5a"]);
+        } else {
+            return getRandomElement([
+                "elfsight-app-58eefcb9-7b01-4eda-a0ed-b18b31f127fc",
+                "elfsight-app-5251747b-b6d4-4dd8-83b2-d4c39ed9caea",
+                "elfsight-app-17b7491c-45aa-4619-a175-885d1747ec14",
+                "elfsight-app-83c3bf06-1d94-48ba-88c4-e05887ca6f4f"
+            ]);
+        }
+    }
+
+    function loadElfSightScript() {
+        const metaTagAu = document.querySelector('meta[name="author"][content="minh"]');
+        const currentUrl = window.location.href;
+
+        if (currentUrl.includes("localhost") || currentUrl.includes("127.0.0.1")) {
+            console.log("Đang chạy localhost, không thêm lệnh script.");
+        } else {
+            const div = document.createElement("div");
+            div.className = choiseElauthor(metaTagAu);
+            div.setAttribute("data-elfsight-app-lazy", "");
+            div.style.textAlign = "center";
+
+            const instaShow2 = document.getElementById("instaShow2");
+            if (instaShow2) {
+                instaShow2.appendChild(div);
+            } else {
+                console.error('Không tìm thấy thẻ div có id "instaShow2".');
+            }
+
+            const script = document.createElement("script");
+            script.src = "https://static.elfsight.com/platform/platform.js";
+            console.log("Tải loadElfSightScript https://static.elfsight.com/platform/platform.js");
+            script.setAttribute("data-use-service-core", "");
+            script.defer = true;
+            document.head.appendChild(script);
+            loadTriggerLoadElfSightScript = false;
+        }
+    }
+
+    window.addEventListener('scroll', function() {
+        if (isScrolledIntoView(triggerLoadElfSightScript) && loadTriggerLoadElfSightScript) {
+            loadElfSightScript();
+        }
+    });
+
+    // Add external script asynchronously
+    (function (d, s, src) {
+        const script = d.createElement(s);
+        const firstScript = d.getElementsByTagName(s)[0];
+        script.async = true;
+        script.src = src;
+        firstScript.parentNode.insertBefore(script, firstScript);
+    })(document, "script", "https://chimpstatic.com/mcjs-connected/js/users/a439f78ba77fd2f9e892d4fa8/f37836a9f614fff78ac17eacf.js");
+
+    // Add snowflake styles during specific months
+    if ([11, 12].includes(new Date().getMonth() + 1)) {
+        const style = document.createElement("style");
+        style.type = "text/css";
+        document.head.appendChild(style);
+        style.innerHTML = `
+        .snowflake {
+            color: #fff;
+            font-size: 1em;
+            font-family: Arial, sans-serif;
+            text-shadow: 0 0 5px #000;
+            position: fixed;
+            top: -10%;
+            z-index: 9999;
+            -webkit-user-select: none;
+            user-select: none;
+            cursor: default;
+            animation-name: snowflakes-shake;
+            animation-duration: 3s;
+            animation-timing-function: ease-in-out;
+        }
+        .snowflake, .snowflake .inner {
+            animation-iteration-count: infinite;
+            animation-play-state: running;
+        }
+        @keyframes snowflakes-fall {
+            0% { transform: translateY(0); }
+            100% { transform: translateY(110vh); }
+        }
+        @keyframes snowflakes-shake {
+            0%, 100% { transform: translateX(0); }
+            50% { transform: translateX(80px); }
+        }
+        .snowflake .inner {
+            animation-duration: 10s;
+            animation-name: snowflakes-fall;
+            animation-timing-function: linear;
+        }
+        .snowflake:nth-of-type(0) { left: 1%; animation-delay: 0s; }
+        .snowflake:nth-of-type(0) .inner { animation-delay: 0s; }
+        .snowflake:first-of-type { left: 10%; animation-delay: 1s; }
+        .snowflake:first-of-type .inner, .snowflake:nth-of-type(8) .inner { animation-delay: 1s; }
+        .snowflake:nth-of-type(2) { left: 20%; animation-delay: .5s; }
+        .snowflake:nth-of-type(2) .inner, .snowflake:nth-of-type(6) .inner { animation-delay: 6s; }
+        .snowflake:nth-of-type(3) { left: 30%; animation-delay: 2s; }
+        .snowflake:nth-of-type(11) .inner, .snowflake:nth-of-type(3) .inner { animation-delay: 4s; }
+        .snowflake:nth-of-type(4) { left: 40%; animation-delay: 2s; }
+        .snowflake:nth-of-type(10) .inner, .snowflake:nth-of-type(4) .inner { animation-delay: 2s; }
+        .snowflake:nth-of-type(5) { left: 50%; animation-delay: 3s; }
+        .snowflake:nth-of-type(5) .inner { animation-delay: 8s; }
+        .snowflake:nth-of-type(6) { left: 60%; animation-delay: 2s; }
+        .snowflake:nth-of-type(7) { left: 70%; animation-delay: 1s; }
+        .snowflake:nth-of-type(7) .inner { animation-delay: 2.5s; }
+        .snowflake:nth-of-type(8) { left: 80%; animation-delay: 0s; }
+        .snowflake:nth-of-type(9) { left: 90%; animation-delay: 1.5s; }
+        .snowflake:nth-of-type(9) .inner { animation-delay: 3s; }
+        .snowflake:nth-of-type(10) { left: 25%; animation-delay: 0s; }
+        .snowflake:nth-of-type(11) { left: 65%; animation-delay: 2.5s; }
+        `;
+    } else {
+        document.getElementById("snowCall").style.display = "none";
+    }
+
+    // Show hidden div on scroll
+    const triggerDiv = document.getElementById("triggerDiv");
+    const hiddenDiv = document.getElementById("hiddenDiv");
+
+    window.addEventListener("scroll", function handleScroll() {
+        const rect = triggerDiv.getBoundingClientRect();
+        if (rect.top >= 0 && rect.left >= 0 && rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) && rect.right <= (window.innerWidth || document.documentElement.clientWidth)) {
+            hiddenDiv.style.display = "block";
+            const footerElements = document.getElementsByClassName("footer");
+            for (let i = 0; i < footerElements.length; i++) {
+                footerElements[i].style.display = "none";
+            }
+        }
+    });
+});
