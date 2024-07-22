@@ -66,6 +66,36 @@ comments: true
 <style>
   .myFancyBox .fancybox-thumbs{top:auto;width:auto;bottom:0;left:0;right:0;height:95px;padding:10px 10px 5px;box-sizing:border-box;background:rgba(0,0,0,.3)}.myFancyBox .fancybox-show-thumbs .fancybox-inner{right:0!important;bottom:95px!important}.fancybox-show-thumbs .fancybox-inner{right:0!important;bottom:98px}</style>
 <script>
+  let isScriptEnabled = true;
+const triggerElement = document.getElementById("triggerLoadElfSightScript");
+
+function getRandomElement(arr) {
+    return arr[Math.floor(Math.random() * arr.length)];
+}
+
+function isElementInViewport(element) {
+    if (element) {
+        const rect = element.getBoundingClientRect();
+        return rect.top < window.innerHeight && rect.bottom >= 0;
+    }
+    return true;
+}
+
+if (isElementInViewport(triggerElement) && isScriptEnabled) {
+    const authorMeta = document.querySelector('meta[name="author"][content="minh"]');
+    const currentURL = window.location.href;
+    if (currentURL.includes("localhost") || currentURL.includes("127.0.0.1")) {
+        console.log("Đang chạy localhost, không thêm lệnh script.");
+    } else {
+        const containerDiv = document.createElement("div");
+        const classNames = authorMeta ?
+            ["elfsight-app-4bab93fa-028b-4ab6-a095-3bdcecb91616", "elfsight-app-fae669a8-2109-47be-8003-7767f2c82a5a"] :
+            ["elfsight-app-58eefcb9-7b01-4eda-a0ed-b18b31f127fc", "elfsight-app-5251747b-b6d4-4dd8-83b2-d4c39ed9caea", "elfsight-app-17b7491c-45aa-4619-a175-885d1747ec14", "elfsight-app-83c3bf06-1d94-48ba-88c4-e05887ca6f4f"];
+        containerDiv.className = getRandomElement(classNames);
+        containerDiv.setAttribute("data-elfsight-app-lazy", "");
+        containerDiv.style.textAlign = "center";
+    }
+}
   function getRandomElement(array) {
     const randomIndex = Math.floor(Math.random() * array.length);
     return array[randomIndex];
@@ -79,13 +109,6 @@ comments: true
     document.head.appendChild(s);
 })();
 
-(function(d, t, a) {
-    let n = d.createElement(t),
-        o = d.getElementsByTagName(t)[0];
-    n.async = true;
-    n.src = a;
-    o.parentNode.insertBefore(n, o);
-})(document, "script", "https://chimpstatic.com/mcjs-connected/js/users/a439f78ba77fd2f9e892d4fa8/f37836a9f614fff78ac17eacf.js");
 </script>
 
 
