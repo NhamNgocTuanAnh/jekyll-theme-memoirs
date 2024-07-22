@@ -159,6 +159,16 @@ padding: 0.3em;
 
   $("#scrollToTopButton").on("click", function() {
     $("html, body").animate({ scrollTop: 0 }, 500);
+  });  $(document).ready(function() {
+    $("img[loading='lazy']").each(function() {
+      if (!$(this).hasClass("img-thumb") && !$(this).hasClass("author-thumb")) {
+        const parentLink = $(this).parent("a");
+        if (parentLink.length && !parentLink.attr("data-fancybox")) {
+          $(this).wrap(`<a href="${$(this).attr("src")}" data-fancybox="gallery" data-caption="source: imgur.com"></a>`);
+        }
+      }
+    });
+    $("a[data-fancybox='gallery']").fancybox({});
   });
 </script>
 
