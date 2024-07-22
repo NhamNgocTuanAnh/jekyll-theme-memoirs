@@ -145,41 +145,6 @@ function consentGrantedAdStorage() {
     });
 }
 
-window.dataLayer = window.dataLayer || [];
-function gtag() {
-    dataLayer.push(arguments);
-}
-
-gtag('js', new Date());
-gtag('config', 'TAG_ID');
-
-// Set default consent to 'denied'
-gtag('consent', 'default', {
-    'ad_storage': 'denied',
-    'ad_user_data': 'denied',
-    'ad_personalization': 'denied',
-    'analytics_storage': 'denied'
-});
-
-var chatButtonAuto = true;
-function checkScrollAndClick() {
-    if (chatButtonAuto) {
-        let t = document.getElementById("replace-day"),
-            c = document.getElementById("chat-button");
-        if (t && c) {
-            let e = t.getBoundingClientRect();
-            if (e.top <= window.innerHeight) {
-                c.click();
-                chatButtonAuto = false;
-            }
-        }
-    }
-}
-checkScrollAndClick();
-setTimeout(() => {
-    checkScrollAndClick();
-}, 10000);
-window.addEventListener("scroll", checkScrollAndClick);
 
 function loadFacebookSDK() {
     window.fbAsyncInit = function () {
@@ -261,12 +226,35 @@ $("#scrollToTopButton").on("click", function () {
     $("html, body").animate({ scrollTop: 0 }, 500);
 });
 
+var chatButtonAuto = true;
+function checkScrollAndClick() {
+    if (chatButtonAuto) {
+        let t = document.getElementById("replace-day"),
+            c = document.getElementById("chat-button");
+        if (t && c) {
+            let e = t.getBoundingClientRect();
+            if (e.top <= window.innerHeight) {
+                c.click();
+                chatButtonAuto = false;
+            }
+        }
+    }
+}
+checkScrollAndClick();
+setTimeout(() => {
+    checkScrollAndClick();
+}, 10000);
 const pageProgressBar = document.querySelector(".progress-bar"),
     scrollContainer = () => document.documentElement || document.body;
 document.addEventListener("scroll", () => {
     let e = scrollContainer().scrollTop / (scrollContainer().scrollHeight - scrollContainer().clientHeight) * 100;
     pageProgressBar.style.width = `${e}%`;
+    checkScrollAndClick();
 });
+
+
+// window.addEventListener("scroll", checkScrollAndClick);
+
 
 $(document).ready(function () {
     $("img[loading='lazy']").each(function () {
@@ -280,57 +268,20 @@ $(document).ready(function () {
     $("a[data-fancybox='gallery']").fancybox({});
 });
 
-var sidebar = document.createElement("div");
-sidebar.className = "sidebar";
-var navIcon = document.createElement("div");
-navIcon.className = "nav-icon";
-var hamburgerBar = document.createElement("div");
-hamburgerBar.className = "hamburger-bar";
-navIcon.appendChild(hamburgerBar);
-var blackoverNav = document.createElement("div");
-blackoverNav.id = "blackover-nav";
-blackoverNav.className = "blackover";
-var menu = document.createElement("nav");
-menu.id = "menu";
-var ul = document.createElement("ul");
-var h3 = document.createElement("h3");
-h3.textContent = "Mục lục";
-var menuItems = [
-    { text: "Trang chủ", iconClass: "fa fa-home", link: "{{ site.baseurl }}/" },
-    { text: "Tìm kiếm", iconClass: "fa fa-search-plus", link: "{{ site.baseurl }}/categories" },
-    { text: "My ảnh", iconClass: "fa fa-camera-retro", link: "https://www.instagram.com/anhhangxom.daily/" },
-    { text: "Viết bài", iconClass: "fa fa-bullhorn", link: "{{ site.baseurl }}/them-bai-viet" },
-    { text: "About me", iconClass: "fa fa-address-book", link: "{{ site.baseurl }}/about-me" }
-];
-for (var i = 0; i < menuItems.length; i++) {
-    var e = document.createElement("li");
-    var a = document.createElement("a");
-    var r = document.createElement("i");
-    r.id = "icon-dark";
-    r.className = menuItems[i].iconClass;
-    a.href = menuItems[i].link;
-    a.appendChild(r);
-    a.innerHTML += "<span>|| " + menuItems[i].text + "</span>";
-    e.appendChild(a);
-    ul.appendChild(e);
-}
-menu.appendChild(h3);
-menu.appendChild(ul);
+var sidebar=document.createElement("div");sidebar.className="sidebar";var navIcon=document.createElement("div");navIcon.className="nav-icon";var hamburgerBar=document.createElement("div");hamburgerBar.className="hamburger-bar",navIcon.appendChild(hamburgerBar);var blackoverNav=document.createElement("div");blackoverNav.id="blackover-nav",blackoverNav.className="blackover";var menu=document.createElement("nav");menu.id="menu";var ul=document.createElement("ul"),h3=document.createElement("h3");h3.textContent="Mục lục";for(var menuItems=[{text:"Trang chủ",iconClass:"fa fa-home",link:"{{ site.baseurl }}/"},{text:"T\xecm kiếm",iconClass:"fa fa-search-plus",link:"{{ site.baseurl }}/categories"},{text:"My ảnh",iconClass:"fa fa-camera-retro",link:"https://www.instagram.com/anhhangxom.daily/"},{text:"Viết b\xe0i",iconClass:"fa fa-bullhorn",link:"{{ site.baseurl }}/them-bai-viet"},{text:"About me",iconClass:"fa fa-address-book",link:"{{ site.baseurl }}/about-me"}],i=0;i<menuItems.length;i++){var e=document.createElement("li"),a=document.createElement("a"),r=document.createElement("i");r.id="icon-dark",r.className=menuItems[i].iconClass,a.href=menuItems[i].link,a.appendChild(r),a.innerHTML+="<span>|| "+menuItems[i].text+"</span>",e.appendChild(a),ul.appendChild(e)}menu.appendChild(h3),menu.appendChild(ul);var idsidebarcreater=document.getElementById("sidebarcreater");idsidebarcreater&&(idsidebarcreater.appendChild(sidebar),idsidebarcreater.appendChild(navIcon),idsidebarcreater.appendChild(blackoverNav),idsidebarcreater.appendChild(menu));const version=Math.floor(1e6*Math.random()),head=document.querySelector("head"),currentUrl=new URL(window.location.href);currentUrl.searchParams.set("v",version);const linkElement=document.createElement("link");linkElement.rel="stylesheet",linkElement.type="text/css",linkElement.href=currentUrl.toString(),head.appendChild(linkElement);
 
-var idsidebarcreater = document.getElementById("sidebarcreater");
-if (idsidebarcreater) {
-    idsidebarcreater.appendChild(sidebar);
-    idsidebarcreater.appendChild(navIcon);
-    idsidebarcreater.appendChild(blackoverNav);
-    idsidebarcreater.appendChild(menu);
+window.dataLayer = window.dataLayer || [];
+function gtag() {
+    dataLayer.push(arguments);
 }
 
-const version = Math.floor(1e6 * Math.random());
-const head = document.querySelector("head");
-const currentUrl = new URL(window.location.href);
-currentUrl.searchParams.set("v", version);
-const linkElement = document.createElement("link");
-linkElement.rel = "stylesheet";
-linkElement.type = "text/css";
-linkElement.href = currentUrl.toString();
-head.appendChild(linkElement);
+gtag('js', new Date());
+gtag('config', 'TAG_ID');
+
+// Set default consent to 'denied'
+gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    'analytics_storage': 'denied'
+});
