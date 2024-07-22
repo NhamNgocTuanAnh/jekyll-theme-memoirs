@@ -1,9 +1,122 @@
-function loadScript(){var t=function(){var t,a,e,n,c="script";t=window,a=document,t.ym=t.ym||function(){(t.ym.a=t.ym.a||[]).push(arguments)},t.ym.l=1*new Date,e=a.createElement(c),n=a.getElementsByTagName(c)[0],e.async=1,e.src="https://mc.yandex.ru/metrika/tag.js",n.parentNode.insertBefore(e,n),ym(95513605,"init",{clickmap:!0,trackLinks:!0,accurateTrackBounce:!0,webvisor:!0})};window.addEventListener?window.addEventListener("load",t,!1):window.attachEvent&&window.attachEvent("onload",t)}loadScript();            function isTetDate(){let t=new Date,e=new Intl.DateTimeFormat("vi-u-ca-lunar").format(t);return/(1|2|3|4)\/(1|13)$/.test(e)}
-function myFunctionOpenTopNav(){var a=document.getElementById("myTopnav");"topnav"===a.className?a.className+=" responsive":a.className="topnav"}hideDivOnSmallScreens()&&isRelative&&isMobileDevice()&&(document.querySelector(".topnav").style.display="block");
-    isMobileDevice()&&document.getElementById("url-album").setAttribute("href","https://www.instagram.com/anhhangxom.daily/");    function isSlowCPU(){let e=localStorage.getItem("interfaceState");if(!e||e&&"savemode"==e){var t=new Date().getTime();window.onload=function(){var e;document.querySelector(".featured-image").addEventListener("load",function(){var e=document.getElementById("ctn-preloader");e&&e.classList.contains("loaded")&&document.getElementById("ctn-preloader").queue(function(){this.remove()})});return new Date().getTime()-t>8e3}}};
-    const currentState = localStorage.getItem('interfaceState');
-        function isHomePage(){return"/"===window.location.pathname}if(isMobileDevice()&&isHomePage()){const b=localStorage.getItem("interfaceState");(isSlowCPU()||!b||b&&"savemode"==b)&&(localStorage.setItem("interfaceState","savemode"))}else isMobileDevice()||localStorage.setItem("interfaceState","nomalmode");
-        const interfaceState=localStorage.getItem("interfaceState");function preLoader(){var e=function(){$("#ctn-preloader").addClass("loaded"),$("#ctn-preloader").hasClass("loaded")&&$("#preloader").queue(function(){$(this).remove()})};$(window).on("load",e),setTimeout(e,1e3)}preLoader();
+function loadScript() {
+    var t = function() {
+        var t, a, e, n, c = "script";
+        t = window, a = document;
+        t.ym = t.ym || function() {
+            (t.ym.a = t.ym.a || []).push(arguments)
+        };
+        t.ym.l = 1 * new Date();
+        e = a.createElement(c);
+        n = a.getElementsByTagName(c)[0];
+        e.async = 1;
+        e.src = "https://mc.yandex.ru/metrika/tag.js";
+        n.parentNode.insertBefore(e, n);
+        ym(95513605, "init", {
+            clickmap: true,
+            trackLinks: true,
+            accurateTrackBounce: true,
+            webvisor: true
+        });
+    };
+    if (window.addEventListener) {
+        window.addEventListener("load", t, false);
+    } else if (window.attachEvent) {
+        window.attachEvent("onload", t);
+    }
+}
+
+loadScript();
+
+function isTetDate() {
+    let t = new Date();
+    let e = new Intl.DateTimeFormat("vi-u-ca-lunar").format(t);
+    return /(1|2|3|4)\/(1|13)$/.test(e);
+}
+
+function myFunctionOpenTopNav() {
+    var a = document.getElementById("myTopnav");
+    if (a.className === "topnav") {
+        a.className += " responsive";
+    } else {
+        a.className = "topnav";
+    }
+}
+
+function hideDivOnSmallScreens() {
+    return window.innerWidth < 600; // Example condition for small screens
+}
+
+function isRelative() {
+    // Example condition for 'isRelative'
+    return true;
+}
+
+function isMobileDevice() {
+    return /Mobi|Android/i.test(navigator.userAgent);
+}
+
+if (hideDivOnSmallScreens() && isRelative() && isMobileDevice()) {
+    document.querySelector(".topnav").style.display = "block";
+}
+
+if (isMobileDevice()) {
+    document.getElementById("url-album").setAttribute("href", "https://www.instagram.com/anhhangxom.daily/");
+}
+
+function isSlowCPU() {
+    let e = localStorage.getItem("interfaceState");
+    if (!e || e === "savemode") {
+        var t = new Date().getTime();
+        window.onload = function() {
+            var e = document.querySelector(".featured-image");
+            if (e) {
+                e.addEventListener("load", function() {
+                    var preloader = document.getElementById("ctn-preloader");
+                    if (preloader && preloader.classList.contains("loaded")) {
+                        preloader.queue(function() {
+                            this.remove();
+                        });
+                    }
+                });
+            }
+            return new Date().getTime() - t > 8000;
+        };
+    }
+}
+
+const currentState = localStorage.getItem('interfaceState');
+
+function isHomePage() {
+    return window.location.pathname === "/";
+}
+
+if (isMobileDevice() && isHomePage()) {
+    const b = localStorage.getItem("interfaceState");
+    if (isSlowCPU() || !b || b === "savemode") {
+        localStorage.setItem("interfaceState", "savemode");
+    }
+} else {
+    if (!isMobileDevice()) {
+        localStorage.setItem("interfaceState", "normalmode");
+    }
+}
+
+const interfaceState = localStorage.getItem("interfaceState");
+
+function preLoader() {
+    var e = function() {
+        $("#ctn-preloader").addClass("loaded");
+        if ($("#ctn-preloader").hasClass("loaded")) {
+            $("#preloader").queue(function() {
+                $(this).remove();
+            });
+        }
+    };
+    $(window).on("load", e);
+    setTimeout(e, 1000);
+}
+
+preLoader();
 
         const isLocalhost = "localhost" === window.location.hostname;
 if (!isLocalhost) {
