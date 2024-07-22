@@ -153,17 +153,9 @@ var sidebar=document.createElement("div");sidebar.className="sidebar";var navIco
     <script>
         $(window).on("scroll", function () { window.scrollY > window.outerHeight ? ($("#scrollToTop").addClass("active"), document.getElementById('next-post-active').onclick = function () { window.location.replace(g || "{{ site.baseurl }}"); }, document.getElementById("scrollToTop").style.display = "block",((!hideDivOnSmallScreens()&&!isRelative&&isMobileDevice())?document.querySelector('.topnav').style.display = 'block':document.querySelector('.topnav').style.display = 'none')) : ($("#scrollToTop").removeClass("active"), document.getElementById("scrollToTop").style.display = "none",document.querySelector('.topnav').style.display = 'none');$.each($("img"),function(){if($(this).attr("data-src")&&$(this).offset().top<$(window).scrollTop()+$(window).height()+100){var t=$(this).data("src");$(this).attr("src",t),$(this).removeAttr("data-src")}}); }), $("#scrollToTopButton").on("click", function () { $("html, body").animate({ scrollTop: 0 }, 500) });
     </script>
-    <script>
-  function runRandomCode(){if(.5>Math.random()){var e=document.createElement("script");e.async=!0,e.defer=!0,e.crossorigin="anonymous",e.src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0",e.nonce="JekfmCeX",document.body.appendChild(e),setTimeout(loadFacebookSDKLoad,2e3)}else{let d=document.createElement("div");d.classList.add("elfsight-app-d15cd726-3619-4d26-9eeb-d7661922dbe1"),d.dataset.elfsightAppLazy="",document.body.appendChild(d)}}
-</script>
-<script>
-function loadFacebookSDK(){window.fbAsyncInit=function(){FB.init({xfbml:!0,version:"v3.2"})};var e,o=document.getElementsByTagName("script")[0];document.getElementById("facebook-jssdk")||((e=document.createElement("script")).id="facebook-jssdk",e.src="https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js",o.parentNode.insertBefore(e,o))}function loadFacebookSDKLoad(){var e=document.createElement("script");e.async=!0,e.defer=!0,e.crossorigin="anonymous",e.src="https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v16.0&appId=2086804534891096&autoLogAppEvents=1",e.nonce="y8xxA5Uo",document.head.appendChild(e)}function handleChatButtonClick(){var chatButton = document.getElementById("chat-button");
-if (chatButton) {
-    chatButton.style.display = "none";
-};runRandomCode();}</script>
-<script>
-var chatButtonAuto=!0;function checkScrollAndClick(){if(chatButtonAuto){let t=document.getElementById("replace-day"),c=document.getElementById("chat-button");if(t&&c){let e=t.getBoundingClientRect();e.top<=window.innerHeight&&(c.click(),chatButtonAuto=!1)}}}checkScrollAndClick(),setTimeout(()=>{checkScrollAndClick()},1e4),window.addEventListener("scroll",checkScrollAndClick);
-</script>
+
+
+
 <style>table {
     width: 100%;
 }table :is(td, th) {
@@ -171,41 +163,10 @@ border: 1px solid black;
 padding: 0.3em;
 }</style>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-<script>
-    // Define dataLayer and the gtag function.
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-
-    // Set default consent to 'denied' as a placeholder
-    // Determine actual values based on your own requirements
-    gtag('consent', 'default', {
-      'ad_storage': 'denied',
-      'ad_user_data': 'denied',
-      'ad_personalization': 'denied',
-      'analytics_storage': 'denied'
-    });
-    </script>
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-CGZMMC73KL">
     </script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
 
-      gtag('js', new Date());
-      gtag('config', 'TAG_ID');
-    </script>
-
-    <!-- Create one update function for each consent parameter -->
-    <script>
-      function consentGrantedAdStorage() {
-        gtag('consent', 'update', {
-          'ad_storage': 'granted'
-        });
-      }
-    </script>
-    <script>const isLocalhost="localhost"===window.location.hostname;if(!isLocalhost){let t=document.createElement("script");t.src="https://static.elfsight.com/platform/platform.js",t.defer=!0,document.body.appendChild(t);let e=document.getElementById("searchBox");e&&(e.style.display="block")}</script>
-<script>function checkDevice(){return!!(window.innerWidth<768)||void 0!==window.orientation}const navMenu=document.getElementById("nav-menu");checkDevice()||isMobileDevice()||(navMenu.style.display="none");</script>
 // <script>
 //     function scrollToSmooth(){const scrollElement = document.documentElement.scrollTop ? document.documentElement : document.body;scrollElement.scrollTop = 200;}setTimeout(scrollToSmooth, 1000);
 //     document.addEventListener("DOMContentLoaded",function(){if (typeof showSnowEffect === "function") {
@@ -214,3 +175,4 @@ padding: 0.3em;
 //   console.log("Function showSnowEffect không tồn tại!");
 // };document.querySelectorAll("img").forEach(function(t){t.addEventListener("load",function(){t.style.width=t.width+"px",t.style.height=t.height+"px"})})});
 // </script>
+<script src="{{ site.baseurl }}/assets/js/main.js"></script>
