@@ -176,25 +176,14 @@ function handleChatButtonClick() {
     var chatButton = document.getElementById("chat-button");
     if (chatButton) {
         chatButton.style.display = "none";
-        function runRandomCode() {
-            if (Math.random() < 0.5) {
-                var e = document.createElement("script");
-                e.async = true;
-                e.defer = true;
-                e.crossOrigin = "anonymous";
-                e.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v7.0";
-                e.nonce = "JekfmCeX";
-                document.body.appendChild(e);
-                setTimeout(loadFacebookSDKLoad, 2000);
-            } else {
-                let d = document.createElement("div");
-                d.classList.add("elfsight-app-d15cd726-3619-4d26-9eeb-d7661922dbe1");
-                d.dataset.elfsightAppLazy = "";
-                document.body.appendChild(d);
-            }
-        }
+
+            let d = document.createElement("div");
+            d.classList.add("elfsight-app-d15cd726-3619-4d26-9eeb-d7661922dbe1");
+            d.dataset.elfsightAppLazy = "";
+            document.body.appendChild(d);
     }
 }
+
 
 $(window).on("scroll", function () {
     if (window.scrollY > window.outerHeight) {
@@ -250,9 +239,6 @@ document.addEventListener("scroll", () => {
     pageProgressBar.style.width = `${e}%`;
     checkScrollAndClick();
 });
-
-window.addEventListener("scroll", checkScrollAndClick);
-
 
 $(document).ready(function () {
     $("img[loading='lazy']").each(function () {
