@@ -126,7 +126,7 @@ function createRandomDivAndAppend(){let e=document.getElementById("searchBoxEl")
 <script>
     function isSlowCPU(){let e=localStorage.getItem("interfaceState");if(!e||e&&"savemode"==e){var t=new Date().getTime();window.onload=function(){var e;document.querySelector(".featured-image").addEventListener("load",function(){var e=document.getElementById("ctn-preloader");e&&e.classList.contains("loaded")&&document.getElementById("ctn-preloader").queue(function(){this.remove()})});return new Date().getTime()-t>8e3}}};
 const currentState = localStorage.getItem('interfaceState');
-    function isHomePage(){return"/"===window.location.pathname}if(isMobileDevice()&&isHomePage()){const b=localStorage.getItem("interfaceState");(isSlowCPU()||!b||b&&"savemode"==b)&&(localStorage.setItem("interfaceState","savemode")}else isMobileDevice()||localStorage.setItem("interfaceState","nomalmode");
+    function isHomePage(){return"/"===window.location.pathname}if(isMobileDevice()&&isHomePage()){const b=localStorage.getItem("interfaceState");(isSlowCPU()||!b||b&&"savemode"==b)&&(localStorage.setItem("interfaceState","savemode"))}else isMobileDevice()||localStorage.setItem("interfaceState","nomalmode");
     const interfaceState=localStorage.getItem("interfaceState");
     </script>
     <script>
