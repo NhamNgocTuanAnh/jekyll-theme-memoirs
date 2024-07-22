@@ -1,32 +1,3 @@
-function loadScript() {
-    var t = function() {
-        var t, a, e, n, c = "script";
-        t = window, a = document;
-        t.ym = t.ym || function() {
-            (t.ym.a = t.ym.a || []).push(arguments)
-        };
-        t.ym.l = 1 * new Date();
-        e = a.createElement(c);
-        n = a.getElementsByTagName(c)[0];
-        e.async = 1;
-        e.src = "https://mc.yandex.ru/metrika/tag.js";
-        n.parentNode.insertBefore(e, n);
-        ym(95513605, "init", {
-            clickmap: true,
-            trackLinks: true,
-            accurateTrackBounce: true,
-            webvisor: true
-        });
-    };
-    if (window.addEventListener) {
-        window.addEventListener("load", t, false);
-    } else if (window.attachEvent) {
-        window.attachEvent("onload", t);
-    }
-}
-
-loadScript();
-
 function isTetDate() {
     let t = new Date();
     let e = new Intl.DateTimeFormat("vi-u-ca-lunar").format(t);
