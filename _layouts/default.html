@@ -161,6 +161,35 @@ function loadFacebookSDK(){window.fbAsyncInit=function(){FB.init({xfbml:!0,versi
 if (chatButton) {
     chatButton.style.display = "none";
 };alert("Bạn đợi lát! \uD83E\uDD70.");runRandomCode();}</script>
+<script>
+function checkScroll() {
+  const instaDiv = document.getElementById('replace-day');
+  const chatButton = document.getElementById('chat-button');
+
+  // Kiểm tra nếu thẻ div "insta" tồn tại và button "chat" cũng tồn tại
+  if (instaDiv && chatButton) {
+    // Lấy vị trí của thẻ div "insta" so với cửa sổ trình duyệt
+    const instaRect = instaDiv.getBoundingClientRect();
+
+    // Kiểm tra nếu phần trên của thẻ div "insta" đã vượt qua phần nhìn thấy của cửa sổ trình duyệt
+    if (instaRect.top <= window.innerHeight) {
+      chatButton.click();
+    }
+  }
+}
+// Hẹn giờ tự động click sau 10 giây nếu chưa có hành động nào
+setTimeout(() => {
+  checkScrollAndClick();
+}, 10000);
+// Gọi hàm kiểm tra khi người dùng cuộn trang
+window.addEventListener('scroll', checkScroll);
+
+// Gọi hàm kiểm tra ngay khi trang tải xong
+checkScroll();
+
+// Gọi hàm kiểm tra ngay khi trang tải xong để xử lý trường hợp người dùng đã cuộn trước đó
+checkScrollPosition();
+</script>
 <style>table {
     width: 100%;
 }table :is(td, th) {
