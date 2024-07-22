@@ -287,7 +287,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 
     // Load ElfSight script if element is in view
-    const loadTriggerLoadElfSightScript = true;
+    let loadTriggerLoadElfSightScript = true;
     const triggerLoadElfSightScript = document.getElementById("triggerLoadElfSightScript");
 
     function isScrolledIntoView(element) {
