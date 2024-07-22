@@ -31,14 +31,6 @@ comments: true
   {% endif %}
 </div>
 
-<script>
-  function getRandomElement(array) {
-    const randomIndex = Math.floor(Math.random() * array.length);
-    return array[randomIndex];
-  }
-  function insertDiv(t,e){let r=document.querySelectorAll("#articlePost section p");if(0===r.length){console.error("Kh\xf4ng t\xecm thấy thẻ <p> n\xe0o trong section");return}let n=Math.floor(Math.random()*r.length),i=r[n];if(r){let o=document.createElement("div");o.id=e;let l=document.createElement("div");l.id="instaShow2",i.after(o),i.after(l)}else console.error("Vị tr\xed #articlePost section kh\xf4ng t\xecm được")}insertDiv("main-content-content","triggerLoadElfSightScript");
-</script>
-
 <!-- Adsense under title if enabled from _config.yml (change your pub id and slot) -->
 {% if site.url == "enabled" %}
 {% include adsense-under-header.html %}
@@ -73,7 +65,13 @@ comments: true
 
 <style>
   .myFancyBox .fancybox-thumbs{top:auto;width:auto;bottom:0;left:0;right:0;height:95px;padding:10px 10px 5px;box-sizing:border-box;background:rgba(0,0,0,.3)}.myFancyBox .fancybox-show-thumbs .fancybox-inner{right:0!important;bottom:95px!important}.fancybox-show-thumbs .fancybox-inner{right:0!important;bottom:98px}</style>
-
+<script>
+  function getRandomElement(array) {
+    const randomIndex = Math.floor(Math.random() * array.length);
+    return array[randomIndex];
+  }
+  function insertDiv(t,e){let r=document.querySelectorAll("#articlePost section p");if(0===r.length){console.error("Kh\xf4ng t\xecm thấy thẻ <p> n\xe0o trong section");return}let n=Math.floor(Math.random()*r.length),i=r[n];if(r){let o=document.createElement("div");o.id=e;let l=document.createElement("div");l.id="instaShow2",i.after(o),i.after(l)}else console.error("Vị tr\xed #articlePost section kh\xf4ng t\xecm được")}insertDiv("main-content-content","triggerLoadElfSightScript");
+</script>
 
 
 
