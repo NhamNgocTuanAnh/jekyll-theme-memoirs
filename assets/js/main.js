@@ -341,11 +341,9 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     }
 
-    window.addEventListener('scroll', function() {
-        if (isScrolledIntoView(triggerLoadElfSightScript) && loadTriggerLoadElfSightScript) {
-            loadElfSightScript();
-        }
-    });
+    if (isScrolledIntoView(triggerLoadElfSightScript) && loadTriggerLoadElfSightScript) {
+        loadElfSightScript();
+    }
 
     // Add external script asynchronously
     (function (d, s, src) {
