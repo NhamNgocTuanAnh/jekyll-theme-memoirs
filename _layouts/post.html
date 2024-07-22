@@ -112,10 +112,7 @@ if (instaShowDiv) {
         containerDiv.className = getRandomElement(classNames);
         containerDiv.setAttribute("data-elfsight-app-lazy", "");
         containerDiv.style.textAlign = "center";
-        // Lấy thẻ div với id triggerLoadElfSightScript
         var parentDiv = document.getElementById("triggerLoadElfSightScript");
-
-        // Thêm thẻ div mới vào bên trong thẻ div cha
         parentDiv.appendChild(containerDiv);
     }
 }
