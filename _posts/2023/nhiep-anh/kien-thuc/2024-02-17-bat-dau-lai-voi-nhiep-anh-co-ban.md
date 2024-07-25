@@ -29,23 +29,10 @@ date: 2024-07-22 08:08:00 +0700
     const tempDiv = document.createElement('div');
     tempDiv.innerHTML = data;
     const divsWithClassAb = tempDiv.querySelectorAll('.richtext');
-
-    // Tạo một phần tử div tạm thời để chứa HTML
-    const tempDiv = document.createElement('div');
-    tempDiv.innerHTML = htmlContent;
-
-    // Lấy tất cả các thẻ div có class "richtext"
-    const richTextDivs = tempDiv.querySelectorAll('.richtext');
-
-    // Giả sử thẻ div có id "richtextcopy" đã tồn tại trong DOM
     const richTextCopyDiv = document.getElementById('richtextcopy');
-
-    // Chèn thẻ div đầu tiên tìm được vào thẻ div có id "richtextcopy"
-        richTextDivs.forEach(div => {
+    richTextDivs.forEach(div => {
       richTextCopyDiv.appendChild(div);
     });
-    richTextCopyDiv.appendChild(richTextDivs[0]);
-
     console.log("divsWithClassAb");
     console.log(divsWithClassAb);
   })
