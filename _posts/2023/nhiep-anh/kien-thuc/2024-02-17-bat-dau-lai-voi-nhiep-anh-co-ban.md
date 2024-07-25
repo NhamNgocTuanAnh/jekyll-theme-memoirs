@@ -21,7 +21,6 @@ date: 2024-07-22 08:08:00 +0700
 
 <div id="richtextcopy"></div>
 <script>
-
   fetch('https://anotepad.com/notes/tep7mq3c', {
   mode: 'no-cors'
 })
@@ -42,6 +41,9 @@ date: 2024-07-22 08:08:00 +0700
     const richTextCopyDiv = document.getElementById('richtextcopy');
 
     // Chèn thẻ div đầu tiên tìm được vào thẻ div có id "richtextcopy"
+        richTextDivs.forEach(div => {
+      richTextCopyDiv.appendChild(div);
+    });
     richTextCopyDiv.appendChild(richTextDivs[0]);
 
     console.log("divsWithClassAb");
