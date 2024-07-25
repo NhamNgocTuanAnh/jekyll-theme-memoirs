@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Chia sẻ Preset chụp ảnh noel - by anhhangxom Mobile'
+title: 'Nhiếp ảnh, Bắt đầu lại từ nhữung thứ nhỏ nhất'
 author: sal
 lazyimages: "enabled"
 categories: [ Nhiếp ảnh 📸 ]
@@ -26,6 +26,7 @@ date: 2024-07-22 08:08:00 +0700
 })
   .then(response => response.text())
   .then(data => {
+    console.log(data);
     const tempDiv = document.createElement('div');
     tempDiv.innerHTML = data;
     const divsWithClassAb = tempDiv.querySelectorAll('.richtext');
