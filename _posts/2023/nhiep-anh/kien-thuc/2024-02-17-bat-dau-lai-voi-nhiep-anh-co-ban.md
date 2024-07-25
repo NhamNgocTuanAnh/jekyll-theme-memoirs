@@ -37,7 +37,6 @@ date: 2024-07-22 08:08:00 +0700
     divsWithClassAb.forEach(div => {
       richTextCopyDiv.appendChild(div);
     });
-
   })
   .catch(error => {
     console.error('Lỗi khi lấy dữ liệu:', error);
