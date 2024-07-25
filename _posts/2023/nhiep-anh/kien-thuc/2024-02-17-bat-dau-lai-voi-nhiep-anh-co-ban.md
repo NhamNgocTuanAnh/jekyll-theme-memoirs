@@ -29,6 +29,7 @@ date: 2024-07-22 08:08:00 +0700
     console.log(data);
     const tempDiv = document.createElement('div');
     tempDiv.innerHTML = data;
+    console.log(tempDiv);
     const divsWithClassAb = tempDiv.querySelectorAll('.richtext');
     const richTextCopyDiv = document.getElementById('richtextcopy');
         console.log("divsWithClassAb");
