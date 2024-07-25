@@ -21,7 +21,9 @@ date: 2024-07-22 08:08:00 +0700
 
 <script>
 
-  fetch('https://anotepad.com/notes/tep7mq3c')
+  fetch('https://anotepad.com/notes/tep7mq3c', {
+  mode: 'no-cors'
+})
   .then(response => response.text())
   .then(data => {
     const tempDiv = document.createElement('div');
