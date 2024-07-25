@@ -29,10 +29,12 @@ date: 2024-07-22 08:08:00 +0700
     const divsWithClassAb = tempDiv.querySelectorAll('.richtext');
 
     // Ví dụ: Thêm nội dung của các div này vào một phần tử có id là "result"
-    const resultElement = document.getElementById('result');
-    divsWithClassAb.forEach(div => {
-      resultElement.appendChild(div);
-    });
+    // const resultElement = document.getElementById('result');
+    // divsWithClassAb.forEach(div => {
+    //   resultElement.appendChild(div);
+    // });
+    console.log("divsWithClassAb");
+    console.log(divsWithClassAb);
   })
   .catch(error => {
     console.error('Lỗi khi lấy dữ liệu:', error);
