@@ -32,7 +32,7 @@ date: 2024-07-22 08:08:00 +0700
     console.log(tempDiv);
     const divsWithClassAb = tempDiv.querySelectorAll('.richtext');
     const richTextCopyDiv = document.getElementById('richtextcopy');
-        console.log("divsWithClassAb");
+    console.log("divsWithClassAb");
     console.log(divsWithClassAb);
     divsWithClassAb.forEach(div => {
       richTextCopyDiv.appendChild(div);
