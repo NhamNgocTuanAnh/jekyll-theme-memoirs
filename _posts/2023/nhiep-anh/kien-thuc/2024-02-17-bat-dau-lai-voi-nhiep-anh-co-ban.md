@@ -19,6 +19,7 @@ date: 2024-07-22 08:08:00 +0700
 
 > Nội dung đang phát triển
 
+<div id="richtextcopy"></div>
 <script>
 
   fetch('https://anotepad.com/notes/tep7mq3c', {
@@ -30,11 +31,19 @@ date: 2024-07-22 08:08:00 +0700
     tempDiv.innerHTML = data;
     const divsWithClassAb = tempDiv.querySelectorAll('.richtext');
 
-    // Ví dụ: Thêm nội dung của các div này vào một phần tử có id là "result"
-    // const resultElement = document.getElementById('result');
-    // divsWithClassAb.forEach(div => {
-    //   resultElement.appendChild(div);
-    // });
+    // Tạo một phần tử div tạm thời để chứa HTML
+    const tempDiv = document.createElement('div');
+    tempDiv.innerHTML = htmlContent;
+
+    // Lấy tất cả các thẻ div có class "richtext"
+    const richTextDivs = tempDiv.querySelectorAll('.richtext');
+
+    // Giả sử thẻ div có id "richtextcopy" đã tồn tại trong DOM
+    const richTextCopyDiv = document.getElementById('richtextcopy');
+
+    // Chèn thẻ div đầu tiên tìm được vào thẻ div có id "richtextcopy"
+    richTextCopyDiv.appendChild(richTextDivs[0]);
+
     console.log("divsWithClassAb");
     console.log(divsWithClassAb);
   })
