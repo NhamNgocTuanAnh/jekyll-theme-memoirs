@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'So sánh ưu nhược điểm các chế độ M, Av, Tv - Nhiếp ảnh, Bắt đầu lại từ những thứ nhỏ nhất'
+title: 'So sánh ưu nhược điểm các chế độ M, Av, Tv - Nhiếp ảnh, Bắt đầu lại từ những thứ nhỏ nhất!!!'
 author: sal
 lazyimages: "enabled"
 categories: [ Nhiếp ảnh 📸 ]
 tags: [preset, lightroom]
-image: assets/images/2023/nhiep-anh/avt/preset-noel.webp
+image: assets/images/2023/nhiep-anh/avt/hoc-nhiep-anh-avt.webp
 isGithubComments: false
 permalink: nhiep-anh/bat-dau-lai-voi-nhiep-anh-co-ban
 excerpt: So sánh ưu nhược điểm các chế độ M, Av, Tv

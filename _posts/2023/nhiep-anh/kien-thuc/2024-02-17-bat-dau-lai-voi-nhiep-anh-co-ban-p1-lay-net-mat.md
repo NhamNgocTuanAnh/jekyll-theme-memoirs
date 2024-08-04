@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'Tại sao lại phải lấy nét vào mắt - Nhiếp ảnh, Bắt đầu lại từ những thứ nhỏ nhất'
+title: 'Tại sao lại phải lấy nét vào mắt - Nhiếp ảnh, Bắt đầu lại từ những thứ nhỏ nhất!!!'
 author: sal
 lazyimages: "enabled"
 categories: [ Nhiếp ảnh 📸 ]
 tags: [preset, lightroom]
-image: assets/images/2023/nhiep-anh/avt/preset-noel.webp
+image: assets/images/2023/nhiep-anh/avt/hoc-nhiep-anh-avt.webp
 isGithubComments: false
 permalink: nhiep-anh/bat-dau-lai-voi-nhiep-anh-co-ban-tai-sao-phai-lay-net-vao-mat
 excerpt: Chào bạn, mình là một nhiếp ảnh gia chuyên chụp chân dung. Câu hỏi của bạn rất hay, vì đôi mắt chính là cửa sổ tâm hồn. Khi chụp ảnh chân dung, việc lấy nét vào mắt sẽ giúp bức ảnh trở nên sống động, truyền cảm và thu hút người xem hơn.
