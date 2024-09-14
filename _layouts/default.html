@@ -187,6 +187,14 @@ padding: 0.3em;
 <a class="codepro-trungthu-bottom" href="https://www.code.pro.vn/2021/09/trang-tri-don-trung-thu-cho-blog-website-bang-hinh-anh-canh-hoa-mat-trang-long-den-va-ruoc-den.html"><img alt="Trang trí đón trung thu cho blog/website bằng hình ảnh cành hoa, mặt trăng, lồng đèn và rước đèn" src="{{site.baseurl}}/assets/images/trung-thu/ruoc-den-trung-thu.webp"/></a>
 
 <style>
+  .codepro-trungthu-left, .codepro-trungthu-right, .codepro-trungthu-bottom {
+  opacity: 1; /* Hiển thị bình thường */
+  transition: opacity 0.3s ease-in-out; /* Hiệu ứng chuyển đổi mượt mà */
+}
+
+.codepro-trungthu-left:hover, .codepro-trungthu-right:hover, .codepro-trungthu-bottom:hover {
+  opacity: 0; z-index:1/* Ẩn khi hover */
+}
 .codepro-trungthu-left{position:fixed;top:0;left:0;width:166px;z-index:9999}
 .codepro-trungthu-right{position:fixed;top:0;right:0;width:166px;z-index:9999}
 .codepro-trungthu-bottom{position:fixed;bottom:-8px;left:0;width:333px;z-index:9999}
