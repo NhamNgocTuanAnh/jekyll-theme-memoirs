@@ -30,6 +30,9 @@ Bạn có bao giờ ngắm nhìn những bức ảnh Trung thu lung linh, ấm �
 
 <h3><strong>Giới thiệu về preset:</strong></h3>
 
+<div class="content" style="text-align:center; ">
+<a href="https://i.imgur.com/RSJk9FC"><img loading="lazy" src="https://i.imgur.com/RSJk9FC.jpeg" title="source: imgur.com" /></a></div>
+
 <ul>
 	<li><strong>Đặc điểm nổi bật:</strong>
 
