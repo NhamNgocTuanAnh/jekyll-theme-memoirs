@@ -23,6 +23,8 @@ pinned: true
 
 **Chia sẻ preset Bằng Lăng Tím ngược sáng**
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4It0bKQPGE9eSHLxzkAYOZ?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 Bạn có bao giờ ngắm nhìn những bức ảnh Trung thu lung linh, ấm áp của anh hàng xóm và thầm ao ước có thể chụp được những bức ảnh đẹp như vậy? Giờ đây, ước mơ của bạn đã trở thành hiện thực! Chúng tôi xin giới thiệu đến bạn bộ preset Lightroom Trung thu siêu đẹp, được chính tay anh hàng xóm tài năng chia sẻ.
 
 <div class="content" style="text-align:center; ">
