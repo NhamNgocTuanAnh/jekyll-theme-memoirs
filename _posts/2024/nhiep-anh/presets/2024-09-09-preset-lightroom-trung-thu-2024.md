@@ -26,82 +26,19 @@ pinned: true
 Bạn có bao giờ ngắm nhìn những bức ảnh Trung thu lung linh, ấm áp của anh hàng xóm và thầm ao ước có thể chụp được những bức ảnh đẹp như vậy? Giờ đây, ước mơ của bạn đã trở thành hiện thực! Chúng tôi xin giới thiệu đến bạn bộ preset Lightroom Trung thu siêu đẹp, được chính tay anh hàng xóm tài năng chia sẻ.
 
 <div class="content" style="text-align:center; ">
-<a href="https://i.imgur.com/V1Dakkv"><img loading="lazy" src="https://i.imgur.com/EMVxH9o.jpeg" title="source: imgur.com" /></a><p></p><br></div>
-
-<h3><strong>Giới thiệu về preset:</strong></h3>
-
-<div class="content" style="text-align:center; ">
-<a href="https://i.imgur.com/RSJk9FC"><img loading="lazy" src="https://i.imgur.com/RSJk9FC.jpeg" title="source: imgur.com" /></a></div>
-
-<ul>
-	<li><strong>Đặc điểm nổi bật:</strong>
-
-	<ul>
-		<li>M&agrave;u sắc ấm &aacute;p, lung linh, đậm chất truyền thống.</li>
-		<li>Tăng cường độ tương phản, tạo hiệu ứng huyền ảo.</li>
-		<li>Dễ d&agrave;ng sử dụng, ph&ugrave; hợp với mọi tr&igrave;nh độ.</li>
-		<li>Ho&agrave;n to&agrave;n miễn ph&iacute;.</li>
-	</ul>
-	</li>
-	<li><strong>C&aacute;ch thức hoạt động:</strong> Giải th&iacute;ch đơn giản về c&aacute;ch &aacute;p dụng preset v&agrave;o ảnh.</li>
-</ul>
-
-<div class="content" style="text-align:center; ">
-<a href="https://i.imgur.com/pHDucNg"><img loading="lazy" src="https://i.imgur.com/pHDucNg.jpeg" title="source: imgur.com" /></a></div>
-
-<h3><strong>Lợi &iacute;ch khi sử dụng preset:</strong></h3>
-
-<div class="content" style="text-align:center; ">
-<a href="https://i.imgur.com/far46gJ"><img loading="lazy" src="https://i.imgur.com/far46gJ.jpeg" title="source: imgur.com" /></a></div>
-
-<ul>
-	<li><strong>Tiết kiệm thời gian:</strong> Chỉ cần một c&uacute; click, bạn đ&atilde; c&oacute; ngay những bức ảnh đẹp lung linh.</li>
-	<li><strong>Chất lượng chuy&ecirc;n nghiệp:</strong> Tạo ra những bức ảnh c&oacute; m&agrave;u sắc v&agrave; phong c&aacute;ch đồng nhất.</li>
-	<li><strong>N&acirc;ng cao kỹ năng:</strong> Học hỏi v&agrave; kh&aacute;m ph&aacute; những kỹ thuật chỉnh sửa ảnh chuy&ecirc;n nghiệp.</li>
-</ul>
-
-<div class="content" style="text-align:center; ">
-<a href="https://i.imgur.com/CDrQFJn"><img loading="lazy" src="https://i.imgur.com/CDrQFJn.jpeg" title="source: imgur.com" /></a></div>
-
-<h3><strong>Hướng dẫn tải v&agrave; sử dụng:</strong></h3>
-
-<div class="content" style="text-align:center; ">
-<a href="https://i.imgur.com/xJPty7S"><img loading="lazy" src="https://i.imgur.com/xJPty7S.jpeg" title="source: imgur.com" /></a></div>
-
-<ul>
-	<li><strong>C&aacute;c bước chi tiết:</strong>
-
-	<ul>
-		<li>Tải file preset về m&aacute;y t&iacute;nh.</li>
-		<li>Import preset v&agrave;o Lightroom.</li>
-		<li>&Aacute;p dụng preset cho ảnh.</li>
-	</ul>
-	</li>
-	<li><strong>Video hướng dẫn (nếu c&oacute;):</strong> Nh&uacute;ng video trực quan để người d&ugrave;ng dễ d&agrave;ng thực hiện theo.</li>
-</ul>
-
-<div class="content" style="text-align:center; ">
-<a href="https://i.imgur.com/HyuDMQi"><img loading="lazy" src="https://i.imgur.com/HyuDMQi.jpeg" title="source: imgur.com" /></a></div>
-
-<h3><strong>Chia sẻ kinh nghiệm của anh h&agrave;ng x&oacute;m:</strong></h3>
-
-<ul>
-	<li><strong>C&acirc;u chuyện th&uacute; vị:</strong> Chia sẻ c&acirc;u chuyện về c&aacute;ch anh h&agrave;ng x&oacute;m tạo ra bộ preset n&agrave;y.</li>
-	<li><strong>Mẹo nhỏ:</strong> Chia sẻ những mẹo nhỏ để chụp ảnh v&agrave; chỉnh sửa ảnh đẹp hơn.</li>
-</ul>
-
-<div class="content" style="text-align:center; ">
-<a href="https://i.imgur.com/rw5uvY6"><img loading="lazy" src="https://i.imgur.com/rw5uvY6.jpeg" title="source: imgur.com" /></a></div>
-
-<h3><strong>Kết luận:</strong></h3>
-
-<div class="content" style="text-align:center; ">
-<a href="https://i.imgur.com/2IvlaWh"><img loading="lazy" src="https://i.imgur.com/2IvlaWh.jpeg" title="source: imgur.com" /></a></div>
-
-<p>Bộ preset Lightroom Trung thu si&ecirc;u đẹp l&agrave; m&oacute;n qu&agrave; tuyệt vời d&agrave;nh tặng cho những người y&ecirc;u th&iacute;ch nhiếp ảnh. H&atilde;y nhanh tay tải về v&agrave; bắt đầu tạo ra những bức ảnh Trung thu ấn tượng nh&eacute;!</p>
-
-
-<style>
+<a href="https://i.imgur.com/V1Dakkv"><img loading="lazy" src="https://i.imgur.com/EMVxH9o.jpeg" title="source: imgur.com" /></a><p></p><br></div><h3><strong>Giới thiệu về preset:</strong></h3><div class="content" style="text-align:center; ">
+<a href="https://i.imgur.com/RSJk9FC"><img loading="lazy" src="https://i.imgur.com/RSJk9FC.jpeg" title="source: imgur.com" /></a></div><ul><li><strong>Đặc điểm nổi bật:</strong><ul><li>M&agrave;u sắc ấm &aacute;p, lung linh, đậm chất truyền thống.</li><li>Tăng cường độ tương phản, tạo hiệu ứng huyền ảo.</li><li>Dễ d&agrave;ng sử dụng, ph&ugrave; hợp với mọi tr&igrave;nh độ.</li><li>Ho&agrave;n to&agrave;n miễn ph&iacute;.</li></ul></li><li><strong>C&aacute;ch thức hoạt động:</strong>Giải th&iacute;ch đơn giản về c&aacute;ch &aacute;p dụng preset v&agrave;o ảnh.</li>
+</ul><div class="content" style="text-align:center; ">
+<a href="https://i.imgur.com/pHDucNg"><img loading="lazy" src="https://i.imgur.com/pHDucNg.jpeg" title="source: imgur.com" /></a></div><h3><strong>Lợi &iacute;ch khi sử dụng preset:</strong></h3><div class="content" style="text-align:center; ">
+<a href="https://i.imgur.com/far46gJ"><img loading="lazy" src="https://i.imgur.com/far46gJ.jpeg" title="source: imgur.com" /></a></div><ul><li><strong>Tiết kiệm thời gian:</strong>Chỉ cần một c&uacute; click, bạn đ&atilde; c&oacute; ngay những bức ảnh đẹp lung linh.</li><li><strong>Chất lượng chuy&ecirc;n nghiệp:</strong>Tạo ra những bức ảnh c&oacute; m&agrave;u sắc v&agrave; phong c&aacute;ch đồng nhất.</li><li><strong>N&acirc;ng cao kỹ năng:</strong>Học hỏi v&agrave; kh&aacute;m ph&aacute; những kỹ thuật chỉnh sửa ảnh chuy&ecirc;n nghiệp.</li>
+</ul><div class="content" style="text-align:center; ">
+<a href="https://i.imgur.com/CDrQFJn"><img loading="lazy" src="https://i.imgur.com/CDrQFJn.jpeg" title="source: imgur.com" /></a></div><h3><strong>Hướng dẫn tải v&agrave; sử dụng:</strong></h3><div class="content" style="text-align:center; ">
+<a href="https://i.imgur.com/xJPty7S"><img loading="lazy" src="https://i.imgur.com/xJPty7S.jpeg" title="source: imgur.com" /></a></div><ul><li><strong>C&aacute;c bước chi tiết:</strong><ul><li>Tải file preset về m&aacute;y t&iacute;nh.</li><li>Import preset v&agrave;o Lightroom.</li><li>&Aacute;p dụng preset cho ảnh.</li></ul></li><li><strong>Video hướng dẫn (nếu c&oacute;):</strong>Nh&uacute;ng video trực quan để người d&ugrave;ng dễ d&agrave;ng thực hiện theo.</li>
+</ul><div class="content" style="text-align:center; ">
+<a href="https://i.imgur.com/HyuDMQi"><img loading="lazy" src="https://i.imgur.com/HyuDMQi.jpeg" title="source: imgur.com" /></a></div><h3><strong>Chia sẻ kinh nghiệm của anh h&agrave;ng x&oacute;m:</strong></h3><ul><li><strong>C&acirc;u chuyện th&uacute; vị:</strong>Chia sẻ c&acirc;u chuyện về c&aacute;ch anh h&agrave;ng x&oacute;m tạo ra bộ preset n&agrave;y.</li><li><strong>Mẹo nhỏ:</strong>Chia sẻ những mẹo nhỏ để chụp ảnh v&agrave; chỉnh sửa ảnh đẹp hơn.</li>
+</ul><div class="content" style="text-align:center; ">
+<a href="https://i.imgur.com/rw5uvY6"><img loading="lazy" src="https://i.imgur.com/rw5uvY6.jpeg" title="source: imgur.com" /></a></div><h3><strong>Kết luận:</strong></h3><div class="content" style="text-align:center; ">
+<a href="https://i.imgur.com/2IvlaWh"><img loading="lazy" src="https://i.imgur.com/2IvlaWh.jpeg" title="source: imgur.com" /></a></div><p>Bộ preset Lightroom Trung thu si&ecirc;u đẹp l&agrave; m&oacute;n qu&agrave; tuyệt vời d&agrave;nh tặng cho những người y&ecirc;u th&iacute;ch nhiếp ảnh. H&atilde;y nhanh tay tải về v&agrave; bắt đầu tạo ra những bức ảnh Trung thu ấn tượng nh&eacute;!</p><style>
 table{border-collapse:collapse;border-spacing:0;margin:0 auto;width:700px}table td,table th{border:1px solid #ccc;padding:10px}table th{background-color:#f3f3f3}@media only screen and (max-width:700px){table{margin:0 10px;width:auto}}@media only screen and (max-width:480px){table td,table th{display:block;border-bottom:none}table tr:last-child td{border-bottom:1px solid #ccc}}
 #resultIm{display:none;}
 </style>
