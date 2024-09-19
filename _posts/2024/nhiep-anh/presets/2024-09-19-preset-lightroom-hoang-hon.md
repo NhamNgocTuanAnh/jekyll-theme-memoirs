@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[ Share ] Bí quyết chụp ảnh cô gái xinh đẹp bên hồ Tây với preset Hoàng Hồ Tây cho Sony ILCE-7M1 | Tải miễn phí'
+title: '[ Share ] Preset, Stock và Bí quyết chụp ảnh cô gái xinh đẹp bên hồ Tây với preset Hoàng Hôn Hồ Tây cho Sony ILCE-7M1 | Tải miễn phí'
 author: sal
 lazyimages: "enabled"
 categories: [ Nhiếp ảnh 📸 ]
@@ -11,11 +11,11 @@ permalink: nhiep-anh/preset/lightroom-hoang-hon-xanh-lanh-sieu-dep
 excerpt: Preset Hoàng Hồ Tây là một bộ lọc màu được thiết kế đặc biệt để tạo ra những bức ảnh mang đậm phong cách vintage, lãng mạn, phù hợp với khung cảnh hồ Tây và vẻ đẹp của các cô gái. Với preset này, bạn sẽ dễ dàng có được những bức ảnh với tông màu ấm áp, hài hòa, làm nổi bật làn da, đôi mắt và mái tóc của người mẫu.
 adsense: "enabled"
 keywords:
-	- Stock
-	- Preset
-	- Hoàng Hồ Tây
-	- Sony ILCE-7M1
-	- chụp ảnh cô gái
+ - Stock
+ - Preset
+ - Hoàng Hồ Tây
+ - Sony ILCE-7M1
+ - chụp ảnh cô gái
 date: 2023-09-29 04:04:00 +0700
 pinned: true
 ---
@@ -23,7 +23,7 @@ pinned: true
 Preset Hoàng Hồ Tây là một bộ lọc màu được thiết kế đặc biệt để tạo ra những bức ảnh mang đậm phong cách vintage, lãng mạn, phù hợp với khung cảnh hồ Tây và vẻ đẹp của các cô gái. Với preset này, bạn sẽ dễ dàng có được những bức ảnh với tông màu ấm áp, hài hòa, làm nổi bật làn da, đôi mắt và mái tóc của người mẫu.
 
 <div class="content" style="text-align:center; ">
-<a href="https://i.imgur.com/hRCIFUd"><img loading="lazy" src="https://i.imgur.com/nPmntmc.png" title="source: imgur.com" /></a><p></p><br></div>
+<a href="https://i.imgur.com/hRCIFUd"><img loading="lazy" src="https://i.imgur.com/hRCIFUd.png" title="source: imgur.com" /></a><p></p><br><a href="https://i.imgur.com/uEcIKSa"><img loading="lazy" src="https://i.imgur.com/uEcIKSa.png" title="source: imgur.com" /></a><p></p><br></div>
 
 ### **Chia sẻ kinh nghiệm chụp ảnh:**
 
@@ -40,6 +40,9 @@ Preset Hoàng Hồ Tây là một bộ lọc màu được thiết kế đặc b
 *   **Điều chỉnh preset:** Mỗi bức ảnh đều có những đặc điểm riêng, vì vậy bạn có thể điều chỉnh một số thông số của preset để phù hợp với bức ảnh của mình.
 
 ### **Kết quả:**
+
+<div class="content" style="text-align:center; ">
+<a href="https://i.imgur.com/hRCIFUd"><img loading="lazy" src="https://i.imgur.com/nPmntmc.png" title="source: imgur.com" /></a><p></p><br></div>
 
 <div class="content" style="text-align:center; ">
 <a href="https://i.imgur.com/hRCIFUd"><img loading="lazy" src="https://i.imgur.com/hRCIFUd.png" title="source: imgur.com" /></a><p></p><br><a href="https://i.imgur.com/uEcIKSa"><img loading="lazy" src="https://i.imgur.com/uEcIKSa.png" title="source: imgur.com" /></a><p></p><br></div>
