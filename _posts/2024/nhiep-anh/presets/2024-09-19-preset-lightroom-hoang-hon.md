@@ -7,7 +7,7 @@ categories: [ Nhiếp ảnh 📸 ]
 tags: [preset, lightroom]
 image: assets/images/2023/nhiep-anh/avt/phan-dinh-phung-avt-2024.webp
 isGithubComments: false
-permalink: nhiep-anh/preset/lightroom-phan-dinh-phung-vay-chay-nang
+permalink: nhiep-anh/preset/lightroom-hoang-hon-xanh-lanh-sieu-dep
 excerpt: Preset Hoàng Hồ Tây là một bộ lọc màu được thiết kế đặc biệt để tạo ra những bức ảnh mang đậm phong cách vintage, lãng mạn, phù hợp với khung cảnh hồ Tây và vẻ đẹp của các cô gái. Với preset này, bạn sẽ dễ dàng có được những bức ảnh với tông màu ấm áp, hài hòa, làm nổi bật làn da, đôi mắt và mái tóc của người mẫu.
 adsense: "enabled"
 keywords:
