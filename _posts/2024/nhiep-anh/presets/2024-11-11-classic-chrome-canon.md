@@ -20,23 +20,22 @@ date: 2024-11-11 11:11:11 +0700
 pinned: true
 ---
 
-> Đây là bài viết đầu tiên trong loạt bài về việc tạo phong cách hình ảnh tùy chỉnh đầu tiên của tôi dành cho máy ảnh Canon, cụ thể là Canon RP trong trường hợp này. Trước đây tôi đã sở hữu một vài chiếc máy ảnh Canon (Rebel T3i, 5D Mark III, M3) nhưng trong vài năm qua tôi lại sử dụng một chiếc Fuji XT-4. Giống như nhiều người, tôi dần trân trọng những gì chiếc máy ảnh này có thể làm được với việc xử lý JPEG và khả năng tùy chỉnh ngay trong máy.
+> _Đây là bài viết được trích dẫn từ_ [_CanonStyle_ ](https://www.canonstyle.com/blog/canassic-chrome-1/) _đã truyền cảm hứng rất lớn cho mình về giả lập màu film cho máy ảnh canon. Mình có 1 người bạn sử dụng Fujiflim XT-4 chiếc máy đã cho mình rất nhiều cảm xúc khi sử dụng._
 
-Tuy nhiên, tôi vẫn nhớ một số chiếc Canon, đặc biệt là chiếc M3 nhỏ gọn với ống kính 22mm. Nó nhẹ và cung cấp đủ sức mạnh cho nhu cầu chụp ảnh thông thường của tôi. Có vẻ như tôi thực sự thích việc có một nút xoay bù trừ sáng chuyên dụng... ai mà biết được. Giờ tôi không còn chiếc M3 đó nữa (một chiếc M6 đã qua sử dụng đang trên đường đến) nhưng gần đây tôi đã mua một chiếc Canon RP tân trang. Tôi nghĩ rằng đó sẽ là một khởi đầu tốt để khám phá khả năng xử lý bên trong của Canon, nhằm tạo ra những bức ảnh JPEG chất lượng cao.
-
- ### **Tuyên bố từ chối trách nhiệm**
-
-Để rõ ràng, tôi xin đưa ra một số lưu ý:
-
-*   Tôi không phải chuyên gia về màu sắc.
-*   Tôi vẫn đang làm quen với phần mềm Canon (hiện không phải fan lắm).
-*   Tôi làm điều này để vui, hy vọng bạn cũng vậy.
-
- > _Đây là bài viết được trích dẫn từ_ [_CanonStyle_ ](https://www.canonstyle.com/blog/canassic-chrome-1/) _đã truyền cảm hứng rất lớn cho mình về giả lập màu film cho máy ảnh canon. Mình có 1 người bạn sử dụng Fujiflim XT-4 chiếc máy đã cho mình rất nhiều cảm xúc khi sử dụng._
 
 Từ trước tới nay mk luôn là kiểu người mong muốn hiệu nắng trên giá thành phải là cao nhất từ canon 700d đến canon rp và giờ là R8. mình luôn luôn chụp raw và mang về giả lập lại màu phim.
 
-Mình nhớ đến chiếch canon M3 nhỏ gọn với [ống kính 22mm](https://anhhangxom.xyz/nhiep-anh/reviews/danh-gia-canon-ef-m-22mm-f2-ong-ke-bi-lang-quen). Nó nhẹ và cung cấp đủ sức mạnh cho nhu cầu chụp ảnh thông thường. Và khi biết đến sự tồn tại của cái thứ magic JPEG ăn liến. Mình đã nghĩ  và tìm kiếm một khởi đầu tốt bàng các tìm kiếm preset biến mọi ảnh thành ảnh phim. Nhưng dường như đó là không đủ vì chúng ta đã biết chụp về mà phải đẩy lightroom kéo màu thì thật sự rất phiền. Nên mình xin giới thiệu với các bạn về [_CanonStyle_](https://www.canonstyle.com/blog/canassic-chrome-1/) _giúp nâng cao_khả năng xử lý bên trong của Canon, nhằm tạo ra những bức ảnh JPEG chất lượng cao.
+**Mình vẫn nhớ rõ chiếc Canon M3 nhỏ gọn với ống kính** [22mm](https://anhhangxom.xyz/nhiep-anh/reviews/danh-gia-canon-ef-m-22mm-f2-ong-ke-bi-lang-quen)**. Nó nhẹ nhàng nhưng lại đáp ứng đủ nhu cầu chụp ảnh hàng ngày của mình. Khi khám phá ra sức mạnh của JPEG và những preset biến ảnh thành phong cách film, mình đã rất thích thú. Tuy nhiên, việc chỉnh sửa thêm trên Lightroom để đạt được hiệu ứng ưng ý khiến mình cảm thấy hơi bất tiện. Vì vậy, mình muốn giới thiệu đến các bạn tính năng Canon Picture Style - một công cụ tuyệt vời giúp máy ảnh Canon xử lý ảnh ngay từ bên trong, tạo ra những bức ảnh JPEG chất lượng cao và đậm chất riêng.**
+
+Một lần nữa xin cám ơn tác giả [_CanonStyle_](https://www.canonstyle.com/blog/canassic-chrome-1/)
+
+ ### **Tuyên bố từ chối trách nhiệm**
+
+Để rõ ràng, mình xin đưa ra một số lưu ý:
+
+*   mình không phải chuyên gia về màu sắc.
+*   mình vẫn đang làm quen với phần mềm Canon (hiện không phải fan lắm).
+*   mình làm điều này để vui, hy vọng bạn cũng vậy.
 
 Dưới đây là 1 số bài viết tham khảo đến từ các nhiếp ảnh gia Việt Nam.
 
