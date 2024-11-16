@@ -64,10 +64,12 @@ Một lần nữa xin cám ơn tác giả [_CanonStyle_](https://www.canonstyle.
 
 ### Góc ý cải thiện:
 
-Vì là picture style sẽ không thể có nhữung tuỳ chỉnh sâu sắc như bên fujiflim nhưng 1 số điều cơ bản được tuỳ chỉnh bên fujilim vẫn có thể được áp dụng như: Classic Chrome là chế độ màu đặc trưng, rất phổ biến của Fujifilm. Với màu sắc sâu, tông màu trầm, độ bão hòa màu thấp và sự mạnh mẽ trên toàn khung ảnh, Classic Chrome rất phù hợp với những ngày đông khi không gian bao trùm bởi tông màu trầm. Hãy để nhiếp ảnh Chu Việt Hà bật mí cho bạn các bước để có một bức ảnh đẹp với chế độ giả lập màu Classic Chrome khi đông về nhé.
-- Set máy ở chế độ filter Classic Chrome
-- Do điều kiện thời tiết không nắng, trời khá âm u nên hãy set fix tốc độ 1/180x - 1/200 (điều này hạn chế việc máy tự động hạ tốc độ xuống thấp gây nhòe, mờ ảnh)
-- ISO với điều kiện trời u ám bạn có thể cho ISO chạy auto từ 200 - 2000 (Với ảnh đường phố bạn không lo về việc tăng cao iso quá làm noise ảnh, Với ảnh đường phố thì noise không quá bận tâm bằng việc nội dung của bức ảnh. Ngoài ra, Noise của Fujifilm luôn mang lại chất cổ điển rất gần với những noise của máy film)
-- Khẩu độ F2.8 đến F4 (Để máy đủ đảm bảo độ nhạy sáng và độ sâu trường ảnh không quá mỏng)
-- Nếu chụp panning thì bạn hãy chọn chế độ lấy nét đuổi (AF Tracking) còn ở bình thường bạn nên để chế độ lấy nét theo vùng.
+ *   Mặc dù Picture Style trên Canon không có độ tùy chỉnh sâu sắc như Fujifilm, nhưng chúng ta vẫn có thể tạo ra những bức ảnh mang đậm chất điện ảnh bằng cách mô phỏng các chế độ màu đặc trưng của hãng này.
+*   **Classic Chrome** là một trong những chế độ màu được yêu thích nhất của Fujifilm, với tông màu trầm ấm, độ bão hòa vừa phải và cảm giác cổ điển. Để tạo ra những bức ảnh mùa đông ấn tượng với phong cách này trên máy Canon, bạn có thể tham khảo những thiết lập sau:
+*   **Chọn Picture Style:** Đặt máy ảnh về chế độ Picture Style mô phỏng gần nhất với Classic Chrome.
+*   **Tốc độ màn trập:** Do điều kiện ánh sáng yếu, hãy cố định tốc độ màn trập ở khoảng 1/180s - 1/200s để tránh bị nhòe ảnh.
+*   **ISO:** Để máy tự động điều chỉnh ISO trong khoảng 200 - 2000. Với ảnh đường phố, noise (nhiễu hạt) không quá quan trọng bằng việc bắt trọn khoảnh khắc.
+*   **Khẩu độ:** Chọn khẩu độ từ F2.8 đến F4 để đảm bảo đủ sáng và độ sâu trường ảnh vừa phải.
+*   **Chế độ lấy nét:** Sử dụng chế độ lấy nét đuổi (AF Tracking) khi chụp các đối tượng chuyển động và chế độ lấy nét theo vùng cho các trường hợp khác.
+*   **Lưu ý:** Để có kết quả tốt nhất, bạn nên điều chỉnh các thông số này tùy thuộc vào điều kiện ánh sáng và chủ thể chụp. Ngoài ra, việc hậu kỳ ảnh sau khi chụp cũng sẽ giúp bạn hoàn thiện bức ảnh của mình."
 
