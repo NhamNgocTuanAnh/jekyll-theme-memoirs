@@ -8,8 +8,8 @@ image: assets/images/2023/reviews/canon-r8-avt.webp
 rating: 5
 lazyimages: "enabled"
 isGithubComments: false
-excerpt: Canon EF-M 22mm STM là một ống kính pancake nhỏ gọn và nhẹ, lý tưởng cho các máy ảnh mirrorless Canon EOS M.
-description: Canon EF-M 22mm STM là một ống kính pancake nhỏ gọn và nhẹ, lý tưởng cho các máy ảnh mirrorless Canon EOS M.
+excerpt: Đánh giá chi tiết Canon R8: Khám phá chiếc máy ảnh mirrorless full-frame với khả năng quay video 4K ấn tượng, hệ thống lấy nét nhanh chóng và thiết kế nhỏ gọn. Tuy nhiên, bài viết cũng sẽ đề cập đến những hạn chế như tuổi thọ pin và giá thành.
+description: Đánh giá chi tiết Canon R8: Khám phá chiếc máy ảnh mirrorless full-frame với khả năng quay video 4K ấn tượng, hệ thống lấy nét nhanh chóng và thiết kế nhỏ gọn. Tuy nhiên, bài viết cũng sẽ đề cập đến những hạn chế như tuổi thọ pin và giá thành.
 adsense: "enabled"
 keywords:
 -  đánh giá chi tiết Canon R8
@@ -53,7 +53,9 @@ Nhiều người dùng đã so sánh R8 với người tiền nhiệm Canon R v�
 
 #### 2\. Nhược điểm cần lưu ý:
 
- **Tuổi thọ pin:**
+Canon R8 là một chiếc máy ảnh mirrorless full-frame đáng giá với khả năng quay video 4K ấn tượng. Hệ thống lấy nét tự động của máy rất nhanh chóng và chính xác, đặc biệt hữu ích khi chụp các đối tượng chuyển động. Tuy nhiên, tuổi thọ pin của máy là một hạn chế đáng kể, đặc biệt khi quay video liên tục.
+
+**Tuổi thọ pin:**
 
 *   Pin nhanh hết, đặc biệt khi quay video hoặc chụp liên tục.
 *   Pin giả không hiển thị dung lượng chính xác, gây bất tiện khi sử dụng.
