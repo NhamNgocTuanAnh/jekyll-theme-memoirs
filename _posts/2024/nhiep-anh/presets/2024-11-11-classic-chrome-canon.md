@@ -28,7 +28,13 @@ pinned: true
 > _Đây là bài viết được trích dẫn từ_ [_CanonStyle_ ](https://www.canonstyle.com/blog/canassic-chrome-1/) _đã truyền cảm hứng rất lớn cho mình về giả lập màu film cho máy ảnh canon. Mình có 1 người bạn sử dụng Fujiflim XT-4 chiếc máy đã cho mình rất nhiều cảm xúc khi sử dụng._
 
 
-Từ trước tới nay mk luôn là kiểu người mong muốn hiệu nắng trên giá thành phải là cao nhất từ canon 700d đến canon rp và giờ là R8. mình luôn luôn chụp raw và mang về giả lập lại màu phim.
+Là một người đam mê màu phim, mình đã từng trải qua nhiều dòng máy từ 700D, M10, M3 đến RP. Đặc biệt, mình rất thích chụp ảnh RAW rồi áp preset film, nhất là các preset thuộc dòng FJ (viết tắt của You-Know-Who).
+
+Tuy nhiên, thời gian gần đây, vì nhiều lý do: vừa lười, vừa không phải lúc nào cũng có Lightroom bên cạnh để chỉnh sửa, mình bắt đầu tìm kiếm một giải pháp "ăn liền" hơn. Nhưng các preset FJ thì lại quá đắt đỏ.
+
+Vậy tại sao không chuyển preset thành Picture Style để tận dụng các đặc tính của màu phim ngay từ lúc chụp? Đây là câu hỏi mình tự đặt ra khi nhận ra Canon đã rất ưu ái người dùng, cung cấp đến 3 giả lập màu xuyên suốt qua nhiều năm. Ở Việt Nam, cũng có một số ít người làm về lĩnh vực này nhưng dường như chưa được chú ý nhiều.
+
+May mắn thay, mình biết đến một bạn nước ngoài, thông qua CanonStyle, đã chia sẻ một Picture Style tự làm, mang tên CC Smell-a-like for Canon Cameras. Mình rất cảm ơn bạn ấy vì điều này! 🌟. Và nay mình xin được chia sẻ lại vì 1 số lý do nào đó, web của bạn ấy đã không còn file đó nữa.
 
 **Mình vẫn nhớ rõ chiếc Canon M3 nhỏ gọn với ống kính** [22mm](https://anhhangxom.xyz/nhiep-anh/reviews/danh-gia-canon-ef-m-22mm-f2-ong-ke-bi-lang-quen)**. Nó nhẹ nhàng nhưng lại đáp ứng đủ nhu cầu chụp ảnh hàng ngày của mình. Khi khám phá ra sức mạnh của JPEG và những preset biến ảnh thành phong cách film, mình đã rất thích thú. Tuy nhiên, việc chỉnh sửa thêm trên Lightroom để đạt được hiệu ứng ưng ý khiến mình cảm thấy hơi bất tiện. Vì vậy, mình muốn giới thiệu đến các bạn tính năng Canon Picture Style - một công cụ tuyệt vời giúp máy ảnh Canon xử lý ảnh ngay từ bên trong, tạo ra những bức ảnh JPEG chất lượng cao và đậm chất riêng.**
 
