@@ -57,13 +57,12 @@ Một trong những điểm mạnh khác của R8 là khả năng quay video 4K 
 
 **So sánh với Canon R:**
 
-Nhiều người dùng đã so sánh R8 với người tiền nhiệm Canon R và nhận thấy sự cải thiện đáng kể về chất lượng hình ảnh, tốc độ lấy nét và khả năng quay video. R8 cho ra file ảnh có dải dynamic range rộng hơn, màu sắc tự nhiên hơn và chi tiết tốt hơn. Đặc biệt, khả năng quay video 4K 60fps không cắt xén là một điểm cộng lớn so với Canon R.
+Nhiều người dùng đã so sánh R8 với người tiền nhiệm Canon R và nhận thấy sự cải thiện đáng kể về chất lượng hình ảnh, tốc độ lấy nét và khả năng quay video. R8 cho ra file ảnh có dải dynamic range rộng hơn, màu sắc tự nhiên hơn và chi tiết tốt hơn. Đặc biệt, khả năng quay video 4K 60fps không cắt xén là một điểm cộng lớn so với Canon R. R8 mới hơn mạnh hơn R nhưng body kiểu nhẹ nhàng ko pro như R.
 
 **So sánh với Canon RP:**
 Giống hệt RP, có lẽ là cụm từ miêu tả gần đúng nhất khi cầm vào R8, R8 theo spec còn nhẹ hơn Rp 1 chút (24gr), nhưng cảm giác cầm nắm là giống hệt RP với sự khác nhau nằm ở phía trên khi mà R8 có nút xoay chế độ từ quay sang chụp rất tiện lợi còn Rp thì không!
 - Thao tác máy có thể nói là gần như giống hệt RP, nếu bạn đang cầm 1 chiếc R6 R6II khi cầm vào R8 bạn sẽ hụt hẫng y xỳ như cầm vào RP vậy!
 - Tiếng màn chập cơ - có thể nói giống RP tới 90% - Bạn mong chờ R8 có một tiếng màn chập mạnh mẽ hơn  -> Bạn sẽ thất vọng!
-
 
 #### 2\. Nhược điểm cần lưu ý:
 
