@@ -32,6 +32,8 @@ Từ trước tới nay mk luôn là kiểu người mong muốn hiệu nắng t
 
 **Mình vẫn nhớ rõ chiếc Canon M3 nhỏ gọn với ống kính** [22mm](https://anhhangxom.xyz/nhiep-anh/reviews/danh-gia-canon-ef-m-22mm-f2-ong-ke-bi-lang-quen)**. Nó nhẹ nhàng nhưng lại đáp ứng đủ nhu cầu chụp ảnh hàng ngày của mình. Khi khám phá ra sức mạnh của JPEG và những preset biến ảnh thành phong cách film, mình đã rất thích thú. Tuy nhiên, việc chỉnh sửa thêm trên Lightroom để đạt được hiệu ứng ưng ý khiến mình cảm thấy hơi bất tiện. Vì vậy, mình muốn giới thiệu đến các bạn tính năng Canon Picture Style - một công cụ tuyệt vời giúp máy ảnh Canon xử lý ảnh ngay từ bên trong, tạo ra những bức ảnh JPEG chất lượng cao và đậm chất riêng.**
 
+{% include post-by-url.html post_src="du-lich/tro-lai-ninh-binh" is_main="true" %}
+
 ### **Tuyên bố từ chối trách nhiệm**
 
 Để rõ ràng, mình xin đưa ra một số lưu ý:
