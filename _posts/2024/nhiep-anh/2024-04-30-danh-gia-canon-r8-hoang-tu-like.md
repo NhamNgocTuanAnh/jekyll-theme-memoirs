@@ -86,19 +86,7 @@ Nhiều người dùng đã so sánh R8 với người tiền nhiệm Canon R v�
 
 #### 3\. Lời khuyên cho người dùng:
 
-*   **Chuẩn bị nhiều pin dự phòng:** Để khắc phục vấn đề về pin, hãy chuẩn bị sẵn một vài viên pin dự phòng.
-*   **Sử dụng thẻ nhớ chất lượng cao:** Nên chọn thẻ nhớ có tốc độ đọc/ghi cao để đảm bảo dữ liệu được lưu trữ an toàn.
-*   **Tránh sử dụng máy trong điều kiện nhiệt độ quá cao:** Hãy tìm nơi thoáng mát để chụp ảnh, đặc biệt là vào những ngày nắng nóng.
-*   **Cân nhắc kỹ trước khi quyết định mua lens:** Hãy tìm hiểu kỹ về các loại lens tương thích với R8 và lựa chọn những sản phẩm phù hợp với nhu cầu và ngân sách của mình.
-
-Nói thẳng ngon 1 trong tầm giá :)) ai chê thì chịu rồi :)))
-- mua grip không pin cải thiện cầm nắm
-- mua pin zin đỡ hại máy
-- mua 3 cục pin zin là đỡ lăn tăn
-- chup thể thao-chim cò không flash rất ngon
-- xài đồ xịn đi theo máy giá trị máy sẽ thay đổi nhé .
-Còn ai chê :)) chắc chưa mua xài lần nào nên chê :)) chứ R5-6-6ii cũng ko hơn R8 bao nhiêu đâu :))) so về giá thì :))) xin luôn cái tuổi
-
+ **Canon R8** là một chiếc máy ảnh mirrorless full-frame hấp dẫn với nhiều tính năng nổi bật. Tuy nhiên, máy cũng tồn tại một số hạn chế đáng kể như tuổi thọ pin ngắn, thiết kế chưa hoàn hảo và một số lỗi kỹ thuật nhỏ. **So với các đối thủ cạnh tranh**, R8 có thể không thực sự nổi trội về thời lượng pin và khả năng chống chịu thời tiết. **Tuy nhiên,** nếu bạn đang tìm kiếm một chiếc máy ảnh có khả năng quay video 4K chất lượng cao và chất lượng hình ảnh tốt trong tầm giá, R8 vẫn là một lựa chọn đáng cân nhắc. **Lời khuyên:** Trước khi quyết định mua, bạn nên cân nhắc kỹ các ưu nhược điểm của máy và chuẩn bị đầy đủ pin dự phòng.
 
 **Ý kiến từ cộng đồng:**
 
