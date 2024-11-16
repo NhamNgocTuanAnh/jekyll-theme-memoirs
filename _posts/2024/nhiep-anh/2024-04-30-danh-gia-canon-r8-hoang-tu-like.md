@@ -30,19 +30,10 @@ permalink: nhiep-anh/reviews/danh-gia-canon-r8-hoang-tu-like
 
 > Canon R8, mẫu máy ảnh mirrorless full-frame mới nhất của Canon, đã nhanh chóng thu hút sự chú ý của cộng đồng nhiếp ảnh. Với mức giá hấp dẫn và nhiều tính năng cải tiến, R8 được kỳ vọng sẽ là đối thủ cạnh tranh đáng gờm với các mẫu máy ảnh cùng phân khúc. Tuy nhiên, liệu R8 có thực sự đáp ứng được kỳ vọng của người dùng? Bài viết này sẽ đi sâu phân tích các ưu và nhược điểm của Canon R8 để giúp bạn đưa ra quyết định mua hàng chính xác nhất.
 
-Nội dung bài viết sẽ đề cập tới:
-
-* Đánh giá chi tiết về thiết kế và xây dựng của Canon EF-M 22mm STM.
-* Hiệu suất hình ảnh và khả năng lấy nét tự động của ống kính.
-* Sự đa dụng và sử dụng thực tế của EF-M 22mm STM trong nhiếp ảnh chuyên nghiệp.
-* Ý kiến của người dùng về ống kính này và những ưu nhược điểm.
-
- Thiết kế và chất lượng:
+#### 1\. Ưu điểm nổi bật:
 
 <div class="content" style="text-align:center; ">
-<a href="https://i.imgur.com/LEaf7t5"><img loading="lazy" src="https://i.imgur.com/LEaf7t5.jpeg" title="source: imgur.com" alt="Canon 22mm + canon m"></a></div>
-
-#### 1\. Ưu điểm nổi bật:
+<a href="https://i.imgur.com/LEaf7t5"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczNWvHqq3t17Hcv-1aEKBTj0FHbfEP9ZnyLccIzzuSmDuyW3-FHJrj5c28dlaBtS8BosxD_5lVtD_Yb-4aCFiIlskSax-F7THeOu9MDAaTCaQd1_UVydCSL27HBVE9fch1TV2x_2nrjhORO50er_38opCw=w611-h917-s-no-gm?authuser=1" title="source: imgur.com" alt="ảnh được chụp từ Canon r8"></a></div>
 
 *   **Hiệu năng vượt trội:** Với cảm biến và bộ xử lý " thừa hưởng" từ người anh em R6 Mark II, R8 mang đến chất lượng hình ảnh tuyệt vời, khả năng lấy nét nhanh và chính xác, đặc biệt là khi chụp các đối tượng chuyển động nhanh như máy bay.
 *   **Giá cả phải chăng:** So với các đối thủ cùng phân khúc, R8 được đánh giá là có mức giá khá hấp dẫn, phù hợp với cả những người mới bắt đầu và những nhiếp ảnh gia muốn nâng cấp thiết bị.
