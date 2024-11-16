@@ -50,6 +50,8 @@ May mắn thay, mình biết đến một bạn nước ngoài, thông qua Canon
 
 Dưới đây là 1 số bài viết tham khảo đến từ các nhiếp ảnh gia Việt Nam.
 
+<div class="video-container">
+<iframe src="https://www.youtube.com/watch?v=pw0GAaJ-DsE" title="Picture Style màu trong trẻo VIP cho canon, chụp phát ăn ngay từ file gốc JPG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/l1RndPxf9tA" title="Picture Style màu trong trẻo VIP cho canon, chụp phát ăn ngay từ file gốc JPG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
