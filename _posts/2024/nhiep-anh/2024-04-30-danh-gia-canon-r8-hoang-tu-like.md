@@ -38,8 +38,7 @@ permalink: nhiep-anh/reviews/danh-gia-canon-r8-hoang-tu-like
 <div class="content" style="text-align:center; ">
 <a href="https://i.imgur.com/LEaf7t5"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczNWvHqq3t17Hcv-1aEKBTj0FHbfEP9ZnyLccIzzuSmDuyW3-FHJrj5c28dlaBtS8BosxD_5lVtD_Yb-4aCFiIlskSax-F7THeOu9MDAaTCaQd1_UVydCSL27HBVE9fch1TV2x_2nrjhORO50er_38opCw=w611-h917-s-no-gm?authuser=1" title="source: imgur.com" alt="ảnh được chụp từ Canon r8"></a></div>
 
-
-*   **Hiệu năng vượt trội:** Thừa hưởng cảm biến và bộ xử lý từ R6 Mark II, mang đến chất lượng hình ảnh tuyệt vời.
+> **Hiệu năng vượt trội:** Thừa hưởng cảm biến và bộ xử lý từ R6 Mark II, mang đến chất lượng hình ảnh tuyệt vời.
 
 Canon R8, thừa hưởng cảm biến và bộ xử lý từ người anh em R6 Mark II, mang đến chất lượng hình ảnh ấn tượng với khả năng lấy nét tự động nhanh chóng và chính xác, đặc biệt hữu ích khi chụp các đối tượng chuyển động. Nhiều người dùng đánh giá cao khả năng xử lý ảnh ở độ nhạy sáng cao của R8, cho ra những bức ảnh chi tiết và ít nhiễu hạt.
 
@@ -73,32 +72,21 @@ Giống hệt RP, có lẽ là cụm từ miêu tả gần đúng nhất khi c�
 Canon R8 là một chiếc máy ảnh mirrorless full-frame đáng giá với khả năng quay video 4K ấn tượng. Hệ thống lấy nét tự động của máy rất nhanh chóng và chính xác, đặc biệt hữu ích khi chụp các đối tượng chuyển động. Tuy nhiên, tuổi thọ pin của máy là một hạn chế đáng kể, đặc biệt khi quay video liên tục.
 
 **Tuổi thọ pin:**
-
 *   Pin nhanh hết, đặc biệt khi quay video hoặc chụp liên tục.
 *   Pin giả không hiển thị dung lượng chính xác, gây bất tiện khi sử dụng.
 *   Cần chuẩn bị nhiều pin dự phòng.
-
 **Khe cắm thẻ nhớ:**
-
 *   Chỉ có một khe cắm, tiềm ẩn rủi ro mất dữ liệu.
-
 **Quá nhiệt:**
-
 *   Máy dễ bị quá nhiệt khi quay video 4K 60p trong thời gian dài.
-
 **Lens:**
-
 *   Lens RF chính hãng có giá cao.
 *   Lens chuyển ngàm có thể gây ra vấn đề tương thích.
-
 **Thiết kế:**
-
 *   Thân máy nhỏ, cảm giác cầm nắm không chắc chắn.
 *   Không có joystick.
 *   Vấn đề với cổng HDMI: Khi cắm HDMI, màn hình máy bị tắt.
-
 **Các vấn đề khác:**
-
 *   Phần cao su trên eyecup dễ bị xước và khó thay thế.
 
 
@@ -111,15 +99,13 @@ Canon R8 là một chiếc máy ảnh mirrorless full-frame đáng giá với kh
 *   **DPReview:** Nhiều người dùng trên DPReview đánh giá cao khả năng lấy nét tự động và chất lượng hình ảnh của R8, tuy nhiên họ cũng bày tỏ sự lo ngại về tuổi thọ pin.
 *   **Reddit (r/canon):** Cộng đồng này đánh giá cao khả năng quay video của R8 và cho rằng đây là một lựa chọn tốt cho những người muốn có một chiếc máy ảnh vừa chụp ảnh vừa quay video chất lượng cao.
 
-
-*   **Giá cả phải chăng:** So với các đối thủ cùng phân khúc, R8 được đánh giá là có mức giá khá hấp dẫn, phù hợp với cả những người mới bắt đầu và những nhiếp ảnh gia muốn nâng cấp thiết bị.
-*   **Thiết kế nhỏ gọn, tiện dụng:** R8 sở hữu thiết kế nhỏ gọn, nhẹ nhàng, giúp người dùng dễ dàng cầm nắm và di chuyển. thiết kế nhỏ gọn, tối ưu hơn (cảm giác cầm nắm nhẹ, nhỏ nên hơi hụt hẫng so với canon R)
-
-*   **Khả năng quay video ấn tượng:** R8 hỗ trợ quay video 4K chất lượng cao, đáp ứng nhu cầu sáng tạo nội dung của nhiều người dùng.
-
 **Tổng kết:**
 
 Canon R8 là một chiếc máy ảnh đầy tiềm năng, phù hợp với những người đam mê nhiếp ảnh muốn trải nghiệm công nghệ mới với mức giá hợp lý. Tuy nhiên, trước khi quyết định mua, bạn nên cân nhắc kỹ các ưu và nhược điểm của sản phẩm này để đưa ra lựa chọn phù hợp nhất.
+
+*   **Giá cả phải chăng:** So với các đối thủ cùng phân khúc, R8 được đánh giá là có mức giá khá hấp dẫn, phù hợp với cả những người mới bắt đầu và những nhiếp ảnh gia muốn nâng cấp thiết bị.
+*   **Thiết kế nhỏ gọn, tiện dụng:** R8 sở hữu thiết kế nhỏ gọn, nhẹ nhàng, giúp người dùng dễ dàng cầm nắm và di chuyển. thiết kế nhỏ gọn, tối ưu hơn (cảm giác cầm nắm nhẹ, nhỏ nên hơi hụt hẫng so với canon R)
+*   **Khả năng quay video ấn tượng:** R8 hỗ trợ quay video 4K chất lượng cao, đáp ứng nhu cầu sáng tạo nội dung của nhiều người dùng.
 
 > Về pin thì cuối tuần vừa rồi mình mới chụp kỷ yếu từ sáng đến tối, hơn 1.5k shot, phải dùng đến 4 quả pin đầy nha các bác.
 
