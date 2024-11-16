@@ -42,7 +42,9 @@ Từ trước tới nay mk luôn là kiểu người mong muốn hiệu nắng t
 
 Dưới đây là 1 số bài viết tham khảo đến từ các nhiếp ảnh gia Việt Nam.
 
-<iframe width="1903" height="748" src="https://www.youtube.com/embed/l1RndPxf9tA" title="Picture Style màu trong trẻo VIP cho canon, chụp phát ăn ngay từ file gốc JPG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/l1RndPxf9tA" title="Picture Style màu trong trẻo VIP cho canon, chụp phát ăn ngay từ file gốc JPG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 *   [_Aphoto - Chia sẻ Picture Style màu film chụp phát ăn ngay từ file gốc cho Canon_](https://aphoto.vn/chia-se-picture-style-mau-film-chup-phat-an-ngay-tu-file-goc-cho-canon/)
 *   [_Duongcuong -  Picture Style màu chân dung trong trẻo cho máy ảnh Canon_](https://duongcuong.com/picture-style-mau-chan-dung-trong-treo-cho-may-anh-canon/)
