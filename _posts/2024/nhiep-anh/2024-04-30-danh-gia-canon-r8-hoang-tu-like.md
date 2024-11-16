@@ -43,40 +43,45 @@ Về pin thì chủ nhật vừa rồi e mới chụp kỷ yếu sáng đến t�
 
 *   **Hiệu năng vượt trội:** Thừa hưởng cảm biến và bộ xử lý từ R6 Mark II, mang đến chất lượng hình ảnh tuyệt vời.
 
-"Canon R8, thừa hưởng cảm biến và bộ xử lý từ người anh em R6 Mark II, mang đến chất lượng hình ảnh ấn tượng với khả năng lấy nét tự động nhanh chóng và chính xác, đặc biệt hữu ích khi chụp các đối tượng chuyển động. Nhiều người dùng đánh giá cao khả năng xử lý ảnh ở độ nhạy sáng cao của R8, cho ra những bức ảnh chi tiết và ít nhiễu hạt.
+Canon R8, thừa hưởng cảm biến và bộ xử lý từ người anh em R6 Mark II, mang đến chất lượng hình ảnh ấn tượng với khả năng lấy nét tự động nhanh chóng và chính xác, đặc biệt hữu ích khi chụp các đối tượng chuyển động. Nhiều người dùng đánh giá cao khả năng xử lý ảnh ở độ nhạy sáng cao của R8, cho ra những bức ảnh chi tiết và ít nhiễu hạt.
 
 Một trong những điểm mạnh khác của R8 là khả năng quay video 4K 60fps không cắt xén. Chất lượng video được đánh giá cao, với dải dynamic range rộng và màu sắc chân thực. Nhiều người dùng đã thử nghiệm quay video C-log 3 và rất hài lòng với kết quả thu được.
-
-Tuy nhiên, tuổi thọ pin của R8 vẫn là một hạn chế đáng kể. Để đáp ứng nhu cầu quay video liên tục hoặc chụp một sự kiện kéo dài, người dùng thường phải chuẩn bị nhiều pin dự phòng.
 
 **So sánh với Canon R:**
 
 Nhiều người dùng đã so sánh R8 với người tiền nhiệm Canon R và nhận thấy sự cải thiện đáng kể về chất lượng hình ảnh, tốc độ lấy nét và khả năng quay video. R8 cho ra file ảnh có dải dynamic range rộng hơn, màu sắc tự nhiên hơn và chi tiết tốt hơn. Đặc biệt, khả năng quay video 4K 60fps không cắt xén là một điểm cộng lớn so với Canon R.
 
-**Ý kiến từ cộng đồng:**
-
-*   **DPReview:** Nhiều người dùng trên DPReview đánh giá cao khả năng lấy nét tự động và chất lượng hình ảnh của R8, tuy nhiên họ cũng bày tỏ sự lo ngại về tuổi thọ pin.
-*   **Reddit (r/canon):** Cộng đồng này đánh giá cao khả năng quay video của R8 và cho rằng đây là một lựa chọn tốt cho những người muốn có một chiếc máy ảnh vừa chụp ảnh vừa quay video chất lượng cao.
-
-
-*   **Giá cả phải chăng:** So với các đối thủ cùng phân khúc, R8 được đánh giá là có mức giá khá hấp dẫn, phù hợp với cả những người mới bắt đầu và những nhiếp ảnh gia muốn nâng cấp thiết bị.
-*   **Thiết kế nhỏ gọn, tiện dụng:** R8 sở hữu thiết kế nhỏ gọn, nhẹ nhàng, giúp người dùng dễ dàng cầm nắm và di chuyển. thiết kế nhỏ gọn, tối ưu hơn (cảm giác cầm nắm nhẹ, nhỏ nên hơi hụt hẫng so với canon R)
-
-*   **Khả năng quay video ấn tượng:** R8 hỗ trợ quay video 4K chất lượng cao, đáp ứng nhu cầu sáng tạo nội dung của nhiều người dùng.
 
 #### 2\. Nhược điểm cần lưu ý:
 
-*   **Tuổi thọ pin hạn chế:** Đây có lẽ là điểm trừ lớn nhất của R8. Nhiều người dùng phàn nàn về việc pin nhanh hết, đặc biệt khi quay video hoặc chụp liên tục. Điều mình không thích ở máy này và các dòng tương tự là khi dùng pin for sẽ không biết lúc nào hết, máy cứ báo đầy suốt, đến khi hết là sập luôn, như vậy mà đang quay chụp thì sẽ rất nguy hiểm. Hi vọng là nhà Canon sẽ ra bản cập nhật để có thể theo dõi pin đối với pin for. Tuy nhiên để cải thiện pin thì ae chụp có thể mua thêm girp còn ae quay có thể mua pin giả, ngoài ra thì khi sử dụng pin hãng ae cũng có thể cắm sạc qua cổng type c để sử dụng được với điều kiện là sạc trên 20W.
-*   **Một khe cắm thẻ nhớ:** Việc chỉ có một khe cắm thẻ nhớ tiềm ẩn rủi ro mất dữ liệu nếu chẳng may xảy ra sự cố.
-*   **Vấn đề quá nhiệt:** Khi sử dụng trong điều kiện nhiệt độ cao hoặc chụp liên tục trong thời gian dài, máy có thể bị quá nhiệt, ảnh hưởng đến hiệu năng. Quay 4k60p đôi khi nhiệt độ lên cao nên ae không nên quay dài, mình thì chưa bị quá nhiệt nhưng mình nghĩ còn do thời tiết nữa.
-*   **Lens tương thích:** Mặc dù có nhiều lens RF chất lượng cao, nhưng giá thành của chúng khá đắt đỏ. Việc sử dụng lens qua ngàm cũng có thể gây ra một số vấn đề về tương thích.
-*   **Thiết kế:** Thân vỏ nhỏ, cảm giác cầm nắm cứ sột soạt, như đồ chơi (so với canon R cầm êm, chắc tay hơn nhiều).Ko có joystic
+ **Tuổi thọ pin:**
 
- Con R8 ngu cái vụ cắm HDMI là cái màn hình chính bị đen thui. Thế nên vừa mua chưa kịp dùng là bán quách cho nó rồi. R8 ngu nhất vụ HDMI chứ k là hốt trọn mấy e R8 rồi. Cắm HDMI ra monitor là k rec dc trên máy nữa. Moẹ chứ
+*   Pin nhanh hết, đặc biệt khi quay video hoặc chụp liên tục.
+*   Pin giả không hiển thị dung lượng chính xác, gây bất tiện khi sử dụng.
+*   Cần chuẩn bị nhiều pin dự phòng.
 
+**Khe cắm thẻ nhớ:**
 
+*   Chỉ có một khe cắm, tiềm ẩn rủi ro mất dữ liệu.
 
-> R8 ngon, mỗi tội phần cao su trên eyecup rất dễ xước nham nhở khá xấu mà phần đó lại ko dán skin được. Để thay phần cao su đó phải tháo 2 con ốc ở dưới mà ốc đó có vẻ như hãng bắn rất chặt gần như chết ốc ko thể tháo nổi....
+**Quá nhiệt:**
+
+*   Máy dễ bị quá nhiệt khi quay video 4K 60p trong thời gian dài.
+
+**Lens:**
+
+*   Lens RF chính hãng có giá cao.
+*   Lens chuyển ngàm có thể gây ra vấn đề tương thích.
+
+**Thiết kế:**
+
+*   Thân máy nhỏ, cảm giác cầm nắm không chắc chắn.
+*   Không có joystick.
+*   Vấn đề với cổng HDMI: Khi cắm HDMI, màn hình máy bị tắt.
+
+**Các vấn đề khác:**
+
+*   Phần cao su trên eyecup dễ bị xước và khó thay thế.
 
 
 #### 3\. Lời khuyên cho người dùng:
@@ -93,6 +98,18 @@ Nói thẳng ngon 1 trong tầm giá :)) ai chê thì chịu rồi :)))
 - chup thể thao-chim cò không flash rất ngon
 - xài đồ xịn đi theo máy giá trị máy sẽ thay đổi nhé .
 Còn ai chê :)) chắc chưa mua xài lần nào nên chê :)) chứ R5-6-6ii cũng ko hơn R8 bao nhiêu đâu :))) so về giá thì :))) xin luôn cái tuổi
+
+
+**Ý kiến từ cộng đồng:**
+
+*   **DPReview:** Nhiều người dùng trên DPReview đánh giá cao khả năng lấy nét tự động và chất lượng hình ảnh của R8, tuy nhiên họ cũng bày tỏ sự lo ngại về tuổi thọ pin.
+*   **Reddit (r/canon):** Cộng đồng này đánh giá cao khả năng quay video của R8 và cho rằng đây là một lựa chọn tốt cho những người muốn có một chiếc máy ảnh vừa chụp ảnh vừa quay video chất lượng cao.
+
+
+*   **Giá cả phải chăng:** So với các đối thủ cùng phân khúc, R8 được đánh giá là có mức giá khá hấp dẫn, phù hợp với cả những người mới bắt đầu và những nhiếp ảnh gia muốn nâng cấp thiết bị.
+*   **Thiết kế nhỏ gọn, tiện dụng:** R8 sở hữu thiết kế nhỏ gọn, nhẹ nhàng, giúp người dùng dễ dàng cầm nắm và di chuyển. thiết kế nhỏ gọn, tối ưu hơn (cảm giác cầm nắm nhẹ, nhỏ nên hơi hụt hẫng so với canon R)
+
+*   **Khả năng quay video ấn tượng:** R8 hỗ trợ quay video 4K chất lượng cao, đáp ứng nhu cầu sáng tạo nội dung của nhiều người dùng.
 
 **Tổng kết:**
 
