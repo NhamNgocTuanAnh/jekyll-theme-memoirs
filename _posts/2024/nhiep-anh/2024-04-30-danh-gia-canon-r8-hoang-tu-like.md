@@ -40,6 +40,7 @@ Về pin thì chủ nhật vừa rồi e mới chụp kỷ yếu sáng đến t�
 <div class="content" style="text-align:center; ">
 <a href="https://i.imgur.com/LEaf7t5"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczNWvHqq3t17Hcv-1aEKBTj0FHbfEP9ZnyLccIzzuSmDuyW3-FHJrj5c28dlaBtS8BosxD_5lVtD_Yb-4aCFiIlskSax-F7THeOu9MDAaTCaQd1_UVydCSL27HBVE9fch1TV2x_2nrjhORO50er_38opCw=w611-h917-s-no-gm?authuser=1" title="source: imgur.com" alt="ảnh được chụp từ Canon r8"></a></div>
 
+
 *   **Hiệu năng vượt trội:** Thừa hưởng cảm biến và bộ xử lý từ R6 Mark II, mang đến chất lượng hình ảnh tuyệt vời.
 
 "Canon R8, thừa hưởng cảm biến và bộ xử lý từ người anh em R6 Mark II, mang đến chất lượng hình ảnh ấn tượng với khả năng lấy nét tự động nhanh chóng và chính xác, đặc biệt hữu ích khi chụp các đối tượng chuyển động. Nhiều người dùng đánh giá cao khả năng xử lý ảnh ở độ nhạy sáng cao của R8, cho ra những bức ảnh chi tiết và ít nhiễu hạt.
