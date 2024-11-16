@@ -45,9 +45,24 @@ Canon R8, thừa hưởng cảm biến và bộ xử lý từ người anh em R6
 
 Một trong những điểm mạnh khác của R8 là khả năng quay video 4K 60fps không cắt xén. Chất lượng video được đánh giá cao, với dải dynamic range rộng và màu sắc chân thực. Nhiều người dùng đã thử nghiệm quay video C-log 3 và rất hài lòng với kết quả thu được.
 
+ 1.  **Nhẹ và linh hoạt**: Trọng lượng nhẹ là ưu điểm lớn nhất, chiếm 80% lý do chọn sản phẩm.
+2.  **Hệ thống lấy nét**: Nhanh và chính xác hơn cả R6 (dù R6 vốn đã rất tốt). Hỗ trợ thêm các chế độ lấy nét cho xe cộ, động vật, với AI hoạt động ổn định.
+3.  **Tốc độ chụp liên tục**: 40fps đôi lúc hơi bất tiện nhưng cũng mang lại cảm giác phấn khích, là ưu điểm nhiều hơn nhược điểm.
+4.  **Giao diện quay phim hiện đại**: Có viền đỏ khi REC, hiển thị thanh âm thanh trong video (tính năng Canon vừa bổ sung, Sony đã có từ lâu).
+5.  **Quay phim 4K không crop**: Không cắt xén khung hình khi quay 4K, vượt trội hơn R6 (crop nhẹ).
+6.  **Hiệu ứng và bộ lọc**: Tích hợp sẵn vài bộ lọc khi quay phim, sử dụng dễ dàng và hiệu quả.
+7.  **Lấy nét và chụp cực nhanh**: Màn chập điện tử đảm bảo tốc độ chụp nhanh, chính xác, không bị lỗi lấy nét.
+8.  **Chế độ tiết kiệm pin**: Giảm tần số quét màn hình, tối ưu năng lượng.
+9.  **Cảm biến 24MP**: So với R6 (20MP), 24MP mang lại lợi thế nhỏ nhưng vẫn đáng giá.
+
 **So sánh với Canon R:**
 
 Nhiều người dùng đã so sánh R8 với người tiền nhiệm Canon R và nhận thấy sự cải thiện đáng kể về chất lượng hình ảnh, tốc độ lấy nét và khả năng quay video. R8 cho ra file ảnh có dải dynamic range rộng hơn, màu sắc tự nhiên hơn và chi tiết tốt hơn. Đặc biệt, khả năng quay video 4K 60fps không cắt xén là một điểm cộng lớn so với Canon R.
+
+**So sánh với Canon RP:**
+Giống hệt RP, có lẽ là cụm từ miêu tả gần đúng nhất khi cầm vào R8, R8 theo spec còn nhẹ hơn Rp 1 chút (24gr), nhưng cảm giác cầm nắm là giống hệt RP với sự khác nhau nằm ở phía trên khi mà R8 có nút xoay chế độ từ quay sang chụp rất tiện lợi còn Rp thì không!
+- Thao tác máy có thể nói là gần như giống hệt RP, nếu bạn đang cầm 1 chiếc R6 R6II khi cầm vào R8 bạn sẽ hụt hẫng y xỳ như cầm vào RP vậy!
+- Tiếng màn chập cơ - có thể nói giống RP tới 90% - Bạn mong chờ R8 có một tiếng màn chập mạnh mẽ hơn  -> Bạn sẽ thất vọng!
 
 
 #### 2\. Nhược điểm cần lưu ý:

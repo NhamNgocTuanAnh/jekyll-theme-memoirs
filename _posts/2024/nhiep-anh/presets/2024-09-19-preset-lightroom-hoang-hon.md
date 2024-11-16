@@ -51,7 +51,6 @@ Preset Hoàng Hồ Tây là một bộ lọc màu được thiết kế đặc b
 
 Với preset Hoàng Hồ Tây, bạn sẽ dễ dàng tạo ra những bức ảnh đẹp, ấn tượng về các cô gái bên hồ Tây. Hãy thử và chia sẻ những tác phẩm của bạn nhé!
 
-
 <style>
 table{border-collapse:collapse;border-spacing:0;margin:0 auto;width:700px}table td,table th{border:1px solid #ccc;padding:10px}table th{background-color:#f3f3f3}@media only screen and (max-width:700px){table{margin:0 10px;width:auto}}@media only screen and (max-width:480px){table td,table th{display:block;border-bottom:none}table tr:last-child td{border-bottom:1px solid #ccc}}
 #resultIm{display:none;}
