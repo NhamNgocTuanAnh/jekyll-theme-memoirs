@@ -65,7 +65,8 @@ Giống hệt RP, có lẽ là cụm từ miêu tả gần đúng nhất khi c�
 - Tiếng màn chập cơ - có thể nói giống RP tới 90% - Bạn mong chờ R8 có một tiếng màn chập mạnh mẽ hơn  -> Bạn sẽ thất vọng!
 
 <div class="content" style="text-align:center; ">
-<a href="https://i.imgur.com/LEaf7t5"><img loading="lazy" src="https://scontent.fhan5-10.fna.fbcdn.net/v/t39.30808-6/339827171_1188693055136141_5077662104770825798_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFiBwGxqX82-uM1vz718s-1CCXoZ5-FeycIJehnn4V7J1nB0vr91-0a5VrayzM6uu_D-BDZONVjuCzGvqRUsvjl&_nc_ohc=2F4MGp_fNqEQ7kNvgGacy3d&_nc_zt=23&_nc_ht=scontent.fhan5-10.fna&_nc_gid=A_BCM_LN_IEq0m7i_fEW3eq&oh=00_AYCZJtVOyvT8th5kZgk8Qc-TRWIVGfuVnmoMgjXoKu1E4Q&oe=673E340E" title="source: imgur.com" alt="DXO chấm sensor của Canon R8 và so sánh với Sony A7C, Nikon Z6II"></a></div>
+<img loading="lazy" src="https://scontent.fhan5-10.fna.fbcdn.net/v/t39.30808-6/339827171_1188693055136141_5077662104770825798_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFiBwGxqX82-uM1vz718s-1CCXoZ5-FeycIJehnn4V7J1nB0vr91-0a5VrayzM6uu_D-BDZONVjuCzGvqRUsvjl&_nc_ohc=2F4MGp_fNqEQ7kNvgGacy3d&_nc_zt=23&_nc_ht=scontent.fhan5-10.fna&_nc_gid=A_BCM_LN_IEq0m7i_fEW3eq&oh=00_AYCZJtVOyvT8th5kZgk8Qc-TRWIVGfuVnmoMgjXoKu1E4Q&oe=673E340E" title="source: imgur.com" alt="DXO chấm sensor của Canon R8 và so sánh với Sony A7C, Nikon Z6II"><br><p>DXO chấm sensor của Canon R8 và so sánh với Sony A7C, Nikon Z6II
+</p></div>
 
 #### 2\. Nhược điểm cần lưu ý:
 
