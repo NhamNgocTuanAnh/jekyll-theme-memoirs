@@ -30,8 +30,6 @@ permalink: nhiep-anh/reviews/danh-gia-canon-r8-hoang-tu-like
 
 > Canon R8, mẫu máy ảnh mirrorless full-frame mới nhất của Canon, đã nhanh chóng thu hút sự chú ý của cộng đồng nhiếp ảnh. Với mức giá hấp dẫn và nhiều tính năng cải tiến, R8 được kỳ vọng sẽ là đối thủ cạnh tranh đáng gờm với các mẫu máy ảnh cùng phân khúc. Tuy nhiên, liệu R8 có thực sự đáp ứng được kỳ vọng của người dùng? Bài viết này sẽ đi sâu phân tích các ưu và nhược điểm của Canon R8 để giúp bạn đưa ra quyết định mua hàng chính xác nhất.
 
-> Về pin thì cuối tuần vừa rồi mình mới chụp kỷ yếu từ sáng đến tối, hơn 1.5k shot, phải dùng đến 4 quả pin đầy nha các bác.
-
 📷 Yêu cầu: GỌN NHẸ vì lưng đau, gối mỏi, tay tê, mang nhiều máy cả để chụp lẫn quay khá bất tiện 😂. Cần máy có e-viewfinder, đa dụng cho cả chụp và quay.
 📷 Sử dụng: Mình chụp nhiều hơn quay, chủ yếu là du lịch, chân dung, công việc văn phòng thỉnh thoảng có chụp chân dung, hoạt động, hội thảo, sự kiện, nhưng không phải thợ chuyên nghiệp. Thỉnh thoảng quay phóng sự ngắn.
 
@@ -102,6 +100,8 @@ Nhiều người dùng đã so sánh R8 với người tiền nhiệm Canon R v�
 **Tổng kết:**
 
 Canon R8 là một chiếc máy ảnh đầy tiềm năng, phù hợp với những người đam mê nhiếp ảnh muốn trải nghiệm công nghệ mới với mức giá hợp lý. Tuy nhiên, trước khi quyết định mua, bạn nên cân nhắc kỹ các ưu và nhược điểm của sản phẩm này để đưa ra lựa chọn phù hợp nhất.
+
+> Về pin thì cuối tuần vừa rồi mình mới chụp kỷ yếu từ sáng đến tối, hơn 1.5k shot, phải dùng đến 4 quả pin đầy nha các bác.
 
 **Lời khuyên vui:**
 
