@@ -32,14 +32,32 @@ permalink: nhiep-anh/reviews/danh-gia-canon-r8-hoang-tu-like
 
 Về pin thì chủ nhật vừa rồi e mới chụp kỷ yếu sáng đến tối, 1.5k shot, cần 4 quả pin đầy nha các bác
 
+📷 Yêu cầu: GỌN NHẸ vì đau lưng mỏi gối tê tay, nhiều máy cả để chụp và quay mang đi bất tiện 😂 có e-viewfinder, đa dụng cả chụp và quay
+📷 Sử dụng: chụp nhiều hơn quay, chủ yếu là du lịch, chân dung, công việc văn phòng thỉnh thoảng có chụp chân dung, hoạt động, hội thảo, sự kiện nhưng không phải thợ + quay phóng sự ngắn.
+
 #### 1\. Ưu điểm nổi bật:
 
 <div class="content" style="text-align:center; ">
 <a href="https://i.imgur.com/LEaf7t5"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczNWvHqq3t17Hcv-1aEKBTj0FHbfEP9ZnyLccIzzuSmDuyW3-FHJrj5c28dlaBtS8BosxD_5lVtD_Yb-4aCFiIlskSax-F7THeOu9MDAaTCaQd1_UVydCSL27HBVE9fch1TV2x_2nrjhORO50er_38opCw=w611-h917-s-no-gm?authuser=1" title="source: imgur.com" alt="ảnh được chụp từ Canon r8"></a></div>
 
-*   **Hiệu năng vượt trội:** Với cảm biến và bộ xử lý " thừa hưởng" từ người anh em R6 Mark II, R8 mang đến chất lượng hình ảnh tuyệt vời, khả năng lấy nét nhanh và chính xác, đặc biệt là khi chụp các đối tượng chuyển động nhanh như máy bay.
-Về công nghệ thì đây là lý do mà nhiều ae sẽ chọn, về chụp thì cá nhân mình ko để ý lắm nhưng thấy chụp cũng nhanh hơn canon r, file 24m nên nhẹ hơn, hậu kỳ sẽ nhanh hơn, màu sắc cũng kiểu đẹp hơn. Mình thì chuyển qua con này vì nó quay phim 4k60 farme mà quan trọng là không crop. qua vài lần quay thì thấy chất lượng tốt, màu sắc file Clog 3 lên cũng đẹp, file quay 4k thì có hai chế độ file nặng và nhẹ, thẻ nhớ thì không cần thẻ quá cao cũng quay ok rồi.
-Thời lượng pin là điều mà nhiều ae quan tâm nhất, mình cũng phải chuẩn bị đến 4 quả (1 quả zin và 3 quả for). nếu chụp thì mình thấy 1 quả for chụp cho 1 buổi khoảng 400 đến 500 file sự kiện hoặc cưới vẫn chưa hết, còn quay phim thì nhanh hơn nên như mình sẽ cần nhiều.
+*   **Hiệu năng vượt trội:** Thừa hưởng cảm biến và bộ xử lý từ R6 Mark II, mang đến chất lượng hình ảnh tuyệt vời.
+
+"Canon R8, thừa hưởng cảm biến và bộ xử lý từ người anh em R6 Mark II, mang đến chất lượng hình ảnh ấn tượng với khả năng lấy nét tự động nhanh chóng và chính xác, đặc biệt hữu ích khi chụp các đối tượng chuyển động. Nhiều người dùng đánh giá cao khả năng xử lý ảnh ở độ nhạy sáng cao của R8, cho ra những bức ảnh chi tiết và ít nhiễu hạt.
+
+Một trong những điểm mạnh khác của R8 là khả năng quay video 4K 60fps không cắt xén. Chất lượng video được đánh giá cao, với dải dynamic range rộng và màu sắc chân thực. Nhiều người dùng đã thử nghiệm quay video C-log 3 và rất hài lòng với kết quả thu được.
+
+Tuy nhiên, tuổi thọ pin của R8 vẫn là một hạn chế đáng kể. Để đáp ứng nhu cầu quay video liên tục hoặc chụp một sự kiện kéo dài, người dùng thường phải chuẩn bị nhiều pin dự phòng.
+
+**So sánh với Canon R:**
+
+Nhiều người dùng đã so sánh R8 với người tiền nhiệm Canon R và nhận thấy sự cải thiện đáng kể về chất lượng hình ảnh, tốc độ lấy nét và khả năng quay video. R8 cho ra file ảnh có dải dynamic range rộng hơn, màu sắc tự nhiên hơn và chi tiết tốt hơn. Đặc biệt, khả năng quay video 4K 60fps không cắt xén là một điểm cộng lớn so với Canon R.
+
+**Ý kiến từ cộng đồng:**
+
+*   **DPReview:** Nhiều người dùng trên DPReview đánh giá cao khả năng lấy nét tự động và chất lượng hình ảnh của R8, tuy nhiên họ cũng bày tỏ sự lo ngại về tuổi thọ pin.
+*   **Reddit (r/canon):** Cộng đồng này đánh giá cao khả năng quay video của R8 và cho rằng đây là một lựa chọn tốt cho những người muốn có một chiếc máy ảnh vừa chụp ảnh vừa quay video chất lượng cao.
+
+
 *   **Giá cả phải chăng:** So với các đối thủ cùng phân khúc, R8 được đánh giá là có mức giá khá hấp dẫn, phù hợp với cả những người mới bắt đầu và những nhiếp ảnh gia muốn nâng cấp thiết bị.
 *   **Thiết kế nhỏ gọn, tiện dụng:** R8 sở hữu thiết kế nhỏ gọn, nhẹ nhàng, giúp người dùng dễ dàng cầm nắm và di chuyển. thiết kế nhỏ gọn, tối ưu hơn (cảm giác cầm nắm nhẹ, nhỏ nên hơi hụt hẫng so với canon R)
 
@@ -51,7 +69,11 @@ Thời lượng pin là điều mà nhiều ae quan tâm nhất, mình cũng ph�
 *   **Một khe cắm thẻ nhớ:** Việc chỉ có một khe cắm thẻ nhớ tiềm ẩn rủi ro mất dữ liệu nếu chẳng may xảy ra sự cố.
 *   **Vấn đề quá nhiệt:** Khi sử dụng trong điều kiện nhiệt độ cao hoặc chụp liên tục trong thời gian dài, máy có thể bị quá nhiệt, ảnh hưởng đến hiệu năng. Quay 4k60p đôi khi nhiệt độ lên cao nên ae không nên quay dài, mình thì chưa bị quá nhiệt nhưng mình nghĩ còn do thời tiết nữa.
 *   **Lens tương thích:** Mặc dù có nhiều lens RF chất lượng cao, nhưng giá thành của chúng khá đắt đỏ. Việc sử dụng lens qua ngàm cũng có thể gây ra một số vấn đề về tương thích.
-*   **Thiết kế:** Thân vỏ nhỏ, cảm giác cầm nắm cứ sột soạt, như đồ chơi (so với canon R cầm êm, chắc tay hơn nhiều)
+*   **Thiết kế:** Thân vỏ nhỏ, cảm giác cầm nắm cứ sột soạt, như đồ chơi (so với canon R cầm êm, chắc tay hơn nhiều).Ko có joystic
+
+ Con R8 ngu cái vụ cắm HDMI là cái màn hình chính bị đen thui. Thế nên vừa mua chưa kịp dùng là bán quách cho nó rồi. R8 ngu nhất vụ HDMI chứ k là hốt trọn mấy e R8 rồi. Cắm HDMI ra monitor là k rec dc trên máy nữa. Moẹ chứ
+
+
 
 > R8 ngon, mỗi tội phần cao su trên eyecup rất dễ xước nham nhở khá xấu mà phần đó lại ko dán skin được. Để thay phần cao su đó phải tháo 2 con ốc ở dưới mà ốc đó có vẻ như hãng bắn rất chặt gần như chết ốc ko thể tháo nổi....
 
@@ -79,7 +101,12 @@ Canon R8 là một chiếc máy ảnh đầy tiềm năng, phù hợp với nh�
 
 Nếu bạn là người thường xuyên di chuyển và không muốn quá lo lắng về vấn đề pin, hãy chuẩn bị sẵn một chiếc sạc dự phòng nhỏ gọn. Còn nếu bạn là người thích chụp ảnh phong cảnh hoặc chân dung, R8 vẫn là một lựa chọn tuyệt vời.
 Về vấn đề của pin for, nếu có fix thì các hãng làm pin for phải tự tìm cách xử lý chứ chắc chắn Canon sẽ KHÔNG BAO GIỜ xử lý vấn đề này. Không những thế, sau khi các hãng pin for fix lỗi thì có khi Canon còn ra bản firmware mới để pin for lại lỗi ấy chứ.
-Ngu gì mà fix lỗi để toàn dân chê hàng của mình, mua hàng for cho giảm doanh số.
+Ngu gì mà fix lỗi để toàn dân chê hàng của mình, mua hàng for cho giảm doanh số.Những ng hay cmt chê thì 99% là nghe ng ta nói, mà ng ta đó cũng nghe ng ta khác nói 😆
+Chứ có mua xài đâu mà biết nó ngon hay ko.
+Hay mấy ng chỉ cầm trải nghiệm thử mà chưa đi sâu test hết tính năng e nó.
+Tối ngày cứ lăm lăm chê cục pin hẻo. Đã đi làm dịch vụ chuyên nghiệp rồi thì trong ng lúc nào cũng thủ sẵn cục pin, thao tác thay pin có 5s cuộc đời thôi ah mấy bác.
+Đi hết buổi tiệc 2 cục còn dư. Tính ra pin đâu có gọi là hẻo.
+Còn mấy bác muốn an toàn các thứ thì bỏ thêm 10tr nữa mua R6, còn mình thì 10tr đó đập vô lens cho ngon.
 
 **Lưu ý:** Đây chỉ là một đánh giá tổng quan dựa trên thông tin từ các diễn đàn. Để có quyết định chính xác nhất, bạn nên tham khảo thêm ý kiến từ những người đã từng sử dụng R8 hoặc xem các bài đánh giá chuyên sâu hơn.
 
