@@ -30,10 +30,10 @@ permalink: nhiep-anh/reviews/danh-gia-canon-r8-hoang-tu-like
 
 > Canon R8, mẫu máy ảnh mirrorless full-frame mới nhất của Canon, đã nhanh chóng thu hút sự chú ý của cộng đồng nhiếp ảnh. Với mức giá hấp dẫn và nhiều tính năng cải tiến, R8 được kỳ vọng sẽ là đối thủ cạnh tranh đáng gờm với các mẫu máy ảnh cùng phân khúc. Tuy nhiên, liệu R8 có thực sự đáp ứng được kỳ vọng của người dùng? Bài viết này sẽ đi sâu phân tích các ưu và nhược điểm của Canon R8 để giúp bạn đưa ra quyết định mua hàng chính xác nhất.
 
-Về pin thì chủ nhật vừa rồi e mới chụp kỷ yếu sáng đến tối, 1.5k shot, cần 4 quả pin đầy nha các bác
+> Về pin thì cuối tuần vừa rồi mình mới chụp kỷ yếu từ sáng đến tối, hơn 1.5k shot, phải dùng đến 4 quả pin đầy nha các bác.
 
-📷 Yêu cầu: GỌN NHẸ vì đau lưng mỏi gối tê tay, nhiều máy cả để chụp và quay mang đi bất tiện 😂 có e-viewfinder, đa dụng cả chụp và quay
-📷 Sử dụng: chụp nhiều hơn quay, chủ yếu là du lịch, chân dung, công việc văn phòng thỉnh thoảng có chụp chân dung, hoạt động, hội thảo, sự kiện nhưng không phải thợ + quay phóng sự ngắn.
+📷 Yêu cầu: GỌN NHẸ vì lưng đau, gối mỏi, tay tê, mang nhiều máy cả để chụp lẫn quay khá bất tiện 😂. Cần máy có e-viewfinder, đa dụng cho cả chụp và quay.
+📷 Sử dụng: Mình chụp nhiều hơn quay, chủ yếu là du lịch, chân dung, công việc văn phòng thỉnh thoảng có chụp chân dung, hoạt động, hội thảo, sự kiện, nhưng không phải thợ chuyên nghiệp. Thỉnh thoảng quay phóng sự ngắn.
 
 #### 1\. Ưu điểm nổi bật:
 
@@ -105,14 +105,7 @@ Canon R8 là một chiếc máy ảnh đầy tiềm năng, phù hợp với nh�
 
 **Lời khuyên vui:**
 
-Nếu bạn là người thường xuyên di chuyển và không muốn quá lo lắng về vấn đề pin, hãy chuẩn bị sẵn một chiếc sạc dự phòng nhỏ gọn. Còn nếu bạn là người thích chụp ảnh phong cảnh hoặc chân dung, R8 vẫn là một lựa chọn tuyệt vời.
-Về vấn đề của pin for, nếu có fix thì các hãng làm pin for phải tự tìm cách xử lý chứ chắc chắn Canon sẽ KHÔNG BAO GIỜ xử lý vấn đề này. Không những thế, sau khi các hãng pin for fix lỗi thì có khi Canon còn ra bản firmware mới để pin for lại lỗi ấy chứ.
-Ngu gì mà fix lỗi để toàn dân chê hàng của mình, mua hàng for cho giảm doanh số.Những ng hay cmt chê thì 99% là nghe ng ta nói, mà ng ta đó cũng nghe ng ta khác nói 😆
-Chứ có mua xài đâu mà biết nó ngon hay ko.
-Hay mấy ng chỉ cầm trải nghiệm thử mà chưa đi sâu test hết tính năng e nó.
-Tối ngày cứ lăm lăm chê cục pin hẻo. Đã đi làm dịch vụ chuyên nghiệp rồi thì trong ng lúc nào cũng thủ sẵn cục pin, thao tác thay pin có 5s cuộc đời thôi ah mấy bác.
-Đi hết buổi tiệc 2 cục còn dư. Tính ra pin đâu có gọi là hẻo.
-Còn mấy bác muốn an toàn các thứ thì bỏ thêm 10tr nữa mua R6, còn mình thì 10tr đó đập vô lens cho ngon.
+Theo kinh nghiệm cá nhân, việc mang theo một vài viên pin dự phòng là điều cần thiết khi sử dụng R8. Mặc dù pin giả có thể gây ra một số bất tiện, nhưng nó vẫn là một giải pháp tạm thời. Nếu bạn không muốn quá phụ thuộc vào pin, tôi khuyên bạn nên cân nhắc đầu tư vào một chiếc grip để tăng dung lượng pin. Còn nếu bạn ưu tiên sự ổn định và không muốn gặp rắc rối với pin, R6 có thể là lựa chọn tốt hơn.
 
 **Lưu ý:** Đây chỉ là một đánh giá tổng quan dựa trên thông tin từ các diễn đàn. Để có quyết định chính xác nhất, bạn nên tham khảo thêm ý kiến từ những người đã từng sử dụng R8 hoặc xem các bài đánh giá chuyên sâu hơn.
 
