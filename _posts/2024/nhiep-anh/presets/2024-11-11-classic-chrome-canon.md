@@ -5,7 +5,7 @@ author: sal
 lazyimages: "enabled"
 categories: [ Nhiếp ảnh 📸 ]
 tags: [preset, lightroomPictureStyle]
-image: assets/images/2023/reviews/hoang-hon-avt.webp
+image: assets/images/2023/nhiep-anh/avt/pictuestyle-avt-classic-chrome.webp
 isGithubComments: false
 permalink: nhiep-anh/preset/picture-style-fujifilm-classic-chrome-gia-lap-mau-phim-tren-canon
 excerpt: Bạn đã từng bị mê hoặc bởi những bức ảnh mang màu sắc film cổ điển, trầm lắng và sâu lắng của máy ảnh Fujifilm? Giờ đây, bạn muốn tái tạo vẻ đẹp ấy trên chiếc Canon thân yêu của mình? Hãy cùng khám phá cách tạo ra những bức ảnh mang phong cách "Fuji-fied" ngay trên máy ảnh Canon thông qua việc tùy chỉnh Picture Style.
