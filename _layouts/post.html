@@ -122,19 +122,10 @@ function  handleClickReadMoreBtn(){
     contentOverlay.style.overflow = "visible";
     contentOverlay.style.position = "static";
     contentOverlay.style.maxHeight = "none";
-    // const contentContainer = document.querySelector(".content-container");
 
     document.querySelector('.content-container').appendChild(document.querySelector('.content-overlay').firstElementChild);
-
-
     // Hide the "Read More" button
     readMoreBtn.style.display = "none";
-
-      // Xóa tất cả các inline style
-      // contentContainer.style.cssText = '';
-
-      // Xóa tất cả các inline style
-      // contentOverlay.style.cssText = '';
     clicked();
   };
 
