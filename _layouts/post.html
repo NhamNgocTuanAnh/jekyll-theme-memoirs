@@ -106,7 +106,9 @@ comments: true
 <script>
     function clicked() {
     var xhr = new XMLHttpRequest();
-    xhr.open("GET", "https://api.countapi.xyz/hit/anhhangxom.xyz/awesomeclick");
+    const pathname = window.location.pathname;
+    const apiUrl = "https://api.countapi.xyz/hit/anhhangxom.xyz" + pathname;
+    xhr.open("GET",  apiUrl);
     xhr.responseType = "json";
     xhr.onload = function() {
         alert(`This button has been clicked ${this.response.value} times!`);
