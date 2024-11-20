@@ -3,7 +3,7 @@ layout: post
 title: 'Canon EF-M 22mm F2. Ông <strong>Kẹ</strong> bị lãng quên!!'
 author: sal
 categories: [ Reviews 📝 ]
-tags: [ nhiếp ảnh ]
+tags: [ nhiếp ảnh, ống kính ]
 image: assets/images/2024/reviews/canon-22mm-avt.webp
 rating: 5
 lazyimages: "enabled"
