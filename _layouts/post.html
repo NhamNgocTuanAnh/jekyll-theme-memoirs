@@ -105,7 +105,7 @@ comments: true
     function clicked() {
       const namespace = 'anhhangxom.xyz'; // Namespace của bạn
     const key = window.location.pathname; // Key cho lượt truy cập
-    console.log('Pageview count increased:', namespace);
+    console.log(`https://api.countapi.xyz/hit/${namespace}/${key}`);
     // Tăng số lượt truy cập khi tải trang
     fetch(`https://api.countapi.xyz/hit/${namespace}/${key}`)
       .then(response => response.json())
