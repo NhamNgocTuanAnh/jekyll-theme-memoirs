@@ -42,9 +42,6 @@ comments: true
 <!-- Content -->
 {% include toc.html content=page.content skip_toc=page.skip_toc%}
 
-<style>
-.content-container,.content-overlay{overflow:hidden;position:relative}.content-overlay{color:#333;line-height:1.6;max-height:350px}.content-overlay::after{content:"";position:absolute;bottom:0;left:0;width:100%;height:40px;background:linear-gradient(to bottom,rgba(255,255,255,0),#fff);pointer-events:none}.read-more-btn{position:absolute;bottom:10px;right:10px;padding:10px 20px;background-color:#007bff;color:#fff;border:none;border-radius:5px;cursor:pointer;transition:background-color .3s;z-index:1}.read-more-btn:hover{background-color:#0056b3}#read-more-btn{pointer-events:auto}
-</style>
 <br>
 <div class="content-container">
   <div class="content-overlay">
@@ -56,13 +53,6 @@ comments: true
 </div>
 <div id="the-than"></div>
 <br>
-
-<script>
-  function clicked(){
-    updateButtonCount('10jupok9mWoea87H2kMhvbt1PkunIimwaEErxPkeEf0U', 'Sheet1!A1:A'); // Ghi vào cột A
-  }
-function removeDivs(e){let t=document.querySelectorAll(str(e));t.forEach(e=>{e.remove()})}function handleClickReadMoreBtn(){let e=document.getElementById("read-more-btn-hell"),t=document.querySelector(".content-overlay");t.style.maxHeight="none",t.style.overflow="visible",t.style.position="static",t.style.maxHeight="none",e.style.display="none";var n=document.querySelector(".content-overlay");document.getElementById("the-than").innerHTML=n.innerHTML;let l=document.querySelectorAll("div.content-container");l.forEach(e=>{e.remove()}),clicked()}
-</script>
 
 {% include share-bar.html %}
 <!-- Quote -->
