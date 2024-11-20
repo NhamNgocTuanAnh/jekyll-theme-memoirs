@@ -45,9 +45,6 @@ comments: true
 <style>
  .content-container {
   position: relative;
-  background-color: #fff;
-  border-radius: 10px;
-  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
   overflow: hidden;
 }
 
@@ -125,8 +122,9 @@ function  handleClickReadMoreBtn(){
     contentOverlay.style.overflow = "visible";
     contentOverlay.style.position = "static";
     contentOverlay.style.maxHeight = "none";
-    const contentContainer = document.querySelector(".content-container");
+    // const contentContainer = document.querySelector(".content-container");
 
+    document.querySelector('.content-container').appendChild(document.querySelector('.content-overlay').firstElementChild);
 
 
     // Hide the "Read More" button
