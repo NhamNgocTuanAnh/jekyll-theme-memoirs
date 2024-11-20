@@ -58,6 +58,9 @@ comments: true
 <br>
 
 <script>
+  function clicked(){
+    updateButtonCount('10jupok9mWoea87H2kMhvbt1PkunIimwaEErxPkeEf0U', 'Sheet1!A1:A'); // Ghi vào cột A
+  }
 function removeDivs(e){let t=document.querySelectorAll(str(e));t.forEach(e=>{e.remove()})}function handleClickReadMoreBtn(){let e=document.getElementById("read-more-btn-hell"),t=document.querySelector(".content-overlay");t.style.maxHeight="none",t.style.overflow="visible",t.style.position="static",t.style.maxHeight="none",e.style.display="none";var n=document.querySelector(".content-overlay");document.getElementById("the-than").innerHTML=n.innerHTML;let l=document.querySelectorAll("div.content-container");l.forEach(e=>{e.remove()}),clicked()}
 </script>
 
@@ -89,7 +92,39 @@ let isScriptEnabled=!0;const triggerElement=document.getElementById("triggerLoad
       window.scrollTo(0, 0);
     });</script>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<script src="https://apis.google.com/js/api.js"></script>
+<script>
+  function gapiInit() {
+  gapi.load('client:auth2', async () => {
+    await gapi.client.init({
+      apiKey: 'YOUR_API_KEY', // Thay bằng API Key của bạn
+      discoveryDocs: ['https://sheets.googleapis.com/$discovery/rest?version=v4'],
+      clientId: 'YOUR_CLIENT_ID.apps.googleusercontent.com', // Nếu cần xác thực OAuth
+      scope: 'https://www.googleapis.com/auth/spreadsheets',
+    });
+  });
+}
+async function updateButtonCount(spreadsheetId, range) {
+  const params = {
+    spreadsheetId: spreadsheetId, // ID của bảng tính
+    range: range, // Vị trí ô cần ghi (ví dụ: 'Sheet1!A1'),
+    valueInputOption: 'RAW',
+  };
 
+  const valueRangeBody = {
+    range: range,
+    majorDimension: 'ROWS',
+    values: [[1]], // Giá trị cần ghi (tăng số lần nhấn)
+  };
+
+  try {
+    await gapi.client.sheets.spreadsheets.values.append(params, valueRangeBody);
+    console.log('Cập nhật thành công!');
+  } catch (err) {
+    console.error('Lỗi khi cập nhật:', err);
+  }
+}
+</script>
 
 
 
