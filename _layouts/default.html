@@ -119,85 +119,15 @@ padding: 0.3em;
 <script src="{{ site.baseurl }}/assets/js/main.js"></script>
 <script>
   var sidebar=document.createElement("div");sidebar.className="sidebar";var navIcon=document.createElement("div");navIcon.className="nav-icon";var hamburgerBar=document.createElement("div");hamburgerBar.className="hamburger-bar",navIcon.appendChild(hamburgerBar);var blackoverNav=document.createElement("div");blackoverNav.id="blackover-nav",blackoverNav.className="blackover";var menu=document.createElement("nav");menu.id="menu";var ul=document.createElement("ul"),h3=document.createElement("h3");h3.textContent="Mục lục";for(var menuItems=[{text:"Trang chủ",iconClass:"fa fa-home",link:"{{ site.baseurl }}/"},{text:"T\xecm kiếm",iconClass:"fa fa-search-plus",link:"{{ site.baseurl }}/categories"},{text:"My ảnh",iconClass:"fa fa-camera-retro",link:"https://www.instagram.com/anhhangxom.daily/"},{text:"Viết b\xe0i",iconClass:"fa fa-bullhorn",link:"{{ site.baseurl }}/them-bai-viet"},{text:"About me",iconClass:"fa fa-address-book",link:"{{ site.baseurl }}/about-me"}],i=0;i<menuItems.length;i++){var e=document.createElement("li"),a=document.createElement("a"),r=document.createElement("i");r.id="icon-dark",r.className=menuItems[i].iconClass,a.href=menuItems[i].link,a.appendChild(r),a.innerHTML+="<span>|| "+menuItems[i].text+"</span>",e.appendChild(a),ul.appendChild(e)}menu.appendChild(h3),menu.appendChild(ul);var idsidebarcreater=document.getElementById("sidebarcreater");idsidebarcreater&&(idsidebarcreater.appendChild(sidebar),idsidebarcreater.appendChild(navIcon),idsidebarcreater.appendChild(blackoverNav),idsidebarcreater.appendChild(menu));const version=Math.floor(1e6*Math.random()),head=document.querySelector("head"),currentUrl=new URL(window.location.href);currentUrl.searchParams.set("v",version);const linkElement=document.createElement("link");linkElement.rel="stylesheet",linkElement.type="text/css",linkElement.href=currentUrl.toString(),head.appendChild(linkElement);
-  $(window).on("scroll", function() {
-    const scrollToTop = $("#scrollToTop");
-    if (window.scrollY > window.outerHeight) {
-      scrollToTop.addClass("active");
-      document.getElementById("next-post-active").onclick = function() {
-        window.location.replace(g || "{{ site.baseurl }}");
-      };
-      scrollToTop.css("display", "block");
-      if (!shouldHideDivOnSmallScreens() && !isRelative() && isMobileDevice()) {
-        document.querySelector(".topnav").style.display = "block";
-      } else {
-        document.querySelector(".topnav").style.display = "none";
-      }
-    } else {
-      scrollToTop.removeClass("active");
-      scrollToTop.css("display", "none");
-      document.querySelector(".topnav").style.display = "none";
-    }
-    $.each($("img"), function() {
-      if ($(this).attr("data-src") && $(this).offset().top < $(window).scrollTop() + $(window).height() + 100) {
-        const src = $(this).data("src");
-        $(this).attr("src", src).removeAttr("data-src");
-      }
-    });
-  });
-
-  $("#scrollToTopButton").on("click", function() {
-    $("html, body").animate({ scrollTop: 0 }, 500);
-  });  $(document).ready(function() {
-    $("img[loading='lazy']").each(function() {
-      if (!$(this).hasClass("img-thumb") && !$(this).hasClass("author-thumb")) {
-        const parentLink = $(this).parent("a");
-        if (parentLink.length && !parentLink.attr("data-fancybox")) {
-          $(this).wrap(`<a href="${$(this).attr("src")}" data-fancybox="gallery" data-caption="source: imgur.com"></a>`);
-        }
-      }
-    });
-    $("a[data-fancybox='gallery']").fancybox({});
-  });
+  window.addEventListener("scroll",function(){let t=document.getElementById("scrollToTop");if(t){if(window.scrollY>window.outerHeight){t.classList.add("active");let e=document.getElementById("next-post-active");e&&(e.onclick=function(){window.location.replace(g||"{{ site.baseurl }}")}),t.style.display="block";let l=document.querySelector(".topnav");l&&(!shouldHideDivOnSmallScreens()&&!isRelative()&&isMobileDevice()?l.style.display="block":l.style.display="none")}else{t.classList.remove("active"),t.style.display="none";let o=document.querySelector(".topnav");o&&(o.style.display="none")}}let a=document.querySelectorAll("img[data-src]");a.forEach(function(t){if(t.getBoundingClientRect().top<window.innerHeight+window.scrollY+100){let e=t.getAttribute("data-src");t.setAttribute("src",e),t.removeAttribute("data-src")}})}),document.getElementById("scrollToTopButton").addEventListener("click",function(){window.scrollTo({top:0,left:0,behavior:"smooth"})}),document.addEventListener("DOMContentLoaded",function(){let t=document.querySelectorAll("img[loading='lazy']");t.forEach(function(t){if(!t.classList.contains("img-thumb")&&!t.classList.contains("author-thumb")){let e=t.closest("a");if(e&&!e.hasAttribute("data-fancybox")){let l=t.getAttribute("src"),o=document.createElement("a");o.setAttribute("href",l),o.setAttribute("data-fancybox","gallery"),o.setAttribute("data-caption","source: imgur.com"),t.parentNode.insertBefore(o,t),o.appendChild(t)}}});let e=document.querySelectorAll("a[data-fancybox='gallery']");e.forEach(function(t){$(t).fancybox()})});
 </script>
 
 <div id="mid-autumn-message">
 <a class="codepro-trungthu-right" href="https://www.code.pro.vn/2021/09/trang-tri-don-trung-thu-cho-blog-website-bang-hinh-anh-canh-hoa-mat-trang-long-den-va-ruoc-den.html"><img alt="Trang trí đón trung thu cho blog/website bằng hình ảnh cành hoa, mặt trăng, lồng đèn và rước đèn" src="{{site.baseurl}}/assets/images/trung-thu/mat-trang-long-den-trung-thu.webp"/></a>
-<a class="codepro-trungthu-bottom" href="https://www.code.pro.vn/2021/09/trang-tri-don-trung-thu-cho-blog-website-bang-hinh-anh-canh-hoa-mat-trang-long-den-va-ruoc-den.html"><img alt="Trang trí đón trung thu cho blog/website bằng hình ảnh cành hoa, mặt trăng, lồng đèn và rước đèn" src="{{site.baseurl}}/assets/images/trung-thu/ruoc-den-trung-thu.webp"/></a></div><style>.codepro-trungthu-left, .codepro-trungthu-right, .codepro-trungthu-bottom { opacity: 1; /* Hiển thị bình thường */ transition: opacity 0.3s ease-in-out; /* Hiệu ứng chuyển đổi mượt mà */
-} .codepro-trungthu-left:hover, .codepro-trungthu-right:hover, .codepro-trungthu-bottom:hover { opacity: 0; z-index:1/* Ẩn khi hover */
-}    #mid-autumn-message {
-      display: none;
-      padding: 20px;
-      background-color: #ffcc33;
-      color: #fff;
-      text-align: center;
-      font-size: 1.5rem;
-      font-weight: bold;
-      border-radius: 10px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    }
-.codepro-trungthu-left{position:fixed;top:0;left:0;width:166px;z-index:9999}
-.codepro-trungthu-right{position:fixed;top:0;right:0;width:166px;z-index:9999}
-.codepro-trungthu-bottom{position:fixed;bottom:-8px;left:0;width:333px;z-index:9999}
-@media(max-width:1024px){.codepro-trungthu-left,.codepro-trungthu-right,.codepro-trungthu-bottom{display:none!important}}
+<a class="codepro-trungthu-bottom" href="https://www.code.pro.vn/2021/09/trang-tri-don-trung-thu-cho-blog-website-bang-hinh-anh-canh-hoa-mat-trang-long-den-va-ruoc-den.html"><img alt="Trang trí đón trung thu cho blog/website bằng hình ảnh cành hoa, mặt trăng, lồng đèn và rước đèn" src="{{site.baseurl}}/assets/images/trung-thu/ruoc-den-trung-thu.webp"/></a></div><style>.codepro-trungthu-bottom,.codepro-trungthu-left,.codepro-trungthu-right{opacity:1;transition:opacity .3s ease-in-out}.codepro-trungthu-bottom:hover,.codepro-trungthu-left:hover,.codepro-trungthu-right:hover{opacity:0;z-index:1}#mid-autumn-message{display:none;padding:20px;background-color:#fc3;color:#fff;text-align:center;font-size:1.5rem;font-weight:700;border-radius:10px;box-shadow:0 4px 8px rgba(0,0,0,.2)}.codepro-trungthu-left{position:fixed;top:0;left:0;width:166px;z-index:9999}.codepro-trungthu-right{position:fixed;top:0;right:0;width:166px;z-index:9999}.codepro-trungthu-bottom{position:fixed;bottom:-8px;left:0;width:333px;z-index:9999}@media(max-width:1024px){.codepro-trungthu-bottom,.codepro-trungthu-left,.codepro-trungthu-right{display:none!important}}
 </style>
 <script>
-  document.addEventListener("DOMContentLoaded", () => {
-  const midAutumnDate = new Date(2024, 8, 17); // Rằm tháng 8 Âm lịch 2024 (17/09/2024)
-  const startDate = new Date(midAutumnDate);
-  const endDate = new Date(midAutumnDate);
-
-  // Tính khoảng thời gian (1 tuần)
-  startDate.setDate(midAutumnDate.getDate() - 3);
-  endDate.setDate(midAutumnDate.getDate() + 3);
-
-  const today = new Date();
-  const messageElement = document.getElementById("mid-autumn-message");
-
-  // Kiểm tra nếu hôm nay nằm trong khoảng thời gian Trung Thu
-  if (today >= startDate && today <= endDate) {
-    messageElement.style.display = "block";
-  }
-});
+document.addEventListener("DOMContentLoaded",()=>{let e=new Date(2024,8,17),t=new Date(e),n=new Date(e);t.setDate(e.getDate()-3),n.setDate(e.getDate()+3);let a=new Date,d=document.getElementById("mid-autumn-message");a>=t&&a<=n&&(d.style.display="block")});
 $.getJSON("https://api.countapi.xyz/hit/anhhangxom.xyz/visits", function(response) {
     $("#visits").text(response.value);
 });
