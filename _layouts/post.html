@@ -106,21 +106,16 @@ let isScriptEnabled=!0;const triggerElement=document.getElementById("triggerLoad
   });
 }
 async function updateButtonCount(spreadsheetId, range) {
-  const params = {
-    spreadsheetId: spreadsheetId, // ID của bảng tính
-    range: range, // Vị trí ô cần ghi (ví dụ: 'Sheet1!A1'),
-    valueInputOption: 'RAW',
-  };
-
-  const valueRangeBody = {
-    range: range,
-    majorDimension: 'ROWS',
-    values: [[1]], // Giá trị cần ghi (tăng số lần nhấn)
-  };
-
   try {
-    await gapi.client.sheets.spreadsheets.values.append(params, valueRangeBody);
-    console.log('Cập nhật thành công!');
+    const response = await gapi.client.sheets.spreadsheets.values.append({
+      spreadsheetId: spreadsheetId, // ID bảng tính
+      range: range, // Vị trí, ví dụ 'Sheet1!A1:A',
+      valueInputOption: 'RAW',
+      resource: {
+        values: [[1]], // Giá trị cần thêm
+      },
+    });
+    console.log('Dữ liệu đã được cập nhật:', response.result);
   } catch (err) {
     console.error('Lỗi khi cập nhật:', err);
   }
