@@ -103,15 +103,20 @@ comments: true
 
 <script>
     function clicked() {
-    var xhr = new XMLHttpRequest();
-    const pathname = window.location.pathname;
-    const apiUrl = "https://api.countapi.xyz/hit/anhhangxom.xyz" + pathname;
-    xhr.open("GET",  apiUrl);
-    xhr.responseType = "json";
-    xhr.onload = function() {
-        alert(`This button has been clicked ${this.response.value} times!`);
-    }
-    xhr.send();
+      const namespace = 'anhhangxom.xyz'; // Namespace của bạn
+    const key = window.location.pathname; // Key cho lượt truy cập
+    console.log('Pageview count increased:', namespace);
+    // Tăng số lượt truy cập khi tải trang
+    fetch(`https://api.countapi.xyz/hit/${namespace}/${key}`)
+      .then(response => response.json())
+      .then(data => {
+        console.log('Pageview count increased:', data);
+      })
+      .catch(error => {
+        console.error('Error:', error);
+      });
+
+
 }
 function removeDivs(divRemove) {
       // Lấy tất cả các phần tử <div> có class "a"
@@ -160,7 +165,7 @@ divs.forEach(div => {
 {% include disqus.html %}
 
 <div class="rating mt-4 mb-4 d-flex align-items-center">
-  <span id="busuanzi_container_page_pv">Trang web của bạn đã được xem: <span id="busuanzi_value_page_pv"></span> x lần</span>
+  <span id="busuanzi_container_page_pv">Trang web của bạn đã được xem: <span id="busuanzi_value_page_pv"></span> lần</span>
 </div>
 <!-- Author Box if enabled from _config.yml -->
 {% include author-box.html %}
@@ -178,11 +183,24 @@ divs.forEach(div => {
 let isScriptEnabled=!0;const triggerElement=document.getElementById("triggerLoadElfSightScript"),getRandomElement=e=>e[Math.floor(Math.random()*e.length)],isElementInViewport=e=>{if(!e)return!0;e=e.getBoundingClientRect();return e.top<window.innerHeight&&0<=e.bottom},insertDiv=(e,t)=>{var a=document.querySelectorAll("#articlePost section p");if(0!==a.length){const i=a[Math.floor(Math.random()*a.length)],n=document.createElement("div");n.id=t;const c=document.createElement("div");c.id="instaShow2",i.after(n),i.after(c)}else console.error("Không tìm thấy thẻ <p> nào trong section")};insertDiv("main-content-content","triggerLoadElfSightScript");const instaShowDiv=document.getElementById("instaShow2");if(instaShowDiv){if(instaShowDiv.appendChild(document.getElementById("triggerLoadElfSightScript")),isElementInViewport(triggerElement)&&isScriptEnabled){const k=document.querySelector('meta[name="author"][content="minh"]'),l=window.location.href;if(l.includes("localhost")||l.includes("127.0.0.1"))console.log("Đang chạy localhost, không thêm lệnh script.");else{const m=document.createElement("div"),n=k?["elfsight-app-4bab93fa-028b-4ab6-a095-3bdcecb91616","elfsight-app-fae669a8-2109-47be-8003-7767f2c82a5a","elfsight-app-4bab93fa-028b-4ab6-a095-3bdcecb91616","elfsight-app-fae669a8-2109-47be-8003-7767f2c82a5a"]:["elfsight-app-58eefcb9-7b01-4eda-a0ed-b18b31f127fc","elfsight-app-5251747b-b6d4-4dd8-83b2-d4c39ed9caea","elfsight-app-17b7491c-45aa-4619-a175-885d1747ec14","elfsight-app-83c3bf06-1d94-48ba-88c4-e05887ca6f4f","elfsight-app-58eefcb9-7b01-4eda-a0ed-b18b31f127fc","elfsight-app-5251747b-b6d4-4dd8-83b2-d4c39ed9caea","elfsight-app-17b7491c-45aa-4619-a175-885d1747ec14","elfsight-app-83c3bf06-1d94-48ba-88c4-e05887ca6f4f"];m.className=getRandomElement(n),m.setAttribute("data-elfsight-app-lazy",""),m.style.textAlign="center";var parentDiv=document.getElementById("triggerLoadElfSightScript");parentDiv.appendChild(m)}}}else console.error('Không tìm thấy thẻ div có id "instaShow2".');(()=>{const e=document.createElement("script");e.src="https://static.elfsight.com/platform/platform.js",console.log("Tải loadElfSightScript https://static.elfsight.com/platform/platform.js"),e.setAttribute("data-use-service-core",""),e.defer=!0,document.head.appendChild(e)})();
 </script>
 <script>
-  function cb(response) {
-      document.getElementById('visits').innerText = response.value;
-  }
+        const namespace = 'anhhangxom.xyz'; // Namespace của bạn
+        const key = window.location.pathname; // Key cho lượt truy cập
+    // Lấy và hiển thị số lượt truy cập
+    fetch(`https://api.countapi.xyz/get/${namespace}/${key}`)
+      .then(response => response.json())
+      .then(data => {
+        document.getElementById('pageviews').textContent = `Page Views: ${data.value}`;
+      })
+      .catch(error => {
+        console.error('Error countapi:', error);
+      });
+      window.scrollTo({
+  top: 0,
+  left: 0,
+  behavior: 'smooth' // Mượt mà
+});
   </script>
-  <script async src="https://api.countapi.xyz/hit/anhhangxom.xyz/visits?callback=cb"></script>
+
 
 
 
