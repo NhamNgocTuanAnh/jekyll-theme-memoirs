@@ -27,6 +27,7 @@ pinned: true
 
 > _Đây là bài viết được trích dẫn từ_ [_CanonStyle_ ](https://www.canonstyle.com/blog/canassic-chrome-1/) _đã truyền cảm hứng rất lớn cho mình về giả lập màu film cho máy ảnh canon. Mình có 1 người bạn sử dụng Fujiflim XT-4 chiếc máy đã cho mình rất nhiều cảm xúc khi sử dụng._
 
+### **Lời nói đầu**
 
 Là một người đam mê màu phim, mình đã từng trải qua nhiều dòng máy từ 700D, M10, M3 đến RP. Đặc biệt, mình rất thích chụp ảnh RAW rồi áp preset film, nhất là các preset thuộc dòng FJ (viết tắt của You-Know-Who).
 
