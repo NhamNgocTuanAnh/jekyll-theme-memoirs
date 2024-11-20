@@ -102,6 +102,7 @@ let isScriptEnabled=!0;const triggerElement=document.getElementById("triggerLoad
       clientId: 'YOUR_CLIENT_ID.apps.googleusercontent.com', // Nếu cần xác thực OAuth
       scope: 'https://www.googleapis.com/auth/spreadsheets',
     });
+    console.log('Google API đã sẵn sàng!');
   });
 }
 async function updateButtonCount(spreadsheetId, range) {
