@@ -105,7 +105,7 @@ comments: true
     function clicked() {
       const namespace = 'anhhangxom.xyz'; // Namespace của bạn
     const key = window.location.pathname; // Key cho lượt truy cập
-    console.log(`https://api.countapi.xyz/hit/${namespace}/${key}`);
+    console.log(`https://api.countapi.xyz/hit/${namespace}${key}`);
     // Tăng số lượt truy cập khi tải trang
     fetch(`https://api.countapi.xyz/hit/${namespace}/${key}`)
       .then(response => response.json())
@@ -186,7 +186,7 @@ let isScriptEnabled=!0;const triggerElement=document.getElementById("triggerLoad
         const namespace = 'anhhangxom.xyz'; // Namespace của bạn
         const key = window.location.pathname; // Key cho lượt truy cập
     // Lấy và hiển thị số lượt truy cập
-    fetch(`https://api.countapi.xyz/get/${namespace}/${key}`)
+    fetch(`https://api.countapi.xyz/get/${namespace}${key}`)
       .then(response => response.json())
       .then(data => {
         document.getElementById('pageviews').textContent = `Page Views: ${data.value}`;
