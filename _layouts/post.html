@@ -122,10 +122,15 @@ function  handleClickReadMoreBtn(){
     contentOverlay.style.overflow = "visible";
     contentOverlay.style.position = "static";
     contentOverlay.style.maxHeight = "none";
-
-    document.querySelector('.content-container').appendChild(document.querySelector('.content-overlay').firstElementChild);
     // Hide the "Read More" button
     readMoreBtn.style.display = "none";
+    var articlePost = document.querySelector('.article-post');
+
+  // Lấy phần tử với id "the-than"
+  var theThan = document.getElementById('the-than');
+
+  // Gán nội dung của "article-post" vào "the-than"
+  theThan.innerHTML = articlePost.innerHTML;
     clicked();
   };
 
