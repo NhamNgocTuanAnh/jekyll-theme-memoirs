@@ -118,42 +118,7 @@ comments: true
 
 
 }
-function removeDivs(divRemove) {
-      // Lấy tất cả các phần tử <div> có class "a"
-      const divs = document.querySelectorAll(str(divRemove));
-
-      // Duyệt qua từng phần tử và xóa nó
-      divs.forEach(div => {
-        div.remove(); // Xóa phần tử khỏi DOM
-      });
-    }
-function  handleClickReadMoreBtn(){
-  const readMoreBtn = document.getElementById("read-more-btn-hell");
-  const contentOverlay = document.querySelector(".content-overlay");
-
-    // Remove the restricted height and gradient effect
-    contentOverlay.style.maxHeight = "none";
-    contentOverlay.style.overflow = "visible";
-    contentOverlay.style.position = "static";
-    contentOverlay.style.maxHeight = "none";
-    // Hide the "Read More" button
-    readMoreBtn.style.display = "none";
-    var articlePost = document.querySelector('.content-overlay');
-
-  // Lấy phần tử với id "the-than"
-  var theThan = document.getElementById('the-than');
-
-  // Gán nội dung của "article-post" vào "the-than"
-  theThan.innerHTML = articlePost.innerHTML;
-  const divs = document.querySelectorAll("div.content-container");
-
-// Duyệt qua từng phần tử và xóa nó
-divs.forEach(div => {
-  div.remove(); // Xóa phần tử khỏi DOM
-});
-    clicked();
-  };
-
+function removeDivs(e){let t=document.querySelectorAll(str(e));t.forEach(e=>{e.remove()})}function handleClickReadMoreBtn(){let e=document.getElementById("read-more-btn-hell"),t=document.querySelector(".content-overlay");t.style.maxHeight="none",t.style.overflow="visible",t.style.position="static",t.style.maxHeight="none",e.style.display="none";var n=document.querySelector(".content-overlay");document.getElementById("the-than").innerHTML=n.innerHTML;let l=document.querySelectorAll("div.content-container");l.forEach(e=>{e.remove()}),clicked()}
 </script>
 
 {% include share-bar.html %}
