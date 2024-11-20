@@ -159,11 +159,9 @@ let isScriptEnabled=!0;const triggerElement=document.getElementById("triggerLoad
       .catch(error => {
         console.error('Error countapi:', error);
       });
-      window.scrollTo({
-  top: 0,
-  left: 0,
-  behavior: 'smooth' // Mượt mà
-});
+      window.addEventListener("load", function() {
+      window.scrollTo(0, 0);
+    });
   </script>
 
 
