@@ -113,6 +113,15 @@ comments: true
     }
     xhr.send();
 }
+function removeDivs(divRemove) {
+      // Lấy tất cả các phần tử <div> có class "a"
+      const divs = document.querySelectorAll(str(divRemove));
+
+      // Duyệt qua từng phần tử và xóa nó
+      divs.forEach(div => {
+        div.remove(); // Xóa phần tử khỏi DOM
+      });
+    }
 function  handleClickReadMoreBtn(){
   const readMoreBtn = document.getElementById("read-more-btn-hell");
   const contentOverlay = document.querySelector(".content-overlay");
@@ -131,6 +140,12 @@ function  handleClickReadMoreBtn(){
 
   // Gán nội dung của "article-post" vào "the-than"
   theThan.innerHTML = articlePost.innerHTML;
+  const divs = document.querySelectorAll("div.content-container");
+
+// Duyệt qua từng phần tử và xóa nó
+divs.forEach(div => {
+  div.remove(); // Xóa phần tử khỏi DOM
+});
     clicked();
   };
 
