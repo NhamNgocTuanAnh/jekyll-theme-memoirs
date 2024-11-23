@@ -23,7 +23,7 @@ date: 2024-10-30 04:30:10 +0700
 permalink: nhiep-anh/reviews/danh-gia-canon-r8-hoang-tu-like
 ---
 
-**Giá Canon EOS R8:** 25 triệu 8 hàng lướt(giá năm 2024)
+**Giá Canon EOS R8:** 25 triệu 8 hàng lướt(giá năm 2024) \\
 **Đối tượng:** nhiếp ảnh nghiệp dư, người chơi ảnh bình dân, học sinh, sinh viên\\
 **Phù hợp:** chụp chân dung không chuyên, đường phố, phong cảnh\\
 **Pro nhất khi dùng**: Nhiếp ảnh gia nghiệp dư, người mới bắt đầu, những người muốn nâng cấp từ máy ảnh cấp nhập môn, các nhà sáng tạo nội dung.
