@@ -4,7 +4,7 @@ title: '[ Share ] PictureStyle Classic Chrome. Chụp ảnh ăn liên Canon như
 author: sal
 lazyimages: "enabled"
 categories: [ Nhiếp ảnh 📸 ]
-tags: [preset, lightroomPictureStyle]
+tags: [preset,Picture Style]
 image: assets/images/2023/nhiep-anh/avt/pictuestyle-avt-classic-chrome.webp
 isGithubComments: false
 permalink: nhiep-anh/preset/picture-style-fujifilm-classic-chrome-gia-lap-mau-phim-tren-canon
