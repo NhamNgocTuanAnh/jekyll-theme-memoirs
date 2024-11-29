@@ -93,8 +93,12 @@ Cuối ngày, mình đặt chân đến **Đồng Văn**, kết thúc một ngà
 
 **Ngày 3: Đồng Văn – Cột cờ Lũng Cú – TP Hà Giang (hành trình "xóc nảy" có thật)**Buổi sáng, vì trời mưa và dậy muộn, 9h bọn mình mới rời Đồng Văn để leo lên **cột cờ Lũng Cú**. Lên được tới nơi, cảm giác như chinh phục đỉnh thế giới (dù chỉ là địa đầu Tổ quốc). Nhưng hành trình chưa dừng lại!
 
-<div class="content" style="text-align:center; ">
+<div class="content" style="text-align:center; "><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczN_GywT5jC0orzo1OeYNJeEyMCiYhAcy_UJNGkhVg0rLgPjFcFZmCf3DJc2pLb7H77yYYVuv_1EHgKrYEN5KYZ6_g47OLJDhm94I25Wiis1-VgS-yttRK6jJx7I8xyQmyHxJxszu-Bsc6vppQTLowYEJA=w1376-h917-s-no-gm?authuser=1" ><p>Tràn ngập
+ trước mặt là khoảng không gian rộng lớn khó diễn tả</p><br>
 <img loading="lazy" src="https://i.imgur.com/WjUVNJf.png" ><p>hello</p><br><img loading="lazy" src="https://i.imgur.com/SdyWySK.jpeg" ><p>Vì đi vào giữua tuần nên bạn đồng hành phần lớn là người nước ngoài</p><br><img loading="lazy" src="https://i.imgur.com/IVWg0zl.png" ><p></p><br></div>
+
+
+
 
 Chiều về, do "tham vọng nhưng không khéo tính toán", bọn mình chọn **con đường ngắn nhất** để về TP Hà Giang. Và đây là sai lầm lớn: con đường tối om, ổ gà chi chít, xung quanh chẳng có bóng người, chỉ có tiếng xe mình gầm gừ như muốn khóc.
 
