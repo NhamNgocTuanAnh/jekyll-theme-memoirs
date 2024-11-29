@@ -60,9 +60,15 @@ date: 2024-11-29 11:29:11 +0700
 **Ngày 2: TP Hà Giang – Đồng Văn (hành trình "nghẹt thở" vì cảnh đẹp)**8h sáng, trả phòng, tạm biệt TP Hà Giang để lao vào những cung đường huyền thoại. Điểm đầu tiên là **dốc Bắc Sum**, nơi mình đã chụp 7749 kiểu ảnh với hoa tam giác mạch (bạn biết đấy, "chụp không mỏi tay, khoe không biết chán").
 
 <div class="content" style="text-align:center; ">
-<a href="https://i.imgur.com/LEaf7t5"><img loading="lazy" src="https://imgur.com/S6yLjb4" title="source: imgur.com" alt="đón tiếp chúng mình bằng chi chít dây điện - đồi núi lấp ló"></a></div>
+<img loading="lazy" src="https://i.imgur.com/LEaf7t5.png" title="source: imgur.com" alt="đón tiếp chúng mình bằng chi chít dây điện - đồi núi lấp ló"><br><img loading="lazy" src="https://imgur.com/fEGPPDb.png" title="source: imgur.com" alt="đón tiếp chúng mình bằng chi chít dây điện - đồi núi lấp ló"></div>
 
-Tiếp tục hành trình, mình dừng chân ở **cổng trời Quản Bạ** để ngắm nhìn "cổng thiên đường", rồi đi qua **đồi thông Yên Minh** – khung cảnh lãng mạn như phim Hàn Quốc, chỉ tiếc là... không có ai bên cạnh! Cuối ngày, mình đặt chân đến **Đồng Văn**, kết thúc một ngày dài với vô số trải nghiệm đẹp đến ngỡ ngàng.
+Tiếp tục hành trình, mình dừng chân ở **cổng trời Quản Bạ** để ngắm nhìn "cổng thiên đường"
+
+<div class="content" style="text-align:center; ">
+<img loading="lazy" src="https://i.imgur.com/SPMVX8B.png" ><br><img loading="lazy" src="https://i.imgur.com/kSgDyEE.png" ></div>
+
+
+, rồi đi qua **đồi thông Yên Minh** – khung cảnh lãng mạn như phim Hàn Quốc, chỉ tiếc là... không có ai bên cạnh! Cuối ngày, mình đặt chân đến **Đồng Văn**, kết thúc một ngày dài với vô số trải nghiệm đẹp đến ngỡ ngàng.
 
 **Ngày 3: Đồng Văn – Cột cờ Lũng Cú – TP Hà Giang (hành trình "xóc nảy" có thật)**Buổi sáng, vì trời mưa và dậy muộn, 9h bọn mình mới rời Đồng Văn để leo lên **cột cờ Lũng Cú**. Lên được tới nơi, cảm giác như chinh phục đỉnh thế giới (dù chỉ là địa đầu Tổ quốc). Nhưng hành trình chưa dừng lại!
 
