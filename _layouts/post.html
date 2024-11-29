@@ -94,8 +94,9 @@ let isScriptEnabled=!0;const triggerElement=document.getElementById("triggerLoad
     var index = url.indexOf("https://");
     return index !== -1 ? url.slice(index) : url;
 }
+</script>
 
-var imageUrl = getAbsoluteUrl("{{ site.baseurl }}/{{ page.image }}");
+<!-- var imageUrl = getAbsoluteUrl("{{ site.baseurl }}/{{ page.image }}");
 
 (function displayFeaturedImage() {
     var entryHeader = document.querySelector('.entry-header');
@@ -111,6 +112,4 @@ var imageUrl = getAbsoluteUrl("{{ site.baseurl }}/{{ page.image }}");
     if (featuredImage.hasAttribute("loaded")) {
         featuredImage.removeAttribute("loaded");
     }
-})();
-</script>
-
+})(); -->
