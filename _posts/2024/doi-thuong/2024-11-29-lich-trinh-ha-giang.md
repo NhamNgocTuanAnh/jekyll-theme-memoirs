@@ -53,13 +53,13 @@ date: 2024-11-29 11:29:11 +0700
 **Ngày 1: Hà Nội – TP Hà Giang (hành trình làm bạn với anh Google)**7h30 sáng, mình xuất phát từ Hà Nội, tay lái vững vàng, Google Maps trong tay, lòng đầy háo hức (và cả lo lắng). Sau vài giờ chiến đấu với con đường, mình dừng ở Tuyên Quang sạc cho xe và cả cho chính mình.
 
 <div class="content" style="text-align:center; ">
-<a href="https://i.imgur.com/LEaf7t5"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczPtLYRmvbG6GHRVyuKj_X8ALTLdGYH3LO256zVub3RjPPRW6T41ycU7gCsFxOiyEWLEnrjClLmkx_p38v745yQMrhsnUuz0kCKD-3fFIS3hUPZb7__P1CjlRK0QUR6sgbK9HxAzNaIIWflukA3k13_zJg=w688-h917-s-no-gm?authuser=0" title="source: imgur.com" alt="ảnh được chụp từ Canon r8"></a></div>
+<img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczPtLYRmvbG6GHRVyuKj_X8ALTLdGYH3LO256zVub3RjPPRW6T41ycU7gCsFxOiyEWLEnrjClLmkx_p38v745yQMrhsnUuz0kCKD-3fFIS3hUPZb7__P1CjlRK0QUR6sgbK9HxAzNaIIWflukA3k13_zJg=w688-h917-s-no-gm?authuser=0" title="source: imgur.com" alt="ảnh được chụp từ Canon r8"></div>
 
 2h chiều, mình cập bến TP Hà Giang, phấn khởi check-in tại Km0 – địa điểm không thể bỏ qua khi đến đây. Nhưng mình biết rõ: đi buổi tối ở Hà Giang không khác gì tự làm phim kinh dị. Thế là quyết định nghỉ ngơi, sạc pin cả xe lẫn người, chuẩn bị tinh thần cho ngày mai.
 
 <div class="content" style="text-align:center; ">
 <img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczPsum797JgXF4en5WPH1790L1T9kCwnrSzyoC0lmzovFIw3e_GyE96DZ6-e072tmr991G4r5p3T70NeDMIE_wpQFlZoKYRnkqoY8gzmi734bjCmZp5qFJDTE_SP5dyxgRUqjBfvKDsH2T9mvH4DY6laBQ=w1223-h917-s-no-gm?authuser=1
-" title="source: imgur.com" alt="nghỉ ngơi ăn tối"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczM4ydKdgdNARZUFrMmRU0ZpGN2KEmn_j6daz8dmeXXb5JiI2U-72QMUM_cyXdkuNTDbyJ4a8ervgWmVtsIWPBcNB_ECIn5nHUn-xOxXyx9uRcsJmALkFUyFg47xAcm3wKBENXEAdXHa4MJM-Cgm1bh-uQ=w688-h917-s-no-gm?authuser=1
+" title="source: imgur.com" alt="nghỉ ngơi ăn tối"><p></p><br><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczM4ydKdgdNARZUFrMmRU0ZpGN2KEmn_j6daz8dmeXXb5JiI2U-72QMUM_cyXdkuNTDbyJ4a8ervgWmVtsIWPBcNB_ECIn5nHUn-xOxXyx9uRcsJmALkFUyFg47xAcm3wKBENXEAdXHa4MJM-Cgm1bh-uQ=w688-h917-s-no-gm?authuser=1
 " title="source: imgur.com" alt="niềm đam mê faker doesnt phai"></div>
 
 **Ngày 2: TP Hà Giang – Đồng Văn (hành trình "nghẹt thở" vì cảnh đẹp)**8h sáng, trả phòng, tạm biệt TP Hà Giang để lao vào những cung đường huyền thoại. Điểm đầu tiên là **dốc Bắc Sum**, nơi mình đã chụp 7749 kiểu ảnh với hoa tam giác mạch (bạn biết đấy, "chụp không mỏi tay, khoe không biết chán").
@@ -67,20 +67,20 @@ date: 2024-11-29 11:29:11 +0700
 Bòn mình dừng chân tại một quán bánh tráng để ăn sáng, cô chủ nhà rất hiền và bọn mình ăn vỡ bụng luôn.
 
 <div class="content" style="text-align:center; ">
-<img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczPBaAQVycvA2JLwlpw7K76Xy8E3R5mRdtAnDXq9pLMr1zyWFATG3flxz3Byp_2yt0RfUNQuovxJneYzXyx2JUmeLu5gVE0dEJQVu4cYIhCRSGN65axPM2C2SajYsR1mVWlw6cL8yNh-4-iIC3LkcgQkEg=w1223-h917-s-no-gm?authuser=1" ><br><p></p><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczMC8V317uDLLkPlkkcigD00ttXYOjbgXqCZ9D54uUIIPhKHjmXpgqyPkPEV0dSD-6A6QV5zDr2Um3VY6KQEg8aldM2BR2eAPN2rt5qvNGcf5D119K7R6RgptoCegRvBsGBLHOBcaic9DkiKk2vWOum6UQ=w1223-h917-s-no-gm?authuser=1" ><br></div>
+<img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczPBaAQVycvA2JLwlpw7K76Xy8E3R5mRdtAnDXq9pLMr1zyWFATG3flxz3Byp_2yt0RfUNQuovxJneYzXyx2JUmeLu5gVE0dEJQVu4cYIhCRSGN65axPM2C2SajYsR1mVWlw6cL8yNh-4-iIC3LkcgQkEg=w1223-h917-s-no-gm?authuser=1" ><p></p><br><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczMC8V317uDLLkPlkkcigD00ttXYOjbgXqCZ9D54uUIIPhKHjmXpgqyPkPEV0dSD-6A6QV5zDr2Um3VY6KQEg8aldM2BR2eAPN2rt5qvNGcf5D119K7R6RgptoCegRvBsGBLHOBcaic9DkiKk2vWOum6UQ=w1223-h917-s-no-gm?authuser=1" ><br></div>
 
 <div class="content" style="text-align:center; ">
-<img loading="lazy" src="https://imgur.com/jQChIiw.png" title="source: imgur.com" alt="đón tiếp chúng mình bằng chi chít dây điện - đồi núi lấp ló"><br><img loading="lazy" src="https://imgur.com/fEGPPDb.png" title="source: imgur.com" alt="đón tiếp chúng mình bằng chi chít dây điện - đồi núi lấp ló"></div>
+<img loading="lazy" src="https://imgur.com/jQChIiw.png" title="source: imgur.com" alt="đón tiếp chúng mình bằng chi chít dây điện - đồi núi lấp ló"><p></p><br><img loading="lazy" src="https://imgur.com/fEGPPDb.png" title="source: imgur.com" alt="đón tiếp chúng mình bằng chi chít dây điện - đồi núi lấp ló"></div>
 
 Tiếp tục hành trình, mình dừng chân ở **cổng trời Quản Bạ** để ngắm nhìn "cổng thiên đường".
 
 <div class="content" style="text-align:center; ">
-<img loading="lazy" src="https://i.imgur.com/SPMVX8B.png" ><br><img loading="lazy" src="https://i.imgur.com/kSgDyEE.png" ><br><p></p><img loading="lazy" src="https://i.imgur.com/TXiEZ20.png" ><br><p>Xem chừng ở đây đã rất đông rồi</p></div>
+<img loading="lazy" src="https://i.imgur.com/SPMVX8B.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/kSgDyEE.png" ><br><p></p><img loading="lazy" src="https://i.imgur.com/TXiEZ20.png" ><br><p>Xem chừng ở đây đã rất đông rồi</p></div>
 
 Và rồi đi qua **đồi thông Yên Minh** – khung cảnh lãng mạn như phim Hàn Quốc, chỉ tiếc là... không có ai bên cạnh!
 
 <div class="content" style="text-align:center; ">
-<img loading="lazy" src="https://imgur.com/X1e2FvD.png" ><br><img loading="lazy" src="https://imgur.com/X1e2FvD.png" ><br><p></p><img loading="lazy" src="https://i.imgur.com/TXiEZ20.png" ><br><p>Xem chừng ở đây đã rất đông rồi</p></div>
+<img loading="lazy" src="https://imgur.com/X1e2FvD.png" ><p>Điểm dừng chân dốc Bắc Sum nhìn xuống</p><br><img loading="lazy" src="https://imgur.com/X1e2FvD.png" ><br><p></p><img loading="lazy" src="https://i.imgur.com/TXiEZ20.png" ><br><p>Xem chừng ở đây đã rất đông rồi</p></div>
 
 
 Cuối ngày, mình đặt chân đến **Đồng Văn**, kết thúc một ngày dài với vô số trải nghiệm đẹp đến ngỡ ngàng.
