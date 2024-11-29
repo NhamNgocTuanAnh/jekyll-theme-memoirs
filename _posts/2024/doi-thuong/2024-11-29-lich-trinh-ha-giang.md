@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Quay lại hồ Núi Bầu - Sóc Sơn - HN! - Yên ả!'
+title: 'Hành trình Hà Giang với Vinfast VF3: Địa điểm đẹp, món ngon đặc sắc!'
 author: sal
 lazyimages: "enabled"
 categories: [ Du hí 🛫 ]
