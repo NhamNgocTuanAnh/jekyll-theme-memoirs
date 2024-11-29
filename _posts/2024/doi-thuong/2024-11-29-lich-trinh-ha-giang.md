@@ -100,6 +100,14 @@ Cuối ngày, mình đặt chân đến **Đồng Văn**, kết thúc một ngà
 
 <div class="content" style="text-align:center; "><img loading="lazy" src="https://i.imgur.com/bZkpoaf.jpeg" ><p>Dinh thự Vua Mèo</p><br><img loading="lazy" src="https://i.imgur.com/5iYUn4O.jpeg" ><p>Một cậu bé ngồi cầm 1 bó hoa, ngại</p><br><img loading="lazy" src="https://i.imgur.com/1TO23UJ.jpeg" ><p></p><br></div>
 
+, đến đồi hoa Tam Giác Mạch, cô xin mỗi người 10k luôn.
+
+<div class="content" style="text-align:center; "><img loading="lazy" src="https://i.imgur.com/5o6nar5.jpeg" ><p></p><br><img loading="lazy" src="https://i.imgur.com/y0POcZg.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/ZUgcQso.jpeg" ><p></p><br></div>
+
+, đường đến cột cờ Lũng Cú
+
+<div class="content" style="text-align:center; "><img loading="lazy" src="https://i.imgur.com/cTUbNSs.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/ghhzaWN.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/5b7HmLI.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/ktNi9sd.jpeg" ><p></p><br><img loading="lazy" src="https://i.imgur.com/mwGWwWC.png" ><p></p><br></div>
+
 Chiều về, do "tham vọng nhưng không khéo tính toán", bọn mình chọn **con đường ngắn nhất** để về TP Hà Giang. Và đây là sai lầm lớn: con đường tối om, ổ gà chi chít, xung quanh chẳng có bóng người, chỉ có tiếng xe mình gầm gừ như muốn khóc.
 
 11h đêm, bọn mình lê lết về đến TP Hà Giang. Dù mệt nhưng không quên ăn đêm và vỗ về cái bụng – "hành trình khổ cực nhưng không thể đói".
