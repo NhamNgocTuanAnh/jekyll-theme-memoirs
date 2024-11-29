@@ -52,6 +52,8 @@ date: '2024-12-12'
 5.  **Tiện ích hiện đại:**
     Canon RP có wifi, giúp chuyển ảnh nhanh chóng, đặc biệt hữu ích khi đi chơi hoặc cần chia sẻ ảnh tức thời.
 
+{% include post-by-url.html post_src="du-lich/hanh-trinh-kham-pha-ha-giang-bang-vinfast-vf3" is_main="true" %}
+
 ### **Nhược điểm của Canon RP:**
 
 1.  **Pin yếu:**
