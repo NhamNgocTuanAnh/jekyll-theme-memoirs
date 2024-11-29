@@ -66,8 +66,6 @@ Chiều về, do "tham vọng nhưng không khéo tính toán", bọn mình ch�
 
 **Ngày 4: TP Hà Giang – Hà Nội (hành trình về nhà an toàn)**Sáng dậy, bọn mình chia tay Hà Giang, bắt đầu hành trình về lại Hà Nội. Lòng đầy nuối tiếc vì đã không ở lại lâu hơn, nhưng cũng an ủi vì sắp được ngủ trên chiếc giường thân yêu.
 
-\---------------------------------------
-
 #### **Những điểm đến không thể bỏ qua:**
 
 *   **Cột cờ Lũng Cú:** Biểu tượng thiêng liêng nơi địa đầu Tổ quốc.
