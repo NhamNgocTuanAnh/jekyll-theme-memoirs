@@ -25,6 +25,13 @@ keywords:
 date: '2024-12-12'
 ---
 
+<hr style="border: 1px solid #000000;">
+<p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Mục lục</p>
+* TOC
+{:toc}
+
+<hr style="border: 1px solid #000000;">
+
 ### **Trải nghiệm thực tế khi chuyển từ Canon 5D Mark II sang RP:**
 
 *   Khi chuyển từ dòng DSLR như 5D2 sang mirrorless RP, người dùng dễ cảm thấy hụt hẫng. Dù RP có độ phân giải 26MP và eye tracking hiện đại, nhưng tốc độ chụp và thao tác tổng thể chậm hơn.
