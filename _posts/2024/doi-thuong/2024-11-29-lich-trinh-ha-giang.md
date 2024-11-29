@@ -64,8 +64,13 @@ date: 2024-11-29 11:29:11 +0700
 
 **Ngày 2: TP Hà Giang – Đồng Văn (hành trình "nghẹt thở" vì cảnh đẹp)**8h sáng, trả phòng, tạm biệt TP Hà Giang để lao vào những cung đường huyền thoại. Điểm đầu tiên là **dốc Bắc Sum**, nơi mình đã chụp 7749 kiểu ảnh với hoa tam giác mạch (bạn biết đấy, "chụp không mỏi tay, khoe không biết chán").
 
+Bòn mình dừng chân tại một quán bánh tráng để ăn sáng, cô chủ nhà rất hiền và bọn mình ăn vỡ bụng luôn.
+
 <div class="content" style="text-align:center; ">
-<img loading="lazy" src="https://i.imgur.com/LEaf7t5.png" title="source: imgur.com" alt="đón tiếp chúng mình bằng chi chít dây điện - đồi núi lấp ló"><br><img loading="lazy" src="https://imgur.com/fEGPPDb.png" title="source: imgur.com" alt="đón tiếp chúng mình bằng chi chít dây điện - đồi núi lấp ló"></div>
+<img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczPBaAQVycvA2JLwlpw7K76Xy8E3R5mRdtAnDXq9pLMr1zyWFATG3flxz3Byp_2yt0RfUNQuovxJneYzXyx2JUmeLu5gVE0dEJQVu4cYIhCRSGN65axPM2C2SajYsR1mVWlw6cL8yNh-4-iIC3LkcgQkEg=w1223-h917-s-no-gm?authuser=1" ><br><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczMC8V317uDLLkPlkkcigD00ttXYOjbgXqCZ9D54uUIIPhKHjmXpgqyPkPEV0dSD-6A6QV5zDr2Um3VY6KQEg8aldM2BR2eAPN2rt5qvNGcf5D119K7R6RgptoCegRvBsGBLHOBcaic9DkiKk2vWOum6UQ=w1223-h917-s-no-gm?authuser=1" ><br></div>
+
+<div class="content" style="text-align:center; ">
+<img loading="lazy" src="https://imgur.com/jQChIiw.png" title="source: imgur.com" alt="đón tiếp chúng mình bằng chi chít dây điện - đồi núi lấp ló"><br><img loading="lazy" src="https://imgur.com/fEGPPDb.png" title="source: imgur.com" alt="đón tiếp chúng mình bằng chi chít dây điện - đồi núi lấp ló"></div>
 
 Tiếp tục hành trình, mình dừng chân ở **cổng trời Quản Bạ** để ngắm nhìn "cổng thiên đường"
 
