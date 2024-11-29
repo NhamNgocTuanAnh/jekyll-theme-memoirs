@@ -54,7 +54,7 @@ date: 2024-11-29 11:29:11 +0700
 **Ngày 1: Hà Nội – TP Hà Giang (hành trình làm bạn với anh Google)**7h30 sáng, mình xuất phát từ Hà Nội, tay lái vững vàng, Google Maps trong tay, lòng đầy háo hức (và cả lo lắng). Sau vài giờ chiến đấu với con đường, mình dừng ở Tuyên Quang sạc cho xe và cả cho chính mình.
 
 <div class="content" style="text-align:center; ">
-<img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczPtLYRmvbG6GHRVyuKj_X8ALTLdGYH3LO256zVub3RjPPRW6T41ycU7gCsFxOiyEWLEnrjClLmkx_p38v745yQMrhsnUuz0kCKD-3fFIS3hUPZb7__P1CjlRK0QUR6sgbK9HxAzNaIIWflukA3k13_zJg=w688-h917-s-no-gm?authuser=0" title="source: imgur.com" alt="ảnh được chụp từ Canon r8"></div>
+<img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczOXzY0KJUKDPvebHJhHmU2vanSrJSyIkD2_lGnWqPaTwOpgORzYx5lxWV0vYxd9JiKAGYn2T9U9NwvnYazlkuy5vSSgHePZKpIncuoZheGACD24aUYiwupJOQRwHbSfaygBzPTGTXwX2ssiAoTMO9KVVQ=w1223-h917-s-no-gm?authuser=1" title="source: imgur.com" alt="ảnh được chụp từ Canon r8"></div>
 
 2h chiều, mình cập bến TP Hà Giang, phấn khởi check-in tại Km0 – địa điểm không thể bỏ qua khi đến đây. Nhưng mình biết rõ: đi buổi tối ở Hà Giang không khác gì tự làm phim kinh dị. Thế là quyết định nghỉ ngơi, sạc pin cả xe lẫn người, chuẩn bị tinh thần cho ngày mai.
 
@@ -147,5 +147,5 @@ Không thể thiếu những món đặc sản:
 
 **Hà Giang thực sự là điểm đến tuyệt vời dành cho những ai yêu thích khám phá và trải nghiệm. Nếu có kế hoạch, đừng quên chuẩn bị một chiếc xe phù hợp – và biết đâu, VF3 sẽ là người bạn đồng hành hoàn hảo của bạn!**
 
-Ảnh trong bài viết
+
 
