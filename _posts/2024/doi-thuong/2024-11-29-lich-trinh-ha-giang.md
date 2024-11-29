@@ -35,6 +35,14 @@ date: 2024-11-29 11:29:11 +0700
 *   **Tính năng hiện đại:** Hệ thống hỗ trợ lái, camera lùi độ,... giúp tăng thêm sự an tâm khi di chuyển trên các cung đường khó.
 *   **An toàn tuyệt đối:** Thiết kế và tính năng của VF3 không có gì để hỏng.
 
+<div class="content" style="text-align:center; max-width: 100%;">
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1UgCSaY5x6Tij7AihJw4THMvr8POSxMs&ehbc=2E312F" style="  display: block;
+  width: 90%;
+  max-width: 60rem;
+  height: 25em;
+  margin: 2rem auto;
+  border: 1px solid black;"></iframe></div>
+
 #### **Lịch trình chuyến đi:**
 
 *   **Hà Nội – Tuyên Quang – Hà Giang – Cột cờ Lũng Cú – Đồng Văn – Hà Giang – Hà Nội**
