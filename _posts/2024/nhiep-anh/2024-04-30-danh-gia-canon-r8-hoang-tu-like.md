@@ -30,6 +30,13 @@ permalink: nhiep-anh/reviews/danh-gia-canon-r8-hoang-tu-like
 
 > Canon R8, mẫu máy ảnh mirrorless full-frame mới nhất của Canon, đã nhanh chóng thu hút sự chú ý của cộng đồng nhiếp ảnh. Với mức giá hấp dẫn và nhiều tính năng cải tiến, R8 được kỳ vọng sẽ là đối thủ cạnh tranh đáng gờm với các mẫu máy ảnh cùng phân khúc. Tuy nhiên, liệu R8 có thực sự đáp ứng được kỳ vọng của người dùng? Bài viết này sẽ đi sâu phân tích các ưu và nhược điểm của Canon R8 để giúp bạn đưa ra quyết định mua hàng chính xác nhất.
 
+<hr style="border: 1px solid #000000;">
+<p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Mục lục</p>
+* TOC
+{:toc}
+
+<hr style="border: 1px solid #000000;">
+
 📷 Yêu cầu: GỌN NHẸ vì lưng đau, gối mỏi, tay tê, mang nhiều máy cả để chụp lẫn quay khá bất tiện 😂. Cần máy có e-viewfinder, đa dụng cho cả chụp và quay. \\
 📷 Sử dụng: Mình chụp nhiều hơn quay, chủ yếu là du lịch, chân dung, công việc văn phòng thỉnh thoảng có chụp chân dung, hoạt động, hội thảo, sự kiện, nhưng không phải thợ chuyên nghiệp. Thỉnh thoảng quay phóng sự ngắn.
 
@@ -66,7 +73,7 @@ Giống hệt RP, có lẽ là cụm từ miêu tả gần đúng nhất khi c�
 - Tiếng màn chập cơ - có thể nói giống RP tới 90% - Bạn mong chờ R8 có một tiếng màn chập mạnh mẽ hơn  -> Bạn sẽ thất vọng!
 
 <div class="content" style="text-align:center; ">
-<img loading="lazy" src="https://scontent.fhan5-10.fna.fbcdn.net/v/t39.30808-6/339827171_1188693055136141_5077662104770825798_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_eui2=AeFiBwGxqX82-uM1vz718s-1CCXoZ5-FeycIJehnn4V7J1nB0vr91-0a5VrayzM6uu_D-BDZONVjuCzGvqRUsvjl&_nc_ohc=2F4MGp_fNqEQ7kNvgGacy3d&_nc_zt=23&_nc_ht=scontent.fhan5-10.fna&_nc_gid=A_BCM_LN_IEq0m7i_fEW3eq&oh=00_AYCZJtVOyvT8th5kZgk8Qc-TRWIVGfuVnmoMgjXoKu1E4Q&oe=673E340E" title="source: imgur.com" alt="DXO chấm sensor của Canon R8 và so sánh với Sony A7C, Nikon Z6II"><br><p>DXO chấm sensor của Canon R8 và so sánh với Sony A7C, Nikon Z6II
+<img loading="lazy" src="https://www.canonwatch.com/wp-content/uploads/2023/03/Screenshot-2023-03-24-at-16.08.01.jpg" alt="DXO chấm sensor của Canon R8 và so sánh với canon R3, R5"><br><p>DXO chấm sensor của Canon R8 và so sánh với canon R3, R5
 </p></div>
 
 ### 2\. Nhược điểm cần lưu ý:
