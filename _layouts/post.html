@@ -37,49 +37,10 @@ comments: true
 {% endif %}
 
 <div id="bottom-overlay">
-  <button id="read-more-btn-hell" class="read-more-btn" onclick="handleClickReadMoreBtn()">Read More</button>
-  <p>This is a bottom overlay. Click "Close" to hide it.</p>
+  <button id="read-more-btn-hell" class="read-more-btn" onclick="handleClickReadMoreBtn()">Read More🧾</button>
+  <p>Bấm Read more để tiếp tục đọc bài viết!🫡</p>
 </div>
-<style>/* Overlay style */
-  /* Bottom overlay style */
-  #bottom-overlay {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 30%; /* Height of the overlay */
-    background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent black */
-    color: white;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    z-index: 1000;
-    box-shadow: 0 -4px 10px rgba(0, 0, 0, 0.5);
-  }
-
-  /* Content inside overlay */
-  #bottom-overlay p {
-    margin: 10px 0;
-    font-size: 16px;
-    text-align: center;
-  }
-
-  /* Button inside overlay */
-  #bottom-overlay button {
-    padding: 10px 20px;
-    background-color: #ff5722;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 16px;
-  }
-
-  /* Main content */
-  .content {
-    padding: 20px;
-  }</style>
+<style>#bottom-overlay{position:fixed;bottom:0;left:0;width:100%;height:60%;background-color:rgba(0,0,0,0.8);color:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:1000;box-shadow:0 -4px 10px rgba(0,0,0,0.5)}#bottom-overlay p{margin:10px 0;font-size:16px;text-align:center}#bottom-overlay button{padding:10px 20px;background-color:#ff5722;color:#fff;border:none;border-radius:5px;cursor:pointer;font-size:16px}</style>
 
 <!-- Featured Image -->
 {% include featured-image.html %}
