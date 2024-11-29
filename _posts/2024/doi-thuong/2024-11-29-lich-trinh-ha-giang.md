@@ -83,6 +83,9 @@ Và rồi đi qua **đồi thông Yên Minh** – khung cảnh lãng mạn như 
 <img loading="lazy" src="https://imgur.com/X1e2FvD.png" ><p>Điểm dừng chân dốc Bắc Sum nhìn xuống</p><br><img loading="lazy" src="https://imgur.com/X1e2FvD.png" ><br><p></p><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczPm70LXTRS2YtAEttA4SPtyYyi-tw_welnilGAI5vnz9a4v-t1qfGfiQ1YWT7z9VuwyOWNvEzMAHTh5oSPLJ5zusqAMDLLCQNlX4nRVJeEyWjgUEZFK38ys34unIl7MPD7bqrecsSu7tZF-O2b4B2vCYw=w611-h917-s-no-gm?authuser=1" ><br><p>Cây cô đơn</p></div>
 
 
+<div class="content" style="text-align:center; ">
+<img loading="lazy" src="https://imgur.com/YymwlVS.png" ><p>Sắp tới đồng văn rồi</p><br><img loading="lazy" src="https://imgur.com/Epim9Ym.png" ><br><p></p></div>
+
 Cuối ngày, mình đặt chân đến **Đồng Văn**, kết thúc một ngày dài với vô số trải nghiệm đẹp đến ngỡ ngàng.
 
 **Ngày 3: Đồng Văn – Cột cờ Lũng Cú – TP Hà Giang (hành trình "xóc nảy" có thật)**Buổi sáng, vì trời mưa và dậy muộn, 9h bọn mình mới rời Đồng Văn để leo lên **cột cờ Lũng Cú**. Lên được tới nơi, cảm giác như chinh phục đỉnh thế giới (dù chỉ là địa đầu Tổ quốc). Nhưng hành trình chưa dừng lại!
