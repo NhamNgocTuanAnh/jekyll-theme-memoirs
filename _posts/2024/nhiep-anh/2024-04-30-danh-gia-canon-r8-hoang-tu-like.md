@@ -77,24 +77,34 @@ Canon R8 là một chiếc máy ảnh mirrorless full-frame đáng giá với kh
 *   Pin nhanh hết, đặc biệt khi quay video hoặc chụp liên tục.
 *   Pin giả không hiển thị dung lượng chính xác, gây bất tiện khi sử dụng.
 *   Cần chuẩn bị nhiều pin dự phòng.
+
+
 **Khe cắm thẻ nhớ:**
 *   Chỉ có một khe cắm, tiềm ẩn rủi ro mất dữ liệu.
+
+
 **Quá nhiệt:**
 *   Máy dễ bị quá nhiệt khi quay video 4K 60p trong thời gian dài.
+
+
 **Lens:**
 *   Lens RF chính hãng có giá cao.
 *   Lens chuyển ngàm có thể gây ra vấn đề tương thích.
+
+
 **Thiết kế:**
 *   Thân máy nhỏ, cảm giác cầm nắm không chắc chắn.
 *   Không có joystick.
 *   Vấn đề với cổng HDMI: Khi cắm HDMI, màn hình máy bị tắt.
+
+
 **Các vấn đề khác:**
 *   Phần cao su trên eyecup dễ bị xước và khó thay thế.
 
 
 ### 3\. Lời khuyên cho người dùng:
 
- **Canon R8** là một chiếc máy ảnh mirrorless full-frame hấp dẫn với nhiều tính năng nổi bật. Tuy nhiên, máy cũng tồn tại một số hạn chế đáng kể như tuổi thọ pin ngắn, thiết kế chưa hoàn hảo và một số lỗi kỹ thuật nhỏ. **So với các đối thủ cạnh tranh**, R8 có thể không thực sự nổi trội về thời lượng pin và khả năng chống chịu thời tiết. **Tuy nhiên,** nếu bạn đang tìm kiếm một chiếc máy ảnh có khả năng quay video 4K chất lượng cao và chất lượng hình ảnh tốt trong tầm giá, R8 vẫn là một lựa chọn đáng cân nhắc. **Lời khuyên:** Trước khi quyết định mua, bạn nên cân nhắc kỹ các ưu nhược điểm của máy và chuẩn bị đầy đủ pin dự phòng.
+**Canon R8** là một chiếc máy ảnh mirrorless full-frame hấp dẫn với nhiều tính năng nổi bật. Tuy nhiên, máy cũng tồn tại một số hạn chế đáng kể như tuổi thọ pin ngắn, thiết kế chưa hoàn hảo và một số lỗi kỹ thuật nhỏ. **So với các đối thủ cạnh tranh**, R8 có thể không thực sự nổi trội về thời lượng pin và khả năng chống chịu thời tiết. **Tuy nhiên,** nếu bạn đang tìm kiếm một chiếc máy ảnh có khả năng quay video 4K chất lượng cao và chất lượng hình ảnh tốt trong tầm giá, R8 vẫn là một lựa chọn đáng cân nhắc. **Lời khuyên:** Trước khi quyết định mua, bạn nên cân nhắc kỹ các ưu nhược điểm của máy và chuẩn bị đầy đủ pin dự phòng.
 
 **Ý kiến từ cộng đồng:**
 
