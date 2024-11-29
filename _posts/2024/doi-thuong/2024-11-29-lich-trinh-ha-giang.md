@@ -48,6 +48,26 @@ date: 2024-11-29 11:29:11 +0700
 *   **Hà Nội – Tuyên Quang – Hà Giang – Cột cờ Lũng Cú – Đồng Văn – Hà Giang – Hà Nội**
 *   **Địa hình:** Chủ yếu là đường đèo dốc, với VF3, mình hành trình suôn sẻ và thoải mái.
 
+##### Cụ thể:
+
+**Ngày 1: Hà Nội – TP Hà Giang (hành trình làm bạn với anh Google)**7h30 sáng, mình xuất phát từ Hà Nội, tay lái vững vàng, Google Maps trong tay, lòng đầy háo hức (và cả lo lắng). Sau vài giờ chiến đấu với con đường, mình dừng ở Tuyên Quang sạc cho xe và cả cho chính mình.
+
+2h chiều, mình cập bến TP Hà Giang, phấn khởi check-in tại Km0 – địa điểm không thể bỏ qua khi đến đây. Nhưng mình biết rõ: đi buổi tối ở Hà Giang không khác gì tự làm phim kinh dị. Thế là quyết định nghỉ ngơi, sạc pin cả xe lẫn người, chuẩn bị tinh thần cho ngày mai.
+
+**Ngày 2: TP Hà Giang – Đồng Văn (hành trình "nghẹt thở" vì cảnh đẹp)**8h sáng, trả phòng, tạm biệt TP Hà Giang để lao vào những cung đường huyền thoại. Điểm đầu tiên là **dốc Bắc Sum**, nơi mình đã chụp 7749 kiểu ảnh với hoa tam giác mạch (bạn biết đấy, "chụp không mỏi tay, khoe không biết chán").
+
+Tiếp tục hành trình, mình dừng chân ở **cổng trời Quản Bạ** để ngắm nhìn "cổng thiên đường", rồi đi qua **đồi thông Yên Minh** – khung cảnh lãng mạn như phim Hàn Quốc, chỉ tiếc là... không có ai bên cạnh! Cuối ngày, mình đặt chân đến **Đồng Văn**, kết thúc một ngày dài với vô số trải nghiệm đẹp đến ngỡ ngàng.
+
+**Ngày 3: Đồng Văn – Cột cờ Lũng Cú – TP Hà Giang (hành trình "xóc nảy" có thật)**Buổi sáng, vì trời mưa và dậy muộn, 9h bọn mình mới rời Đồng Văn để leo lên **cột cờ Lũng Cú**. Lên được tới nơi, cảm giác như chinh phục đỉnh thế giới (dù chỉ là địa đầu Tổ quốc). Nhưng hành trình chưa dừng lại!
+
+Chiều về, do "tham vọng nhưng không khéo tính toán", bọn mình chọn **con đường ngắn nhất** để về TP Hà Giang. Và đây là sai lầm lớn: con đường tối om, ổ gà chi chít, xung quanh chẳng có bóng người, chỉ có tiếng xe mình gầm gừ như muốn khóc.
+
+11h đêm, bọn mình lê lết về đến TP Hà Giang. Dù mệt nhưng không quên ăn đêm và vỗ về cái bụng – "hành trình khổ cực nhưng không thể đói".
+
+**Ngày 4: TP Hà Giang – Hà Nội (hành trình về nhà an toàn)**Sáng dậy, bọn mình chia tay Hà Giang, bắt đầu hành trình về lại Hà Nội. Lòng đầy nuối tiếc vì đã không ở lại lâu hơn, nhưng cũng an ủi vì sắp được ngủ trên chiếc giường thân yêu.
+
+\---------------------------------------
+
 #### **Những điểm đến không thể bỏ qua:**
 
 *   **Cột cờ Lũng Cú:** Biểu tượng thiêng liêng nơi địa đầu Tổ quốc.
