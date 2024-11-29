@@ -26,6 +26,7 @@ keywords:
   - Cột cờ Lũng Cú
   - Chợ đêm Đồng Văn
   - Xe ô tô phù hợp cho chuyến đi đèo dốc
+  - hagiangloop
 date: 2024-11-29 11:29:11 +0700
 ---
 
@@ -95,10 +96,9 @@ Cuối ngày, mình đặt chân đến **Đồng Văn**, kết thúc một ngà
 
 <div class="content" style="text-align:center; "><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczN_GywT5jC0orzo1OeYNJeEyMCiYhAcy_UJNGkhVg0rLgPjFcFZmCf3DJc2pLb7H77yYYVuv_1EHgKrYEN5KYZ6_g47OLJDhm94I25Wiis1-VgS-yttRK6jJx7I8xyQmyHxJxszu-Bsc6vppQTLowYEJA=w1376-h917-s-no-gm?authuser=1" ><p>Tràn ngập
  trước mặt là khoảng không gian rộng lớn khó diễn tả</p><br><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczOLGuER_8qbh2EQ2-NEesb4yONiU4ZglO8XdkM_9_Tim800XP4DMBjYSM_VUugKZqFz5H349ryGdAcRO5xZ9NHUVobhc0AyXtv3dc18XXqCNTyKIhX9mnpJWfKDL_sTh4ov9nkf1RWSFCqkla4TSwZyhw=w1376-h917-s-no-gm?authuser=1" ><p></p><br><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczNelv_59F-SeWfzVZz8d26jU0bFIB5gOjH1fXptJPvhFHOOKTMhqgDe7C0Lv9XpbsWOHETWp2eJcP8SaQ80aiQwT3ohKqHtkEm9PM_gpsp5qN5scSJ03sA1eSF8LVD81NvKhtYHPlc8FuhnRQPdesM58A=w1376-h917-s-no-gm?authuser=1" ><p></p><br><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczOuV1-IjA0Q1oVs_0nColK0FAN6tqOYHg-pNNKooVf8eGhtmtD-4nL64qLwuy3foiWopzb34mAaLqb5IwCf4ucezfPOMAgoT0ZpCSf2X3DKeeya9dv7l23SbkXM7jM2bp81QgIO9uqTGpWhFJ3zdBnp4w=w1376-h917-s-no-gm?authuser=1" ><p></p><br>
-<img loading="lazy" src="https://i.imgur.com/WjUVNJf.png" ><p>hello</p><br><img loading="lazy" src="https://i.imgur.com/SdyWySK.jpeg" ><p>Vì đi vào giữua tuần nên bạn đồng hành phần lớn là người nước ngoài</p><br><img loading="lazy" src="https://i.imgur.com/IVWg0zl.png" ><p></p><br></div>
+<img loading="lazy" src="https://i.imgur.com/WjUVNJf.png" ><p>hello</p><br><img loading="lazy" src="https://i.imgur.com/SdyWySK.jpeg" ><p>Vì đi vào giữa tuần nên bạn đồng hành phần lớn là người nước ngoài</p><br><img loading="lazy" src="https://i.imgur.com/IVWg0zl.png" ><p></p><br></div>
 
-
-
+<div class="content" style="text-align:center; "><img loading="lazy" src="https://i.imgur.com/bZkpoaf.jpeg" ><p>Dinh thự Vua Mèo</p><br><img loading="lazy" src="https://i.imgur.com/5iYUn4O.jpeg" ><p>Một cậu bé ngồi cầm 1 bó hoa, ngại</p><br><img loading="lazy" src="https://i.imgur.com/1TO23UJ.jpeg" ><p></p><br></div>
 
 Chiều về, do "tham vọng nhưng không khéo tính toán", bọn mình chọn **con đường ngắn nhất** để về TP Hà Giang. Và đây là sai lầm lớn: con đường tối om, ổ gà chi chít, xung quanh chẳng có bóng người, chỉ có tiếng xe mình gầm gừ như muốn khóc.
 
