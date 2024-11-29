@@ -89,5 +89,28 @@ let isScriptEnabled=!0;const triggerElement=document.getElementById("triggerLoad
     });</script>
 
 
+<script>
+  function getAbsoluteUrl(url) {
+    var index = url.indexOf("https://");
+    return index !== -1 ? url.slice(index) : url;
+}
 
+var imageUrl = getAbsoluteUrl("{{ site.baseurl }}/{{ page.image }}");
+
+(function displayFeaturedImage() {
+    var entryHeader = document.querySelector('.entry-header');
+    entryHeader.style.display = "block";
+
+    var imgElement = document.createElement("img");
+    imgElement.setAttribute("class", "featured-image lazyimg");
+    imgElement.setAttribute("src", imageUrl);
+
+    document.getElementById("idFeaturedImage").appendChild(imgElement);
+
+    var featuredImage = document.querySelector(".featured-image");
+    if (featuredImage.hasAttribute("loaded")) {
+        featuredImage.removeAttribute("loaded");
+    }
+})();
+</script>
 
