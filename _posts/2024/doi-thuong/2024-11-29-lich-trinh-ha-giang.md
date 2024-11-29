@@ -114,9 +114,11 @@ Cuối ngày, mình đặt chân đến **Đồng Văn**, kết thúc một ngà
 
 Chiều về, do "tham vọng nhưng không khéo tính toán", bọn mình chọn **con đường ngắn nhất** để về TP Hà Giang. Và đây là sai lầm lớn: con đường tối om, ổ gà chi chít, xung quanh chẳng có bóng người, chỉ có tiếng xe mình gầm gừ như muốn khóc.
 
-<div class="content" style="text-align:center; "><img loading="lazy" src="https://i.imgur.com/3YkISnl.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/6LG2grg.png" ><p>Con người với thiên nhiên thật nhỏ bé</p><br></div>
+<div class="content" style="text-align:center; "><img loading="lazy" src="https://i.imgur.com/3YkISnl.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/6LG2grg.png" ><p>Con người với thiên nhiên thật nhỏ bé</p><br><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczPLT0FbJzYCXa9HqlNwbk95XEIk6O-wFx9EwMXV4O43rkIt4gysjdT9_XJ4YRN1sjR6gtZwN-UTP835vRtON6_bXV85FRSp1wL7QSKxPHOyFSnsk3FaY1qedI_ju1G4z9lftG5tJhTvv4a3VkOSqdAAxg=w1223-h917-s-no-gm?authuser=1" ><p>Đường hẹp, tối và xấu.</p><br></div>
 
 11h đêm, bọn mình lê lết về đến TP Hà Giang. Dù mệt nhưng không quên ăn đêm và vỗ về cái bụng – "hành trình khổ cực nhưng không thể đói".
+
+<div class="content" style="text-align:center; "><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczM3dp5GotXDNeDDhpHpPIctdqTUxA0Dzw1aV_8aUdb5VOUCAL98wmMn95mdwBofb8TcsyWNsGT2A52MCzNcSpXin6ys02N7YoSf__aWmV77mMWQB9v-zs4iLv16_7LzfcdtcD8KOYtaFwYgVDPazF4HoA=w688-h917-s-no-gm?authuser=1" ><p></p><br></div>
 
 **Ngày 4: TP Hà Giang – Hà Nội (hành trình về nhà an toàn)**Sáng dậy, bọn mình chia tay Hà Giang, bắt đầu hành trình về lại Hà Nội. Lòng đầy nuối tiếc vì đã không ở lại lâu hơn, nhưng cũng an ủi vì sắp được ngủ trên chiếc giường thân yêu.
 
