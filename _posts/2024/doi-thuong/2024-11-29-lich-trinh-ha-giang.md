@@ -86,13 +86,15 @@ Và rồi đi qua **đồi thông Yên Minh** – khung cảnh lãng mạn như 
 <div class="content" style="text-align:center; ">
 <img loading="lazy" src="https://imgur.com/YymwlVS.png" ><p>Sắp tới đồng văn rồi</p><br><img loading="lazy" src="https://imgur.com/Epim9Ym.png" ><br><p></p><img loading="lazy" src="https://imgur.com/z3hxsK7.png" ><br><p>Checkin Dốc Thẩm mã</p><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczOvE8OtPiXu9MBcU2o3k3KZOo-JiW7_vbcOe4P_Y4vaca1k7kef3O-lvZouqYewFmtTEGkhhQkgZxUEvXLxsHhJG4ctsjEYfcpyIg7XFKEvpj0X-KaX_vdzfNT8FtjAGMJpm1XOpFu1LJnL4jzg6Jvl6g=w1376-h917-s-no-gm?authuser=1" ><br><p></p><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczMRk4NFTGYVNoyk36kfw7cLTD3CZf7Oc0lvGF64SDpKzT5lu-PnSu-P4X_aDFduYIAQKnJQPpnAaKCaPhCMypeYv_8a-_YImW5J7TZ7wA7VZQFWVKDcb-4EaUvdrjW_j1PuLFT3d3TdnABhSLOI2xEBEQ=w611-h917-s-no-gm?authuser=1" ><br><p></p><img loading="lazy" src="https://imgur.com/MLOWl86.png" ><p>Sắp tới đồng văn rồi</p><img loading="lazy" src="https://imgur.com/t7He4bF.png" ><p>Khách Tây checkin với cột cờ Việt Nam</p></div>
 
-
-
-
-
 Cuối ngày, mình đặt chân đến **Đồng Văn**, kết thúc một ngày dài với vô số trải nghiệm đẹp đến ngỡ ngàng.
 
+<div class="content" style="text-align:center; ">
+<img loading="lazy" src="https://imgur.com/xWpEPnF.png" ><p></p><br></div>
+
 **Ngày 3: Đồng Văn – Cột cờ Lũng Cú – TP Hà Giang (hành trình "xóc nảy" có thật)**Buổi sáng, vì trời mưa và dậy muộn, 9h bọn mình mới rời Đồng Văn để leo lên **cột cờ Lũng Cú**. Lên được tới nơi, cảm giác như chinh phục đỉnh thế giới (dù chỉ là địa đầu Tổ quốc). Nhưng hành trình chưa dừng lại!
+
+<div class="content" style="text-align:center; ">
+<img loading="lazy" src="https://i.imgur.com/WjUVNJf.png" ><p>hello</p><br><img loading="lazy" src="https://i.imgur.com/SdyWySK.jpeg" ><p>Vì đi vào giữua tuần nên bạn đồng hành phần lớn là người nước ngoài</p><br><img loading="lazy" src="https://i.imgur.com/IVWg0zl.png" ><p></p><br></div>
 
 Chiều về, do "tham vọng nhưng không khéo tính toán", bọn mình chọn **con đường ngắn nhất** để về TP Hà Giang. Và đây là sai lầm lớn: con đường tối om, ổ gà chi chít, xung quanh chẳng có bóng người, chỉ có tiếng xe mình gầm gừ như muốn khóc.
 
