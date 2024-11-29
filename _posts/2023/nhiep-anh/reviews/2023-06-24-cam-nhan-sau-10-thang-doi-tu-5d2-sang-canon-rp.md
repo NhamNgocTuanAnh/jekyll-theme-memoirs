@@ -25,6 +25,8 @@ keywords:
 date: '2024-12-12'
 ---
 
+> Canon RP y như 1 người giao thời từ DSLR sang mirroless của canon, mang trong mình sứ mệnh của Popular( phổ biến), tham vọng canon là tiếp cận dòng RF của canon tới nhiều người dùng hơn. Nhưng xem nào, máy pin yếu, build quá tệ, hệ thống lấy nét EF chắp vá đã kìm hãm con thú RP, nhưng lens RF khi đó lại quá đắt.
+
 <hr style="border: 1px solid #000000;">
 <p style="margin-bottom: 0px; font-weight: 700;font-size: 1.75rem;">Mục lục</p>
 * TOC
