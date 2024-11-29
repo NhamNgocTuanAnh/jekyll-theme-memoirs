@@ -42,9 +42,11 @@ permalink: nhiep-anh/reviews/danh-gia-canon-r8-hoang-tu-like
 
 Canon R8, thừa hưởng cảm biến và bộ xử lý từ người anh em R6 Mark II, mang đến chất lượng hình ảnh ấn tượng với khả năng lấy nét tự động nhanh chóng và chính xác, đặc biệt hữu ích khi chụp các đối tượng chuyển động. Nhiều người dùng đánh giá cao khả năng xử lý ảnh ở độ nhạy sáng cao của R8, cho ra những bức ảnh chi tiết và ít nhiễu hạt.
 
+{% include post-by-url.html post_src="du-lich/hanh-trinh-kham-pha-ha-giang-bang-vinfast-vf3" is_main="true" %}
+
 Một trong những điểm mạnh khác của R8 là khả năng quay video 4K 60fps không cắt xén. Chất lượng video được đánh giá cao, với dải dynamic range rộng và màu sắc chân thực. Nhiều người dùng đã thử nghiệm quay video C-log 3 và rất hài lòng với kết quả thu được.
 
- 1.  **Nhẹ và linh hoạt**: Trọng lượng nhẹ là ưu điểm lớn nhất, chiếm 80% lý do chọn sản phẩm.
+1.  **Nhẹ và linh hoạt**: Trọng lượng nhẹ là ưu điểm lớn nhất, chiếm 80% lý do chọn sản phẩm.
 2.  **Hệ thống lấy nét**: Nhanh và chính xác hơn cả R6 (dù R6 vốn đã rất tốt). Hỗ trợ thêm các chế độ lấy nét cho xe cộ, động vật, với AI hoạt động ổn định.
 3.  **Tốc độ chụp liên tục**: 40fps đôi lúc hơi bất tiện nhưng cũng mang lại cảm giác phấn khích, là ưu điểm nhiều hơn nhược điểm.
 4.  **Giao diện quay phim hiện đại**: Có viền đỏ khi REC, hiển thị thanh âm thanh trong video (tính năng Canon vừa bổ sung, Sony đã có từ lâu).
