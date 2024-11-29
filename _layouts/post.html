@@ -36,6 +36,51 @@ comments: true
 {% include adsense-under-header.html %}
 {% endif %}
 
+<div id="bottom-overlay">
+  <button id="read-more-btn-hell" class="read-more-btn" onclick="handleClickReadMoreBtn()">Read More</button>
+  <p>This is a bottom overlay. Click "Close" to hide it.</p>
+</div>
+<style>/* Overlay style */
+  /* Bottom overlay style */
+  #bottom-overlay {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 30%; /* Height of the overlay */
+    background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent black */
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    box-shadow: 0 -4px 10px rgba(0, 0, 0, 0.5);
+  }
+
+  /* Content inside overlay */
+  #bottom-overlay p {
+    margin: 10px 0;
+    font-size: 16px;
+    text-align: center;
+  }
+
+  /* Button inside overlay */
+  #bottom-overlay button {
+    padding: 10px 20px;
+    background-color: #ff5722;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+
+  /* Main content */
+  .content {
+    padding: 20px;
+  }</style>
+
 <!-- Featured Image -->
 {% include featured-image.html %}
 
@@ -55,7 +100,6 @@ comments: true
   }
 function removeDivs(e){let t=document.querySelectorAll(str(e));t.forEach(e=>{e.remove()})}function handleClickReadMoreBtn(){let e=document.getElementById("read-more-btn-hell"),t=document.querySelector(".content-overlay");t.style.maxHeight="none",t.style.overflow="visible",t.style.position="static",t.style.maxHeight="none",e.style.display="none";var n=document.querySelector(".content-overlay");document.getElementById("the-than").innerHTML=n.innerHTML;let l=document.querySelectorAll("div.content-container");l.forEach(e=>{e.remove()}),clicked(),window.scrollTo({top:456,behavior:"smooth"})}
 </script>
-<button id="read-more-btn-hell" class="read-more-btn" onclick="handleClickReadMoreBtn()">Read More</button>
 </div>
 <div id="the-than"></div>
 <br>
@@ -93,6 +137,12 @@ let isScriptEnabled=!0;const triggerElement=document.getElementById("triggerLoad
     var index = url.indexOf("https://");
     return index !== -1 ? url.slice(index) : url;
 }
+const closeBtn = document.getElementById('read-more-btn-hell');
+
+// Hide the overlay when the close button is clicked
+closeBtn.addEventListener('click', () => {
+  bottomOverlay.style.display = 'none';
+});
 </script>
 
 <!-- var imageUrl = getAbsoluteUrl("{{ site.baseurl }}/{{ page.image }}");
