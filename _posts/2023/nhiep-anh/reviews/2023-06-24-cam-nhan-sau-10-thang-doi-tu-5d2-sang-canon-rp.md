@@ -1,178 +1,76 @@
 ---
 layout: post
-title: 'Canon 28-105mm điểm cân bằng hoàn hảo, ông hoàng du lịch-chúa tể đa dụng!!!'
+title: 'Canon RP, Gã nông dân dở dở ương ương.'
 author: sal
 lazyimages: "enabled"
 categories: [ Reviews 📝 ]
 tags: [nhiếp ảnh, ống kính]
 image: assets/images/2023/reviews/avt/thong-so-canon-28-105-3-5-4-5-avt.webp
 rating: 4.5
-permalink: reviews/nhiep-anh/danh-gia-canon-28-105mm-f3-5-f4-5-ong-vua-da-dung-gia-re-1
-excerpt: Ống kính Canon EF 28-105mm f3.5-4.5 USM với chất lượng quang học tốt, được mệnh danh là quý nhân cứu cánh cho anh em trót dấn thân bãy lầy fullframe. Đang khát ống kính đa tiêu cự để vừa học, vừa phục vụ nhiều nhu cầu. Lens được bán rất nhiều, giá tương đối rẻ, nhưng lại rất ít người nói tới.
-description: Ống kính Canon EF 28-105mm f3.5-4.5 USM với chất lượng quang học tốt, được mệnh danh là quý nhân cứu cánh cho anh em trót dấn thân bãy lầy fullframe. Đang khát ống kính đa tiêu cự để vừa học, vừa phục vụ nhiều nhu cầu. Lens được bán rất nhiều, giá tương đối rẻ, nhưng lại rất ít người nói tới.
+permalink: reviews/danh-gia-canon-rp-va-lens-rf-uu-nhuoc-diem-so-sanh
+excerpt: Canon RP là một chiếc máy ảnh mirrorless full-frame với mức giá phải chăng, phù hợp cho nhu cầu chụp ảnh cơ bản và du lịch nhẹ nhàng. Tuy nhiên, khi đi sâu vào sử dụng thực tế, máy cũng bộc lộ những ưu nhược điểm rõ ràng, đặc biệt khi so sánh với các dòng máy ảnh khác hoặc các hệ máy crop như Sony A6300/A6400.
+description: Canon RP là một chiếc máy ảnh mirrorless full-frame với mức giá phải chăng, phù hợp cho nhu cầu chụp ảnh cơ bản và du lịch nhẹ nhàng. Tuy nhiên, khi đi sâu vào sử dụng thực tế, máy cũng bộc lộ những ưu nhược điểm rõ ràng, đặc biệt khi so sánh với các dòng máy ảnh khác hoặc các hệ máy crop như Sony A6300/A6400.
 adsense: "enabled"
 keywords:
-  - Lens đa dụng canon siêu rẻ
-  - Lens đa dụng canon fullframe, crop
-  - 28-105mm 3.5-4.5 USM II
-  - 28-105mm 3.5-4.5
-  - Canon28105
-  - Canon28_105USM
-  - LensCanon
-  - CanonLens
-date: '2021-07-23'
+  - Canon RP đánh giá
+  - Canon RP có tốt không
+  - So sánh Canon RP và Sony A6400
+  - Canon RP và lens RF
+  - Đánh giá Canon RP chi tiết
+  - Kinh nghiệm sử dụng Canon RP
+  - Canon RP chụp ảnh chân dung
+  - Canon RP chụp du lịch
+  - Lens RF tốt nhất cho Canon RP
+  - Canon RP có nên mua
+date: '2024-12-12'
 ---
 
-Cảm nhận sau khi chuyển từ 5d3 70 200 2.8 sang RP 35, 85 RF 10 tháng.
-Với nhu cầu gọn nhẹ, ít chụp dịch vụ, hay cầm đi du lịch nên đã giải tán toàn bộ gear 5D3 dù chất ảnh, công năng vẫn quá ngon
-Sang RP hụt hẫng thật sự dù đọc review, xem thông số kỹ
-Mầu raw làm theo preset cũ của 5D3 lên ko đẹp bằng, cảm giác mầu nhạt nên phải fix lại
-Tốc độ chụp thấp, chưa kể 1/4000 làm cảm giác ko khoái lắm nhất là khi nắng to
-Pin quá yếu, nếu live view nhiều, xem lại ảnh nhiều thì ảnh sương sương 300, chụp 1 góc nhiều ảnh thì lên dc 500, nếu chụp qua kính ngắm, set lại cài đặt tối ưu thì được nhiều hơn.
-Nói chung đi chụp cả ngày thủ 4 viên pin ko thừa
-Dù có eye tracking khá tiện, nhưng tốc độ chụp thấp nên các chuyển động nhanh dễ out
-Vẫn nhớ nhung các vòng xoay, joytich của 5d3. Thao tác ko dc nhanh như 5d3 nhưng dùng nhiều thì có thể cải thiện hơn.
-Phân giải 26. nên làm ảnh zoom sướng hơn tý
-Chất ảnh 85 RF đủ dùng, lấy nét chậm thậm chí thấy chậm và ko êm nhanh bằng EF 85 1.8. Thiếu sáng là ăn thụt thò, kể cả ban ngày cũng có thể bị.
-35 RF gọn nhẹ, chất ảnh ok trong tầm giá. Lấy nét nhanh, kêu khá to:V. Chủ yếu cắm mang đi du lịch thì hợp lý. Cảm giác ảnh chưa thật sự sắc lắm
-Có wifi nên tầu nhanh khá tiện khi đi chơi. Cắm flash godox ko cân và ko chặt ở hotshoe
-Vài ảnh mới chụp. drive.google.
-com/drive/u/4/folders/1bMRoC3pn4LWWxioOXgJ1fblY27EORrYO Copy bỏ khoảng trắng
-**Cần tìm flash godox 860 hoặc V1
+### **Trải nghiệm thực tế khi chuyển từ Canon 5D Mark II sang RP:**
 
+*   Khi chuyển từ dòng DSLR như 5D2 sang mirrorless RP, người dùng dễ cảm thấy hụt hẫng. Dù RP có độ phân giải 26MP và eye tracking hiện đại, nhưng tốc độ chụp và thao tác tổng thể chậm hơn.
+*   Các thao tác truyền thống như vòng xoay, joystick trên 5D2 không có trên RP, làm trải nghiệm ban đầu hơi khó chịu, nhưng có thể cải thiện qua thời gian.
+*   File RAW từ RP khi áp dụng preset cũ (dành cho 5D2) thường nhạt hơn, cần thêm thời gian chỉnh sửa để đạt được chất lượng mong muốn.
 
-<ul>
-<li>Đánh giá của <a href="/nhiep-anh/reviews/tam-biet-canon-5d2" style="color:red" target="_blank">Anh Hàng Xóm</a>: Tốt</li>
-<li>Giá Canon EF 28-105mm f3.5-4.5 USM:~1.5 triệu (tùy giá cũ theo ngoại hình)</li>
-<li>Năm: 2000-2010</li>
-<li>Đối tượng: chụp choẹt nghiệp dư, người mới chơi hoặc người có tài chính hạn hẹp</li>
-<li>Phù hợp: chụp chân dung nhẹ, phong cảnh góc trung, kiến trúc, thể thao với tốc độ chuyển động không quá nhanh</li>
-</ul>
+### **Ưu điểm của Canon RP:**
 
-#### 1\. CẤU TẠO VÀ THIẾT KẾ
+1.  **Skintone đẹp:**
+    Màu da là một thế mạnh truyền thống của Canon. So với Fuji, màu da từ Canon tự nhiên hơn, không bị “hồng hồng” hay giả tạo, rất phù hợp cho chụp chân dung.
+2.  **Gọn nhẹ:**
+    Máy có thiết kế nhỏ gọn, nhẹ, rất tiện lợi khi mang đi du lịch hoặc sử dụng lâu mà không gây quá nhiều mỏi tay.
+3.  **Chất lượng ảnh JPG ổn:**
+    File JPG của Canon RP có màu sắc nịnh mắt, dễ dùng ngay mà không cần chỉnh sửa nhiều. File RAW (CR3) dù khó chỉnh hơn nhưng nếu biết làm màu, bạn vẫn có thể khai thác tốt.
+4.  **Hệ lens RF:**
+    *   **RF 35mm f/1.8:** Gọn nhẹ, chất lượng ổn trong tầm giá, lấy nét nhanh nhưng tiếng kêu khá to. Rất phù hợp với mục đích du lịch.
+    *   **RF 85mm f/2.0:** Ảnh đủ dùng, nhưng tốc độ lấy nét không nhanh và êm bằng EF 85mm f/1.8, thậm chí có thể bị hiện tượng "thụt thò" trong điều kiện ánh sáng yếu.
+5.  **Tiện ích hiện đại:**
+    Canon RP có wifi, giúp chuyển ảnh nhanh chóng, đặc biệt hữu ích khi đi chơi hoặc cần chia sẻ ảnh tức thời.
 
-*   Canon 28-105mm f/3.5-4.5 USM lấy nét nhanh, build chắn chắn, nhỏ gọn, hoạt động hoàn hảo với canon rp khi có thể 'automatic corrections'. Sẽ là đa dụng khi bạn có thể chụp ảnh trung cảnh phong cảnh và kiến trúc, nếu muốn chụp toàn cảnh thì bạn phải đi khá xa vì 28mm có lẽ không đủ đâu. Có thể bao quát chủ đề đời thường và chân dung góc rộng hoặc chụp nhóm người. Có thể chụp cận cảnh phong cảnh và kiến trúc hoặc chân dung bán thân do có dải zoom 70-105mm.
-*   Các vòng xoay lấy nét thủ công mượt mà, vòng zoom tay giật giật không thích hợp cho quay phim.
+### **Nhược điểm của Canon RP:**
 
-<div class="content" style="text-align:center; ">
-<img data-src="../../assets/images/2023/reviews/thong-so-canon-28-105-3-5-4-5-2.webp" class=" lazyload img-thumb lazyimg " /><br><span class="image-caption">Ảnh chụp từ một bên đối tác</span></div>
+1.  **Pin yếu:**
+    Dung lượng pin hạn chế, nếu chụp liên tục hoặc xem lại ảnh nhiều, chỉ chụp được khoảng 300-500 tấm. Cần trang bị ít nhất 2-4 viên pin dự phòng để đảm bảo không gián đoạn khi chụp cả ngày.
+2.  **Dải nhạy sáng kém:**
+    Dải dynamic range không cao, vùng tối (shadow) dễ bị bệt, vùng sáng (highlight) dễ bị cháy. Điều này có thể khiến ảnh trong các điều kiện tương phản cao không đạt chất lượng như mong muốn.
+3.  **Hiệu năng chưa cao:**
+    *   Tốc độ chụp chỉ 5 fps, chưa phù hợp để chụp các thể loại ảnh chuyển động nhanh hoặc thể thao.
+    *   Eye tracking tiện lợi nhưng tốc độ lấy nét tổng thể không thể sánh với các dòng cao cấp hơn hoặc các đối thủ như Sony A6300/A6400.
+4.  **Giới hạn trong quay phim:**
+    Không có chống rung IBIS (trong thân máy), các thông số quay phim không mạnh mẽ, kém cạnh tranh so với các máy hybrid như Sony A6400 hay Fuji X-T4.
 
-#### 2\. TÍNH NĂNG & HOẠT ĐỘNG
+### **So sánh với các lựa chọn khác:**
 
-<p style="text-align:center; ">
-<picture>
-  <source data-srcset="../../assets/images/2023/reviews/thong-so-canon-28-105-3-5-4-5-1.webp" />
-  <img class="responsive" data-lowsrc="../../assets/images/2023/reviews/thong-so-canon-28-105-3-5-4-5-1.webp" alt="Chụp cận cảnh lens Meike 25mm" data-sizes="auto" loading="lazy"/>
-  Hoàng hôn. Công viên Yên Sở Hà Nội. 32mm f4.
-</picture>
-</p>
+1.  **Sony A6300/A6400:**
+    *   **Tốc độ chụp:** 11 fps, vượt trội hơn Canon RP.
+    *   **Khả năng quay video:** A6400 là máy hybrid, làm tốt cả chụp lẫn quay.
+    *   **Dynamic range:** Tốt hơn, giúp xử lý vùng sáng/tối tốt hơn.
+    *   **Chi phí:** A6300 rẻ hơn RP, tối ưu hơn cho nhu cầu chụp cơ bản hoặc thể thao.
+2.  **Canon RP:**
+    *   Phù hợp hơn nếu bạn thích skintone đẹp, màu sắc dễ chịu ngay trên file JPG.
+    *   Là một chiếc máy full-frame giá rẻ, nhưng không phải lựa chọn tối ưu cho chụp thể thao hoặc quay phim chuyên nghiệp.
 
-*   Ống kính ngàm EF, tương thích với cả EF-S
-*   Lens Canon 28-105mm 3.5-4.5 USM II có hệ thống 7 lá khẩu. Khi khép sẽ tạo ra 14 tia đẹp
-*   Tiêu cự: 28-105mm.
-*   Khẩu độ: F3.5-F4.5, Chụp tối được và xóa phông nhẹ với f4 ở tiêu cự 70mm và f4.5 ở tiêu cự 105mm.
-*   Khoảng cách lấy nét tối thiếu: 0.5 mét. Nên không có chức năng macro đâu nhé!
-*   Filter Size: 58mm
-*   Chiếc lens này hệ thống lấy nét tự động với công nghệ untra sonic siêu âm, êm ái, siêu mượt. Kết hợp với hệ thống lấy nét tiên tiến của canon rp hoặc canon 5dIII cũ kỹ trở lên thì thật nhanh gọn, hoàn hảo.
-*   Chất lượng ảnh siêu nét căng tốt ngay từ khẩu to nhất, đẹp lung linh hoàn hảo
-*   Không có vòng chỉnh khẩu độ nhanh.
-*   Ống kính rất đáng tiếc là không được trang bị hệ thống chống rung quang học nhưng khẩu độ f3.5-f4.5 cũng là khá đủ dùng với các chiến thần fullframe bây giờ.
+### **Kết luận:**
 
-#### 3\. MÀU SẮC VÀ CHẤT LƯỢNG ẢNH
+Canon RP là một chiếc máy ảnh full-frame giá rẻ, phù hợp cho nhu cầu chụp ảnh cơ bản và du lịch nhẹ nhàng. Tuy nhiên, với các yêu cầu cao hơn như chụp thể thao, quay phim hay làm dịch vụ, RP khó có thể đáp ứng tốt. Trước khi mua, bạn nên cân nhắc rõ ràng về nhu cầu sử dụng và ngân sách để đưa ra lựa chọn phù hợp nhất.
 
-*   Màu sắc : **Nhạt** hơn lens L. Vì thế khi lắp lens khuyến nghị các bác chơi vivit luôn. Hầu hết thời gian tớ luôn chụp tại khẩu F8. Đi chơi mà, bắt khoảnh khắc và sắc nét luôn được ưu tiện trước tiên.
-*   Ghost và flare: rất ít nha.
-*   Hiệu ứng tia: Ống kính có 7 lá khẩu nên hình thành tới 14 tia - không sắc cạnh và đẹp nhưng cũng không quá xấu.
-*   Bokeh: vì khẩu độ nhỏ nên ít nói tới. 
-*   Độ nét: **Tốt**.
-    * 28mm-35mm-50mm : Ở tiêu cự rộng nhất, ảnh không nét, nhưng từ f5.6 thì nét và nét nhất trong khoảng từ f8 tới f11. At the wide end, sharpness, especially in the corners, improves greatly as stopped down.
-    * 70mm: Nét ở f8 tới f11
-    * 105mm: ảnh ở tiêu cự kém nhất thì chắc chắn sẽ không tốt nhất. Có thể cải thiện bằng cách khép sâu xuống f8->f11
-    *   Mình không khuyến khích dùng khẩu F16, mình chưa gặp nhiễu xạ bao giờ, nhưng vẫn recommend các bạn hạn chế dùng khẩu này. - Vả lại khép thế này thua kit mua lens này làm gì. Gas khỏe vít tẹt đi chớ 😙!!!
+Nếu bạn đã quyết định chọn Canon RP, hãy chuẩn bị thêm pin dự phòng và cân nhắc các lens RF như RF 35mm f/1.8 hoặc RF 85mm f/2.0 để khai thác tối đa chiếc máy này.
 
-Độ méo và tối góc của Canon 28-105mm USM II trên full-frame. Trích nguồn: https://www.kenrockwell.com/
-
-<p style="text-align:center; ">
-<a href="https://imgur.com/yq6eVFk"><img src="https://i.imgur.com/yq6eVFk.png" title="source: imgur.com" /></a><br>
-No peripheral illumination correction
-<br>
-<a href="https://imgur.com/sre81oC"><img src="https://i.imgur.com/sre81oC.png" title="source: imgur.com" /></a>
-Peripheral illumination correction enabled
-</p>
-
-*   Hiệu ứng **Vignetting:**
-    *   Khép ở F8 hiện tượng tối + méo góc biến mất. 
-* Hiệu ứng Sunstars: 14 cánh
-
-<p style="text-align:center; ">
-<a href="https://imgur.com/vMjh1pf"><img src="https://i.imgur.com/vMjh1pf.jpg" title="source: imgur.com" /></a>
-Tiêu cự 105 không quá sắc nét, và cũng chưa đủ để chụp chim chóc hoang dã. Nếu vận dụng chụp chân dung cầu vai hoặc chụp các loài động vật trong sở thú thì đủ ổn.
-</p>
-
-Canon EF 24-105mm f/3.5-5.6 IS STM xóa phông không đủ tốt và tiêu cự không đủ xa để chụp thể thao một cách chuyên nghiệp
-
-<p style="text-align:center; ">
-<a href="https://imgur.com/UBZRKHt"><img src="https://i.imgur.com/UBZRKHt.jpg" title="source: imgur.com" /></a>
-Công viên Yên Sở Hà Nội. Canon RP + canon 28-105mm f3.5-4.5. 28mm f8</p>
-
-#### 4\. KẾT LUẬN & GỢI Ý
-
-Hầu như mọi tạp chí đều đánh giá rất cao, một trong những ống cũ tốt nhất của Canon. Canon 28-105mm f3.5-4.5 thực sự là một ống kính đáng giá.
-
-**Ưu điểm**
-
-*   Giá sinh viên, chất lượng Gáo sư 😌
-*   Khi xoay lens thò thụt nhưng không xoay filter, cực kỳ có lợi cho CPL filter
-*   Kích cỡ siêu nhỏ.
-*   Cái nắp lens cũng dễ tháo lắp.
-*   Ít bị tối góc - vignetting
-
-**Nhược điểm**
-
-*   Độ nét rìa ảnh khi để khẩu lớn kém
-*   Rìa và góc ảnh có quanh sai lớn cùng với đó và bị tối
-*   Sản xuất từ hồi máy từ hồi máy film nên khả năng bị bung ra sửa chữa rất cao.
-
-Phải xem kỹ vì có quá nhiều lens USM tầm giá đó 28-80, 28-135,... Với tầm giá 1,5 triệu 2023 và dải zoom đa dụng, khẩu độ lớn trong dòng zoom cỏ, Canon 28-105mm f3.5-4.5 dường như sinh ra để phù hợp với rất nhiều thể loại ảnh trong cuộc sống hàng ngày, nhỏ gọn , chất lượng khá . Canon 28-105mm f3.5-4.5 là một lens rất đáng tiền nếu bạn đang tìm kiếm một giải pháp giá rẻ mà vẫn thỏa mãn được những nhu cầu chụp của bản thân. Đây cũng là một lựa chọn tốt cho những bạn là người mới, một người du lịch, một người nào đó cổ điển 📷.
-
-<h2>Khuyên dùng</h2>
-
-Bạn muốn một con lens nhỏ gọn vì dường như <a href="/nhiep-anh/reviews/tam-biet-canon-5d2" style="color:red" target="_blank">DSLR đã là quá nặng</a> so với bạn, lens L tốn kém lại nặng nề. Hay bạn đang sở hữu dòng  mirroless nhỏ gọn sẽ chẳng thích nhưng thứ to đùng gắn làm mất hết cả cân đối.
-
-Chỉ với 1tr5 năm 2023, canon zoom đa dụng:
-
-<ul>
-  <li>Bạn đã quá chán nản với những lens fullframe dù chất lượng rất cao nhưng nặng và cồng kềnh</li>
-  <li>Siêu nhẹ, nhỏ gọn</li>
-  <li>Độ sắc nét vùng trung tâm tái tạo khá tốt</li>
-  <li>Focus nhanh và chính xác</li>
-  <li>Hầu như không bị méo ảnh</li>
-  <li>Kích thước gọn nhẹ</li>
-  <li>Giá quá hợp lý so với chất lượng</li>
-  <li>Họạt động tốt với tất cả body canon từ dùng EF, EF-S cũ tới ngàm RF mới thông qua ngàm chuyển</li>
-  <li>Nhu cầu chụp của bạn đơn giản chỉ là gia đình, các chuyến dã ngoại</li>
-<li>Muốn tải nghiệm đa tiêu cự để luyện tay nghề</li>
-<li>Bạn là người mới chơi hoặc người nghiệp dư và đang tìm kiếm một lens ngon bổ rẻ</li>
-<li>Vợ chỉ cho vậy, không cố lên được :v.</li>
-</ul>
-
-Về chất lượng thì 28-105 3.5-4.5 ngon hơn kit 18-55 về cả màu sắc, CA,... Nhưng x1.6 mất wide, tele chẳng tốt nên bạn cần lưu ý. Vì hôm trước thấy thằng em dùng m50 mark II lắp con này. Mình thấy thực sự rất phí. Sắm cho mình thêm một con EF 100-300 4.5-5.6 USM và canon sẽ cho bạn tới cung trăng. :>
-
-Bạn sẽ không nên mua Canon 28-105mm f/3.5-4.5 USM trong các trường hợp dưới đây:
-
-<ul>
-  <li>Chuyên chụp phong cảnh và cũng có tài chính gấp đôi.</li>
-  <li>Chuyên chân dung, thể thao. Công nghệ USM với lens cũ kỹ nên không có ưu thế lấy nét.</li>
-  <li>Bạn đang dùng dòng APS-C</li>
-  <li>Yêu cầu khắt khe về chất lượng ảnh chân dung và có tài chính gấp đôi, gấp ba. Lúc đó bạn có thể lựa chọn lens L dòng fullframe hoặc lens sigma art hoặc tamron hoặc viltrox để có được tốc độ bắt nét tốt nhất và tránh được hiện tượng viền tím.</li>
-</ul>
-
-CHÚ Ý: Khi mua, hãy chọn shop kỹ, vì mặt hàng này đã ra đời rất lâu.
-
-#### Trích nguồn
-*   [**Canon 28-105mm f/3.5-4.5 Full-Frame EF USM II (1992-2010) - © 2012 KenRockwell.com.**](https://www.kenrockwell.com/canon/lenses/28-105mm.htm#perf)
-*   [**Đánh giá lens Canon 28-105 USM đa dụng giá rẻ cho Fullframe và Crop - Aphoto**](https://www.youtube.com/watch?v=mgtsjbzDwac)
-*   [**Canon EF 28-105mm f/3.5-4.5 II USM Lens Review**](https://www.the-digital-picture.com/Reviews/Canon-EF-28-105mm-f-3.5-4.5-II-USM-Lens-Review.aspx)
-*   [**CANON EF 28-105MM F/3.5-4.5 USM 35MM ZOOM**](http://www.photographyreview.com/product/lenses/35mm-zoom/canon/ef-28-105mm-f-3-5-4-5-usm.html)
-*   [**Canon Zoom Lens EF 28-105mm 1: 3.5-4.5 USM review**](https://radojuva.com/en/2013/05/test-canon-28-105-ef/)
-*   [**Canon EF 28-105mm lens**](https://en.wikipedia.org/wiki/Canon_EF_28-105mm_lens)
