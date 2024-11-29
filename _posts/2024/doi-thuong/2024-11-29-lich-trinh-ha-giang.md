@@ -57,6 +57,11 @@ date: 2024-11-29 11:29:11 +0700
 
 2h chiều, mình cập bến TP Hà Giang, phấn khởi check-in tại Km0 – địa điểm không thể bỏ qua khi đến đây. Nhưng mình biết rõ: đi buổi tối ở Hà Giang không khác gì tự làm phim kinh dị. Thế là quyết định nghỉ ngơi, sạc pin cả xe lẫn người, chuẩn bị tinh thần cho ngày mai.
 
+<div class="content" style="text-align:center; ">
+<img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczPsum797JgXF4en5WPH1790L1T9kCwnrSzyoC0lmzovFIw3e_GyE96DZ6-e072tmr991G4r5p3T70NeDMIE_wpQFlZoKYRnkqoY8gzmi734bjCmZp5qFJDTE_SP5dyxgRUqjBfvKDsH2T9mvH4DY6laBQ=w1223-h917-s-no-gm?authuser=1
+" title="source: imgur.com" alt="nghỉ ngơi ăn tối"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczM4ydKdgdNARZUFrMmRU0ZpGN2KEmn_j6daz8dmeXXb5JiI2U-72QMUM_cyXdkuNTDbyJ4a8ervgWmVtsIWPBcNB_ECIn5nHUn-xOxXyx9uRcsJmALkFUyFg47xAcm3wKBENXEAdXHa4MJM-Cgm1bh-uQ=w688-h917-s-no-gm?authuser=1
+" title="source: imgur.com" alt="niềm đam mê faker doesnt phai"></div>
+
 **Ngày 2: TP Hà Giang – Đồng Văn (hành trình "nghẹt thở" vì cảnh đẹp)**8h sáng, trả phòng, tạm biệt TP Hà Giang để lao vào những cung đường huyền thoại. Điểm đầu tiên là **dốc Bắc Sum**, nơi mình đã chụp 7749 kiểu ảnh với hoa tam giác mạch (bạn biết đấy, "chụp không mỏi tay, khoe không biết chán").
 
 <div class="content" style="text-align:center; ">
