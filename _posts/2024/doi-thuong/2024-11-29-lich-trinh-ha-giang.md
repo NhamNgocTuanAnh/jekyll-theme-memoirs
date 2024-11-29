@@ -106,7 +106,11 @@ Cuối ngày, mình đặt chân đến **Đồng Văn**, kết thúc một ngà
 
 , đường đến cột cờ Lũng Cú
 
-<div class="content" style="text-align:center; "><img loading="lazy" src="https://i.imgur.com/I0tMNRY.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/cTUbNSs.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/ghhzaWN.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/5b7HmLI.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/ktNi9sd.jpeg" ><p></p><br><img loading="lazy" src="https://i.imgur.com/mwGWwWC.png" ><p></p><br></div>
+<div class="content" style="text-align:center; "><img loading="lazy" src="https://i.imgur.com/I0tMNRY.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/cTUbNSs.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/ghhzaWN.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/5b7HmLI.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/ktNi9sd.jpeg" ><p></p><br><img loading="lazy" src="https://i.imgur.com/mwGWwWC.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/ZS7j3pQ.jpeg" ><p></p><br></div>
+
+, Sông nho quế
+
+<div class="content" style="text-align:center; "><img loading="lazy" src="https://i.imgur.com/HdXG2gJ.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/YesTrHW.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/8mTKwGH.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/T3XuKlB.jpeg" ><p></p><br></div>
 
 Chiều về, do "tham vọng nhưng không khéo tính toán", bọn mình chọn **con đường ngắn nhất** để về TP Hà Giang. Và đây là sai lầm lớn: con đường tối om, ổ gà chi chít, xung quanh chẳng có bóng người, chỉ có tiếng xe mình gầm gừ như muốn khóc.
 
