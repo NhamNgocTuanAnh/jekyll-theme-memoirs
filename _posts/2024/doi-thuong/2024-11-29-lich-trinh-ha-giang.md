@@ -106,7 +106,7 @@ Cuối ngày, mình đặt chân đến **Đồng Văn**, kết thúc một ngà
 
 , đường đến cột cờ Lũng Cú
 
-<div class="content" style="text-align:center; "><img loading="lazy" src="https://i.imgur.com/I0tMNRY.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/cTUbNSs.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/ghhzaWN.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/5b7HmLI.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/ktNi9sd.jpeg" ><p></p><br><img loading="lazy" src="https://i.imgur.com/mwGWwWC.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/ZS7j3pQ.jpeg" ><p></p><br></div>
+<div class="content" style="text-align:center; "><img loading="lazy" src="https://i.imgur.com/I0tMNRY.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/cTUbNSs.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/ghhzaWN.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/5b7HmLI.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/ktNi9sd.jpeg" ><p></p><br><img loading="lazy" src="https://i.imgur.com/mwGWwWC.png" ><p></p><br><img loading="lazy" src="https://i.imgur.com/ZS7j3pQ.jpeg" ><p></p><br><img loading="lazy" src="https://i.imgur.com/4zqzTKy.jpeg" ><p>Phần trước có núi đôi, giờ có núi một</p><br></div>
 
 , Sông nho quế
 
