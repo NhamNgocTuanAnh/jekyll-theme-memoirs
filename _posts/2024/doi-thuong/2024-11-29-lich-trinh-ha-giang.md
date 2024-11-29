@@ -84,7 +84,8 @@ Và rồi đi qua **đồi thông Yên Minh** – khung cảnh lãng mạn như 
 
 
 <div class="content" style="text-align:center; ">
-<img loading="lazy" src="https://imgur.com/YymwlVS.png" ><p>Sắp tới đồng văn rồi</p><br><img loading="lazy" src="https://imgur.com/Epim9Ym.png" ><br><p></p><img loading="lazy" src="https://imgur.com/z3hxsK7.png" ><br><p>Checkin Dốc Thẩm mã</p><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczOvE8OtPiXu9MBcU2o3k3KZOo-JiW7_vbcOe4P_Y4vaca1k7kef3O-lvZouqYewFmtTEGkhhQkgZxUEvXLxsHhJG4ctsjEYfcpyIg7XFKEvpj0X-KaX_vdzfNT8FtjAGMJpm1XOpFu1LJnL4jzg6Jvl6g=w1376-h917-s-no-gm?authuser=1" ><br><p></p><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczMRk4NFTGYVNoyk36kfw7cLTD3CZf7Oc0lvGF64SDpKzT5lu-PnSu-P4X_aDFduYIAQKnJQPpnAaKCaPhCMypeYv_8a-_YImW5J7TZ7wA7VZQFWVKDcb-4EaUvdrjW_j1PuLFT3d3TdnABhSLOI2xEBEQ=w611-h917-s-no-gm?authuser=1" ><br><p></p></div>
+<img loading="lazy" src="https://imgur.com/YymwlVS.png" ><p>Sắp tới đồng văn rồi</p><br><img loading="lazy" src="https://imgur.com/Epim9Ym.png" ><br><p></p><img loading="lazy" src="https://imgur.com/z3hxsK7.png" ><br><p>Checkin Dốc Thẩm mã</p><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczOvE8OtPiXu9MBcU2o3k3KZOo-JiW7_vbcOe4P_Y4vaca1k7kef3O-lvZouqYewFmtTEGkhhQkgZxUEvXLxsHhJG4ctsjEYfcpyIg7XFKEvpj0X-KaX_vdzfNT8FtjAGMJpm1XOpFu1LJnL4jzg6Jvl6g=w1376-h917-s-no-gm?authuser=1" ><br><p></p><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczMRk4NFTGYVNoyk36kfw7cLTD3CZf7Oc0lvGF64SDpKzT5lu-PnSu-P4X_aDFduYIAQKnJQPpnAaKCaPhCMypeYv_8a-_YImW5J7TZ7wA7VZQFWVKDcb-4EaUvdrjW_j1PuLFT3d3TdnABhSLOI2xEBEQ=w611-h917-s-no-gm?authuser=1" ><br><p></p><img loading="lazy" src="https://imgur.com/MLOWl86.png" ><p>Sắp tới đồng văn rồi</p><img loading="lazy" src="https://imgur.com/t7He4bF.png" ><p>Khách Tây checkin với cột cờ Việt Nam</p></div>
+
 
 
 
