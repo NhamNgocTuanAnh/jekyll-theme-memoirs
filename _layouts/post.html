@@ -61,6 +61,7 @@ function removeDivs(e){let t=document.querySelectorAll(str(e));t.forEach(e=>{e.r
 <br>
 
 {% include share-bar.html %}
+{% include related-posts.html %}
 <!-- Quote -->
 {% include quote.html %}
 {% include show-keywords.html %}
@@ -76,7 +77,6 @@ function removeDivs(e){let t=document.querySelectorAll(str(e));t.forEach(e=>{e.r
 
 <!-- Share -->
 {% include share.html %}
-{% include related-posts.html %}
 {% if site.url == page.url %}
 <div id="fb-root"></div>
 {% endif %}
@@ -87,7 +87,6 @@ let isScriptEnabled=!0;const triggerElement=document.getElementById("triggerLoad
       window.addEventListener("load", function() {
       window.scrollTo(0, 0);
     });</script>
-
 
 <script>
   function getAbsoluteUrl(url) {
