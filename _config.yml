@@ -167,5 +167,4 @@ jekyll-minifier:
   uglifier_args:
     harmony: true
 
-excerpt_separator: <!--more-->
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

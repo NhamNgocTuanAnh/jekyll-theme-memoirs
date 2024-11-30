@@ -5,6 +5,7 @@ author: sal
 lazyimages: "enabled"
 categories: [ Sức khỏe 💪 ]
 image: assets/images/trai-cay-theo-mua.jpg
+excerpt: "Ăn trái cây. Đúng lúc - Đúng thời điểm"
 ---
 > Bài viết đang trong quá trình phát triển, vui lòng quay lại sau!!!😅
 
