@@ -6,9 +6,9 @@
 let dontRedirect = localStorage.getItem('dontRedirect');
 
 // Nếu người dùng chưa tắt chuyển hướng và đang ở trang chủ
-if (!dontRedirect && window.location.href === "{{ site.baseurl }}/") {
+if (!dontRedirect && window.location.href === "https://anhhangxom.xyz/") {
   if (window.innerWidth <= 768) {
-    window.location.href = "{{ site.baseurl }}/index-mobile/";
+    window.location.href = "https://anhhangxom.xyz/index-mobile/";
   }
 }
   </script>
