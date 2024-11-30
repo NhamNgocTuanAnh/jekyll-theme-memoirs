@@ -48,6 +48,7 @@ comments: true
 {% include toc.html content=page.content skip_toc=page.skip_toc%}
 
 <br>
+
 <div class="content-container">
   <div class="content-overlay">
 
@@ -122,7 +123,8 @@ var imageUrl = getAbsoluteUrl("{{ site.baseurl }}/{{ page.image }}");
         featuredImage.removeAttribute("loaded");
     }
 })(); </script>
-
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/toastr.min.css">
+<script src="{{ site.baseurl }}/assets/js/toastr.min.js"></script>
 <script>
   // JSON array of posts from the same categories as the current post
   const sameCategoryPosts = [
@@ -149,4 +151,112 @@ var imageUrl = getAbsoluteUrl("{{ site.baseurl }}/{{ page.image }}");
   // Output the random post to the console
   console.log("randomPost");
   console.log(randomPost);
+  document.addEventListener("DOMContentLoaded", () => {
+    // JSON object chứa nội dung và link
+    const snackbarData = {
+        message: "Hey, just letting you know...",
+        link: "https://example.com"
+    };
+
+    // Tạo phần tử <div> với id="snackbar"
+    const snackbar = document.createElement("div");
+    snackbar.id = "snackbar";
+
+    // Tạo phần tử <span> và chèn thẻ <a> vào
+    const span = document.createElement("span");
+    const link = document.createElement("a");
+    link.href = randomPost.url || "";
+    link.textContent =  randomPost.title || ""; // Nội dung từ JSON
+    span.appendChild(link);
+
+    // Tạo nút đóng và gắn sự kiện click
+    const button = document.createElement("button");
+    button.id = "cancel";
+    button.textContent = " X";
+    button.onclick = cancelSnackBar;
+
+    // Thêm <span> và <button> vào <div id="snackbar">
+    snackbar.appendChild(span);
+    snackbar.appendChild(button);
+
+    // Thêm <div id="snackbar"> vào body của trang
+    document.body.appendChild(snackbar);
+
+});
+
+// Hàm để xử lý đóng snackbar
+function cancelSnackBar() {
+  const snackbar = document.getElementById("snackbar");
+    if (snackbar) {
+        snackbar.style.display = "none"; // Ẩn snackbar khi nhấn nút đóng
+    }
+}
+const snackbar = document.querySelector("#snackbar");
+window.onload = (event) => {
+  setTimeout(() => {
+    snackbar.classList.add("show"); // Thêm class để hiển thị snackbar
+    }, 13000); // Hiển thị sau 30 giây (30000 ms)
+};
+
 </script>
+<style>
+  #snackbar {
+    position: fixed; /* Để thẻ snackbar luôn ở vị trí cố định */
+    left: 50%; /* Đặt thẻ ở giữa theo chiều ngang */
+    bottom: 20px; /* Đặt thẻ cách chân trang 20px */
+    transform: translateX(-50%); /* Dịch chuyển thẻ về phía bên trái để hoàn toàn căn giữa */
+    background-color: #333; /* Màu nền */
+    color: white; /* Màu chữ */
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    z-index: 1000; /* Đảm bảo snackbar luôn nằm trên các phần tử khác */
+}
+#snackbar span {
+  text-align: center;
+}
+#cancel {
+  border: 2px solid transparent;
+  border-radius: .5rem;
+  background: var(--clr-bg-snack);
+  color: var(--clr-snack-txt);
+  cursor: pointer;
+  position: absolute;
+  right: 1ch;
+  top: 25%;
+  transition: filter calc(var(--time) / 3) ease-in-out;
+}
+#cancel:hover, #cancel:focus-within {
+  filter: invert(100%);
+}
+#snackbar.show {
+  margin-top: calc(-1 * var(--snack-offset));
+  animation-name: fadein;
+}
+#snackbar.goout {
+  margin-top: 0px;
+  animation-name: fadeout;
+}
+#snackbar.drop {
+  animation-name: drop;
+  animation-delay: var(--time);
+}
+@keyframes fadein {
+  from {margin-top: 0px;}
+  to {margin-top: calc(-1 * var(--snack-offset));}
+}
+@keyframes fadeout {
+  from { margin-top: calc(-1 * var(--snack-offset)); }
+  to {margin-top: 0px;}
+}
+@keyframes drop {
+  from { display: initial; } to { display: none; }
+}
+@media(prefers-color-scheme: dark) {
+  :root {
+   --clr-bg: #8c2;
+   --clr-snack: #ccc;
+   --clr-snack-txt: #323;
+  }
+}
+</style>
