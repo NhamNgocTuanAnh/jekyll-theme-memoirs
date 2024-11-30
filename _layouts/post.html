@@ -135,7 +135,7 @@ var imageUrl = getAbsoluteUrl("{{ site.baseurl }}/{{ page.image }}");
             "title": "{{ post.title | escape }}",
             "url": "{{ post.url | relative_url }}",
             "date": "{{ post.date | date_to_string }}",
-            "excerpt": "{{ post.excerpt | escape | strip_html | truncatewords:30 }}"
+            "excerpt": "{{ post.excerpt | escape | strip_html | truncatewords:30 }}" || ""
           }{% if forloop.last == false %},{% endif %}
         {% endif %}
       {% endif %}
