@@ -211,8 +211,6 @@ window.onload = (event) => {
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
     z-index: 1000; /* Đảm bảo snackbar luôn nằm trên các phần tử khác */
-    display: none; /* Mặc định ẩn snackbar */
-    opacity: 0; /* Mờ hoàn toàn */
 }
 #snackbar span {
   text-align: center;
@@ -234,8 +232,6 @@ window.onload = (event) => {
 #snackbar.show {
   margin-top: calc(-1 * var(--snack-offset));
   animation-name: fadein;
-  display: block; /* Hiển thị snackbar */
-  opacity: 1; /* Hiện rõ snackbar */
 }
 #snackbar.goout {
   margin-top: 0px;
