@@ -126,134 +126,113 @@ var imageUrl = getAbsoluteUrl("{{ site.baseurl }}/{{ page.image }}");
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/toastr.min.css">
 <script src="{{ site.baseurl }}/assets/js/toastr.min.js"></script>
 <script>
-  // JSON array of posts from the same categories as the current post
-  const sameCategoryPosts = [
-    {% assign current_categories = page.categories %}
-    {% for post in site.posts %}
-      {% if post != page %}
-        {% assign common_categories = post.categories | intersection: current_categories %}
-        {% if common_categories.size > 0 %}
-          {
-            "title": "{{ post.title | escape }}",
-            "url": "{{ post.url | relative_url }}",
-            "date": "{{ post.date | date_to_string }}"
-          }{% if forloop.last == false %},{% endif %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-  ];
+document.addEventListener("DOMContentLoaded", () => {
+    // JSON array of posts from the same categories as the current post
+    const sameCategoryPosts = [
+        {% assign current_categories = page.categories %}
+        {% for post in site.posts %}
+            {% if post != page %}
+                {% assign common_categories = post.categories | intersection: current_categories %}
+                {% if common_categories.size > 0 %}
+                {
+                    "title": "{{ post.title | escape }}",
+                    "url": "{{ post.url | relative_url }}",
+                    "date": "{{ post.date | date_to_string }}"
+                }{% if forloop.last == false %},{% endif %}
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+    ];
 
-  // Select a random post
-  const randomPost = sameCategoryPosts.length > 0
-    ? sameCategoryPosts[Math.floor(Math.random() * sameCategoryPosts.length)]
-    : null;
+    // Select a random post
+    const randomPost = sameCategoryPosts.length > 0
+        ? sameCategoryPosts[Math.floor(Math.random() * sameCategoryPosts.length)]
+        : null;
 
-  // Output the random post to the console
-  console.log("randomPost");
-  console.log(randomPost);
-  document.addEventListener("DOMContentLoaded", () => {
+    if (!randomPost) {
+        console.log("No related post found.");
+        return; // Không thực hiện tiếp nếu không có bài viết nào
+    }
 
+    console.log("Random Post:", randomPost);
+
+    // Tạo và hiển thị snackbar
+    createSnackbar(randomPost);
+    setTimeout(() => showSnackbar(), 1000); // Hiển thị sau 1 giây
+});
+
+// Hàm tạo snackbar
+function createSnackbar(post) {
     // Tạo phần tử <div> với id="snackbar"
     const snackbar = document.createElement("div");
     snackbar.id = "snackbar";
 
-    // Tạo phần tử <span> và chèn thẻ <a> vào
+    // Nội dung <span> và thẻ <a>
     const span = document.createElement("span");
     const link = document.createElement("a");
-    link.href = randomPost.url || "";
-    const textContentMain =  "Next Post: " + (randomPost.title || "");
-    console.log(textContentMain);
-
-    link.textContent = textContentMain; // Nội dung từ JSON
+    link.href = post.url || "#";
+    link.textContent = `Next Post: ${post.title || "Untitled"}`;
     span.appendChild(link);
 
-    // Tạo nút đóng và gắn sự kiện click
+    // Nút đóng
     const button = document.createElement("button");
     button.id = "cancel";
     button.textContent = " || Đóng X";
-    button.onclick = cancelSnackBar;
+    button.onclick = () => snackbar.style.display = "none"; // Ẩn snackbar khi nhấn nút
 
-    // Thêm <span> và <button> vào <div id="snackbar">
+    // Thêm các phần tử vào snackbar
     snackbar.appendChild(span);
     snackbar.appendChild(button);
 
-    // Thêm <div id="snackbar"> vào body của trang
+    // Thêm snackbar vào body
     document.body.appendChild(snackbar);
+}
 
-});
-
-// Hàm để xử lý đóng snackbar
-function cancelSnackBar() {
-  const snackbar = document.getElementById("snackbar");
+// Hàm hiển thị snackbar
+function showSnackbar() {
+    const snackbar = document.getElementById("snackbar");
     if (snackbar) {
-        snackbar.style.display = "none"; // Ẩn snackbar khi nhấn nút đóng
+        snackbar.classList.add("show");
     }
 }
-const snackbar = document.querySelector("#snackbar");
-window.onload = (event) => {
-  setTimeout(() => {
-    snackbar.classList.add("show"); // Thêm class để hiển thị snackbar
-    }, 1000); // Hiển thị sau 30 giây (30000 ms)
-};
 
 </script>
 <style>
-  #snackbar {
-    position: fixed; /* Để thẻ snackbar luôn ở vị trí cố định */
-    left: 50%; /* Đặt thẻ ở giữa theo chiều ngang */
-    bottom: 80px; /* Đặt thẻ cách chân trang 20px */
-    transform: translateX(-50%); /* Dịch chuyển thẻ về phía bên trái để hoàn toàn căn giữa */
-    background-color: #333; /* Màu nền */
-    color: white; /* Màu chữ */
+ #snackbar {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333;
+    color: #fff;
     padding: 16px;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-    z-index: 1000; /* Đảm bảo snackbar luôn nằm trên các phần tử khác */
+    display: none;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+    z-index: 1000;
 }
-#snackbar span {
-  text-align: center;
-}
-#cancel {
-  border: 2px solid transparent;
-  border-radius: .5rem;
-  background: var(--clr-bg-snack);
-  color: var(--clr-snack-txt);
-  cursor: pointer;
-  right: 1ch;
-  top: 25%;
-  transition: filter calc(var(--time) / 3) ease-in-out;
-}
-#cancel:hover, #cancel:focus-within {
-  filter: invert(100%);
-}
+
 #snackbar.show {
-  margin-top: calc(-1 * var(--snack-offset));
-  animation-name: fadein;
+    display: block;
+    opacity: 1;
 }
-#snackbar.goout {
-  margin-top: 0px;
-  animation-name: fadeout;
+
+#snackbar a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
 }
-#snackbar.drop {
-  animation-name: drop;
-  animation-delay: var(--time);
+
+#snackbar button {
+    background: transparent;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
 }
-@keyframes fadein {
-  from {margin-top: 0px;}
-  to {margin-top: calc(-1 * var(--snack-offset));}
-}
-@keyframes fadeout {
-  from { margin-top: calc(-1 * var(--snack-offset)); }
-  to {margin-top: 0px;}
-}
-@keyframes drop {
-  from { display: initial; } to { display: none; }
-}
-@media(prefers-color-scheme: dark) {
-  :root {
-   --clr-bg: #8c2;
-   --clr-snack: #ccc;
-   --clr-snack-txt: #323;
-  }
+
+#snackbar button:hover {
+    color: #ff0;
 }
 </style>
