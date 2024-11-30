@@ -122,3 +122,32 @@ var imageUrl = getAbsoluteUrl("{{ site.baseurl }}/{{ page.image }}");
         featuredImage.removeAttribute("loaded");
     }
 })(); </script>
+
+<script>
+  // JSON array of posts from the same categories as the current post
+  const sameCategoryPosts = [
+    {% assign current_categories = page.categories %}
+    {% for post in site.posts %}
+      {% if post != page %}
+        {% assign common_categories = post.categories | intersection: current_categories %}
+        {% if common_categories.size > 0 %}
+          {
+            "title": "{{ post.title | escape }}",
+            "url": "{{ post.url | relative_url }}",
+            "excerpt": "{{ post.excerpt | strip_html | truncatewords:30 }}",
+            "date": "{{ post.date | date_to_string }}"
+          }{% if forloop.last == false %},{% endif %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  ];
+
+  // Select a random post
+  const randomPost = sameCategoryPosts.length > 0
+    ? sameCategoryPosts[Math.floor(Math.random() * sameCategoryPosts.length)]
+    : null;
+
+  // Output the random post to the console
+  console.log("randomPost");
+  console.log(randomPost);
+</script>
