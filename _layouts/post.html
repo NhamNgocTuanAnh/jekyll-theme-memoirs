@@ -152,11 +152,6 @@ var imageUrl = getAbsoluteUrl("{{ site.baseurl }}/{{ page.image }}");
   console.log("randomPost");
   console.log(randomPost);
   document.addEventListener("DOMContentLoaded", () => {
-    // JSON object chứa nội dung và link
-    const snackbarData = {
-        message: "Hey, just letting you know...",
-        link: "https://example.com"
-    };
 
     // Tạo phần tử <div> với id="snackbar"
     const snackbar = document.createElement("div");
@@ -166,13 +161,13 @@ var imageUrl = getAbsoluteUrl("{{ site.baseurl }}/{{ page.image }}");
     const span = document.createElement("span");
     const link = document.createElement("a");
     link.href = randomPost.url || "";
-    link.textContent =  randomPost.title || ""; // Nội dung từ JSON
+    link.textContent = "Bài tiếp theo: " + str(randomPost.title || ""); // Nội dung từ JSON
     span.appendChild(link);
 
     // Tạo nút đóng và gắn sự kiện click
     const button = document.createElement("button");
     button.id = "cancel";
-    button.textContent = " X";
+    button.textContent = " || Đóng X";
     button.onclick = cancelSnackBar;
 
     // Thêm <span> và <button> vào <div id="snackbar">
