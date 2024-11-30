@@ -5,75 +5,7 @@ post_class: post-template
 comments: true
 ---
 <script>
-  // Import the required Firebase modules
-  // import { initializeApp } from "https://www.gstatic.com/firebasejs/9.17.1/firebase-app.js";
-  // import { getDatabase, ref, runTransaction } from "https://www.gstatic.com/firebasejs/9.17.1/firebase-database.js";
-
-  // // Firebase Configuration
-  // const firebaseConfig = {
-  //   apiKey: "AIzaSyDb6FkI9GhFxhvoRFEjrwUlm0hjnknFexQ",
-  //   authDomain: "anhhangxom-f6906.firebaseapp.com",
-  //   projectId: "anhhangxom-f6906",
-  //   storageBucket: "anhhangxom-f6906.firebasestorage.app",
-  //   messagingSenderId: "1048642154919",
-  //   appId: "1:1048642154919:web:a8f2047aa14bf85fc24682",
-  //   measurementId: "G-FX38JTJ1SL"
-  // };
-
-  // // Initialize Firebase
-  // const app = initializeApp(firebaseConfig);
-  // const db = getDatabase(app);
-// Hàm xóa các phần tử dựa trên selector
-// function removeDivs(selector) {
-//     document.querySelectorAll(selector).forEach(element => element.remove());
-// }
-
-// Hàm xử lý khi nhấn nút "Read More"
-function handleClickReadMoreBtn() {
-    const readMoreBtn = document.getElementById("read-more-btn-hell");
-    const contentOverlay = document.querySelector(".content-overlay");
-    const theThan = document.getElementById("the-than");
-
-    // Thay đổi CSS để hiển thị nội dung
-    Object.assign(contentOverlay.style, {
-        maxHeight: "none",
-        overflow: "visible",
-        position: "static"
-    });
-    document.querySelectorAll(".content-overlay").forEach(element => {
-        element.style.maxHeight = "none";
-    });
-
-    // Ẩn nút "Read More"
-    readMoreBtn.style.display = "none";
-
-    // Cập nhật nội dung cho #the-than
-    // theThan.innerHTML = contentOverlay.innerHTML;
-
-    // Xóa tất cả các div có class "content-container"
-    // removeDivs("div.content-container");
-
-    // Cuộn đến vị trí cụ thể
-    window.scrollTo({
-        top: 456,
-        behavior: "smooth"
-    });
-
-    // Tăng giá trị đếm buttonClicks trong Firebase
-    // const countRef = ref(db, "buttonClicks");
-    // runTransaction(countRef, currentCount => (currentCount || 0) + 1)
-    //     .then(() => console.log("Button click count incremented!"))
-    //     .catch(error => console.error("Error incrementing count:", error));
-    ga('send', 'event', 'read-new', 'read-more', "{{ site.url }}{{ page.url }}", 10);
-}
-
-// Gắn sự kiện cho nút "Read More" sau khi DOM đã tải xong
-document.addEventListener("DOMContentLoaded", () => {
-    const button = document.getElementById("read-more-btn-hell");
-    if (button) {
-        button.addEventListener("click", handleClickReadMoreBtn);
-    }
-});
+function handleClickReadMoreBtn(){let e=document.getElementById("read-more-btn-hell");document.querySelectorAll(".content-overlay").forEach(e=>{e.style.maxHeight="none"}),e.style.display="none",window.scrollTo({top:456,behavior:"smooth"}),ga("send","event","read-new","read-more","{{ page.url }}",10)}document.addEventListener("DOMContentLoaded",()=>{let e=document.getElementById("read-more-btn-hell");e&&e.addEventListener("click",handleClickReadMoreBtn)});
 </script>
 <div class="entry-header" style="display: none;"><br>
   <h1 class="posttitle"><a style="color:#3a3a3a" href="{{ site.baseurl }}{{ post.url }}" target="_blank">{{ page.title }}</a></h1>
@@ -217,12 +149,7 @@ document.addEventListener("DOMContentLoaded", () => {
         console.log("No related post found.");
         return; // Không thực hiện tiếp nếu không có bài viết nào
     }
-
-    console.log("Random Post:", randomPost);
-
-    // Tạo và hiển thị snackbar
-    createSnackbar(randomPost);
-    setTimeout(() => showSnackbar(), 1000); // Hiển thị sau 1 giây
+    createSnackbar(randomPost),setTimeout(()=>showSnackbar(),1e3);
 });
 
 // Hàm tạo snackbar
