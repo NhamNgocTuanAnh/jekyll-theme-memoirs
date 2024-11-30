@@ -2,6 +2,13 @@
 layout: none
 ---
 <html lang="vi"><head>
+  <script>
+    function toggleInterface(){
+      localStorage.setItem('dontRedirect', true);
+      // Hiển thị thông báo cho người dùng
+      alert('Bạn đã tắt tính năng chuyển hướng tự động.');
+    }
+  </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Home | Anh Hàng Xóm Mobile</title>
@@ -46,7 +53,7 @@ function redirectToCategories(){
       <p><span class="save-mode-text" style="
         color: #5d5353;
         text-shadow: 0 0 5px rgb(235 212 212 / 50%);
-        ">Bạn đang trong chế độ Lite Mode <i class="fa-solid fa-mobile"></i><br>Nhưng đừng lo, dưới đây là những bài viết nổi bật nhất dành cho bạn ❤ </span></p>
+        ">Bạn đang trong chế độ Mobile Mode <i class="fa-solid fa-mobile"></i><br>Dưới đây là những bài viết nổi bật nhất dành cho bạn ❤ </span></p>
     </div>
   </nav>
       <main>
