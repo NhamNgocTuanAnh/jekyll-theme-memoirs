@@ -8,6 +8,7 @@ tags: [ Ăn, Đồ ăn, Dinh dưỡng ]
 image: assets/images/thuc-pham-tot.webp
 rating: 4.5
 comments: true
+excerpt: "2019 - Nhân tố Enzyme - Ý tưởng khởi nguồn"
 ---
 
 > Bài viết đang trong quá trình phát triển, vui lòng quay lại sau!!!😅
