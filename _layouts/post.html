@@ -162,77 +162,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 // Hàm tạo snackbar
-function createSnackbar(post) {
-    // Tạo phần tử <div> với id="snackbar"
-    const snackbar = document.createElement("div");
-    snackbar.id = "snackbar";
-
-    // Nội dung <span> và thẻ <a>
-    const span = document.createElement("span");
-    const link = document.createElement("a");
-    link.href = post.url || "#";
-    link.textContent = `Next Post: ${post.title || "Untitled"}`;
-    span.appendChild(link);
-
-    // Nút đóng
-    const button = document.createElement("button");
-    button.id = "cancel";
-    button.textContent = " || Đóng X";
-    button.onclick = () => snackbar.style.display = "none"; // Ẩn snackbar khi nhấn nút
-
-    // Thêm các phần tử vào snackbar
-    snackbar.appendChild(span);
-    snackbar.appendChild(button);
-
-    // Thêm snackbar vào body
-    document.body.appendChild(snackbar);
-}
-
-// Hàm hiển thị snackbar
-function showSnackbar() {
-    const snackbar = document.getElementById("snackbar");
-    if (snackbar) {
-        snackbar.classList.add("show");
-    }
-}
-
-</script>
+function createSnackbar(e){let t=document.createElement("div");t.id="snackbar";let n=document.createElement("span"),a=document.createElement("a");a.href=e.url||"#",a.textContent=`Next Post: ${e.title||"Untitled"}`,n.appendChild(a);let l=document.createElement("button");l.id="cancel",l.textContent="|| Đ\xf3ng X",l.onclick=()=>t.style.display="none",t.appendChild(n),t.appendChild(l),document.body.appendChild(t)}function showSnackbar(){let e=document.getElementById("snackbar");e&&e.classList.add("show")}</script>
 <style>
- #snackbar {
-    position: fixed;
-    bottom: 20px;
-    left: 50%;
-    transform: translateX(-50%);
-    background-color: #333;
-    color: #fff;
-    padding: 16px;
-    border-radius: 8px;
-    display: none;
-    opacity: 0;
-    transition: opacity 0.5s ease-in-out;
-    z-index: 1000;
-}
-
-#snackbar.show {
-    display: block;
-    opacity: 1;
-}
-
-#snackbar a {
-    color: #fff;
-    text-decoration: none;
-    font-weight: bold;
-}
-
-#snackbar button {
-    background: transparent;
-    color: #fff;
-    border: none;
-    cursor: pointer;
-    margin-left: 10px;
-}
-
-#snackbar button:hover {
-    color: #ff0;
-}
+#snackbar{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background-color:#333;color:#fff;padding:16px;border-radius:8px;display:none;opacity:0;transition:opacity .5s ease-in-out;z-index:1000}#snackbar.show{display:block;opacity:1}#snackbar a{color:#fff;text-decoration:none;font-weight:700}#snackbar button{background:transparent;color:#fff;border:none;cursor:pointer;margin-left:10px}#snackbar button:hover{color:#ff0}
 </style>
