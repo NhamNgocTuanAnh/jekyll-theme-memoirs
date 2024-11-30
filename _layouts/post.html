@@ -55,11 +55,36 @@ comments: true
 {% include article.html %}
 
 </div>
-<script>
+<script type="module">
+  // Import the required Firebase modules
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/9.17.1/firebase-app.js";
+  import { getDatabase, ref, runTransaction } from "https://www.gstatic.com/firebasejs/9.17.1/firebase-database.js";
+
+  // Firebase Configuration
+  const firebaseConfig = {
+    apiKey: "AIzaSyDb6FkI9GhFxhvoRFEjrwUlm0hjnknFexQ",
+    authDomain: "anhhangxom-f6906.firebaseapp.com",
+    projectId: "anhhangxom-f6906",
+    storageBucket: "anhhangxom-f6906.firebasestorage.app",
+    messagingSenderId: "1048642154919",
+    appId: "1:1048642154919:web:a8f2047aa14bf85fc24682",
+    measurementId: "G-FX38JTJ1SL"
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const db = getDatabase(app);
   function clicked(){
     updateButtonCount('10jupok9mWoea87H2kMhvbt1PkunIimwaEErxPkeEf0U', 'Sheet1!A1:A'); // Ghi vào cột A
   }
-function removeDivs(e){let t=document.querySelectorAll(str(e));t.forEach(e=>{e.remove()})}function handleClickReadMoreBtn(){const countRef = db.ref('buttonClicks');countRef.transaction(currentCount => (currentCount || 0) + 1);let e=document.getElementById("read-more-btn-hell"),t=document.querySelector(".content-overlay");t.style.maxHeight="none",t.style.overflow="visible",t.style.position="static",t.style.maxHeight="none",e.style.display="none";var n=document.querySelector(".content-overlay");document.getElementById("the-than").innerHTML=n.innerHTML;let l=document.querySelectorAll("div.content-container");l.forEach(e=>{e.remove()}),clicked(),window.scrollTo({top:456,behavior:"smooth"})}
+function removeDivs(e){let t=document.querySelectorAll(str(e));t.forEach(e=>{e.remove()})}function handleClickReadMoreBtn(){let e=document.getElementById("read-more-btn-hell"),t=document.querySelector(".content-overlay");t.style.maxHeight="none",t.style.overflow="visible",t.style.position="static",t.style.maxHeight="none",e.style.display="none";var n=document.querySelector(".content-overlay");document.getElementById("the-than").innerHTML=n.innerHTML;let l=document.querySelectorAll("div.content-container");l.forEach(e=>{e.remove()}),clicked(),window.scrollTo({top:456,behavior:"smooth"});      const countRef = ref(db, 'buttonClicks');
+      runTransaction(countRef, currentCount => {
+          return (currentCount || 0) + 1;
+      }).then(() => {
+          console.log("Button click count incremented!");
+      }).catch(error => {
+          console.error("Error incrementing count:", error);
+      });}
 </script>
 </div>
 <div id="the-than"></div>

@@ -196,30 +196,4 @@ if (window.innerWidth > 768) {
         }
 </script>
 <style>.header{background-color:var(--color-bg);border-bottom:2px solid var(--color-bg2);position:fixed;width:100%;z-index:3}.header a{color:var(--color-text)}.header .logo{display:block;float:left;font-size:1.2em;padding:10px 20px;text-decoration:none}.header ul{margin:0;padding:0;list-style:none;overflow:hidden;background-color:var(--color-bg)}.header li a{display:block;padding:20px;border-right:2px solid var(--color-bg2);text-decoration:none}.header li:first-child{border-left:2px solid var(--color-bg2)}.header li a:hover,.header .menu-btn:hover{background-color:var(--color-bg2)}.header .menu{clear:both;max-height:0;transition:max-height .2s ease-out}.header .menu-icon{cursor:pointer;display:inline-block;float:right;padding:28px 20px;position:relative;user-select:none}.header .menu-icon .navicon{background:var(--color-text);display:block;height:2px;width:18px;position:relative;transition:background .2s ease-out}.header .menu-icon .navicon:before,.header .menu-icon .navicon:after{background:var(--color-text);content:'';display:block;height:100%;position:absolute;transition:all .2s ease-out;width:100%}.header .menu-icon .navicon:before{top:5px}.header .menu-icon .navicon:after{top:-5px}.header .menu-btn{display:none}.header .menu-btn:checked ~ .menu{max-height:240px}.header .menu-btn:checked ~ .menu-icon .navicon{background:transparent}.header .menu-btn:checked ~ .menu-icon .navicon:before{transform:rotate(-45deg)}.header .menu-btn:checked ~ .menu-icon .navicon:after{transform:rotate(45deg)}.header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,.header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after{top:0}@media (min-width: 48em){.header li{float:left}.header li a{padding:20px 30px}.header .menu{clear:none;float:right;max-height:none}.header .menu-icon{display:none}}section{padding-top:60px}</style>
-<script type="module">
-  // Import the functions you need from the SDKs you need
-  import { initializeApp } from "https://www.gstatic.com/firebasejs/11.0.2/firebase-app.js";
-  import { getAnalytics } from "https://www.gstatic.com/firebasejs/11.0.2/firebase-analytics.js";
-  // TODO: Add SDKs for Firebase products that you want to use
-  // https://firebase.google.com/docs/web/setup#available-libraries
 
-  // Your web app's Firebase configuration
-  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-  const firebaseConfig = {
-    apiKey: "AIzaSyDb6FkI9GhFxhvoRFEjrwUlm0hjnknFexQ",
-    authDomain: "anhhangxom-f6906.firebaseapp.com",
-    projectId: "anhhangxom-f6906",
-    storageBucket: "anhhangxom-f6906.firebasestorage.app",
-    messagingSenderId: "1048642154919",
-    appId: "1:1048642154919:web:a8f2047aa14bf85fc24682",
-    measurementId: "G-FX38JTJ1SL"
-  };
-
-  // Initialize Firebase
-  const app = initializeApp(firebaseConfig);
-  const analytics = getAnalytics(app);
-  // Initialize Firebase
-firebase.initializeApp(firebaseConfig);
-const db = firebase.database();
-
-</script>
