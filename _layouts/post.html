@@ -161,7 +161,7 @@ var imageUrl = getAbsoluteUrl("{{ site.baseurl }}/{{ page.image }}");
     const span = document.createElement("span");
     const link = document.createElement("a");
     link.href = randomPost.url || "";
-    const textContentMain =  randomPost.title;
+    const textContentMain =  "Next Post: " + (randomPost.title || "");
     console.log(textContentMain);
 
     link.textContent = textContentMain; // Nội dung từ JSON
@@ -193,7 +193,7 @@ const snackbar = document.querySelector("#snackbar");
 window.onload = (event) => {
   setTimeout(() => {
     snackbar.classList.add("show"); // Thêm class để hiển thị snackbar
-    }, 130); // Hiển thị sau 30 giây (30000 ms)
+    }, 1000); // Hiển thị sau 30 giây (30000 ms)
 };
 
 </script>
