@@ -161,7 +161,8 @@ var imageUrl = getAbsoluteUrl("{{ site.baseurl }}/{{ page.image }}");
     const span = document.createElement("span");
     const link = document.createElement("a");
     link.href = randomPost.url || "";
-    link.textContent = "Bài tiếp theo: " + str(randomPost.title || ""); // Nội dung từ JSON
+    const textContentMain =  randomPost.title &&("".join("Next Post ",str(randomPost.title || "")))
+    link.textContent = textContentMain; // Nội dung từ JSON
     span.appendChild(link);
 
     // Tạo nút đóng và gắn sự kiện click
