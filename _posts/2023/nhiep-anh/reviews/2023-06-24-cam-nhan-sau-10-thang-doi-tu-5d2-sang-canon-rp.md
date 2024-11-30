@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Canon RP, Gã nông dân dở dở ương ương.'
+title: 'Canon RP, Gã nông dân dở dở ương ương hay Nhân chứng sống của thế hệ bản lề!'
 author: sal
 lazyimages: "enabled"
 categories: [ Reviews 📝 ]
