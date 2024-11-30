@@ -1,5 +1,5 @@
 ---
-title: Chợt thu, chớm tắt
+title: 'Chợt thu, chớm tắt'
 layout: post
 author: sal
 categories: [ Tản mạn 📓 ]
@@ -8,6 +8,7 @@ date: '2022-10-25'
 image: assets/images/nhiepanh/introduce/write-to-me-avt1.webp
 isGithubComments: false
 toc: false
+excerpt: "Băng qua một căn phòng chật ních người. Một tia điện, hai con người lạ lẫm nhìn thấy nhau. Một sự cuốn hút ngay lập tức, trong khoảng khắc đó, đơn giản biết tôi biết được em thuộc về tôi."
 permalink: nhung-loi-ngap-ngung-chua-noi
 adsense: "false"
 toc: false
