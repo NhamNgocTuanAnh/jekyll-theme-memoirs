@@ -1,5 +1,5 @@
 ---
 layout: duhi
+permalink: /du-lich/
 title: Du lịch
-permalink: /du-lich
 ---
