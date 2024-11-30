@@ -12,6 +12,7 @@ keywords:
   - nhóm máu o nên ăn gì
   - tính cách nhóm máu O
 date: 2022-04-29 11:04 +0200
+excerpt: "Nhóm máu O - nhóm máu lãnh đạo"
 ---
 
 > Bài viết đang trong quá trình phát triển, vui lòng quay lại sau!!!😅
