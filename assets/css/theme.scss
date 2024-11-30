@@ -24,9 +24,9 @@ $enable-rounded: false;
     font-family: 'Montserrat-Regular';
     src:  url('../assets/fonts/Montserrat/Montserrat-Regular.ttf') format('ttf');
   }
-// general
+
 body, input, button, select, optgroup, textarea {
-    font-family: "Inter", "sans-serif","Playfair", "Times New Roman", Times, serif;
+    font-family: "Courier New", "Inter", "sans-serif","Playfair", "Times New Roman", Times, serif;
 }
 h1 {
     font-family: "Inter", "sans-serif","Playfair", "Times New Roman", Times, serif;
@@ -54,10 +54,7 @@ h2,h3,h4,h5,h6 {
     font-family:"Montserrat-Regular";
     color: #7c0fd1;
 }
-// h1,h2,h3,h4,h5,h6 {
-//     font-weight:700;
-//     font-family:"Montserrat-Regular"
-// }
+
 .site-content {
     padding-top:50px;
 }
