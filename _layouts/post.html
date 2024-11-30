@@ -34,6 +34,11 @@ function removeDivs(e){let t=document.querySelectorAll(str(e));t.forEach(e=>{e.r
       }).catch(error => {
           console.error("Error incrementing count:", error);
       });}
+
+      document.addEventListener('DOMContentLoaded', () => {
+            const button = document.getElementById('read-more-btn-hell');
+            button.addEventListener('click', handleClickReadMoreBtn);
+        });
 </script>
 <div class="entry-header" style="display: none;"><br>
   <h1 class="posttitle"><a style="color:#3a3a3a" href="{{ site.baseurl }}{{ post.url }}" target="_blank">{{ page.title }}</a></h1>
