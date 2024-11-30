@@ -5,7 +5,7 @@ author: sal
 lazyimages: "enabled"
 categories: [ Du hí 🛫 ]
 tags: [du ký]
-image: assets/images/2023/du-lich/avt/IMG_5613-Enhanced-SR_Facebook-avt.webp
+image: assets/images/2023/reviews/avt/canon-rp-avt.webp
 rating: 5
 isGithubComments: false
 permalink: du-lich/hanh-trinh-kham-pha-ha-giang-bang-vinfast-vf3

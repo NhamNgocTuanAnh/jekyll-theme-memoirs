@@ -5,8 +5,8 @@ author: sal
 lazyimages: "enabled"
 categories: [ Reviews 📝 ]
 tags: [nhiếp ảnh, ống kính]
-image: assets/images/2023/reviews/avt/thong-so-canon-28-105-3-5-4-5-avt.webp
-rating: 4.5
+image: assets/images/2023/reviews/avt/canon-rp-avt.webp
+rating: 5
 permalink: reviews/danh-gia-canon-rp-va-lens-rf-uu-nhuoc-diem-so-sanh
 excerpt: Canon RP là một chiếc máy ảnh mirrorless full-frame với mức giá phải chăng, phù hợp cho nhu cầu chụp ảnh cơ bản và du lịch nhẹ nhàng. Tuy nhiên, khi đi sâu vào sử dụng thực tế, máy cũng bộc lộ những ưu nhược điểm rõ ràng, đặc biệt khi so sánh với các dòng máy ảnh khác hoặc các hệ máy crop như Sony A6300/A6400.
 description: Canon RP là một chiếc máy ảnh mirrorless full-frame với mức giá phải chăng, phù hợp cho nhu cầu chụp ảnh cơ bản và du lịch nhẹ nhàng. Tuy nhiên, khi đi sâu vào sử dụng thực tế, máy cũng bộc lộ những ưu nhược điểm rõ ràng, đặc biệt khi so sánh với các dòng máy ảnh khác hoặc các hệ máy crop như Sony A6300/A6400.
