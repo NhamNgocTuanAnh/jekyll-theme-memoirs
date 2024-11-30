@@ -64,6 +64,7 @@ function handleClickReadMoreBtn() {
     // runTransaction(countRef, currentCount => (currentCount || 0) + 1)
     //     .then(() => console.log("Button click count incremented!"))
     //     .catch(error => console.error("Error incrementing count:", error));
+    ga('send', 'event', 'Download', 'download-ebook', 'tailieu.doc', 10);
 }
 
 // Gắn sự kiện cho nút "Read More" sau khi DOM đã tải xong
