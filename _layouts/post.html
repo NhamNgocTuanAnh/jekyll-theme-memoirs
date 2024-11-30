@@ -87,38 +87,9 @@ function handleClickReadMoreBtn(){let e=document.getElementById("read-more-btn-h
 let isScriptEnabled=!0;const triggerElement=document.getElementById("triggerLoadElfSightScript"),getRandomElement=e=>e[Math.floor(Math.random()*e.length)],isElementInViewport=e=>{if(!e)return!0;e=e.getBoundingClientRect();return e.top<window.innerHeight&&0<=e.bottom},insertDiv=(e,t)=>{var a=document.querySelectorAll("#articlePost section p");if(0!==a.length){const i=a[Math.floor(Math.random()*a.length)],n=document.createElement("div");n.id=t;const c=document.createElement("div");c.id="instaShow2",i.after(n),i.after(c)}else console.error("Không tìm thấy thẻ <p> nào trong section")};insertDiv("main-content-content","triggerLoadElfSightScript");const instaShowDiv=document.getElementById("instaShow2");if(instaShowDiv){if(instaShowDiv.appendChild(document.getElementById("triggerLoadElfSightScript")),isElementInViewport(triggerElement)&&isScriptEnabled){const k=document.querySelector('meta[name="author"][content="minh"]'),l=window.location.href;if(l.includes("localhost")||l.includes("127.0.0.1"))console.log("Đang chạy localhost, không thêm lệnh script.");else{const m=document.createElement("div"),n=k?["elfsight-app-4bab93fa-028b-4ab6-a095-3bdcecb91616","elfsight-app-fae669a8-2109-47be-8003-7767f2c82a5a","elfsight-app-4bab93fa-028b-4ab6-a095-3bdcecb91616","elfsight-app-fae669a8-2109-47be-8003-7767f2c82a5a"]:["elfsight-app-58eefcb9-7b01-4eda-a0ed-b18b31f127fc","elfsight-app-5251747b-b6d4-4dd8-83b2-d4c39ed9caea","elfsight-app-17b7491c-45aa-4619-a175-885d1747ec14","elfsight-app-83c3bf06-1d94-48ba-88c4-e05887ca6f4f","elfsight-app-58eefcb9-7b01-4eda-a0ed-b18b31f127fc","elfsight-app-5251747b-b6d4-4dd8-83b2-d4c39ed9caea","elfsight-app-17b7491c-45aa-4619-a175-885d1747ec14","elfsight-app-83c3bf06-1d94-48ba-88c4-e05887ca6f4f"];m.className=getRandomElement(n),m.setAttribute("data-elfsight-app-lazy",""),m.style.textAlign="center";var parentDiv=document.getElementById("triggerLoadElfSightScript");parentDiv.appendChild(m)}}}else console.error('Không tìm thấy thẻ div có id "instaShow2".');(()=>{const e=document.createElement("script");e.src="https://static.elfsight.com/platform/platform.js",console.log("Tải loadElfSightScript https://static.elfsight.com/platform/platform.js"),e.setAttribute("data-use-service-core",""),e.defer=!0,document.head.appendChild(e)})();
       window.addEventListener("load", function() {
       window.scrollTo(0, 0);
-    });</script>
-
-<script>
-  function getAbsoluteUrl(url) {
-    var index = url.indexOf("https://");
-    return index !== -1 ? url.slice(index) : url;
-}
-const bottomOverlay = document.getElementById('bottom-overlay');
-const closeBtn = document.getElementById('read-more-btn-hell');
-
-// Hide the overlay when the close button is clicked
-closeBtn.addEventListener('click', () => {
-  bottomOverlay.style.display = 'none';
-});
-
-var imageUrl = getAbsoluteUrl("{{ site.baseurl }}/{{ page.image }}");
-
-(function displayFeaturedImage() {
-    var entryHeader = document.querySelector('.entry-header');
-    entryHeader.style.display = "block";
-
-    var imgElement = document.createElement("img");
-    imgElement.setAttribute("class", "featured-image lazyimg");
-    imgElement.setAttribute("src", imageUrl);
-
-    document.getElementById("idFeaturedImage").appendChild(imgElement);
-
-    var featuredImage = document.querySelector(".featured-image");
-    if (featuredImage.hasAttribute("loaded")) {
-        featuredImage.removeAttribute("loaded");
-    }
-})(); </script>
+    });
+const bottomOverlay=document.getElementById("bottom-overlay"),closeBtn=document.getElementById("read-more-btn-hell");closeBtn.addEventListener("click",()=>{bottomOverlay.style.display="none"});
+</script>
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/toastr.min.css">
 <script src="{{ site.baseurl }}/assets/js/toastr.min.js"></script>
 <script>
