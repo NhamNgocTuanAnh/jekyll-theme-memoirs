@@ -78,36 +78,15 @@ Giống hệt RP, có lẽ là cụm từ miêu tả gần đúng nhất khi c�
 
 ### 2\. Nhược điểm cần lưu ý:
 
-Canon R8 là một chiếc máy ảnh mirrorless full-frame đáng giá với khả năng quay video 4K ấn tượng. Hệ thống lấy nét tự động của máy rất nhanh chóng và chính xác, đặc biệt hữu ích khi chụp các đối tượng chuyển động. Tuy nhiên, tuổi thọ pin của máy là một hạn chế đáng kể, đặc biệt khi quay video liên tục.
+Canon R8 nổi bật với khả năng quay video 4K và lấy nét tự động chính xác, nhưng vẫn tồn tại một số hạn chế:
 
-**Tuổi thọ pin:**
-*   Pin nhanh hết, đặc biệt khi quay video hoặc chụp liên tục.
-*   Pin giả không hiển thị dung lượng chính xác, gây bất tiện khi sử dụng.
-*   Cần chuẩn bị nhiều pin dự phòng.
-
-
-**Khe cắm thẻ nhớ:**
-*   Chỉ có một khe cắm, tiềm ẩn rủi ro mất dữ liệu.
-
-
-**Quá nhiệt:**
-*   Máy dễ bị quá nhiệt khi quay video 4K 60p trong thời gian dài.
-
-
-**Lens:**
-*   Lens RF chính hãng có giá cao.
-*   Lens chuyển ngàm có thể gây ra vấn đề tương thích.
-
-
-**Thiết kế:**
-*   Thân máy nhỏ, cảm giác cầm nắm không chắc chắn.
-*   Không có joystick.
-*   Vấn đề với cổng HDMI: Khi cắm HDMI, màn hình máy bị tắt.
-
-
-**Các vấn đề khác:**
-*   Phần cao su trên eyecup dễ bị xước và khó thay thế.
-
+*   **Pin:** Nhanh hết, cần nhiều pin dự phòng. Pin không chính hãng hiển thị không chính xác.
+*   **Khe thẻ nhớ:** Chỉ có một khe, rủi ro mất dữ liệu cao.
+*   **Quá nhiệt:** Máy dễ nóng khi quay 4K 60fps lâu.
+*   **Lens:** Lens RF đắt, lens chuyển ngàm có thể không tương thích tốt.
+*   **Thiết kế:** Thân máy nhỏ, không chắc tay, thiếu joystick.
+*   **HDMI:** Cắm HDMI làm tắt màn hình máy.
+*   **Khác:** Eyecup dễ trầy, khó thay thế.
 
 ### 3\. Lời khuyên cho người dùng:
 
