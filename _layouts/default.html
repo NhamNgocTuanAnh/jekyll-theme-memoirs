@@ -2,16 +2,7 @@
 <html lang="vi">
 
 <head>
-  <script>
-let dontRedirect = localStorage.getItem('dontRedirect');
-
-// Nếu người dùng chưa tắt chuyển hướng và đang ở trang chủ
-if (!dontRedirect && window.location.href === "https://anhhangxom.xyz/") {
-  if (window.innerWidth <= 768) {
-    window.location.href = "https://anhhangxom.xyz/index-mobile/";
-  }
-}
-  </script>
+  <script>let dontRedirect=localStorage.getItem('dontRedirect');if(!dontRedirect&&window.location.href==="https://anhhangxom.xyz/"){if(window.innerWidth<=768){window.location.href="https://anhhangxom.xyz/index-mobile/"}}</script>
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style-image.css">
   <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
@@ -26,25 +17,17 @@ if (!dontRedirect && window.location.href === "https://anhhangxom.xyz/") {
     {% endif %}
     <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.webp">
     <title>{{ page.title }} | {{site.name}}</title>{% seo %}
-    <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/lazysizes.min.js" async></script>
-    <script src="{{ site.baseurl }}/assets/js/prism.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/theme.js"></script>
     <meta name="google-site-verification" content="d_QhcFO6jYixKuqHeimC-fB9HoL2oOxFPBBr1Dm-3nE" />
     <style>
       .content-container,.content-overlay{overflow:hidden;position:relative}.content-overlay{color:#333;line-height:1.6;max-height:350px}.content-overlay::after{content:"";position:absolute;bottom:0;left:0;width:100%;height:40px;background:linear-gradient(to bottom,rgba(255,255,255,0),#fff);pointer-events:none}.read-more-btn{bottom:10px;padding:10px 20px;background-color:#007bff;color:#fff;border:none;border-radius:5px;cursor:pointer;transition:background-color .3s;z-index:1}.read-more-btn:hover{background-color:#0056b3}#read-more-btn{pointer-events:auto}
       </style>
 <script>function handleImageLoad(e){e.classList.add("loaded");};function isMobileDevice(){return/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)};function hideDivOnSmallScreens() { var iPhone8Width = 375; var iPhone8Height = 667; var windowWidth = window.innerWidth; var windowHeight = window.innerHeight; if (windowWidth <= iPhone8Width || windowHeight <= iPhone8Height) { console.log("nhỏ quá"); return true; }else{ return false; } }var sidebar = document.getElementById('sidebar');var isRelative = sidebar && window.getComputedStyle(sidebar).position === 'relative';</script>
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-192636660-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'UA-192636660-1');
 </script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
 </head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
@@ -171,4 +154,10 @@ if (window.innerWidth > 768) {
         }
 </script>
 <style>.header{background-color:var(--color-bg);border-bottom:2px solid var(--color-bg2);position:fixed;width:100%;z-index:3}.header a{color:var(--color-text)}.header .logo{display:block;float:left;font-size:1.2em;padding:10px 20px;text-decoration:none}.header ul{margin:0;padding:0;list-style:none;overflow:hidden;background-color:var(--color-bg)}.header li a{display:block;padding:20px;border-right:2px solid var(--color-bg2);text-decoration:none}.header li:first-child{border-left:2px solid var(--color-bg2)}.header li a:hover,.header .menu-btn:hover{background-color:var(--color-bg2)}.header .menu{clear:both;max-height:0;transition:max-height .2s ease-out}.header .menu-icon{cursor:pointer;display:inline-block;float:right;padding:28px 20px;position:relative;user-select:none}.header .menu-icon .navicon{background:var(--color-text);display:block;height:2px;width:18px;position:relative;transition:background .2s ease-out}.header .menu-icon .navicon:before,.header .menu-icon .navicon:after{background:var(--color-text);content:'';display:block;height:100%;position:absolute;transition:all .2s ease-out;width:100%}.header .menu-icon .navicon:before{top:5px}.header .menu-icon .navicon:after{top:-5px}.header .menu-btn{display:none}.header .menu-btn:checked ~ .menu{max-height:240px}.header .menu-btn:checked ~ .menu-icon .navicon{background:transparent}.header .menu-btn:checked ~ .menu-icon .navicon:before{transform:rotate(-45deg)}.header .menu-btn:checked ~ .menu-icon .navicon:after{transform:rotate(45deg)}.header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,.header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after{top:0}@media (min-width: 48em){.header li{float:left}.header li a{padding:20px 30px}.header .menu{clear:none;float:right;max-height:none}.header .menu-icon{display:none}}section{padding-top:60px}</style>
-
+<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/lazysizes.min.js" async></script>
+<script src="{{ site.baseurl }}/assets/js/prism.js"></script>
+<script src="{{ site.baseurl }}/assets/js/theme.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-192636660-1"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
