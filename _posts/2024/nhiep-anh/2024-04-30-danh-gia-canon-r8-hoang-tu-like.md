@@ -67,19 +67,6 @@ Một trong những điểm mạnh khác của R8 là khả năng quay video 4K 
 
 Nhiều người dùng đã so sánh R8 với người tiền nhiệm Canon R và nhận thấy sự cải thiện đáng kể về chất lượng hình ảnh, tốc độ lấy nét và khả năng quay video. R8 cho ra file ảnh có dải dynamic range rộng hơn, màu sắc tự nhiên hơn và chi tiết tốt hơn. Đặc biệt, khả năng quay video 4K 60fps không cắt xén là một điểm cộng lớn so với Canon R. R8 mới hơn mạnh hơn R nhưng body kiểu nhẹ nhàng ko pro như R.
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=http%3A%2F%2Fwww.facebook.com%2Fgroups%2Fhoimenhiepanh%2Fpermalink%2F2730729990468993%2F&width=500" width="500" height="589" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-  <div class="iframe-container">
-    <iframe
-      src="https://www.facebook.com/plugins/post.php?href=http%3A%2F%2Fwww.facebook.com%2Fgroups%2Fhoimenhiepanh%2Fpermalink%2F2730729990468993%2F&width=500"
-      scrolling="no"
-      frameborder="0"
-      allowfullscreen="true"
-      allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share">
-    </iframe>
-  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v16.0"></script>
-
-
 **So sánh với Canon RP:**
 Giống hệt RP, có lẽ là cụm từ miêu tả gần đúng nhất khi cầm vào R8, R8 theo spec còn nhẹ hơn Rp 1 chút (24gr), nhưng cảm giác cầm nắm là giống hệt RP với sự khác nhau nằm ở phía trên khi mà R8 có nút xoay chế độ từ quay sang chụp rất tiện lợi còn Rp thì không!
 - Thao tác máy có thể nói là gần như giống hệt RP, nếu bạn đang cầm 1 chiếc R6 R6II khi cầm vào R8 bạn sẽ hụt hẫng y xỳ như cầm vào RP vậy!
