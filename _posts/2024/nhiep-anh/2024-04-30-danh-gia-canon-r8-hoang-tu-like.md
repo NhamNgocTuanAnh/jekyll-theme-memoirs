@@ -67,6 +67,9 @@ Một trong những điểm mạnh khác của R8 là khả năng quay video 4K 
 
 Nhiều người dùng đã so sánh R8 với người tiền nhiệm Canon R và nhận thấy sự cải thiện đáng kể về chất lượng hình ảnh, tốc độ lấy nét và khả năng quay video. R8 cho ra file ảnh có dải dynamic range rộng hơn, màu sắc tự nhiên hơn và chi tiết tốt hơn. Đặc biệt, khả năng quay video 4K 60fps không cắt xén là một điểm cộng lớn so với Canon R. R8 mới hơn mạnh hơn R nhưng body kiểu nhẹ nhàng ko pro như R.
 
+<div class="content" style="text-align:center; ">
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fnntatlu%2Fposts%2Fpfbid0B8hRJWKpR5SxrLSb9EftT4fSSxERyjvzvEnpYZgS74bdscbXx2hfMsty91Ycqijal&width=552&show_text=true&appId=2086804534891096&height=755" width="552" height="755" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></div>
+
 **So sánh với Canon RP:**
 Giống hệt RP, có lẽ là cụm từ miêu tả gần đúng nhất khi cầm vào R8, R8 theo spec còn nhẹ hơn Rp 1 chút (24gr), nhưng cảm giác cầm nắm là giống hệt RP với sự khác nhau nằm ở phía trên khi mà R8 có nút xoay chế độ từ quay sang chụp rất tiện lợi còn Rp thì không!
 - Thao tác máy có thể nói là gần như giống hệt RP, nếu bạn đang cầm 1 chiếc R6 R6II khi cầm vào R8 bạn sẽ hụt hẫng y xỳ như cầm vào RP vậy!
@@ -98,6 +101,9 @@ Canon R8 nổi bật với khả năng quay video 4K và lấy nét tự động
 *   **Reddit (r/canon):** Cộng đồng này đánh giá cao khả năng quay video của R8 và cho rằng đây là một lựa chọn tốt cho những người muốn có một chiếc máy ảnh vừa chụp ảnh vừa quay video chất lượng cao.
 
 **Tổng kết:**
+
+<div class="content" style="text-align:center; ">
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fnntatlu%2Fposts%2Fpfbid02SFeskhwunsTJA3Rxs2RDF88MWQQx48mGqX6NPRgubDToTKCNk3pie2jJtHLpW4MBl&width=552&show_text=true&appId=2086804534891096&height=605" width="552" height="605" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe></div>
 
 Canon R8 là một chiếc máy ảnh đầy tiềm năng, phù hợp với những người đam mê nhiếp ảnh muốn trải nghiệm công nghệ mới với mức giá hợp lý. Tuy nhiên, trước khi quyết định mua, bạn nên cân nhắc kỹ các ưu và nhược điểm của sản phẩm này để đưa ra lựa chọn phù hợp nhất.
 
