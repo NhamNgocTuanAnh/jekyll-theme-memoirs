@@ -4,9 +4,7 @@ archive: false
 post_class: post-template
 comments: true
 ---
-<script>
-function handleClickReadMoreBtn(){let e=document.getElementById("read-more-btn-hell");document.querySelectorAll(".content-overlay").forEach(e=>{e.style.maxHeight="none"}),e.style.display="none",window.scrollTo({top:456,behavior:"smooth"}),ga("send","event","read-new","read-more","{{ page.url }}",10)}document.addEventListener("DOMContentLoaded",()=>{let e=document.getElementById("read-more-btn-hell");e&&e.addEventListener("click",handleClickReadMoreBtn)});
-</script>
+
 <div class="entry-header" style="display: none;"><br>
   <h1 class="posttitle"><a style="color:#3a3a3a" href="{{ site.baseurl }}{{ post.url }}" target="_blank">{{ page.title }}</a></h1>
   {% assign author = site.authors[page.author] %}
