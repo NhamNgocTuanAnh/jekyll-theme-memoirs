@@ -3,7 +3,10 @@
 
 <head>
   <script>
-    function handleClickReadMoreBtn(){let e=document.getElementById("read-more-btn-hell");document.querySelectorAll(".content-overlay").forEach(e=>{e.style.maxHeight="none"}),e.style.display="none",window.scrollTo({top:456,behavior:"smooth"}),ga("send","event","read-new","read-more","{{ page.url }}",10)}document.addEventListener("DOMContentLoaded",()=>{let e=document.getElementById("read-more-btn-hell");e&&e.addEventListener("click",handleClickReadMoreBtn)});
+function handleClickReadMoreBtn(){const readMoreBtn=document.getElementById("read-more-btn-hell");if(readMoreBtn){readMoreBtn.style.display="none"}
+for(;;){const overlays=document.querySelectorAll(".content-overlay");if(overlays){if(overlays.length>0){for(const overlay of overlays){overlay.style.maxHeight="none"}};break}}
+window.scrollTo({top:456,behavior:"smooth"});if(typeof ga==="function"){ga("send","event","read-new","read-more","{{ page.url }}",10)}}
+document.addEventListener("DOMContentLoaded",()=>{const readMoreBtn=document.getElementById("read-more-btn-hell");if(readMoreBtn){readMoreBtn.addEventListener("click",handleClickReadMoreBtn)}})
     </script>
   <script>let dontRedirect=localStorage.getItem('dontRedirect');if(!dontRedirect&&window.location.href==="https://anhhangxom.xyz/"){if(window.innerWidth<=768){window.location.href="https://anhhangxom.xyz/index-mobile/"}}</script>
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style-image.css">
