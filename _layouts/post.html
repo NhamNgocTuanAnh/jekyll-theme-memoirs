@@ -85,8 +85,7 @@ let isScriptEnabled=!0;const triggerElement=document.getElementById("triggerLoad
 </script>
 <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/toastr.min.css">
 <script src="{{ site.baseurl }}/assets/js/toastr.min.js"></script>
-<script>
-document.addEventListener("DOMContentLoaded", () => {
+<script>function createSnackbar(e){let t=document.createElement("div");t.id="snackbar";let n=document.createElement("span"),a=document.createElement("a");a.href=e.url||"#",a.textContent=`Next Post: ${e.title||"Untitled"}`,n.appendChild(a);let l=document.createElement("button");l.id="cancel",l.textContent="|| Đ\xf3ng X",l.onclick=()=>t.style.display="none",t.appendChild(n),t.appendChild(l),document.body.appendChild(t)};document.addEventListener("DOMContentLoaded", () => {
     // JSON array of posts from the same categories as the current post
     const sameCategoryPosts = [
         {% assign current_categories = page.categories %}
@@ -113,11 +112,8 @@ document.addEventListener("DOMContentLoaded", () => {
         console.log("No related post found.");
         return; // Không thực hiện tiếp nếu không có bài viết nào
     }
-    createSnackbar(randomPost),setTimeout(()=>showSnackbar(),1e3);
-});
-
-// Hàm tạo snackbar
-function createSnackbar(e){let t=document.createElement("div");t.id="snackbar";let n=document.createElement("span"),a=document.createElement("a");a.href=e.url||"#",a.textContent=`Next Post: ${e.title||"Untitled"}`,n.appendChild(a);let l=document.createElement("button");l.id="cancel",l.textContent="|| Đ\xf3ng X",l.onclick=()=>t.style.display="none",t.appendChild(n),t.appendChild(l),document.body.appendChild(t)}function showSnackbar(){let e=document.getElementById("snackbar");e&&e.classList.add("show")}</script>
+    let timeOnSite=0;function trackTimeOnSite(){(timeOnSite+=100)>=15e3&&(createSnackbar(randomPost),setTimeout(()=>showSnackbar(),1e3),clearInterval(intervalId))}const intervalId=setInterval(trackTimeOnSite,100);
+});function showSnackbar(){let e=document.getElementById("snackbar");e&&e.classList.add("show")}</script>
 <style>
 #snackbar{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background-color:#333;color:#fff;padding:16px;border-radius:8px;display:none;opacity:0;transition:opacity .5s ease-in-out;z-index:1000}#snackbar.show{display:block;opacity:1}#snackbar a{color:#fff;text-decoration:none;font-weight:700}#snackbar button{background:transparent;color:#fff;border:none;cursor:pointer;margin-left:10px}#snackbar button:hover{color:#ff0}@media (max-width: 768px){#snackbar a{font-weight:400}}
 </style>
