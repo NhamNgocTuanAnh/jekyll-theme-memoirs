@@ -36,11 +36,6 @@ comments: true
 {% include adsense-under-header.html %}
 {% endif %}
 
-<!-- <style>#bottom-overlay{position:fixed;bottom:0;left:0;width:100%;height:60%;background-color:rgba(0,0,0,0.8);color:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:1000;box-shadow:0 -4px 10px rgba(0,0,0,0.5)}#bottom-overlay p{margin:10px 0;font-size:16px;text-align:center}#bottom-overlay button{padding:10px 20px;background-color:#ff5722;color:#fff;border:none;border-radius:5px;cursor:pointer;font-size:16px}</style>
-<div id="bottom-overlay">
-  <button id="read-more-btn-hell" class="read-more-btn" >Read More🧾</button>
-  <p>Bấm để tiếp tục đọc bài viết!🫡</p>
-</div> -->
 <div id="read-more-div"></div>
 <script>(function(){ const style=document.createElement('style');style.textContent=` #bottom-overlay{position:fixed;bottom:0;left:0;width:100%;height:60%;background-color:rgba(0,0,0,.8);color:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:1000;box-shadow:0 -4px 10px rgba(0,0,0,.5)}#bottom-overlay p{margin:10px 0;font-size:16px;text-align:center}#bottom-overlay button{padding:10px 20px;background-color:#ff5722;color:#fff;border:none;border-radius:5px;cursor:pointer;font-size:16px}`;document.head.appendChild(style);const overlay=document.createElement('div');overlay.id='bottom-overlay';const button=document.createElement('button');button.id='read-more-btn-hell';button.className='read-more-btn';button.textContent='Read More🧾';const paragraph=document.createElement('p');paragraph.textContent='Bấm để tiếp tục đọc bài viết!🫡';overlay.appendChild(button);overlay.appendChild(paragraph);const targetDiv=document.getElementById('read-more-div');if (targetDiv){targetDiv.appendChild(overlay)}else{console.warn('Không tìm thấy thẻ div với id "read-more-div"')}})();</script>
 <!-- Featured Image -->
