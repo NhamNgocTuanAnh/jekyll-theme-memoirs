@@ -31,8 +31,9 @@ pinned: true
 
 Là một người đam mê màu phim, mình đã từng trải qua nhiều dòng máy từ 700D, M10, M3 đến RP. Đặc biệt, mình rất thích chụp ảnh RAW rồi áp preset film, nhất là các preset thuộc dòng FJ (viết tắt của You-Know-Who).
 
-Tuy nhiên, thời gian gần đây, vì nhiều lý do: vừa lười, vừa không phải lúc nào cũng có Lightroom bên cạnh để chỉnh sửa, mình bắt đầu tìm kiếm một giải pháp "ăn liền" hơn. Nhưng các preset FJ thì lại quá đắt đỏ. \\
+Tuy nhiên, thời gian gần đây, vì nhiều lý do: vừa lười, vừa không phải lúc nào cũng có Lightroom bên cạnh để chỉnh sửa, mình bắt đầu tìm kiếm một giải pháp "ăn liền" hơn. Nhưng các preset FJ thì lại quá đắt đỏ.
 
+<br>
 <div class="content" style="text-align:center; ">
 <img class="lazyload img-thumb loaded lazyloaded" loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczPft8HzeFD8uv0wwGj8mwv7ojoCWFqSgLOUO-clet4kb4fRMJNhkd1f-EqbSgFZlUrxS6N-8arZzJ2xkxe0bMTdlzlpaTZQ7-PI0alsgcHPGBBFyKLdneXlbwwEyQyA7WaQ2shXcDXmNR3g4SRm462Pyw=w1053-h865-s-no-gm?authuser=1" title="source: imgur.com" alt="ảnh được chụp từ Canon r8"><br><p>Ảnh được chia sẻ bởi <a href="https://www.facebook.com/sonhaui18897/">Sơn</a></p></div>
 
