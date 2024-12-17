@@ -101,8 +101,55 @@ function createRandomDivAndAppend(){let e=document.getElementById("searchBoxEl")
     <div id="progress-container">
         <div class="progress-bar"></div>
       </div>
-      <button onclick="consentGrantedAdStorage" style="display: none;">Yes</button>
-<div class="nav__menu" id="nav-menu" style="padding: 0;box-sizing: border-box;font-family: 'Open Sans', sans-serif;" ><ul class="nav__list" style="list-style: none; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; padding-left: 0px; unicode-bidi: isolate;"><li class="nav__item"><a href="{{ site.url }}" class="nav__link active-link"><i class="bx bx-home-alt nav__icon"></i><span class="nav__name">Home</span></a></li><li class="nav__item"><a href="{{ site.url }}/categories" class="nav__link"><i class="bx bx-user nav__icon"></i><span class="nav__name">Chủ đề</span></a></li><li class="nav__item"><a href="{{ site.url }}/coding" class="nav__link"><i class="bx bx-book-alt nav__icon"></i><span class="nav__name">Coding</span></a></li><li class="nav__item"><a href="{{ site.url }}/du-lich" class="nav__link"><i class="bx bx-briefcase-alt nav__icon"></i><span class="nav__name">Du hí</span></a></li><li class="nav__item"><a href="#contactme" class="nav__link" onclick="handleChatButtonClick()"><i class="bx bx-message-square-detail nav__icon"></i><span class="nav__name">Contact</span></a></li></ul>
+<!-- Nút đồng ý -->
+<button onclick="consentGrantedAdStorage()" style="display: none;">Yes</button>
+
+<!-- Menu điều hướng -->
+<div class="nav__menu" id="nav-menu" style="padding: 0; box-sizing: border-box; font-family: 'Open Sans', sans-serif;">
+  <ul class="nav__list" style="list-style: none; margin: 1em 0; padding-left: 0; display: flex; gap: 1.5rem;">
+
+    <!-- Home -->
+    <li class="nav__item">
+      <a href="{{ site.url }}" class="nav__link active-link" style="text-decoration: none; color: #333; display: flex; align-items: center; gap: 0.5rem;">
+        <i class="bx bx-home-alt nav__icon" style="font-size: 1.2rem;"></i>
+        <span class="nav__name">Home</span>
+      </a>
+    </li>
+
+    <!-- Chủ đề -->
+    <li class="nav__item">
+      <a href="{{ site.url }}/categories" class="nav__link" style="text-decoration: none; color: #333; display: flex; align-items: center; gap: 0.5rem;">
+        <i class="bx bx-user nav__icon" style="font-size: 1.2rem;"></i>
+        <span class="nav__name">Chủ đề</span>
+      </a>
+    </li>
+
+    <!-- Coding -->
+    <li class="nav__item">
+      <a href="{{ site.url }}/coding" class="nav__link" style="text-decoration: none; color: #333; display: flex; align-items: center; gap: 0.5rem;">
+        <i class="bx bx-book-alt nav__icon" style="font-size: 1.2rem;"></i>
+        <span class="nav__name">Coding</span>
+      </a>
+    </li>
+
+    <!-- Du hí -->
+    <li class="nav__item">
+      <a href="{{ site.url }}/du-lich" class="nav__link" style="text-decoration: none; color: #333; display: flex; align-items: center; gap: 0.5rem;">
+        <i class="bx bx-briefcase-alt nav__icon" style="font-size: 1.2rem;"></i>
+        <span class="nav__name">Du hí</span>
+      </a>
+    </li>
+
+    <!-- Contact -->
+    <li class="nav__item">
+      <a href="#contactme" class="nav__link" onclick="handleChatButtonClick()" style="text-decoration: none; color: #333; display: flex; align-items: center; gap: 0.5rem;">
+        <i class="bx bx-message-square-detail nav__icon" style="font-size: 1.2rem;"></i>
+        <span class="nav__name">Contact</span>
+      </a>
+    </li>
+
+  </ul>
+</div>
     </body>
 </html>
 <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
