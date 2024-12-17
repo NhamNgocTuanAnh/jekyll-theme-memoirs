@@ -1,74 +1,34 @@
 <!DOCTYPE html>
 <html lang="vi">
 
-<head>    <meta charset="UTF-8">
-  <title>{{ page.title }} | {{ site.name }}</title>
-  {% seo %}
-  <meta name="google-site-verification" content="d_QhcFO6jYixKuqHeimC-fB9HoL2oOxFPBBr1Dm-3nE">
-  <meta name="robots" content="index, follow">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="version" content="{{ 'now' | date: '%s' }}">
-  {% if page.keywords %}
-      <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
-  {% endif %}
-  <meta name="p:domain_verify" content="0b924aa669f7e6b71d9196a1b2371d96">
-  <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.webp">
-
-  <!-- Combine CSS Links -->
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style-image.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/prism.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/theme.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/snow.css">
-  <link href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css" rel="stylesheet">
-
-  <!-- Inline CSS - Keep it minimal -->
-  <style>
-      .content-container, .content-overlay { overflow: hidden; position: relative; }
-      .content-overlay { color: #333; line-height: 1.6; max-height: 350px; }
-      .content-overlay::after { content: ""; position: absolute; bottom: 0; left: 0; width: 100%; height: 40px; background: linear-gradient(to bottom, rgba(255, 255, 255, 0), #fff); pointer-events: none; }
-      .read-more-btn { padding: 10px 20px; background-color: #007bff; color: #fff; border: none; border-radius: 5px; cursor: pointer; }
-      .read-more-btn:hover { background-color: #0056b3; }
-      #read-more-btn { pointer-events: auto; }
-      .snowCall { display: none; }
-      .container { max-width: 968px; margin: 1rem; }
-      .nav__menu { display: flex; gap: 1.5rem; list-style: none; }
-  </style>
-
-  <!-- Asynchronous Scripts -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-CGZMMC73KL"></script>
-  <script>
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'UA-192636660-1');
-  </script>
-
-  <script>
-      // Check for redirection only on first load and for mobile devices
-      let dontRedirect = localStorage.getItem('dontRedirect');
-      if (!dontRedirect && window.location.href === "https://anhhangxom.xyz/") {
-          if (window.innerWidth <= 768) {
-              window.location.href = "https://anhhangxom.xyz/index-mobile/";
-          }
-      }
-  </script>
-
-  <script>
-      document.addEventListener("DOMContentLoaded", () => {
-          const readMoreBtn = document.getElementById("read-more-btn-hell");
-          if (readMoreBtn) {
-              readMoreBtn.addEventListener("click", function () {
-                  this.style.display = "none";
-                  document.querySelectorAll(".content-overlay").forEach(overlay => overlay.style.maxHeight = "none");
-                  window.scrollTo({ top: 456, behavior: "smooth" });
-
-                  // Send GA event
-                  if (typeof ga === "function") {
-                      ga("send", "event", "read-new", "read-more", "{{ page.url }}", 10);
-                  }
-              });
-          }
-      });
-  </script>
+<head><meta charset="UTF-8">
+  <title>{{ page.title }} | {{site.name}}</title>{% seo %}
+  <meta name="google-site-verification" content="d_QhcFO6jYixKuqHeimC-fB9HoL2oOxFPBBr1Dm-3nE" /><script>
+function handleClickReadMoreBtn(){const readMoreBtn=document.getElementById("read-more-btn-hell");if(readMoreBtn){readMoreBtn.style.display="none"}
+for(;;){const overlays=document.querySelectorAll(".content-overlay");if(overlays){if(overlays.length>0){for(const overlay of overlays){overlay.style.maxHeight="none"}};window.scrollTo({top:456,behavior:"smooth"});break}}
+if(typeof ga==="function"){ga("send","event","read-new","read-more","{{ page.url }}",10)}}
+document.addEventListener("DOMContentLoaded",()=>{const readMoreBtn=document.getElementById("read-more-btn-hell");if(readMoreBtn){readMoreBtn.addEventListener("click",handleClickReadMoreBtn)}})</script>
+  <script>let dontRedirect=localStorage.getItem('dontRedirect');if(!dontRedirect&&window.location.href==="https://anhhangxom.xyz/"){if(window.innerWidth<=768){window.location.href="https://anhhangxom.xyz/index-mobile/"}}</script>
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style-image.css">
+    <meta name="robots" content="index, follow">
+    <meta name="p:domain_verify" content="0b924aa669f7e6b71d9196a1b2371d96"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    {% assign version =  page.date | date: "%-d" %}
+    <meta name="version" content="{{ 'now' | date: '%s' }}">
+    {% if page.keywords %}
+        <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
+    {% endif %}
+    <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.webp">
+    <style>
+      .content-container,.content-overlay{overflow:hidden;position:relative}.content-overlay{color:#333;line-height:1.6;max-height:350px}.content-overlay::after{content:"";position:absolute;bottom:0;left:0;width:100%;height:40px;background:linear-gradient(to bottom,rgba(255,255,255,0),#fff);pointer-events:none}.read-more-btn{bottom:10px;padding:10px 20px;background-color:#007bff;color:#fff;border:none;border-radius:5px;cursor:pointer;transition:background-color .3s;z-index:1}.read-more-btn:hover{background-color:#0056b3}#read-more-btn{pointer-events:auto}
+      </style>
+<script>function handleImageLoad(e){e.classList.add("loaded");};function isMobileDevice(){return/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)};function hideDivOnSmallScreens() { var iPhone8Width = 375; var iPhone8Height = 667; var windowWidth = window.innerWidth; var windowHeight = window.innerHeight; if (windowWidth <= iPhone8Width || windowHeight <= iPhone8Height) { console.log("nhỏ quá"); return true; }else{ return false; } }var sidebar = document.getElementById('sidebar');var isRelative = sidebar && window.getComputedStyle(sidebar).position === 'relative';</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-192636660-1');
+</script>
 </head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
@@ -191,220 +151,75 @@ function createRandomDivAndAppend(){let e=document.getElementById("searchBoxEl")
 </div>
     </body>
 </html>
-    <!-- External Stylesheets -->
-    <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
-    <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css" rel="stylesheet">
-    <link href="{{ site.baseurl }}/assets/css/snow.css" rel="stylesheet">
+<link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
+<link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
+<style>
+  .snowCall{display:none}.section{padding:4.5rem 0 2rem}.section__title{text-align:center;margin-bottom:1.5rem}.section__height{height:100vh}.container{max-width:968px;margin-left:1rem;margin-right:1rem}.nav{height:3rem;display:flex;justify-content:space-between;align-items:center;background-color:hsl(var(--hue),100%,99%)}.nav__img{width:32px;border-radius:50%}.nav__logo{color:hsl(var(--hue),12%,15%);font-weight:600}@media screen and (max-width:767px){.nav__menu{position:fixed;bottom:0;left:0;background-color:#fff;box-shadow:0 -1px 12px hsla(var(--hue),var(--sat),15%,.15);width:100%;height:4rem;padding:0 1rem;display:grid;align-content:center;border-radius:1.25rem 1.25rem 0 0;transition:.4s}}.nav__link,.nav__list{display:flex}.nav__link{flex-direction:column;align-items:center;row-gap:4px;font-weight:600}.nav__list{justify-content:space-around}.nav__name{font-size:.625rem}.nav__icon{font-size:1.5rem}.active-link{position:relative;color:var(--first-color);transition:.3s}.scroll-header{box-shadow:0 1px 12px hsla(var(--hue),var(--sat),15%,.15)}@media screen and (max-width:320px){.nav__name{display:none}}@media screen and (min-width:576px){.nav__list{justify-content:center;column-gap:3rem}}@media screen and (min-width:767px){.section{padding:7rem 0 2rem}.nav{height:calc(var(3rem) + 1.5rem)}.nav__icon,.nav__img{display:none}.nav__name{font-size:.938rem}.nav__link:hover{color:hsl(var(--hue),var(--sat),40%)}.active-link::before{content:'';position:absolute;bottom:-.75rem;width:4px;height:4px;background-color:hsl(var(--hue),var(--sat),40%);border-radius:50%}}@media screen and (min-width:1024px){.container{margin-left:auto;margin-right:auto}}</style>
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
 
-    <!-- Inline Style Consolidation -->
-    <style>
-        .snowCall { display: none; }
-        .section { padding: 4.5rem 0 2rem; }
-        .section__title { text-align: center; margin-bottom: 1.5rem; }
-        .section__height { height: 100vh; }
-        .container { max-width: 968px; margin: 0 1rem; }
-        .nav { height: 3rem; display: flex; justify-content: space-between; align-items: center; background-color: hsl(var(--hue),100%,99%); }
-        .nav__img { width: 32px; border-radius: 50%; }
-        .nav__logo { color: hsl(var(--hue),12%,15%); font-weight: 600; }
+<!-- <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/loading.css"> -->
+    <noscript><div><img src="https://mc.yandex.ru/watch/95513605" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 
-        /* Media Queries */
-        @media screen and (max-width: 767px) {
-            .nav__menu { position: fixed; bottom: 0; left: 0; background-color: #fff; box-shadow: 0 -1px 12px hsla(var(--hue),var(--sat),15%,.15); width: 100%; height: 4rem; padding: 0 1rem; display: grid; align-content: center; border-radius: 1.25rem 1.25rem 0 0; transition: .4s; }
-        }
-        .nav__link, .nav__list { display: flex; }
-        .nav__link { flex-direction: column; align-items: center; row-gap: 4px; font-weight: 600; }
-        .nav__list { justify-content: space-around; }
-        .nav__name { font-size: .625rem; }
-        .nav__icon { font-size: 1.5rem; }
-        .active-link { position: relative; color: var(--first-color); transition: .3s; }
-        .scroll-header { box-shadow: 0 1px 12px hsla(var(--hue),var(--sat),15%,.15); }
-
-        @media screen and (max-width: 320px) {
-            .nav__name { display: none; }
-        }
-        @media screen and (min-width: 576px) {
-            .nav__list { justify-content: center; column-gap: 3rem; }
-        }
-        @media screen and (min-width: 767px) {
-            .section { padding: 7rem 0 2rem; }
-            .nav { height: calc(3rem + 1.5rem); }
-            .nav__icon, .nav__img { display: none; }
-            .nav__name { font-size: .938rem; }
-            .nav__link:hover { color: hsl(var(--hue), var(--sat), 40%); }
-            .active-link::before { content: ''; position: absolute; bottom: -0.75rem; width: 4px; height: 4px; background-color: hsl(var(--hue), var(--sat), 40%); border-radius: 50%; }
-        }
-        @media screen and (min-width: 1024px) {
-            .container { margin-left: auto; margin-right: auto; }
-        }
-
-        /* Image styles */
-        .actual-image, .placeholder-image { width: 100%; height: 100%; object-fit: cover; }
-        .placeholder-image { filter: blur(20px); }
-        .actual-image { position: absolute; top: 0; left: 0; opacity: 0; transition: opacity .3s; }
-        .actual-image.loaded { opacity: 1; }
-
-        /* Progress bar */
-        #progress-container { position: fixed; bottom: 0; left: 0; width: 100%; height: 5px; background-color: #ddd; z-index: 999; }
-        .progress-bar { height: 100%; width: 0; background-color: #007bff; transition: width .3s; }
-
-        /* Table styles */
-        table { width: 100%; }
-        table :is(td, th) { border: 1px solid black; padding: 0.3em; }
-    </style>
+<style>.actual-image,.placeholder-image{width:100%;height:100%;object-fit:cover}.placeholder-image{filter:blur(20px)}.actual-image{position:absolute;top:0;left:0;opacity:0;transition:opacity .3s}.actual-image.loaded{opacity:1}#progress-container{position:fixed;bottom:0;left:0;width:100%;height:5px;background-color:#ddd;z-index:999}.progress-bar{height:100%;width:0;background-color:#007bff;transition:width .3s}
+table {
+    width: 100%;
+}table :is(td, th) {
+border: 1px solid black;
+padding: 0.3em;
+}</style>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CGZMMC73KL"></script>
-    <script>
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-192636660-1');
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CGZMMC73KL">
     </script>
+<script src="{{ site.baseurl }}/assets/js/main.js"></script>
+<link href="{{ site.baseurl }}/assets/css/snow.css" rel="stylesheet">
 
-    <!-- Busuanzi (Visitor counter) -->
-    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<div id="mid-autumn-message">
+<a class="codepro-trungthu-right" href="https://www.code.pro.vn/2021/09/trang-tri-don-trung-thu-cho-blog-website-bang-hinh-anh-canh-hoa-mat-trang-long-den-va-ruoc-den.html"><img alt="Trang trí đón trung thu cho blog/website bằng hình ảnh cành hoa, mặt trăng, lồng đèn và rước đèn" src="{{site.baseurl}}/assets/images/trung-thu/mat-trang-long-den-trung-thu.webp"/></a>
+<a class="codepro-trungthu-bottom" href="https://www.code.pro.vn/2021/09/trang-tri-don-trung-thu-cho-blog-website-bang-hinh-anh-canh-hoa-mat-trang-long-den-va-ruoc-den.html"><img alt="Trang trí đón trung thu cho blog/website bằng hình ảnh cành hoa, mặt trăng, lồng đèn và rước đèn" src="{{site.baseurl}}/assets/images/trung-thu/ruoc-den-trung-thu.webp"/></a></div>
+<script>
+document.addEventListener("DOMContentLoaded",()=>{let e=new Date(2024,8,17),t=new Date(e),n=new Date(e);t.setDate(e.getDate()-3),n.setDate(e.getDate()+3);let a=new Date,d=document.getElementById("mid-autumn-message");a>=t&&a<=n&&(d.style.display="block")});
+</script>
+<script>
+// Lấy tháng hiện tại (0 = Tháng 1, 11 = Tháng 12)
+const currentMonth = new Date().getMonth() + 1; // Cộng 1 để đúng với tháng thực tế
 
-    <!-- Main JS Script -->
-    <script src="{{ site.baseurl }}/assets/js/main.js"></script>
+// Hàm để tạo thẻ và thêm vào tài liệu
+function addElement(tag, attributes) {
+  const element = document.createElement(tag);
+  for (let key in attributes) {
+    element[key] = attributes[key];
+  }
+  document.head.appendChild(element);
+}
 
-    <div id="mid-autumn-message">
-      <a class="codepro-trungthu-right" href="https://www.code.pro.vn/2021/09/trang-tri-don-trung-thu-cho-blog-website-bang-hinh-anh-canh-hoa-mat-trang-long-den-va-ruoc-den.html">
-        <img alt="Trang trí đón trung thu cho blog/website bằng hình ảnh cành hoa, mặt trăng, lồng đèn và rước đèn" src="{{site.baseurl}}/assets/images/trung-thu/mat-trang-long-den-trung-thu.webp" loading="lazy"/>
-      </a>
-      <a class="codepro-trungthu-bottom" href="https://www.code.pro.vn/2021/09/trang-tri-don-trung-thu-cho-blog-website-bang-hinh-anh-canh-hoa-mat-trang-long-den-va-ruoc-den.html">
-        <img alt="Trang trí đón trung thu cho blog/website bằng hình ảnh cành hoa, mặt trăng, lồng đèn và rước đèn" src="{{site.baseurl}}/assets/images/trung-thu/ruoc-den-trung-thu.webp" loading="lazy"/>
-      </a>
-    </div>
-
-    <!-- Optimized CSS: Consolidated, removed redundant rules -->
-    <style>
-      .codepro-trungthu-bottom, .codepro-trungthu-left, .codepro-trungthu-right {
-        opacity: 1;
-        transition: opacity .3s ease-in-out;
-      }
-      .codepro-trungthu-bottom:hover, .codepro-trungthu-left:hover, .codepro-trungthu-right:hover {
-        opacity: 0;
-        z-index: 1;
-      }
-
-      #mid-autumn-message {
-        display: none;
-        padding: 20px;
-        background-color: #fc3;
-        color: #fff;
-        text-align: center;
-        font-size: 1.5rem;
-        font-weight: 700;
-        border-radius: 10px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, .2);
-      }
-
-      .codepro-trungthu-left, .codepro-trungthu-right {
-        position: fixed;
-        top: 0;
-        width: 166px;
-        z-index: 9999;
-      }
-
-      .codepro-trungthu-left { left: 0; }
-      .codepro-trungthu-right { right: 0; }
-
-      .codepro-trungthu-bottom {
-        position: fixed;
-        bottom: -8px;
-        left: 0;
-        width: 333px;
-        z-index: 9999;
-      }
-
-      @media (max-width: 1024px) {
-        .codepro-trungthu-bottom, .codepro-trungthu-left, .codepro-trungthu-right {
-          display: none !important;
+// Kiểm tra tháng và thêm thẻ tương ứng
+switch (currentMonth) {
+  case 11:
+  case 12:
+    addElement('script', { src: '{{ site.baseurl }}/assets/js/snowflakes.js', async: true });
+    break;
+  case 9:
+  case 10:
+    addElement('link', { rel: 'stylesheet', href: '{{ site.baseurl }}/assets/css/trungthu.css' });
+    break;
+  case 1:
+  case 2:
+    addElement('link', { rel: 'stylesheet', href: '{{ site.baseurl }}/assets/css/tet.css' });
+    break;
+}</script>
+<script src="https://apis.google.com/js/api.js"></script>
+<script>
+if (window.innerWidth > 768) {
+            document.getElementById("nav-menu").style.display = "none";
         }
-      }
-
-      /* Header Styles Optimization */
-      .header {
-        background-color: var(--color-bg);
-        border-bottom: 2px solid var(--color-bg2);
-        position: fixed;
-        width: 100%;
-        z-index: 3;
-      }
-
-      .header a { color: var(--color-text); }
-      .header .logo { display: block; float: left; font-size: 1.2em; padding: 10px 20px; text-decoration: none; }
-      .header ul { margin: 0; padding: 0; list-style: none; overflow: hidden; background-color: var(--color-bg); }
-      .header li a { display: block; padding: 20px; border-right: 2px solid var(--color-bg2); text-decoration: none; }
-      .header li:first-child { border-left: 2px solid var(--color-bg2); }
-      .header li a:hover, .header .menu-btn:hover { background-color: var(--color-bg2); }
-      .header .menu { clear: both; max-height: 0; transition: max-height .2s ease-out; }
-      .header .menu-icon { cursor: pointer; display: inline-block; float: right; padding: 28px 20px; position: relative; user-select: none; }
-      .header .menu-icon .navicon { background: var(--color-text); display: block; height: 2px; width: 18px; position: relative; transition: background .2s ease-out; }
-      .header .menu-icon .navicon:before, .header .menu-icon .navicon:after {
-        background: var(--color-text);
-        content: '';
-        display: block;
-        height: 100%;
-        position: absolute;
-        transition: all .2s ease-out;
-        width: 100%;
-      }
-      .header .menu-icon .navicon:before { top: 5px; }
-      .header .menu-icon .navicon:after { top: -5px; }
-      .header .menu-btn { display: none; }
-      .header .menu-btn:checked ~ .menu { max-height: 240px; }
-      .header .menu-btn:checked ~ .menu-icon .navicon { background: transparent; }
-      .header .menu-btn:checked ~ .menu-icon .navicon:before { transform: rotate(-45deg); }
-      .header .menu-btn:checked ~ .menu-icon .navicon:after { transform: rotate(45deg); }
-
-      @media (min-width: 48em) {
-        .header li { float: left; }
-        .header li a { padding: 20px 30px; }
-        .header .menu { clear: none; float: right; max-height: none; }
-        .header .menu-icon { display: none; }
-      }
-
-      section { padding-top: 60px; }
-    </style>
-
-    <!-- Lazy loading and deferred script optimizations -->
-    <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        let e = new Date(2024, 8, 17), t = new Date(e), n = new Date(e);
-        t.setDate(e.getDate() - 3);
-        n.setDate(e.getDate() + 3);
-        let a = new Date, d = document.getElementById("mid-autumn-message");
-        if (a >= t && a <= n) {
-          d.style.display = "block";
-        }
-      });
-    </script>
-
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-192636660-1"></script>
-
-    <!-- Load snowflakes script only in November and December -->
-    <script>
-      const currentMonth = new Date().getMonth() + 1;
-      if (currentMonth === 11 || currentMonth === 12) {
-        const script = document.createElement('script');
-        script.src = '{{ site.baseurl }}/assets/js/snowflakes.js';
-        script.async = true;
-        document.body.appendChild(script);
-      }
-    </script>
-
-    <!-- Load jQuery and other essential scripts at the end -->
-    <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/lazysizes.min.js" async></script>
-    <script src="{{ site.baseurl }}/assets/js/prism.js"></script>
-    <script src="{{ site.baseurl }}/assets/js/theme.js"></script>
-
-    <!-- External JS (only if necessary) -->
-    <script src="https://apis.google.com/js/api.js"></script>
-
-    <!-- Fancybox for image handling -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
-
-
+</script>
+<style>.header{background-color:var(--color-bg);border-bottom:2px solid var(--color-bg2);position:fixed;width:100%;z-index:3}.header a{color:var(--color-text)}.header .logo{display:block;float:left;font-size:1.2em;padding:10px 20px;text-decoration:none}.header ul{margin:0;padding:0;list-style:none;overflow:hidden;background-color:var(--color-bg)}.header li a{display:block;padding:20px;border-right:2px solid var(--color-bg2);text-decoration:none}.header li:first-child{border-left:2px solid var(--color-bg2)}.header li a:hover,.header .menu-btn:hover{background-color:var(--color-bg2)}.header .menu{clear:both;max-height:0;transition:max-height .2s ease-out}.header .menu-icon{cursor:pointer;display:inline-block;float:right;padding:28px 20px;position:relative;user-select:none}.header .menu-icon .navicon{background:var(--color-text);display:block;height:2px;width:18px;position:relative;transition:background .2s ease-out}.header .menu-icon .navicon:before,.header .menu-icon .navicon:after{background:var(--color-text);content:'';display:block;height:100%;position:absolute;transition:all .2s ease-out;width:100%}.header .menu-icon .navicon:before{top:5px}.header .menu-icon .navicon:after{top:-5px}.header .menu-btn{display:none}.header .menu-btn:checked ~ .menu{max-height:240px}.header .menu-btn:checked ~ .menu-icon .navicon{background:transparent}.header .menu-btn:checked ~ .menu-icon .navicon:before{transform:rotate(-45deg)}.header .menu-btn:checked ~ .menu-icon .navicon:after{transform:rotate(45deg)}.header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:before,.header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after{top:0}@media (min-width: 48em){.header li{float:left}.header li a{padding:20px 30px}.header .menu{clear:none;float:right;max-height:none}.header .menu-icon{display:none}}section{padding-top:60px}</style>
+<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/lazysizes.min.js" async></script>
+<script src="{{ site.baseurl }}/assets/js/prism.js"></script>
+<script src="{{ site.baseurl }}/assets/js/theme.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-192636660-1"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
