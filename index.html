@@ -3,8 +3,7 @@ layout: default
 title: Trang chủ
 ---
 <hr>
-<h2 id="h2-moi-nhat" style="color: #3a3a3a;" class="mb-4">Bài viết mới nhất</h2>
-<style>.h2-moi-nhat{animation: fade-up 0.7s ease-out forwards running;}</style>
+<h2 id="h2-moi-nhat" class="mb-4 h2-animation">Bài viết mới nhất</h2>
 <div class="blog-grid-container">
 
     {% for post in paginator.posts %}
@@ -100,6 +99,7 @@ title: Trang chủ
 </div>
 
 <style>
+    #h2-moi-nhat{color:#3a3a3a}.h2-animation{animation:fade-up .7s ease-out forwards}@keyframes fade-up{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
     .card { overflow:hidden;
     } .card-text { color: #333;
     } .pricing ul { list-style-type: none;
