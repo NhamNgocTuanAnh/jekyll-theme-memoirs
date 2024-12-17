@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="vi">
 
-<head>
+<head><meta charset="UTF-8">
+  <title>{{ page.title }} | {{site.name}}</title>{% seo %}
+  <meta name="google-site-verification" content="d_QhcFO6jYixKuqHeimC-fB9HoL2oOxFPBBr1Dm-3nE" />
   <script>
 function handleClickReadMoreBtn(){const readMoreBtn=document.getElementById("read-more-btn-hell");if(readMoreBtn){readMoreBtn.style.display="none"}
 for(;;){const overlays=document.querySelectorAll(".content-overlay");if(overlays){if(overlays.length>0){for(const overlay of overlays){overlay.style.maxHeight="none"}};window.scrollTo({top:456,behavior:"smooth"});break}}
@@ -14,13 +16,10 @@ document.addEventListener("DOMContentLoaded",()=>{const readMoreBtn=document.get
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     {% assign version =  page.date | date: "%-d" %}
     <meta name="version" content="{{ 'now' | date: '%s' }}">
-    <meta charset="UTF-8">
     {% if page.keywords %}
         <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
     {% endif %}
     <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.webp">
-    <title>{{ page.title }} | {{site.name}}</title>{% seo %}
-    <meta name="google-site-verification" content="d_QhcFO6jYixKuqHeimC-fB9HoL2oOxFPBBr1Dm-3nE" />
     <style>
       .content-container,.content-overlay{overflow:hidden;position:relative}.content-overlay{color:#333;line-height:1.6;max-height:350px}.content-overlay::after{content:"";position:absolute;bottom:0;left:0;width:100%;height:40px;background:linear-gradient(to bottom,rgba(255,255,255,0),#fff);pointer-events:none}.read-more-btn{bottom:10px;padding:10px 20px;background-color:#007bff;color:#fff;border:none;border-radius:5px;cursor:pointer;transition:background-color .3s;z-index:1}.read-more-btn:hover{background-color:#0056b3}#read-more-btn{pointer-events:auto}
       </style>
@@ -50,7 +49,7 @@ document.addEventListener("DOMContentLoaded",()=>{const readMoreBtn=document.get
       <ul class="menu">
         <li><a href="{{ site.baseurl }}/categories?category=0#gsc.tab=0">Chủ đề</a></li>
         <li><a href="{{ site.baseurl }}/about-me">About me</a></li>
-        <li><a><button onclick="if (!window.__cfRLUnblockHandlers) return false; handleChatButtonClick()">Contact</button></a></li>
+        <li><button onclick="if (!window.__cfRLUnblockHandlers) return false; handleChatButtonClick()">Contact</button></li>
       </ul>
     </nav>
   </header>
