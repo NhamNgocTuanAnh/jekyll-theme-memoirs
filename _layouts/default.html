@@ -4,22 +4,24 @@
 <head>    <meta charset="UTF-8">
   <title>{{ page.title }} | {{ site.name }}</title>
   {% seo %}
-  <meta name="google-site-verification" content="d_QhcFO6jYixKuqHeimC-fB9HoL2oOxFPBBr1Dm-3nE" />
+  <meta name="google-site-verification" content="d_QhcFO6jYixKuqHeimC-fB9HoL2oOxFPBBr1Dm-3nE">
   <meta name="robots" content="index, follow">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="version" content="{{ 'now' | date: '%s' }}">
   {% if page.keywords %}
       <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
   {% endif %}
-  <meta name="p:domain_verify" content="0b924aa669f7e6b71d9196a1b2371d96" />
+  <meta name="p:domain_verify" content="0b924aa669f7e6b71d9196a1b2371d96">
   <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.webp">
 
+  <!-- Combine CSS Links -->
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style-image.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/prism.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/theme.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/snow.css">
   <link href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css" rel="stylesheet">
 
+  <!-- Inline CSS - Keep it minimal -->
   <style>
       .content-container, .content-overlay { overflow: hidden; position: relative; }
       .content-overlay { color: #333; line-height: 1.6; max-height: 350px; }
@@ -28,10 +30,11 @@
       .read-more-btn:hover { background-color: #0056b3; }
       #read-more-btn { pointer-events: auto; }
       .snowCall { display: none; }
-      .container { max-width: 968px; margin-left: 1rem; margin-right: 1rem; }
+      .container { max-width: 968px; margin: 1rem; }
       .nav__menu { display: flex; gap: 1.5rem; list-style: none; }
   </style>
 
+  <!-- Asynchronous Scripts -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-CGZMMC73KL"></script>
   <script>
       function gtag(){dataLayer.push(arguments);}
@@ -40,6 +43,7 @@
   </script>
 
   <script>
+      // Check for redirection only on first load and for mobile devices
       let dontRedirect = localStorage.getItem('dontRedirect');
       if (!dontRedirect && window.location.href === "https://anhhangxom.xyz/") {
           if (window.innerWidth <= 768) {
@@ -57,6 +61,7 @@
                   document.querySelectorAll(".content-overlay").forEach(overlay => overlay.style.maxHeight = "none");
                   window.scrollTo({ top: 456, behavior: "smooth" });
 
+                  // Send GA event
                   if (typeof ga === "function") {
                       ga("send", "event", "read-new", "read-more", "{{ page.url }}", 10);
                   }
