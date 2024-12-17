@@ -1,35 +1,69 @@
 <!DOCTYPE html>
 <html lang="vi">
 
-<head><meta charset="UTF-8">
-  <title>{{ page.title }} | {{site.name}}</title>{% seo %}
+<head>    <meta charset="UTF-8">
+  <title>{{ page.title }} | {{ site.name }}</title>
+  {% seo %}
   <meta name="google-site-verification" content="d_QhcFO6jYixKuqHeimC-fB9HoL2oOxFPBBr1Dm-3nE" />
+  <meta name="robots" content="index, follow">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="version" content="{{ 'now' | date: '%s' }}">
+  {% if page.keywords %}
+      <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
+  {% endif %}
+  <meta name="p:domain_verify" content="0b924aa669f7e6b71d9196a1b2371d96" />
+  <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.webp">
+
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style-image.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/prism.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/theme.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/snow.css">
+  <link href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css" rel="stylesheet">
+
+  <style>
+      .content-container, .content-overlay { overflow: hidden; position: relative; }
+      .content-overlay { color: #333; line-height: 1.6; max-height: 350px; }
+      .content-overlay::after { content: ""; position: absolute; bottom: 0; left: 0; width: 100%; height: 40px; background: linear-gradient(to bottom, rgba(255, 255, 255, 0), #fff); pointer-events: none; }
+      .read-more-btn { padding: 10px 20px; background-color: #007bff; color: #fff; border: none; border-radius: 5px; cursor: pointer; }
+      .read-more-btn:hover { background-color: #0056b3; }
+      #read-more-btn { pointer-events: auto; }
+      .snowCall { display: none; }
+      .container { max-width: 968px; margin-left: 1rem; margin-right: 1rem; }
+      .nav__menu { display: flex; gap: 1.5rem; list-style: none; }
+  </style>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-CGZMMC73KL"></script>
   <script>
-function handleClickReadMoreBtn(){const readMoreBtn=document.getElementById("read-more-btn-hell");if(readMoreBtn){readMoreBtn.style.display="none"}
-for(;;){const overlays=document.querySelectorAll(".content-overlay");if(overlays){if(overlays.length>0){for(const overlay of overlays){overlay.style.maxHeight="none"}};window.scrollTo({top:456,behavior:"smooth"});break}}
-if(typeof ga==="function"){ga("send","event","read-new","read-more","{{ page.url }}",10)}}
-document.addEventListener("DOMContentLoaded",()=>{const readMoreBtn=document.getElementById("read-more-btn-hell");if(readMoreBtn){readMoreBtn.addEventListener("click",handleClickReadMoreBtn)}})</script>
-  <script>let dontRedirect=localStorage.getItem('dontRedirect');if(!dontRedirect&&window.location.href==="https://anhhangxom.xyz/"){if(window.innerWidth<=768){window.location.href="https://anhhangxom.xyz/index-mobile/"}}</script>
-  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style-image.css">
-    <meta name="robots" content="index, follow">
-    <meta name="p:domain_verify" content="0b924aa669f7e6b71d9196a1b2371d96"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    {% assign version =  page.date | date: "%-d" %}
-    <meta name="version" content="{{ 'now' | date: '%s' }}">
-    {% if page.keywords %}
-        <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
-    {% endif %}
-    <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.webp">
-    <style>
-      .content-container,.content-overlay{overflow:hidden;position:relative}.content-overlay{color:#333;line-height:1.6;max-height:350px}.content-overlay::after{content:"";position:absolute;bottom:0;left:0;width:100%;height:40px;background:linear-gradient(to bottom,rgba(255,255,255,0),#fff);pointer-events:none}.read-more-btn{bottom:10px;padding:10px 20px;background-color:#007bff;color:#fff;border:none;border-radius:5px;cursor:pointer;transition:background-color .3s;z-index:1}.read-more-btn:hover{background-color:#0056b3}#read-more-btn{pointer-events:auto}
-      </style>
-<script>function handleImageLoad(e){e.classList.add("loaded");};function isMobileDevice(){return/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)};function hideDivOnSmallScreens() { var iPhone8Width = 375; var iPhone8Height = 667; var windowWidth = window.innerWidth; var windowHeight = window.innerHeight; if (windowWidth <= iPhone8Width || windowHeight <= iPhone8Height) { console.log("nhỏ quá"); return true; }else{ return false; } }var sidebar = document.getElementById('sidebar');var isRelative = sidebar && window.getComputedStyle(sidebar).position === 'relative';</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-192636660-1');
-</script>
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-192636660-1');
+  </script>
+
+  <script>
+      let dontRedirect = localStorage.getItem('dontRedirect');
+      if (!dontRedirect && window.location.href === "https://anhhangxom.xyz/") {
+          if (window.innerWidth <= 768) {
+              window.location.href = "https://anhhangxom.xyz/index-mobile/";
+          }
+      }
+  </script>
+
+  <script>
+      document.addEventListener("DOMContentLoaded", () => {
+          const readMoreBtn = document.getElementById("read-more-btn-hell");
+          if (readMoreBtn) {
+              readMoreBtn.addEventListener("click", function () {
+                  this.style.display = "none";
+                  document.querySelectorAll(".content-overlay").forEach(overlay => overlay.style.maxHeight = "none");
+                  window.scrollTo({ top: 456, behavior: "smooth" });
+
+                  if (typeof ga === "function") {
+                      ga("send", "event", "read-new", "read-more", "{{ page.url }}", 10);
+                  }
+              });
+          }
+      });
+  </script>
 </head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
