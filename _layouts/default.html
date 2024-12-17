@@ -3,7 +3,10 @@
 
 <head><meta charset="UTF-8">
   <title>{{ page.title }} | {{site.name}}</title>{% seo %}
-  <meta name="google-site-verification" content="d_QhcFO6jYixKuqHeimC-fB9HoL2oOxFPBBr1Dm-3nE" /><script>
+  <meta name="google-site-verification" content="d_QhcFO6jYixKuqHeimC-fB9HoL2oOxFPBBr1Dm-3nE" /><script src="{{ site.baseurl }}/assets/js/lunar.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/lunar-javascript@1.0.9/dist/index.min.js"></script>
+
+  <script>
 function handleClickReadMoreBtn(){const readMoreBtn=document.getElementById("read-more-btn-hell");if(readMoreBtn){readMoreBtn.style.display="none"}
 for(;;){const overlays=document.querySelectorAll(".content-overlay");if(overlays){if(overlays.length>0){for(const overlay of overlays){overlay.style.maxHeight="none"}};window.scrollTo({top:456,behavior:"smooth"});break}}
 if(typeof ga==="function"){ga("send","event","read-new","read-more","{{ page.url }}",10)}}
@@ -173,44 +176,47 @@ padding: 0.3em;
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-CGZMMC73KL">
     </script>
 <script src="{{ site.baseurl }}/assets/js/main.js"></script>
-<link href="{{ site.baseurl }}/assets/css/snow.css" rel="stylesheet">
-
-<div id="mid-autumn-message">
+<div id="mid-autumn-message" style="display:none;">
 <a class="codepro-trungthu-right" href="https://www.code.pro.vn/2021/09/trang-tri-don-trung-thu-cho-blog-website-bang-hinh-anh-canh-hoa-mat-trang-long-den-va-ruoc-den.html"><img alt="Trang trí đón trung thu cho blog/website bằng hình ảnh cành hoa, mặt trăng, lồng đèn và rước đèn" src="{{site.baseurl}}/assets/images/trung-thu/mat-trang-long-den-trung-thu.webp"/></a>
 <a class="codepro-trungthu-bottom" href="https://www.code.pro.vn/2021/09/trang-tri-don-trung-thu-cho-blog-website-bang-hinh-anh-canh-hoa-mat-trang-long-den-va-ruoc-den.html"><img alt="Trang trí đón trung thu cho blog/website bằng hình ảnh cành hoa, mặt trăng, lồng đèn và rước đèn" src="{{site.baseurl}}/assets/images/trung-thu/ruoc-den-trung-thu.webp"/></a></div>
 <script>
-document.addEventListener("DOMContentLoaded",()=>{let e=new Date(2024,8,17),t=new Date(e),n=new Date(e);t.setDate(e.getDate()-3),n.setDate(e.getDate()+3);let a=new Date,d=document.getElementById("mid-autumn-message");a>=t&&a<=n&&(d.style.display="block")});
-</script>
-<script>
-// Lấy tháng hiện tại (0 = Tháng 1, 11 = Tháng 12)
-const currentMonth = new Date().getMonth() + 1; // Cộng 1 để đúng với tháng thực tế
+// Lấy tháng hiện tại (1 = Tháng 1, 12 = Tháng 12)
+const currentMonth = new Date().getMonth() + 1;
 
-// Hàm để tạo thẻ và thêm vào tài liệu
-function addElement(tag, attributes) {
-  const element = document.createElement(tag);
-  for (let key in attributes) {
-    element[key] = attributes[key];
-  }
-  document.head.appendChild(element);
-}
+// Hàm để tạo và thêm thẻ vào head
+const addLink = (href) => {
+  const link = document.createElement('link');
+  link.rel = 'stylesheet';
+  link.href = href;
+  document.head.appendChild(link);
+};
 
-// Kiểm tra tháng và thêm thẻ tương ứng
 switch (currentMonth) {
   case 11:
   case 12:
-    addElement('script', { src: '{{ site.baseurl }}/assets/js/snowflakes.js', async: true });
+    addLink('{{ site.baseurl }}/assets/css/snow.css');
+    const script = document.createElement('script');
+    script.src = '{{ site.baseurl }}/assets/js/snowflakes.js';
+    script.async = true;
+    document.body.appendChild(script);
     break;
+
   case 9:
   case 10:
-    addElement('link', { rel: 'stylesheet', href: '{{ site.baseurl }}/assets/css/trungthu.css' });
+    addLink('{{ site.baseurl }}/assets/css/trungthu.css');
+    const midAutumnMessage = document.getElementById("mid-autumn-message");
+    if (midAutumnMessage) midAutumnMessage.style.display = "block";
     break;
+
   case 1:
   case 2:
-    addElement('link', { rel: 'stylesheet', href: '{{ site.baseurl }}/assets/css/tet.css' });
+    addLink('{{ site.baseurl }}/assets/css/tet.css');
     break;
-}</script>
+}
+</script>
 <script src="https://apis.google.com/js/api.js"></script>
 <script>
+
 if (window.innerWidth > 768) {
             document.getElementById("nav-menu").style.display = "none";
         }
