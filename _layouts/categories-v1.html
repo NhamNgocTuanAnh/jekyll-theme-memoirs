@@ -189,7 +189,16 @@ document.addEventListener("DOMContentLoaded", () => {
       filterPosts(selectedCategory);
     });
   });
-  filterPosts("nhiếp-anh");
+  const codingRadio = document.querySelector('input[type="radio"][name="filter"][id="nhiếp-anh"]');
+
+if (codingRadio) {
+  codingRadio.addEventListener("click", () => {
+    console.log("Radio button 'nhiếp-anh' clicked!");
+    // Thực hiện hành động khác ở đây
+  });
+} else {
+  console.error("Radio button with id 'nhiếp-anh' not found!");
+}
   // Kích hoạt bộ lọc ban đầu
   document.querySelector('[name="filter"]:checked')?.dispatchEvent(new Event("change"));
 
