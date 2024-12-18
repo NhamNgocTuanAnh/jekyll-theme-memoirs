@@ -97,87 +97,119 @@ permalink: "/categories-v1.html"
   <div class="gallery"></div>
 
   <script>
-    let currentIndex = 0;
-    const BATCH_SIZE = 10;
-    // Posts data
-    const posts = [
-      {% for post in site.posts %}
-        {% assign first_category = post.categories | first %}
-        {% assign name_no_icon = first_category
-          | remove: "💪"
-          | remove: "💻"
-          | remove: "🛫"
-          | remove: "📸"
-          | remove: "📝"
-          | remove: "📓"
-          | remove: "⚒"
-          | remove: "➕" %}
-        {% assign name_no_accent = name_no_icon | replace: "á", "a" | replace: "à", "a" | replace: "ạ", "a" | replace: "ả", "a" | replace: "ã", "a" | replace: "â", "a" | replace: "ă", "a" | replace: "é", "e" | replace: "è", "e" | replace: "ẹ", "e" | replace: "ẻ", "e" | replace: "ê", "e" | replace: "í", "i" | replace: "ì", "i" | replace: "ó", "o" | replace: "ò", "o" | replace: "ô", "o" | replace: "ơ", "o" | replace: "ú", "u" | replace: "ư", "u" | replace: "ý", "y" | replace: "đ", "d" %}
-        {
-          category: "{{ name_no_accent | slugify }}",
-          src: "{{ post.image | default: 'https://via.placeholder.com/300' }}",
-          caption: {{ post.title | jsonify }},
-          url: "{{ post.url }}"
-        }{% unless forloop.last %},{% endunless %}
-      {% endfor %}
-    ];
+document.addEventListener("DOMContentLoaded", () => {
+  // Tạo spinner
+  const spinner = document.createElement("div");
+  spinner.className = "spinner";
+  spinner.textContent = "Loading...";
+  document.body.appendChild(spinner);
 
+  // Khởi tạo biến
+  let currentIndex = 0;
+  const BATCH_SIZE = 10;
 
+  // Lấy dữ liệu bài viết từ Jekyll
+  const posts = [
+    {% for post in site.posts %}
+      {
+        category: "{{ post.categories | first | slugify }}",
+        src: "{{ post.image | default: 'https://via.placeholder.com/300' }}",
+        caption: {{ post.title | jsonify }},
+        url: "{{ post.url }}"
+      }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ];
 
-    // Render gallery
-    const gallery = document.querySelector('.gallery');
-    function loadMorePosts(posts) {
-  const endIndex = currentIndex + BATCH_SIZE;
-  const batch = posts.slice(currentIndex, endIndex);
+  const gallery = document.querySelector(".gallery");
 
-  batch.forEach(post => {
-      const figure = document.createElement('figure');
-      figure.className = `card ${post.category}`;
-      figure.innerHTML = `
-        <img class="card__image lazyload" src="${post.src}" alt="${post.caption}" loading="lazy">
-        <figcaption class="card__caption"><a href="${post.url}" >${post.caption}</a></figcaption>
-      `;
-      gallery.appendChild(figure);
-    });
-    currentIndex = endIndex;
-      // Kích hoạt lazy loading nếu có sử dụng thư viện
-  if (typeof LazyLoad !== 'undefined') {
-    new LazyLoad(); // Nếu dùng vanilla-lazyload
-  }
+  // Hàm hiển thị thêm bài viết
+  function loadMorePosts() {
+    if (currentIndex >= posts.length) {
+      console.log("No more posts to load");
+      return;
     }
 
+    spinner.style.display = "block"; // Hiện spinner
+    setTimeout(() => {
+      const endIndex = currentIndex + BATCH_SIZE;
+      const batch = posts.slice(currentIndex, Math.min(endIndex, posts.length));
 
-function handleScroll() {
-  // Kiểm tra xem người dùng đã cuộn gần cuối trang chưa
-  const scrollPosition = window.scrollY + window.innerHeight;
-  const documentHeight = document.body.offsetHeight;
+      batch.forEach(post => {
+        if (gallery.querySelector(`[data-url="${post.url}"]`)) return;
 
-  if (scrollPosition >= documentHeight - 100) {
-    loadMorePosts(posts);
-  }
-}
-
-// Gắn sự kiện cuộn
-window.addEventListener('scroll', handleScroll);
-
-loadMorePosts(posts);
-    // Filter functionality
-    const filters = document.querySelectorAll('[name="filter"]');
-    filters.forEach(filter => {
-      filter.addEventListener('change', event => {
-        const selectedCategory = event.target.value;
-        document.querySelectorAll('.card').forEach(card => {
-          if (selectedCategory === 'all' || card.classList.contains(selectedCategory)) {
-            card.classList.add('active');
-          } else {
-            card.classList.remove('active');
-          }
-        });
+        const figure = document.createElement("figure");
+        figure.className = `card ${post.category}`;
+        figure.setAttribute("data-url", post.url);
+        figure.innerHTML = `
+          <img class="card__image lazyload" src="${post.src}" alt="${post.caption}" loading="lazy">
+          <figcaption class="card__caption">
+            <a href="${post.url}">${post.caption}</a>
+          </figcaption>
+        `;
+        gallery.appendChild(figure);
       });
-    });
 
-    // Trigger initial filter
-    document.querySelector('[name="filter"]:checked').dispatchEvent(new Event('change'));
+      currentIndex = endIndex;
+
+      // LazyLoad kích hoạt
+      if (typeof LazyLoad !== "undefined") new LazyLoad();
+
+      spinner.style.display = "none"; // Ẩn spinner
+    }, 500);
+  }
+
+  // Hàm kiểm tra cuộn gần cuối trang
+  function handleScroll() {
+    const scrollPosition = window.scrollY + window.innerHeight;
+    const documentHeight = document.body.offsetHeight;
+
+    if (scrollPosition >= documentHeight - 100) {
+      loadMorePosts();
+    }
+  }
+
+  // Gắn sự kiện cuộn
+  window.addEventListener("scroll", handleScroll);
+
+  // Bộ lọc bài viết
+  function filterPosts(category) {
+    document.querySelectorAll(".card").forEach(card => {
+      card.style.display =
+        category === "all" || card.classList.contains(category)
+          ? "block"
+          : "none";
+    });
+  }
+
+  // Sự kiện thay đổi bộ lọc
+  const filters = document.querySelectorAll('[name="filter"]');
+  filters.forEach(filter => {
+    filter.addEventListener("change", event => {
+      const selectedCategory = event.target.value;
+      filterPosts(selectedCategory);
+    });
+  });
+
+  // Kích hoạt bộ lọc ban đầu
+  document.querySelector('[name="filter"]:checked')?.dispatchEvent(new Event("change"));
+
+  // Intersection Observer (tùy chọn)
+  const observer = new IntersectionObserver(
+    entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          loadMorePosts();
+        }
+      });
+    },
+    { rootMargin: "100px" }
+  );
+
+  observer.observe(gallery);
+
+  // Load bài viết ban đầu
+  loadMorePosts();
+});
   </script>
 <script>const homeButton=document.createElement("div");homeButton.id="home-button",homeButton.style.position="fixed",homeButton.style.bottom="20px",homeButton.style.right="20px",homeButton.style.zIndex="100";const homeLink=document.createElement("a");homeLink.href="/",homeLink.textContent="Trang chủ",homeLink.style.display="block",homeLink.style.padding="10px 15px",homeLink.style.backgroundColor="#007bff",homeLink.style.color="#fff",homeLink.style.textDecoration="none",homeLink.style.borderRadius="5px",homeButton.appendChild(homeLink),document.body.appendChild(homeButton);</script>
 <div id="home-button">
