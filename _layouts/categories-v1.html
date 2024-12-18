@@ -140,13 +140,26 @@ permalink: "/categories-v1.html"
       gallery.appendChild(figure);
     });
     currentIndex = endIndex;
+      // Kích hoạt lazy loading nếu có sử dụng thư viện
+  if (typeof LazyLoad !== 'undefined') {
+    new LazyLoad(); // Nếu dùng vanilla-lazyload
+  }
     }
 
-    window.addEventListener('scroll', () => {
-  if (window.innerHeight + window.scrollY >= document.body.offsetHeight) {
+
+function handleScroll() {
+  // Kiểm tra xem người dùng đã cuộn gần cuối trang chưa
+  const scrollPosition = window.scrollY + window.innerHeight;
+  const documentHeight = document.body.offsetHeight;
+
+  if (scrollPosition >= documentHeight - 100) {
     loadMorePosts(posts);
   }
-});
+}
+
+// Gắn sự kiện cuộn
+window.addEventListener('scroll', handleScroll);
+
 loadMorePosts(posts);
     // Filter functionality
     const filters = document.querySelectorAll('[name="filter"]');
