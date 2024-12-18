@@ -106,8 +106,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Khởi tạo biến
   let currentIndex = 0;
-  const BATCH_SIZE = 10;
-
+  const BATCH_SIZE = 20;
+  let savedCategory = localStorage.getItem("selectedCategory") || "all";
   // Lấy dữ liệu bài viết từ Jekyll
   const posts = [
     {% for post in site.posts %}
@@ -156,7 +156,20 @@ document.addEventListener("DOMContentLoaded", () => {
             behavior: 'smooth', // Cuộn mượt
         });
 
+        const codingLabel = document.querySelector('label[for="'+savedCategory+'"]');
+  const allLabel = document.querySelector('label[for="all"]');
 
+    if (codingLabel && allLabel) {
+        setTimeout(() => {
+            allLabel.click(); // Click vào label "Coding 💻"
+
+        setTimeout(() => {
+            codingLabel.click(); // Click vào label "All"
+        }, 500); // Thời gian chờ giữa hai lần click (ms)
+        }, 500); // Thời gian chờ sau khi trang load xong (ms)
+    } else {
+        console.error("Label 'Coding' or 'All' not found!");
+    }
       // LazyLoad kích hoạt
       if (typeof LazyLoad !== "undefined") new LazyLoad();
 
@@ -225,6 +238,7 @@ document.addEventListener("DOMContentLoaded", () => {
   filters.forEach(filter => {
     filter.addEventListener("change", event => {
       const selectedCategory = event.target.value;
+      localStorage.setItem("selectedCategory", selectedCategory);
       filterPosts(selectedCategory);
     });
   });
