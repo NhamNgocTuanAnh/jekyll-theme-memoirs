@@ -129,8 +129,22 @@ permalink: "/categories-v1.html"
             // Lấy dữ liệu bài viết từ Jekyll
             const posts = [
                 {% for post in site.posts %}
+                    {% assign name_no_icon = post.categories
+            | remove: "💪"
+            | remove: "💻"
+            | remove: "🛫"
+            | remove: "📸"
+            | remove: "📝"
+            | remove: "📓"
+            | remove: "⚒"
+            | remove: "➕" %}
+            {% assign name_no_accent = name_no_icon | replace: "á", "a" | replace: "à", "a" | replace: "ạ", "a" | replace:
+            "ả", "a" | replace: "ã", "a" | replace: "â", "a" | replace: "ă", "a" | replace: "é", "e" | replace: "è", "e" |
+            replace: "ẹ", "e" | replace: "ẻ", "e" | replace: "ê", "e" | replace: "í", "i" | replace: "ì", "i" | replace:
+            "ó", "o" | replace: "ò", "o" | replace: "ô", "o" | replace: "ơ", "o" | replace: "ú", "u" | replace: "ư", "u" |
+            replace: "ý", "y" | replace: "đ", "d" %}
       {
-                category: "{{ post.categories | first | slugify }}",
+                category: "{{ name_no_accent | first | slugify }}",
                 src: "{{ post.image | default: 'https://via.placeholder.com/300' }}",
                 caption: {{ post.title | jsonify }},
             url: "{{ post.url }}"
