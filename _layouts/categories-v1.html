@@ -97,6 +97,8 @@ permalink: "/categories-v1.html"
   <div class="gallery"></div>
 
   <script>
+    let currentIndex = 0;
+    const BATCH_SIZE = 10;
     // Posts data
     const posts = [
       {% for post in site.posts %}
@@ -120,18 +122,32 @@ permalink: "/categories-v1.html"
       {% endfor %}
     ];
 
+
+
     // Render gallery
     const gallery = document.querySelector('.gallery');
-    posts.forEach(post => {
+    function loadMorePosts(posts) {
+  const endIndex = currentIndex + BATCH_SIZE;
+  const batch = posts.slice(currentIndex, endIndex);
+
+  batch.forEach(post => {
       const figure = document.createElement('figure');
       figure.className = `card ${post.category}`;
       figure.innerHTML = `
-        <img class="card__image" src="${post.src}" alt="${post.caption}" loading="lazy">
+        <img class="card__image lazyload" src="${post.src}" alt="${post.caption}" loading="lazy">
         <figcaption class="card__caption"><a href="${post.url}" >${post.caption}</a></figcaption>
       `;
       gallery.appendChild(figure);
     });
+    currentIndex = endIndex;
+    }
 
+    window.addEventListener('scroll', () => {
+  if (window.innerHeight + window.scrollY >= document.body.offsetHeight) {
+    loadMorePosts(posts);
+  }
+});
+loadMorePosts(posts);
     // Filter functionality
     const filters = document.querySelectorAll('[name="filter"]');
     filters.forEach(filter => {
