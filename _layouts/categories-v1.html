@@ -1,0 +1,155 @@
+---
+title: "Categories"
+layout: none
+permalink: "/categories-v1.html"
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Gallery Template with Filter</title>
+  <style>
+    @import url("https://fonts.googleapis.com/css?family=Poppins:400");
+    * {
+      box-sizing: border-box;
+    }
+    html {
+      font: 16px/1.6 'Poppins', system-ui, sans-serif;
+    }
+    body {
+      padding: 2em 1rem;
+      text-align: center;
+    }
+    [type="radio"] {
+      display: none;
+    }
+    label {
+      padding: 0.25rem 0.75rem;
+      border-radius: 0.25rem;
+      cursor: pointer;
+      transition: 0.25s;
+    }
+    [type="radio"]:checked + label {
+      background: gold;
+    }
+    .gallery {
+      display: grid;
+      justify-content: center;
+      grid-template-columns: repeat(auto-fit, 300px);
+      grid-auto-rows: 1fr;
+      grid-gap: 1rem;
+      padding: 0.5rem;
+      margin-top: 1rem;
+    }
+    .card {
+      display: none;
+      background: darkslateblue;
+      border-radius: 0.25rem;
+      overflow: hidden;
+      box-shadow: 0 0 10px silver;
+      transition: box-shadow 0.35s;
+    }
+    .card.active {
+      display: block;
+    }
+    .card:hover {
+      box-shadow: 0 0 25px #0009;
+    }
+    .card__image {
+      width: 100%;
+      object-fit: cover;
+    }
+    .card__caption {
+      font-weight: bold;
+      font-variant: small-caps;
+      padding: 0.5rem;
+      text-align: center;
+      color: gold;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Filters -->
+  <div class="filters">
+    <input type="radio" name="filter" id="all" value="all" checked>
+    <label for="all">All</label>
+
+    {% assign all_categories = site.posts | map: "categories" | join: "," | split: "," | uniq | sort %}
+    {% for category in all_categories %}
+      {% assign name_no_icon = category
+        | remove: "💪"
+        | remove: "💻"
+        | remove: "🛫"
+        | remove: "📸"
+        | remove: "📝"
+        | remove: "📓"
+        | remove: "⚒"
+        | remove: "➕" %}
+      {% assign name_no_accent = name_no_icon | replace: "á", "a" | replace: "à", "a" | replace: "ạ", "a" | replace: "ả", "a" | replace: "ã", "a" | replace: "â", "a" | replace: "ă", "a" | replace: "é", "e" | replace: "è", "e" | replace: "ẹ", "e" | replace: "ẻ", "e" | replace: "ê", "e" | replace: "í", "i" | replace: "ì", "i" | replace: "ó", "o" | replace: "ò", "o" | replace: "ô", "o" | replace: "ơ", "o" | replace: "ú", "u" | replace: "ư", "u" | replace: "ý", "y" | replace: "đ", "d" %}
+      <input type="radio" name="filter" id="{{ name_no_accent | slugify }}" value="{{ name_no_accent | slugify }}">
+      <label for="{{ name_no_accent | slugify }}">{{ category }}</label>
+    {% endfor %}
+  </div>
+
+  <!-- Gallery -->
+  <div class="gallery"></div>
+
+  <script>
+    // Posts data
+    const posts = [
+      {% for post in site.posts %}
+        {% assign first_category = post.categories | first %}
+        {% assign name_no_icon = first_category
+          | remove: "💪"
+          | remove: "💻"
+          | remove: "🛫"
+          | remove: "📸"
+          | remove: "📝"
+          | remove: "📓"
+          | remove: "⚒"
+          | remove: "➕" %}
+        {% assign name_no_accent = name_no_icon | replace: "á", "a" | replace: "à", "a" | replace: "ạ", "a" | replace: "ả", "a" | replace: "ã", "a" | replace: "â", "a" | replace: "ă", "a" | replace: "é", "e" | replace: "è", "e" | replace: "ẹ", "e" | replace: "ẻ", "e" | replace: "ê", "e" | replace: "í", "i" | replace: "ì", "i" | replace: "ó", "o" | replace: "ò", "o" | replace: "ô", "o" | replace: "ơ", "o" | replace: "ú", "u" | replace: "ư", "u" | replace: "ý", "y" | replace: "đ", "d" %}
+        {
+          category: "{{ name_no_accent | slugify }}",
+          src: "{{ post.image | default: 'https://via.placeholder.com/300' }}",
+          caption: {{ post.title | jsonify }},
+          url: "{{ post.url }}"
+        }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ];
+
+    // Render gallery
+    const gallery = document.querySelector('.gallery');
+    posts.forEach(post => {
+      const figure = document.createElement('figure');
+      figure.className = `card ${post.category}`;
+      figure.innerHTML = `
+        <img class="card__image" src="${post.src}" alt="${post.caption}" loading="lazy">
+        <figcaption class="card__caption"><a href="${post.url}" >${post.caption}</a></figcaption>
+      `;
+      gallery.appendChild(figure);
+    });
+
+    // Filter functionality
+    const filters = document.querySelectorAll('[name="filter"]');
+    filters.forEach(filter => {
+      filter.addEventListener('change', event => {
+        const selectedCategory = event.target.value;
+        document.querySelectorAll('.card').forEach(card => {
+          if (selectedCategory === 'all' || card.classList.contains(selectedCategory)) {
+            card.classList.add('active');
+          } else {
+            card.classList.remove('active');
+          }
+        });
+      });
+    });
+
+    // Trigger initial filter
+    document.querySelector('[name="filter"]:checked').dispatchEvent(new Event('change'));
+  </script>
+
+</body>
+</html>
