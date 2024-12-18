@@ -12,77 +12,6 @@ permalink: "/categories-v1.html"
     <meta name="viewport" content="width=device-width">
     <title>Gallery</title>
 
-    <style>
-        @import url("https://fonts.googleapis.com/css?family=Poppins:400");
-
-        * {
-            box-sizing: border-box;
-        }
-
-        html {
-            font: 16px/1.6 'Poppins', system-ui, sans-serif;
-        }
-
-        body {
-            padding: 2em 1rem;
-            text-align: center;
-        }
-
-        [type="radio"] {
-            display: none;
-        }
-
-        label {
-            padding: 0.25rem 0.75rem;
-            border-radius: 0.25rem;
-            cursor: pointer;
-            transition: 0.25s;
-        }
-
-        [type="radio"]:checked+label {
-            background: gold;
-        }
-
-        .gallery {
-            display: grid;
-            justify-content: center;
-            grid-template-columns: repeat(auto-fit, 300px);
-            grid-auto-rows: 1fr;
-            grid-gap: 1rem;
-            padding: 0.5rem;
-            margin-top: 1rem;
-        }
-
-        .card {
-            display: none;
-            background: darkslateblue;
-            border-radius: 0.25rem;
-            overflow: hidden;
-            box-shadow: 0 0 10px silver;
-            transition: box-shadow 0.35s;
-        }
-
-        .card.active {
-            display: block;
-        }
-
-        .card:hover {
-            box-shadow: 0 0 25px #0009;
-        }
-
-        .card__image {
-            width: 100%;
-            object-fit: cover;
-        }
-
-        .card__caption {
-            font-weight: bold;
-            font-variant: small-caps;
-            padding: 0.5rem;
-            text-align: center;
-            color: gold;
-        }
-    </style>
 </head>
 
 <body>
@@ -165,167 +94,25 @@ permalink: "/categories-v1.html"
       }{% unless forloop.last %}, {% endunless %}
             {% endfor %}
   ];
-
-        const gallery = document.querySelector(".gallery");
-
-        // Hàm hiển thị thêm bài viết
-        function loadMorePosts() {
-            if (currentIndex >= posts.length) {
-                currentIndex = currentIndex - posts.length
-                console.log("No more posts to load");
-            }
-
-            spinner.style.display = "block"; // Hiện spinner
-            setTimeout(() => {
-                const endIndex = currentIndex + BATCH_SIZE;
-                const batch = posts.slice(currentIndex, Math.min(endIndex, posts.length));
-
-                batch.forEach(post => {
-                    if (gallery.querySelector(`[data-url="${post.url}"]`)) return;
-
-                    const figure = document.createElement("figure");
-                    figure.className = `card ${post.category}`;
-                    figure.setAttribute("data-url", post.url);
-                    figure.innerHTML = `
+  const gallery=document.querySelector(".gallery");function loadMorePosts(){if(currentIndex>=posts.length){currentIndex=currentIndex-posts.length
+console.log("No more posts to load")}
+spinner.style.display="block";setTimeout(()=>{const endIndex=currentIndex+BATCH_SIZE;const batch=posts.slice(currentIndex,Math.min(endIndex,posts.length));batch.forEach(post=>{if(gallery.querySelector(`[data-url="${post.url}"]`))return;const figure=document.createElement("figure");figure.className=`card ${post.category}`;figure.setAttribute("data-url",post.url);figure.innerHTML=`
           <img class="card__image lazyload lazy" src="${post.src}" alt="${post.caption}" loading="lazy">
           <figcaption class="card__caption">
             <a href="${post.url}">${post.caption}</a>
           </figcaption>
-        `;
-                    gallery.appendChild(figure);
-                });
-
-                currentIndex = endIndex;
-
-                window.scrollBy({
-                    top: -200, // Đẩy trang lên 200px (điều chỉnh theo ý bạn)
-                    behavior: 'smooth', // Cuộn mượt
-                });
-                if (savedCategory != "all") {
-                    const codingLabel = document.querySelector('label[for="' + savedCategory + '"]');
-                    const allLabel = document.querySelector('label[for="all"]');
-
-                    if (codingLabel && allLabel) {
-                        setTimeout(() => {
-                            allLabel.click(); // Click vào label "Coding 💻"
-
-                            setTimeout(() => {
-                                codingLabel.click(); // Click vào label "All"
-                            }, 500); // Thời gian chờ giữa hai lần click (ms)
-                        }, 500); // Thời gian chờ sau khi trang load xong (ms)
-                    } else {
-                        console.error("Label 'Coding' or 'All' not found!");
-                    }
-                } else {
-                    autoRes();
-                }
-                // LazyLoad kích hoạt
-                if (typeof LazyLoad !== "undefined") new LazyLoad();
-
-                spinner.style.display = "none"; // Ẩn spinner
-
-            }, 500);
-        }
-
-        function autoRes() {
-            // Tự động click vào label Coding
-            const codingLabel = document.querySelector('label[for="coding"]');
-            const allLabel = document.querySelector('label[for="all"]');
-
-            if (codingLabel && allLabel) {
-                setTimeout(() => {
-                    codingLabel.click(); // Click vào label "Coding 💻"
-
-                    setTimeout(() => {
-                        allLabel.click(); // Click vào label "All"
-                    }, 500); // Thời gian chờ giữa hai lần click (ms)
-                }, 500); // Thời gian chờ sau khi trang load xong (ms)
-            } else {
-                console.error("Label 'Coding' or 'All' not found!");
-            }
-        };
-        // Hàm kiểm tra cuộn gần cuối trang
-        function handleScroll() {
-            const scrollPosition = window.scrollY + window.innerHeight;
-            const documentHeight = document.body.offsetHeight;
-
-            if (scrollPosition >= documentHeight - 100) {
-                loadMorePosts();
-            }
-        }
-
-        // Gắn sự kiện cuộn
-        window.addEventListener("scroll", handleScroll);
-
-        // Tự động click vào label Coding
-        const codingLabel = document.querySelector('label[for="coding"]');
-        const allLabel = document.querySelector('label[for="all"]');
-
-        if (codingLabel && allLabel) {
-            setTimeout(() => {
-                codingLabel.click(); // Click vào label "Coding 💻"
-
-                setTimeout(() => {
-                    allLabel.click(); // Click vào label "All"
-                }, 500); // Thời gian chờ giữa hai lần click (ms)
-            }, 500); // Thời gian chờ sau khi trang load xong (ms)
-        } else {
-            console.error("Label 'Coding' or 'All' not found!");
-        }
-
-        // Bộ lọc bài viết
-        function filterPosts(category) {
-            document.querySelectorAll(".card").forEach(card => {
-                card.style.display =
-                    category === "all" || card.classList.contains(category)
-                        ? "block"
-                        : "none";
-            });
-        }
-        // Sự kiện thay đổi bộ lọc
-        const filters = document.querySelectorAll('[name="filter"]');
-        filters.forEach(filter => {
-            filter.addEventListener("change", event => {
-                const selectedCategory = event.target.value;
-                localStorage.setItem("selectedCategory", selectedCategory);
-                filterPosts(selectedCategory);
-            });
-        });
-        // Kích hoạt bộ lọc ban đầu
-        document.querySelector('[name="filter"]:checked')?.dispatchEvent(new Event("change"));
-
-        // Intersection Observer (tùy chọn)
-        const observer = new IntersectionObserver(
-            entries => {
-                entries.forEach(entry => {
-                    if (entry.isIntersecting) {
-                        loadMorePosts();
-                    }
-                });
-            },
-            { rootMargin: "100px" }
-        );
-
-        observer.observe(gallery);
-
-        // Load bài viết ban đầu
-        loadMorePosts();
-        autoRes();
-});
-const wrapElement = document.querySelector('#slider')
-
-setInterval(slidingText, 3000)
-
-function slidingText() {
-  wrapElement.classList.add('animated')
-  setTimeout(loopText, 500)
-}
-
-function loopText() {
-  const firstElement = document.querySelector('#slider div')
-  wrapElement.appendChild(firstElement)
-  wrapElement.classList.remove('animated')
-}const homeButton = document.createElement("div"); homeButton.id = "home-button", homeButton.style.position = "fixed", homeButton.style.bottom = "20px", homeButton.style.right = "20px", homeButton.style.zIndex = "100"; const homeLink = document.createElement("a"); homeLink.href = "/", homeLink.textContent = "Trang chủ", homeLink.style.display = "block", homeLink.style.padding = "10px 15px", homeLink.style.backgroundColor = "#007bff", homeLink.style.color = "#fff", homeLink.style.textDecoration = "none", homeLink.style.borderRadius = "5px", homeButton.appendChild(homeLink), document.body.appendChild(homeButton);</script>
+        `;gallery.appendChild(figure)});currentIndex=endIndex;window.scrollBy({top:-200,behavior:'smooth',});if(savedCategory!="all"){const codingLabel=document.querySelector('label[for="'+savedCategory+'"]');const allLabel=document.querySelector('label[for="all"]');if(codingLabel&&allLabel){setTimeout(()=>{allLabel.click();setTimeout(()=>{codingLabel.click()},500)},500)}else{console.error("Label 'Coding' or 'All' not found!")}}else{autoRes()}
+if(typeof LazyLoad!=="undefined")new LazyLoad();spinner.style.display="none"},500)}
+function autoRes(){const codingLabel=document.querySelector('label[for="coding"]');const allLabel=document.querySelector('label[for="all"]');if(codingLabel&&allLabel){setTimeout(()=>{codingLabel.click();setTimeout(()=>{allLabel.click()},500)},500)}else{console.error("Label 'Coding' or 'All' not found!")}};function handleScroll(){const scrollPosition=window.scrollY+window.innerHeight;const documentHeight=document.body.offsetHeight;if(scrollPosition>=documentHeight-100){loadMorePosts()}}
+window.addEventListener("scroll",handleScroll);const codingLabel=document.querySelector('label[for="coding"]');const allLabel=document.querySelector('label[for="all"]');if(codingLabel&&allLabel){setTimeout(()=>{codingLabel.click();setTimeout(()=>{allLabel.click()},500)},500)}else{console.error("Label 'Coding' or 'All' not found!")}
+function filterPosts(category){document.querySelectorAll(".card").forEach(card=>{card.style.display=category==="all"||card.classList.contains(category)?"block":"none"})}
+const filters=document.querySelectorAll('[name="filter"]');filters.forEach(filter=>{filter.addEventListener("change",event=>{const selectedCategory=event.target.value;localStorage.setItem("selectedCategory",selectedCategory);filterPosts(selectedCategory)})});document.querySelector('[name="filter"]:checked')?.dispatchEvent(new Event("change"));const observer=new IntersectionObserver(entries=>{entries.forEach(entry=>{if(entry.isIntersecting){loadMorePosts()}})},{rootMargin:"100px"});observer.observe(gallery);loadMorePosts();autoRes()});const wrapElement=document.querySelector('#slider')
+setInterval(slidingText,3000)
+function slidingText(){wrapElement.classList.add('animated')
+setTimeout(loopText,500)}
+function loopText(){const firstElement=document.querySelector('#slider div')
+wrapElement.appendChild(firstElement)
+wrapElement.classList.remove('animated')}const homeButton = document.createElement("div"); homeButton.id = "home-button", homeButton.style.position = "fixed", homeButton.style.bottom = "20px", homeButton.style.right = "20px", homeButton.style.zIndex = "100"; const homeLink = document.createElement("a"); homeLink.href = "/", homeLink.textContent = "Trang chủ", homeLink.style.display = "block", homeLink.style.padding = "10px 15px", homeLink.style.backgroundColor = "#007bff", homeLink.style.color = "#fff", homeLink.style.textDecoration = "none", homeLink.style.borderRadius = "5px", homeButton.appendChild(homeLink), document.body.appendChild(homeButton);</script>
     <div id="home-button">
         <a href="/">Trang chủ</a>
     </div>
@@ -333,28 +120,11 @@ function loopText() {
 
 </html>
 <style>
-    #home-button {
-        position: fixed;
-        bottom: 20px;
-        right: 20px;
-        z-index: 100
-    }
-
-    #home-button a {
-        display: block;
-        padding: 10px 15px;
-        background-color: #007bff;
-        color: #fff;
-        text-decoration: none;
-        border-radius: 5px
-    }
-    .wrapper { display: flex; justify-content: center; align-items: center;}
+ #home-button { position: fixed; bottom: 20px; right: 20px; z-index: 100 } #home-button a { display: block; padding: 10px 15px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 5px } .wrapper { display: flex; justify-content: center; align-items: center;}
 .control { display: inline-block; transition: all 0.3s; height: 60px; overflow: hidden; margin-left: 10px; }
 #slider div { height: 60px; line-height: 60px;padding: 0 5px; }
 .animated { transition: all 0.5s; margin-top: -60px; }
-canvas {
-    box-shadow: 0.2em 0.2em 2em #0008;
-    border: none;
-    outline: none;
-  }
+canvas { box-shadow: 0.2em 0.2em 2em #0008; border: none; outline: none; } [type="radio"] { display: none; } label { padding: 0.25rem 0.75rem; border-radius: 0.25rem; cursor: pointer; transition: 0.25s; } [type="radio"]:checked+label { background: gold; } .gallery { display: grid; justify-content: center; grid-template-columns: repeat(auto-fit, 300px); grid-auto-rows: 1fr; grid-gap: 1rem; padding: 0.5rem; margin-top: 1rem; } .card { display: none; background: darkslateblue; border-radius: 0.25rem; overflow: hidden; box-shadow: 0 0 10px silver; transition: box-shadow 0.35s; } .card.active { display: block; } .card:hover { box-shadow: 0 0 25px #0009; } .card__image { width: 100%; object-fit: cover; } .card__caption { font-weight: bold; font-variant: small-caps; padding: 0.5rem; text-align: center; color: gold; }
 </style>
+<link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
+<link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
