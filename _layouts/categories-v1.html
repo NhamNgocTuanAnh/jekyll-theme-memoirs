@@ -125,8 +125,8 @@ document.addEventListener("DOMContentLoaded", () => {
   // Hàm hiển thị thêm bài viết
   function loadMorePosts() {
     if (currentIndex >= posts.length) {
+      currentIndex = currentIndex - posts.length
       console.log("No more posts to load");
-      return;
     }
 
     spinner.style.display = "block"; // Hiện spinner
