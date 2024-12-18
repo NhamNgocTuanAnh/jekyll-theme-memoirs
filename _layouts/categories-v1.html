@@ -211,46 +211,25 @@ document.addEventListener("DOMContentLoaded", () => {
     console.error("Label 'Coding' or 'All' not found!");
   }
 
-// Bộ lọc bài viết
-function filterPosts(category) {
-  // Xóa nội dung cũ trong gallery
-  gallery.innerHTML = "";
-
-  // Lọc bài viết dựa trên danh sách posts
-  const filteredPosts =
-    category === "all"
-      ? posts // Hiển thị tất cả nếu chọn "all"
-      : posts.filter(post => post.category === category);
-
-  // Render lại bài viết
-  filteredPosts.forEach(post => {
-    const figure = document.createElement("figure");
-    figure.className = `card ${post.category}`;
-    figure.setAttribute("data-id", post.id); // Thêm ID để theo dõi
-    figure.innerHTML = `
-      <img class="card__image lazyload" src="${post.src}" alt="${post.caption}" loading="lazy">
-      <figcaption class="card__caption"><a href="${post.url}" >${post.caption}</a></figcaption>
-    `;
-    gallery.appendChild(figure);
-  });
-
-  // Kích hoạt lazy loading nếu cần
-  if (typeof LazyLoad !== "undefined") {
-    new LazyLoad(); // Nếu dùng vanilla-lazyload
+    // Bộ lọc bài viết
+    function filterPosts(category) {
+    document.querySelectorAll(".card").forEach(card => {
+      card.style.display =
+        category === "all" || card.classList.contains(category)
+          ? "block"
+          : "none";
+    });
   }
-}
-
-// Sự kiện thay đổi bộ lọc
-const filters = document.querySelectorAll('[name="filter"]');
-filters.forEach(filter => {
-  filter.addEventListener("change", event => {
-    const selectedCategory = event.target.value;
-    filterPosts(selectedCategory);
+    // Sự kiện thay đổi bộ lọc
+    const filters = document.querySelectorAll('[name="filter"]');
+  filters.forEach(filter => {
+    filter.addEventListener("change", event => {
+      const selectedCategory = event.target.value;
+      filterPosts(selectedCategory);
+    });
   });
-});
-
-// Kích hoạt bộ lọc ban đầu
-document.querySelector('[name="filter"]:checked')?.dispatchEvent(new Event("change"));
+  // Kích hoạt bộ lọc ban đầu
+  document.querySelector('[name="filter"]:checked')?.dispatchEvent(new Event("change"));
 
   // Intersection Observer (tùy chọn)
   const observer = new IntersectionObserver(
