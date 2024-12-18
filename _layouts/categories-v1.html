@@ -151,13 +151,37 @@ document.addEventListener("DOMContentLoaded", () => {
 
       currentIndex = endIndex;
 
+      window.scrollBy({
+            top: -200, // Đẩy trang lên 200px (điều chỉnh theo ý bạn)
+            behavior: 'smooth', // Cuộn mượt
+        });
+
+
       // LazyLoad kích hoạt
       if (typeof LazyLoad !== "undefined") new LazyLoad();
 
       spinner.style.display = "none"; // Ẩn spinner
+
     }, 500);
   }
 
+  function autoRes(){
+      // Tự động click vào label Coding
+  const codingLabel = document.querySelector('label[for="coding"]');
+  const allLabel = document.querySelector('label[for="all"]');
+
+    if (codingLabel && allLabel) {
+        setTimeout(() => {
+        codingLabel.click(); // Click vào label "Coding 💻"
+
+        setTimeout(() => {
+            allLabel.click(); // Click vào label "All"
+        }, 500); // Thời gian chờ giữa hai lần click (ms)
+        }, 500); // Thời gian chờ sau khi trang load xong (ms)
+    } else {
+        console.error("Label 'Coding' or 'All' not found!");
+    }
+  };
   // Hàm kiểm tra cuộn gần cuối trang
   function handleScroll() {
     const scrollPosition = window.scrollY + window.innerHeight;
@@ -171,24 +195,6 @@ document.addEventListener("DOMContentLoaded", () => {
   // Gắn sự kiện cuộn
   window.addEventListener("scroll", handleScroll);
 
-  // Bộ lọc bài viết
-  function filterPosts(category) {
-    document.querySelectorAll(".card").forEach(card => {
-      card.style.display =
-        category === "all" || card.classList.contains(category)
-          ? "block"
-          : "none";
-    });
-  }
-
-  // Sự kiện thay đổi bộ lọc
-  const filters = document.querySelectorAll('[name="filter"]');
-  filters.forEach(filter => {
-    filter.addEventListener("change", event => {
-      const selectedCategory = event.target.value;
-      filterPosts(selectedCategory);
-    });
-  });
   // Tự động click vào label Coding
   const codingLabel = document.querySelector('label[for="coding"]');
   const allLabel = document.querySelector('label[for="all"]');
@@ -204,8 +210,47 @@ document.addEventListener("DOMContentLoaded", () => {
   } else {
     console.error("Label 'Coding' or 'All' not found!");
   }
-  // Kích hoạt bộ lọc ban đầu
-  document.querySelector('[name="filter"]:checked')?.dispatchEvent(new Event("change"));
+
+// Bộ lọc bài viết
+function filterPosts(category) {
+  // Xóa nội dung cũ trong gallery
+  gallery.innerHTML = "";
+
+  // Lọc bài viết dựa trên danh sách posts
+  const filteredPosts =
+    category === "all"
+      ? posts // Hiển thị tất cả nếu chọn "all"
+      : posts.filter(post => post.category === category);
+
+  // Render lại bài viết
+  filteredPosts.forEach(post => {
+    const figure = document.createElement("figure");
+    figure.className = `card ${post.category}`;
+    figure.setAttribute("data-id", post.id); // Thêm ID để theo dõi
+    figure.innerHTML = `
+      <img class="card__image lazyload" src="${post.src}" alt="${post.caption}" loading="lazy">
+      <figcaption class="card__caption"><a href="${post.url}" >${post.caption}</a></figcaption>
+    `;
+    gallery.appendChild(figure);
+  });
+
+  // Kích hoạt lazy loading nếu cần
+  if (typeof LazyLoad !== "undefined") {
+    new LazyLoad(); // Nếu dùng vanilla-lazyload
+  }
+}
+
+// Sự kiện thay đổi bộ lọc
+const filters = document.querySelectorAll('[name="filter"]');
+filters.forEach(filter => {
+  filter.addEventListener("change", event => {
+    const selectedCategory = event.target.value;
+    filterPosts(selectedCategory);
+  });
+});
+
+// Kích hoạt bộ lọc ban đầu
+document.querySelector('[name="filter"]:checked')?.dispatchEvent(new Event("change"));
 
   // Intersection Observer (tùy chọn)
   const observer = new IntersectionObserver(
@@ -223,6 +268,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Load bài viết ban đầu
   loadMorePosts();
+  autoRes();
 });
   </script>
 <script>const homeButton=document.createElement("div");homeButton.id="home-button",homeButton.style.position="fixed",homeButton.style.bottom="20px",homeButton.style.right="20px",homeButton.style.zIndex="100";const homeLink=document.createElement("a");homeLink.href="/",homeLink.textContent="Trang chủ",homeLink.style.display="block",homeLink.style.padding="10px 15px",homeLink.style.backgroundColor="#007bff",homeLink.style.color="#fff",homeLink.style.textDecoration="none",homeLink.style.borderRadius="5px",homeButton.appendChild(homeLink),document.body.appendChild(homeButton);</script>
