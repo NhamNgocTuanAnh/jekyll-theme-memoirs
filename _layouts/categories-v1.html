@@ -189,16 +189,16 @@ document.addEventListener("DOMContentLoaded", () => {
       filterPosts(selectedCategory);
     });
   });
-  const codingRadio = document.querySelector('input[type="radio"][name="filter"][id="nhiếp-anh"]');
+  const codingLabel = document.querySelector('label[for="coding"]');
 
-if (codingRadio) {
-  codingRadio.addEventListener("click", () => {
-    console.log("Radio button 'nhiếp-anh' clicked!");
-    // Thực hiện hành động khác ở đây
-  });
-} else {
-  console.error("Radio button with id 'nhiếp-anh' not found!");
-}
+  if (codingLabel) {
+    codingLabel.addEventListener("click", () => {
+      console.log("Label 'Coding 💻' clicked!");
+      // Thực hiện hành động khác ở đây
+    });
+  } else {
+    console.error("Label for 'coding' not found!");
+  }
   // Kích hoạt bộ lọc ban đầu
   document.querySelector('[name="filter"]:checked')?.dispatchEvent(new Event("change"));
 
