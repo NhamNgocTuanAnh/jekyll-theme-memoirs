@@ -4,7 +4,7 @@ layout: none
 permalink: "/categories-v1.html"
 ---
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 
 <head>
     <meta charset="UTF-8">
@@ -84,8 +84,19 @@ permalink: "/categories-v1.html"
 </head>
 
 <body>
-
+    <h1 class="my-5 text-center">Sliding Texts</h1>
+    <h4 class="wrapper text-center mt-5">
+      Code đêm có thể khiến bạn
+      <div class="control">
+        <div id="slider" class="text-white bg-danger">
+          <div>trầm cảm</div>
+          <div>căng thẳng</div>
+          <div>gay</div>
+        </div>
+      </div>
+    </h4>
     <!-- Filters -->
+    <div class="container">
     <div class="filters">
         <input type="radio" name="filter" id="all" value="all" checked>
         <label for="all">All</label>
@@ -113,7 +124,7 @@ permalink: "/categories-v1.html"
 
     <!-- Gallery -->
     <div class="gallery"></div>
-
+</div>
     <script>
         document.addEventListener("DOMContentLoaded", () => {
             // Tạo spinner
@@ -298,8 +309,20 @@ permalink: "/categories-v1.html"
         loadMorePosts();
         autoRes();
 });
-    </script>
-    <script>const homeButton = document.createElement("div"); homeButton.id = "home-button", homeButton.style.position = "fixed", homeButton.style.bottom = "20px", homeButton.style.right = "20px", homeButton.style.zIndex = "100"; const homeLink = document.createElement("a"); homeLink.href = "/", homeLink.textContent = "Trang chủ", homeLink.style.display = "block", homeLink.style.padding = "10px 15px", homeLink.style.backgroundColor = "#007bff", homeLink.style.color = "#fff", homeLink.style.textDecoration = "none", homeLink.style.borderRadius = "5px", homeButton.appendChild(homeLink), document.body.appendChild(homeButton);</script>
+const wrapElement = document.querySelector('#slider')
+
+setInterval(slidingText, 3000)
+
+function slidingText() {
+  wrapElement.classList.add('animated')
+  setTimeout(loopText, 500)
+}
+
+function loopText() {
+  const firstElement = document.querySelector('#slider div')
+  wrapElement.appendChild(firstElement)
+  wrapElement.classList.remove('animated')
+}const homeButton = document.createElement("div"); homeButton.id = "home-button", homeButton.style.position = "fixed", homeButton.style.bottom = "20px", homeButton.style.right = "20px", homeButton.style.zIndex = "100"; const homeLink = document.createElement("a"); homeLink.href = "/", homeLink.textContent = "Trang chủ", homeLink.style.display = "block", homeLink.style.padding = "10px 15px", homeLink.style.backgroundColor = "#007bff", homeLink.style.color = "#fff", homeLink.style.textDecoration = "none", homeLink.style.borderRadius = "5px", homeButton.appendChild(homeLink), document.body.appendChild(homeButton);</script>
     <div id="home-button">
         <a href="/">Trang chủ</a>
     </div>
@@ -322,4 +345,8 @@ permalink: "/categories-v1.html"
         text-decoration: none;
         border-radius: 5px
     }
+    .wrapper { display: flex; justify-content: center; align-items: center;}
+.control { display: inline-block; transition: all 0.3s; height: 60px; overflow: hidden; margin-left: 10px; }
+#slider div { height: 60px; line-height: 60px;padding: 0 5px; }
+.animated { transition: all 0.5s; margin-top: -60px; }
 </style>
