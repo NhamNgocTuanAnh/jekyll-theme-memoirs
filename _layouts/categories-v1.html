@@ -189,15 +189,20 @@ document.addEventListener("DOMContentLoaded", () => {
       filterPosts(selectedCategory);
     });
   });
+  // Tự động click vào label Coding
   const codingLabel = document.querySelector('label[for="coding"]');
+  const allLabel = document.querySelector('label[for="all"]');
 
-  if (codingLabel) {
-    codingLabel.addEventListener("click", () => {
-      console.log("Label 'Coding 💻' clicked!");
-      // Thực hiện hành động khác ở đây
-    });
+  if (codingLabel && allLabel) {
+    setTimeout(() => {
+      codingLabel.click(); // Click vào label "Coding 💻"
+
+      setTimeout(() => {
+        allLabel.click(); // Click vào label "All"
+      }, 500); // Thời gian chờ giữa hai lần click (ms)
+    }, 500); // Thời gian chờ sau khi trang load xong (ms)
   } else {
-    console.error("Label for 'coding' not found!");
+    console.error("Label 'Coding' or 'All' not found!");
   }
   // Kích hoạt bộ lọc ban đầu
   document.querySelector('[name="filter"]:checked')?.dispatchEvent(new Event("change"));
