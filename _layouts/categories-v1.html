@@ -150,6 +150,11 @@ permalink: "/categories-v1.html"
     // Trigger initial filter
     document.querySelector('[name="filter"]:checked').dispatchEvent(new Event('change'));
   </script>
-
+<script>const homeButton=document.createElement("div");homeButton.id="home-button",homeButton.style.position="fixed",homeButton.style.bottom="20px",homeButton.style.right="20px",homeButton.style.zIndex="100";const homeLink=document.createElement("a");homeLink.href="/",homeLink.textContent="Trang chủ",homeLink.style.display="block",homeLink.style.padding="10px 15px",homeLink.style.backgroundColor="#007bff",homeLink.style.color="#fff",homeLink.style.textDecoration="none",homeLink.style.borderRadius="5px",homeButton.appendChild(homeLink),document.body.appendChild(homeButton);</script>
+<div id="home-button">
+    <a href="/">Trang chủ</a>
+  </div>
 </body>
 </html>
+<style>
+#home-button{position:fixed;bottom:20px;right:20px;z-index:100}#home-button a{display:block;padding:10px 15px;background-color:#007bff;color:#fff;text-decoration:none;border-radius:5px}</style>
