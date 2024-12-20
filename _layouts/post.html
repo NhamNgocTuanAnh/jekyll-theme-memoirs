@@ -45,6 +45,11 @@ comments: true
       <p>Bấm để tiếp tục đọc bài viết!🫡</p>
   </div>
 </div>
+<script>
+  function handleClickReadMoreBtn(){const readMoreBtn=document.getElementById("read-more-btn-hell");if(readMoreBtn){readMoreBtn.style.display="none"}
+  for(;;){const overlays=document.querySelectorAll(".content-overlay");if(overlays){if(overlays.length>0){for(const overlay of overlays){overlay.style.maxHeight="none"}};window.scrollTo({top:456,behavior:"smooth"});break}}
+  if(typeof ga==="function"){ga("send","event","read-new","read-more","{{ page.url }}",10)}}
+  document.addEventListener("DOMContentLoaded",()=>{const readMoreBtn=document.getElementById("read-more-btn-hell");if(readMoreBtn){readMoreBtn.addEventListener("click",handleClickReadMoreBtn)}})</script>
 <!-- Featured Image -->
 {% include featured-image.html %}
 
