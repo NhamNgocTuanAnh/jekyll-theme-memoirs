@@ -70,21 +70,6 @@ function isTetDate() {
 
   const interfaceState = localStorage.getItem("interfaceState");
 
-  // function preLoader() {
-  //   const onLoad = function() {
-  //     $("#ctn-preloader").addClass("loaded");
-  //     if ($("#ctn-preloader").hasClass("loaded")) {
-  //       $("#preloader").queue(function() {
-  //         $(this).remove();
-  //       });
-  //     }
-  //   };
-  //   $(window).on("load", onLoad);
-  //   setTimeout(onLoad, 1000);
-  // }
-
-  // preLoader();
-
   if (window.location.hostname !== "localhost") {
     const script = document.createElement("script");
     script.src = "https://static.elfsight.com/platform/platform.js";
