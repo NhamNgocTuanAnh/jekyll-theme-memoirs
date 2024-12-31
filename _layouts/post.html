@@ -108,9 +108,4 @@ document.addEventListener("DOMContentLoaded",()=>{let e=document.getElementById(
 <div class="rating mt-4 mb-4 d-flex align-items-center">
   <span id="busuanzi_container_page_pv">Trang web của bạn đã được xem: <span id="busuanzi_value_page_pv"></span> lần</span>
 </div>
-<script>
-  function handleClickReadMoreBtn(){const readMoreBtn=document.getElementById("read-more-btn-hell");if(readMoreBtn){readMoreBtn.style.display="none"}
-  for(;;){const overlays=document.querySelectorAll(".content-overlay");if(overlays){if(overlays.length>0){for(const overlay of overlays){overlay.style.maxHeight="none"}};window.scrollTo({top:456,behavior:"smooth"});break}}
-  if(typeof ga==="function"){ga("send","event","read-new","read-more","{{ page.url }}",10)}}
-  document.addEventListener("DOMContentLoaded",()=>{const readMoreBtn=document.getElementById("read-more-btn-hell");if(readMoreBtn){readMoreBtn.addEventListener("click",handleClickReadMoreBtn)}})</script>
 <script src="{{ site.baseurl }}/assets/js/post.js" async></script>
