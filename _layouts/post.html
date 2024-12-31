@@ -38,64 +38,10 @@ document.addEventListener("DOMContentLoaded",()=>{let e=document.getElementById(
 {% include adsense-under-header.html %}
 {% endif %}
 
-<style>.read-more-btn{bottom:10px;padding:10px 20px;background-color:#007bff;color:#fff;border:none;border-radius:5px;cursor:pointer;transition:background-color .3s;z-index:1}.read-more-btn:hover{background-color:#0056b3}#read-more-btn{pointer-events:auto};#bottom-overlay{position:fixed;bottom:0;left:0;width:100%;height:60%;background-color:rgba(0,0,0,0.8);color:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:1000;box-shadow:0 -4px 10px rgba(0,0,0,0.5)}#bottom-overlay p{margin:10px 0;font-size:16px;text-align:center}#bottom-overlay button{padding:10px 20px;background-color:#ff5722;color:#fff;border:none;border-radius:5px;cursor:pointer;font-size:16px}
-/* Ẩn checkbox */
-#toggle-read-more {
-  display: none;
-}
+<style>.read-more-btn{bottom:10px;padding:10px 20px;background-color:#007bff;color:#fff;border:none;border-radius:5px;cursor:pointer;transition:background-color .3s;z-index:1}.read-more-btn:hover{background-color:#0056b3}#read-more-btn{pointer-events:auto};#bottom-overlay{position:fixed;bottom:0;left:0;width:100%;height:60%;background-color:rgba(0,0,0,0.8);color:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:1000;box-shadow:0 -4px 10px rgba(0,0,0,0.5)}#bottom-overlay p{margin:10px 0;font-size:16px;text-align:center}#bottom-overlay button{padding:10px 20px;background-color:#ff5722;color:#fff;border:none;border-radius:5px;cursor:pointer;font-size:16px};
+#toggle-read-more,#toggle-read-more:checked~#read-more-div{display:none}#read-more-div{display:block}#read-more-btn-hell{cursor:pointer;background-color:#007bff;color:#fff;border:none;padding:10px 20px;border-radius:5px;text-align:center}#read-more-btn-hell:hover{background-color:#0056b3}#read-more-btn-hell label{cursor:pointer;color:inherit;text-decoration:none}</style>
+<div id="read-more-div"> <input type="checkbox" id="toggle-read-more" /> <div id="bottom-overlay"> <button id="read-more-btn-hell" class="read-more-btn"> <label for="toggle-read-more">Read More🧾</label> </button> <p>Bấm để tiếp tục đọc bài viết!🫡</p> </div></div>
 
-/* Hiển thị thẻ div theo mặc định */
-#read-more-div {
-  display: block;
-}
-
-/* Ẩn toàn bộ thẻ div khi checkbox được chọn */
-#toggle-read-more:checked ~ #read-more-div {
-  display: none;
-}
-
-/* Style cho nút "Read More" */
-#read-more-btn-hell {
-  cursor: pointer;
-  background-color: #007bff;
-  color: white;
-  border: none;
-  padding: 10px 20px;
-  border-radius: 5px;
-  text-align: center;
-}
-
-#read-more-btn-hell:hover {
-  background-color: #0056b3;
-}
-
-/* Style cho label bên trong nút */
-#read-more-btn-hell label {
-  cursor: pointer;
-  color: inherit;
-  text-decoration: none;
-}
-  </style>
-<!-- <div id="read-more-div">
-  <div id="bottom-overlay">
-      <button id="read-more-btn-hell" class="read-more-btn">Read More🧾</button>
-      <p>Bấm để tiếp tục đọc bài viết!🫡</p>
-  </div>
-</div> -->
-<div id="read-more-div">
-  <input type="checkbox" id="toggle-read-more" />
-  <div id="bottom-overlay">
-      <button id="read-more-btn-hell" class="read-more-btn">
-          <label for="toggle-read-more">Read More🧾</label>
-      </button>
-      <p>Bấm để tiếp tục đọc bài viết!🫡</p>
-  </div>
-</div>
-<script>
-  function handleClickReadMoreBtn(){const readMoreBtn=document.getElementById("read-more-btn-hell");if(readMoreBtn){readMoreBtn.style.display="none"}
-  for(;;){const overlays=document.querySelectorAll(".content-overlay");if(overlays){if(overlays.length>0){for(const overlay of overlays){overlay.style.maxHeight="none"}};window.scrollTo({top:456,behavior:"smooth"});break}}
-  if(typeof ga==="function"){ga("send","event","read-new","read-more","{{ page.url }}",10)}}
-  document.addEventListener("DOMContentLoaded",()=>{const readMoreBtn=document.getElementById("read-more-btn-hell");if(readMoreBtn){readMoreBtn.addEventListener("click",handleClickReadMoreBtn)}})</script>
 <!-- Featured Image -->
 {% include featured-image.html %}
 
@@ -162,5 +108,9 @@ document.addEventListener("DOMContentLoaded",()=>{let e=document.getElementById(
 <div class="rating mt-4 mb-4 d-flex align-items-center">
   <span id="busuanzi_container_page_pv">Trang web của bạn đã được xem: <span id="busuanzi_value_page_pv"></span> lần</span>
 </div>
-
+<script>
+  function handleClickReadMoreBtn(){const readMoreBtn=document.getElementById("read-more-btn-hell");if(readMoreBtn){readMoreBtn.style.display="none"}
+  for(;;){const overlays=document.querySelectorAll(".content-overlay");if(overlays){if(overlays.length>0){for(const overlay of overlays){overlay.style.maxHeight="none"}};window.scrollTo({top:456,behavior:"smooth"});break}}
+  if(typeof ga==="function"){ga("send","event","read-new","read-more","{{ page.url }}",10)}}
+  document.addEventListener("DOMContentLoaded",()=>{const readMoreBtn=document.getElementById("read-more-btn-hell");if(readMoreBtn){readMoreBtn.addEventListener("click",handleClickReadMoreBtn)}})</script>
 <script src="{{ site.baseurl }}/assets/js/post.js" async></script>
