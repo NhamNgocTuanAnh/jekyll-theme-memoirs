@@ -25,50 +25,9 @@ function isTetDate() {
     return /Mobi|Android/i.test(navigator.userAgent);
   }
 
-  function isSlowCPU() {
-    const interfaceState = localStorage.getItem("interfaceState");
-    if (!interfaceState || interfaceState === "savemode") {
-      const startTime = new Date().getTime();
-      window.onload = function() {
-        const featuredImage = document.querySelector(".featured-image");
-        if (featuredImage) {
-          featuredImage.addEventListener("load", function() {
-            const preloader = document.getElementById("ctn-preloader");
-            if (preloader && preloader.classList.contains("loaded")) {
-              preloader.queue(function() {
-                this.remove();
-              });
-            }
-          });
-        }
-        return new Date().getTime() - startTime > 8000;
-      };
-    }
-  }
-
-  if (shouldHideDivOnSmallScreens() && isRelative() && isMobileDevice()) {
-    document.querySelector(".topnav").style.display = "block";
-  }
-
-  if (isMobileDevice()) {
-    document.getElementById("url-album").setAttribute("href", "https://www.instagram.com/anhhangxom.daily/");
-  }
-
-  const currentState = localStorage.getItem("interfaceState");
-
   function isHomePage() {
     return window.location.pathname === "/";
   }
-
-  if (isMobileDevice() && isHomePage()) {
-    if (isSlowCPU() || !currentState || currentState === "savemode") {
-      localStorage.setItem("interfaceState", "savemode");
-    }
-  } else if (!isMobileDevice()) {
-    localStorage.setItem("interfaceState", "normalmode");
-  }
-
-  const interfaceState = localStorage.getItem("interfaceState");
 
   if (window.location.hostname !== "localhost") {
     const script = document.createElement("script");
@@ -123,11 +82,6 @@ function isTetDate() {
     }
   }
 
-  if (!checkDevice() && !isMobileDevice()) {
-    navMenu.style.display = "none";
-  }
-
-
 
   let chatButtonAuto = true;
 
@@ -141,12 +95,6 @@ function isTetDate() {
         chatButtonAuto = false;
       }
     }
-  }
-
-  if (isMobile()) {
-    console.log("Bạn đang sử dụng thiết bị di động");
-  } else {
-    setTimeout(checkScrollAndClick, 10000);
   }
 
   const pageProgressBar = document.querySelector(".progress-bar");
