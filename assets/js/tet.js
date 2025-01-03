@@ -34,7 +34,7 @@ for (i = 0; i < no; ++i) {
     stx[i] = 0.02 + Math.random() / 10;
     sty[i] = 0.7 + Math.random();
     if (ie4up || ns6up) {
-        document.getElementById('content').innerHTML =('<div id="dot'+i+'" style="POSITION:fixed;Z-INDEX:'+(99+i)+';VISIBILITY:visible;TOP:15px;LEFT:15px;pointer-events: none;width:15px"><span style="font-size:18px;color:'+color_snow+'"><img src="'+img_url+'" alt=""></span></div>');
+        document.getElementById('content') && document.getElementById('content').innerHTML =('<div id="dot'+i+'" style="POSITION:fixed;Z-INDEX:'+(99+i)+';VISIBILITY:visible;TOP:15px;LEFT:15px;pointer-events: none;width:15px"><span style="font-size:18px;color:'+color_snow+'"><img src="'+img_url+'" alt=""></span></div>');
     }
 }
 function snowIE_NS6() {
