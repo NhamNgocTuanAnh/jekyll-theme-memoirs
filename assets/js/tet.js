@@ -60,7 +60,12 @@ function hidesnow() {
     if (window.snowtimer) {
         clearTimeout(snowtimer)
     }
-    for (i = 0; i < no; i++) document.getElementById('dot' + i)&&document.getElementById('dot' + i).style.visibility = 'hidden'
+    for (i = 0; i < no; i++){
+        if(document.getElementById('dot' + i)){
+document.getElementById('dot' + i).style.visibility = 'hidden'
+        }
+    }
+
 }
 if (ie4up || ns6up) {
     snowIE_NS6();
