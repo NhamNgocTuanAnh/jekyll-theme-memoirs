@@ -40,6 +40,7 @@ for (i = 0; i < no; ++i) {
     }
 }
 function snowIE_NS6() {
+    for (i = 0; i < 10; i++) {
     doc_width = ns6up ? window.innerWidth - 10 : iecompattest().clientWidth - 10;
     doc_height = (window.innerHeight && snowdistance == 'windowheight') ? window.innerHeight : (ie4up && snowdistance == 'windowheight') ? iecompattest().clientHeight : (ie4up && !window.opera && snowdistance == 'pageheight') ? iecompattest().scrollHeight : iecompattest().offsetHeight;
     for (i = 0; i < no; ++i) {
@@ -56,7 +57,7 @@ function snowIE_NS6() {
         document.getElementById('dot' + i).style.left = xp[i] + am[i] * Math.sin(dx[i]) + 'px'
         }
     }
-    snowtimer = setTimeout('snowIE_NS6()', 10)
+    snowtimer = setTimeout('snowIE_NS6()', 10)}
 }
 function hidesnow() {
     if (window.snowtimer) {
