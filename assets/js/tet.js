@@ -1,7 +1,7 @@
 var no = 20;
 if (matchMedia('only screen and (max-width: 767px)').matches) {
     no = 10        }
-let img_url = '{{ site.baseurl }}/assets/images/hoadao-anonyviet.com.png';
+let img_url = '/assets/images/hoadao-anonyviet.com.png';
 var hidesnowtime = 0;
 var color_snow  = '#fff';
 var snowdistance = 'windowheight'; // windowheight or pageheight;
