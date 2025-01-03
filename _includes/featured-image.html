@@ -9,4 +9,38 @@
 {% endif %}
 
 <script>
-window.addEventListener("load",function(){function e(e){var t=e.indexOf("https://");return -1!==t?e.slice(t):e}var t=e("{{ site.baseurl }}/{{ page.image }}");setTimeout(function a(){var entryHeader = document.querySelector('.entry-header');entryHeader.style.display = "block";var r=document.createElement("img");r.setAttribute("class","featured-image lazyimg"),r.setAttribute("src",e(t)),document.getElementById("idFeaturedImage").appendChild(r),document.querySelector(".featured-image").hasAttribute("loaded")&&document.querySelector(".featured-image").removeAttribute("loaded")},1e3)});</script>
+window.addEventListener("load", function() {
+    function getValidatedUrl(url) {
+        const index = url.indexOf("https://");
+        return index !== -1 ? url.slice(index) : url;
+    }
+
+    const imageUrl = getValidatedUrl("{{ site.baseurl }}/{{ page.image }}");
+
+    const entryHeader = document.querySelector('.entry-header');
+    if (entryHeader) {
+        entryHeader.style.display = "block";
+    }
+
+    const featuredImageContainer = document.getElementById("idFeaturedImage");
+    if (featuredImageContainer) {
+        const originalImage = document.querySelector("img.original-image-selector"); // Adjust the selector as needed
+        const img = document.createElement("img");
+        img.setAttribute("class", "featured-image lazyimg");
+        img.setAttribute("src", imageUrl);
+
+        if (originalImage && originalImage.hasAttribute("alt")) {
+            img.setAttribute("alt", originalImage.getAttribute("alt"));
+        }else{
+            img.setAttribute("alt", "anhhangxom.xyz");
+        }
+
+        img.onload = function() {
+            if (img.hasAttribute("loaded")) {
+                img.removeAttribute("loaded");
+            }
+        };
+
+        featuredImageContainer.appendChild(img);
+    }
+});</script>
