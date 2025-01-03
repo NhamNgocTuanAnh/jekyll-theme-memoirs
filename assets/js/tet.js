@@ -1,7 +1,7 @@
 var no = 20;
 if (matchMedia('only screen and (max-width: 767px)').matches) {
     no = 10        }
-let img_url = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizrrtX-KQtKY8e8pxCHjLROT5pYW7sVkUpET9HHpW8QO-PnoIRKVsvRDxM6shrE4Q-44Oh9teSGK1SApaZ1OJvhR4z7ENgKSJOLWfsdKw9jPszAa2HqaE6W8ohyGHRvff6TgKXEUjnn73LLLp3FHbtMTJnIkPxPhujWwG5ZsFgW7ctQ0zrR5KKSqlewg/s16000/hoadao-anonyviet.com.png';
+let img_url = '{{ site.baseurl }}/assets/images/hoadao-anonyviet.com.png';
 var hidesnowtime = 0;
 var color_snow  = '#fff';
 var snowdistance = 'windowheight'; // windowheight or pageheight;
@@ -34,7 +34,7 @@ for (i = 0; i < no; ++i) {
     stx[i] = 0.02 + Math.random() / 10;
     sty[i] = 0.7 + Math.random();
     if (ie4up || ns6up) {
-        document.write('<div id="dot'+i+'" style="POSITION:fixed;Z-INDEX:'+(99+i)+';VISIBILITY:visible;TOP:15px;LEFT:15px;pointer-events: none;width:15px"><span style="font-size:18px;color:'+color_snow+'"><img src="'+img_url+'" alt=""></span></div>');
+        document.getElementById('content').innerHTML =('<div id="dot'+i+'" style="POSITION:fixed;Z-INDEX:'+(99+i)+';VISIBILITY:visible;TOP:15px;LEFT:15px;pointer-events: none;width:15px"><span style="font-size:18px;color:'+color_snow+'"><img src="'+img_url+'" alt=""></span></div>');
     }
 }
 function snowIE_NS6() {
@@ -49,8 +49,10 @@ function snowIE_NS6() {
             sty[i] = 0.7 + Math.random()
         }
         dx[i] += stx[i];
+        if( document.getElementById('dot' + i)){
         document.getElementById('dot' + i).style.top = yp[i] + 'px';
         document.getElementById('dot' + i).style.left = xp[i] + am[i] * Math.sin(dx[i]) + 'px'
+        }
     }
     snowtimer = setTimeout('snowIE_NS6()', 10)
 }
@@ -58,7 +60,7 @@ function hidesnow() {
     if (window.snowtimer) {
         clearTimeout(snowtimer)
     }
-    for (i = 0; i < no; i++) document.getElementById('dot' + i).style.visibility = 'hidden'
+    for (i = 0; i < no; i++) document.getElementById('dot' + i)&&document.getElementById('dot' + i).style.visibility = 'hidden'
 }
 if (ie4up || ns6up) {
     snowIE_NS6();
