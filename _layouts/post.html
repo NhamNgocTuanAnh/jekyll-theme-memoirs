@@ -7,9 +7,6 @@ comments: true
 
 <div id="read-more-div"> <input type="checkbox" id="toggle-read-more" /> <div id="bottom-overlay"> <button id="read-more-btn-hell" class="read-more-btn"> <label for="toggle-read-more">Read More🧾</label> </button> <p>Bấm để tiếp tục đọc bài viết!🫡</p> </div></div>
 <script src="{{ site.baseurl }}/assets/js/post.js" async></script>
-<script>
-document.addEventListener("DOMContentLoaded",()=>{let e=document.getElementById("read-more-btn-hell");e&&e.addEventListener("click",()=>{e.style.display="none";let t=document.querySelectorAll(".content-overlay");t.length&&(t.forEach(e=>{e.style.maxHeight="none"}),window.scrollTo({top:456,behavior:"smooth"})),"function"==typeof ga&&ga("send","event","read-new","read-more","{{ page.url }}",10)})});
-</script>
 <div class="entry-header" style="display: none;"><br>
   <h1 class="posttitle"><a style="color:#3a3a3a" href="{{ site.baseurl }}{{ post.url }}" target="_blank">{{ page.title }}</a></h1>
   {% assign author = site.authors[page.author] %}
