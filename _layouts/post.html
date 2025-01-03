@@ -4,6 +4,8 @@ archive: false
 post_class: post-template
 comments: true
 ---
+
+<div id="read-more-div"> <input type="checkbox" id="toggle-read-more" /> <div id="bottom-overlay"> <button id="read-more-btn-hell" class="read-more-btn"> <label for="toggle-read-more">Read More🧾</label> </button> <p>Bấm để tiếp tục đọc bài viết!🫡</p> </div></div>
 <script>
 document.addEventListener("DOMContentLoaded",()=>{let e=document.getElementById("read-more-btn-hell");e&&e.addEventListener("click",()=>{e.style.display="none";let t=document.querySelectorAll(".content-overlay");t.length&&(t.forEach(e=>{e.style.maxHeight="none"}),window.scrollTo({top:456,behavior:"smooth"})),"function"==typeof ga&&ga("send","event","read-new","read-more","{{ page.url }}",10)})});
 </script>
@@ -37,8 +39,6 @@ document.addEventListener("DOMContentLoaded",()=>{let e=document.getElementById(
 {% if site.url == "enabled" %}
 {% include adsense-under-header.html %}
 {% endif %}
-
-<div id="read-more-div"> <input type="checkbox" id="toggle-read-more" /> <div id="bottom-overlay"> <button id="read-more-btn-hell" class="read-more-btn"> <label for="toggle-read-more">Read More🧾</label> </button> <p>Bấm để tiếp tục đọc bài viết!🫡</p> </div></div>
 
 <!-- Featured Image -->
 {% include featured-image.html %}
