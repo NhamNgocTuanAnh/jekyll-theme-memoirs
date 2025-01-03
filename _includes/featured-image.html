@@ -3,7 +3,7 @@
     {% if site.lazyimages == "enabled" %}
     <div id="idFeaturedImage"></div>
     {% else %}
-    <img class="featured-image {% if page.imageshadow %} image-shadow {% endif %}" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+    <img class="featured-image {% if page.imageshadow %} image-shadow {% endif %}" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title | default: anhhangxom.xyz' }}">
     {% endif %}
 </div>
 {% endif %}
