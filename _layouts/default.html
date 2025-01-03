@@ -12,6 +12,8 @@
     {% if page.keywords %}
         <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
     {% endif %}
+
+<link href="{{ site.baseurl }}/assets/css/readmore.css" rel="stylesheet">
     <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.webp">
 <script>function handleImageLoad(e){e.classList.add("loaded");};function isMobileDevice(){return/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)};function hideDivOnSmallScreens() { var iPhone8Width = 375; var iPhone8Height = 667; var windowWidth = window.innerWidth; var windowHeight = window.innerHeight; if (windowWidth <= iPhone8Width || windowHeight <= iPhone8Height) { console.log("nhỏ quá"); return true; }else{ return false; } }var sidebar = document.getElementById('sidebar');var isRelative = sidebar && window.getComputedStyle(sidebar).position === 'relative';</script>
 <script>
