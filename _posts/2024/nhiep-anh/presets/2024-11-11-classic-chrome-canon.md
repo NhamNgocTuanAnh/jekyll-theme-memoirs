@@ -86,7 +86,7 @@ function toggleImage() {document.getElementById("resultIm").style.display = "blo
 }
 </script>
 <br>
-<div class="my-container"> <div class="button"> <input type="radio" class="radio"> <a class="download">Download</a> <a class="open" href="https://www.canonstyle.com/downloads">Open File</a> </div> <p class="copy">anhhangxom.xyz</p></div><style>.my-container { font-family: 'Poppins', sans-serif; display: flex; flex-wrap: wrap; align-items: center; margin: 0; padding: 0; background: #7c0fd1; text-align: center;
+<div class="my-container"> <div class="button"> <input type="radio" class="radio"> <a class="download">Download</a> <a class="open" href="https://www.canonstyle.com/downloads">Open File</a> </div></div><style>.my-container { font-family: 'Poppins', sans-serif; display: flex; flex-wrap: wrap; align-items: center; margin: 0; padding: 0; background: #7c0fd1; text-align: center;
 }
 .my-container .button { position: relative; width: 200px; height: auto; margin: 40px auto; display: flex; flex-wrap: wrap; align-items: center; justify-content: center; color: #fff;
 }
