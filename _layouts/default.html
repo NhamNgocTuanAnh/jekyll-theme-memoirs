@@ -134,32 +134,7 @@ const addLink = (href) => {
   document.head.appendChild(link);
 };
 
-switch (currentMonth) {
-  case 11:
-  case 12:
-    addLink('{{ site.baseurl }}/assets/css/snow.css');
-    const script = document.createElement('script');
-    script.src = '{{ site.baseurl }}/assets/js/snowflakes.js';
-    script.async = true;
-    document.body.appendChild(script);
-    break;
-
-  case 9:
-  case 10:
-    addLink('{{ site.baseurl }}/assets/css/trungthu.css');
-    const midAutumnMessage = document.getElementById("mid-autumn-message");
-    if (midAutumnMessage) midAutumnMessage.style.display = "block";
-    break;
-
-  case 1:
-  case 2:
-    // addLink('{{ site.baseurl }}/assets/css/tet.css');
-    const scripta = document.createElement('script');
-    scripta.src = '{{ site.baseurl }}/assets/js/tet.js';
-    scripta.async = true;
-    document.body.appendChild(scripta);
-
-        var no = 20;
+var no = 20;
         if (matchMedia('only screen and (max-width: 767px)').matches) {
             no = 10        }
         let img_url = '/assets/images/hoadao-anonyviet.com.png';
@@ -225,12 +200,31 @@ switch (currentMonth) {
             }
             for (i = 0; i < no; i++) document.getElementById('dot' + i).style.visibility = 'hidden'
         }
+switch (currentMonth) {
+  case 11:
+  case 12:
+    addLink('{{ site.baseurl }}/assets/css/snow.css');
+    const script = document.createElement('script');
+    script.src = '{{ site.baseurl }}/assets/js/snowflakes.js';
+    script.async = true;
+    document.body.appendChild(script);
+    break;
 
-        if (ie4up || ns6up) {
-            snowIE_NS6();
-            if (hidesnowtime > 0) setTimeout('hidesnow()', hidesnowtime * 1000)
-        }
+  case 9:
+  case 10:
+    addLink('{{ site.baseurl }}/assets/css/trungthu.css');
+    const midAutumnMessage = document.getElementById("mid-autumn-message");
+    if (midAutumnMessage) midAutumnMessage.style.display = "block";
+    break;
 
+  case 1:
+  case 2:
+    // addLink('{{ site.baseurl }}/assets/css/tet.css');
+    const scripta = document.createElement('script');
+    scripta.src = '{{ site.baseurl }}/assets/js/tet.js';
+    scripta.async = true;
+    document.body.appendChild(scripta);
+    if(ie4up||ns6up){snowIE_NS6();if(hidesnowtime>0)setTimeout('hidesnow()',hidesnowtime*1000)}
     break;
 }
 </script>
