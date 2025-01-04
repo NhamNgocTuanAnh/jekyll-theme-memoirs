@@ -13,6 +13,7 @@
     {% if page.keywords %}
         <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">
     {% endif %}
+    <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
 <link href="{{ site.baseurl }}/assets/css/readmore.css" rel="stylesheet">
     <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.webp">
 <script>function handleImageLoad(e){e.classList.add("loaded");};</script>
@@ -23,7 +24,8 @@
   gtag('config', 'UA-192636660-1');
 </script>
 <script>
-document.addEventListener('DOMContentLoaded',function(){const currentMonth=new Date().getMonth()+1;const addLink=(href)=>{const link=document.createElement('link');link.rel='stylesheet';link.href=href;document.head.appendChild(link)};switch(currentMonth){case 11:case 12:addLink('{{ site.baseurl }}/assets/css/snow.css');const script=document.createElement('script');script.src='{{ site.baseurl }}/assets/js/snowflakes.js';script.async=!0;document.body.appendChild(script);break;case 9:case 10:addLink('{{ site.baseurl }}/assets/css/trungthu.css');const midAutumnMessage=document.getElementById("mid-autumn-message");if(midAutumnMessage)midAutumnMessage.style.display="block";break;case 1:case 2:addLink('/assets/css/tet.css');createSnowfallEffect();break}})</script>
+document.addEventListener('DOMContentLoaded',function(){const currentMonth=new Date().getMonth()+1;const addLink=(href)=>{const link=document.createElement('link');link.rel='stylesheet';link.href=href;document.head.appendChild(link)};switch(currentMonth){case 11:case 12:addLink('{{ site.baseurl }}/assets/css/snow.css');const script=document.createElement('script');script.src='{{ site.baseurl }}/assets/js/snowflakes.js';script.async=!0;document.body.appendChild(script);break;case 9:case 10:addLink('{{ site.baseurl }}/assets/css/trungthu.css');const midAutumnMessage=document.getElementById("mid-autumn-message");if(midAutumnMessage)midAutumnMessage.style.display="block";break;case 1:case 2:addLink('/assets/css/tet.css');createSnowfallEffect();break}})
+</script>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -110,7 +112,6 @@ function createRandomDivAndAppend(){let e=document.getElementById("searchBoxEl")
 </html>
 <link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet">
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
-<link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
     <noscript><div><img src="https://mc.yandex.ru/watch/95513605" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
