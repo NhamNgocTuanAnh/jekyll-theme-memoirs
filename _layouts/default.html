@@ -23,50 +23,7 @@
   gtag('config', 'UA-192636660-1');
 </script>
 <script>
-    document.addEventListener('DOMContentLoaded', function () {
-  // Lấy tháng hiện tại (1 = Tháng 1, 12 = Tháng 12)
-  const currentMonth = new Date().getMonth() + 1;
-
-  // Hàm để tạo và thêm thẻ vào head
-  const addLink = (href) => {
-    const link = document.createElement('link');
-    link.rel = 'stylesheet';
-    link.href = href;
-    document.head.appendChild(link);
-  };
-
-
-  switch (currentMonth) {
-    case 11:
-    case 12:
-      addLink('{{ site.baseurl }}/assets/css/snow.css');
-      const script = document.createElement('script');
-      script.src = '{{ site.baseurl }}/assets/js/snowflakes.js';
-      script.async = true;
-      document.body.appendChild(script);
-      break;
-
-    case 9:
-    case 10:
-      addLink('{{ site.baseurl }}/assets/css/trungthu.css');
-      const midAutumnMessage = document.getElementById("mid-autumn-message");
-      if (midAutumnMessage) midAutumnMessage.style.display = "block";
-      break;
-
-    case 1:
-    case 2:
-      addLink('/assets/css/tet.css');
-      const scripta = document.createElement('script');
-      // scripta.src = '/assets/js/tet.js';
-      // scripta.async = true;
-      // document.body.appendChild(scripta);
-      // const header = document.querySelector(".header");
-      createSnowfallEffect();
-      header.style.backgroundColor = "red";
-      break;
-  }
-});
-  </script>
+document.addEventListener('DOMContentLoaded',function(){const currentMonth=new Date().getMonth()+1;const addLink=(href)=>{const link=document.createElement('link');link.rel='stylesheet';link.href=href;document.head.appendChild(link)};switch(currentMonth){case 11:case 12:addLink('{{ site.baseurl }}/assets/css/snow.css');const script=document.createElement('script');script.src='{{ site.baseurl }}/assets/js/snowflakes.js';script.async=!0;document.body.appendChild(script);break;case 9:case 10:addLink('{{ site.baseurl }}/assets/css/trungthu.css');const midAutumnMessage=document.getElementById("mid-autumn-message");if(midAutumnMessage)midAutumnMessage.style.display="block";break;case 1:case 2:addLink('/assets/css/tet.css');const scripta=document.createElement('script');createSnowfallEffect();header.style.backgroundColor="red";break}})</script>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -216,94 +173,10 @@ body {
 }
 </style>
 <script>
-  function createSnowfallEffect() {
-    const imgURL = '/assets/images/hoadao-anonyviet.com.png';
-    const colorSnow = '#fff';
-    const snowDistance = 'windowheight'; // 'windowheight' hoặc 'pageheight'
-    const hideSnowTime = 0; // Đặt thời gian ẩn tuyết, 0 để không ẩn
-
-    let no = window.matchMedia('only screen and (max-width: 767px)').matches ? 10 : 20;
-    let docWidth = 800;
-    let docHeight = 600;
-
-    // Kiểm tra tương thích trình duyệt
-    const isIE = !!document.all;
-    const isNS6 = document.getElementById && !document.all;
-
-    const dx = [], xp = [], yp = [], am = [], stx = [], sty = [];
-
-    // Xác định kích thước tài liệu
-    function getDocSize() {
-        if (isNS6) {
-            docWidth = window.innerWidth - 10;
-            docHeight = snowDistance === 'windowheight' ? window.innerHeight : document.body.offsetHeight;
-        } else if (isIE) {
-            const docElem = document.compatMode && document.compatMode !== 'BackCompat' ? document.documentElement : document.body;
-            docWidth = docElem.clientWidth - 10;
-            docHeight = snowDistance === 'windowheight' ? docElem.clientHeight : docElem.scrollHeight;
-        }
-    }
-
-    // Tạo các bông tuyết
-    for (let i = 0; i < no; i++) {
-        dx[i] = 0;
-        xp[i] = Math.random() * (docWidth - 50);
-        yp[i] = Math.random() * docHeight;
-        am[i] = Math.random() * 20;
-        stx[i] = 0.02 + Math.random() / 10;
-        sty[i] = 0.7 + Math.random();
-
-        const snowDiv = document.createElement('div');
-        snowDiv.id = 'dot' + i;
-        snowDiv.style.position = 'fixed';
-        snowDiv.style.zIndex = 99 + i;
-        snowDiv.style.visibility = 'visible';
-        snowDiv.style.pointerEvents = 'none';
-        snowDiv.style.width = '15px';
-
-        const snowImg = document.createElement('img');
-        snowImg.src = imgURL;
-        snowImg.alt = 'snowflake';
-        snowImg.style.fontSize = '18px';
-        snowImg.style.color = colorSnow;
-
-        snowDiv.appendChild(snowImg);
-        document.body.appendChild(snowDiv);
-    }
-
-    // Hiệu ứng rơi tuyết
-    function snowFall() {
-        getDocSize();
-        for (let i = 0; i < no; i++) {
-            yp[i] += sty[i];
-            if (yp[i] > docHeight - 50) {
-                xp[i] = Math.random() * (docWidth - am[i] - 30);
-                yp[i] = 0;
-                stx[i] = 0.02 + Math.random() / 10;
-                sty[i] = 0.7 + Math.random();
-            }
-            dx[i] += stx[i];
-            const snowDot = document.getElementById('dot' + i);
-            snowDot.style.top = yp[i] + 'px';
-            snowDot.style.left = xp[i] + am[i] * Math.sin(dx[i]) + 'px';
-        }
-        requestAnimationFrame(snowFall);
-    }
-
-    // Ẩn tuyết
-    function hideSnow() {
-        for (let i = 0; i < no; i++) {
-            document.getElementById('dot' + i).style.visibility = 'hidden';
-        }
-    }
-
-    // Bắt đầu hiệu ứng
-    if (isIE || isNS6) {
-        snowFall();
-        if (hideSnowTime > 0) {
-            setTimeout(hideSnow, hideSnowTime * 1000);
-        }
-    }
-}
-
-</script>
+function createSnowfallEffect(){const imgURL='/assets/images/hoadao-anonyviet.com.png';const colorSnow='#fff';const snowDistance='windowheight';const hideSnowTime=0;let no=window.matchMedia('only screen and (max-width: 767px)').matches?10:20;let docWidth=800;let docHeight=600;const isIE=!!document.all;const isNS6=document.getElementById&&!document.all;const dx=[],xp=[],yp=[],am=[],stx=[],sty=[];function getDocSize(){if(isNS6){docWidth=window.innerWidth-10;docHeight=snowDistance==='windowheight'?window.innerHeight:document.body.offsetHeight}else if(isIE){const docElem=document.compatMode&&document.compatMode!=='BackCompat'?document.documentElement:document.body;docWidth=docElem.clientWidth-10;docHeight=snowDistance==='windowheight'?docElem.clientHeight:docElem.scrollHeight}}
+for(let i=0;i<no;i++){dx[i]=0;xp[i]=Math.random()*(docWidth-50);yp[i]=Math.random()*docHeight;am[i]=Math.random()*20;stx[i]=0.02+Math.random()/10;sty[i]=0.7+Math.random();const snowDiv=document.createElement('div');snowDiv.id='dot'+i;snowDiv.style.position='fixed';snowDiv.style.zIndex=99+i;snowDiv.style.visibility='visible';snowDiv.style.pointerEvents='none';snowDiv.style.width='15px';const snowImg=document.createElement('img');snowImg.src=imgURL;snowImg.alt='snowflake';snowImg.style.fontSize='18px';snowImg.style.color=colorSnow;snowDiv.appendChild(snowImg);document.body.appendChild(snowDiv)}
+function snowFall(){getDocSize();for(let i=0;i<no;i++){yp[i]+=sty[i];if(yp[i]>docHeight-50){xp[i]=Math.random()*(docWidth-am[i]-30);yp[i]=0;stx[i]=0.02+Math.random()/10;sty[i]=0.7+Math.random()}
+dx[i]+=stx[i];const snowDot=document.getElementById('dot'+i);snowDot.style.top=yp[i]+'px';snowDot.style.left=xp[i]+am[i]*Math.sin(dx[i])+'px'}
+requestAnimationFrame(snowFall)}
+function hideSnow(){for(let i=0;i<no;i++){document.getElementById('dot'+i).style.visibility='hidden'}}
+if(isIE||isNS6){snowFall();if(hideSnowTime>0){setTimeout(hideSnow,hideSnowTime*1000)}}}</script>
