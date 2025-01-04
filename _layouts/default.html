@@ -33,6 +33,7 @@
     link.href = href;
     document.head.appendChild(link);
   };
+  document.addEventListener('DOMContentLoaded', function () {
 
   switch (currentMonth) {
     case 11:
@@ -60,6 +61,7 @@
       document.body.appendChild(scripta);
       break;
   }
+});
   </script>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
