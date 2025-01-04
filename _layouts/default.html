@@ -63,30 +63,24 @@ document.addEventListener('DOMContentLoaded',function(){const currentMonth=new D
 </nav>
 
 <script>
-function switchCategory() {
-    console.log('Category switched');
-}
-
-function triggerContact() {
-    console.log('Contact triggered');
-}
-window.addEventListener('scroll', () => {
-    const nav = document.querySelector('.navbar-custom');
-    if (document.documentElement.scrollTop > 50) {
-        nav.classList.add('affix');
-        console.log('OK');
+document.querySelector('.menuTrigger').addEventListener('click', function () {
+    this.classList.toggle('active');
+    console.log("Clicked menu");
+    const menuList = document.getElementById('menuList');
+    menuList.classList.toggle('show_list');
+    if (menuList.classList.contains('show_list')) {
+        menuList.style.display = 'block';
     } else {
-        nav.classList.remove('affix');
+        menuList.style.display = 'none';
     }
 });
-const menuTrigger = document.querySelector('.menuTrigger');
-menuTrigger.addEventListener('click', () => {
-    menuTrigger.classList.toggle('active');
-    const menuList = document.querySelector('.menu-list');
-    if (menuTrigger.classList.contains('active')) {
-        menuList.style.height = 'auto';
+
+document.addEventListener('scroll', function () {
+    if (document.documentElement.scrollTop > 50) {
+        document.querySelector('.navbar-custom').classList.add('affix');
+        console.log("OK");
     } else {
-        menuList.style.height = '0';
+        document.querySelector('.navbar-custom').classList.remove('affix');
     }
 });
 </script>

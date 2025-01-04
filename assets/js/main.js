@@ -145,18 +145,3 @@ function isTetDate() {
       firstScript.parentNode.insertBefore(script, firstScript);
     })(document, "script", "https://chimpstatic.com/mcjs-connected/js/users/a439f78ba77fd2f9e892d4fa8/f37836a9f614fff78ac17eacf.js");
   });
-  $('.navTrigger').click(function () {
-    $(this).toggleClass('active');
-    console.log("Clicked menu");
-    $("#mainListDiv").toggleClass("show_list");
-    $("#mainListDiv").fadeIn();
-
-});
-$(window).scroll(function() {
-  if ($(document).scrollTop() > 50) {
-      $('.nav').addClass('affix');
-      console.log("OK");
-  } else {
-      $('.nav').removeClass('affix');
-  }
-});
