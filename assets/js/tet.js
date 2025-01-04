@@ -1,69 +1,92 @@
+function createSnowfallEffect() {
+    const imgURL = '/assets/images/hoadao-anonyviet.com.png';
+    const colorSnow = '#fff';
+    const snowDistance = 'windowheight'; // 'windowheight' hoặc 'pageheight'
+    const hideSnowTime = 0; // Đặt thời gian ẩn tuyết, 0 để không ẩn
 
-var no = 20;
-if (matchMedia('only screen and (max-width: 767px)').matches) {
-    no = 10        }
-var hidesnowtime = 0;
-var color_snow  = '#fff';
-var snowdistance = 'windowheight'; // windowheight or pageheight;
-var ie4up = (document.all) ? 1 : 0;
-var ns6up = (document.getElementById && !document.all) ? 1 : 0;
-function iecompattest() {
-    return (document.compatMode && document.compatMode != 'BackCompat') ? document.documentElement : document.body
-}
-var dx, xp, yp;
-var am, stx, sty;
-var i, doc_width = 800, doc_height = 600;
-if (ns6up) {
-    doc_width = self.innerWidth;
-    doc_height = self.innerHeight
-} else if (ie4up) {
-    doc_width = iecompattest().clientWidth;
-    doc_height = iecompattest().clientHeight
-}
-dx = new Array();
-xp = new Array();
-yp = new Array();
-am = new Array();
-stx = new Array();
-sty = new Array();
-for (i = 0; i < no; ++i) {
-    dx[i] = 0;
-    xp[i] = Math.random() * (doc_width - 50);
-    yp[i] = Math.random() * doc_height;
-    am[i] = Math.random() * 20;
-    stx[i] = 0.02 + Math.random() / 10;
-    sty[i] = 0.7 + Math.random();
-    if (ie4up || ns6up) {
-        document.getElementById('content').innerHTML='<div id="dot'+i+'" style="POSITION:fixed;Z-INDEX:'+(99+i)+';VISIBILITY:visible;TOP:15px;LEFT:15px;pointer-events: none;width:15px"><span style="font-size:18px;color:'+color_snow+'"><img src="'+img_url+'" alt=""></span></div>';
-    }
-}
-function snowIE_NS6() {
-    doc_width = ns6up ? window.innerWidth - 10 : iecompattest().clientWidth - 10;
-    doc_height = (window.innerHeight && snowdistance == 'windowheight') ? window.innerHeight : (ie4up && snowdistance == 'windowheight') ? iecompattest().clientHeight : (ie4up && !window.opera && snowdistance == 'pageheight') ? iecompattest().scrollHeight : iecompattest().offsetHeight;
-    for (i = 0; i < no; ++i) {
-        yp[i] += sty[i];
-        if (yp[i] > doc_height - 50) {
-            xp[i] = Math.random() * (doc_width - am[i] - 30);
-            yp[i] = 0;
-            stx[i] = 0.02 + Math.random() / 10;
-            sty[i] = 0.7 + Math.random()
+    let no = window.matchMedia('only screen and (max-width: 767px)').matches ? 10 : 20;
+    let docWidth = 800;
+    let docHeight = 600;
+
+    // Kiểm tra tương thích trình duyệt
+    const isIE = !!document.all;
+    const isNS6 = document.getElementById && !document.all;
+
+    const dx = [], xp = [], yp = [], am = [], stx = [], sty = [];
+
+    // Xác định kích thước tài liệu
+    function getDocSize() {
+        if (isNS6) {
+            docWidth = window.innerWidth - 10;
+            docHeight = snowDistance === 'windowheight' ? window.innerHeight : document.body.offsetHeight;
+        } else if (isIE) {
+            const docElem = document.compatMode && document.compatMode !== 'BackCompat' ? document.documentElement : document.body;
+            docWidth = docElem.clientWidth - 10;
+            docHeight = snowDistance === 'windowheight' ? docElem.clientHeight : docElem.scrollHeight;
         }
-        dx[i] += stx[i];
-if(document.getElementById('dot' + i)){
-        document.getElementById('dot' + i).style.top = yp[i] + 'px';
-        document.getElementById('dot' + i).style.left = xp[i] + am[i] * Math.sin(dx[i]) + 'px';}
     }
-    snowtimer = setTimeout('snowIE_NS6()', 10)
-}
-function hidesnow() {
-    if (window.snowtimer) {
-        clearTimeout(snowtimer)
+
+    // Tạo các bông tuyết
+    for (let i = 0; i < no; i++) {
+        dx[i] = 0;
+        xp[i] = Math.random() * (docWidth - 50);
+        yp[i] = Math.random() * docHeight;
+        am[i] = Math.random() * 20;
+        stx[i] = 0.02 + Math.random() / 10;
+        sty[i] = 0.7 + Math.random();
+
+        const snowDiv = document.createElement('div');
+        snowDiv.id = 'dot' + i;
+        snowDiv.style.position = 'fixed';
+        snowDiv.style.zIndex = 99 + i;
+        snowDiv.style.visibility = 'visible';
+        snowDiv.style.pointerEvents = 'none';
+        snowDiv.style.width = '15px';
+
+        const snowImg = document.createElement('img');
+        snowImg.src = imgURL;
+        snowImg.alt = 'snowflake';
+        snowImg.style.fontSize = '18px';
+        snowImg.style.color = colorSnow;
+
+        snowDiv.appendChild(snowImg);
+        document.body.appendChild(snowDiv);
     }
-    for (i = 0; i < no; i++){
-        if(document.getElementById('dot' + i)){document.getElementById('dot' + i).style.visibility = 'hidden'
-    } }
+
+    // Hiệu ứng rơi tuyết
+    function snowFall() {
+        getDocSize();
+        for (let i = 0; i < no; i++) {
+            yp[i] += sty[i];
+            if (yp[i] > docHeight - 50) {
+                xp[i] = Math.random() * (docWidth - am[i] - 30);
+                yp[i] = 0;
+                stx[i] = 0.02 + Math.random() / 10;
+                sty[i] = 0.7 + Math.random();
+            }
+            dx[i] += stx[i];
+            const snowDot = document.getElementById('dot' + i);
+            snowDot.style.top = yp[i] + 'px';
+            snowDot.style.left = xp[i] + am[i] * Math.sin(dx[i]) + 'px';
+        }
+        requestAnimationFrame(snowFall);
+    }
+
+    // Ẩn tuyết
+    function hideSnow() {
+        for (let i = 0; i < no; i++) {
+            document.getElementById('dot' + i).style.visibility = 'hidden';
+        }
+    }
+
+    // Bắt đầu hiệu ứng
+    if (isIE || isNS6) {
+        snowFall();
+        if (hideSnowTime > 0) {
+            setTimeout(hideSnow, hideSnowTime * 1000);
+        }
+    }
 }
-if (ie4up || ns6up) {
-    snowIE_NS6();
-    if (hidesnowtime > 0) setTimeout('hidesnow()', hidesnowtime * 1000)
-}
+
+// Gọi hàm để tạo hiệu ứng
+createSnowfallEffect();
