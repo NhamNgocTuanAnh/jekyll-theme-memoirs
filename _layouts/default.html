@@ -63,29 +63,6 @@ document.addEventListener('DOMContentLoaded',function(){const currentMonth=new D
     </div>
 </nav>
 
-<script>
-document.querySelector('.menuTrigger').addEventListener('click', function () {
-    this.classList.toggle('active');
-    console.log("Clicked menu");
-    const menuList = document.getElementById('menuList');
-    menuList.classList.toggle('show_list');
-    if (menuList.classList.contains('show_list')) {
-        menuList.style.display = 'block';
-    } else {
-        menuList.style.display = 'none';
-    }
-});
-
-document.addEventListener('scroll', function () {
-    if (document.documentElement.scrollTop > 50) {
-        document.querySelector('.navbar-custom').classList.add('affix');
-        console.log("OK");
-    } else {
-        document.querySelector('.navbar-custom').classList.remove('affix');
-    }
-});
-</script>
-
     <button id="next-post-active" style="display:none"></button>
     <noscript id="deferred-styles">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"

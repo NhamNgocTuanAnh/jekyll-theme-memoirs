@@ -145,3 +145,4 @@ function isTetDate() {
       firstScript.parentNode.insertBefore(script, firstScript);
     })(document, "script", "https://chimpstatic.com/mcjs-connected/js/users/a439f78ba77fd2f9e892d4fa8/f37836a9f614fff78ac17eacf.js");
   });
+  document.querySelector(".menuTrigger").addEventListener("click",function(){this.classList.toggle("active"),console.log("Clicked menu");let e=document.getElementById("menuList");e.classList.toggle("show_list"),e.classList.contains("show_list")?e.style.display="block":e.style.display="none"}),document.addEventListener("scroll",function(){document.documentElement.scrollTop>50?(document.querySelector(".navbar-custom").classList.add("affix"),console.log("OK")):document.querySelector(".navbar-custom").classList.remove("affix")});
