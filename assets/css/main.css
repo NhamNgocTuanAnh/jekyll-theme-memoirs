@@ -2,16 +2,6 @@
 #snackbar{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background-color:#333;color:#fff;padding:16px;border-radius:8px;display:none;opacity:0;transition:opacity .5s ease-in-out;z-index:1000}#snackbar.show{display:block;opacity:1}#snackbar a{color:#fff;text-decoration:none;font-weight:700}#snackbar button{background:transparent;color:#fff;border:none;cursor:pointer;margin-left:10px}#snackbar button:hover{color:#ff0}@media (max-width: 768px){#snackbar a{font-weight:400}};.header{position:fixed;top:0;left:0;width:100%;z-index:1000;box-shadow:0 2px 5px rgba(0,0,0,0.1)}
 body{margin-top:60px}.menu{margin:0;padding:0;list-style:none;display:flex;gap:1rem;justify-content:center}.read-more-btn{bottom:10px;padding:10px 20px;background-color:#007bff;color:#fff;border:none;border-radius:5px;cursor:pointer;transition:background-color .3s;z-index:1}.read-more-btn:hover{background-color:#0056b3}#read-more-btn{pointer-events:auto};#bottom-overlay{position:fixed;bottom:0;left:0;width:100%;height:60%;background-color:rgba(0,0,0,0.8);color:#fff;display:flex;flex-direction:column;align-items:center;justify-content:center;z-index:1000;box-shadow:0 -4px 10px rgba(0,0,0,0.5)}#bottom-overlay p{margin:10px 0;font-size:16px;text-align:center}#bottom-overlay button{padding:10px 20px;background-color:#ff5722;color:#fff;border:none;border-radius:5px;cursor:pointer;font-size:16px};
 #toggle-read-more,#toggle-read-more:checked~#read-more-div{display:none}#read-more-div{display:block}#read-more-btn-hell{cursor:pointer;background-color:#007bff;color:#fff;border:none;padding:10px 20px;border-radius:5px;text-align:center}#read-more-btn-hell:hover{background-color:#0056b3}#read-more-btn-hell label{cursor:pointer;color:inherit;text-decoration:none};
-@import url('https://fonts.googleapis.com/css?family=Quicksand:400,500,700');
-html,
-body {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: "Quicksand", sans-serif;
-    font-size: 62.5%;
-    font-size: 10px;
-}
 
 .navbar-custom {
     width: 100%;
@@ -19,6 +9,7 @@ body {
     position: fixed;
     line-height: 65px;
     text-align: center;
+    z-index:1401;
 }
 
 .navbar-custom .brand-logo {

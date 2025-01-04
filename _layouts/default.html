@@ -70,13 +70,14 @@ function switchCategory() {
 function triggerContact() {
     console.log('Contact triggered');
 }
-$(window).scroll(function() {
-  if ($(document).scrollTop() > 50) {
-      $('.nav').addClass('affix');
-      console.log("OK");
-  } else {
-      $('.nav').removeClass('affix');
-  }
+window.addEventListener('scroll', () => {
+    const nav = document.querySelector('.navbar-custom');
+    if (document.documentElement.scrollTop > 50) {
+        nav.classList.add('affix');
+        console.log('OK');
+    } else {
+        nav.classList.remove('affix');
+    }
 });
 const menuTrigger = document.querySelector('.menuTrigger');
 menuTrigger.addEventListener('click', () => {
