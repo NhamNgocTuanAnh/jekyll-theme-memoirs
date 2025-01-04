@@ -41,25 +41,27 @@ document.addEventListener('DOMContentLoaded',function(){const currentMonth=new D
   <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T53P5GTK"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
-  <header class="header">
-    <!-- Logo -->
-    <a href="{{ site.baseurl }}/" class="logo">Anh Hàng Xóm Blog</a>
-    <nav>
-      <!-- Menu Button -->
-      <input class="menu-btn" type="checkbox" id="menu-btn" aria-label="Toggle Navigaton Menu">
-      <!-- Icon -->
-      <label class="menu-icon"  for="menu-btn">
-        <span class="navicon" style="background-color:#7c0fd1"></span>
-      </label>
-      <!-- Menu -->
-      <ul class="menu">
-        <li><a href="{{ site.baseurl }}/categories-v1.html" onclick="setCategory()">Chủ đề</a></li>
-        <li><a href="{{ site.baseurl }}/about-me">About me</a></li>
-        <li><a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; handleChatButtonClick()">Contact</a></li>
-      </ul>
-    </nav>
-  </header>
+
+  <nav class="nav">
+    <div class="container">
+        <div class="logo">
+          <a href="{{ site.baseurl }}/" class="logo">Anh Hàng Xóm Blog</a>
+        </div>
+        <div id="mainListDiv" class="main_list">
+            <ul class="navlinks">
+              <li><a href="{{ site.baseurl }}/categories-v1.html" onclick="setCategory()">Chủ đề</a></li>
+              <li><a href="{{ site.baseurl }}/about-me">About me</a></li>
+              <li><a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; handleChatButtonClick()">Contact</a></li>
+            </ul>
+        </div>
+        <span class="navTrigger">
+            <i></i>
+            <i></i>
+            <i></i>
+        </span>
+    </div>
+</nav>
+
     <button id="next-post-active" style="display:none"></button>
     <noscript id="deferred-styles">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
