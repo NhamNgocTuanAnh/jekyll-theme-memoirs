@@ -84,22 +84,24 @@
   <!-- End Google Tag Manager (noscript) -->
   <header class="header">
     <!-- Logo -->
-    <a href="{{ site.baseurl }}/" class="logo">Anh Hàng Xóm Blog</a>
-    <nav>
-      <!-- Menu Button -->
-      <input class="menu-btn" type="checkbox" id="menu-btn" aria-label="Toggle Navigaton Menu">
-      <!-- Icon -->
-      <label class="menu-icon"  for="menu-btn">
-        <span class="navicon" style="background-color:#7c0fd1"></span>
-      </label>
-      <!-- Menu -->
-      <ul class="menu">
+
+
+  </header>
+  <nav>
+
+    <div class="logo"><a href="{{ site.baseurl }}/" class="logo">Anh Hàng Xóm Blog</a></div>
+
+    <i id='open' class="fa-solid fa-ellipsis-vertical"></i>
+    <i id='close' class="fa-solid fa-xmark"></i>
+
+    <div class="menu">
+      <ul>
         <li><a href="{{ site.baseurl }}/categories-v1.html" onclick="setCategory()">Chủ đề</a></li>
         <li><a href="{{ site.baseurl }}/about-me">About me</a></li>
         <li><a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; handleChatButtonClick()">Contact</a></li>
       </ul>
-    </nav>
-  </header>
+    </div>
+  </nav>
     <button id="next-post-active" style="display:none"></button>
     <noscript id="deferred-styles">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
