@@ -34,7 +34,7 @@ for (i = 0; i < no; ++i) {
     stx[i] = 0.02 + Math.random() / 10;
     sty[i] = 0.7 + Math.random();
     if (ie4up || ns6up) {
-        document.write('<div id="dot'+i+'" style="POSITION:fixed;Z-INDEX:'+(99+i)+';VISIBILITY:visible;TOP:15px;LEFT:15px;pointer-events: none;width:15px"><span style="font-size:18px;color:'+color_snow+'"><img src="'+img_url+'" alt=""></span></div>');
+        document.getElementById('content').innerHTML='<div id="dot'+i+'" style="POSITION:fixed;Z-INDEX:'+(99+i)+';VISIBILITY:visible;TOP:15px;LEFT:15px;pointer-events: none;width:15px"><span style="font-size:18px;color:'+color_snow+'"><img src="'+img_url+'" alt=""></span></div>';
     }
 }
 function snowIE_NS6() {
@@ -49,8 +49,9 @@ function snowIE_NS6() {
             sty[i] = 0.7 + Math.random()
         }
         dx[i] += stx[i];
+if(document.getElementById('dot' + i)){
         document.getElementById('dot' + i).style.top = yp[i] + 'px';
-        document.getElementById('dot' + i).style.left = xp[i] + am[i] * Math.sin(dx[i]) + 'px'
+        document.getElementById('dot' + i).style.left = xp[i] + am[i] * Math.sin(dx[i]) + 'px';}
     }
     snowtimer = setTimeout('snowIE_NS6()', 10)
 }
@@ -58,7 +59,9 @@ function hidesnow() {
     if (window.snowtimer) {
         clearTimeout(snowtimer)
     }
-    for (i = 0; i < no; i++) document.getElementById('dot' + i).style.visibility = 'hidden'
+    for (i = 0; i < no; i++){
+        if(document.getElementById('dot' + i)){document.getElementById('dot' + i).style.visibility = 'hidden'
+    } }
 }
 if (ie4up || ns6up) {
     snowIE_NS6();
