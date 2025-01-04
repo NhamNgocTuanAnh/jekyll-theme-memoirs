@@ -42,25 +42,53 @@ document.addEventListener('DOMContentLoaded',function(){const currentMonth=new D
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T53P5GTK"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-  <nav class="nav">
-    <div class="container">
-        <div class="logo">
-          <a href="{{ site.baseurl }}/" class="logo">Anh Hàng Xóm Blog</a>
+  <nav class="navbar-custom">
+    <div class="container-custom">
+        <div class="brand-logo">
+          <a href="{{ site.baseurl }}/" class="brand-link">Anh Hàng Xóm Blog</a>
         </div>
-        <div id="mainListDiv" class="main_list">
-            <ul class="navlinks">
-              <li><a href="{{ site.baseurl }}/categories-v1.html" onclick="setCategory()">Chủ đề</a></li>
+        <div id="menuList" class="menu-list">
+            <ul class="menu-links">
+              <li><a href="{{ site.baseurl }}/categories-v1.html" onclick="switchCategory()">Chủ đề</a></li>
               <li><a href="{{ site.baseurl }}/about-me">About me</a></li>
-              <li><a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; handleChatButtonClick()">Contact</a></li>
+              <li><a href="#" onclick="if (!window.__cfRLUnblockHandlers) return false; triggerContact()">Contact</a></li>
             </ul>
         </div>
-        <span class="navTrigger">
+        <span class="menuTrigger">
             <i></i>
             <i></i>
             <i></i>
         </span>
     </div>
 </nav>
+
+<script>
+function switchCategory() {
+    console.log('Category switched');
+}
+
+function triggerContact() {
+    console.log('Contact triggered');
+}
+$(window).scroll(function() {
+  if ($(document).scrollTop() > 50) {
+      $('.nav').addClass('affix');
+      console.log("OK");
+  } else {
+      $('.nav').removeClass('affix');
+  }
+});
+const menuTrigger = document.querySelector('.menuTrigger');
+menuTrigger.addEventListener('click', () => {
+    menuTrigger.classList.toggle('active');
+    const menuList = document.querySelector('.menu-list');
+    if (menuTrigger.classList.contains('active')) {
+        menuList.style.height = 'auto';
+    } else {
+        menuList.style.height = '0';
+    }
+});
+</script>
 
     <button id="next-post-active" style="display:none"></button>
     <noscript id="deferred-styles">
@@ -108,8 +136,7 @@ function createRandomDivAndAppend(){let e=document.getElementById("searchBoxEl")
     <div id="progress-container">
         <div class="progress-bar"></div>
       </div>
-      <button onclick="consentGrantedAdStorage()" style="display: none;">Yes</button><div class="nav__menu" id="nav-menu" style="padding: 0; box-sizing: border-box; font-family: 'Open Sans', sans-serif;"><ul class="nav__list" style="list-style: none; margin: 1em 0; padding-left: 0; display: flex; gap: 1.5rem;"><li class="nav__item"><a href="{{ site.url }}" class="nav__link active-link" style="text-decoration: none; color: #333; display: flex; align-items: center; gap: 0.5rem;"><i class="bx bx-home-alt nav__icon" style="font-size: 1.2rem;"></i><span class="nav__name">Home</span></a></li><li class="nav__item"><a href="{{ site.url }}/categories-v1.html" onclick="setCategory()" class="nav__link" style="text-decoration: none; color: #333; display: flex; align-items: center; gap: 0.5rem;"><i class="bx bx-user nav__icon" style="font-size: 1.2rem;"></i><span class="nav__name">Chủ đề</span></a></li><li class="nav__item"><a href="{{ site.url }}/coding" class="nav__link" style="text-decoration: none; color: #333; display: flex; align-items: center; gap: 0.5rem;"><i class="bx bx-book-alt nav__icon" style="font-size: 1.2rem;"></i><span class="nav__name">Coding</span></a></li><li class="nav__item"><a href="{{ site.url }}/du-lich" class="nav__link" style="text-decoration: none; color: #333; display: flex; align-items: center; gap: 0.5rem;"><i class="bx bx-briefcase-alt nav__icon" style="font-size: 1.2rem;"></i><span class="nav__name">Du hí</span></a></li><li class="nav__item"><a href="#contactme" class="nav__link" onclick="handleChatButtonClick()" style="text-decoration: none; color: #333; display: flex; align-items: center; gap: 0.5rem;"><i class="bx bx-message-square-detail nav__icon" style="font-size: 1.2rem;"></i><span class="nav__name">Contact</span></a></li></ul>
-</div>
+      <button onclick="consentGrantedAdStorage()" style="display: none;">Yes</button>
 <canvas id="fireworksCanvas"></canvas>
     </body>
 </html>
