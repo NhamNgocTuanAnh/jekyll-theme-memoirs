@@ -23,6 +23,7 @@
   gtag('config', 'UA-192636660-1');
 </script>
 <script>
+    document.addEventListener('DOMContentLoaded', function () {
   // Lấy tháng hiện tại (1 = Tháng 1, 12 = Tháng 12)
   const currentMonth = new Date().getMonth() + 1;
 
@@ -33,7 +34,7 @@
     link.href = href;
     document.head.appendChild(link);
   };
-  document.addEventListener('DOMContentLoaded', function () {
+
 
   switch (currentMonth) {
     case 11:
