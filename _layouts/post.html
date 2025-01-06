@@ -49,9 +49,7 @@ document.addEventListener("DOMContentLoaded",()=>{let e=document.getElementById(
 <!-- Content -->
 {% include toc.html content=page.content skip_toc=page.skip_toc%}
 
-<br>
-
-  <input type="checkbox" hidden class="read-more-state" id="read-more">
+<br><input type="checkbox" hidden class="read-more-state" id="read-more">
   <div class="read-more-wrap">
     <div class="article-post" id="articlePost">
       <section id="content">
@@ -59,105 +57,17 @@ document.addEventListener("DOMContentLoaded",()=>{let e=document.getElementById(
           {{ page.excerpt }}
         </p>
       </section>
-  </div>
-
-    <div class="read-more-target">
-
-      <div class="content-container">
-        <div class="content-overlay">
+  </div><div class="read-more-target"><div class="content-container"><div class="content-overlay">
 
       {% include article.html %}
 
-      </div></div>
-
-    </div>
-  </div><div class="content" style="text-align:center; ">
-    <div class="custom-label-container">
-      <input type="checkbox" id="read-more" style="display: none;" />
-      <label for="read-more" class="read-more-trigger_closed">Read More</label>
-      <label for="read-more" class="read-more-trigger_opened">Read Less</label>
-    </div></div>
+      </div></div></div>
+  </div><div class="content" style="text-align:center; "><div class="custom-label-container"><input type="checkbox" id="read-more" style="display: none;" /><label for="read-more" class="read-more-trigger_closed">Read More</label><label for="read-more" class="read-more-trigger_opened">Read Less</label></div></div>
     <script>
-      window.scrollTo({top:456,behavior:"smooth"});
-      document.getElementById("read-more").addEventListener("change", function () {
-  if (this.checked) {
-    console.log("Read More triggered!");
-    // Gọi hàm của bạn ở đây, ví dụ:
-    handleReadMore();
-  } else {
-    console.log("Read Less triggered!");
-    // Gọi hàm khác nếu cần
-    handleReadLess();
-  }
-});
-function sendAnalyticsEvent(action) {
-  if (typeof ga === "function") {
-    ga("send", "event", "read-new", action, "{{ page.url }}", 10);
-  }
-}
-function handleReadMore() {
-  sendAnalyticsEvent("read-more");
-}
-
-function handleReadLess() {
-  sendAnalyticsEvent("read-less");
-}
+function sendAnalyticsEvent(e){"function"==typeof ga&&ga("send","event","read-new",e,"{{ page.url }}",10)}function handleReadMore(){sendAnalyticsEvent("read-more")}function handleReadLess(){sendAnalyticsEvent("read-less")}window.scrollTo({top:456,behavior:"smooth"}),document.getElementById("read-more").addEventListener("change",function(){this.checked?(console.log("Read More triggered!"),handleReadMore()):(console.log("Read Less triggered!"),handleReadLess())});
     </script>
 <style>
-  .custom-label-container label {
-  display: inline-block;
-  padding: 10px 20px;
-  font-size: 16px;
-  color: white;
-  background-color: #007bff;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  text-align: center;
-  transition: background-color 0.3s, transform 0.2s;
-  margin: 5px;
-  text-decoration: none;
-}
-
-.custom-label-container label:hover {
-  background-color: #0056b3;
-}
-
-.custom-label-container label:active {
-  transform: scale(0.95);
-}
-
-.custom-label-container .read-more-trigger_opened {
-  background-color: #28a745;
-}
-
-.custom-label-container .read-more-trigger_opened:hover {
-  background-color: #218838;
-}
-
-.custom-label-container .read-more-trigger_opened,
-.custom-label-container .read-more-trigger_closed {
-  display: none;
-}
-
-.custom-label-container #read-more:checked ~ .read-more-trigger_opened {
-  display: inline-block;
-}
-
-.custom-label-container #read-more:not(:checked) ~ .read-more-trigger_closed {
-  display: inline-block;
-}
-  .read-more-target,
-.read-more-trigger_opened {
-  display: none;
-}
-.read-more-state:checked ~ .read-more-wrap .read-more-target,
-.read-more-state:checked ~ .read-more-trigger_opened {
-  display: block;
-}
-.read-more-state:checked ~ .read-more-trigger_closed {
-  display: none;
-}
+.custom-label-container label{display:inline-block;padding:10px 20px;font-size:16px;color:#fff;background-color:#007bff;border:none;border-radius:5px;cursor:pointer;text-align:center;transition:background-color .3s,transform .2s;margin:5px;text-decoration:none}.custom-label-container label:hover{background-color:#0056b3}.custom-label-container label:active{transform:scale(.95)}.custom-label-container .read-more-trigger_opened{background-color:#28a745}.custom-label-container .read-more-trigger_opened:hover{background-color:#218838}.custom-label-container .read-more-trigger_closed,.custom-label-container .read-more-trigger_opened,.read-more-state:checked~.read-more-trigger_closed,.read-more-target,.read-more-trigger_opened{display:none}.custom-label-container #read-more:checked~.read-more-trigger_opened,.custom-label-container #read-more:not(:checked)~.read-more-trigger_closed{display:inline-block}.read-more-state:checked~.read-more-trigger_opened,.read-more-state:checked~.read-more-wrap .read-more-target{display:block}
 </style>
 
 <br>
