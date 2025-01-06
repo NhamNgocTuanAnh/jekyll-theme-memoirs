@@ -72,9 +72,55 @@ document.addEventListener("DOMContentLoaded",()=>{let e=document.getElementById(
 
     </div>
   </div><div class="content" style="text-align:center; ">
-  <label for="read-more" class="read-more-trigger_closed">Read More</label>
-  <label for="read-more" class="read-more-trigger_opened">Read Less</label></div>
+    <div class="custom-label-container">
+      <input type="checkbox" id="read-more" style="display: none;" />
+      <label for="read-more" class="read-more-trigger_closed">Read More</label>
+      <label for="read-more" class="read-more-trigger_opened">Read Less</label>
+    </div></div>
 <style>
+  .custom-label-container label {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+  transition: background-color 0.3s, transform 0.2s;
+  margin: 5px;
+  text-decoration: none;
+}
+
+.custom-label-container label:hover {
+  background-color: #0056b3;
+}
+
+.custom-label-container label:active {
+  transform: scale(0.95);
+}
+
+.custom-label-container .read-more-trigger_opened {
+  background-color: #28a745;
+}
+
+.custom-label-container .read-more-trigger_opened:hover {
+  background-color: #218838;
+}
+
+.custom-label-container .read-more-trigger_opened,
+.custom-label-container .read-more-trigger_closed {
+  display: none;
+}
+
+.custom-label-container #read-more:checked ~ .read-more-trigger_opened {
+  display: inline-block;
+}
+
+.custom-label-container #read-more:not(:checked) ~ .read-more-trigger_closed {
+  display: inline-block;
+}
   .read-more-target,
 .read-more-trigger_opened {
   display: none;
