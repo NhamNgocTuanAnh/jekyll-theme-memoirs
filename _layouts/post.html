@@ -50,13 +50,44 @@ document.addEventListener("DOMContentLoaded",()=>{let e=document.getElementById(
 {% include toc.html content=page.content skip_toc=page.skip_toc%}
 
 <br>
-<div class="content-container">
-  <div class="content-overlay">
 
-{% include article.html %}
+  <input type="checkbox" hidden class="read-more-state" id="read-more">
+  <div class="read-more-wrap">
+    <div class="article-post" id="articlePost">
+      <section id="content">
+        <p>
+          {{ page.excerpt }}
+        </p>
+      </section>
+  </div>
 
-</div></div>
-<div id="the-than"></div>
+    <div class="read-more-target">
+
+      <div class="content-container">
+        <div class="content-overlay">
+
+      {% include article.html %}
+
+      </div></div>
+
+    </div>
+  </div><div class="content" style="text-align:center; ">
+  <label for="read-more" class="read-more-trigger_closed">Read More</label>
+  <label for="read-more" class="read-more-trigger_opened">Read Less</label></div>
+<style>
+  .read-more-target,
+.read-more-trigger_opened {
+  display: none;
+}
+.read-more-state:checked ~ .read-more-wrap .read-more-target,
+.read-more-state:checked ~ .read-more-trigger_opened {
+  display: block;
+}
+.read-more-state:checked ~ .read-more-trigger_closed {
+  display: none;
+}
+</style>
+
 <br>
 
 {% include show-keywords.html %}
