@@ -77,6 +77,31 @@ document.addEventListener("DOMContentLoaded",()=>{let e=document.getElementById(
       <label for="read-more" class="read-more-trigger_closed">Read More</label>
       <label for="read-more" class="read-more-trigger_opened">Read Less</label>
     </div></div>
+    <script>
+      document.getElementById("read-more").addEventListener("change", function () {
+  if (this.checked) {
+    console.log("Read More triggered!");
+    // Gọi hàm của bạn ở đây, ví dụ:
+    handleReadMore();
+  } else {
+    console.log("Read Less triggered!");
+    // Gọi hàm khác nếu cần
+    handleReadLess();
+  }
+});
+function sendAnalyticsEvent(action) {
+  if (typeof ga === "function") {
+    ga("send", "event", "read-new", action, "{{ page.url }}", 10);
+  }
+}
+function handleReadMore() {
+  sendAnalyticsEvent("read-more");
+}
+
+function handleReadLess() {
+  sendAnalyticsEvent("read-less");
+}
+    </script>
 <style>
   .custom-label-container label {
   display: inline-block;
