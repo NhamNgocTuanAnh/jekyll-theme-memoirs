@@ -78,6 +78,7 @@ document.addEventListener("DOMContentLoaded",()=>{let e=document.getElementById(
       <label for="read-more" class="read-more-trigger_opened">Read Less</label>
     </div></div>
     <script>
+      window.scrollTo({top:456,behavior:"smooth"});
       document.getElementById("read-more").addEventListener("change", function () {
   if (this.checked) {
     console.log("Read More triggered!");
