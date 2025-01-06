@@ -54,7 +54,7 @@ document.addEventListener("DOMContentLoaded",()=>{let e=document.getElementById(
     <div class="article-post" id="articlePost">
       <section id="content">
         <p>
-          {{ page.excerpt }}
+          {{ page.excerpt }} . ...
         </p>
       </section>
   </div><div class="read-more-target"><div class="content-container"><div class="content-overlay">
@@ -62,7 +62,7 @@ document.addEventListener("DOMContentLoaded",()=>{let e=document.getElementById(
       {% include article.html %}
 
       </div></div></div>
-  </div><div class="content" style="text-align:center; "><div class="custom-label-container"><input type="checkbox" id="read-more" style="display: none;" /><label for="read-more" class="read-more-trigger_closed">Read More</label><label for="read-more" class="read-more-trigger_opened">Read Less</label></div></div>
+  </div><div class="content" style="text-align:center; "><div class="custom-label-container"><input type="checkbox" id="read-more" style="display: none;" /><label for="read-more" class="read-more-trigger_closed">Đọc tiếp</label><label for="read-more" class="read-more-trigger_opened">Read Less</label></div></div>
     <script>
 function sendAnalyticsEvent(e){"function"==typeof ga&&ga("send","event","read-new",e,"{{ page.url }}",10)}function handleReadMore(){sendAnalyticsEvent("read-more")}function handleReadLess(){sendAnalyticsEvent("read-less")}window.scrollTo({top:456,behavior:"smooth"}),document.getElementById("read-more").addEventListener("change",function(){this.checked?(console.log("Read More triggered!"),handleReadMore()):(console.log("Read Less triggered!"),handleReadLess())});
     </script>
