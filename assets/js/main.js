@@ -1,3 +1,46 @@
+// Lấy tất cả các thẻ <a> trong trang
+const links = document.querySelectorAll('a');
+
+// Thêm sự kiện click vào từng thẻ <a>
+links.forEach(function(link) {
+    link.addEventListener('click', function(event) {
+        event.preventDefault(); // Ngăn chặn hành động mặc định
+        // Hiển thị hiệu ứng loading (ví dụ: spinner)
+        console.log("next page");
+
+        showLoading();
+        // Chờ 1 giây trước khi chuyển hướng
+        setTimeout(() => {
+            window.location.href = link.href; // Chuyển hướng
+        }, 1000);
+    });
+});
+
+// Hàm hiển thị spinner
+function showLoading() {
+    const spinner = document.createElement('div');
+    spinner.style.position = 'fixed';
+    spinner.style.top = '50%';
+    spinner.style.left = '50%';
+    spinner.style.transform = 'translate(-50%, -50%)';
+    spinner.style.border = '4px solid #f3f3f3';
+    spinner.style.borderTop = '4px solid #3498db';
+    spinner.style.borderRadius = '50%';
+    spinner.style.width = '40px';
+    spinner.style.height = '40px';
+    spinner.style.animation = 'spin 1s linear infinite';
+    document.body.appendChild(spinner);
+
+    // Định nghĩa animation CSS (nếu chưa có)
+    const style = document.createElement('style');
+    style.innerHTML = `
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    `;
+    document.head.appendChild(style);
+}
 function isTetDate() {
     const date = new Date();
     const formattedDate = new Intl.DateTimeFormat("vi-u-ca-lunar").format(date);
