@@ -27,7 +27,7 @@ pinned: true
 
 > _Đây là bài viết được trích dẫn từ_ [_photofleem_ ](https://photofleem.com/2020/lightroom-profile-color-portrait-for-sony/) _đã truyền cảm hứng rất lớn cho mình
 
- ### Tại sao màu sắc của Sony và Canon lại khác nhau?
+### Tại sao màu sắc của Sony và Canon lại khác nhau?
 
 <br>
 <div class="content" style="text-align:center; ">
