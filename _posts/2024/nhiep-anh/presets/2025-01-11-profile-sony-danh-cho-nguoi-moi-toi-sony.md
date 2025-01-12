@@ -5,7 +5,7 @@ author: sal
 lazyimages: "enabled"
 categories: [ Nhiếp ảnh 📸 ]
 tags: [preset,Picture Style]
-image: assets/images/2023/nhiep-anh/avt/pictuestyle-avt-classic-chrome.webp
+image: assets/images/profile-sony-a.webp
 isGithubComments: false
 permalink: nhiep-anh/preset/cach-bien-anh-sony-thanh-mau-canon/
 excerpt: Bạn yêu thích màu sắc -trắng hồng- đặc trưng của Canon nhưng đang sở hữu một chiếc máy ảnh Sony? Đừng lo! Trong bài viết này, chúng tôi sẽ hướng dẫn chi tiết cách chỉnh sửa để các bức ảnh từ máy ảnh Sony của bạn có thể mang phong cách màu sắc sống động như Canon.
