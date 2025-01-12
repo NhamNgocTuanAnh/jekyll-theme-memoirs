@@ -117,7 +117,7 @@ Một lần nữa xin cám ơn tác giả [_Photofleem_](https://photofleem.com/
 ### Cách sử dụng Profile:
 
 <div class="content" style="text-align:center; ">
-<img class="lazyload img-thumb loaded lazyloaded" loading="lazy" src="blob:https://imgur.com/5331ff64-d8b9-41b4-8969-a31cab18bf44" title="source: anhhangxomh.xyz" alt="ảnh được chụp từ Canon r8"><br><p>Ảnh được chia sẻ bởi <a href="https://www.facebook.com/nntatlu">anhhangxom</a></p></div>
+<img class="lazyload img-thumb loaded lazyloaded" loading="lazy" src="blob:https://imgur.com/5331ff64-d8b9-41b4-8969-a31cab18bf44" title="source: anhhangxomh.xyz" alt="Thêm color profile"><br><p>Ảnh được chia sẻ bởi <a href="https://www.facebook.com/nntatlu">anhhangxom</a></p></div>
 
 #### lưu ý make up
 
