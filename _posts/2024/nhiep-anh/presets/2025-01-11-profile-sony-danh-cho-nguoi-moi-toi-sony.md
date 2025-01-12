@@ -47,7 +47,7 @@ Màu sắc của Sony và Canon có sự khác biệt lớn, xuất phát từ:
 *   **Cân bằng trắng (White Balance)**: Chỉnh để tạo tông màu ấm hơn, giống màu Canon.
 *   **Creative Style**: Chọn preset màu sắc phù hợp để đạt hiệu ứng mong muốn.
 
-{% include post-by-url.html post_src="/nhiep-anh/reviews/danh-gia-sony-a7-2025-vs-a6000" is_main="true" %}
+{% include post-by-url.html post_src="nhiep-anh/reviews/danh-gia-sony-a7-2025-vs-a6000" is_main="true" %}
 
 #### 2\. Sử dụng Lightroom để hậu kỳ
 
@@ -59,7 +59,7 @@ Màu sắc của Sony và Canon có sự khác biệt lớn, xuất phát từ:
 *   **Capture One**: Công cụ chuyên nghiệp hỗ trợ tinh chỉnh màu sắc chi tiết.
 *   **Photoshop**: Kết hợp Camera Raw và các layer adjustment để tạo tông màu da chuẩn Canon.
 
-{% include post-by-url.html post_src="/nhiep-anh/reviews/danh-gia-sony-a7-2025-vs-a6000" is_main="true" %}
+{% include post-by-url.html post_src="nhiep-anh/preset/lightroom-hoang-hon-xanh-lanh-sieu-dep" is_main="true" %}
 
 ### **Tuyên bố từ chối trách nhiệm**
 
