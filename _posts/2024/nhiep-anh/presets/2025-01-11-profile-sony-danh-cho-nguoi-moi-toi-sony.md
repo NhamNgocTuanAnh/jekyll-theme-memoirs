@@ -27,25 +27,35 @@ pinned: true
 
 > _Đây là bài viết được trích dẫn từ_ [_photofleem_ ](https://photofleem.com/2020/lightroom-profile-color-portrait-for-sony/) _đã truyền cảm hứng rất lớn cho mình
 
-
-### **Lời nói đầu**
-
-Là một người đam mê màu phim, mình đã từng trải qua nhiều dòng máy từ 700D, M10, M3 đến RP. Đặc biệt, mình rất thích chụp ảnh RAW rồi áp preset film, nhất là các preset thuộc dòng FJ (viết tắt của You-Know-Who).
-
-Tuy nhiên, thời gian gần đây, vì nhiều lý do: vừa lười, vừa không phải lúc nào cũng có Lightroom bên cạnh để chỉnh sửa, mình bắt đầu tìm kiếm một giải pháp "ăn liền" hơn. Nhưng các preset FJ thì lại quá đắt đỏ.
+ ### Tại sao màu sắc của Sony và Canon lại khác nhau?
 
 <br>
 <div class="content" style="text-align:center; ">
-<img class="lazyload img-thumb loaded lazyloaded" loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczPft8HzeFD8uv0wwGj8mwv7ojoCWFqSgLOUO-clet4kb4fRMJNhkd1f-EqbSgFZlUrxS6N-8arZzJ2xkxe0bMTdlzlpaTZQ7-PI0alsgcHPGBBFyKLdneXlbwwEyQyA7WaQ2shXcDXmNR3g4SRm462Pyw=w1053-h865-s-no-gm?authuser=1" title="source: imgur.com" alt="ảnh được chụp từ Canon r8"><br><p>Ảnh được chia sẻ bởi <a href="https://www.facebook.com/sonhaui18897/">Sơn</a></p></div>
+<img class="lazyload img-thumb loaded lazyloaded" loading="lazy" src="https://i.imgur.com/kyS92wJ.jpeg" title="source: photofleem.com" alt="ảnh được trích dẫn từ photofleem.com"><br><p>ảnh được trích dẫn từ photofleem.com <a href="https://photofleem.com/2020/lightroom-profile-color-portrait-for-sony">Sơn</a></p></div>
 
-Vậy tại sao không chuyển preset thành Picture Style để tận dụng các đặc tính của màu phim ngay từ lúc chụp? Đây là câu hỏi mình tự đặt ra khi nhận ra Canon đã rất ưu ái người dùng, cung cấp đến 3 giả lập màu xuyên suốt qua nhiều năm. Ở Việt Nam, cũng có một số ít người làm về lĩnh vực này nhưng dường như chưa được chú ý nhiều.
+Màu sắc của Sony và Canon có sự khác biệt lớn, xuất phát từ:
 
-<div class="content" style="text-align:center; ">
-<img class="lazyload img-thumb loaded lazyloaded" loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczMDYA-Kz-d2xEDFVBh0qON3QiK7uB4S6dh7yp-MKR9Sx2vjCjC0LxO1Lx436Ypz6hUnOxGpp8KRlvCfWX6qsnbrr6JbpFTrpwCZ52yZW0YnrcWpJbBJTUh5SKcB2lmlQK1reUGBDaNaDa5meoYL3oPTPg=w1053-h865-s-no-gm?authuser=1" title="source: imgur.com" alt="ảnh được chụp từ Canon r8"><br><p>Ảnh được chia sẻ bởi <a href="https://www.facebook.com/sonhaui18897/">Sơn</a></p></div>
+*   **Cảm biến và bộ xử lý hình ảnh**: Công nghệ độc quyền của mỗi hãng dẫn đến cách tái tạo màu sắc riêng biệt.
+*   **Profile màu mặc định**: Các cài đặt sẵn trong máy ảnh ảnh hưởng đến tông màu cuối cùng.
+*   **Ống kính**: Ống kính khác nhau cũng tạo ra sự khác biệt về màu sắc và ánh sáng.
 
-May mắn thay, mình biết đến một bạn nước ngoài, thông qua CanonStyle, đã chia sẻ một Picture Style tự làm, mang tên CC Smell-a-like for Canon Cameras. Mình rất cảm ơn bạn ấy vì điều này! 🌟. Và nay mình xin được chia sẻ lại vì 1 số lý do nào đó, web của bạn ấy đã không còn file đó nữa.
+### Hướng dẫn cách chỉnh màu ảnh Sony thành phong cách Canon
 
-**Mình vẫn nhớ rõ chiếc Canon M3 nhỏ gọn với ống kính** [22mm](https://anhhangxom.xyz/nhiep-anh/reviews/danh-gia-canon-ef-m-22mm-f2-ong-ke-bi-lang-quen)**. Nó nhẹ nhàng nhưng lại đáp ứng đủ nhu cầu chụp ảnh hàng ngày của mình. Khi khám phá ra sức mạnh của JPEG và những preset biến ảnh thành phong cách film, mình đã rất thích thú. Tuy nhiên, việc chỉnh sửa thêm trên Lightroom để đạt được hiệu ứng ưng ý khiến mình cảm thấy hơi bất tiện. Vì vậy, mình muốn giới thiệu đến các bạn tính năng Canon Picture Style - một công cụ tuyệt vời giúp máy ảnh Canon xử lý ảnh ngay từ bên trong, tạo ra những bức ảnh JPEG chất lượng cao và đậm chất riêng.**
+#### 1\. Điều chỉnh trong máy ảnh Sony
+
+*   **Picture Profile**: Tùy chỉnh các thông số như độ tương phản, bão hòa và sắc độ.
+*   **Cân bằng trắng (White Balance)**: Chỉnh để tạo tông màu ấm hơn, giống màu Canon.
+*   **Creative Style**: Chọn preset màu sắc phù hợp để đạt hiệu ứng mong muốn.
+
+#### 2\. Sử dụng Lightroom để hậu kỳ
+
+*   **Lightroom Presets**: Áp dụng các preset màu Canon có sẵn để nhanh chóng chuyển đổi màu sắc.
+*   **Điều chỉnh thủ công**: Tinh chỉnh White Balance, Curves, HSL, và Split Toning để kiểm soát tối đa.
+
+#### 3\. Sử dụng các phần mềm chỉnh sửa khác
+
+*   **Capture One**: Công cụ chuyên nghiệp hỗ trợ tinh chỉnh màu sắc chi tiết.
+*   **Photoshop**: Kết hợp Camera Raw và các layer adjustment để tạo tông màu da chuẩn Canon.
 
 {% include post-by-url.html post_src="du-lich/tro-lai-ninh-binh" is_main="true" %}
 
@@ -57,30 +67,13 @@ May mắn thay, mình biết đến một bạn nước ngoài, thông qua Canon
 *   mình vẫn đang làm quen với phần mềm Canon (hiện không phải fan lắm).
 *   mình làm điều này để vui, hy vọng bạn cũng vậy.
 
-<div class="content" style="text-align:center; ">
-<img class="lazyload img-thumb loaded lazyloaded" loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczMwOhLoB7NloAQVu19YyJVOsNrpe-kp3CfugvNCvT8F245NfhQNijUFd927G3L7smb9FUakx36yRgYmyhQLFjzpn1G5y0EgvmY59-qJe0ygudNkkzQVsj4wXpVdJHxOn63pBwJrRqkK_x6wiqMcK9Qg_A=w1053-h865-s-no-gm?authuser=1" title="source: imgur.com" alt="ảnh được chụp từ Canon r8"><br><p>Ảnh được chia sẻ bởi <a href="https://www.facebook.com/sonhaui18897/">Sơn</a></p></div>
-
-Dưới đây là 1 số bài viết tham khảo đến từ các nhiếp ảnh gia Việt Nam.
-
-<div class="video-container">
-<iframe src="https://www.youtube.com/embed/pw0GAaJ-DsE" title="Hướng dẫn thêm Picture Style màu Film, trong trẻo chụp ăn liền vào máy ảnh Canon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-<br>
-<div class="video-container">
-<iframe src="https://www.youtube.com/embed/l1RndPxf9tA" title="Picture Style màu trong trẻo VIP cho canon, chụp phát ăn ngay từ file gốc JPG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-<style>
-iframe{margin:auto;display:block}.video-container{position:relative;padding-bottom:56.25%}.video-container iframe{position:absolute;top:0;left:0;width:100%;height:100%}.video{aspect-ratio:16/9;width:100%}
-</style>
-
-*   [_Aphoto - Chia sẻ Picture Style màu film chụp phát ăn ngay từ file gốc cho Canon_](https://aphoto.vn/chia-se-picture-style-mau-film-chup-phat-an-ngay-tu-file-goc-cho-canon/)
-*   [_Duongcuong -  Picture Style màu chân dung trong trẻo cho máy ảnh Canon_](https://duongcuong.com/picture-style-mau-chan-dung-trong-treo-cho-may-anh-canon/)
-
 <style>
 table{border-collapse:collapse;border-spacing:0;margin:0 auto;width:700px}table td,table th{border:1px solid #ccc;padding:10px}table th{background-color:#f3f3f3}@media only screen and (max-width:700px){table{margin:0 10px;width:auto}}@media only screen and (max-width:480px){table td,table th{display:block;border-bottom:none}table tr:last-child td{border-bottom:1px solid #ccc}}
 #resultIm{display:none;}
 </style>
 <div id="table-download"></div>
 <script>
-let linkDownload="https://www.canonstyle.com/downloads";let h2=document.createElement("h2");h2.style.fontStyle="normal",h2.style.marginLeft="0",h2.style.marginRight="0",h2.style.textAlign="start";let strong=document.createElement("strong");strong.textContent="Tải về",h2.appendChild(strong);let p=document.createElement("p");p.style.textAlign="center";let em=document.createElement("em");em.textContent="(Nếu link tải kh\xf4ng hoạt động, c\xe1c bạn vui l\xf2ng comment b\xean dưới để được hỗ trợ sớm nhất)",p.appendChild(em);let table=document.createElement("table"),tr1=document.createElement("tr"),th1=document.createElement("th");th1.textContent="Upload";let td1=document.createElement("td");td1.textContent="AnhHangXom",tr1.appendChild(th1),tr1.appendChild(td1);let tr2=document.createElement("tr"),th2=document.createElement("th");th2.textContent="Link";let td2=document.createElement("td"),pResult=document.createElement("p");pResult.id="result";let aDownload=document.createElement("a");aDownload.href=linkDownload,aDownload.target="_blank",aDownload.classList.add("item-link","item-content","link","external"),aDownload.id="facebook",aDownload.textContent="🚩🚩🚩Tải xuống",aDownload.onclick=function(t){getHrefOnclickAndRedirectWithLink(t)};let imgResultIm=document.createElement("img");imgResultIm.loading="lazy",imgResultIm.id="resultIm",imgResultIm.src="https://i.stack.imgur.com/SBv4T.gif",imgResultIm.alt="Computer man",imgResultIm.width="250",td2.appendChild(pResult),td2.appendChild(aDownload),td2.appendChild(imgResultIm),tr2.appendChild(th2),tr2.appendChild(td2);let tr3=document.createElement("tr"),th3=document.createElement("th");th3.textContent="Pass(Nếu có)";let td3=document.createElement("td");td3.textContent="anhhangxom.xyz",tr3.appendChild(th3),tr3.appendChild(td3),table.appendChild(tr1),table.appendChild(tr2),table.appendChild(tr3);let tableDownloadDiv=document.getElementById("table-download");tableDownloadDiv.appendChild(h2),tableDownloadDiv.appendChild(p),tableDownloadDiv.appendChild(table);
+let linkDownload="https://photofleem.com/2020/lightroom-profile-color-portrait-for-sony/";let h2=document.createElement("h2");h2.style.fontStyle="normal",h2.style.marginLeft="0",h2.style.marginRight="0",h2.style.textAlign="start";let strong=document.createElement("strong");strong.textContent="Tải về",h2.appendChild(strong);let p=document.createElement("p");p.style.textAlign="center";let em=document.createElement("em");em.textContent="(Nếu link tải kh\xf4ng hoạt động, c\xe1c bạn vui l\xf2ng comment b\xean dưới để được hỗ trợ sớm nhất)",p.appendChild(em);let table=document.createElement("table"),tr1=document.createElement("tr"),th1=document.createElement("th");th1.textContent="Upload";let td1=document.createElement("td");td1.textContent="AnhHangXom",tr1.appendChild(th1),tr1.appendChild(td1);let tr2=document.createElement("tr"),th2=document.createElement("th");th2.textContent="Link";let td2=document.createElement("td"),pResult=document.createElement("p");pResult.id="result";let aDownload=document.createElement("a");aDownload.href=linkDownload,aDownload.target="_blank",aDownload.classList.add("item-link","item-content","link","external"),aDownload.id="facebook",aDownload.textContent="🚩🚩🚩Tải xuống",aDownload.onclick=function(t){getHrefOnclickAndRedirectWithLink(t)};let imgResultIm=document.createElement("img");imgResultIm.loading="lazy",imgResultIm.id="resultIm",imgResultIm.src="https://i.stack.imgur.com/SBv4T.gif",imgResultIm.alt="Computer man",imgResultIm.width="250",td2.appendChild(pResult),td2.appendChild(aDownload),td2.appendChild(imgResultIm),tr2.appendChild(th2),tr2.appendChild(td2);let tr3=document.createElement("tr"),th3=document.createElement("th");th3.textContent="Pass(Nếu có)";let td3=document.createElement("td");td3.textContent="anhhangxom.xyz",tr3.appendChild(th3),tr3.appendChild(td3),table.appendChild(tr1),table.appendChild(tr2),table.appendChild(tr3);let tableDownloadDiv=document.getElementById("table-download");tableDownloadDiv.appendChild(h2),tableDownloadDiv.appendChild(p),tableDownloadDiv.appendChild(table);
 function redirect(){setInterval(myURL,30e3),document.getElementById("result").innerHTML="<b>🕵️ Đang tạo link tải. Bạn đợi tẹo nha ;)"}
 function myURL(){document.location.href=linkDownload,toggleImage(),clearInterval(interval)}
 function toggleImage() {document.getElementById("resultIm").style.display = "block";
@@ -113,14 +106,12 @@ function toggleImage() {document.getElementById("resultIm").style.display = "blo
 .my-container .copy { position: absolute; bottom: 5vh; left: 50%; transform: translateX(-50%); color: #fff;
 }</style>
 
-Một lần nữa xin cám ơn tác giả [_CanonStyle_](https://www.canonstyle.com/blog/canassic-chrome-1/)
+Một lần nữa xin cám ơn tác giả [_Photofleem_](https://photofleem.com/2020/lightroom-profile-color-portrait-for-sony/)
 
-### Góc ý cải thiện:
+### Cách sử dụng Profile:
 
 <div class="content" style="text-align:center; ">
-<img class="lazyload img-thumb loaded lazyloaded" loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczODP08FtwmGT8JIyhZPWLo9tjBojGcx3d9KuK5s0DAsdPlCN4GNdWX6rlcHhx6sg9n3G3ewX6VX11DJ52Sh9NN9NqFKITW0saZ6v19i87EcGii7UwIlI4ZlZMJf2OjUtEHk2LMg69e5tFd0dAtM9W_X1g=w1053-h865-s-no-gm?authuser=1" title="source: imgur.com" alt="ảnh được chụp từ Canon r8"><br><p>Ảnh được chia sẻ bởi <a href="https://www.facebook.com/sonhaui18897/">Sơn</a></p></div>
-
-Mặc dù Picture Style trên Canon không có độ tùy chỉnh sâu sắc như Fujifilm, nhưng chúng ta vẫn có thể tạo ra những bức ảnh mang đậm chất điện ảnh bằng cách mô phỏng các chế độ màu đặc trưng của hãng này.
+<img class="lazyload img-thumb loaded lazyloaded" loading="lazy" src="blob:https://imgur.com/0e69bd59-eb58-4a06-a4ce-4a6d8a30c1f6" title="source: anhhangxomh.xyz" alt="ảnh được chụp từ Canon r8"><br><p>Ảnh được chia sẻ bởi <a href="https://www.facebook.com/nntatlu">Sơn</a></p></div>
 
 #### lưu ý make up
 
@@ -128,8 +119,6 @@ Mặc dù Picture Style trên Canon không có độ tùy chỉnh sâu sắc nh�
 
 #### lưu ý thông số chụp
 
-*   **Classic Chrome** là một trong những chế độ màu được yêu thích nhất của Fujifilm, với tông màu trầm ấm, độ bão hòa vừa phải và cảm giác cổ điển. Để tạo ra những bức ảnh mùa đông ấn tượng với phong cách này trên máy Canon, bạn có thể tham khảo những thiết lập sau:
-*   **Chọn Picture Style:** Đặt máy ảnh về chế độ Picture Style mô phỏng gần nhất với Classic Chrome.
 *   **Tốc độ màn trập:** Do điều kiện ánh sáng yếu, hãy cố định tốc độ màn trập ở khoảng 1/180s - 1/200s để tránh bị nhòe ảnh.
 *   **ISO:** Để máy tự động điều chỉnh ISO trong khoảng 200 - 2000. Với ảnh đường phố, noise (nhiễu hạt) không quá quan trọng bằng việc bắt trọn khoảnh khắc.
 *   **Khẩu độ:** Chọn khẩu độ từ F2.8 đến F4 để đảm bảo đủ sáng và độ sâu trường ảnh vừa phải.
