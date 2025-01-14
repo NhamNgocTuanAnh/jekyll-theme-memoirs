@@ -40,14 +40,6 @@ function sendAnalyticsEvent(e){"function"==typeof ga&&ga("send","event","read-ne
     </script>
 <style>
 .custom-label-container label{display:inline-block;padding:10px 20px;font-size:16px;color:#fff;background-color:#007bff;border:none;border-radius:5px;cursor:pointer;text-align:center;transition:background-color .3s,transform .2s;margin:5px;text-decoration:none}.custom-label-container label:hover{background-color:#0056b3}.custom-label-container label:active{transform:scale(.95)}.custom-label-container .read-more-trigger_opened{background-color:#28a745}.custom-label-container .read-more-trigger_opened:hover{background-color:#218838}.custom-label-container .read-more-trigger_closed,.custom-label-container .read-more-trigger_opened,.read-more-state:checked~.read-more-trigger_closed,.read-more-target,.read-more-trigger_opened{display:none}.custom-label-container #read-more:checked~.read-more-trigger_opened,.custom-label-container #read-more:not(:checked)~.read-more-trigger_closed{display:inline-block}.read-more-state:checked~.read-more-trigger_opened,.read-more-state:checked~.read-more-wrap .read-more-target{display:block}
-/* Khi checkbox được chọn, ẩn "Đọc tiếp" và hiển thị "Read Less" */
-#read-more:checked ~ .read-more-trigger_closed {
-  display: none;
-}
-
-#read-more:checked ~ .read-more-trigger_opened {
-  display: inline-block;
-}
 </style>
 
 <br>
@@ -97,7 +89,7 @@ function sendAnalyticsEvent(e){"function"==typeof ga&&ga("send","event","read-ne
         return; // Không thực hiện tiếp nếu không có bài viết nào
     }
     let timeOnSite=0;function trackTimeOnSite(){(timeOnSite+=100)>=15e3&&(createSnackbar(randomPost),setTimeout(()=>showSnackbar(),1e3),clearInterval(intervalId))}const intervalId=setInterval(trackTimeOnSite,100);
-});function showSnackbar(){let e=document.getElementById("snackbar");e&&e.classList.add("show")}</script>
+});function showSnackbar(){let e=document.getElementById("snackbar");e&&e.classList.add("show")};document.addEventListener("DOMContentLoaded",function(){let e=document.querySelector(".read-more-trigger_closed"),n=document.querySelector(".read-more-trigger_opened");n.style.display="none",e.addEventListener("click",function(){e.style.display="none",n.style.display="inline"}),n.addEventListener("click",function(){n.style.display="none",e.style.display="inline"})});</script>
 
 <div class="rating mt-4 mb-4 d-flex align-items-center">
   <span id="busuanzi_container_page_pv">Trang web của bạn đã được xem: <span id="busuanzi_value_page_pv"></span> lần</span>
