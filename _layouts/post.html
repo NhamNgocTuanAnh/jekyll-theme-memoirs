@@ -40,6 +40,14 @@ function sendAnalyticsEvent(e){"function"==typeof ga&&ga("send","event","read-ne
     </script>
 <style>
 .custom-label-container label{display:inline-block;padding:10px 20px;font-size:16px;color:#fff;background-color:#007bff;border:none;border-radius:5px;cursor:pointer;text-align:center;transition:background-color .3s,transform .2s;margin:5px;text-decoration:none}.custom-label-container label:hover{background-color:#0056b3}.custom-label-container label:active{transform:scale(.95)}.custom-label-container .read-more-trigger_opened{background-color:#28a745}.custom-label-container .read-more-trigger_opened:hover{background-color:#218838}.custom-label-container .read-more-trigger_closed,.custom-label-container .read-more-trigger_opened,.read-more-state:checked~.read-more-trigger_closed,.read-more-target,.read-more-trigger_opened{display:none}.custom-label-container #read-more:checked~.read-more-trigger_opened,.custom-label-container #read-more:not(:checked)~.read-more-trigger_closed{display:inline-block}.read-more-state:checked~.read-more-trigger_opened,.read-more-state:checked~.read-more-wrap .read-more-target{display:block}
+/* Khi checkbox được chọn, ẩn "Đọc tiếp" và hiển thị "Read Less" */
+#read-more:checked ~ .read-more-trigger_closed {
+  display: none;
+}
+
+#read-more:checked ~ .read-more-trigger_opened {
+  display: inline-block;
+}
 </style>
 
 <br>
