@@ -22,7 +22,13 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'UA-192636660-1');
-document.addEventListener('DOMContentLoaded',function(){const currentMonth=new Date().getMonth()+1;const addLink=(href)=>{const link=document.createElement('link');link.rel='stylesheet';link.href=href;document.head.appendChild(link)};switch(currentMonth){case 11:case 12:addLink('{{ site.baseurl }}/assets/css/snow.css');const script=document.createElement('script');script.src='{{ site.baseurl }}/assets/js/snowflakes.js';script.async=!0;document.body.appendChild(script);break;case 9:case 10:addLink('{{ site.baseurl }}/assets/css/trungthu.css');</script>
+
+document.addEventListener('DOMContentLoaded',function(){const currentMonth=new Date().getMonth()+1;const addLink=(href)=>{const link=document.createElement('link');link.rel='stylesheet';link.href=href;document.head.appendChild(link)};switch(currentMonth){case 11:case 12:addLink('{{ site.baseurl }}/assets/css/snow.css');const script=document.createElement('script');script.src='{{ site.baseurl }}/assets/js/snowflakes.js';script.async=!0;document.body.appendChild(script);break;case 9:case 10:addLink('{{ site.baseurl }}/assets/css/trungthu.css');const midAutumnMessage=document.getElementById("mid-autumn-message");if(midAutumnMessage)midAutumnMessage.style.display="block";break;case 1:case 2:addLink('/assets/css/tet.css');createSnowfallEffect();break}})
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-T53P5GTK');</script>
 
 </head>
 
