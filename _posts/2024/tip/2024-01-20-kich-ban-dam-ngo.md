@@ -90,104 +90,65 @@ Lễ dạm ngõ không chỉ thể hiện sự tôn trọng giữa hai gia đìn
     *   Bố cô dâu đáp lời, đồng ý và cảm ơn thiện chí của nhà trai.
     *   Ví dụ: "Chúng tôi rất vui mừng và đồng ý với nguyện vọng của gia đình nhà trai. Mong rằng hai cháu sẽ hạnh phúc và xây dựng gia đình êm ấm."
 
-  <div class="custom-container">
-    <button id="custom-readButton" class="custom-button">Đọc</button>
-    <div id="custom-hiddenText" class="custom-hidden-text">
-      Đây là văn bản được ẩn. Sau khi nhấn nút "Đọc", bạn sẽ thấy nó sau 10 giây!
-    </div>
-    <div id="custom-loading" class="custom-loading hidden">Đang tải...</div>
-    <div id="custom-countdown" class="custom-countdown hidden"></div>
-  </div>
-<style>.custom-container {
-  text-align: center;
-}
-
-.custom-button {
-  padding: 10px 20px;
+    <button style="  padding: 10px 20px;
   font-size: 16px;
   color: #fff;
   background-color: #007bff;
   border: none;
   border-radius: 5px;
   cursor: pointer;
-  transition: background-color 0.3s ease;
-}
-
-.custom-button:hover {
+  transition: background-color 0.3s ease;" id="anhien-readButton">Đọc</button>
+    <div id="anhien-countdown" class="countdown hidden"></div>
+    <div id="anhien-hiddenContent" class="hidden-content hidden">
+      Đây là nội dung được ẩn. Bạn đã chờ đủ 30 giây!
+    </div>
+<style>
+button:hover {
   background-color: #0056b3;
 }
 
-.custom-hidden-text {
-  margin-top: 20px;
-  font-size: 18px;
-  color: #333;
-  display: none; /* Ẩn văn bản ban đầu */
-}
-
-.custom-loading {
-  margin-top: 20px;
-  font-size: 18px;
-  color: #007bff;
-  display: none; /* Ẩn hiệu ứng tải ban đầu */
-}
-
 .hidden {
-  display: none !important;
+  display: none;
 }
 
-@keyframes custom-pulse {
-  0% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0.5;
-  }
-  100% {
-    opacity: 1;
-  }
-}
-
-.custom-loading:not(.hidden) {
-  animation: custom-pulse 1s infinite;
-}
-
-/* Hiệu ứng cho countdown */
-.custom-countdown {
+.countdown {
   margin-top: 20px;
   font-size: 24px;
   font-weight: bold;
   color: #e74c3c;
-  display: none; /* Ẩn ban đầu */
+}
+
+.hidden-content {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
 }</style>
 <script>document.addEventListener("DOMContentLoaded", function () {
-  const readButton = document.getElementById('custom-readButton');
-  const hiddenText = document.getElementById('custom-hiddenText');
-  const loading = document.getElementById('custom-loading');
-  const countdownElement = document.getElementById('custom-countdown');
+  const readButton = document.getElementById('anhien-readButton');
+  const countdownElement = document.getElementById('anhien-countdown');
+  const hiddenContent = document.getElementById('anhien-hiddenContent');
 
   readButton.addEventListener('click', function () {
-    // Thời gian đếm ngược (10 giây)
-    let timeLeft = 10;
+    // Thời gian đếm ngược (30 giây)
+    let timeLeft = 30;
 
-    // Hiển thị hiệu ứng tải và countdown
-    loading.classList.remove('hidden');
+    // Hiển thị phần tử đếm ngược
     countdownElement.classList.remove('hidden');
-    countdownElement.textContent = `Văn bản sẽ hiển thị trong ${timeLeft} giây...`;
+    countdownElement.textContent = `Vui lòng chờ ${timeLeft} giây...`;
 
     // Bắt đầu đếm ngược
     const countdownInterval = setInterval(() => {
       timeLeft--;
-      countdownElement.textContent = `Văn bản sẽ hiển thị trong ${timeLeft} giây...`;
+      countdownElement.textContent = `Vui lòng chờ ${timeLeft} giây...`;
 
       if (timeLeft <= 0) {
         clearInterval(countdownInterval); // Dừng đếm ngược
 
-        // Ẩn hiệu ứng tải và countdown
-        loading.classList.add('hidden');
+        // Ẩn phần tử đếm ngược
         countdownElement.classList.add('hidden');
 
-        // Hiển thị văn bản ẩn
-        hiddenText.style.display = 'block';
+        // Hiển thị nội dung được ẩn
+        hiddenContent.classList.remove('hidden');
       }
     }, 1000); // Cập nhật mỗi giây
   });
