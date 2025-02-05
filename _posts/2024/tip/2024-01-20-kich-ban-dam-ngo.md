@@ -199,6 +199,11 @@ Lễ dạm ngõ không chỉ thể hiện sự tôn trọng giữa hai gia đìn
 
 Lễ dạm ngõ không chỉ là nghi thức mở đầu cho quá trình hôn nhân mà còn là dịp để hai gia đình gắn kết, tạo dựng mối quan hệ tốt đẹp. Đây cũng là cách để cha mẹ hai bên thể hiện sự quan tâm và chúc phúc cho hạnh phúc của con cái.
 
-### **Boxed Answer:**
-
-{Lễ dạm ngõ là nghi thức đầu tiên trong thủ tục cưới hỏi truyền thống, nơi nhà trai đến nhà gái để xin phép cho đôi nam nữ tiến tới hôn nhân. Kịch bản lễ dạm ngõ bao gồm các bước: chuẩn bị mâm lễ, chào hỏi, dâng lễ vật, cúng gia tiên, trao đổi và kết thúc bằng bữa cơm thân mật.}
+<div style="      width: 90%;
+      max-width: 800px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      overflow: hidden;">
+    <!-- Thay thế URL bên dưới bằng URL từ Google Docs -->
+    <iframe src="https://docs.google.com/document/d/1VHa6eC3TyYa1uGoIjHBTc-ye9q4Su3I8ORBE2XPHMJo/edit?usp=sharing "></iframe>
+  </div>
