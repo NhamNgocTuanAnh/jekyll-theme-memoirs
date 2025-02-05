@@ -25,6 +25,9 @@ skip_toc: true
 
 Lễ dạm ngõ (hay còn gọi là lễ chạm ngõ/xem mặt) là nghi thức đầu tiên trong các nghi lễ cưới hỏi truyền thống của người miền Bắc Việt Nam. Đây là buổi gặp gỡ chính thức giữa hai gia đình, nơi nhà trai đến nhà gái để bày tỏ nguyện vọng kết thông gia. Lễ này mang tính chất đơn giản, thân mật nhưng đánh dấu sự khởi đầu cho mối quan hệ hôn nhân.
 
+<div style="text-align:center; ">
+<img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczNrObtHJAZHWp6CMbZ2dnhNr-X5QfF-TzEtoZ6BCCq6_yA6x_Mty6BU7t9g6QhxSc2PR3Eoonz5BID5mfhPfOSM3FdzVWJF3vzBhfMXyDqlyDanah1dCBY6Y0NrXOxnUBdliQ6c8IGvmLuq43bv-FxfMA=w1376-h917-s-no-gm?authuser=1" title="sigma 24-105 f4 canon r8" alt="sigma 24-105 f4"></div>
+
 Lễ dạm ngõ không chỉ thể hiện sự tôn trọng giữa hai gia đình mà còn là cách để cha mẹ hai bên chúc phúc cho hạnh phúc của con cái. Đây cũng là dịp để hai bên gắn kết, tạo dựng mối quan hệ lâu dài.
 
 #### **2\. Kịch bản chi tiết lễ dạm ngõ**
@@ -32,6 +35,9 @@ Lễ dạm ngõ không chỉ thể hiện sự tôn trọng giữa hai gia đìn
 **A. Chuẩn bị trước lễ dạm ngõ**
 
 **1\. Nhà trai:**
+
+<div style="text-align:center; ">
+<img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczPJdAAiDwSxud1WOp7pZdcl5G_ofUXdtlBA6LoH7psGyKLVxRfuyiCBPUhE_a8kRJDOz3V49xNimKTPku7HTzQKnsfpwE-VPszHChAGOXbh7_W2CkZNBYv3wUOP7jfjPnexOB-uMYJjDHsQttwk9K0qeQ=w908-h605-s-no-gm?authuser=0" ></div>
 
 *   **Lễ vật:**
     *   Trầu cau (1 cơi trầu têm cánh phượng, 1 quả cau tươi).
