@@ -82,7 +82,7 @@ Lễ dạm ngõ không chỉ thể hiện sự tôn trọng giữa hai gia đìn
     *   Ví dụ: "Chúng tôi rất mong nhận được sự đồng ý từ gia đình nhà gái để hai cháu tiến tới hôn nhân. Chúng tôi cam kết sẽ chăm sóc và yêu thương con gái nhà mình như con cháu trong nhà."
 
 <div class="video-container">
-<iframe width="640" height="360" src="https://www.youtube.com/embed/ascpeYtE6gM" title="HƯỚNG DẪN PHÁT BIỂU DẠM NGÕ-CHẠM NGÕ-LỄ NÓI." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ascpeYtE6gM" title="HƯỚNG DẪN PHÁT BIỂU DẠM NGÕ-CHẠM NGÕ-LỄ NÓI." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><p></p><br></iframe>
 </div><div class="video-container">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/AmGuSIPrY5w" title="LỄ DẠM NGÕ/ Nhà trai phát biểu-Mẫu đầy đủ-Ý nghĩa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
