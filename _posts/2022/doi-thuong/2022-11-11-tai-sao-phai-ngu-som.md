@@ -57,7 +57,3 @@ Dậy sớm để thành công. Cú lừa.
 Nói ít hiểu nhiều. Anh em thức khuya thường là những người sáng tạo. Mình là coder, nhiều hôm trằn trọc code vẫn thức như thường. Mình ăn uống điều độ, hạn chế( Hạn chế thôi nhé) việc thức sau 11h. Mình còn đi chơi tưng bừng nữa chứ. Nếu dậy sớm không để làm gì hoặc i ngủ sớm trong khi còn cả núi việc thì không nên. Nên bạn hãy biết cân bằng nhé.
 
 {% include lazyload.html image_src="../../assets/images/2022/doi-thuong/giac_ngu_cua_meo_0.webp" image_alt="ngủ sớm quan trọng" image_title="Mình đăng bài muộn nên ba bích đánh trước, chúc ngủ ngon :3" %}
-
-<style>
-iframe{margin:auto;display:block}.video-container{position:relative;padding-bottom:56.25%}.video-container iframe{position:absolute;top:0;left:0;width:100%;height:100%}.video{aspect-ratio:16/9;width:100%}
-</style>
