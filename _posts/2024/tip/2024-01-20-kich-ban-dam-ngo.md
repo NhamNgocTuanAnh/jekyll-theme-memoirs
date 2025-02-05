@@ -96,8 +96,13 @@ Lễ dạm ngõ không chỉ thể hiện sự tôn trọng giữa hai gia đìn
       Đây là văn bản được ẩn. Sau khi nhấn nút "Đọc", bạn sẽ thấy nó sau 10 giây!
     </div>
     <div id="custom-loading" class="custom-loading hidden">Đang tải...</div>
+    <div id="custom-countdown" class="custom-countdown hidden"></div>
   </div>
-<style>.custom-button {
+<style>.custom-container {
+  text-align: center;
+}
+
+.custom-button {
   padding: 10px 20px;
   font-size: 16px;
   color: #fff;
@@ -144,24 +149,47 @@ Lễ dạm ngõ không chỉ thể hiện sự tôn trọng giữa hai gia đìn
 
 .custom-loading:not(.hidden) {
   animation: custom-pulse 1s infinite;
+}
+
+/* Hiệu ứng cho countdown */
+.custom-countdown {
+  margin-top: 20px;
+  font-size: 24px;
+  font-weight: bold;
+  color: #e74c3c;
+  display: none; /* Ẩn ban đầu */
 }</style>
 <script>document.addEventListener("DOMContentLoaded", function () {
   const readButton = document.getElementById('custom-readButton');
   const hiddenText = document.getElementById('custom-hiddenText');
   const loading = document.getElementById('custom-loading');
+  const countdownElement = document.getElementById('custom-countdown');
 
   readButton.addEventListener('click', function () {
-    // Hiển thị hiệu ứng tải
+    // Thời gian đếm ngược (10 giây)
+    let timeLeft = 10;
+
+    // Hiển thị hiệu ứng tải và countdown
     loading.classList.remove('hidden');
+    countdownElement.classList.remove('hidden');
+    countdownElement.textContent = `Văn bản sẽ hiển thị trong ${timeLeft} giây...`;
 
-    // Đợi 10 giây trước khi hiển thị văn bản
-    setTimeout(function () {
-      // Ẩn hiệu ứng tải
-      loading.classList.add('hidden');
+    // Bắt đầu đếm ngược
+    const countdownInterval = setInterval(() => {
+      timeLeft--;
+      countdownElement.textContent = `Văn bản sẽ hiển thị trong ${timeLeft} giây...`;
 
-      // Hiển thị văn bản
-      hiddenText.style.display = 'block';
-    }, 10000); // 10 giây = 10000ms
+      if (timeLeft <= 0) {
+        clearInterval(countdownInterval); // Dừng đếm ngược
+
+        // Ẩn hiệu ứng tải và countdown
+        loading.classList.add('hidden');
+        countdownElement.classList.add('hidden');
+
+        // Hiển thị văn bản ẩn
+        hiddenText.style.display = 'block';
+      }
+    }, 1000); // Cập nhật mỗi giây
   });
 });</script>
 
