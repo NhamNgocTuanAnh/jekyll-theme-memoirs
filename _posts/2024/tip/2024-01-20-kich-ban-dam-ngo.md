@@ -34,6 +34,32 @@ Lễ dạm ngõ không chỉ thể hiện sự tôn trọng giữa hai gia đìn
 
 <div class="content" style="text-align:center; ">
   <a href="https://i.imgur.com/CyvnrVL"><img class="lazyload" loading="lazy" src="https://i.imgur.com/CyvnrVL.png" title="source: imgur.com" /></a></div>
+<div class="my-container"> <div class="button"> <input type="radio" class="radio"> <a class="download">Download</a> <a class="open" href="https://docs.google.com/document/d/1VHa6eC3TyYa1uGoIjHBTc-ye9q4Su3I8ORBE2XPHMJo/edit?usp=sharing">Dạm Ngõ - Minh Thể Media</a> </div></div><style>.my-container { font-family: 'Poppins', sans-serif; display: flex; flex-wrap: wrap; align-items: center; margin: 0; padding: 0; background: #7c0fd1; text-align: center;
+}
+.my-container .button { position: relative; width: 200px; height: auto; margin: 40px auto; display: flex; flex-wrap: wrap; align-items: center; justify-content: center; color: #fff;
+}
+.my-container .radio { position: absolute; opacity: 0; width: 100%; height: 100%; z-index: 3; cursor: pointer;
+}
+.my-container .button a { text-decoration: none; text-align: center; width: 200px; padding: 20px; background: linear-gradient(90deg, #1ee3cf 50%, #0d3f67 50%) no-repeat; background-position: right center; background-size: 2000%; border-radius: 6px; overflow: hidden; box-shadow: 0 2px 14px rgba(0, 0, 0, 0.3); transition: all 0.3s ease;
+}
+.my-container .button a:hover,
+.my-container .radio:hover + a { transform: translateY(-2px); box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3); transition: all 0.3s ease;
+}
+.my-container .button a:active { box-shadow: none; transform: scale(0.95); transition: all 0.3s ease;
+}
+.my-container .open { display: none;
+}
+.my-container .radio:checked ~ a { animation: loading 5s linear forwards 1;
+}
+.my-container .radio:checked + .download { display: none;
+}
+.my-container .radio:checked ~ .open { display: block;
+}
+@keyframes loading { 0% { height: 100%; padding: 20px; background-position: right center; color: transparent; box-shadow: none; pointer-events: none; } 2% { height: 5px; padding: 0 20px; color: transparent; pointer-events: none; } 95% { height: 5px; padding: 0 20px; background-position: left center; color: transparent; pointer-events: none; } 100% { height: 100%; padding: 18px 20px; background-position: left center; color: #FFF; box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3); z-index: 4; pointer-events: auto; }
+}
+.my-container .copy { position: absolute; bottom: 5vh; left: 50%; transform: translateX(-50%); color: #fff;
+}</style>
+
 
 **A. Chuẩn bị trước lễ dạm ngõ**
 
