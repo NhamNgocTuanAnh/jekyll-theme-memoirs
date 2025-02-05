@@ -32,6 +32,9 @@ Lễ dạm ngõ không chỉ thể hiện sự tôn trọng giữa hai gia đìn
 
 #### **2\. Kịch bản chi tiết lễ dạm ngõ**
 
+<div class="content" style="text-align:center; ">
+  <a href="https://i.imgur.com/CyvnrVL"><img class="lazyload" loading="lazy" src="https://i.imgur.com/CyvnrVL.png" title="source: imgur.com" /></a></div>
+
 **A. Chuẩn bị trước lễ dạm ngõ**
 
 **1\. Nhà trai:**
@@ -199,11 +202,5 @@ Lễ dạm ngõ không chỉ thể hiện sự tôn trọng giữa hai gia đìn
 
 Lễ dạm ngõ không chỉ là nghi thức mở đầu cho quá trình hôn nhân mà còn là dịp để hai gia đình gắn kết, tạo dựng mối quan hệ tốt đẹp. Đây cũng là cách để cha mẹ hai bên thể hiện sự quan tâm và chúc phúc cho hạnh phúc của con cái.
 
-<div style="      width: 90%;
-      max-width: 800px;
-      border: 1px solid #ccc;
-      border-radius: 8px;
-      overflow: hidden;">
-    <!-- Thay thế URL bên dưới bằng URL từ Google Docs -->
-    <iframe src="https://docs.google.com/document/d/1VHa6eC3TyYa1uGoIjHBTc-ye9q4Su3I8ORBE2XPHMJo/edit?usp=sharing "></iframe>
-  </div>
+
+
