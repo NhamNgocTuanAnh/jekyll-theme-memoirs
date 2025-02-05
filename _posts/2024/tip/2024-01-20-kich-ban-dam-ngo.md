@@ -4,7 +4,7 @@ title: 'Lễ Dạm Ngõ Là Gì? Hướng Dẫn Chi Tiết Tổ Chức Lễ Dạ
 author: minh
 categories: [ Reviews 📝 ]
 tags: [ Mẹo ]
-image: assets/images/nhiepanh/rx100-avt.webp
+image: assets/images/ngam/dam-ngo-avt.webp
 rating: 5
 lazyimages: "enabled"
 isGithubComments: false
@@ -82,7 +82,9 @@ Lễ dạm ngõ không chỉ thể hiện sự tôn trọng giữa hai gia đìn
     *   Ví dụ: "Chúng tôi rất mong nhận được sự đồng ý từ gia đình nhà gái để hai cháu tiến tới hôn nhân. Chúng tôi cam kết sẽ chăm sóc và yêu thương con gái nhà mình như con cháu trong nhà."
 
 <div class="video-container">
-<iframe width="640" height="360" src="https://www.youtube.com/embed/ascpeYtE6gM" title="HƯỚNG DẪN PHÁT BIỂU DẠM NGÕ-CHẠM NGÕ-LỄ NÓI." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br><iframe width="640" height="360" src="https://www.youtube.com/embed/AmGuSIPrY5w" title="LỄ DẠM NGÕ/ Nhà trai phát biểu-Mẫu đầy đủ-Ý nghĩa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ascpeYtE6gM" title="HƯỚNG DẪN PHÁT BIỂU DẠM NGÕ-CHẠM NGÕ-LỄ NÓI." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br><br></iframe>
+</div><div class="video-container">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/AmGuSIPrY5w" title="LỄ DẠM NGÕ/ Nhà trai phát biểu-Mẫu đầy đủ-Ý nghĩa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 
@@ -90,160 +92,68 @@ Lễ dạm ngõ không chỉ thể hiện sự tôn trọng giữa hai gia đìn
     *   Bố cô dâu đáp lời, đồng ý và cảm ơn thiện chí của nhà trai.
     *   Ví dụ: "Chúng tôi rất vui mừng và đồng ý với nguyện vọng của gia đình nhà trai. Mong rằng hai cháu sẽ hạnh phúc và xây dựng gia đình êm ấm."
 
-    <button id="anhien-readButton">Đọc</button>
-    <div id="anhien-countdown" class="countdown hidden"></div>
-    <div id="anhien-hiddenContent" class="hidden-content hidden">
-      <h3><strong>1. C&ocirc;ng thức ph&aacute;t biểu của nh&agrave; trai</strong></h3>
 
-<h4><strong>Cấu tr&uacute;c b&agrave;i ph&aacute;t biểu:</strong></h4>
+<style>.content {
+            font-size: 20px;
+            margin: 20px;
+            padding: 20px;
+            border: 1px solid #333;
+            display: block;
+        }
+        #hiddenContent {
+            display: none;
+            margin-top: 20px;
+            font-size: 20px;
+            color: green;
+        }
+        #spinner {
+            display: none;
+            margin: 20px auto;
+            width: 50px;
+            height: 50px;
+            border: 5px solid lightgray;
+            border-top: 5px solid blue;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+        @keyframes spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+</style>
 
-<ul>
-	<li><strong>Mở đầu: </strong>Ch&agrave;o hỏi v&agrave; giới thiệu đo&agrave;n nh&agrave; trai.</li>
-	<li><strong>Nội dung ch&iacute;nh: </strong>N&ecirc;u mục đ&iacute;ch buổi lễ, b&agrave;y tỏ nguyện vọng kết th&ocirc;ng gia.</li>
-	<li><strong>Kết th&uacute;c: </strong>Cảm ơn v&agrave; ch&uacute;c ph&uacute;c hai gia đ&igrave;nh.</li>
-</ul>
+<button id="showButton">Hướng dẫn chi tiết KỊCH BẢN CHI TIẾT LỄ DẠM NGÕ</button>
 
-<h4><strong>B&agrave;i ph&aacute;t biểu mẫu (nh&agrave; trai):</strong></h4>
+<div id="spinner"></div><div id="countdown"></div><div id="hiddenContent"><h3><strong>KỊCH BẢN CHI TIẾT LỄ DẠM NG&Otilde;</strong></h3><h4><strong>1. Giới thiệu về lễ dạm ng&otilde;</strong></h4><p>Lễ dạm ng&otilde; (hay c&ograve;n gọi l&agrave; lễ chạm ng&otilde;/xem mặt) l&agrave; nghi thức đầu ti&ecirc;n trong c&aacute;c nghi lễ cưới hỏi truyền thống của người miền Bắc Việt Nam. Đ&acirc;y l&agrave; buổi gặp gỡ ch&iacute;nh thức giữa hai gia đ&igrave;nh, nơi nh&agrave; trai đến nh&agrave; g&aacute;i để b&agrave;y tỏ nguyện vọng kết th&ocirc;ng gia. Lễ n&agrave;y mang t&iacute;nh chất đơn giản, th&acirc;n mật nhưng đ&aacute;nh dấu sự khởi đầu cho mối quan hệ h&ocirc;n nh&acirc;n.</p><p>Lễ dạm ng&otilde; kh&ocirc;ng chỉ thể hiện sự t&ocirc;n trọng giữa hai gia đ&igrave;nh m&agrave; c&ograve;n l&agrave; c&aacute;ch để cha mẹ hai b&ecirc;n ch&uacute;c ph&uacute;c cho hạnh ph&uacute;c của con c&aacute;i. Đ&acirc;y cũng l&agrave; dịp để hai b&ecirc;n gắn kết, tạo dựng mối quan hệ l&acirc;u d&agrave;i.</p><h4><strong>2. Kịch bản chi tiết lễ dạm ng&otilde;</strong></h4><p><strong>A. Chuẩn bị trước lễ dạm ng&otilde;</strong></p><p><strong>1. Nh&agrave; trai:</strong></p><ul><li><strong>Lễ vật:</strong><ul><li>Trầu cau (1 cơi trầu t&ecirc;m c&aacute;nh phượng, 1 quả cau tươi).</li><li>Ch&egrave; (tr&agrave; mạn), thuốc l&aacute;, b&aacute;nh kẹo.</li><li>Hoa quả tươi (thường l&agrave; 5 loại tr&aacute;i c&acirc;y đẹp mắt).</li><li>Rượu vang hoặc rượu trắng (nếu c&oacute; điều kiện).</li><li>Heo quay hoặc g&agrave; luộc (t&ugrave;y theo điều kiện gia đ&igrave;nh).</li><li>Số lượng lễ vật thường l&agrave; số lẻ (3, 5, 7 tr&aacute;p) để tr&aacute;nh điềm xui.</li></ul></li><li><strong>Th&agrave;nh phần tham dự:</strong><ul><li>Bố mẹ ch&uacute; rể, anh/chị em ruột, ch&uacute;/b&aacute;c th&acirc;n thiết.</li><li>Số người đi lẻ (5, 7, 9 người) để ph&ugrave; hợp với phong tục.</li></ul></li><li><strong>Trang phục:</strong><ul><li>&Aacute;o d&agrave;i truyền thống (với nữ) hoặc vest lịch sự (với nam).</li></ul></li></ul><p><strong>2. Nh&agrave; g&aacute;i:</strong></p><ul><li>Chuẩn bị kh&ocirc;ng gian tiếp kh&aacute;ch trang trọng, sạch sẽ.</li><li>Đặt b&agrave;n ghế gọn g&agrave;ng, trải khăn b&agrave;n đẹp mắt.</li><li>Chuẩn bị tr&agrave;, nước, b&aacute;nh kẹo để mời nh&agrave; trai.</li><li>Nếu cần, th&ocirc;ng b&aacute;o với họ h&agrave;ng th&acirc;n thiết để tham dự.</li></ul><p><strong>B. Nghi thức ch&iacute;nh</strong></p><p><strong>1. Đ&oacute;n tiếp đo&agrave;n nh&agrave; trai:</strong></p><ul><li>Đại diện nh&agrave; g&aacute;i ra đ&oacute;n cửa, mời đo&agrave;n v&agrave;o nh&agrave;.</li><li>Ch&uacute; rể đi đầu, sau đ&oacute; l&agrave; bố mẹ v&agrave; người th&acirc;n.</li><li>Nh&agrave; g&aacute;i mời kh&aacute;ch ngồi theo thứ tự: người lớn tuổi ngồi ghế tr&ecirc;n, ch&uacute; rể ngồi cạnh c&ocirc; d&acirc;u.</li></ul><p><strong>2. Giới thiệu th&agrave;nh vi&ecirc;n hai gia đ&igrave;nh:</strong></p><ul><li><strong>Nh&agrave; trai:</strong><ul><li>Đại diện nh&agrave; trai giới thiệu từng th&agrave;nh vi&ecirc;n, n&ecirc;u r&otilde; vai vế.</li><li>V&iacute; dụ: &quot;Thưa &ocirc;ng b&agrave;, h&ocirc;m nay ch&uacute;ng t&ocirc;i đại diện gia đ&igrave;nh nh&agrave; trai gồm bố mẹ ch&uacute; rể, ch&uacute;/b&aacute;c v&agrave; anh/chị em th&acirc;n thiết đến đ&acirc;y để l&agrave;m quen với gia đ&igrave;nh nh&agrave; g&aacute;i.&quot;</li></ul></li><li><strong>Nh&agrave; g&aacute;i:</strong><ul><li>Đại diện nh&agrave; g&aacute;i đ&aacute;p lễ bằng c&aacute;ch giới thiệu ngược lại.</li><li>V&iacute; dụ: &quot;Ch&uacute;ng t&ocirc;i rất vui mừng được đ&oacute;n tiếp gia đ&igrave;nh nh&agrave; trai. Đ&acirc;y l&agrave; bố mẹ c&ocirc; d&acirc;u, ch&uacute;/b&aacute;c v&agrave; anh/chị em trong gia đ&igrave;nh.&quot;</li></ul></li></ul><p><strong>3. Tr&igrave;nh lễ vật:</strong></p><ul><li>Đại diện nh&agrave; trai (thường l&agrave; mẹ ch&uacute; rể) d&acirc;ng tr&aacute;p lễ, n&oacute;i lời ch&uacute;c ph&uacute;c: <ul><li>V&iacute; dụ: &quot;H&ocirc;m nay, nh&agrave; ch&uacute;ng t&ocirc;i mang ch&uacute;t lễ mọn đến xin được l&agrave;m th&ocirc;ng gia với nh&agrave; m&igrave;nh. Mong hai ch&aacute;u sớm th&agrave;nh duy&ecirc;n vợ chồng.&quot;</li></ul></li></ul><p><strong>4. Ph&aacute;t biểu của hai b&ecirc;n:</strong></p><ul><li><strong>Nh&agrave; trai:</strong><ul><li>Bố ch&uacute; rể ph&aacute;t biểu, n&ecirc;u r&otilde; mục đ&iacute;ch buổi lễ v&agrave; nguyện vọng kết th&ocirc;ng gia.</li><li>V&iacute; dụ: &quot;Ch&uacute;ng t&ocirc;i rất mong nhận được sự đồng &yacute; từ gia đ&igrave;nh nh&agrave; g&aacute;i để hai ch&aacute;u tiến tới h&ocirc;n nh&acirc;n. Ch&uacute;ng t&ocirc;i cam kết sẽ chăm s&oacute;c v&agrave; y&ecirc;u thương con g&aacute;i nh&agrave; m&igrave;nh như con ch&aacute;u trong nh&agrave;.&quot;</li></ul></li><li><strong>Nh&agrave; g&aacute;i:</strong><ul><li>Bố c&ocirc; d&acirc;u đ&aacute;p lời, đồng &yacute; v&agrave; cảm ơn thiện ch&iacute; của nh&agrave; trai.</li><li>V&iacute; dụ: &quot;Ch&uacute;ng t&ocirc;i rất vui mừng v&agrave; đồng &yacute; với nguyện vọng của gia đ&igrave;nh nh&agrave; trai. Mong rằng hai ch&aacute;u sẽ hạnh ph&uacute;c v&agrave; x&acirc;y dựng gia đ&igrave;nh &ecirc;m ấm.&quot;</li></ul></li></ul><p><strong>5. Trao qu&agrave; v&agrave; nhận qu&agrave;:</strong></p><ul><li>Nh&agrave; trai trao lễ vật, nh&agrave; g&aacute;i nhận v&agrave; đặt l&ecirc;n b&agrave;n thờ tổ ti&ecirc;n.</li><li>Nh&agrave; g&aacute;i c&oacute; thể tặng lại qu&agrave; (v&iacute; dụ: khăn, vải) để thể hiện sự đồng &yacute;.</li></ul><p><strong>6. Thưởng tr&agrave;, tr&ograve; chuyện:</strong></p><ul><li>Hai gia đ&igrave;nh c&ugrave;ng uống tr&agrave;, thảo luận về kế hoạch đ&aacute;m cưới (ng&agrave;y ăn hỏi, đ&aacute;m cưới, quy m&ocirc;, địa điểm,...).</li><li>Lưu &yacute;: Tr&aacute;nh n&oacute;i chuyện t&agrave;i ch&iacute;nh trực tiếp trong lễ n&agrave;y.</li></ul><p><strong>7. Kết th&uacute;c lễ:</strong></p><ul><li>Nh&agrave; trai ra về sau 30&ndash;60 ph&uacute;t.</li><li>Nh&agrave; g&aacute;i tiễn kh&aacute;ch tận cổng v&agrave; tặng lại một phần lễ vật (b&aacute;nh kẹo, trầu cau) để lấy may.</li></ul><p><strong>C. Lưu &yacute; văn h&oacute;a</strong></p><ol><li><strong>Ng&agrave;y giờ:</strong><ul><li>Chọn ng&agrave;y tốt theo lịch &acirc;m, thường l&agrave; ng&agrave;y s&oacute;c, vượng, ho&agrave;ng đạo.</li></ul></li><li><strong>Lời n&oacute;i:</strong><ul><li>Tr&aacute;nh tranh luận, giữ kh&ocirc;ng kh&iacute; h&ograve;a thuận.</li></ul></li><li><strong>Qu&agrave; tặng:</strong><ul><li>Kh&ocirc;ng d&ugrave;ng qu&agrave; c&oacute; m&agrave;u đen hoặc số lẻ (v&igrave; li&ecirc;n quan đến tang lễ).</li></ul></li><li><strong>Trang phục:</strong><ul><li>Cả hai b&ecirc;n n&ecirc;n mặc trang phục lịch sự, ph&ugrave; hợp với nghi lễ (&aacute;o d&agrave;i truyền thống hoặc vest).</li></ul></li><li><strong>Thời gian:</strong><ul><li>Buổi lễ thường k&eacute;o d&agrave;i khoảng 1-2 giờ đồng hồ, kh&ocirc;ng n&ecirc;n qu&aacute; l&acirc;u.</li></ul></li></ol><h4><strong>3. Biến thể hiện đại</strong></h4><ul><li>Nhiều gia đ&igrave;nh hiện nay kết hợp lễ dạm ng&otilde; v&agrave; ăn hỏi để tiết kiệm thời gian.</li><li>Qu&agrave; tặng c&oacute; thể th&ecirc;m rượu vang, b&aacute;nh cưới phương T&acirc;y nhưng vẫn giữ trầu cau truyền thống.</li><li>Một số gia đ&igrave;nh tổ chức lễ dạm ng&otilde; tại nh&agrave; h&agrave;ng hoặc kh&ocirc;ng gian sang trọng thay v&igrave; tại nh&agrave;.</li></ul><h3><strong>&Yacute; nghĩa của lễ dạm ng&otilde;</strong></h3><p>Lễ dạm ng&otilde; kh&ocirc;ng chỉ l&agrave; nghi thức mở đầu cho qu&aacute; tr&igrave;nh h&ocirc;n nh&acirc;n m&agrave; c&ograve;n l&agrave; dịp để hai gia đ&igrave;nh gắn kết, tạo dựng mối quan hệ tốt đẹp. Đ&acirc;y cũng l&agrave; c&aacute;ch để cha mẹ hai b&ecirc;n thể hiện sự quan t&acirc;m v&agrave; ch&uacute;c ph&uacute;c cho hạnh ph&uacute;c của con c&aacute;i.</p></div>
 
-<p><strong>&quot;Thưa &ocirc;ng b&agrave; v&agrave; gia đ&igrave;nh nh&agrave; g&aacute;i,</strong></p>
+<script>
+        document.getElementById("showButton").addEventListener("click", function() {
+            var spinner = document.getElementById("spinner");
+            var countdown = document.getElementById("countdown");
+            var hiddenContent = document.getElementById("hiddenContent");
+            var button = document.getElementById("showButton");
 
-<p>H&ocirc;m nay, thay mặt gia đ&igrave;nh nh&agrave; trai, ch&uacute;ng t&ocirc;i xin gửi lời ch&agrave;o tr&acirc;n trọng đến &ocirc;ng b&agrave; c&ugrave;ng to&agrave;n thể gia đ&igrave;nh. Đo&agrave;n ch&uacute;ng t&ocirc;i gồm [bố mẹ ch&uacute; rể], [ch&uacute;/b&aacute;c th&acirc;n thiết] v&agrave; ch&uacute; rể [t&ecirc;n ch&uacute; rể]. Ch&uacute;ng t&ocirc;i rất vui mừng được đến đ&acirc;y để l&agrave;m quen v&agrave; gặp gỡ gia đ&igrave;nh nh&agrave; g&aacute;i trong một dịp đặc biệt như h&ocirc;m nay.</p>
+            spinner.style.display = "block";
+            countdown.style.display = "block";
+            button.disabled = true;
 
-<p>Ch&uacute;ng t&ocirc;i biết rằng, việc kết duy&ecirc;n giữa hai ch&aacute;u l&agrave; một mối nh&acirc;n duy&ecirc;n tốt đẹp, được trời đất sắp đặt. V&igrave; vậy, h&ocirc;m nay ch&uacute;ng t&ocirc;i mang theo ch&uacute;t lễ mọn, gồm trầu cau, tr&agrave; rượu, b&aacute;nh kẹo v&agrave; tr&aacute;i c&acirc;y tươi, để xin ph&eacute;p gia đ&igrave;nh nh&agrave; g&aacute;i cho hai ch&aacute;u được tiến tới h&ocirc;n nh&acirc;n. Ch&uacute;ng t&ocirc;i mong rằng, với sự đồng thuận của hai b&ecirc;n gia đ&igrave;nh, hai ch&aacute;u sẽ sớm th&agrave;nh vợ chồng, x&acirc;y dựng một m&aacute;i ấm hạnh ph&uacute;c v&agrave; vi&ecirc;n m&atilde;n.</p>
+            var timeLeft = 10;
+            countdown.innerText = "Chờ: " + timeLeft + "s";
 
-<p>Gia đ&igrave;nh ch&uacute;ng t&ocirc;i cam kết sẽ lu&ocirc;n y&ecirc;u thương, chăm s&oacute;c con g&aacute;i nh&agrave; m&igrave;nh như con ch&aacute;u trong nh&agrave;. Đồng thời, ch&uacute;ng t&ocirc;i cũng hy vọng hai gia đ&igrave;nh sẽ gắn b&oacute; bền chặt, trở th&agrave;nh th&ocirc;ng gia tốt đẹp.</p>
+            var timer = setInterval(function() {
+                timeLeft--;
+                countdown.innerText = "Chờ: " + timeLeft + "s";
 
-<p>Cuối c&ugrave;ng, ch&uacute;ng t&ocirc;i xin cảm ơn &ocirc;ng b&agrave; v&agrave; gia đ&igrave;nh đ&atilde; đ&oacute;n tiếp chu đ&aacute;o. K&iacute;nh ch&uacute;c gia đ&igrave;nh nh&agrave; g&aacute;i sức khỏe, b&igrave;nh an v&agrave; mọi điều tốt l&agrave;nh.&quot;</p>
-
-<hr />
-<h3><strong>2. C&ocirc;ng thức ph&aacute;t biểu của nh&agrave; g&aacute;i</strong></h3>
-
-<h4><strong>Cấu tr&uacute;c b&agrave;i ph&aacute;t biểu:</strong></h4>
-
-<ul>
-	<li><strong>Mở đầu: </strong>Ch&agrave;o hỏi v&agrave; cảm ơn đo&agrave;n nh&agrave; trai.</li>
-	<li><strong>Nội dung ch&iacute;nh: </strong>Đồng &yacute; với nguyện vọng của nh&agrave; trai, b&agrave;y tỏ niềm vui v&agrave; kỳ vọng.</li>
-	<li><strong>Kết th&uacute;c: </strong>Ch&uacute;c ph&uacute;c hai gia đ&igrave;nh v&agrave; đ&ocirc;i trẻ.</li>
-</ul>
-
-<h4><strong>B&agrave;i ph&aacute;t biểu mẫu (nh&agrave; g&aacute;i):</strong></h4>
-
-<p><strong>&quot;Thưa &ocirc;ng b&agrave; v&agrave; gia đ&igrave;nh nh&agrave; trai,</strong></p>
-
-<p>Trước ti&ecirc;n, thay mặt gia đ&igrave;nh nh&agrave; g&aacute;i, ch&uacute;ng t&ocirc;i xin gửi lời ch&agrave;o tr&acirc;n trọng đến &ocirc;ng b&agrave; v&agrave; to&agrave;n thể đo&agrave;n nh&agrave; trai. Ch&uacute;ng t&ocirc;i rất vui mừng khi được đ&oacute;n tiếp gia đ&igrave;nh nh&agrave; trai trong ng&agrave;y h&ocirc;m nay, một ng&agrave;y đ&aacute;nh dấu bước khởi đầu cho mối nh&acirc;n duy&ecirc;n tốt đẹp giữa hai ch&aacute;u.</p>
-
-<p>Ch&uacute;ng t&ocirc;i hiểu rằng, việc kết duy&ecirc;n giữa hai ch&aacute;u kh&ocirc;ng chỉ l&agrave; chuyện của ri&ecirc;ng hai người m&agrave; c&ograve;n l&agrave; sự gắn kết giữa hai gia đ&igrave;nh. V&igrave; vậy, ch&uacute;ng t&ocirc;i ho&agrave;n to&agrave;n đồng &yacute; với nguyện vọng của gia đ&igrave;nh nh&agrave; trai v&agrave; sẵn s&agrave;ng đ&oacute;n nhận ch&uacute; rể [t&ecirc;n ch&uacute; rể] l&agrave;m con rể trong gia đ&igrave;nh. Ch&uacute;ng t&ocirc;i tin rằng, với sự y&ecirc;u thương v&agrave; t&ocirc;n trọng lẫn nhau, hai ch&aacute;u sẽ x&acirc;y dựng được một tổ ấm hạnh ph&uacute;c, vững bền.</p>
-
-<p>Ch&uacute;ng t&ocirc;i cũng mong rằng, từ h&ocirc;m nay, hai gia đ&igrave;nh sẽ trở th&agrave;nh th&ocirc;ng gia th&acirc;n thiết, lu&ocirc;n hỗ trợ v&agrave; gi&uacute;p đỡ nhau trong cuộc sống.</p>
-
-<p>Cuối c&ugrave;ng, ch&uacute;ng t&ocirc;i xin cảm ơn gia đ&igrave;nh nh&agrave; trai đ&atilde; chuẩn bị chu đ&aacute;o cho buổi lễ h&ocirc;m nay. K&iacute;nh ch&uacute;c gia đ&igrave;nh nh&agrave; trai sức khỏe, b&igrave;nh an v&agrave; mọi điều tốt đẹp. Ch&uacute;c hai ch&aacute;u trăm năm hạnh ph&uacute;c, thủy chung son sắt.&quot;</p>
-
-<hr />
-<h3><strong>3. C&aacute;c lưu &yacute; khi ph&aacute;t biểu</strong></h3>
-
-<h4><strong>Nh&agrave; trai:</strong></h4>
-
-<ul>
-	<li><strong>Tone giọng: </strong>Trang trọng, lịch sự nhưng vẫn gần gũi, th&acirc;n thiện.</li>
-	<li><strong>&Yacute; ch&iacute;nh cần nhấn mạnh:</strong>
-	<ul>
-		<li>Mục đ&iacute;ch buổi lễ l&agrave; xin ph&eacute;p kết th&ocirc;ng gia.</li>
-		<li>Cam kết y&ecirc;u thương, chăm s&oacute;c c&ocirc; d&acirc;u như con c&aacute;i trong nh&agrave;.</li>
-		<li>Thể hiện thiện ch&iacute; v&agrave; mong muốn gắn b&oacute; l&acirc;u d&agrave;i giữa hai gia đ&igrave;nh.</li>
-	</ul>
-	</li>
-</ul>
-
-<h4><strong>Nh&agrave; g&aacute;i:</strong></h4>
-
-<ul>
-	<li><strong>Tone giọng: </strong>Ấm &aacute;p, th&acirc;n thiện v&agrave; ch&acirc;n th&agrave;nh.</li>
-	<li><strong>&Yacute; ch&iacute;nh cần nhấn mạnh:</strong>
-	<ul>
-		<li>Đồng &yacute; với nguyện vọng của nh&agrave; trai.</li>
-		<li>B&agrave;y tỏ niềm vui v&agrave; kỳ vọng về tương lai của đ&ocirc;i trẻ.</li>
-		<li>Nhấn mạnh mối quan hệ th&ocirc;ng gia bền chặt giữa hai gia đ&igrave;nh.</li>
-	</ul>
-	</li>
-</ul>
-
-<hr />
-<h3><strong>4. &Yacute; phụ c&oacute; thể th&ecirc;m v&agrave;o b&agrave;i ph&aacute;t biểu</strong></h3>
-
-<h4><strong>Nh&agrave; trai:</strong></h4>
-
-<ul>
-	<li>&quot;Ch&uacute;ng t&ocirc;i biết rằng, con g&aacute;i l&agrave; t&agrave;i sản qu&yacute; gi&aacute; nhất của gia đ&igrave;nh nh&agrave; g&aacute;i. V&igrave; vậy, ch&uacute;ng t&ocirc;i v&ocirc; c&ugrave;ng cảm k&iacute;ch khi được gia đ&igrave;nh nh&agrave; g&aacute;i tin tưởng v&agrave; giao ph&oacute; tr&aacute;ch nhiệm chăm s&oacute;c ch&aacute;u.&quot;</li>
-	<li>&quot;Ch&uacute;ng t&ocirc;i hy vọng rằng, buổi lễ h&ocirc;m nay sẽ mở ra một h&agrave;nh tr&igrave;nh mới đầy hạnh ph&uacute;c v&agrave; may mắn cho hai ch&aacute;u.&quot;</li>
-</ul>
-
-<h4><strong>Nh&agrave; g&aacute;i:</strong></h4>
-
-<ul>
-	<li>&quot;Ch&uacute;ng t&ocirc;i tin rằng, ch&uacute; rể [t&ecirc;n ch&uacute; rể] l&agrave; một người con rể tốt, sẽ lu&ocirc;n y&ecirc;u thương v&agrave; chăm s&oacute;c con g&aacute;i ch&uacute;ng t&ocirc;i.&quot;</li>
-	<li>&quot;Ch&uacute;ng t&ocirc;i mong rằng, hai ch&aacute;u sẽ lu&ocirc;n giữ g&igrave;n t&igrave;nh cảm, vượt qua mọi kh&oacute; khăn để x&acirc;y dựng một gia đ&igrave;nh hạnh ph&uacute;c.&quot;</li>
-</ul>
-
-<hr />
-<h3><strong>5. Kết luận</strong></h3>
-
-<p>Ph&aacute;t biểu trong lễ dạm ng&otilde; cần ngắn gọn, s&uacute;c t&iacute;ch nhưng vẫn đảm bảo đầy đủ &yacute; nghĩa v&agrave; thể hiện sự t&ocirc;n trọng giữa hai gia đ&igrave;nh. Sử dụng những lời n&oacute;i ch&acirc;n th&agrave;nh, lịch sự sẽ gi&uacute;p tạo kh&ocirc;ng kh&iacute; ấm c&uacute;ng v&agrave; thiện cảm trong buổi lễ.</p>
-
-<p>Hy vọng c&ocirc;ng thức v&agrave; mẫu ph&aacute;t biểu tr&ecirc;n sẽ gi&uacute;p bạn chuẩn bị tốt cho lễ dạm ng&otilde;!</p>
-
-    </div>
-<style>
-button:hover {
-  background-color: #0056b3;
-}
-
-.hidden {
-  display: none;
-}
-
-.countdown {
-  margin-top: 20px;
-  font-size: 24px;
-  font-weight: bold;
-  color: #e74c3c;
-}
-
-.hidden-content {
-  margin-top: 20px;
-  font-size: 18px;
-  color: #333;
-}</style>
-<script>document.addEventListener("DOMContentLoaded", function () {
-  const readButton = document.getElementById('anhien-readButton');
-  const countdownElement = document.getElementById('anhien-countdown');
-  const hiddenContent = document.getElementById('anhien-hiddenContent');
-
-  readButton.addEventListener('click', function () {
-    // Thời gian đếm ngược (30 giây)
-    let timeLeft = 30;
-
-    // Hiển thị phần tử đếm ngược
-    countdownElement.classList.remove('hidden');
-    countdownElement.textContent = `Vui lòng chờ ${timeLeft} giây...`;
-
-    // Bắt đầu đếm ngược
-    const countdownInterval = setInterval(() => {
-      timeLeft--;
-      countdownElement.textContent = `Vui lòng chờ ${timeLeft} giây...`;
-
-      if (timeLeft <= 0) {
-        clearInterval(countdownInterval); // Dừng đếm ngược
-
-        // Ẩn phần tử đếm ngược
-        countdownElement.classList.add('hidden');
-
-        // Hiển thị nội dung được ẩn
-        hiddenContent.classList.remove('hidden');
-      }
-    }, 1000); // Cập nhật mỗi giây
-  });
-});</script>
-
+                if (timeLeft <= 0) {
+                    clearInterval(timer);
+                    spinner.style.display = "none";
+                    countdown.style.display = "none";
+                    hiddenContent.style.display = "block";
+                    button.disabled = false;
+                }
+            }, 1000);
+        });
+</script>
 
 **5\. Trao quà và nhận quà:**
 
