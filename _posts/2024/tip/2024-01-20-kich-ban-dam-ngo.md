@@ -34,7 +34,7 @@ Lễ dạm ngõ không chỉ thể hiện sự tôn trọng giữa hai gia đìn
 
 <div class="content" style="text-align:center; ">
   <a href="https://i.imgur.com/CyvnrVL"><img class="lazyload" loading="lazy" src="https://i.imgur.com/CyvnrVL.png" title="source: imgur.com" /></a></div>
-<div class="my-container"> <div class="button"> <input type="radio" class="radio"> <a class="download">Download</a> <a class="open" href="https://docs.google.com/document/d/1VHa6eC3TyYa1uGoIjHBTc-ye9q4Su3I8ORBE2XPHMJo/edit?usp=sharing">Dạm Ngõ - Minh Thể Media</a> </div></div><style>.my-container { font-family: 'Poppins', sans-serif; display: flex; flex-wrap: wrap; align-items: center; margin: 0; padding: 0; background: #7c0fd1; text-align: center;
+<div class="my-container"> <div class="button"> <input type="radio" class="radio"> <a class="download">Tải xuống kịch bản</a> <a class="open" href="https://docs.google.com/document/d/1VHa6eC3TyYa1uGoIjHBTc-ye9q4Su3I8ORBE2XPHMJo/edit?usp=sharing">Dạm Ngõ - Minh Thể Media</a> </div></div><style>.my-container { font-family: 'Poppins', sans-serif; display: flex; flex-wrap: wrap; align-items: center; margin: 0; padding: 0; background: #7c0fd1; text-align: center;
 }
 .my-container .button { position: relative; width: 200px; height: auto; margin: 40px auto; display: flex; flex-wrap: wrap; align-items: center; justify-content: center; color: #fff;
 }
