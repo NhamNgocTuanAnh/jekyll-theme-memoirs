@@ -90,6 +90,82 @@ Lễ dạm ngõ không chỉ thể hiện sự tôn trọng giữa hai gia đìn
     *   Bố cô dâu đáp lời, đồng ý và cảm ơn thiện chí của nhà trai.
     *   Ví dụ: "Chúng tôi rất vui mừng và đồng ý với nguyện vọng của gia đình nhà trai. Mong rằng hai cháu sẽ hạnh phúc và xây dựng gia đình êm ấm."
 
+  <div class="custom-container">
+    <button id="custom-readButton" class="custom-button">Đọc</button>
+    <div id="custom-hiddenText" class="custom-hidden-text">
+      Đây là văn bản được ẩn. Sau khi nhấn nút "Đọc", bạn sẽ thấy nó sau 10 giây!
+    </div>
+    <div id="custom-loading" class="custom-loading hidden">Đang tải...</div>
+  </div>
+<style>.custom-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.custom-button:hover {
+  background-color: #0056b3;
+}
+
+.custom-hidden-text {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+  display: none; /* Ẩn văn bản ban đầu */
+}
+
+.custom-loading {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #007bff;
+  display: none; /* Ẩn hiệu ứng tải ban đầu */
+}
+
+.hidden {
+  display: none !important;
+}
+
+@keyframes custom-pulse {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.custom-loading:not(.hidden) {
+  animation: custom-pulse 1s infinite;
+}</style>
+<script>document.addEventListener("DOMContentLoaded", function () {
+  const readButton = document.getElementById('custom-readButton');
+  const hiddenText = document.getElementById('custom-hiddenText');
+  const loading = document.getElementById('custom-loading');
+
+  readButton.addEventListener('click', function () {
+    // Hiển thị hiệu ứng tải
+    loading.classList.remove('hidden');
+
+    // Đợi 10 giây trước khi hiển thị văn bản
+    setTimeout(function () {
+      // Ẩn hiệu ứng tải
+      loading.classList.add('hidden');
+
+      // Hiển thị văn bản
+      hiddenText.style.display = 'block';
+    }, 10000); // 10 giây = 10000ms
+  });
+});</script>
+
+
 **5\. Trao quà và nhận quà:**
 
 *   Nhà trai trao lễ vật, nhà gái nhận và đặt lên bàn thờ tổ tiên.
