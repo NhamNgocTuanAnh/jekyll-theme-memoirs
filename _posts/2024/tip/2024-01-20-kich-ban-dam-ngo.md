@@ -96,6 +96,11 @@ Lễ dạm ngõ không chỉ thể hiện sự tôn trọng giữa hai gia đìn
 *   Chú rể đi đầu, sau đó là bố mẹ và người thân.
 *   Nhà gái mời khách ngồi theo thứ tự: người lớn tuổi ngồi ghế trên, chú rể ngồi cạnh cô dâu.
 
+  <div class="map-container" style="width: 90%;max-width: 1200px;border: 1px solid #ccc;border-radius: 8px;overflow: hidden;">
+    <iframe style="width: 100%;height: 600px;border: none;" src="https://mapify.so/share-link/0UqG9kG9dy" width="100%" height="600px" frameborder="0"></iframe>
+  </div>
+
+
 **2\. Giới thiệu thành viên hai gia đình:**
 
 *   **Nhà trai:**
