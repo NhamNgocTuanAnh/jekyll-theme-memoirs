@@ -232,5 +232,57 @@ Lễ dạm ngõ không chỉ thể hiện sự tôn trọng giữa hai gia đìn
 
 Lễ dạm ngõ không chỉ là nghi thức mở đầu cho quá trình hôn nhân mà còn là dịp để hai gia đình gắn kết, tạo dựng mối quan hệ tốt đẹp. Đây cũng là cách để cha mẹ hai bên thể hiện sự quan tâm và chúc phúc cho hạnh phúc của con cái.
 
+ ### **Checklist Chụp Ảnh Lễ Dạm Ngõ**
 
+Dưới đây là checklist chi tiết dành cho nhiếp ảnh gia để đảm bảo không bỏ sót bất kỳ khoảnh khắc quan trọng nào trong lễ dạm ngõ. Checklist này được thiết kế để dễ dàng theo dõi và thực hiện trong ngày chụp.
+
+#### **1\. Chuẩn Bị Trước Buổi Lễ**
+
+*    Kiểm tra thiết bị: máy ảnh, ống kính, đèn flash, pin, thẻ nhớ dự phòng.
+*    Xác nhận thời gian và địa điểm với khách hàng.
+*    Tham khảo ý kiến cô dâu chú rể về các khoảnh khắc đặc biệt họ muốn lưu giữ.
+*    Đến sớm để khảo sát không gian và ánh sáng.
+
+#### **2\. Chụp Không Gian và Lễ Vật**
+
+*    Toàn cảnh không gian nhà gái (trang trí, bàn ghế, không khí chuẩn bị).
+*    Cận cảnh bàn thờ gia tiên (mâm ngũ quả, hoa tươi, nến, ảnh thờ).
+*    Lễ vật nhà trai mang đến (cơi trầu, cau, bánh trái, rượu...).
+*    Chi tiết trang trí (hoa, khăn trải bàn, các vật dụng truyền thống).
+
+#### **3\. Khoảnh Khắc Đón Tiếp**
+
+*    Nhà trai đến nhà gái: cảnh chào hỏi, bắt tay giữa hai gia đình.
+*    Cô dâu chú rể đứng cạnh nhau, nụ cười và ánh mắt trao nhau.
+*    Cận cảnh biểu cảm của các thành viên trong gia đình (niềm vui, sự xúc động).
+
+#### **4\. Nghi Thức Chính**
+
+*    Đại diện hai gia đình phát biểu, trao đổi lễ vật.
+*    Cận cảnh bàn tay trao lễ vật giữa hai bên.
+*    Cô dâu chú rể thắp hương trên bàn thờ gia tiên.
+*    Cảnh hai gia đình cùng ngồi bàn bạc, trao đổi kế hoạch cưới hỏi.
+
+#### **5\. Ảnh Gia Đình**
+
+*    Ảnh tập thể của hai gia đình (chụp cả nhóm và từng gia đình riêng lẻ nếu cần).
+*    Ảnh cô dâu chú rể với từng nhóm thành viên (bố mẹ, anh chị em, ông bà...).
+*    Ảnh cô dâu chú rể chụp riêng với nhau.
+
+#### **6\. Khoảnh Khắc Tự Nhiên**
+
+*    Cảnh mọi người trò chuyện, cười đùa tự nhiên.
+*    Những khoảnh khắc trẻ em hoặc người lớn tuổi trong gia đình (thể hiện sự gắn kết giữa các thế hệ).
+*    Cô dâu chú rể trao nhau ánh mắt, nụ cười hoặc những cử chỉ tình cảm.
+
+#### **7\. Kết Thúc Buổi Lễ**
+
+*    Cảnh nhà trai ra về (nếu có nghi thức tiễn khách).
+*    Chụp lại không gian sau buổi lễ (nếu cần để lưu giữ kỷ niệm).
+
+### **Lưu Ý Quan Trọng**
+
+*   **Giao tiếp liên tục**: Hỏi ý kiến cô dâu chú rể hoặc người đại diện gia đình nếu cần điều chỉnh góc chụp hoặc thêm ảnh.
+*   **Linh hoạt**: Sẵn sàng ứng biến với các tình huống bất ngờ, như thay đổi thời tiết hoặc ánh sáng.
+*   **Tập trung vào cảm xúc**: Những bức ảnh đẹp nhất thường là những khoảnh khắc tự nhiên, chân thật.
 
