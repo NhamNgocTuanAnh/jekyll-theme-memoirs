@@ -232,7 +232,51 @@ Lễ dạm ngõ không chỉ thể hiện sự tôn trọng giữa hai gia đìn
 
 Lễ dạm ngõ không chỉ là nghi thức mở đầu cho quá trình hôn nhân mà còn là dịp để hai gia đình gắn kết, tạo dựng mối quan hệ tốt đẹp. Đây cũng là cách để cha mẹ hai bên thể hiện sự quan tâm và chúc phúc cho hạnh phúc của con cái.
 
- ### **Checklist Chụp Ảnh Lễ Dạm Ngõ**
+## Lễ Dạm Ngõ: Chụp Những Gì và Các Lưu Ý
+
+ Lễ dạm ngõ là một nghi thức quan trọng trong phong tục cưới hỏi truyền thống của người Việt Nam. Đây là buổi gặp mặt chính thức giữa hai gia đình để bàn bạc về hôn lễ và các bước tiếp theo trong quá trình cưới xin . Là một thợ chụp ảnh chuyên nghiệp, bạn cần hiểu rõ ý nghĩa của buổi lễ để ghi lại những khoảnh khắc đẹp và ý nghĩa nhất.
+
+#### **Những Khoảnh Khắc Cần Chụp Trong Lễ Dạm Ngõ**
+
+1.  **Không gian chuẩn bị**:
+    *   Chụp không gian nhà cửa được trang trí gọn gàng, sạch sẽ. Nhà gái thường không cần trang trí cầu kỳ nhưng phải tạo cảm giác ấm cúng và trang trọng
+    *   Các lễ vật như cơi trầu, cau được phủ vải nhiễu đỏ (đây là lễ vật truyền thống mà nhà trai mang đến)
+2.  **Khoảnh khắc gặp gỡ**:
+    *   Chụp cảnh hai gia đình chào hỏi nhau, đặc biệt là khoảnh khắc đầu tiên khi nhà trai đến nhà gái.
+    *   Ghi lại hình ảnh cô dâu chú rể tương lai đứng cạnh nhau, thể hiện sự gắn kết.
+3.  **Lễ vật và bàn thờ gia tiên**:
+    *   Chụp cận cảnh lễ vật được trao đổi giữa hai bên.
+    *   Hình ảnh bàn thờ gia tiên được chuẩn bị chu đáo, với mâm ngũ quả, hoa tươi, và nến.
+4.  **Phát biểu và trao đổi**:
+    *   Ghi lại những khoảnh khắc đại diện hai gia đình phát biểu, bàn bạc về các mốc thời gian và kế hoạch cưới hỏi
+5.  **Ảnh gia đình**:
+    *   Chụp ảnh tập thể của hai gia đình để lưu giữ kỷ niệm.
+
+#### **Lưu Ý Khi Chụp Ảnh Lễ Dạm Ngõ**
+
+1.  **Hiểu rõ ý nghĩa buổi lễ**:
+    *   Lễ dạm ngõ mang ý nghĩa văn hóa nhiều hơn nghi thức, vì vậy cần tập trung vào cảm xúc và sự gắn kết giữa hai gia đình.
+2.  **Trang phục và phong cách**:
+    *   Hướng dẫn cô dâu chú rể và gia đình chọn trang phục phù hợp, lịch sự nhưng không quá cầu kỳ. Điều này giúp ảnh trông tự nhiên và hài hòa.
+3.  **Ánh sáng và góc chụp**:
+    *   Sử dụng ánh sáng tự nhiên nếu có thể, đặc biệt khi chụp trong không gian gia đình.
+    *   Chọn góc chụp thể hiện sự gần gũi, ấm áp, tránh góc quá xa hoặc quá nghiêng.
+4.  **Tương tác với khách hàng**:
+    *   Làm quen với các thành viên trong gia đình để tạo không khí thoải mái khi chụp.
+    *   Đừng quên hỏi ý kiến cô dâu chú rể về những khoảnh khắc họ muốn lưu giữ.
+5.  **Chuẩn bị kỹ lưỡng**:
+    *   Kiểm tra thiết bị trước khi đến buổi lễ, đảm bảo máy ảnh, ống kính, và đèn flash hoạt động tốt.
+    *   Mang theo pin và thẻ nhớ dự phòng để tránh gián đoạn.
+
+#### **Kinh Nghiệm Chụp Ảnh Cưới Nói Chung**
+
+*   **Kể câu chuyện qua ảnh**: Mỗi bức ảnh nên thể hiện một phần của câu chuyện tình yêu và hành trình cưới hỏi.
+*   **Tập trung vào cảm xúc**: Những khoảnh khắc tự nhiên, như nụ cười, ánh mắt, hay cái nắm tay, luôn là điểm nhấn.
+*   **Sáng tạo nhưng không quên truyền thống**: Kết hợp giữa phong cách hiện đại và các yếu tố truyền thống để tạo nên bộ ảnh độc đáo.
+
+Lễ dạm ngõ tuy đơn giản nhưng mang ý nghĩa sâu sắc. Là một thợ chụp ảnh, bạn không chỉ ghi lại hình ảnh mà còn giúp khách hàng lưu giữ những kỷ niệm đáng nhớ nhất trong hành trình hạnh phúc của họ!
+
+### **Checklist Chụp Ảnh Lễ Dạm Ngõ**
 
 Dưới đây là checklist chi tiết dành cho nhiếp ảnh gia để đảm bảo không bỏ sót bất kỳ khoảnh khắc quan trọng nào trong lễ dạm ngõ. Checklist này được thiết kế để dễ dàng theo dõi và thực hiện trong ngày chụp.
 
